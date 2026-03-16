@@ -1,0 +1,657 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29553_101085_12180",
+    "annotations": [
+        {
+            "decision": "Dyspnea on exertion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 235,
+            "end_offset": 254,
+            "annotation_id": "JX_000"
+        },
+        {
+            "decision": "Coronary Artery Bypass Graft x 2 (Left internal mammary artery to left anterior descending, Saphenous vein graft to diagonal)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 311,
+            "end_offset": 435,
+            "annotation_id": "JX_001"
+        },
+        {
+            "decision": "with end-stage renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 511,
+            "end_offset": 539,
+            "annotation_id": "JX_002"
+        },
+        {
+            "decision": "recently diagnosed with coronary artery disease of his left anterior descending artery and diagonal artery",
+            "category": "Category 3: Defining problem",
+            "start_offset": 549,
+            "end_offset": 655,
+            "annotation_id": "JX_003"
+        },
+        {
+            "decision": "end-stage renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 672,
+            "end_offset": 695,
+            "annotation_id": "JX_004"
+        },
+        {
+            "decision": "coronary bypass",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 729,
+            "end_offset": 744,
+            "annotation_id": "JX_005"
+        },
+        {
+            "decision": "DM Type I x 30 years",
+            "category": "Category 3: Defining problem",
+            "start_offset": 872,
+            "end_offset": 892,
+            "annotation_id": "JX_006"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 893,
+            "end_offset": 896,
+            "annotation_id": "JX_007"
+        },
+        {
+            "decision": "S/p L vitrectomy and R vitrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 897,
+            "end_offset": 930,
+            "annotation_id": "JX_008"
+        },
+        {
+            "decision": "diabetic loss of vision",
+            "category": "Category 3: Defining problem",
+            "start_offset": 932,
+            "end_offset": 955,
+            "annotation_id": "JX_009"
+        },
+        {
+            "decision": "ESRD on PD (recent baseline 6)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 957,
+            "end_offset": 986,
+            "annotation_id": "JX_010"
+        },
+        {
+            "decision": "Gallstones",
+            "category": "Category 3: Defining problem",
+            "start_offset": 988,
+            "end_offset": 998,
+            "annotation_id": "JX_011"
+        },
+        {
+            "decision": "s/p arthroscopic knee surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 999,
+            "end_offset": 1028,
+            "annotation_id": "JX_012"
+        },
+        {
+            "decision": "Diveriticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1029,
+            "end_offset": 1044,
+            "annotation_id": "JX_013"
+        },
+        {
+            "decision": "Well developed man in no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1608,
+            "end_offset": 1647,
+            "annotation_id": "JX_014"
+        },
+        {
+            "decision": "HEENT:  Rt cheek minimal induration, small central ulceration         present on most posterior lesion, other closed         Lt cheek multiple healing ulcerations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1689,
+            "end_offset": 1851,
+            "annotation_id": "JX_015"
+        },
+        {
+            "decision": "Neck:  no JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1852,
+            "end_offset": 1865,
+            "annotation_id": "JX_016"
+        },
+        {
+            "decision": "Lungs:  good air movement, no crackles or wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1866,
+            "end_offset": 1915,
+            "annotation_id": "JX_017"
+        },
+        {
+            "decision": "Cardiac:  RRR, no s3, s4 or murmurs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1916,
+            "end_offset": 1951,
+            "annotation_id": "JX_018"
+        },
+        {
+            "decision": "Ext:  1+ edema bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1952,
+            "end_offset": 1978,
+            "annotation_id": "JX_019"
+        },
+        {
+            "decision": "The left atrium is moderately dilated. No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage. A left atrial appendage thrombus cannot be excluded.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2034,
+            "end_offset": 2230,
+            "annotation_id": "JX_020"
+        },
+        {
+            "decision": "No thrombus is seen in the right atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2235,
+            "end_offset": 2284,
+            "annotation_id": "JX_021"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2288,
+            "end_offset": 2342,
+            "annotation_id": "JX_022"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is mildly dilated. No left ventricular aneurysm is seen. Overall left ventricular systolic function is mildly depressed (LVEF= 40 %).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2347,
+            "end_offset": 2558,
+            "annotation_id": "JX_023"
+        },
+        {
+            "decision": "The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. with borderline normal free wall function.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2566,
+            "end_offset": 2699,
+            "annotation_id": "JX_024"
+        },
+        {
+            "decision": "There are simple atheroma in the ascending aorta. There are simple atheroma in the aortic arch. There are simple atheroma in the descending thoracic aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2704,
+            "end_offset": 2858,
+            "annotation_id": "JX_025"
+        },
+        {
+            "decision": "minimal aortic valve stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3046,
+            "end_offset": 3075,
+            "annotation_id": "JX_026"
+        },
+        {
+            "decision": "There are three aortic valve leaflets. The aortic valve leaflets are moderately thickened. The NCC is calcified and nonmobile. There is a minimally increased gradient consistent with minimal aortic valve stenosis. Trace aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2863,
+            "end_offset": 3111,
+            "annotation_id": "JX_027"
+        },
+        {
+            "decision": "Trace aortic regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3077,
+            "end_offset": 3111,
+            "annotation_id": "JX_028"
+        },
+        {
+            "decision": "Mild (1+) mitral regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3116,
+            "end_offset": 3154,
+            "annotation_id": "JX_029"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) 914**] was notified in person of the results.",
+            "category": "Category 1: Contact related",
+            "start_offset": 3156,
+            "end_offset": 3226,
+            "annotation_id": "JX_030"
+        },
+        {
+            "decision": "POST-CPB: On infusion of phenylephrine, a-pacing. Preserved biventricular systolic function. LVEF is now 50%. MR remains mild. The aortic contour is normal post decannulation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3229,
+            "end_offset": 3403,
+            "annotation_id": "JX_031"
+        },
+        {
+            "decision": "for elective surgical management of his coronary artery disease",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4742,
+            "end_offset": 4805,
+            "annotation_id": "JX_032"
+        },
+        {
+            "decision": "surgery ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4837,
+            "end_offset": 4844,
+            "annotation_id": "JX_033"
+        },
+        {
+            "decision": "taken to the operating room",
+            "category": "Category 1: Contact related",
+            "start_offset": 4849,
+            "end_offset": 4876,
+            "annotation_id": "JX_034"
+        },
+        {
+            "decision": "underwent coronary artery bypass grafting to two vessels",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4886,
+            "end_offset": 4942,
+            "annotation_id": "JX_035"
+        },
+        {
+            "decision": "he was taken to the intensive care unit for invasive hemodynamic monitoring",
+            "category": "Category 1: Contact related",
+            "start_offset": 4999,
+            "end_offset": 5074,
+            "annotation_id": "JX_036"
+        },
+        {
+            "decision": "awoke neurologically intact ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5123,
+            "end_offset": 5150,
+            "annotation_id": "JX_037"
+        },
+        {
+            "decision": "extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5159,
+            "end_offset": 5168,
+            "annotation_id": "JX_038"
+        },
+        {
+            "decision": "transferred to the step down unit for further recovery",
+            "category": "Category 1: Contact related",
+            "start_offset": 5203,
+            "end_offset": 5257,
+            "annotation_id": "JX_039"
+        },
+        {
+            "decision": "gently diuresed towards his preoperative weight",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5289,
+            "end_offset": 5336,
+            "annotation_id": "JX_040"
+        },
+        {
+            "decision": "physical therapy service was consulted for assistance with his postoperative strength and mobility. ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5342,
+            "end_offset": 5440,
+            "annotation_id": "JX_041"
+        },
+        {
+            "decision": "He continued his peritoneal dialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5443,
+            "end_offset": 5479,
+            "annotation_id": "JX_042"
+        },
+        {
+            "decision": "serous and serosangeuenous drainage was noted ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5508,
+            "end_offset": 5553,
+            "annotation_id": "JX_043"
+        },
+        {
+            "decision": "started on 7 days of prophylactic Keflex",
+            "category": "Category 5: Drug related",
+            "start_offset": 5574,
+            "end_offset": 5614,
+            "annotation_id": "JX_044"
+        },
+        {
+            "decision": "progressed well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5619,
+            "end_offset": 5634,
+            "annotation_id": "JX_045"
+        },
+        {
+            "decision": "stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5655,
+            "end_offset": 5661,
+            "annotation_id": "JX_046"
+        },
+        {
+            "decision": "Norvasc 10'",
+            "category": "Category 5: Drug related",
+            "start_offset": 5717,
+            "end_offset": 5727,
+            "annotation_id": "JX_047"
+        },
+        {
+            "decision": "calcitrol 0.25'",
+            "category": "Category 5: Drug related",
+            "start_offset": 5730,
+            "end_offset": 5744,
+            "annotation_id": "JX_048"
+        },
+        {
+            "decision": "phoslo 666\", ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5747,
+            "end_offset": 5757,
+            "annotation_id": "JX_049"
+        },
+        {
+            "decision": "lasix 80\", ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5760,
+            "end_offset": 5768,
+            "annotation_id": "JX_050"
+        },
+        {
+            "decision": "gabapentin 600\",",
+            "category": "Category 5: Drug related",
+            "start_offset": 5771,
+            "end_offset": 5785,
+            "annotation_id": "JX_051"
+        },
+        {
+            "decision": "B-complex, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5788,
+            "end_offset": 5797,
+            "annotation_id": "JX_052"
+        },
+        {
+            "decision": "folic acid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5799,
+            "end_offset": 5809,
+            "annotation_id": "JX_053"
+        },
+        {
+            "decision": "cinacalet 30'",
+            "category": "Category 5: Drug related",
+            "start_offset": 5811,
+            "end_offset": 5823,
+            "annotation_id": "JX_054"
+        },
+        {
+            "decision": "lantus",
+            "category": "Category 5: Drug related",
+            "start_offset": 5826,
+            "end_offset": 5832,
+            "annotation_id": "JX_055"
+        },
+        {
+            "decision": "humalog",
+            "category": "Category 5: Drug related",
+            "start_offset": 5834,
+            "end_offset": 5841,
+            "annotation_id": "JX_056"
+        },
+        {
+            "decision": "labetolol 200\"",
+            "category": "Category 5: Drug related",
+            "start_offset": 5843,
+            "end_offset": 5856,
+            "annotation_id": "JX_057"
+        },
+        {
+            "decision": "asa 81'",
+            "category": "Category 5: Drug related",
+            "start_offset": 5859,
+            "end_offset": 5865,
+            "annotation_id": "JX_058"
+        },
+        {
+            "decision": "mvi",
+            "category": "Category 5: Drug related",
+            "start_offset": 5868,
+            "end_offset": 5871,
+            "annotation_id": "JX_059"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5899,
+            "end_offset": 6061,
+            "annotation_id": "JX_060"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): Please take as long as you take narcotics for pain. Disp:*60 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6065,
+            "end_offset": 6225,
+            "annotation_id": "JX_061"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6229,
+            "end_offset": 6360,
+            "annotation_id": "JX_062"
+        },
+        {
+            "decision": "Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day). Disp:*120 Capsule(s)* Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 6364,
+            "end_offset": 6467,
+            "annotation_id": "JX_063"
+        },
+        {
+            "decision": "B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY (Daily). Disp:*30 Cap(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6472,
+            "end_offset": 6566,
+            "annotation_id": "JX_064"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6570,
+            "end_offset": 6662,
+            "annotation_id": "JX_065"
+        },
+        {
+            "decision": "Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6666,
+            "end_offset": 6765,
+            "annotation_id": "JX_066"
+        },
+        {
+            "decision": "Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6769,
+            "end_offset": 6862,
+            "annotation_id": "JX_067"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6866,
+            "end_offset": 6974,
+            "annotation_id": "JX_068"
+        },
+        {
+            "decision": "Cephalexin 250 mg Capsule Sig: Two (2) Capsule PO Q24H (every 24 hours) for 7 days. Disp:*14 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6979,
+            "end_offset": 7095,
+            "annotation_id": "JX_069"
+        },
+        {
+            "decision": "Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7100,
+            "end_offset": 7198,
+            "annotation_id": "JX_070"
+        },
+        {
+            "decision": "[**Hospital 119**] Homecare",
+            "category": "Category 1: Contact related",
+            "start_offset": 7253,
+            "end_offset": 7280,
+            "annotation_id": "JX_071"
+        },
+        {
+            "decision": "Coronary Artery Disease s/p Coronary Artery Bypass Graft x 2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7303,
+            "end_offset": 7363,
+            "annotation_id": "JX_072"
+        },
+        {
+            "decision": "DM Type I x 30 years",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7370,
+            "end_offset": 7390,
+            "annotation_id": "JX_073"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7392,
+            "end_offset": 7395,
+            "annotation_id": "JX_074"
+        },
+        {
+            "decision": "S/p L vitrectomy and R vitrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7397,
+            "end_offset": 7430,
+            "annotation_id": "JX_075"
+        },
+        {
+            "decision": "diabetic loss of vision",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7432,
+            "end_offset": 7455,
+            "annotation_id": "JX_076"
+        },
+        {
+            "decision": "ESRD on PD (recent baseline 6",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7458,
+            "end_offset": 7487,
+            "annotation_id": "JX_077"
+        },
+        {
+            "decision": "Gallstones",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7490,
+            "end_offset": 7500,
+            "annotation_id": "JX_078"
+        },
+        {
+            "decision": "s/p arthroscopic knee surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7502,
+            "end_offset": 7531,
+            "annotation_id": "JX_079"
+        },
+        {
+            "decision": "Diveriticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7533,
+            "end_offset": 7548,
+            "annotation_id": "JX_080"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7572,
+            "end_offset": 7576,
+            "annotation_id": "JX_081"
+        },
+        {
+            "decision": "Please shower daily including washing incisions, no baths or swimming",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7603,
+            "end_offset": 7672,
+            "annotation_id": "JX_082"
+        },
+        {
+            "decision": "Monitor wounds for infection - redness, drainage, or increased pain",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7673,
+            "end_offset": 7740,
+            "annotation_id": "JX_083"
+        },
+        {
+            "decision": "Report any fever greater than 101",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7741,
+            "end_offset": 7774,
+            "annotation_id": "JX_084"
+        },
+        {
+            "decision": "Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7775,
+            "end_offset": 7856,
+            "annotation_id": "JX_085"
+        },
+        {
+            "decision": "No creams, lotions, powders, or ointments to incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7857,
+            "end_offset": 7911,
+            "annotation_id": "JX_086"
+        },
+        {
+            "decision": "No driving for approximately one month",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7912,
+            "end_offset": 7950,
+            "annotation_id": "JX_087"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7951,
+            "end_offset": 7994,
+            "annotation_id": "JX_088"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7995,
+            "end_offset": 8065,
+            "annotation_id": "JX_089"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) 914**] in 4 weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 8090,
+            "end_offset": 8133,
+            "annotation_id": "JX_090"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] in [**1-20**] weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 8134,
+            "end_offset": 8183,
+            "annotation_id": "JX_091"
+        },
+        {
+            "decision": "Please schedule appointments",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8184,
+            "end_offset": 8212,
+            "annotation_id": "JX_092"
+        }
+    ]
+}

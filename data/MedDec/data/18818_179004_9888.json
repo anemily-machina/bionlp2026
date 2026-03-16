@@ -1,0 +1,1007 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "18818_179004_9888",
+    "annotations": [
+        {
+            "decision": "3-day history of gross hemoptysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 210,
+            "end_offset": 243,
+            "annotation_id": "EH_000"
+        },
+        {
+            "decision": "congestive heart failure with large bilateral pleural effusions, responded well to diuresis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 336,
+            "end_offset": 427,
+            "annotation_id": "EH_001"
+        },
+        {
+            "decision": "transthoracic echocardiogram was done at that time revealing moderate aortic stenosis, tricuspid regurgitation, mild mitral regurgitation, and severe pulmonary hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 432,
+            "end_offset": 604,
+            "annotation_id": "EH_002"
+        },
+        {
+            "decision": "chest x-ray showed left lower lobe infiltrate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 838,
+            "end_offset": 883,
+            "annotation_id": "EH_003"
+        },
+        {
+            "decision": "The patient was afebrile at that time.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 886,
+            "end_offset": 923,
+            "annotation_id": "EH_004"
+        },
+        {
+            "decision": "was not anticoagulated, and she had stopped taking aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 947,
+            "end_offset": 1005,
+            "annotation_id": "EH_005"
+        },
+        {
+            "decision": "She was started on levofloxacin and Flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1147,
+            "end_offset": 1189,
+            "annotation_id": "EH_006"
+        },
+        {
+            "decision": "questionable pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1210,
+            "end_offset": 1232,
+            "annotation_id": "EH_007"
+        },
+        {
+            "decision": "she underwent bronchoscopy which revealed a brisk bleed in the left lower lobe with overflow of blood into the right lower lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1256,
+            "end_offset": 1383,
+            "annotation_id": "EH_008"
+        },
+        {
+            "decision": "No definite lesions were seen at that time",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1386,
+            "end_offset": 1428,
+            "annotation_id": "EH_009"
+        },
+        {
+            "decision": "She remained hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1431,
+            "end_offset": 1466,
+            "annotation_id": "EH_010"
+        },
+        {
+            "decision": "hematocrit drop from 36 to 30",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1477,
+            "end_offset": 1506,
+            "annotation_id": "EH_011"
+        },
+        {
+            "decision": "transferred to [**Hospital1 69**] for further management.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1521,
+            "end_offset": 1577,
+            "annotation_id": "EH_012"
+        },
+        {
+            "decision": "Congestive heart failure, diastolic dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1798,
+            "end_offset": 1845,
+            "annotation_id": "EH_013"
+        },
+        {
+            "decision": "Status post left carotid endarterectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1852,
+            "end_offset": 1891,
+            "annotation_id": "EH_014"
+        },
+        {
+            "decision": "Status post cerebrovascular accident ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1898,
+            "end_offset": 1934,
+            "annotation_id": "EH_015"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1960,
+            "end_offset": 1983,
+            "annotation_id": "EH_016"
+        },
+        {
+            "decision": "status post myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1985,
+            "end_offset": 2018,
+            "annotation_id": "EH_017"
+        },
+        {
+            "decision": "status post percutaneous transluminal coronary angioplasty in [**2171**] of right coronary artery ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2020,
+            "end_offset": 2117,
+            "annotation_id": "EH_018"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2145,
+            "end_offset": 2157,
+            "annotation_id": "EH_019"
+        },
+        {
+            "decision": "Non-insulin-dependent diabetes mellitus for 14 years",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2164,
+            "end_offset": 2216,
+            "annotation_id": "EH_020"
+        },
+        {
+            "decision": "Status post pelvic fracture in [**2178-4-26**] secondary to fall.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2223,
+            "end_offset": 2287,
+            "annotation_id": "EH_021"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2294,
+            "end_offset": 2308,
+            "annotation_id": "EH_022"
+        },
+        {
+            "decision": "Hypomagnesemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2315,
+            "end_offset": 2329,
+            "annotation_id": "EH_023"
+        },
+        {
+            "decision": "Rheumatic fever",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2336,
+            "end_offset": 2351,
+            "annotation_id": "EH_024"
+        },
+        {
+            "decision": "Iron deficiency anemia, recent diagnosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2358,
+            "end_offset": 2398,
+            "annotation_id": "EH_025"
+        },
+        {
+            "decision": "Status post tonsillectomy and adenoidectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2405,
+            "end_offset": 2448,
+            "annotation_id": "EH_026"
+        },
+        {
+            "decision": "Status post bladder suspension and rectocele repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2455,
+            "end_offset": 2506,
+            "annotation_id": "EH_027"
+        },
+        {
+            "decision": "Bilateral inguinal hernia repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2532,
+            "end_offset": 2564,
+            "annotation_id": "EH_028"
+        },
+        {
+            "decision": "History of self-limited hemoptysis four years ago",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2585,
+            "end_offset": 2634,
+            "annotation_id": "EH_029"
+        },
+        {
+            "decision": "Chronic obstructive pulmonary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2641,
+            "end_offset": 2678,
+            "annotation_id": "EH_030"
+        },
+        {
+            "decision": "From [**Hospital 26200**] Hospital",
+            "category": "Category 1: Contact related",
+            "start_offset": 2708,
+            "end_offset": 2742,
+            "annotation_id": "EH_031"
+        },
+        {
+            "decision": "Magnesium oxide 400 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2749,
+            "end_offset": 2782,
+            "annotation_id": "EH_032"
+        },
+        {
+            "decision": "Ditropan-XL 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2789,
+            "end_offset": 2815,
+            "annotation_id": "EH_033"
+        },
+        {
+            "decision": "Lisinopril 20 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2822,
+            "end_offset": 2849,
+            "annotation_id": "EH_034"
+        },
+        {
+            "decision": "Glucophage 500 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2856,
+            "end_offset": 2882,
+            "annotation_id": "EH_035"
+        },
+        {
+            "decision": "Lasix 80 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2889,
+            "end_offset": 2909,
+            "annotation_id": "EH_036"
+        },
+        {
+            "decision": "Lopressor 100 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2916,
+            "end_offset": 2943,
+            "annotation_id": "EH_037"
+        },
+        {
+            "decision": "Wellbutrin-SR 150 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2950,
+            "end_offset": 2981,
+            "annotation_id": "EH_038"
+        },
+        {
+            "decision": "Flagyl 500 mg intravenously q.6h. (day two).",
+            "category": "Category 5: Drug related",
+            "start_offset": 2988,
+            "end_offset": 3030,
+            "annotation_id": "EH_039"
+        },
+        {
+            "decision": "Levaquin 500 mg intravenously q.d. (day two).",
+            "category": "Category 5: Drug related",
+            "start_offset": 3038,
+            "end_offset": 3081,
+            "annotation_id": "EH_040"
+        },
+        {
+            "decision": "Amaryl 4 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3089,
+            "end_offset": 3109,
+            "annotation_id": "EH_041"
+        },
+        {
+            "decision": "Sublingual nitroglycerin p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3116,
+            "end_offset": 3146,
+            "annotation_id": "EH_042"
+        },
+        {
+            "decision": "nontoxic, alert and oriented times three, in no acute distress with a raspy voice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3985,
+            "end_offset": 4066,
+            "annotation_id": "EH_043"
+        },
+        {
+            "decision": "Head and neck examination revealed no jugular venous distention.  Bilateral carotid bruits versus transmitted murmur. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4069,
+            "end_offset": 4185,
+            "annotation_id": "EH_044"
+        },
+        {
+            "decision": "Mucous membranes were dry.  Tongue was red with dry blood.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4188,
+            "end_offset": 4245,
+            "annotation_id": "EH_045"
+        },
+        {
+            "decision": "Lungs had decreased anterior motion and faint crackles in right lower lobe, dullness at left lower lobe.  Otherwise clear to auscultation bilaterally. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4248,
+            "end_offset": 4397,
+            "annotation_id": "EH_046"
+        },
+        {
+            "decision": "Cardiovascular revealed a 2/6 systolic ejection murmur at the right upper sternal border with harsh crescendo-decrescendo, a 2/6 systolic ejection murmur at the left sternal border, a regular rate and rhythm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4400,
+            "end_offset": 4607,
+            "annotation_id": "EH_047"
+        },
+        {
+            "decision": "Normal first heart sound and second heart sound auscultated. No audible third heart sound.  Soft fourth heart sound (equivocal). ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4609,
+            "end_offset": 4735,
+            "annotation_id": "EH_048"
+        },
+        {
+            "decision": "Abdomen was soft, nontender, and nondistended, good bowel sounds in all four quadrants.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4739,
+            "end_offset": 4825,
+            "annotation_id": "EH_049"
+        },
+        {
+            "decision": "Extremities revealed 2+ distal pulses.  No edema. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4828,
+            "end_offset": 4876,
+            "annotation_id": "EH_050"
+        },
+        {
+            "decision": "Neurologic examination was nonfocal. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4879,
+            "end_offset": 4914,
+            "annotation_id": "EH_051"
+        },
+        {
+            "decision": "Electrocardiogram dated [**12-9**] from outside hospital revealed normal sinus rhythm at 77 beats per minute, axis -40 degrees, borderline first-degree AV block, Q wave in III and aVF, 1-mm ST segment elevation in lead III and aVF (old), 1-mm ST segment depression in I and aVL, V2 through V5 (old).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5394,
+            "end_offset": 5691,
+            "annotation_id": "EH_052"
+        },
+        {
+            "decision": "A chest x-ray from outside hospital revealed left-sided consolidation, enlarged cardiac silhouette, no obvious mass. No congestive heart failure.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5695,
+            "end_offset": 5839,
+            "annotation_id": "EH_053"
+        },
+        {
+            "decision": "emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5920,
+            "end_offset": 5929,
+            "annotation_id": "EH_054"
+        },
+        {
+            "decision": "Chest CT from outside hospital revealed left lingular consolidation, areas of emphysema.  No mass.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5842,
+            "end_offset": 5939,
+            "annotation_id": "EH_055"
+        },
+        {
+            "decision": "3-day history of hemoptysis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6016,
+            "end_offset": 6043,
+            "annotation_id": "EH_056"
+        },
+        {
+            "decision": "hematocrit drop from 36 to 29",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6051,
+            "end_offset": 6080,
+            "annotation_id": "EH_057"
+        },
+        {
+            "decision": "status post bronchoscopy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6082,
+            "end_offset": 6106,
+            "annotation_id": "EH_058"
+        },
+        {
+            "decision": "transfer to Medical Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 6122,
+            "end_offset": 6161,
+            "annotation_id": "EH_059"
+        },
+        {
+            "decision": "The bronchoscopy showed a \"brisk bleed\" in the left lower lobe with spillage into the right lower lobe.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6164,
+            "end_offset": 6266,
+            "annotation_id": "EH_060"
+        },
+        {
+            "decision": "hemodynamically stable without active hemoptysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6298,
+            "end_offset": 6346,
+            "annotation_id": "EH_061"
+        },
+        {
+            "decision": "hemoptysis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6383,
+            "end_offset": 6393,
+            "annotation_id": "EH_062"
+        },
+        {
+            "decision": "Bronchogenic carcinoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6448,
+            "end_offset": 6470,
+            "annotation_id": "EH_063"
+        },
+        {
+            "decision": "history of smoking and weight loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6481,
+            "end_offset": 6515,
+            "annotation_id": "EH_064"
+        },
+        {
+            "decision": "no mass was identified by bronchoscopy or CT.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6526,
+            "end_offset": 6570,
+            "annotation_id": "EH_065"
+        },
+        {
+            "decision": "Infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6578,
+            "end_offset": 6587,
+            "annotation_id": "EH_066"
+        },
+        {
+            "decision": "afebrile",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6614,
+            "end_offset": 6622,
+            "annotation_id": "EH_067"
+        },
+        {
+            "decision": "normal white blood cell count",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6628,
+            "end_offset": 6657,
+            "annotation_id": "EH_068"
+        },
+        {
+            "decision": "loculated abscess or fungus ball",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6689,
+            "end_offset": 6721,
+            "annotation_id": "EH_069"
+        },
+        {
+            "decision": "Pulmonary embolus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6729,
+            "end_offset": 6746,
+            "annotation_id": "EH_070"
+        },
+        {
+            "decision": "Pulmonary hypertension of unclear etiology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6805,
+            "end_offset": 6847,
+            "annotation_id": "EH_071"
+        },
+        {
+            "decision": "Mitral regurgitation or mitral stenosis given her history of rheumatic fever.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6855,
+            "end_offset": 6931,
+            "annotation_id": "EH_072"
+        },
+        {
+            "decision": "Arteriovenous malformation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6939,
+            "end_offset": 6965,
+            "annotation_id": "EH_073"
+        },
+        {
+            "decision": "instability and risk of embolus from her diseased and calcified aorta",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6999,
+            "end_offset": 7068,
+            "annotation_id": "EH_074"
+        },
+        {
+            "decision": "Intensive Care Unit team held off on getting a bronchial arteriogram",
+            "category": "Category 8: Deferment",
+            "start_offset": 7082,
+            "end_offset": 7150,
+            "annotation_id": "EH_075"
+        },
+        {
+            "decision": "The patient was given supplemental oxygen to keep her oxygen saturation above 92%.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7209,
+            "end_offset": 7289,
+            "annotation_id": "EH_076"
+        },
+        {
+            "decision": "consider intubation with a double lumen endotracheal tube with selective intubation of the right main stem bronchus with positioning of the patient in the left lateral decubitus position",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7345,
+            "end_offset": 7531,
+            "annotation_id": "EH_077"
+        },
+        {
+            "decision": "albuterol and Atrovent nebulizer therapy p.r.n.   ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7556,
+            "end_offset": 7602,
+            "annotation_id": "EH_078"
+        },
+        {
+            "decision": "plan was for Interventional Radiology to perform an angiogram",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7610,
+            "end_offset": 7671,
+            "annotation_id": "EH_079"
+        },
+        {
+            "decision": "acute hematocrit drop",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7694,
+            "end_offset": 7715,
+            "annotation_id": "EH_080"
+        },
+        {
+            "decision": "A chest x-ray was done showing no change from the prior study with left-sided consolidation.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7718,
+            "end_offset": 7809,
+            "annotation_id": "EH_081"
+        },
+        {
+            "decision": "episode of submassive hemoptysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7872,
+            "end_offset": 7904,
+            "annotation_id": "EH_082"
+        },
+        {
+            "decision": "A bronchoscopy was done showing 100 cc of blood from the area of the left lingula spilling into the right main stem bronchus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7907,
+            "end_offset": 8031,
+            "annotation_id": "EH_083"
+        },
+        {
+            "decision": "Cardiothoracic Surgery and Interventional Radiology were aware of the case and were on board in case of a massive bleed",
+            "category": "Category 1: Contact related",
+            "start_offset": 8034,
+            "end_offset": 8153,
+            "annotation_id": "EH_084"
+        },
+        {
+            "decision": "no further hemoptysis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8196,
+            "end_offset": 8217,
+            "annotation_id": "EH_085"
+        },
+        {
+            "decision": "hemodynamically stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8255,
+            "end_offset": 8277,
+            "annotation_id": "EH_086"
+        },
+        {
+            "decision": "no further episodes of hemoptysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8341,
+            "end_offset": 8374,
+            "annotation_id": "EH_087"
+        },
+        {
+            "decision": "hematocrit remained stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8379,
+            "end_offset": 8405,
+            "annotation_id": "EH_088"
+        },
+        {
+            "decision": "Chest CT from the outside hospital was reviewed, showing cystic spaces in the left lingula with dense infiltration with mediastinal adenopathy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8408,
+            "end_offset": 8550,
+            "annotation_id": "EH_089"
+        },
+        {
+            "decision": "The differential diagnosis of the findings included tuberculosis, fungal etiology, cancer, bronchiectasis, arteriovenous malformation, septic emboli, and vasculitis.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8553,
+            "end_offset": 8717,
+            "annotation_id": "EH_090"
+        },
+        {
+            "decision": "However, the cystic lesions were presumed to likely be old secondary to pre-existing left lower lobe bullous disease, and the rest of the left lingular disease was presumed to be secondary to pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8720,
+            "end_offset": 8921,
+            "annotation_id": "EH_091"
+        },
+        {
+            "decision": "Thus, cancer, vasculitis, and arteriovenous malformation were presumed to be much less likely. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8924,
+            "end_offset": 9017,
+            "annotation_id": "EH_092"
+        },
+        {
+            "decision": "continued on Levaquin and Flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9036,
+            "end_offset": 9068,
+            "annotation_id": "EH_093"
+        },
+        {
+            "decision": "presumed pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9075,
+            "end_offset": 9093,
+            "annotation_id": "EH_094"
+        },
+        {
+            "decision": "The patient's hemoptysis was presumed to be secondary to a pneumonic process as well as pulmonary hypertension of unknown etiology.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9096,
+            "end_offset": 9226,
+            "annotation_id": "EH_095"
+        },
+        {
+            "decision": "DYSPNEA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9233,
+            "end_offset": 9240,
+            "annotation_id": "EH_096"
+        },
+        {
+            "decision": "baseline chronic obstructive pulmonary disease and was presenting with hemoptysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9273,
+            "end_offset": 9354,
+            "annotation_id": "EH_097"
+        },
+        {
+            "decision": "continued on oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9373,
+            "end_offset": 9392,
+            "annotation_id": "EH_098"
+        },
+        {
+            "decision": "goal oxygen saturation of greater than 92%.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 9400,
+            "end_offset": 9441,
+            "annotation_id": "EH_099"
+        },
+        {
+            "decision": "continued on p.r.n. albuterol and Atrovent nebulizer therapy",
+            "category": "Category 5: Drug related",
+            "start_offset": 9461,
+            "end_offset": 9521,
+            "annotation_id": "EH_100"
+        },
+        {
+            "decision": "HYPERTENSION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9528,
+            "end_offset": 9540,
+            "annotation_id": "EH_101"
+        },
+        {
+            "decision": "continued on Lopressor, Lasix, and lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 9559,
+            "end_offset": 9604,
+            "annotation_id": "EH_102"
+        },
+        {
+            "decision": "keep the patient's blood pressure below 140 ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 9678,
+            "end_offset": 9721,
+            "annotation_id": "EH_103"
+        },
+        {
+            "decision": "nitroglycerin paste was added as needed to keep the patient's blood pressure below 140 with adequate blood pressure control.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9635,
+            "end_offset": 9758,
+            "annotation_id": "EH_104"
+        },
+        {
+            "decision": "patient's blood pressure was stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9765,
+            "end_offset": 9800,
+            "annotation_id": "EH_105"
+        },
+        {
+            "decision": "stable for the remainder of her admission.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9834,
+            "end_offset": 9875,
+            "annotation_id": "EH_106"
+        },
+        {
+            "decision": "transfused 2 units of packed red blood cells.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9987,
+            "end_offset": 10031,
+            "annotation_id": "EH_107"
+        },
+        {
+            "decision": "Aspirin was put on hold",
+            "category": "Category 5: Drug related",
+            "start_offset": 10034,
+            "end_offset": 10057,
+            "annotation_id": "EH_108"
+        },
+        {
+            "decision": "Hematocrit was checked every six hours",
+            "category": "Category 11: Other - Monitoring labs",
+            "start_offset": 10059,
+            "end_offset": 10097,
+            "annotation_id": "EH_109"
+        },
+        {
+            "decision": "Transfusion parameters were set at 30",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10100,
+            "end_offset": 10137,
+            "annotation_id": "EH_110"
+        },
+        {
+            "decision": "history of coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10159,
+            "end_offset": 10193,
+            "annotation_id": "EH_111"
+        },
+        {
+            "decision": "Hematocrit on transfer to the floor was stable and continued to remain stable throughout the remainder of the hospital course.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10196,
+            "end_offset": 10321,
+            "annotation_id": "EH_112"
+        },
+        {
+            "decision": "patient's hematocrit drop",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10415,
+            "end_offset": 10440,
+            "annotation_id": "EH_113"
+        },
+        {
+            "decision": "gastrointestinal bleed was not presumed to be contributing to the patient's hematocrit drop",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10349,
+            "end_offset": 10440,
+            "annotation_id": "EH_114"
+        },
+        {
+            "decision": "continued on Protonix 40 mg p.o. q.d.   ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10458,
+            "end_offset": 10494,
+            "annotation_id": "EH_115"
+        },
+        {
+            "decision": "arranged to have an outpatient colonoscopy and endoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10514,
+            "end_offset": 10570,
+            "annotation_id": "EH_116"
+        },
+        {
+            "decision": "follow up with her primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 33175**], regarding this matter.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10582,
+            "end_offset": 10711,
+            "annotation_id": "EH_117"
+        },
+        {
+            "decision": "transfer to the Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 10733,
+            "end_offset": 10768,
+            "annotation_id": "EH_118"
+        },
+        {
+            "decision": "The patient was continued on regular insulin sliding-scale and oral hypoglycemics (Glucophage and Amaryl) were put on hold.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10798,
+            "end_offset": 10920,
+            "annotation_id": "EH_119"
+        },
+        {
+            "decision": "Glucophage and Amaryl were restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 10992,
+            "end_offset": 11028,
+            "annotation_id": "EH_120"
+        },
+        {
+            "decision": "patient had adequate glucose control",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11035,
+            "end_offset": 11071,
+            "annotation_id": "EH_121"
+        },
+        {
+            "decision": "continued on her Lasix 80 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11121,
+            "end_offset": 11158,
+            "annotation_id": "EH_122"
+        },
+        {
+            "decision": "patient's creatinine was noted to mildly increase from 0.7 to 1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11191,
+            "end_offset": 11254,
+            "annotation_id": "EH_123"
+        },
+        {
+            "decision": "Creatinine was then noted to decrease to 0.9.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11364,
+            "end_offset": 11408,
+            "annotation_id": "EH_124"
+        },
+        {
+            "decision": "The patient was encouraged to continue good p.o. intake on discharge home.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11411,
+            "end_offset": 11484,
+            "annotation_id": "EH_125"
+        },
+        {
+            "decision": "continued on Protonix, Pneumo boots, and Colace.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11521,
+            "end_offset": 11568,
+            "annotation_id": "EH_126"
+        },
+        {
+            "decision": "Condition on discharge was stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11644,
+            "end_offset": 11677,
+            "annotation_id": "EH_127"
+        },
+        {
+            "decision": "home physical therapy and [**Hospital6 407**] services.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11731,
+            "end_offset": 11785,
+            "annotation_id": "EH_128"
+        },
+        {
+            "decision": "Hemoptysis presumably secondary to pneumonia and pulmonary hypertension of unknown etiology.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11811,
+            "end_offset": 11902,
+            "annotation_id": "EH_129"
+        },
+        {
+            "decision": "Metoprolol 100 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11936,
+            "end_offset": 11964,
+            "annotation_id": "EH_130"
+        },
+        {
+            "decision": "Wellbutrin 150 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11971,
+            "end_offset": 11999,
+            "annotation_id": "EH_131"
+        },
+        {
+            "decision": "Lisinopril 20 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12006,
+            "end_offset": 12033,
+            "annotation_id": "EH_132"
+        },
+        {
+            "decision": "Magnesium oxide 400 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12040,
+            "end_offset": 12071,
+            "annotation_id": "EH_133"
+        },
+        {
+            "decision": "Glucophage 500 mg p.o. q.p.m.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12078,
+            "end_offset": 12106,
+            "annotation_id": "EH_134"
+        },
+        {
+            "decision": "Amaryl 4 mg p.o. q.a.m.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12113,
+            "end_offset": 12135,
+            "annotation_id": "EH_135"
+        },
+        {
+            "decision": "Vitamin C and vitamin E.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12142,
+            "end_offset": 12165,
+            "annotation_id": "EH_136"
+        },
+        {
+            "decision": "Ditropan 10 mg p.o. q.p.m.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12172,
+            "end_offset": 12197,
+            "annotation_id": "EH_137"
+        },
+        {
+            "decision": "Aspirin 325 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12204,
+            "end_offset": 12227,
+            "annotation_id": "EH_138"
+        },
+        {
+            "decision": "Lipitor 20 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12234,
+            "end_offset": 12256,
+            "annotation_id": "EH_139"
+        },
+        {
+            "decision": "Multivitamin 1 tablet p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12263,
+            "end_offset": 12295,
+            "annotation_id": "EH_140"
+        },
+        {
+            "decision": "Lasix 80 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12302,
+            "end_offset": 12322,
+            "annotation_id": "EH_141"
+        },
+        {
+            "decision": "Peri-Colace p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12329,
+            "end_offset": 12346,
+            "annotation_id": "EH_142"
+        }
+    ]
+}

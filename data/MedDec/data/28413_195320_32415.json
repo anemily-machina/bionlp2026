@@ -1,0 +1,657 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "28413_195320_32415",
+    "annotations": [
+        {
+            "decision": "chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 283,
+            "end_offset": 293,
+            "annotation_id": "JD_000"
+        },
+        {
+            "decision": "Cardiac Catheterization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 333,
+            "end_offset": 356,
+            "annotation_id": "JD_001"
+        },
+        {
+            "decision": "hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 429,
+            "end_offset": 441,
+            "annotation_id": "JD_002"
+        },
+        {
+            "decision": "ST elevations in inferior leads",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 958,
+            "end_offset": 989,
+            "annotation_id": "JD_003"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 1009,
+            "end_offset": 1042,
+            "annotation_id": "JD_004"
+        },
+        {
+            "decision": "Aspirin 325 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 1075,
+            "end_offset": 1089,
+            "annotation_id": "JD_005"
+        },
+        {
+            "decision": "plavix 600 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 1091,
+            "end_offset": 1104,
+            "annotation_id": "JD_006"
+        },
+        {
+            "decision": "heparin 5000 U followed by 1000 U per hour",
+            "category": "Category 5: Drug related",
+            "start_offset": 1106,
+            "end_offset": 1148,
+            "annotation_id": "JD_007"
+        },
+        {
+            "decision": "he was immediately taken to the cath lab",
+            "category": "Category 1: Contact related",
+            "start_offset": 1186,
+            "end_offset": 1226,
+            "annotation_id": "JD_008"
+        },
+        {
+            "decision": "RCA occlusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1248,
+            "end_offset": 1261,
+            "annotation_id": "JD_009"
+        },
+        {
+            "decision": "stented with a BMS.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1271,
+            "end_offset": 1289,
+            "annotation_id": "JD_010"
+        },
+        {
+            "decision": "REVIEW OF SYSTEMS: He may have had exertional leg pain, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1294,
+            "end_offset": 1469,
+            "annotation_id": "JD_011"
+        },
+        {
+            "decision": "He denies recent fevers, chills or rigors.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1471,
+            "end_offset": 1512,
+            "annotation_id": "JD_012"
+        },
+        {
+            "decision": "He has had dyspnea on exertion for the last 2 weeks",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1514,
+            "end_offset": 1565,
+            "annotation_id": "JD_013"
+        },
+        {
+            "decision": "All of the other review of systems were negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1567,
+            "end_offset": 1615,
+            "annotation_id": "JD_014"
+        },
+        {
+            "decision": "Current cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, orthopnea, PND, ankle edema, palpitations, syncope or presyncope",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1619,
+            "end_offset": 1776,
+            "annotation_id": "JD_015"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1802,
+            "end_offset": 1814,
+            "annotation_id": "JD_016"
+        },
+        {
+            "decision": "History of cognitive impairment",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1815,
+            "end_offset": 1846,
+            "annotation_id": "JD_017"
+        },
+        {
+            "decision": "Gen: WDWN middle aged obese male in NAD, resp or otherwise. Oriented x3. Mood, affect appropriate. Pleasant.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2226,
+            "end_offset": 2333,
+            "annotation_id": "JD_018"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2335,
+            "end_offset": 2442,
+            "annotation_id": "JD_019"
+        },
+        {
+            "decision": "Neck: Supple without JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2444,
+            "end_offset": 2468,
+            "annotation_id": "JD_020"
+        },
+        {
+            "decision": "CV: PMI located in 5th intercostal space, midclavicular line. RR, normal S1, S2. No S4, no S3.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2469,
+            "end_offset": 2562,
+            "annotation_id": "JD_021"
+        },
+        {
+            "decision": "Chest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheeze, rhonchi.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2564,
+            "end_offset": 2695,
+            "annotation_id": "JD_022"
+        },
+        {
+            "decision": "Abd: Protuberant abdomen, soft, NTND, No HSM or tenderness. No abdominial bruits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2697,
+            "end_offset": 2777,
+            "annotation_id": "JD_023"
+        },
+        {
+            "decision": "Ext: No c/c/e. Large hematoma of the right groin, pressure dressing in place.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2779,
+            "end_offset": 2855,
+            "annotation_id": "JD_024"
+        },
+        {
+            "decision": "Skin: No stasis dermatitis, ulcers, scars, or xanthomas.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2857,
+            "end_offset": 2912,
+            "annotation_id": "JD_025"
+        },
+        {
+            "decision": "Pulses: Right: Carotid 2+ without bruit; Femoral unable to assess with pressure dressing, 2+ DP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2914,
+            "end_offset": 3009,
+            "annotation_id": "JD_026"
+        },
+        {
+            "decision": "Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3010,
+            "end_offset": 3073,
+            "annotation_id": "JD_027"
+        },
+        {
+            "decision": "NSR at 88, ST elevations in III>II and aVF, st depressions in I, aVL, t wave inversion in V2. Normal axis, intervals.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3105,
+            "end_offset": 3221,
+            "annotation_id": "JD_028"
+        },
+        {
+            "decision": "Post Cath: NSR at 74, TWI in III, aVF, ?small q wave in III, avF. Normal axis, intervals.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3223,
+            "end_offset": 3311,
+            "annotation_id": "JD_029"
+        },
+        {
+            "decision": "hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3780,
+            "end_offset": 3792,
+            "annotation_id": "JD_030"
+        },
+        {
+            "decision": "transferred from an outside hospital ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3801,
+            "end_offset": 3837,
+            "annotation_id": "JD_031"
+        },
+        {
+            "decision": "ST elevation MI.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3846,
+            "end_offset": 3861,
+            "annotation_id": "JD_032"
+        },
+        {
+            "decision": "STEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3868,
+            "end_offset": 3873,
+            "annotation_id": "JD_033"
+        },
+        {
+            "decision": "ASA 325",
+            "category": "Category 5: Drug related",
+            "start_offset": 3907,
+            "end_offset": 3914,
+            "annotation_id": "JD_034"
+        },
+        {
+            "decision": "plavix 600",
+            "category": "Category 5: Drug related",
+            "start_offset": 3916,
+            "end_offset": 3926,
+            "annotation_id": "JD_035"
+        },
+        {
+            "decision": "heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3932,
+            "end_offset": 3939,
+            "annotation_id": "JD_036"
+        },
+        {
+            "decision": "he was taken to the cath lab ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3978,
+            "end_offset": 4006,
+            "annotation_id": "JD_037"
+        },
+        {
+            "decision": "RCA occlusion ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4032,
+            "end_offset": 4045,
+            "annotation_id": "JD_038"
+        },
+        {
+            "decision": "was stented with a BMS.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4052,
+            "end_offset": 4074,
+            "annotation_id": "JD_039"
+        },
+        {
+            "decision": "His catheterization was complicated by a large right groin hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4077,
+            "end_offset": 4144,
+            "annotation_id": "JD_040"
+        },
+        {
+            "decision": "His hematocrit remained stable ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4147,
+            "end_offset": 4177,
+            "annotation_id": "JD_041"
+        },
+        {
+            "decision": ".  EKG changes, specifically ST elevations in the inferior leads",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4245,
+            "end_offset": 4306,
+            "annotation_id": "JD_042"
+        },
+        {
+            "decision": "resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4307,
+            "end_offset": 4315,
+            "annotation_id": "JD_043"
+        },
+        {
+            "decision": "following his stent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4316,
+            "end_offset": 4335,
+            "annotation_id": "JD_044"
+        },
+        {
+            "decision": "He was started on a beta blocker which was titrated up to Atenolol 200 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 4389,
+            "end_offset": 4465,
+            "annotation_id": "JD_045"
+        },
+        {
+            "decision": "lisinopril dose was decreased to 5 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4472,
+            "end_offset": 4509,
+            "annotation_id": "JD_046"
+        },
+        {
+            "decision": "HCTZ at his home dose was continued.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4518,
+            "end_offset": 4553,
+            "annotation_id": "JD_047"
+        },
+        {
+            "decision": "started on aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4575,
+            "end_offset": 4593,
+            "annotation_id": "JD_048"
+        },
+        {
+            "decision": "plavix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4595,
+            "end_offset": 4601,
+            "annotation_id": "JD_049"
+        },
+        {
+            "decision": "statin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4606,
+            "end_offset": 4612,
+            "annotation_id": "JD_050"
+        },
+        {
+            "decision": "was continued on atorvastatin 80 mg until further follow up with cardiology",
+            "category": "Category 5: Drug related",
+            "start_offset": 4683,
+            "end_offset": 4758,
+            "annotation_id": "JD_051"
+        },
+        {
+            "decision": "He will need treatment with a high dose statin for at least 1 month.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4761,
+            "end_offset": 4828,
+            "annotation_id": "JD_052"
+        },
+        {
+            "decision": "mild transaminitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4873,
+            "end_offset": 4891,
+            "annotation_id": "JD_053"
+        },
+        {
+            "decision": "LFTs, however normalized during this admission",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4894,
+            "end_offset": 4940,
+            "annotation_id": "JD_054"
+        },
+        {
+            "decision": "His MI and consequent muscle breakdown is the most likely etiology of his mild rise of LFTs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4983,
+            "end_offset": 5074,
+            "annotation_id": "JD_055"
+        },
+        {
+            "decision": "mild LVH ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5148,
+            "end_offset": 5156,
+            "annotation_id": "JD_056"
+        },
+        {
+            "decision": "An echocardiogram on [**1-5**], following his cath was significant for mild LVH with mild regional systolic dysfunction in the basal inferior and basal inferior septal segments",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5077,
+            "end_offset": 5253,
+            "annotation_id": "JD_057"
+        },
+        {
+            "decision": "He is to follow up with Dr. [**First Name (STitle) 437**] on discharge",
+            "category": "Category 1: Contact related",
+            "start_offset": 5256,
+            "end_offset": 5326,
+            "annotation_id": "JD_058"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5333,
+            "end_offset": 5345,
+            "annotation_id": "JD_059"
+        },
+        {
+            "decision": "atenolol 200 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5414,
+            "end_offset": 5432,
+            "annotation_id": "JD_060"
+        },
+        {
+            "decision": "lisinopril 5",
+            "category": "Category 5: Drug related",
+            "start_offset": 5434,
+            "end_offset": 5446,
+            "annotation_id": "JD_061"
+        },
+        {
+            "decision": "HCTZ 25.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5452,
+            "end_offset": 5459,
+            "annotation_id": "JD_062"
+        },
+        {
+            "decision": "HCTZ 25mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5491,
+            "end_offset": 5506,
+            "annotation_id": "JD_063"
+        },
+        {
+            "decision": "Lisinopril 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5507,
+            "end_offset": 5528,
+            "annotation_id": "JD_064"
+        },
+        {
+            "decision": " Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5557,
+            "end_offset": 5720,
+            "annotation_id": "JD_065"
+        },
+        {
+            "decision": " Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5724,
+            "end_offset": 5818,
+            "annotation_id": "JD_066"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5822,
+            "end_offset": 5914,
+            "annotation_id": "JD_067"
+        },
+        {
+            "decision": "Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5918,
+            "end_offset": 6020,
+            "annotation_id": "JD_068"
+        },
+        {
+            "decision": "Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6024,
+            "end_offset": 6119,
+            "annotation_id": "JD_069"
+        },
+        {
+            "decision": "Atenolol 100 mg Tablet Sig: Two (2) Tablet PO once a day. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6123,
+            "end_offset": 6212,
+            "annotation_id": "JD_070"
+        },
+        {
+            "decision": "STEMI (right coronary ST elevation myocardial infarction)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6325,
+            "end_offset": 6381,
+            "annotation_id": "JD_071"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6394,
+            "end_offset": 6406,
+            "annotation_id": "JD_072"
+        },
+        {
+            "decision": "Discharge Condition: Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6409,
+            "end_offset": 6436,
+            "annotation_id": "JD_073"
+        },
+        {
+            "decision": "myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6488,
+            "end_offset": 6509,
+            "annotation_id": "JD_074"
+        },
+        {
+            "decision": "bare metal stent ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6536,
+            "end_offset": 6552,
+            "annotation_id": "JD_075"
+        },
+        {
+            "decision": "hematoma (collection of blood) in your groin ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6594,
+            "end_offset": 6638,
+            "annotation_id": "JD_076"
+        },
+        {
+            "decision": "The hematoma is now resolving.  You tolerated this procedure well otheriwse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6666,
+            "end_offset": 6741,
+            "annotation_id": "JD_077"
+        },
+        {
+            "decision": "You were started on several new medications including aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6744,
+            "end_offset": 6805,
+            "annotation_id": "JD_078"
+        },
+        {
+            "decision": "plavix",
+            "category": "Category 5: Drug related",
+            "start_offset": 6810,
+            "end_offset": 6816,
+            "annotation_id": "JD_079"
+        },
+        {
+            "decision": "It is imperative that you take both of these medications daily to reduce the possibility of a re-narrowing of your coronary arteries",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6819,
+            "end_offset": 6951,
+            "annotation_id": "JD_080"
+        },
+        {
+            "decision": "you were started on atenolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 6967,
+            "end_offset": 6995,
+            "annotation_id": "JD_081"
+        },
+        {
+            "decision": "simvastatin",
+            "category": "Category 5: Drug related",
+            "start_offset": 7000,
+            "end_offset": 7011,
+            "annotation_id": "JD_082"
+        },
+        {
+            "decision": "You should take your other medications prior to admission",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7014,
+            "end_offset": 7071,
+            "annotation_id": "JD_083"
+        },
+        {
+            "decision": "hydrochlorothiazide ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7073,
+            "end_offset": 7092,
+            "annotation_id": "JD_084"
+        },
+        {
+            "decision": "lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 7097,
+            "end_offset": 7107,
+            "annotation_id": "JD_085"
+        },
+        {
+            "decision": "but your lisinopril was decreased",
+            "category": "Category 5: Drug related",
+            "start_offset": 7110,
+            "end_offset": 7143,
+            "annotation_id": "JD_086"
+        },
+        {
+            "decision": "You SHOULD NOT take your old medications.  You have prescriptions for all the medications that you should take.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7146,
+            "end_offset": 7256,
+            "annotation_id": "JD_087"
+        },
+        {
+            "decision": "You SHOULD NOT take your old medications.  You have prescriptions for all the medications that you should take.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7146,
+            "end_offset": 7256,
+            "annotation_id": "JD_088"
+        },
+        {
+            "decision": "You must not carry anything heavier than a gallon of milk for several weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7259,
+            "end_offset": 7334,
+            "annotation_id": "JD_089"
+        },
+        {
+            "decision": "You will need to follow with a cardiologist following this myocardial infarction",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7360,
+            "end_offset": 7440,
+            "annotation_id": "JD_090"
+        },
+        {
+            "decision": "You may see Dr. [**First Name (STitle) 437**].  His office can be contact[**Name (NI) **] at([**Telephone/Fax (1) 7179**].  You should schedule an appointment with him for a follow up within the next 2 to 4 weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7443,
+            "end_offset": 7655,
+            "annotation_id": "JD_091"
+        },
+        {
+            "decision": "you should see your primary care provider [**Last Name (NamePattern4) **] 4 weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7671,
+            "end_offset": 7752,
+            "annotation_id": "JD_092"
+        }
+    ]
+}

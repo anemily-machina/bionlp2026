@@ -1,0 +1,517 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "20088_137881_890",
+    "annotations": [
+        {
+            "decision": "past medical history of diabetes, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 194,
+            "end_offset": 226,
+            "annotation_id": "FF_000"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 228,
+            "end_offset": 240,
+            "annotation_id": "FF_001"
+        },
+        {
+            "decision": "and deep venous thrombosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 242,
+            "end_offset": 268,
+            "annotation_id": "FF_002"
+        },
+        {
+            "decision": "the patient was noted to have a fever and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 363,
+            "end_offset": 416,
+            "annotation_id": "FF_003"
+        },
+        {
+            "decision": "He received 6 liters of intravenous fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 419,
+            "end_offset": 461,
+            "annotation_id": "FF_004"
+        },
+        {
+            "decision": "Ancef",
+            "category": "Category 5: Drug related",
+            "start_offset": 463,
+            "end_offset": 468,
+            "annotation_id": "FF_005"
+        },
+        {
+            "decision": "Unasyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 474,
+            "end_offset": 480,
+            "annotation_id": "FF_006"
+        },
+        {
+            "decision": "transferred to the Medical Intensive Care Unit.",
+            "category": "Category 1: Contact related",
+            "start_offset": 489,
+            "end_offset": 535,
+            "annotation_id": "FF_007"
+        },
+        {
+            "decision": "Type 2 diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 564,
+            "end_offset": 588,
+            "annotation_id": "FF_008"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 594,
+            "end_offset": 606,
+            "annotation_id": "FF_009"
+        },
+        {
+            "decision": "Bilateral deep venous thrombosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 612,
+            "end_offset": 644,
+            "annotation_id": "FF_010"
+        },
+        {
+            "decision": "High cholesterol.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 650,
+            "end_offset": 666,
+            "annotation_id": "FF_011"
+        },
+        {
+            "decision": "Anal fissure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 672,
+            "end_offset": 684,
+            "annotation_id": "FF_012"
+        },
+        {
+            "decision": "Thalassemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 690,
+            "end_offset": 701,
+            "annotation_id": "FF_013"
+        },
+        {
+            "decision": "Actos",
+            "category": "Category 5: Drug related",
+            "start_offset": 732,
+            "end_offset": 737,
+            "annotation_id": "FF_014"
+        },
+        {
+            "decision": "Glucophage",
+            "category": "Category 5: Drug related",
+            "start_offset": 739,
+            "end_offset": 749,
+            "annotation_id": "FF_015"
+        },
+        {
+            "decision": "atenolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 751,
+            "end_offset": 759,
+            "annotation_id": "FF_016"
+        },
+        {
+            "decision": "aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 761,
+            "end_offset": 768,
+            "annotation_id": "FF_017"
+        },
+        {
+            "decision": "Lipitor",
+            "category": "Category 5: Drug related",
+            "start_offset": 774,
+            "end_offset": 781,
+            "annotation_id": "FF_018"
+        },
+        {
+            "decision": "he was alert and oriented times three.  In no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1157,
+            "end_offset": 1217,
+            "annotation_id": "FF_019"
+        },
+        {
+            "decision": "Head, eyes, ears, nose, and throat examination revealed the sclerae were anicteric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1220,
+            "end_offset": 1302,
+            "annotation_id": "FF_020"
+        },
+        {
+            "decision": "The oropharynx was clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1305,
+            "end_offset": 1329,
+            "annotation_id": "FF_021"
+        },
+        {
+            "decision": "No neck stiffness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1332,
+            "end_offset": 1349,
+            "annotation_id": "FF_022"
+        },
+        {
+            "decision": "Cardiovascular examination revealed a regular rate and rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1352,
+            "end_offset": 1413,
+            "annotation_id": "FF_023"
+        },
+        {
+            "decision": "Normal first heart sounds and second heart sounds.  No murmurs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1416,
+            "end_offset": 1478,
+            "annotation_id": "FF_024"
+        },
+        {
+            "decision": "The lungs were clear to auscultation bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1481,
+            "end_offset": 1529,
+            "annotation_id": "FF_025"
+        },
+        {
+            "decision": "The abdomen was soft, nontender, and nondistended.  Positive bowel sounds.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1532,
+            "end_offset": 1605,
+            "annotation_id": "FF_026"
+        },
+        {
+            "decision": "Extremities revealed right lower extremity venous changes. Pain the medial thigh to the calf.  No rash",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1607,
+            "end_offset": 1709,
+            "annotation_id": "FF_027"
+        },
+        {
+            "decision": "Neurologic examination revealed cranial nerves II through XII were intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1712,
+            "end_offset": 1785,
+            "annotation_id": "FF_028"
+        },
+        {
+            "decision": "Sensation and strength were [**6-10**].  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1788,
+            "end_offset": 1826,
+            "annotation_id": "FF_029"
+        },
+        {
+            "decision": "Distal pulses were 2+ distally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1829,
+            "end_offset": 1859,
+            "annotation_id": "FF_030"
+        },
+        {
+            "decision": "Chemistries were within normal limits.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1968,
+            "end_offset": 2005,
+            "annotation_id": "FF_031"
+        },
+        {
+            "decision": "Urinalysis was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2008,
+            "end_offset": 2029,
+            "annotation_id": "FF_032"
+        },
+        {
+            "decision": "A computed tomography angiogram was negative for a pulmonary embolism.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2080,
+            "end_offset": 2149,
+            "annotation_id": "FF_033"
+        },
+        {
+            "decision": "A chest x-ray was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2152,
+            "end_offset": 2176,
+            "annotation_id": "FF_034"
+        },
+        {
+            "decision": "A right lower extremity ultrasound revealed no deep venous thrombosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2179,
+            "end_offset": 2248,
+            "annotation_id": "FF_035"
+        },
+        {
+            "decision": "INFECTIOUS DISEASE ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2308,
+            "end_offset": 2326,
+            "annotation_id": "FF_036"
+        },
+        {
+            "decision": "The patient presented with fevers, hypotension, right lower extremity pain, and septic physiology responsive to intravenous fluids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2336,
+            "end_offset": 2466,
+            "annotation_id": "FF_037"
+        },
+        {
+            "decision": "responsive to intravenous fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2434,
+            "end_offset": 2466,
+            "annotation_id": "FF_038"
+        },
+        {
+            "decision": "The patient had a negative ultrasound of his right lower extremity for deep venous thrombosis and a negative computed tomography angiogram for a pulmonary embolism",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2469,
+            "end_offset": 2632,
+            "annotation_id": "FF_039"
+        },
+        {
+            "decision": "Urinalysis was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2635,
+            "end_offset": 2656,
+            "annotation_id": "FF_040"
+        },
+        {
+            "decision": "No murmur was heard on cardiac examination, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2659,
+            "end_offset": 2701,
+            "annotation_id": "FF_041"
+        },
+        {
+            "decision": "and a transthoracic echocardiogram was negative for endocarditis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2703,
+            "end_offset": 2767,
+            "annotation_id": "FF_042"
+        },
+        {
+            "decision": "It was thought that the source of his infection was a right lower extremity cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2770,
+            "end_offset": 2856,
+            "annotation_id": "FF_043"
+        },
+        {
+            "decision": "initially started on Unasyn,",
+            "category": "Category 5: Drug related",
+            "start_offset": 2866,
+            "end_offset": 2893,
+            "annotation_id": "FF_044"
+        },
+        {
+            "decision": "diabetic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2915,
+            "end_offset": 2923,
+            "annotation_id": "FF_045"
+        },
+        {
+            "decision": "gentamicin was added to cover Pseudomonas",
+            "category": "Category 5: Drug related",
+            "start_offset": 2929,
+            "end_offset": 2970,
+            "annotation_id": "FF_046"
+        },
+        {
+            "decision": "no signs of fasciitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3102,
+            "end_offset": 3123,
+            "annotation_id": "FF_047"
+        },
+        {
+            "decision": "A right lower extremity magnetic resonance imaging was performed which showed soft tissue edema.  No focal fluid collection, and no signs of fasciitis.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2973,
+            "end_offset": 3123,
+            "annotation_id": "FF_048"
+        },
+        {
+            "decision": "General Surgery was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 3126,
+            "end_offset": 3155,
+            "annotation_id": "FF_049"
+        },
+        {
+            "decision": "vancomycin was added to the regimen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3161,
+            "end_offset": 3196,
+            "annotation_id": "FF_050"
+        },
+        {
+            "decision": "cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3205,
+            "end_offset": 3215,
+            "annotation_id": "FF_051"
+        },
+        {
+            "decision": "The patient developed a headache without neck stiffness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3218,
+            "end_offset": 3273,
+            "annotation_id": "FF_052"
+        },
+        {
+            "decision": ".  A lumbar puncture was attempted but was unsuccessful.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 3276,
+            "end_offset": 3328,
+            "annotation_id": "FF_053"
+        },
+        {
+            "decision": "The patient's cellulitis continued to improve",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3331,
+            "end_offset": 3376,
+            "annotation_id": "FF_054"
+        },
+        {
+            "decision": "Another line was placed prior to discharge",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3379,
+            "end_offset": 3421,
+            "annotation_id": "FF_055"
+        },
+        {
+            "decision": "seven days of Unasyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 3449,
+            "end_offset": 3469,
+            "annotation_id": "FF_056"
+        },
+        {
+            "decision": "Augmentin for seven days",
+            "category": "Category 5: Drug related",
+            "start_offset": 3488,
+            "end_offset": 3512,
+            "annotation_id": "FF_057"
+        },
+        {
+            "decision": "He was instructed to use compression stockings to reduce the swelling and improve circulation",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3514,
+            "end_offset": 3607,
+            "annotation_id": "FF_058"
+        },
+        {
+            "decision": "HEADACHE ISSUES:  The patient's headache improved during his hospital course.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3614,
+            "end_offset": 3690,
+            "annotation_id": "FF_059"
+        },
+        {
+            "decision": "He did not have any associated photophobia or neck stiffness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3693,
+            "end_offset": 3753,
+            "annotation_id": "FF_060"
+        },
+        {
+            "decision": "beta blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 3831,
+            "end_offset": 3843,
+            "annotation_id": "FF_061"
+        },
+        {
+            "decision": "It was thought that this may have been secondary to discontinuation of his beta blocker because of his low blood pressures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3756,
+            "end_offset": 3878,
+            "annotation_id": "FF_062"
+        },
+        {
+            "decision": "low blood pressures. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3859,
+            "end_offset": 3878,
+            "annotation_id": "FF_063"
+        },
+        {
+            "decision": "Condition on discharge was good.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3956,
+            "end_offset": 3987,
+            "annotation_id": "FF_064"
+        },
+        {
+            "decision": "The patient to follow up with Dr. [**Last Name (STitle) 58**] on Wednesday, [**11-27**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4024,
+            "end_offset": 4111,
+            "annotation_id": "FF_065"
+        },
+        {
+            "decision": "Mid line placement on [**2176-11-25**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4161,
+            "end_offset": 4199,
+            "annotation_id": "FF_066"
+        },
+        {
+            "decision": "Unasyn 3 gram intravenously q.6h. (times seven days).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4232,
+            "end_offset": 4283,
+            "annotation_id": "FF_067"
+        },
+        {
+            "decision": "Augmentin 500/125 one tablet by mouth three times per day (times seven days); starting in one week",
+            "category": "Category 5: Drug related",
+            "start_offset": 4290,
+            "end_offset": 4388,
+            "annotation_id": "FF_068"
+        },
+        {
+            "decision": "Normal saline flushes 10 cc ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4394,
+            "end_offset": 4421,
+            "annotation_id": "FF_069"
+        },
+        {
+            "decision": "Normal saline flushes 10 cc before and after each Unasyn dose.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4394,
+            "end_offset": 4455,
+            "annotation_id": "FF_070"
+        },
+        {
+            "decision": "Heparin flushes 2 cc ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4461,
+            "end_offset": 4481,
+            "annotation_id": "FF_071"
+        },
+        {
+            "decision": "Unasyn dose.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4493,
+            "end_offset": 4504,
+            "annotation_id": "FF_072"
+        }
+    ]
+}

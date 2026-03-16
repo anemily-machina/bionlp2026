@@ -1,0 +1,937 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "98604_102658_12384",
+    "annotations": [
+        {
+            "decision": "history of sickle cell disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 383,
+            "end_offset": 413,
+            "annotation_id": "RF_000"
+        },
+        {
+            "decision": "breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 418,
+            "end_offset": 431,
+            "annotation_id": "RF_001"
+        },
+        {
+            "decision": "IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 892,
+            "end_offset": 895,
+            "annotation_id": "RF_002"
+        },
+        {
+            "decision": "tamiflu",
+            "category": "Category 5: Drug related",
+            "start_offset": 900,
+            "end_offset": 907,
+            "annotation_id": "RF_003"
+        },
+        {
+            "decision": "Tachypneic ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 946,
+            "end_offset": 956,
+            "annotation_id": "RF_004"
+        },
+        {
+            "decision": "CTA negative for PE but did see infarcts in lung and cannot tell if acute or chronic. No infiltrate. Tiny right pleural effusion. PAH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 982,
+            "end_offset": 1115,
+            "annotation_id": "RF_005"
+        },
+        {
+            "decision": "Ibuprofen",
+            "category": "Category 5: Drug related",
+            "start_offset": 1117,
+            "end_offset": 1126,
+            "annotation_id": "RF_006"
+        },
+        {
+            "decision": "tamiflu",
+            "category": "Category 5: Drug related",
+            "start_offset": 1128,
+            "end_offset": 1135,
+            "annotation_id": "RF_007"
+        },
+        {
+            "decision": "morphine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1137,
+            "end_offset": 1145,
+            "annotation_id": "RF_008"
+        },
+        {
+            "decision": "elevated WBC (13.4)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1158,
+            "end_offset": 1176,
+            "annotation_id": "RF_009"
+        },
+        {
+            "decision": "thrombocytosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1182,
+            "end_offset": 1196,
+            "annotation_id": "RF_010"
+        },
+        {
+            "decision": "flu swab",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1237,
+            "end_offset": 1245,
+            "annotation_id": "RF_011"
+        },
+        {
+            "decision": "EKG normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1247,
+            "end_offset": 1257,
+            "annotation_id": "RF_012"
+        },
+        {
+            "decision": "respiratory distress ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1296,
+            "end_offset": 1316,
+            "annotation_id": "RF_013"
+        },
+        {
+            "decision": "admitted to the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1325,
+            "end_offset": 1344,
+            "annotation_id": "RF_014"
+        },
+        {
+            "decision": "The patient was subsequently more stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1347,
+            "end_offset": 1387,
+            "annotation_id": "RF_015"
+        },
+        {
+            "decision": "transferred to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 1392,
+            "end_offset": 1416,
+            "annotation_id": "RF_016"
+        },
+        {
+            "decision": "She has no history of sickle cell crisis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1419,
+            "end_offset": 1459,
+            "annotation_id": "RF_017"
+        },
+        {
+            "decision": "Denies recent weight loss or gain.  Denied nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1496,
+            "end_offset": 1654,
+            "annotation_id": "RF_018"
+        },
+        {
+            "decision": "Breast DCIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1681,
+            "end_offset": 1692,
+            "annotation_id": "RF_019"
+        },
+        {
+            "decision": "s/p surgery and radiation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1693,
+            "end_offset": 1718,
+            "annotation_id": "RF_020"
+        },
+        {
+            "decision": "patient refuses tamoxifen",
+            "category": "Category 8: Deferment",
+            "start_offset": 1831,
+            "end_offset": 1856,
+            "annotation_id": "RF_021"
+        },
+        {
+            "decision": "Homzygous SS Sickle Cell Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1860,
+            "end_offset": 1892,
+            "annotation_id": "RF_022"
+        },
+        {
+            "decision": "Hyposplenism ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2041,
+            "end_offset": 2053,
+            "annotation_id": "RF_023"
+        },
+        {
+            "decision": "with \"diminutive\" spleen on CT Abd ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2054,
+            "end_offset": 2088,
+            "annotation_id": "RF_024"
+        },
+        {
+            "decision": "S/p appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2102,
+            "end_offset": 2118,
+            "annotation_id": "RF_025"
+        },
+        {
+            "decision": "Biliary colic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2121,
+            "end_offset": 2134,
+            "annotation_id": "RF_026"
+        },
+        {
+            "decision": "S/p tubal ligation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2137,
+            "end_offset": 2155,
+            "annotation_id": "RF_027"
+        },
+        {
+            "decision": "Ovarian cyst ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2158,
+            "end_offset": 2170,
+            "annotation_id": "RF_028"
+        },
+        {
+            "decision": " repeat u/s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2183,
+            "end_offset": 2193,
+            "annotation_id": "RF_029"
+        },
+        {
+            "decision": "never had repeat u/s",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2173,
+            "end_offset": 2193,
+            "annotation_id": "RF_030"
+        },
+        {
+            "decision": "Shoulder injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2196,
+            "end_offset": 2211,
+            "annotation_id": "RF_031"
+        },
+        {
+            "decision": "General: Alert, oriented, in pain and slightly tachypneic from pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3579,
+            "end_offset": 3646,
+            "annotation_id": "RF_032"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, dry MM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3647,
+            "end_offset": 3696,
+            "annotation_id": "RF_033"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3697,
+            "end_offset": 3735,
+            "annotation_id": "RF_034"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3736,
+            "end_offset": 3804,
+            "annotation_id": "RF_035"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, [**1-15**] SM LLSB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3805,
+            "end_offset": 3868,
+            "annotation_id": "RF_036"
+        },
+        {
+            "decision": "Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3869,
+            "end_offset": 3984,
+            "annotation_id": "RF_037"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3985,
+            "end_offset": 4052,
+            "annotation_id": "RF_038"
+        },
+        {
+            "decision": "EKG: NSR with normal axis and intervals, wavy baseline but no significant ST/TW changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4455,
+            "end_offset": 4542,
+            "annotation_id": "RF_039"
+        },
+        {
+            "decision": "CXR [**2163-2-19**]: No acute cardiopulmonary process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4544,
+            "end_offset": 4597,
+            "annotation_id": "RF_040"
+        },
+        {
+            "decision": "CTA [**2163-2-19**]: No PE, although motion limits assessment of distal subsegmental vessels. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4600,
+            "end_offset": 4692,
+            "annotation_id": "RF_041"
+        },
+        {
+            "decision": " Multiple small peripheral opacities consistent with infarcts typical for sickle disease; acuity of these unknown without prior exam. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4694,
+            "end_offset": 4825,
+            "annotation_id": "RF_042"
+        },
+        {
+            "decision": "No pneumonia. Tiny right pleural effusion. Enlarged pulmonary artery indicating pulmonary arterial hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4827,
+            "end_offset": 4938,
+            "annotation_id": "RF_043"
+        },
+        {
+            "decision": "LE U/S [**2163-2-19**]:  No evidence for DVT in the bilateral lower extremities.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4941,
+            "end_offset": 5020,
+            "annotation_id": "RF_044"
+        },
+        {
+            "decision": "  Visualization of the distal superficial femoral veins was limited",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5023,
+            "end_offset": 5088,
+            "annotation_id": "RF_045"
+        },
+        {
+            "decision": "ECHO [**2163-2-21**]: The left atrium is mildly dilated. No atrial septal defect is seen by 2D or color Doppler. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5091,
+            "end_offset": 5202,
+            "annotation_id": "RF_046"
+        },
+        {
+            "decision": " Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5204,
+            "end_offset": 5307,
+            "annotation_id": "RF_047"
+        },
+        {
+            "decision": " The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5311,
+            "end_offset": 5396,
+            "annotation_id": "RF_048"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5398,
+            "end_offset": 5448,
+            "annotation_id": "RF_049"
+        },
+        {
+            "decision": " but aortic stenosis is not present. No aortic regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5449,
+            "end_offset": 5516,
+            "annotation_id": "RF_050"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5518,
+            "end_offset": 5564,
+            "annotation_id": "RF_051"
+        },
+        {
+            "decision": ". There is no mitral valve prolapse. Trivial mitral regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5566,
+            "end_offset": 5637,
+            "annotation_id": "RF_052"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5639,
+            "end_offset": 5688,
+            "annotation_id": "RF_053"
+        },
+        {
+            "decision": "There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5690,
+            "end_offset": 5780,
+            "annotation_id": "RF_054"
+        },
+        {
+            "decision": "Compared with the prior study (images reviewed) of [**2162-9-29**], the right ventricle is mildly dilated/hypokinetic with moderate pulmonary artery systolic hypertension. These findings are consistent with hemodynamically significant pulmonary embolism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5783,
+            "end_offset": 6036,
+            "annotation_id": "RF_055"
+        },
+        {
+            "decision": "history of SS sickle cell disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6080,
+            "end_offset": 6113,
+            "annotation_id": "RF_056"
+        },
+        {
+            "decision": "flu-like illness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6128,
+            "end_offset": 6144,
+            "annotation_id": "RF_057"
+        },
+        {
+            "decision": "first sickle cell crisis that was likely triggered from a respiratory infection and dehydration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6149,
+            "end_offset": 6244,
+            "annotation_id": "RF_058"
+        },
+        {
+            "decision": "Flu-like Illness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6249,
+            "end_offset": 6265,
+            "annotation_id": "RF_059"
+        },
+        {
+            "decision": "asplenism and risk for fulminant infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6326,
+            "end_offset": 6368,
+            "annotation_id": "RF_060"
+        },
+        {
+            "decision": "started on abx while awaiting culture results including vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6377,
+            "end_offset": 6443,
+            "annotation_id": "RF_061"
+        },
+        {
+            "decision": "ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6445,
+            "end_offset": 6456,
+            "annotation_id": "RF_062"
+        },
+        {
+            "decision": "azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6458,
+            "end_offset": 6470,
+            "annotation_id": "RF_063"
+        },
+        {
+            "decision": "tamiflu",
+            "category": "Category 5: Drug related",
+            "start_offset": 6476,
+            "end_offset": 6483,
+            "annotation_id": "RF_064"
+        },
+        {
+            "decision": "Nasal swab returned negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6485,
+            "end_offset": 6513,
+            "annotation_id": "RF_065"
+        },
+        {
+            "decision": "tamiflu was discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 6537,
+            "end_offset": 6561,
+            "annotation_id": "RF_066"
+        },
+        {
+            "decision": "IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6600,
+            "end_offset": 6603,
+            "annotation_id": "RF_067"
+        },
+        {
+            "decision": "tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 6605,
+            "end_offset": 6612,
+            "annotation_id": "RF_068"
+        },
+        {
+            "decision": "oxygen supplementation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6618,
+            "end_offset": 6640,
+            "annotation_id": "RF_069"
+        },
+        {
+            "decision": "MRSA screen was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6642,
+            "end_offset": 6666,
+            "annotation_id": "RF_070"
+        },
+        {
+            "decision": "Vanco discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 6671,
+            "end_offset": 6689,
+            "annotation_id": "RF_071"
+        },
+        {
+            "decision": "treated empirically for PNA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6695,
+            "end_offset": 6722,
+            "annotation_id": "RF_072"
+        },
+        {
+            "decision": "Ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6728,
+            "end_offset": 6739,
+            "annotation_id": "RF_073"
+        },
+        {
+            "decision": "changed to Cefpodoxime",
+            "category": "Category 5: Drug related",
+            "start_offset": 6740,
+            "end_offset": 6762,
+            "annotation_id": "RF_074"
+        },
+        {
+            "decision": "Azithromycin for 7 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 6781,
+            "end_offset": 6804,
+            "annotation_id": "RF_075"
+        },
+        {
+            "decision": "Sickle Cell Crisis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6809,
+            "end_offset": 6827,
+            "annotation_id": "RF_076"
+        },
+        {
+            "decision": "Hematology was consulted ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6830,
+            "end_offset": 6854,
+            "annotation_id": "RF_077"
+        },
+        {
+            "decision": "question of acute chest syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6861,
+            "end_offset": 6893,
+            "annotation_id": "RF_078"
+        },
+        {
+            "decision": "potential need for exchange transfusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6898,
+            "end_offset": 6937,
+            "annotation_id": "RF_079"
+        },
+        {
+            "decision": " or hydroxyurea",
+            "category": "Category 5: Drug related",
+            "start_offset": 6938,
+            "end_offset": 6952,
+            "annotation_id": "RF_080"
+        },
+        {
+            "decision": "CT chest was reviewed with hematology and consensus was that findings were chronic and not consistent with acute chest syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6954,
+            "end_offset": 7081,
+            "annotation_id": "RF_081"
+        },
+        {
+            "decision": "received two units of PRBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7087,
+            "end_offset": 7114,
+            "annotation_id": "RF_082"
+        },
+        {
+            "decision": "IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7192,
+            "end_offset": 7195,
+            "annotation_id": "RF_083"
+        },
+        {
+            "decision": "oxygen therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7197,
+            "end_offset": 7211,
+            "annotation_id": "RF_084"
+        },
+        {
+            "decision": "oxygen therapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7197,
+            "end_offset": 7211,
+            "annotation_id": "RF_085"
+        },
+        {
+            "decision": "Patient is not up to date on appropriate immunizations and received H1N1, seasonal influenza, and pneumovax prior to discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 7235,
+            "end_offset": 7361,
+            "annotation_id": "RF_086"
+        },
+        {
+            "decision": "She is due for menigicoccal and HiB as an outpatient",
+            "category": "Category 5: Drug related",
+            "start_offset": 7363,
+            "end_offset": 7415,
+            "annotation_id": "RF_087"
+        },
+        {
+            "decision": "The patient was pain free and with good oxygen saturation when breathing room air both at rest and with ambulation on the day of discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7418,
+            "end_offset": 7556,
+            "annotation_id": "RF_088"
+        },
+        {
+            "decision": "Pulmonary artery hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7561,
+            "end_offset": 7590,
+            "annotation_id": "RF_089"
+        },
+        {
+            "decision": "CT Chest and Echocardiogram both confirm PA hypertension.  PA hypertension is a common complication seen in Sickle Cell Crisis from chronic hemolysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7592,
+            "end_offset": 7741,
+            "annotation_id": "RF_090"
+        },
+        {
+            "decision": "follow up with Pulmonary",
+            "category": "Category 1: Contact related",
+            "start_offset": 7756,
+            "end_offset": 7780,
+            "annotation_id": "RF_091"
+        },
+        {
+            "decision": "A repeat Echocardiogram should be performed as an outpatient to evaluate for interval change after sickle cell crisis has resolved",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7797,
+            "end_offset": 7927,
+            "annotation_id": "RF_092"
+        },
+        {
+            "decision": "Echo report read as consistent with pulmonary embolism, but the findings of RV failure and pulmonary hypertension is also consistent with vaso occlusive crisis from sickle cell crisis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7932,
+            "end_offset": 8115,
+            "annotation_id": "RF_093"
+        },
+        {
+            "decision": "CTA did not reveal central or segmental PEs.  The small filling defect seen in the right posterior lower lobe subsegmental vessel would be too small of a PE to cause such profound pulmonary HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8117,
+            "end_offset": 8310,
+            "annotation_id": "RF_094"
+        },
+        {
+            "decision": "LE dopplers negative for DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8313,
+            "end_offset": 8341,
+            "annotation_id": "RF_095"
+        },
+        {
+            "decision": "Vitamin B12 deficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8346,
+            "end_offset": 8368,
+            "annotation_id": "RF_096"
+        },
+        {
+            "decision": "started on Cyanocobalamin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8373,
+            "end_offset": 8398,
+            "annotation_id": "RF_097"
+        },
+        {
+            "decision": "folate",
+            "category": "Category 5: Drug related",
+            "start_offset": 8486,
+            "end_offset": 8492,
+            "annotation_id": "RF_098"
+        },
+        {
+            "decision": "Cyanocobalamin 1,000 mcg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8521,
+            "end_offset": 8619,
+            "annotation_id": "RF_099"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: Five (5) Tablet PO once a day. Disp:*150 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8623,
+            "end_offset": 8714,
+            "annotation_id": "RF_100"
+        },
+        {
+            "decision": "Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day for 3 days: Take on [**3-25**], and [**2-25**] to complete 7 days of antibiotics. Disp:*6 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8718,
+            "end_offset": 8891,
+            "annotation_id": "RF_101"
+        },
+        {
+            "decision": "Azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day for 3 days: Take on [**3-25**], and [**2-25**] to complete a 7-day course of antibiotics. Disp:*3 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8895,
+            "end_offset": 9076,
+            "annotation_id": "RF_102"
+        },
+        {
+            "decision": "Sickle Cell Crisis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9150,
+            "end_offset": 9168,
+            "annotation_id": "RF_103"
+        },
+        {
+            "decision": "Sickle Cell Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9171,
+            "end_offset": 9189,
+            "annotation_id": "RF_104"
+        },
+        {
+            "decision": "Vitamin B12 Deficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9192,
+            "end_offset": 9214,
+            "annotation_id": "RF_105"
+        },
+        {
+            "decision": "Pulmonary Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9217,
+            "end_offset": 9239,
+            "annotation_id": "RF_106"
+        },
+        {
+            "decision": "Hyposplenism with \"diminutive\" spleen on CT Abd ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9264,
+            "end_offset": 9311,
+            "annotation_id": "RF_107"
+        },
+        {
+            "decision": "History of Breast DCIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9325,
+            "end_offset": 9347,
+            "annotation_id": "RF_108"
+        },
+        {
+            "decision": "s/p surgery and radiation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9348,
+            "end_offset": 9373,
+            "annotation_id": "RF_109"
+        },
+        {
+            "decision": "S/p appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9376,
+            "end_offset": 9392,
+            "annotation_id": "RF_110"
+        },
+        {
+            "decision": "S/p tubal ligation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9395,
+            "end_offset": 9413,
+            "annotation_id": "RF_111"
+        },
+        {
+            "decision": "Ovarian cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9416,
+            "end_offset": 9428,
+            "annotation_id": "RF_112"
+        },
+        {
+            "decision": "Shoulder injury ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9431,
+            "end_offset": 9446,
+            "annotation_id": "RF_113"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent Level of Consciousness: Alert and interactive Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9469,
+            "end_offset": 9590,
+            "annotation_id": "RF_114"
+        },
+        {
+            "decision": "diagnosis of Sickle Cell Crisis. This was likely caused by possible viral illness and dehydration.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9643,
+            "end_offset": 9740,
+            "annotation_id": "RF_115"
+        },
+        {
+            "decision": "You were checked for Influenza with a nasal swab. You do not have Influenza.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9743,
+            "end_offset": 9818,
+            "annotation_id": "RF_116"
+        },
+        {
+            "decision": "IV fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9843,
+            "end_offset": 9852,
+            "annotation_id": "RF_117"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9854,
+            "end_offset": 9865,
+            "annotation_id": "RF_118"
+        },
+        {
+            "decision": "pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9879,
+            "end_offset": 9888,
+            "annotation_id": "RF_119"
+        },
+        {
+            "decision": "2 units of blood transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9890,
+            "end_offset": 9919,
+            "annotation_id": "RF_120"
+        },
+        {
+            "decision": "supplemental oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9925,
+            "end_offset": 9944,
+            "annotation_id": "RF_121"
+        },
+        {
+            "decision": "total body pain which resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9955,
+            "end_offset": 9985,
+            "annotation_id": "RF_122"
+        },
+        {
+            "decision": "On the day of discharge, you were pain free with good oxygen levels on room air.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10013,
+            "end_offset": 10092,
+            "annotation_id": "RF_123"
+        },
+        {
+            "decision": "You received 3 vaccinations on the day of discharge:  1. H1N1 Influenza Vaccine 2. Seasonal Influenza Vaccine 3. Pneumovax Vaccine",
+            "category": "Category 5: Drug related",
+            "start_offset": 10095,
+            "end_offset": 10225,
+            "annotation_id": "RF_124"
+        },
+        {
+            "decision": "You should take the following two vitamins for your Sickle Cell Anemia and Vitamin B12 Deficiency 1. Folic Acid 5mg daily 2. Cyanocobalamin (Vitamin B12) 1000mcg daily",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10240,
+            "end_offset": 10407,
+            "annotation_id": "RF_125"
+        },
+        {
+            "decision": "You should take the following two vitamins for your Sickle Cell Anemia and Vitamin B12 Deficiency 1. Folic Acid 5mg daily 2. Cyanocobalamin (Vitamin B12) 1000mcg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10240,
+            "end_offset": 10407,
+            "annotation_id": "RF_126"
+        },
+        {
+            "decision": "To complete treatment for possible pneumonia, take the following antibiotics for 3 more days: 1. Cefpodoxime 200mg one tablet twice a day 2. Azithromycin 250mg one tablet a day",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10409,
+            "end_offset": 10585,
+            "annotation_id": "RF_127"
+        },
+        {
+            "decision": "To complete treatment for possible pneumonia, take the following antibiotics for 3 more days: 1. Cefpodoxime 200mg one tablet twice a day 2. Azithromycin 250mg one tablet a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 10409,
+            "end_offset": 10585,
+            "annotation_id": "RF_128"
+        },
+        {
+            "decision": "Appointment #1 Department: HEMATOLOGY/ONCOLOGY When: TUESDAY [**2163-3-8**] at 1:30 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 647**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 10610,
+            "end_offset": 10947,
+            "annotation_id": "RF_129"
+        },
+        {
+            "decision": "Appointment #2 Department: [**Hospital3 249**] When: TUESDAY [**2163-3-22**] at 3:00 PM With: [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 26**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 250**] Building: [**Hospital6 29**] [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 10949,
+            "end_offset": 11295,
+            "annotation_id": "RF_130"
+        },
+        {
+            "decision": "Appointment #3 Department: PULMONARY FUNCTION LAB When: MONDAY [**2163-4-4**] at 1:10 PM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11297,
+            "end_offset": 11558,
+            "annotation_id": "RF_131"
+        },
+        {
+            "decision": "Appointment #4 Department: MEDICAL SPECIALTIES When: MONDAY [**2163-4-4**] at 1:30 PM With: DR. [**First Name (STitle) **] & DR. [**Last Name (STitle) **] [**Telephone/Fax (1) 612**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11560,
+            "end_offset": 11883,
+            "annotation_id": "RF_132"
+        }
+    ]
+}

@@ -1,0 +1,839 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "71194_119417_43031",
+    "annotations": [
+        {
+            "decision": "Anemia,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 313,
+            "end_offset": 319,
+            "annotation_id": "OY_000"
+        },
+        {
+            "decision": "epigastric pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 321,
+            "end_offset": 336,
+            "annotation_id": "OY_001"
+        },
+        {
+            "decision": "Endoscopy with biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 376,
+            "end_offset": 397,
+            "annotation_id": "OY_002"
+        },
+        {
+            "decision": "h/o rheumatic heart disease, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 443,
+            "end_offset": 470,
+            "annotation_id": "OY_003"
+        },
+        {
+            "decision": " HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 472,
+            "end_offset": 475,
+            "annotation_id": "OY_004"
+        },
+        {
+            "decision": "DM2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 477,
+            "end_offset": 480,
+            "annotation_id": "OY_005"
+        },
+        {
+            "decision": "severe anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 529,
+            "end_offset": 542,
+            "annotation_id": "OY_006"
+        },
+        {
+            "decision": "guaiac positive stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 547,
+            "end_offset": 568,
+            "annotation_id": "OY_007"
+        },
+        {
+            "decision": "appointment with her PCP, [**Name10 (NameIs) 1023**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 1002,
+            "end_offset": 1054,
+            "annotation_id": "OY_008"
+        },
+        {
+            "decision": "found her to be dyspneic and hypoxic 92-94% with ambulation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1055,
+            "end_offset": 1114,
+            "annotation_id": "OY_009"
+        },
+        {
+            "decision": "referred her to the ED",
+            "category": "Category 1: Contact related",
+            "start_offset": 1119,
+            "end_offset": 1141,
+            "annotation_id": "OY_010"
+        },
+        {
+            "decision": "concern for PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1205,
+            "end_offset": 1219,
+            "annotation_id": "OY_011"
+        },
+        {
+            "decision": "but d-dimer and LE dopplers negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1221,
+            "end_offset": 1257,
+            "annotation_id": "OY_012"
+        },
+        {
+            "decision": "Heme positive black stool on rectal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1267,
+            "end_offset": 1302,
+            "annotation_id": "OY_013"
+        },
+        {
+            "decision": "Has 2 PIVs (18G+20G), ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1304,
+            "end_offset": 1323,
+            "annotation_id": "OY_014"
+        },
+        {
+            "decision": "h/o breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1370,
+            "end_offset": 1387,
+            "annotation_id": "OY_015"
+        },
+        {
+            "decision": "NG lavage negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1389,
+            "end_offset": 1407,
+            "annotation_id": "OY_016"
+        },
+        {
+            "decision": "negative NG lavage.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1445,
+            "end_offset": 1463,
+            "annotation_id": "OY_017"
+        },
+        {
+            "decision": "Started pantoprazole drip. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1465,
+            "end_offset": 1490,
+            "annotation_id": "OY_018"
+        },
+        {
+            "decision": "Small lateral ST depressions on EKG. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1492,
+            "end_offset": 1527,
+            "annotation_id": "OY_019"
+        },
+        {
+            "decision": "started first unit of blood ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1580,
+            "end_offset": 1607,
+            "annotation_id": "OY_020"
+        },
+        {
+            "decision": "patient is pain free and resting comfortably. She denies bloody bowel movements, and has not had a bowel movement today. No F/C, diarrhea/constipation, dysuria.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1643,
+            "end_offset": 1802,
+            "annotation_id": "OY_021"
+        },
+        {
+            "decision": " Mild nausea, but no vomiting. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1804,
+            "end_offset": 1832,
+            "annotation_id": "OY_022"
+        },
+        {
+            "decision": "Has never had a GI bleed before. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1834,
+            "end_offset": 1865,
+            "annotation_id": "OY_023"
+        },
+        {
+            "decision": "Other ROS negative.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1867,
+            "end_offset": 1885,
+            "annotation_id": "OY_024"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1912,
+            "end_offset": 1924,
+            "annotation_id": "OY_025"
+        },
+        {
+            "decision": "- HLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1927,
+            "end_offset": 1930,
+            "annotation_id": "OY_026"
+        },
+        {
+            "decision": "- IDDM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1933,
+            "end_offset": 1937,
+            "annotation_id": "OY_027"
+        },
+        {
+            "decision": "- Hx of breast cancer, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1940,
+            "end_offset": 1959,
+            "annotation_id": "OY_028"
+        },
+        {
+            "decision": " s/p mastectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1961,
+            "end_offset": 1975,
+            "annotation_id": "OY_029"
+        },
+        {
+            "decision": "- chronic LE venous insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1992,
+            "end_offset": 2023,
+            "annotation_id": "OY_030"
+        },
+        {
+            "decision": "- OSA, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2026,
+            "end_offset": 2029,
+            "annotation_id": "OY_031"
+        },
+        {
+            "decision": " doesn't use CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2031,
+            "end_offset": 2047,
+            "annotation_id": "OY_032"
+        },
+        {
+            "decision": "- asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2050,
+            "end_offset": 2056,
+            "annotation_id": "OY_033"
+        },
+        {
+            "decision": "- rheumatic heart disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2059,
+            "end_offset": 2082,
+            "annotation_id": "OY_034"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2338,
+            "end_offset": 2381,
+            "annotation_id": "OY_035"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2382,
+            "end_offset": 2428,
+            "annotation_id": "OY_036"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2429,
+            "end_offset": 2467,
+            "annotation_id": "OY_037"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2468,
+            "end_offset": 2536,
+            "annotation_id": "OY_038"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic murmur loudest at L lower sternal border",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2537,
+            "end_offset": 2637,
+            "annotation_id": "OY_039"
+        },
+        {
+            "decision": "Abdomen: obese, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2638,
+            "end_offset": 2759,
+            "annotation_id": "OY_040"
+        },
+        {
+            "decision": "GU: foley in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2760,
+            "end_offset": 2778,
+            "annotation_id": "OY_041"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses. L>R 1+ pitting edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2779,
+            "end_offset": 2836,
+            "annotation_id": "OY_042"
+        },
+        {
+            "decision": "Neuro: A&Ox3, CNII-XII intact, sensation and strength grossly intact in all extremities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2837,
+            "end_offset": 2924,
+            "annotation_id": "OY_043"
+        },
+        {
+            "decision": "h/o rheumatic heart disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4206,
+            "end_offset": 4233,
+            "annotation_id": "OY_044"
+        },
+        {
+            "decision": ", HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4235,
+            "end_offset": 4238,
+            "annotation_id": "OY_045"
+        },
+        {
+            "decision": "DM2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4240,
+            "end_offset": 4243,
+            "annotation_id": "OY_046"
+        },
+        {
+            "decision": "severe anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4292,
+            "end_offset": 4305,
+            "annotation_id": "OY_047"
+        },
+        {
+            "decision": "guaiac positive stool. .",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4310,
+            "end_offset": 4332,
+            "annotation_id": "OY_048"
+        },
+        {
+            "decision": "Anemia: Likely from a slow ooze, considering she has not noticed a change in her bowel movements",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4338,
+            "end_offset": 4434,
+            "annotation_id": "OY_049"
+        },
+        {
+            "decision": "She was originally started on a pantoprazole infusion, which was switched to pantoprazole 40mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 4488,
+            "end_offset": 4582,
+            "annotation_id": "OY_050"
+        },
+        {
+            "decision": "peripheral IVs for access",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4609,
+            "end_offset": 4634,
+            "annotation_id": "OY_051"
+        },
+        {
+            "decision": "Hct originally came up to 22",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4694,
+            "end_offset": 4722,
+            "annotation_id": "OY_052"
+        },
+        {
+            "decision": "then transfused two more units PRBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4724,
+            "end_offset": 4760,
+            "annotation_id": "OY_053"
+        },
+        {
+            "decision": "Upper endoscopy showed a large, ulcerated, bleeding mass in the antrum highly suspicious for gastric carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4777,
+            "end_offset": 4887,
+            "annotation_id": "OY_054"
+        },
+        {
+            "decision": ".  A repeat endoscopy was performed after stabilization of her hematocrit, and pathology showed poorly differentiated adenocarcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4890,
+            "end_offset": 5019,
+            "annotation_id": "OY_055"
+        },
+        {
+            "decision": "oncology follow-up ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5050,
+            "end_offset": 5068,
+            "annotation_id": "OY_056"
+        },
+        {
+            "decision": "neo-adjuvant chemotherapy",
+            "category": "Category 5: Drug related",
+            "start_offset": 5082,
+            "end_offset": 5107,
+            "annotation_id": "OY_057"
+        },
+        {
+            "decision": " and partial gastrectomy.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5108,
+            "end_offset": 5131,
+            "annotation_id": "OY_058"
+        },
+        {
+            "decision": "received a total of 8 units of PRBCs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5146,
+            "end_offset": 5182,
+            "annotation_id": "OY_059"
+        },
+        {
+            "decision": "and her hematocrit was stable at discharge.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5183,
+            "end_offset": 5225,
+            "annotation_id": "OY_060"
+        },
+        {
+            "decision": "SOB and dyspepsia with exertion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5232,
+            "end_offset": 5263,
+            "annotation_id": "OY_061"
+        },
+        {
+            "decision": "almost definitely related to severe anemia,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5265,
+            "end_offset": 5307,
+            "annotation_id": "OY_062"
+        },
+        {
+            "decision": "suspicious for ACS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5328,
+            "end_offset": 5346,
+            "annotation_id": "OY_063"
+        },
+        {
+            "decision": "EKG shows possible mild strain, but not ACS",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5348,
+            "end_offset": 5391,
+            "annotation_id": "OY_064"
+        },
+        {
+            "decision": "Troponins were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5393,
+            "end_offset": 5416,
+            "annotation_id": "OY_065"
+        },
+        {
+            "decision": "mild ST depressions resolved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5422,
+            "end_offset": 5450,
+            "annotation_id": "OY_066"
+        },
+        {
+            "decision": "hemodynamically stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5465,
+            "end_offset": 5487,
+            "annotation_id": "OY_067"
+        },
+        {
+            "decision": "she was restarted on her metoprolol pre-op",
+            "category": "Category 5: Drug related",
+            "start_offset": 5488,
+            "end_offset": 5530,
+            "annotation_id": "OY_068"
+        },
+        {
+            "decision": "#. Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5537,
+            "end_offset": 5545,
+            "annotation_id": "OY_069"
+        },
+        {
+            "decision": "kept on a reduced lantus dose with a humalog sliding scale.  Her lantus was titrated up back to her home dose once no longer NPO.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5565,
+            "end_offset": 5693,
+            "annotation_id": "OY_070"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5699,
+            "end_offset": 5702,
+            "annotation_id": "OY_071"
+        },
+        {
+            "decision": "continued rosuvastatin. Stopped Aspirin in setting of GI bleed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5704,
+            "end_offset": 5766,
+            "annotation_id": "OY_072"
+        },
+        {
+            "decision": "Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5772,
+            "end_offset": 5778,
+            "annotation_id": "OY_073"
+        },
+        {
+            "decision": "continued montelukast and fluticasone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5780,
+            "end_offset": 5817,
+            "annotation_id": "OY_074"
+        },
+        {
+            "decision": "albuterol 90 mcg 1-2 puffs Q6hrs PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 5847,
+            "end_offset": 5883,
+            "annotation_id": "OY_075"
+        },
+        {
+            "decision": "ASA 325mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5886,
+            "end_offset": 5901,
+            "annotation_id": "OY_076"
+        },
+        {
+            "decision": "duloxetine DR 60mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5904,
+            "end_offset": 5928,
+            "annotation_id": "OY_077"
+        },
+        {
+            "decision": "fluticasone 220mcg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 5931,
+            "end_offset": 5966,
+            "annotation_id": "OY_078"
+        },
+        {
+            "decision": "furosemide 40/20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 5969,
+            "end_offset": 5993,
+            "annotation_id": "OY_079"
+        },
+        {
+            "decision": "insulin lispro sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 5996,
+            "end_offset": 6024,
+            "annotation_id": "OY_080"
+        },
+        {
+            "decision": "metoprolol tartrate 50mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6057,
+            "end_offset": 6098,
+            "annotation_id": "OY_081"
+        },
+        {
+            "decision": "montelukast 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6101,
+            "end_offset": 6123,
+            "annotation_id": "OY_082"
+        },
+        {
+            "decision": "rosuvastatin 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6126,
+            "end_offset": 6149,
+            "annotation_id": "OY_083"
+        },
+        {
+            "decision": "omeprazole 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6152,
+            "end_offset": 6173,
+            "annotation_id": "OY_084"
+        },
+        {
+            "decision": "valsartan 320mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6176,
+            "end_offset": 6197,
+            "annotation_id": "OY_085"
+        },
+        {
+            "decision": "verapamil ER 180mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6200,
+            "end_offset": 6224,
+            "annotation_id": "OY_086"
+        },
+        {
+            "decision": "Ambien 10mg QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 6227,
+            "end_offset": 6242,
+            "annotation_id": "OY_087"
+        },
+        {
+            "decision": "CaCo3-Vit D3 600/400",
+            "category": "Category 5: Drug related",
+            "start_offset": 6245,
+            "end_offset": 6265,
+            "annotation_id": "OY_088"
+        },
+        {
+            "decision": "duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) Capsule, Delayed Release(E.C.) PO DAILY (Daily)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6293,
+            "end_offset": 6400,
+            "annotation_id": "OY_089"
+        },
+        {
+            "decision": "albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every six (6) hours as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6406,
+            "end_offset": 6552,
+            "annotation_id": "OY_090"
+        },
+        {
+            "decision": "fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6557,
+            "end_offset": 6655,
+            "annotation_id": "OY_091"
+        },
+        {
+            "decision": "furosemide 40 mg Tablet Sig: One (1) Tablet PO in the morning.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6661,
+            "end_offset": 6722,
+            "annotation_id": "OY_092"
+        },
+        {
+            "decision": "furosemide 20 mg Tablet Sig: One (1) Tablet PO at bedtime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6727,
+            "end_offset": 6784,
+            "annotation_id": "OY_093"
+        },
+        {
+            "decision": "insulin lispro 100 unit/mL Solution Sig: Sliding scale Subcutaneous three times a day: Use your regular sliding scale.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6789,
+            "end_offset": 6906,
+            "annotation_id": "OY_094"
+        },
+        {
+            "decision": "insulin glargine 100 unit/mL Solution Sig: Thirty (30) units Subcutaneous at bedtime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6912,
+            "end_offset": 6996,
+            "annotation_id": "OY_095"
+        },
+        {
+            "decision": "metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7001,
+            "end_offset": 7075,
+            "annotation_id": "OY_096"
+        },
+        {
+            "decision": "montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7081,
+            "end_offset": 7141,
+            "annotation_id": "OY_097"
+        },
+        {
+            "decision": "omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day. Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7148,
+            "end_offset": 7311,
+            "annotation_id": "OY_098"
+        },
+        {
+            "decision": "rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7316,
+            "end_offset": 7376,
+            "annotation_id": "OY_099"
+        },
+        {
+            "decision": " valsartan 160 mg Tablet Sig: One (1) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7383,
+            "end_offset": 7441,
+            "annotation_id": "OY_100"
+        },
+        {
+            "decision": "verapamil 180 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7448,
+            "end_offset": 7549,
+            "annotation_id": "OY_101"
+        },
+        {
+            "decision": "insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7624,
+            "end_offset": 7632,
+            "annotation_id": "OY_102"
+        },
+        {
+            "decision": "Ambien 10 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7556,
+            "end_offset": 7632,
+            "annotation_id": "OY_103"
+        },
+        {
+            "decision": "Gastric cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7686,
+            "end_offset": 7700,
+            "annotation_id": "OY_104"
+        },
+        {
+            "decision": "Discharge Condition: Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7703,
+            "end_offset": 7757,
+            "annotation_id": "OY_105"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7759,
+            "end_offset": 7804,
+            "annotation_id": "OY_106"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7806,
+            "end_offset": 7847,
+            "annotation_id": "OY_107"
+        },
+        {
+            "decision": "GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7966,
+            "end_offset": 7974,
+            "annotation_id": "OY_108"
+        },
+        {
+            "decision": "You had an endoscopy that showed that unfortunately showed that you have gastric cancer.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7976,
+            "end_offset": 8063,
+            "annotation_id": "OY_109"
+        },
+        {
+            "decision": "seen by our oncologists",
+            "category": "Category 1: Contact related",
+            "start_offset": 8075,
+            "end_offset": 8098,
+            "annotation_id": "OY_110"
+        },
+        {
+            "decision": "appointment to follow up with our oncologists this coming Monday. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8204,
+            "end_offset": 8268,
+            "annotation_id": "OY_111"
+        },
+        {
+            "decision": "omeprazole has been increased to twice daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8276,
+            "end_offset": 8320,
+            "annotation_id": "OY_112"
+        },
+        {
+            "decision": "to prevent further GI bleeding.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 8321,
+            "end_offset": 8351,
+            "annotation_id": "OY_113"
+        },
+        {
+            "decision": "aspirin has also been discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 8359,
+            "end_offset": 8393,
+            "annotation_id": "OY_114"
+        },
+        {
+            "decision": "and you should discuss with your primary care doctor when you should restart this.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8395,
+            "end_offset": 8476,
+            "annotation_id": "OY_115"
+        },
+        {
+            "decision": "Department: [**State **]When: TUESDAY [**2180-10-17**] at 10:45 AM With: [**Name6 (MD) **] [**Name8 (MD) 9862**], MD [**Telephone/Fax (1) 2205**] Building: [**State **] ([**Location (un) **], MA) [**Location (un) **] Campus: OFF CAMPUS     Best Parking: On Street Parking",
+            "category": "Category 1: Contact related",
+            "start_offset": 8550,
+            "end_offset": 8821,
+            "annotation_id": "OY_116"
+        },
+        {
+            "decision": "Department: HEMATOLOGY/ONCOLOGY When: MONDAY [**2180-10-16**] at 10:00 AM With: DR. [**First Name4 (NamePattern1) 4912**] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 8823,
+            "end_offset": 9146,
+            "annotation_id": "OY_117"
+        },
+        {
+            "decision": "Department: HEMATOLOGY/ONCOLOGY When: MONDAY [**2180-10-16**] at 10:00 AM With: [**Last Name (LF) 3150**],[**Name8 (MD) **] MD [**Telephone/Fax (1) 11133**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 9148,
+            "end_offset": 9447,
+            "annotation_id": "OY_118"
+        }
+    ]
+}

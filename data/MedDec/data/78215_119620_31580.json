@@ -1,0 +1,1112 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "78215_119620_31580",
+    "annotations": [
+        {
+            "decision": "Fever",
+            "category": "Category 3: Defining problem",
+            "start_offset": 325,
+            "end_offset": 330,
+            "annotation_id": "PP_000"
+        },
+        {
+            "decision": "Fatigue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 332,
+            "end_offset": 339,
+            "annotation_id": "PP_001"
+        },
+        {
+            "decision": "Desensitization to antibiotics, in the ICU.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 379,
+            "end_offset": 421,
+            "annotation_id": "PP_002"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 475,
+            "end_offset": 479,
+            "annotation_id": "PP_003"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 481,
+            "end_offset": 485,
+            "annotation_id": "PP_004"
+        },
+        {
+            "decision": "MDS evolving into AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 487,
+            "end_offset": 508,
+            "annotation_id": "PP_005"
+        },
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 568,
+            "end_offset": 587,
+            "annotation_id": "PP_006"
+        },
+        {
+            "decision": "fatigue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 589,
+            "end_offset": 596,
+            "annotation_id": "PP_007"
+        },
+        {
+            "decision": "fever",
+            "category": "Category 3: Defining problem",
+            "start_offset": 602,
+            "end_offset": 607,
+            "annotation_id": "PP_008"
+        },
+        {
+            "decision": "denies any recent diarrhea, nausea, or vomiting. Denies abdominal pain, changes in bowel habits, or blood in stool. Denies burning with urination or blood in urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1256,
+            "end_offset": 1419,
+            "annotation_id": "PP_009"
+        },
+        {
+            "decision": "increased bruising when his platlets are low",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1427,
+            "end_offset": 1471,
+            "annotation_id": "PP_010"
+        },
+        {
+            "decision": "Stable back pain associated with DJD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1473,
+            "end_offset": 1509,
+            "annotation_id": "PP_011"
+        },
+        {
+            "decision": "easy bruising",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1603,
+            "end_offset": 1616,
+            "annotation_id": "PP_012"
+        },
+        {
+            "decision": "dropping cell counts (pancytopenic) as well as some SOB/fatigue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1621,
+            "end_offset": 1684,
+            "annotation_id": "PP_013"
+        },
+        {
+            "decision": "myelodysplastic syndrome with presence of a 15-20% immature cells consistent with blasts",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1721,
+            "end_offset": 1809,
+            "annotation_id": "PP_014"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 1811,
+            "end_offset": 1840,
+            "annotation_id": "PP_015"
+        },
+        {
+            "decision": "MDS with excess blasts in transformation, suggesting acceleration of the disease towards acute leukemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1880,
+            "end_offset": 1983,
+            "annotation_id": "PP_016"
+        },
+        {
+            "decision": "induction and reinduction with single [**Doctor Last Name 360**] clofarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1999,
+            "end_offset": 2075,
+            "annotation_id": "PP_017"
+        },
+        {
+            "decision": "dysplasia was dropping cell lines",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2164,
+            "end_offset": 2197,
+            "annotation_id": "PP_018"
+        },
+        {
+            "decision": "bone marrow biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2202,
+            "end_offset": 2220,
+            "annotation_id": "PP_019"
+        },
+        {
+            "decision": "showed blasts occurring in small clusters occupying an estimated 20% of the marrow cellularity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2243,
+            "end_offset": 2337,
+            "annotation_id": "PP_020"
+        },
+        {
+            "decision": "Cytogenetics showed deletion of the long arm of chromosome 20",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2339,
+            "end_offset": 2400,
+            "annotation_id": "PP_021"
+        },
+        {
+            "decision": "decitabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2463,
+            "end_offset": 2473,
+            "annotation_id": "PP_022"
+        },
+        {
+            "decision": "C2 decitabine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2475,
+            "end_offset": 2488,
+            "annotation_id": "PP_023"
+        },
+        {
+            "decision": "allogeneic stem cell transplant",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2553,
+            "end_offset": 2584,
+            "annotation_id": "PP_024"
+        },
+        {
+            "decision": "COPD/emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2642,
+            "end_offset": 2656,
+            "annotation_id": "PP_025"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2659,
+            "end_offset": 2663,
+            "annotation_id": "PP_026"
+        },
+        {
+            "decision": "Angina (has been prescribed SL nitro for CP/neck pain that occurs on exertion with SOB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2668,
+            "end_offset": 2754,
+            "annotation_id": "PP_027"
+        },
+        {
+            "decision": "normal stress MIBI",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2812,
+            "end_offset": 2830,
+            "annotation_id": "PP_028"
+        },
+        {
+            "decision": "Degenerative joint disease/arthritis of the spine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2834,
+            "end_offset": 2883,
+            "annotation_id": "PP_029"
+        },
+        {
+            "decision": "port insertion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2919,
+            "end_offset": 2933,
+            "annotation_id": "PP_030"
+        },
+        {
+            "decision": "Appendectomy as a child - age 8",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2949,
+            "end_offset": 2980,
+            "annotation_id": "PP_031"
+        },
+        {
+            "decision": "Submucous resection - age 12",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2983,
+            "end_offset": 3011,
+            "annotation_id": "PP_032"
+        },
+        {
+            "decision": "Left meniscus repair of the knee - age 37",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3014,
+            "end_offset": 3055,
+            "annotation_id": "PP_033"
+        },
+        {
+            "decision": "Right meniscus repair of the knee - age 64",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3058,
+            "end_offset": 3100,
+            "annotation_id": "PP_034"
+        },
+        {
+            "decision": "Hernia repair left side - age 65",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3103,
+            "end_offset": 3135,
+            "annotation_id": "PP_035"
+        },
+        {
+            "decision": "General: Patient able to communicate clearly, Appears slightly short of breath but in no distress, Pleasant",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3781,
+            "end_offset": 3888,
+            "annotation_id": "PP_036"
+        },
+        {
+            "decision": "HEENT: PERRL, Oropharynx clear, No mucosal lesions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3889,
+            "end_offset": 3939,
+            "annotation_id": "PP_037"
+        },
+        {
+            "decision": "Neck: No LAD, Non tender",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3940,
+            "end_offset": 3964,
+            "annotation_id": "PP_038"
+        },
+        {
+            "decision": "CV: Distant S1,S2, NO M/R/G",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3965,
+            "end_offset": 3992,
+            "annotation_id": "PP_039"
+        },
+        {
+            "decision": "Resp: CTA B",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3993,
+            "end_offset": 4004,
+            "annotation_id": "PP_040"
+        },
+        {
+            "decision": "Back: No CVA tenderness, No tenderness to palpation of spine/paraspinous muscles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4005,
+            "end_offset": 4085,
+            "annotation_id": "PP_041"
+        },
+        {
+            "decision": "Abdomen: Soft, Obese, Non Tender, NO HSM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4086,
+            "end_offset": 4126,
+            "annotation_id": "PP_042"
+        },
+        {
+            "decision": "Extremities: Without Lower Extremity Edema,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4127,
+            "end_offset": 4169,
+            "annotation_id": "PP_043"
+        },
+        {
+            "decision": "Neuro: CN II-XII Intact, Normal sensation to light touch in the upper and lower extremity, Normal strength upper/lower extremity ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4171,
+            "end_offset": 4299,
+            "annotation_id": "PP_044"
+        },
+        {
+            "decision": "Skin: Diffuse confluent macular Erythematous rash involving the face, chest, back, and lateral thighs. Without desquamation or vesicles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4301,
+            "end_offset": 4436,
+            "annotation_id": "PP_045"
+        },
+        {
+            "decision": "Lungs CTAB, no wheezing Without evidence of rash/erythema/edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4459,
+            "end_offset": 4522,
+            "annotation_id": "PP_046"
+        },
+        {
+            "decision": "PLT SMR-VERY LOW PLT COUNT-25",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4665,
+            "end_offset": 4694,
+            "annotation_id": "PP_047"
+        },
+        {
+            "decision": "HYPOCHROM-2+ ANISOCYT-1+ POIKILOCY-1+ MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4731,
+            "end_offset": 4825,
+            "annotation_id": "PP_048"
+        },
+        {
+            "decision": "CT chest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5367,
+            "end_offset": 5375,
+            "annotation_id": "PP_049"
+        },
+        {
+            "decision": "New right upper lobe pneumonia, with no imaging features to suggest a specific type of infection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5379,
+            "end_offset": 5475,
+            "annotation_id": "PP_050"
+        },
+        {
+            "decision": "Diffuse severe centrilobular emphysema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5479,
+            "end_offset": 5517,
+            "annotation_id": "PP_051"
+        },
+        {
+            "decision": "Triple vessel coronary artery calcification, possible aortic stenosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5522,
+            "end_offset": 5591,
+            "annotation_id": "PP_052"
+        },
+        {
+            "decision": "CT chest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5606,
+            "end_offset": 5614,
+            "annotation_id": "PP_053"
+        },
+        {
+            "decision": "Interval improvement in right upper lobe pneumonia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5619,
+            "end_offset": 5669,
+            "annotation_id": "PP_054"
+        },
+        {
+            "decision": "Diffuse severe centrilobular emphysema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5674,
+            "end_offset": 5712,
+            "annotation_id": "PP_055"
+        },
+        {
+            "decision": "ECG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5716,
+            "end_offset": 5719,
+            "annotation_id": "PP_056"
+        },
+        {
+            "decision": "Sinus rhythm. Non-diagnostic Q waves in the inferior leads. Compared to the previous tracing no significant change",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5733,
+            "end_offset": 5847,
+            "annotation_id": "PP_057"
+        },
+        {
+            "decision": "Right Upper Lobe Pneumonia/Fever",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6226,
+            "end_offset": 6258,
+            "annotation_id": "PP_058"
+        },
+        {
+            "decision": "CT scan",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6290,
+            "end_offset": 6297,
+            "annotation_id": "PP_059"
+        },
+        {
+            "decision": "2L NC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6326,
+            "end_offset": 6331,
+            "annotation_id": "PP_060"
+        },
+        {
+            "decision": "Micro data (cultures etc.) did not point to one particular causative organism",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6383,
+            "end_offset": 6460,
+            "annotation_id": "PP_061"
+        },
+        {
+            "decision": "treated empirically for both fungal and bacterial etiologies",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6470,
+            "end_offset": 6530,
+            "annotation_id": "PP_062"
+        },
+        {
+            "decision": "Repeat CT scan of the chest on [**12-2**] showed improvement of disease but not complete resolution",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6584,
+            "end_offset": 6683,
+            "annotation_id": "PP_063"
+        },
+        {
+            "decision": "patient afebrile, without cough or SOB, breathing on room air",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6699,
+            "end_offset": 6760,
+            "annotation_id": "PP_064"
+        },
+        {
+            "decision": "tigecycline",
+            "category": "Category 5: Drug related",
+            "start_offset": 6805,
+            "end_offset": 6816,
+            "annotation_id": "PP_065"
+        },
+        {
+            "decision": "meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 6818,
+            "end_offset": 6827,
+            "annotation_id": "PP_066"
+        },
+        {
+            "decision": "voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 6829,
+            "end_offset": 6841,
+            "annotation_id": "PP_067"
+        },
+        {
+            "decision": "doxycycline ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6867,
+            "end_offset": 6878,
+            "annotation_id": "PP_068"
+        },
+        {
+            "decision": "voriconazole ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6883,
+            "end_offset": 6895,
+            "annotation_id": "PP_069"
+        },
+        {
+            "decision": "doxy",
+            "category": "Category 5: Drug related",
+            "start_offset": 6961,
+            "end_offset": 6965,
+            "annotation_id": "PP_070"
+        },
+        {
+            "decision": "vori",
+            "category": "Category 5: Drug related",
+            "start_offset": 6968,
+            "end_offset": 6972,
+            "annotation_id": "PP_071"
+        },
+        {
+            "decision": "Drug Rash/Allergies",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7118,
+            "end_offset": 7137,
+            "annotation_id": "PP_072"
+        },
+        {
+            "decision": "beet red rash",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7221,
+            "end_offset": 7234,
+            "annotation_id": "PP_073"
+        },
+        {
+            "decision": "clindamycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7259,
+            "end_offset": 7270,
+            "annotation_id": "PP_074"
+        },
+        {
+            "decision": "aztreonam",
+            "category": "Category 5: Drug related",
+            "start_offset": 7275,
+            "end_offset": 7284,
+            "annotation_id": "PP_075"
+        },
+        {
+            "decision": "linezolid",
+            "category": "Category 5: Drug related",
+            "start_offset": 7357,
+            "end_offset": 7366,
+            "annotation_id": "PP_076"
+        },
+        {
+            "decision": "doxycycline",
+            "category": "Category 5: Drug related",
+            "start_offset": 7368,
+            "end_offset": 7379,
+            "annotation_id": "PP_077"
+        },
+        {
+            "decision": "voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 7385,
+            "end_offset": 7397,
+            "annotation_id": "PP_078"
+        },
+        {
+            "decision": "Solumedrol 60mg IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 7425,
+            "end_offset": 7443,
+            "annotation_id": "PP_079"
+        },
+        {
+            "decision": "Benadryl 25mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 7448,
+            "end_offset": 7461,
+            "annotation_id": "PP_080"
+        },
+        {
+            "decision": "transient redness and shortness of breath/feeling like throat was closing ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7487,
+            "end_offset": 7560,
+            "annotation_id": "PP_081"
+        },
+        {
+            "decision": "linezolid infusion",
+            "category": "Category 5: Drug related",
+            "start_offset": 7568,
+            "end_offset": 7586,
+            "annotation_id": "PP_082"
+        },
+        {
+            "decision": "Linezolid infusion was stopped ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7588,
+            "end_offset": 7618,
+            "annotation_id": "PP_083"
+        },
+        {
+            "decision": "redness and shortness of breath resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7628,
+            "end_offset": 7668,
+            "annotation_id": "PP_084"
+        },
+        {
+            "decision": "linezolid",
+            "category": "Category 5: Drug related",
+            "start_offset": 7773,
+            "end_offset": 7782,
+            "annotation_id": "PP_085"
+        },
+        {
+            "decision": "meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 7787,
+            "end_offset": 7796,
+            "annotation_id": "PP_086"
+        },
+        {
+            "decision": "continued on prednisone 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7810,
+            "end_offset": 7844,
+            "annotation_id": "PP_087"
+        },
+        {
+            "decision": "Diphenhydramine 25mg Q6hrs",
+            "category": "Category 5: Drug related",
+            "start_offset": 7846,
+            "end_offset": 7872,
+            "annotation_id": "PP_088"
+        },
+        {
+            "decision": "Prevacid 20mg Q12hrs",
+            "category": "Category 5: Drug related",
+            "start_offset": 7878,
+            "end_offset": 7898,
+            "annotation_id": "PP_089"
+        },
+        {
+            "decision": "linezolid infusion",
+            "category": "Category 5: Drug related",
+            "start_offset": 7932,
+            "end_offset": 7950,
+            "annotation_id": "PP_090"
+        },
+        {
+            "decision": "began to feel his throat closing, an erythematous rash was noted on chest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7964,
+            "end_offset": 8037,
+            "annotation_id": "PP_091"
+        },
+        {
+            "decision": "hypertensive and tachycardic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8053,
+            "end_offset": 8081,
+            "annotation_id": "PP_092"
+        },
+        {
+            "decision": "EKG showed T wave flattening, but these changes resolved after normalization of symptoms, and cardiac enzymes were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8131,
+            "end_offset": 8254,
+            "annotation_id": "PP_093"
+        },
+        {
+            "decision": "steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 8292,
+            "end_offset": 8300,
+            "annotation_id": "PP_094"
+        },
+        {
+            "decision": "benadryl",
+            "category": "Category 5: Drug related",
+            "start_offset": 8302,
+            "end_offset": 8310,
+            "annotation_id": "PP_095"
+        },
+        {
+            "decision": "H2 blocker ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8319,
+            "end_offset": 8329,
+            "annotation_id": "PP_096"
+        },
+        {
+            "decision": "meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 8402,
+            "end_offset": 8411,
+            "annotation_id": "PP_097"
+        },
+        {
+            "decision": "transfer back to the floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 8419,
+            "end_offset": 8445,
+            "annotation_id": "PP_098"
+        },
+        {
+            "decision": "meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 8506,
+            "end_offset": 8515,
+            "annotation_id": "PP_099"
+        },
+        {
+            "decision": "tigecycline",
+            "category": "Category 5: Drug related",
+            "start_offset": 8517,
+            "end_offset": 8528,
+            "annotation_id": "PP_100"
+        },
+        {
+            "decision": "voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 8530,
+            "end_offset": 8542,
+            "annotation_id": "PP_101"
+        },
+        {
+            "decision": "continued on 20mg prednisone",
+            "category": "Category 5: Drug related",
+            "start_offset": 8591,
+            "end_offset": 8619,
+            "annotation_id": "PP_102"
+        },
+        {
+            "decision": "benadryl dose decreased ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8621,
+            "end_offset": 8644,
+            "annotation_id": "PP_103"
+        },
+        {
+            "decision": "fexofenadine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8662,
+            "end_offset": 8674,
+            "annotation_id": "PP_104"
+        },
+        {
+            "decision": "prednisone taper",
+            "category": "Category 5: Drug related",
+            "start_offset": 8726,
+            "end_offset": 8742,
+            "annotation_id": "PP_105"
+        },
+        {
+            "decision": "pepcid and benadryl as PRN ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8827,
+            "end_offset": 8853,
+            "annotation_id": "PP_106"
+        },
+        {
+            "decision": "multiple episodes of tachycardia/htn",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8937,
+            "end_offset": 8973,
+            "annotation_id": "PP_107"
+        },
+        {
+            "decision": "continued on Metoprolol 25mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9015,
+            "end_offset": 9043,
+            "annotation_id": "PP_108"
+        },
+        {
+            "decision": "MDS/AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9097,
+            "end_offset": 9104,
+            "annotation_id": "PP_109"
+        },
+        {
+            "decision": "C2 Dacogen",
+            "category": "Category 5: Drug related",
+            "start_offset": 9115,
+            "end_offset": 9125,
+            "annotation_id": "PP_110"
+        },
+        {
+            "decision": "transfusion if needed",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 9191,
+            "end_offset": 9212,
+            "annotation_id": "PP_111"
+        },
+        {
+            "decision": "Plan for next round of chemotherapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9214,
+            "end_offset": 9249,
+            "annotation_id": "PP_112"
+        },
+        {
+            "decision": "COPD/EMPHYSEMA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9273,
+            "end_offset": 9287,
+            "annotation_id": "PP_113"
+        },
+        {
+            "decision": "Combivent four times daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9302,
+            "end_offset": 9328,
+            "annotation_id": "PP_114"
+        },
+        {
+            "decision": "Advair daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9346,
+            "end_offset": 9358,
+            "annotation_id": "PP_115"
+        },
+        {
+            "decision": "2L NC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9387,
+            "end_offset": 9392,
+            "annotation_id": "PP_116"
+        },
+        {
+            "decision": "Emphysema ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9466,
+            "end_offset": 9475,
+            "annotation_id": "PP_117"
+        },
+        {
+            "decision": "CT scan",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9492,
+            "end_offset": 9499,
+            "annotation_id": "PP_118"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9534,
+            "end_offset": 9538,
+            "annotation_id": "PP_119"
+        },
+        {
+            "decision": "Omeprazole daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9553,
+            "end_offset": 9569,
+            "annotation_id": "PP_120"
+        },
+        {
+            "decision": "FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - Dosage uncertain",
+            "category": "Category 5: Drug related",
+            "start_offset": 9641,
+            "end_offset": 9698,
+            "annotation_id": "PP_121"
+        },
+        {
+            "decision": "IPRATROPIUM-ALBUTEROL [COMBIVENT] - 103 mcg (90 mcg)-18 mcg/Actuation Aerosol - 1 (One) inhaled four times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9701,
+            "end_offset": 9813,
+            "annotation_id": "PP_122"
+        },
+        {
+            "decision": "LORAZEPAM - 0.5 mg Tablet by mouth daily as needed for insomnia (has not been taking)",
+            "category": "Category 5: Drug related",
+            "start_offset": 9816,
+            "end_offset": 9900,
+            "annotation_id": "PP_123"
+        },
+        {
+            "decision": "NITROGLYCERIN [NITROQUICK] - 0.4 mg Tablet, Sublingual PRN (has not been taking)",
+            "category": "Category 5: Drug related",
+            "start_offset": 9904,
+            "end_offset": 9983,
+            "annotation_id": "PP_124"
+        },
+        {
+            "decision": "OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9987,
+            "end_offset": 10045,
+            "annotation_id": "PP_125"
+        },
+        {
+            "decision": "PROCHLORPERAZINE MALEATE - 10 mg Tablet PO Q8h PRN for nausea (has not been taking)",
+            "category": "Category 5: Drug related",
+            "start_offset": 10048,
+            "end_offset": 10130,
+            "annotation_id": "PP_126"
+        },
+        {
+            "decision": "METOPROLOL 25 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 10134,
+            "end_offset": 10167,
+            "annotation_id": "PP_127"
+        },
+        {
+            "decision": "Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: One (1) Puff Inhalation Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10195,
+            "end_offset": 10293,
+            "annotation_id": "PP_128"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day): 1 INH twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10299,
+            "end_offset": 10447,
+            "annotation_id": "PP_129"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10452,
+            "end_offset": 10526,
+            "annotation_id": "PP_130"
+        },
+        {
+            "decision": "Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10532,
+            "end_offset": 10639,
+            "annotation_id": "PP_131"
+        },
+        {
+            "decision": "Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours). Disp:*60 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10645,
+            "end_offset": 10749,
+            "annotation_id": "PP_132"
+        },
+        {
+            "decision": "Prednisone 5 mg Tablet Sig: Four (4) Tablet PO once a day for 2 days: Take 4 tabs (total 20mg) on both 11/4/9 and 11/5/9. Disp:*8 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10753,
+            "end_offset": 10905,
+            "annotation_id": "PP_133"
+        },
+        {
+            "decision": "Prednisone 5 mg Tablet Sig: Two (2) Tablet PO once a day for 3 days: Take 2 tabs (total 10mg) each day on [**11-17**], [**12-11**]. Disp:*6 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10909,
+            "end_offset": 11071,
+            "annotation_id": "PP_134"
+        },
+        {
+            "decision": "Prednisone 5 mg Tablet Sig: One (1) Tablet PO once a day for 2 days: Take one tab daily on [**12-12**] and [**12-13**]. Disp:*2 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 11075,
+            "end_offset": 11225,
+            "annotation_id": "PP_135"
+        },
+        {
+            "decision": "Benadryl 25 mg Capsule Sig: [**2-4**] Capsules PO every eight (8) hours as needed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11229,
+            "end_offset": 11310,
+            "annotation_id": "PP_136"
+        },
+        {
+            "decision": "for rash, shortness of breath, symptoms of allergic reactio",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11311,
+            "end_offset": 11371,
+            "annotation_id": "PP_137"
+        },
+        {
+            "decision": ": Take this medication ([**2-4**] capsules) if you have symptoms of an allergic reaction such as rash or difficulty breath. Call your doctor immediately and/or return to the hospital.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11373,
+            "end_offset": 11553,
+            "annotation_id": "PP_138"
+        },
+        {
+            "decision": "Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours). Disp:*60 Capsule(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 11592,
+            "end_offset": 11706,
+            "annotation_id": "PP_139"
+        },
+        {
+            "decision": "Pepcid 20 mg Tablet Sig: One (1) Tablet PO once a day as needed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11711,
+            "end_offset": 11774,
+            "annotation_id": "PP_140"
+        },
+        {
+            "decision": "for rash, shortness of breath, allergic symptoms:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11775,
+            "end_offset": 11823,
+            "annotation_id": "PP_141"
+        },
+        {
+            "decision": "Take this medication if you develop rash, itching, shortness of breath, or other symptoms of an allergic reaction. Also immediately call your doctor and/or return to the hospital.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11825,
+            "end_offset": 12003,
+            "annotation_id": "PP_142"
+        },
+        {
+            "decision": "PNEUMONIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12089,
+            "end_offset": 12098,
+            "annotation_id": "PP_143"
+        },
+        {
+            "decision": "ACUTE MYELOGENOUS LEUKEMIA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12100,
+            "end_offset": 12126,
+            "annotation_id": "PP_144"
+        },
+        {
+            "decision": "EMPHYSEMA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12128,
+            "end_offset": 12137,
+            "annotation_id": "PP_145"
+        },
+        {
+            "decision": "ALLERGIES TO MULTIPLE ANTIBIOTICS.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12139,
+            "end_offset": 12172,
+            "annotation_id": "PP_146"
+        },
+        {
+            "decision": "Stable. Afebrile. Vital signs stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12197,
+            "end_offset": 12233,
+            "annotation_id": "PP_147"
+        },
+        {
+            "decision": "difficulty breathing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12300,
+            "end_offset": 12320,
+            "annotation_id": "PP_148"
+        },
+        {
+            "decision": "cough",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12325,
+            "end_offset": 12330,
+            "annotation_id": "PP_149"
+        },
+        {
+            "decision": "pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12357,
+            "end_offset": 12366,
+            "annotation_id": "PP_150"
+        },
+        {
+            "decision": "treated with antibiotics as well as medications to help prevent an allergic reaction",
+            "category": "Category 5: Drug related",
+            "start_offset": 12503,
+            "end_offset": 12587,
+            "annotation_id": "PP_151"
+        },
+        {
+            "decision": "repeat CT scan to see how the pneumonia had changed, this showed improvement but not complete resolution",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12599,
+            "end_offset": 12703,
+            "annotation_id": "PP_152"
+        },
+        {
+            "decision": "you were breathing well, without cough or fever and without evidence of allergic reaction (no rash or difficulty breathing).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12719,
+            "end_offset": 12841,
+            "annotation_id": "PP_153"
+        },
+        {
+            "decision": "Please call your doctor or return to the hospital if you develop fever, chills, shortness of breath, cough, rash, chest pain, abdominal pain, diarrhea, or other symptoms that concern you",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12846,
+            "end_offset": 13032,
+            "annotation_id": "PP_154"
+        },
+        {
+            "decision": "If you develop rash or shortness of breath - those symptoms would be concerning for an allergic reaction - please immediately take between 25 to 50 mg of benadryl (this will make you sleepy - do not drive or operate machinery) AND 25 mg of pepcid (famotidine); please make sure you have these medications at home with you; and also immediately call your doctor and/or return to the hospital.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13036,
+            "end_offset": 13426,
+            "annotation_id": "PP_155"
+        },
+        {
+            "decision": "You are on a medication called prednisone, this will need to be tapered down by decreasing its dose over the course of the next week until you finish.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13430,
+            "end_offset": 13579,
+            "annotation_id": "PP_156"
+        },
+        {
+            "decision": "Oncologist - Dr. [**Last Name (STitle) **] - clinic appointment Thursday [**12-8**] at 12pm (noon).",
+            "category": "Category 1: Contact related",
+            "start_offset": 13605,
+            "end_offset": 13702,
+            "annotation_id": "PP_157"
+        }
+    ]
+}

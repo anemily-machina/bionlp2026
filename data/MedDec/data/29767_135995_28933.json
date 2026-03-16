@@ -1,0 +1,1413 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29767_135995_28933",
+    "annotations": [
+        {
+            "decision": "Shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 310,
+            "end_offset": 329,
+            "annotation_id": "KA_000"
+        },
+        {
+            "decision": "intubations",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 487,
+            "end_offset": 498,
+            "annotation_id": "KA_001"
+        },
+        {
+            "decision": "severe COPD (requiring multiple intubations)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 455,
+            "end_offset": 498,
+            "annotation_id": "KA_002"
+        },
+        {
+            "decision": "diastolic CHF (EF 60% from [**2-/2122**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 501,
+            "end_offset": 541,
+            "annotation_id": "KA_003"
+        },
+        {
+            "decision": "CAD with reported prior MIs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 544,
+            "end_offset": 571,
+            "annotation_id": "KA_004"
+        },
+        {
+            "decision": "history of non-compliance with meds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 577,
+            "end_offset": 612,
+            "annotation_id": "KA_005"
+        },
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 651,
+            "end_offset": 670,
+            "annotation_id": "KA_006"
+        },
+        {
+            "decision": "COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 848,
+            "end_offset": 865,
+            "annotation_id": "KA_007"
+        },
+        {
+            "decision": "Afebrile, P 80, BP 133/78, breathing 40 times a minute with increased work of breathing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1342,
+            "end_offset": 1429,
+            "annotation_id": "KA_008"
+        },
+        {
+            "decision": "His breath sounds were tight sounding with diffuse expiratory wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1431,
+            "end_offset": 1500,
+            "annotation_id": "KA_009"
+        },
+        {
+            "decision": "EKG showed sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1594,
+            "end_offset": 1622,
+            "annotation_id": "KA_010"
+        },
+        {
+            "decision": "CXR showed low lung volumes and bibasilar R>L atelectasis with RML atelectasis/partial collapse",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1625,
+            "end_offset": 1720,
+            "annotation_id": "KA_011"
+        },
+        {
+            "decision": "He was given nebs, methylprednisolone 125mg IV, levofloxacin 750mg IV, and oxycodone 10mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 1723,
+            "end_offset": 1812,
+            "annotation_id": "KA_012"
+        },
+        {
+            "decision": "persistent tachycardia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1861,
+            "end_offset": 1883,
+            "annotation_id": "KA_013"
+        },
+        {
+            "decision": "2L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1892,
+            "end_offset": 1897,
+            "annotation_id": "KA_014"
+        },
+        {
+            "decision": "admitted instead to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1906,
+            "end_offset": 1934,
+            "annotation_id": "KA_015"
+        },
+        {
+            "decision": "Pt currently very disgruntled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2009,
+            "end_offset": 2038,
+            "annotation_id": "KA_016"
+        },
+        {
+            "decision": "persistent cough and difficulty breathing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2048,
+            "end_offset": 2089,
+            "annotation_id": "KA_017"
+        },
+        {
+            "decision": "renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2110,
+            "end_offset": 2123,
+            "annotation_id": "KA_018"
+        },
+        {
+            "decision": "has been on lasix and ACE-I ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2320,
+            "end_offset": 2347,
+            "annotation_id": "KA_019"
+        },
+        {
+            "decision": "As above.  Also, chronic pain in \"every bone, everywhere",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2441,
+            "end_offset": 2497,
+            "annotation_id": "KA_020"
+        },
+        {
+            "decision": "ROS otherwise negative.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2501,
+            "end_offset": 2523,
+            "annotation_id": "KA_021"
+        },
+        {
+            "decision": "COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2549,
+            "end_offset": 2553,
+            "annotation_id": "KA_022"
+        },
+        {
+            "decision": "s/p multiple intubations ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2554,
+            "end_offset": 2578,
+            "annotation_id": "KA_023"
+        },
+        {
+            "decision": "Not on home O2 due to insurance issues",
+            "category": "Category 10: Legal and insurance related",
+            "start_offset": 2619,
+            "end_offset": 2657,
+            "annotation_id": "KA_024"
+        },
+        {
+            "decision": "CAD s/p \"at least 3\" MI's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2659,
+            "end_offset": 2684,
+            "annotation_id": "KA_025"
+        },
+        {
+            "decision": "multiple cardiac caths",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2690,
+            "end_offset": 2712,
+            "annotation_id": "KA_026"
+        },
+        {
+            "decision": "Diastolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2713,
+            "end_offset": 2726,
+            "annotation_id": "KA_027"
+        },
+        {
+            "decision": "Multiple sclerosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2727,
+            "end_offset": 2745,
+            "annotation_id": "KA_028"
+        },
+        {
+            "decision": "Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 12838**] ([**Telephone/Fax (1) 69783**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 2836,
+            "end_offset": 2930,
+            "annotation_id": "KA_029"
+        },
+        {
+            "decision": "However, in past, when Dr. [**Last Name (STitle) 12838**], there was no record of patient.",
+            "category": "Category 1: Contact related",
+            "start_offset": 2932,
+            "end_offset": 3021,
+            "annotation_id": "KA_030"
+        },
+        {
+            "decision": "Diverticulosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3023,
+            "end_offset": 3037,
+            "annotation_id": "KA_031"
+        },
+        {
+            "decision": "s/p bowel resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3038,
+            "end_offset": 3057,
+            "annotation_id": "KA_032"
+        },
+        {
+            "decision": "Glucose intolerance in past in setting of steroids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3058,
+            "end_offset": 3108,
+            "annotation_id": "KA_033"
+        },
+        {
+            "decision": "steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 3100,
+            "end_offset": 3108,
+            "annotation_id": "KA_034"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3576,
+            "end_offset": 3619,
+            "annotation_id": "KA_035"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3620,
+            "end_offset": 3666,
+            "annotation_id": "KA_036"
+        },
+        {
+            "decision": "Neck: Supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3667,
+            "end_offset": 3705,
+            "annotation_id": "KA_037"
+        },
+        {
+            "decision": "Lungs: Coarse BS b/l with diffuse wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3706,
+            "end_offset": 3747,
+            "annotation_id": "KA_038"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3748,
+            "end_offset": 3818,
+            "annotation_id": "KA_039"
+        },
+        {
+            "decision": "Abdomen:  Soft, mild diffuse TTP but not on deep auscultation, no g/r, obese but non-distended, vertical incision not infected appearing, BS+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3819,
+            "end_offset": 3960,
+            "annotation_id": "KA_040"
+        },
+        {
+            "decision": "GU: No foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3961,
+            "end_offset": 3973,
+            "annotation_id": "KA_041"
+        },
+        {
+            "decision": "Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3974,
+            "end_offset": 4041,
+            "annotation_id": "KA_042"
+        },
+        {
+            "decision": "Neuro: AAO x 3, intention tremor b/l",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4042,
+            "end_offset": 4078,
+            "annotation_id": "KA_043"
+        },
+        {
+            "decision": "URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4330,
+            "end_offset": 4395,
+            "annotation_id": "KA_044"
+        },
+        {
+            "decision": "URINE  BLOOD-SM NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4420,
+            "end_offset": 4525,
+            "annotation_id": "KA_045"
+        },
+        {
+            "decision": "URINE  EOS-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4636,
+            "end_offset": 4655,
+            "annotation_id": "KA_046"
+        },
+        {
+            "decision": "ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4892,
+            "end_offset": 4965,
+            "annotation_id": "KA_047"
+        },
+        {
+            "decision": "There are low lung volumes that accentuate the bronchovascular markings.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5292,
+            "end_offset": 5363,
+            "annotation_id": "KA_048"
+        },
+        {
+            "decision": "Atelectasis at the lung bases is seen, right greater than left.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5365,
+            "end_offset": 5427,
+            "annotation_id": "KA_049"
+        },
+        {
+            "decision": "Prominence of the hila is relatively stable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5429,
+            "end_offset": 5472,
+            "annotation_id": "KA_050"
+        },
+        {
+            "decision": "The aorta is tortuous, the cardiac silhouette is top normal in size.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5474,
+            "end_offset": 5541,
+            "annotation_id": "KA_051"
+        },
+        {
+            "decision": "Low lung volumes, which accentuate the bronchovascular markings.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5560,
+            "end_offset": 5623,
+            "annotation_id": "KA_052"
+        },
+        {
+            "decision": "Bibasilar, right greater than left atelectasis with increase in likely right middle lobe atelectasis/partial collapse",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5625,
+            "end_offset": 5742,
+            "annotation_id": "KA_053"
+        },
+        {
+            "decision": "The right kidney measures 11.0 cm and the left kidney measures 12.7 cm. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5803,
+            "end_offset": 5873,
+            "annotation_id": "KA_054"
+        },
+        {
+            "decision": "There is no hydronephrosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5875,
+            "end_offset": 5901,
+            "annotation_id": "KA_055"
+        },
+        {
+            "decision": "No stone or cyst or solid mass is seen in either kidney.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5903,
+            "end_offset": 5958,
+            "annotation_id": "KA_056"
+        },
+        {
+            "decision": "The spleen is noted to be enlarged, measuring 13.0 cm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5960,
+            "end_offset": 6013,
+            "annotation_id": "KA_057"
+        },
+        {
+            "decision": "Color Doppler and pulse-wave images were obtained. Note is made that this is a limited Doppler examination due to the patient's inability to hold his breath",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6037,
+            "end_offset": 6193,
+            "annotation_id": "KA_058"
+        },
+        {
+            "decision": "inability to hold his breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6165,
+            "end_offset": 6193,
+            "annotation_id": "KA_059"
+        },
+        {
+            "decision": "Arterial waveforms demonstrating sharp upstrokes are seen in the main renal artery of each kidney",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6195,
+            "end_offset": 6292,
+            "annotation_id": "KA_060"
+        },
+        {
+            "decision": "Venous flow is identified in the hilum of each kidney.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6294,
+            "end_offset": 6347,
+            "annotation_id": "KA_061"
+        },
+        {
+            "decision": "Intraparenchymal resistive indices are limited but appear normal to mildly elevated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6349,
+            "end_offset": 6432,
+            "annotation_id": "KA_062"
+        },
+        {
+            "decision": "No hydronephrosis and no renal mass or stone identified",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6450,
+            "end_offset": 6505,
+            "annotation_id": "KA_063"
+        },
+        {
+            "decision": "Limited Doppler examination with no indication of a renal artery stenosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6510,
+            "end_offset": 6583,
+            "annotation_id": "KA_064"
+        },
+        {
+            "decision": "No evidence of pulmonary vascular congestion to suggest fluid overload",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6626,
+            "end_offset": 6696,
+            "annotation_id": "KA_065"
+        },
+        {
+            "decision": "No focal consolidation. Bibasilar linear atelectasis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6698,
+            "end_offset": 6750,
+            "annotation_id": "KA_066"
+        },
+        {
+            "decision": "h/o severe COPD, dCHF, CAD, h/o noncompliance, p/w persistent dyspnea/hypoxia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7080,
+            "end_offset": 7157,
+            "annotation_id": "KA_067"
+        },
+        {
+            "decision": "COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7206,
+            "end_offset": 7210,
+            "annotation_id": "KA_068"
+        },
+        {
+            "decision": "persistent renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7239,
+            "end_offset": 7263,
+            "annotation_id": "KA_069"
+        },
+        {
+            "decision": "Hypoxia/dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7269,
+            "end_offset": 7284,
+            "annotation_id": "KA_070"
+        },
+        {
+            "decision": "most consistent with a COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7307,
+            "end_offset": 7347,
+            "annotation_id": "KA_071"
+        },
+        {
+            "decision": "congested sounding but unable to bring up secretions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7356,
+            "end_offset": 7408,
+            "annotation_id": "KA_072"
+        },
+        {
+            "decision": "CXR showed only atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7411,
+            "end_offset": 7438,
+            "annotation_id": "KA_073"
+        },
+        {
+            "decision": "history of dCHF but appeared more intravascularly dry on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7450,
+            "end_offset": 7511,
+            "annotation_id": "KA_074"
+        },
+        {
+            "decision": "no fevers or consolidations to suggest pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7521,
+            "end_offset": 7569,
+            "annotation_id": "KA_075"
+        },
+        {
+            "decision": "leukocytosis was likely due to the steroids ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7575,
+            "end_offset": 7618,
+            "annotation_id": "KA_076"
+        },
+        {
+            "decision": "steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7610,
+            "end_offset": 7618,
+            "annotation_id": "KA_077"
+        },
+        {
+            "decision": "PE was possible given his tachycardia, but the patient is at low risk by Wells' Criteria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7639,
+            "end_offset": 7727,
+            "annotation_id": "KA_078"
+        },
+        {
+            "decision": "We also considered cardiac ischemia given his history of CAD, but he had no chest pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7730,
+            "end_offset": 7816,
+            "annotation_id": "KA_079"
+        },
+        {
+            "decision": "ischemic EKG changes ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7820,
+            "end_offset": 7840,
+            "annotation_id": "KA_080"
+        },
+        {
+            "decision": "cardiac enzymes were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7845,
+            "end_offset": 7874,
+            "annotation_id": "KA_081"
+        },
+        {
+            "decision": "He had no arrhythmia on telemetry other than sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7877,
+            "end_offset": 7939,
+            "annotation_id": "KA_082"
+        },
+        {
+            "decision": "started on standing ipratropium and xopenex nebs q6h with prn xopenex",
+            "category": "Category 5: Drug related",
+            "start_offset": 7958,
+            "end_offset": 8027,
+            "annotation_id": "KA_083"
+        },
+        {
+            "decision": "avoiding albuterol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8137,
+            "end_offset": 8155,
+            "annotation_id": "KA_084"
+        },
+        {
+            "decision": "not to take Combivent ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8171,
+            "end_offset": 8192,
+            "annotation_id": "KA_085"
+        },
+        {
+            "decision": "His compliance improved when he learned that we were avoiding albuterol (had been told not to take Combivent b/c of his CAD)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8084,
+            "end_offset": 8207,
+            "annotation_id": "KA_086"
+        },
+        {
+            "decision": "also started on solumedrol 60mg IV Q8, started on [**4-14**] and continued for 7 days, with a plan to then taper. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8228,
+            "end_offset": 8340,
+            "annotation_id": "KA_087"
+        },
+        {
+            "decision": "symptoms did not improve",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8352,
+            "end_offset": 8376,
+            "annotation_id": "KA_088"
+        },
+        {
+            "decision": "he was increased to Solumedrol 80mg IV Q8hrs briefly",
+            "category": "Category 5: Drug related",
+            "start_offset": 8378,
+            "end_offset": 8430,
+            "annotation_id": "KA_089"
+        },
+        {
+            "decision": "His course was extended and he did not begin tapering until [**4-23**], when his solumedrol dose was decreased for a day before converting to oral prednisone",
+            "category": "Category 5: Drug related",
+            "start_offset": 8433,
+            "end_offset": 8590,
+            "annotation_id": "KA_090"
+        },
+        {
+            "decision": "He will complete a 10-day taper as an outpatient before stopping prednisone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8593,
+            "end_offset": 8668,
+            "annotation_id": "KA_091"
+        },
+        {
+            "decision": "Given his prolonged course of high-dose steroids, he was started on Bactrim, pantoprazole, calcium and vitamin D.  He will stop the Bactrim and pantoprazole after stopping prednisone, but continue Ca + Vit D.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8686,
+            "end_offset": 8893,
+            "annotation_id": "KA_092"
+        },
+        {
+            "decision": "often irritable and unstable while on steroids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8911,
+            "end_offset": 8957,
+            "annotation_id": "KA_093"
+        },
+        {
+            "decision": "steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 8949,
+            "end_offset": 8957,
+            "annotation_id": "KA_094"
+        },
+        {
+            "decision": "His stability improved with lowering steroid doses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9022,
+            "end_offset": 9072,
+            "annotation_id": "KA_095"
+        },
+        {
+            "decision": "lowering steroid doses",
+            "category": "Category 5: Drug related",
+            "start_offset": 9050,
+            "end_offset": 9072,
+            "annotation_id": "KA_096"
+        },
+        {
+            "decision": "Levofloxacin started in the emergency department was continued(day 1 = [**4-13**]) for an empiric course of 5 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 9075,
+            "end_offset": 9189,
+            "annotation_id": "KA_097"
+        },
+        {
+            "decision": "after 10 days of oxygen at 5L by nasal cannula, he was slowly weaned ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9283,
+            "end_offset": 9351,
+            "annotation_id": "KA_098"
+        },
+        {
+            "decision": "He was stable off of Oxygen at the time of discharge and was able to ambulate with physical therapy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9374,
+            "end_offset": 9473,
+            "annotation_id": "KA_099"
+        },
+        {
+            "decision": "Sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9612,
+            "end_offset": 9629,
+            "annotation_id": "KA_100"
+        },
+        {
+            "decision": "Improved but did not fully resolve",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9631,
+            "end_offset": 9665,
+            "annotation_id": "KA_101"
+        },
+        {
+            "decision": "Likely multifactorial with components from dehydration, anxiety, and albuterol nebs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9667,
+            "end_offset": 9750,
+            "annotation_id": "KA_102"
+        },
+        {
+            "decision": "albuterol nebs",
+            "category": "Category 5: Drug related",
+            "start_offset": 9736,
+            "end_offset": 9750,
+            "annotation_id": "KA_103"
+        },
+        {
+            "decision": "Pt tachyardic and tachypneic but afebrile",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9753,
+            "end_offset": 9794,
+            "annotation_id": "KA_104"
+        },
+        {
+            "decision": "clinical picture was not consistent with SIRS/sepsis as also explainable by COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9800,
+            "end_offset": 9880,
+            "annotation_id": "KA_105"
+        },
+        {
+            "decision": "low risk for PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9889,
+            "end_offset": 9904,
+            "annotation_id": "KA_106"
+        },
+        {
+            "decision": "Substance withdrawal a possibility",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9906,
+            "end_offset": 9940,
+            "annotation_id": "KA_107"
+        },
+        {
+            "decision": "oxycodone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9977,
+            "end_offset": 9986,
+            "annotation_id": "KA_108"
+        },
+        {
+            "decision": "oxycontin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10012,
+            "end_offset": 10021,
+            "annotation_id": "KA_109"
+        },
+        {
+            "decision": "concern for oxycodone overuse at OSH given #90 oxycontin prescribed [**4-9**] and #10 left on admission ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9965,
+            "end_offset": 10068,
+            "annotation_id": "KA_110"
+        },
+        {
+            "decision": "His tox screen was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10084,
+            "end_offset": 10111,
+            "annotation_id": "KA_111"
+        },
+        {
+            "decision": "remained low-level tachycardic even after restarting diltiazem",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10116,
+            "end_offset": 10178,
+            "annotation_id": "KA_112"
+        },
+        {
+            "decision": "restarting diltiazem",
+            "category": "Category 5: Drug related",
+            "start_offset": 10158,
+            "end_offset": 10178,
+            "annotation_id": "KA_113"
+        },
+        {
+            "decision": "Acute renal failure on admission",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10218,
+            "end_offset": 10250,
+            "annotation_id": "KA_114"
+        },
+        {
+            "decision": "FeNa of 0.4% suggested a prerenal etiology",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10252,
+            "end_offset": 10294,
+            "annotation_id": "KA_115"
+        },
+        {
+            "decision": "2L IVF ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10304,
+            "end_offset": 10310,
+            "annotation_id": "KA_116"
+        },
+        {
+            "decision": "U/A was not frankly c/w UTI",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10319,
+            "end_offset": 10346,
+            "annotation_id": "KA_117"
+        },
+        {
+            "decision": "Renal ultrasound negative for obstruction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10348,
+            "end_offset": 10389,
+            "annotation_id": "KA_118"
+        },
+        {
+            "decision": "creatinine normalized",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10396,
+            "end_offset": 10417,
+            "annotation_id": "KA_119"
+        },
+        {
+            "decision": "Initially his home lisinopril, lasix were held, but were later restarted without any increase in his creatinine.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10420,
+            "end_offset": 10531,
+            "annotation_id": "KA_120"
+        },
+        {
+            "decision": "without any increase in his creatinine.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10493,
+            "end_offset": 10531,
+            "annotation_id": "KA_121"
+        },
+        {
+            "decision": "steroid ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10561,
+            "end_offset": 10568,
+            "annotation_id": "KA_122"
+        },
+        {
+            "decision": "H/o glucose intolerance/steroid induced diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10537,
+            "end_offset": 10585,
+            "annotation_id": "KA_123"
+        },
+        {
+            "decision": "steroid use",
+            "category": "Category 5: Drug related",
+            "start_offset": 10645,
+            "end_offset": 10656,
+            "annotation_id": "KA_124"
+        },
+        {
+            "decision": "persistent hyperglycemia, thought to be due to his steroid use, though there was concern for underlying glucose intolerance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10594,
+            "end_offset": 10717,
+            "annotation_id": "KA_125"
+        },
+        {
+            "decision": "dose of QHS Lantus was slowly increased up to 20 units",
+            "category": "Category 5: Drug related",
+            "start_offset": 10783,
+            "end_offset": 10837,
+            "annotation_id": "KA_126"
+        },
+        {
+            "decision": "remained very hyperglycemic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10846,
+            "end_offset": 10873,
+            "annotation_id": "KA_127"
+        },
+        {
+            "decision": "requiring large doses of Humalog with each meal",
+            "category": "Category 5: Drug related",
+            "start_offset": 10875,
+            "end_offset": 10922,
+            "annotation_id": "KA_128"
+        },
+        {
+            "decision": "discharged with a decreasing dose of Lantus given his non-compliance and the concerns for hypoglycemia",
+            "category": "Category 5: Drug related",
+            "start_offset": 10932,
+            "end_offset": 11034,
+            "annotation_id": "KA_129"
+        },
+        {
+            "decision": "non-compliance and the concerns for hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10986,
+            "end_offset": 11034,
+            "annotation_id": "KA_130"
+        },
+        {
+            "decision": "completed his steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 11050,
+            "end_offset": 11072,
+            "annotation_id": "KA_131"
+        },
+        {
+            "decision": "fasting glucose ",
+            "category": "Category 11: Other",
+            "start_offset": 11091,
+            "end_offset": 11106,
+            "annotation_id": "KA_132"
+        },
+        {
+            "decision": "in case of underlying chronic diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11107,
+            "end_offset": 11145,
+            "annotation_id": "KA_133"
+        },
+        {
+            "decision": "Pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11236,
+            "end_offset": 11240,
+            "annotation_id": "KA_134"
+        },
+        {
+            "decision": "Pain control",
+            "category": "TBD",
+            "start_offset": 11236,
+            "end_offset": 11248,
+            "annotation_id": "KA_135"
+        },
+        {
+            "decision": "chronic pain on oxycodone",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11261,
+            "end_offset": 11286,
+            "annotation_id": "KA_136"
+        },
+        {
+            "decision": "oxycodone",
+            "category": "Category 5: Drug related",
+            "start_offset": 11277,
+            "end_offset": 11286,
+            "annotation_id": "KA_137"
+        },
+        {
+            "decision": "He was found to be hiding his oxycontin doses one day prior to discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 11393,
+            "end_offset": 11465,
+            "annotation_id": "KA_138"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11470,
+            "end_offset": 11473,
+            "annotation_id": "KA_139"
+        },
+        {
+            "decision": "h/o multiple MIs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11481,
+            "end_offset": 11497,
+            "annotation_id": "KA_140"
+        },
+        {
+            "decision": "chest pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11517,
+            "end_offset": 11527,
+            "annotation_id": "KA_141"
+        },
+        {
+            "decision": "sounded more pleuritic, atypical",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11541,
+            "end_offset": 11573,
+            "annotation_id": "KA_142"
+        },
+        {
+            "decision": "EKG was w/o ischemic changes; CE neg x 2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11575,
+            "end_offset": 11615,
+            "annotation_id": "KA_143"
+        },
+        {
+            "decision": "started on an Aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11625,
+            "end_offset": 11646,
+            "annotation_id": "KA_144"
+        },
+        {
+            "decision": "EKG was again unchanged ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11719,
+            "end_offset": 11742,
+            "annotation_id": "KA_145"
+        },
+        {
+            "decision": "pain improved with Maalox",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11751,
+            "end_offset": 11776,
+            "annotation_id": "KA_146"
+        },
+        {
+            "decision": "Maalox",
+            "category": "Category 5: Drug related",
+            "start_offset": 11770,
+            "end_offset": 11776,
+            "annotation_id": "KA_147"
+        },
+        {
+            "decision": "Noncompliance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11781,
+            "end_offset": 11794,
+            "annotation_id": "KA_148"
+        },
+        {
+            "decision": "h/o multiple AMA discharges",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11805,
+            "end_offset": 11832,
+            "annotation_id": "KA_149"
+        },
+        {
+            "decision": "Social work was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 11835,
+            "end_offset": 11860,
+            "annotation_id": "KA_150"
+        },
+        {
+            "decision": "he was extremely challenging to work with",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11917,
+            "end_offset": 11958,
+            "annotation_id": "KA_151"
+        },
+        {
+            "decision": "Aspirin 325 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12183,
+            "end_offset": 12203,
+            "annotation_id": "KA_152"
+        },
+        {
+            "decision": "Lisinopril 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12204,
+            "end_offset": 12226,
+            "annotation_id": "KA_153"
+        },
+        {
+            "decision": "Furosemide 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12227,
+            "end_offset": 12249,
+            "annotation_id": "KA_154"
+        },
+        {
+            "decision": "Xopenex prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12250,
+            "end_offset": 12261,
+            "annotation_id": "KA_155"
+        },
+        {
+            "decision": "Ipratropium Bromide prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12262,
+            "end_offset": 12285,
+            "annotation_id": "KA_156"
+        },
+        {
+            "decision": "Montelukast 10 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12286,
+            "end_offset": 12309,
+            "annotation_id": "KA_157"
+        },
+        {
+            "decision": "Clonazepam 2 mg tid ?",
+            "category": "Category 5: Drug related",
+            "start_offset": 12310,
+            "end_offset": 12329,
+            "annotation_id": "KA_158"
+        },
+        {
+            "decision": "Oxycodone SR 20 mg tid ?",
+            "category": "Category 5: Drug related",
+            "start_offset": 12332,
+            "end_offset": 12354,
+            "annotation_id": "KA_159"
+        },
+        {
+            "decision": "HISS",
+            "category": "Category 5: Drug related",
+            "start_offset": 12357,
+            "end_offset": 12361,
+            "annotation_id": "KA_160"
+        },
+        {
+            "decision": "Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12390,
+            "end_offset": 12493,
+            "annotation_id": "KA_161"
+        },
+        {
+            "decision": "Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12499,
+            "end_offset": 12558,
+            "annotation_id": "KA_162"
+        },
+        {
+            "decision": "Clonazepam 1 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12565,
+            "end_offset": 12629,
+            "annotation_id": "KA_163"
+        },
+        {
+            "decision": "Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12635,
+            "end_offset": 12728,
+            "annotation_id": "KA_164"
+        },
+        {
+            "decision": "Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12732,
+            "end_offset": 12792,
+            "annotation_id": "KA_165"
+        },
+        {
+            "decision": "Xopenex HFA 45 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation every six (6) hours. Disp:*1 inhaler* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12798,
+            "end_offset": 12926,
+            "annotation_id": "KA_166"
+        },
+        {
+            "decision": "Xopenex HFA 45 mcg/Actuation HFA Aerosol Inhaler Sig: [**1-1**] puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12930,
+            "end_offset": 13077,
+            "annotation_id": "KA_167"
+        },
+        {
+            "decision": "Ipratropium Bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation every six (6) hours. Disp:*1 inhaler* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13082,
+            "end_offset": 13218,
+            "annotation_id": "KA_168"
+        },
+        {
+            "decision": "Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13222,
+            "end_offset": 13327,
+            "annotation_id": "KA_169"
+        },
+        {
+            "decision": "Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: Three (3) Tablet Sustained Release 12 hr PO Q8H (every 8 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13334,
+            "end_offset": 13448,
+            "annotation_id": "KA_170"
+        },
+        {
+            "decision": "Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed) as needed for chest pain. Disp:*30 Tablet, Sublingual(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13455,
+            "end_offset": 13623,
+            "annotation_id": "KA_171"
+        },
+        {
+            "decision": "Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13628,
+            "end_offset": 13721,
+            "annotation_id": "KA_172"
+        },
+        {
+            "decision": "Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13728,
+            "end_offset": 13842,
+            "annotation_id": "KA_173"
+        },
+        {
+            "decision": "Prednisone 10 mg Tablet Sig: as directed Tablet PO once a day for 10 days: Take 5 tablets on [**3-29**], 4 on [**3-31**], 3 on [**4-2**], 2 on [**4-4**], and 1 on [**4-6**]. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13847,
+            "end_offset": 14052,
+            "annotation_id": "KA_174"
+        },
+        {
+            "decision": "Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 10 days. Disp:*10 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14057,
+            "end_offset": 14185,
+            "annotation_id": "KA_175"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) for 10 days. Disp:*10 Tablet, Delayed Release (E.C.)(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14190,
+            "end_offset": 14377,
+            "annotation_id": "KA_176"
+        },
+        {
+            "decision": "Lantus 100 unit/mL Cartridge Sig: as directed Units Subcutaneous once a day for 10 days: Use 15 U on [**3-29**], 13 U on [**3-31**], 8 U on [**4-2**], 5 U on [**4-4**]. Disp:*1 cartridge* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14382,
+            "end_offset": 14581,
+            "annotation_id": "KA_177"
+        },
+        {
+            "decision": "Patient should work with outpatient physical therapy to optimize strength and mobility.",
+            "category": "Category 1: Contact related",
+            "start_offset": 14614,
+            "end_offset": 14700,
+            "annotation_id": "KA_178"
+        },
+        {
+            "decision": "COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14773,
+            "end_offset": 14790,
+            "annotation_id": "KA_179"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14814,
+            "end_offset": 14817,
+            "annotation_id": "KA_180"
+        },
+        {
+            "decision": "Diastolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14818,
+            "end_offset": 14831,
+            "annotation_id": "KA_181"
+        },
+        {
+            "decision": "Diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14832,
+            "end_offset": 14846,
+            "annotation_id": "KA_182"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14870,
+            "end_offset": 14903,
+            "annotation_id": "KA_183"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14905,
+            "end_offset": 14950,
+            "annotation_id": "KA_184"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14952,
+            "end_offset": 15024,
+            "annotation_id": "KA_185"
+        },
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15092,
+            "end_offset": 15111,
+            "annotation_id": "KA_186"
+        },
+        {
+            "decision": "COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15131,
+            "end_offset": 15148,
+            "annotation_id": "KA_187"
+        },
+        {
+            "decision": "treated with antibiotics, nebulizers, and steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 15159,
+            "end_offset": 15209,
+            "annotation_id": "KA_188"
+        },
+        {
+            "decision": "breathing improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15216,
+            "end_offset": 15234,
+            "annotation_id": "KA_189"
+        },
+        {
+            "decision": "We started you on Prednisone, which you should continue for 10 days after discharge and taper as follows: - 5 tablets on [**3-29**] - 4 tablets on [**3-31**] - 3 tablets on [**4-2**] - 2 tablets on [**4-4**] - 1 tablet on [**4-6**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 15519,
+            "end_offset": 15750,
+            "annotation_id": "KA_190"
+        },
+        {
+            "decision": "We increased your Lisinopril to 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 15754,
+            "end_offset": 15797,
+            "annotation_id": "KA_191"
+        },
+        {
+            "decision": "We started you on Aspirin 325 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 15801,
+            "end_offset": 15839,
+            "annotation_id": "KA_192"
+        },
+        {
+            "decision": "We started you on Xopenex and Ipratropium inhalers",
+            "category": "Category 5: Drug related",
+            "start_offset": 15843,
+            "end_offset": 15893,
+            "annotation_id": "KA_193"
+        },
+        {
+            "decision": "We started you on Bactrim, Protonix, and Lantus, which you should use while you are taking Prednisone (for the next 10 days)",
+            "category": "Category 5: Drug related",
+            "start_offset": 15897,
+            "end_offset": 16020,
+            "annotation_id": "KA_194"
+        },
+        {
+            "decision": "We started you on Nitroglycerine, which you should use as needed for chest pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16025,
+            "end_offset": 16104,
+            "annotation_id": "KA_195"
+        },
+        {
+            "decision": "We started you on Calcium and Vitamin D for your bone health, as you are now taking Prednisone.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16109,
+            "end_offset": 16203,
+            "annotation_id": "KA_196"
+        },
+        {
+            "decision": "We also started you on long acting Insulin called Lantus while you are on Prednisone. -please take 15 units on [**3-29**] -please take 13 units on [**3-31**] -please take 8 units on [**4-2**] -please take 5 units on [**4-4**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 16208,
+            "end_offset": 16433,
+            "annotation_id": "KA_197"
+        },
+        {
+            "decision": "Please check your blood sugar once a day, if they are above 450 or below 70 please call your primary care doctor.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16435,
+            "end_offset": 16547,
+            "annotation_id": "KA_198"
+        },
+        {
+            "decision": "We recommend that you stop smoking.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16550,
+            "end_offset": 16584,
+            "annotation_id": "KA_199"
+        },
+        {
+            "decision": "Please arrange outpatient follow up with your primary care physician and cardiologist.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16611,
+            "end_offset": 16696,
+            "annotation_id": "KA_200"
+        }
+    ]
+}

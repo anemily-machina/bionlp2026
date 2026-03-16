@@ -1,0 +1,860 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "19546_194718_16687",
+    "annotations": [
+        {
+            "decision": "Pneumonia/sepsis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 125,
+            "end_offset": 141,
+            "annotation_id": "EW_000"
+        },
+        {
+            "decision": "history of coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 217,
+            "end_offset": 251,
+            "annotation_id": "EW_001"
+        },
+        {
+            "decision": "status post myocardial infarction,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 252,
+            "end_offset": 285,
+            "annotation_id": "EW_002"
+        },
+        {
+            "decision": "congestive heart failure with ejection fraction of 31%,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 287,
+            "end_offset": 340,
+            "annotation_id": "EW_003"
+        },
+        {
+            "decision": "status post CVA with residual left sided weakness,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 343,
+            "end_offset": 392,
+            "annotation_id": "EW_004"
+        },
+        {
+            "decision": "laryngeal cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 538,
+            "end_offset": 554,
+            "annotation_id": "EW_005"
+        },
+        {
+            "decision": "head and neck bilateral dissection of laryngeal cancer and total laryngectomy and trach placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 500,
+            "end_offset": 597,
+            "annotation_id": "EW_006"
+        },
+        {
+            "decision": "on Flagyl, levofloxacin and Keflex for a two week course ",
+            "category": "Category 5: Drug related",
+            "start_offset": 730,
+            "end_offset": 786,
+            "annotation_id": "EW_007"
+        },
+        {
+            "decision": "complicated by pharyngocutaneous fistula ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 791,
+            "end_offset": 831,
+            "annotation_id": "EW_008"
+        },
+        {
+            "decision": "Mobitz type I arrhythmia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 843,
+            "end_offset": 867,
+            "annotation_id": "EW_009"
+        },
+        {
+            "decision": "minimally responsive to albuterol and Atrovent nebulizers",
+            "category": "Category 5: Drug related",
+            "start_offset": 1069,
+            "end_offset": 1126,
+            "annotation_id": "EW_010"
+        },
+        {
+            "decision": "nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1116,
+            "end_offset": 1126,
+            "annotation_id": "EW_011"
+        },
+        {
+            "decision": "Status post CVA with left sided weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1365,
+            "end_offset": 1405,
+            "annotation_id": "EW_012"
+        },
+        {
+            "decision": "Coronary artery disease status post myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1408,
+            "end_offset": 1465,
+            "annotation_id": "EW_013"
+        },
+        {
+            "decision": "Congestive heart failure with ejection fraction of 31%.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1468,
+            "end_offset": 1521,
+            "annotation_id": "EW_014"
+        },
+        {
+            "decision": "Vitamin B-12 deficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1525,
+            "end_offset": 1548,
+            "annotation_id": "EW_015"
+        },
+        {
+            "decision": "Head and neck cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1551,
+            "end_offset": 1571,
+            "annotation_id": "EW_016"
+        },
+        {
+            "decision": "status post total neck dissection and total laryngectomy with subsequent trach placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1572,
+            "end_offset": 1660,
+            "annotation_id": "EW_017"
+        },
+        {
+            "decision": "Cataracts",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1663,
+            "end_offset": 1672,
+            "annotation_id": "EW_018"
+        },
+        {
+            "decision": "Aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1675,
+            "end_offset": 1685,
+            "annotation_id": "EW_019"
+        },
+        {
+            "decision": "Mobitz type I heart block.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1688,
+            "end_offset": 1713,
+            "annotation_id": "EW_020"
+        },
+        {
+            "decision": "Topical bacitracin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1794,
+            "end_offset": 1812,
+            "annotation_id": "EW_021"
+        },
+        {
+            "decision": "glycopyrrolate 1 mg NG t.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1814,
+            "end_offset": 1842,
+            "annotation_id": "EW_022"
+        },
+        {
+            "decision": "heparin subcu b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1845,
+            "end_offset": 1864,
+            "annotation_id": "EW_023"
+        },
+        {
+            "decision": "regular insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 1867,
+            "end_offset": 1896,
+            "annotation_id": "EW_024"
+        },
+        {
+            "decision": "Reglan 10 mg NG q.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1898,
+            "end_offset": 1919,
+            "annotation_id": "EW_025"
+        },
+        {
+            "decision": "Lopressor 25 mg NG b.i.d.,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1922,
+            "end_offset": 1947,
+            "annotation_id": "EW_026"
+        },
+        {
+            "decision": "Flagyl 500 mg NG t.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1949,
+            "end_offset": 1971,
+            "annotation_id": "EW_027"
+        },
+        {
+            "decision": "nystatin 2 million units swish and spit t.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1974,
+            "end_offset": 2019,
+            "annotation_id": "EW_028"
+        },
+        {
+            "decision": "Zantac 150 mg NG b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 2022,
+            "end_offset": 2044,
+            "annotation_id": "EW_029"
+        },
+        {
+            "decision": "pravastatin 20 mg NG q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 2047,
+            "end_offset": 2071,
+            "annotation_id": "EW_030"
+        },
+        {
+            "decision": "Roxicet 5 to 10 cc q.four hours",
+            "category": "Category 5: Drug related",
+            "start_offset": 2074,
+            "end_offset": 2105,
+            "annotation_id": "EW_031"
+        },
+        {
+            "decision": "levofloxacin 250 mg NG q.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2107,
+            "end_offset": 2134,
+            "annotation_id": "EW_032"
+        },
+        {
+            "decision": "Keflex 500 mg NG q.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2136,
+            "end_offset": 2158,
+            "annotation_id": "EW_033"
+        },
+        {
+            "decision": "nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2184,
+            "end_offset": 2194,
+            "annotation_id": "EW_034"
+        },
+        {
+            "decision": "albuterol and Atrovent nebulizers,",
+            "category": "Category 5: Drug related",
+            "start_offset": 2161,
+            "end_offset": 2194,
+            "annotation_id": "EW_035"
+        },
+        {
+            "decision": "aliconazole powder",
+            "category": "Category 5: Drug related",
+            "start_offset": 2196,
+            "end_offset": 2214,
+            "annotation_id": "EW_036"
+        },
+        {
+            "decision": "Jevity tube feeds at 85 cc an hour",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2216,
+            "end_offset": 2250,
+            "annotation_id": "EW_037"
+        },
+        {
+            "decision": "fluconazole 100 mg NG q.d. times seven days",
+            "category": "Category 5: Drug related",
+            "start_offset": 2252,
+            "end_offset": 2295,
+            "annotation_id": "EW_038"
+        },
+        {
+            "decision": "free water 150 cc NG q.eight hours.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2297,
+            "end_offset": 2331,
+            "annotation_id": "EW_039"
+        },
+        {
+            "decision": "on trach mask.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2439,
+            "end_offset": 2452,
+            "annotation_id": "EW_040"
+        },
+        {
+            "decision": "In general, patient was awake, responded to yes/no questions, nonverbal, breathing comfortably.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2455,
+            "end_offset": 2549,
+            "annotation_id": "EW_041"
+        },
+        {
+            "decision": "HEENT left surgical pupil.  Right pupil 3 mm.  Anicteric sclerae",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2552,
+            "end_offset": 2616,
+            "annotation_id": "EW_042"
+        },
+        {
+            "decision": "Neck supple.  Well healed surgical scars with no fluctuance of discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2619,
+            "end_offset": 2691,
+            "annotation_id": "EW_043"
+        },
+        {
+            "decision": "Tracheostomy clean, dry and intact",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2694,
+            "end_offset": 2728,
+            "annotation_id": "EW_044"
+        },
+        {
+            "decision": "Oropharynx with thrush on tongue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2731,
+            "end_offset": 2763,
+            "annotation_id": "EW_045"
+        },
+        {
+            "decision": "Cardiovascular exam regular rate and rhythm, normal S1, S2. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2766,
+            "end_offset": 2824,
+            "annotation_id": "EW_046"
+        },
+        {
+            "decision": "Lungs clear to auscultation on left anterior laterally, decreased breath sounds with occasional crackles on right",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2827,
+            "end_offset": 2940,
+            "annotation_id": "EW_047"
+        },
+        {
+            "decision": "Abdominal exam soft, distended, percussive, decreased bowel sounds, no suprapubic tenderness.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2943,
+            "end_offset": 3035,
+            "annotation_id": "EW_048"
+        },
+        {
+            "decision": "Extremities warm, no ulcers, no cyanosis, clubbing or edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3037,
+            "end_offset": 3096,
+            "annotation_id": "EW_049"
+        },
+        {
+            "decision": "Urinalysis was positive for nitrites",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3296,
+            "end_offset": 3332,
+            "annotation_id": "EW_050"
+        },
+        {
+            "decision": "Chest x-ray revealed diffuse right infiltrates consistent with aspiration pneumonia, also possible left lower lobe pneumonia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3405,
+            "end_offset": 3529,
+            "annotation_id": "EW_051"
+        },
+        {
+            "decision": "aspiration pneumonia, also possible left lower lobe pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3468,
+            "end_offset": 3529,
+            "annotation_id": "EW_052"
+        },
+        {
+            "decision": "right bundle branch block ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3589,
+            "end_offset": 3614,
+            "annotation_id": "EW_053"
+        },
+        {
+            "decision": "EKG #1 revealed tachycardia at 122, no P waves seen, new right bundle branch block with T wave inversions in V1 through V5, Q waves in V2 through V5",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3532,
+            "end_offset": 3680,
+            "annotation_id": "EW_054"
+        },
+        {
+            "decision": "EKG #2 revealed sinus tachycardia at 106, normal axis, old ST depressions in V5 through V6, T wave inversion in V4, old Qs in V3 and V4 with resolved right bundle branch block",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3683,
+            "end_offset": 3858,
+            "annotation_id": "EW_055"
+        },
+        {
+            "decision": "resolved right bundle branch block",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3824,
+            "end_offset": 3858,
+            "annotation_id": "EW_056"
+        },
+        {
+            "decision": "admitted directly to the medical intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 3895,
+            "end_offset": 3947,
+            "annotation_id": "EW_057"
+        },
+        {
+            "decision": "respiratory distress and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3967,
+            "end_offset": 4003,
+            "annotation_id": "EW_058"
+        },
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4082,
+            "end_offset": 4102,
+            "annotation_id": "EW_059"
+        },
+        {
+            "decision": "Otorhinolaryngology was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4105,
+            "end_offset": 4138,
+            "annotation_id": "EW_060"
+        },
+        {
+            "decision": "evaluation of his tracheostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4154,
+            "end_offset": 4184,
+            "annotation_id": "EW_061"
+        },
+        {
+            "decision": "right lung collapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4211,
+            "end_offset": 4230,
+            "annotation_id": "EW_062"
+        },
+        {
+            "decision": "Pulmonary was also consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4233,
+            "end_offset": 4261,
+            "annotation_id": "EW_063"
+        },
+        {
+            "decision": "emergent bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4266,
+            "end_offset": 4287,
+            "annotation_id": "EW_064"
+        },
+        {
+            "decision": "adequately suctioned with adequate aeration thereafter",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4304,
+            "end_offset": 4358,
+            "annotation_id": "EW_065"
+        },
+        {
+            "decision": "initially started on vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4372,
+            "end_offset": 4403,
+            "annotation_id": "EW_066"
+        },
+        {
+            "decision": "ceftazidine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4405,
+            "end_offset": 4416,
+            "annotation_id": "EW_067"
+        },
+        {
+            "decision": "and clindamycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4417,
+            "end_offset": 4432,
+            "annotation_id": "EW_068"
+        },
+        {
+            "decision": "Aggressive chest physical therapy and aggressive suctioning were performed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4454,
+            "end_offset": 4528,
+            "annotation_id": "EW_069"
+        },
+        {
+            "decision": "antibiotic regimen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4617,
+            "end_offset": 4635,
+            "annotation_id": "EW_070"
+        },
+        {
+            "decision": "sputum gram stain revealing moderate growth of gram negative rods",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4662,
+            "end_offset": 4727,
+            "annotation_id": "EW_071"
+        },
+        {
+            "decision": "complete a 10 day course of ceftazidime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4745,
+            "end_offset": 4784,
+            "annotation_id": "EW_072"
+        },
+        {
+            "decision": "hypotensive on admission",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4829,
+            "end_offset": 4853,
+            "annotation_id": "EW_073"
+        },
+        {
+            "decision": "responded well to IV fluid boluses",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4860,
+            "end_offset": 4894,
+            "annotation_id": "EW_074"
+        },
+        {
+            "decision": "Cardiac enzymes were subsequently drawn and there was noted to be a peak CK of 156 with MB of 7 and peak troponin of 13.5.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4897,
+            "end_offset": 5018,
+            "annotation_id": "EW_075"
+        },
+        {
+            "decision": "due to his pneumonia coupled with demand ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5047,
+            "end_offset": 5096,
+            "annotation_id": "EW_076"
+        },
+        {
+            "decision": "continued on aspirin, ACE inhibitor and beta blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 5153,
+            "end_offset": 5205,
+            "annotation_id": "EW_077"
+        },
+        {
+            "decision": "blood pressure remained stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5236,
+            "end_offset": 5266,
+            "annotation_id": "EW_078"
+        },
+        {
+            "decision": "Telemetry again demonstrated Mobitz type I block with occasional PVCs.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5327,
+            "end_offset": 5396,
+            "annotation_id": "EW_079"
+        },
+        {
+            "decision": "Metoprolol was decreased to 12.5 mg b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5399,
+            "end_offset": 5440,
+            "annotation_id": "EW_080"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5447,
+            "end_offset": 5453,
+            "annotation_id": "EW_081"
+        },
+        {
+            "decision": "hematocrit of 37 which slowly down-trended ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5499,
+            "end_offset": 5541,
+            "annotation_id": "EW_082"
+        },
+        {
+            "decision": "with IV fluid hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5542,
+            "end_offset": 5565,
+            "annotation_id": "EW_083"
+        },
+        {
+            "decision": "history of vitamin B-12 deficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5578,
+            "end_offset": 5612,
+            "annotation_id": "EW_084"
+        },
+        {
+            "decision": "included cyanocobalamin 1000 mcg IM subcu q.month",
+            "category": "Category 5: Drug related",
+            "start_offset": 5622,
+            "end_offset": 5671,
+            "annotation_id": "EW_085"
+        },
+        {
+            "decision": "fluctuating hyper and hypoglycemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5726,
+            "end_offset": 5760,
+            "annotation_id": "EW_086"
+        },
+        {
+            "decision": "regimen of NPH 20 units q.a.m. and q.p.m. plus regular insulin 10 units q.a.m. and q.p.m. and tolerated well covered with a regular insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 5794,
+            "end_offset": 5947,
+            "annotation_id": "EW_087"
+        },
+        {
+            "decision": "continued on his tube feeds",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5982,
+            "end_offset": 6009,
+            "annotation_id": "EW_088"
+        },
+        {
+            "decision": "goal rate of 85 cc an hour",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 6015,
+            "end_offset": 6041,
+            "annotation_id": "EW_089"
+        },
+        {
+            "decision": "to have a barium upper GI series which will be performed at [**Hospital6 8866**] for further evaluation of his swallowing.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6050,
+            "end_offset": 6171,
+            "annotation_id": "EW_090"
+        },
+        {
+            "decision": "CONDITION ON DISCHARGE:  Stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6174,
+            "end_offset": 6205,
+            "annotation_id": "EW_091"
+        },
+        {
+            "decision": "with followup appointment at [**Hospital6 1708**] in the future ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6300,
+            "end_offset": 6363,
+            "annotation_id": "EW_092"
+        },
+        {
+            "decision": "for barium swallow.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6364,
+            "end_offset": 6382,
+            "annotation_id": "EW_093"
+        },
+        {
+            "decision": "Has followup appointments with Dr. [**Last Name (STitle) 40015**] of ENT as scheduled at the following phone number: [**0-0-**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 6463,
+            "end_offset": 6590,
+            "annotation_id": "EW_094"
+        },
+        {
+            "decision": "Metoprolol 12.5 mg NG b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6620,
+            "end_offset": 6647,
+            "annotation_id": "EW_095"
+        },
+        {
+            "decision": "Pravastatin 20 mg NG q.p.m.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6653,
+            "end_offset": 6679,
+            "annotation_id": "EW_096"
+        },
+        {
+            "decision": "Captopril 12.5 mg NG t.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6685,
+            "end_offset": 6711,
+            "annotation_id": "EW_097"
+        },
+        {
+            "decision": "Glycopyrrolate 1 mg NG b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6717,
+            "end_offset": 6745,
+            "annotation_id": "EW_098"
+        },
+        {
+            "decision": "Prevacid 15 mg NG q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6751,
+            "end_offset": 6772,
+            "annotation_id": "EW_099"
+        },
+        {
+            "decision": "Guaifenesin 10 ml NG q.six hours.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6778,
+            "end_offset": 6810,
+            "annotation_id": "EW_100"
+        },
+        {
+            "decision": "Aspirin 325 mg NG q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6816,
+            "end_offset": 6837,
+            "annotation_id": "EW_101"
+        },
+        {
+            "decision": "Reglan 10 mg NG q.i.d. a.c. h.s.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6843,
+            "end_offset": 6874,
+            "annotation_id": "EW_102"
+        },
+        {
+            "decision": "Vitamin B-12 1000 mcg subcu q.month.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6880,
+            "end_offset": 6915,
+            "annotation_id": "EW_103"
+        },
+        {
+            "decision": "Heparin 5000 units subcu b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6921,
+            "end_offset": 6951,
+            "annotation_id": "EW_104"
+        },
+        {
+            "decision": "Albuterol nebs q.six hours p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6957,
+            "end_offset": 6989,
+            "annotation_id": "EW_105"
+        },
+        {
+            "decision": "Atrovent nebs q.six hours p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6995,
+            "end_offset": 7026,
+            "annotation_id": "EW_106"
+        },
+        {
+            "decision": "Nystatin swish and spit 5 ml q.i.d. p.r.n. with scrub.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7032,
+            "end_offset": 7085,
+            "annotation_id": "EW_107"
+        },
+        {
+            "decision": "Ceftazidime 1 gm IV q.eight hours until [**2146-12-26**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 7091,
+            "end_offset": 7147,
+            "annotation_id": "EW_108"
+        },
+        {
+            "decision": "Regular insulin sliding scale 2 units for every 50 over 150.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7153,
+            "end_offset": 7212,
+            "annotation_id": "EW_109"
+        },
+        {
+            "decision": "NPH 20 units q.a.m. and q.p.m.. subcu.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7218,
+            "end_offset": 7255,
+            "annotation_id": "EW_110"
+        },
+        {
+            "decision": "Regular insulin 10 units q.a.m. and q.p.m. subcu.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7261,
+            "end_offset": 7309,
+            "annotation_id": "EW_111"
+        },
+        {
+            "decision": "Promote with fiber at 75 cc an hour with free water boluses 150 ml q.12 hours.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7349,
+            "end_offset": 7426,
+            "annotation_id": "EW_112"
+        },
+        {
+            "decision": "Continue tube feeds Promote with fiber at 75 cc an hour with free water boluses 150 ml q.12 hours.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7329,
+            "end_offset": 7426,
+            "annotation_id": "EW_113"
+        },
+        {
+            "decision": "Multilobar pneumonia, hospital acquired.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7454,
+            "end_offset": 7493,
+            "annotation_id": "EW_114"
+        },
+        {
+            "decision": "Sepsis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7499,
+            "end_offset": 7505,
+            "annotation_id": "EW_115"
+        },
+        {
+            "decision": "Acute respiratory distress secondary to mucus plugging.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7511,
+            "end_offset": 7565,
+            "annotation_id": "EW_116"
+        },
+        {
+            "decision": "Anemia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7571,
+            "end_offset": 7577,
+            "annotation_id": "EW_117"
+        },
+        {
+            "decision": "Laryngeal cancer status post laryngectomy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7583,
+            "end_offset": 7624,
+            "annotation_id": "EW_118"
+        },
+        {
+            "decision": "status post laryngectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7600,
+            "end_offset": 7624,
+            "annotation_id": "EW_119"
+        },
+        {
+            "decision": "Diabetes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7630,
+            "end_offset": 7638,
+            "annotation_id": "EW_120"
+        },
+        {
+            "decision": "Mobitz type I atrioventricular block.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7644,
+            "end_offset": 7680,
+            "annotation_id": "EW_121"
+        }
+    ]
+}

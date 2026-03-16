@@ -1,0 +1,1469 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "46955_142432_25489",
+    "annotations": [
+        {
+            "decision": "leg lesion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 267,
+            "end_offset": 277,
+            "annotation_id": "LY_000"
+        },
+        {
+            "decision": "weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 279,
+            "end_offset": 287,
+            "annotation_id": "LY_001"
+        },
+        {
+            "decision": "refractory AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 374,
+            "end_offset": 388,
+            "annotation_id": "LY_002"
+        },
+        {
+            "decision": "s/p allo BMT (day +222)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 389,
+            "end_offset": 411,
+            "annotation_id": "LY_003"
+        },
+        {
+            "decision": "s/p dacogen (d+27)",
+            "category": "Category 5: Drug related",
+            "start_offset": 414,
+            "end_offset": 431,
+            "annotation_id": "LY_004"
+        },
+        {
+            "decision": "ARA-C and lymphocyte infusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 434,
+            "end_offset": 463,
+            "annotation_id": "LY_005"
+        },
+        {
+            "decision": "h/o VRE bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 465,
+            "end_offset": 483,
+            "annotation_id": "LY_006"
+        },
+        {
+            "decision": "h/o c. diff",
+            "category": "Category 3: Defining problem",
+            "start_offset": 485,
+            "end_offset": 496,
+            "annotation_id": "LY_007"
+        },
+        {
+            "decision": "generalized weakness, new lesion on her shin.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 591,
+            "end_offset": 635,
+            "annotation_id": "LY_008"
+        },
+        {
+            "decision": "CONSTITUTIONAL:        [] All Normal [ ] Fever  [ ] Chills   [ ] Sweats  [x ] Fatigue   [ ] Malaise [x ]Anorexia  [ ]Night sweats [ ] _____ lbs.    weight  loss/gain     over _____ months",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1261,
+            "end_offset": 1448,
+            "annotation_id": "LY_009"
+        },
+        {
+            "decision": "HEENT:          [x] All Normal [ ] Blurred vision   [ ] Blindness  [ ] Photophobia [ ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums [ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus [ ] Decreased hearing    [ ]Tinnitus [ ] Other:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1450,
+            "end_offset": 1697,
+            "annotation_id": "LY_010"
+        },
+        {
+            "decision": "RESPIRATORY:    [] All Normal [ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [ x] Cough [ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1700,
+            "end_offset": 1862,
+            "annotation_id": "LY_011"
+        },
+        {
+            "decision": "CARDIAC:        [x]  All Normal [ ] Angina    [ ] Palpitations   [ ] Edema   [ ] PND [ ] Orthopnea    [ ] Chest Pain [ ] Other:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1875,
+            "end_offset": 2001,
+            "annotation_id": "LY_012"
+        },
+        {
+            "decision": "GI:             [x] All Normal [ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia [ ] Dysphagia:   [ ] Solids    [ ] Liquids [ ] Anorexia    [] Nausea  [] Vomiting   [ ] Reflux [ ] Diarrhea    [ ] Constipation  []  Abd pain  [ ] Other:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2004,
+            "end_offset": 2246,
+            "annotation_id": "LY_013"
+        },
+        {
+            "decision": "GU:             [x] All Normal [ ] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge []Menorrhagia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2249,
+            "end_offset": 2354,
+            "annotation_id": "LY_014"
+        },
+        {
+            "decision": "SKIN:           [] All Normal [ ] Rash        [ ] Pruritus  [x] R calf nodule",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2356,
+            "end_offset": 2433,
+            "annotation_id": "LY_015"
+        },
+        {
+            "decision": "MS:             [x] All Normal [ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2435,
+            "end_offset": 2530,
+            "annotation_id": "LY_016"
+        },
+        {
+            "decision": "NEURO:          [x] All Normal [ ] Headache    [ ] Visual changes   [ ] Sensory change [ ]Confusion [ ]Numbness of extremities [ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo [ ] Headache",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2532,
+            "end_offset": 2736,
+            "annotation_id": "LY_017"
+        },
+        {
+            "decision": "ENDOCRINE:     [x] All Normal [ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2738,
+            "end_offset": 2826,
+            "annotation_id": "LY_018"
+        },
+        {
+            "decision": "HEME/LYMPH:    [] All Normal [x ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2828,
+            "end_offset": 2913,
+            "annotation_id": "LY_019"
+        },
+        {
+            "decision": "PSYCH:         [x] All Normal [ ] Mood change        []Suicidal Ideation  [ ] Other:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2915,
+            "end_offset": 2998,
+            "annotation_id": "LY_020"
+        },
+        {
+            "decision": "x]all other systems negative except as noted above",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3002,
+            "end_offset": 3052,
+            "annotation_id": "LY_021"
+        },
+        {
+            "decision": "dx with AML after presenting to EW with vaginal bleeding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3111,
+            "end_offset": 3167,
+            "annotation_id": "LY_022"
+        },
+        {
+            "decision": "\"7&3\" + Plerixafor",
+            "category": "Category 5: Drug related",
+            "start_offset": 3183,
+            "end_offset": 3200,
+            "annotation_id": "LY_023"
+        },
+        {
+            "decision": "MDS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3247,
+            "end_offset": 3250,
+            "annotation_id": "LY_024"
+        },
+        {
+            "decision": "post induction BM bx",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3254,
+            "end_offset": 3274,
+            "annotation_id": "LY_025"
+        },
+        {
+            "decision": "MUD allo SCT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3276,
+            "end_offset": 3288,
+            "annotation_id": "LY_026"
+        },
+        {
+            "decision": "VRE bacteremia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3337,
+            "end_offset": 3351,
+            "annotation_id": "LY_027"
+        },
+        {
+            "decision": "anthracycline induced cardiomyopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3356,
+            "end_offset": 3392,
+            "annotation_id": "LY_028"
+        },
+        {
+            "decision": "fevers",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3446,
+            "end_offset": 3452,
+            "annotation_id": "LY_029"
+        },
+        {
+            "decision": "BM bx",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3454,
+            "end_offset": 3459,
+            "annotation_id": "LY_030"
+        },
+        {
+            "decision": "relapsed AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3470,
+            "end_offset": 3482,
+            "annotation_id": "LY_031"
+        },
+        {
+            "decision": "Dacogen",
+            "category": "Category 5: Drug related",
+            "start_offset": 3519,
+            "end_offset": 3526,
+            "annotation_id": "LY_032"
+        },
+        {
+            "decision": "Cytarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 3560,
+            "end_offset": 3570,
+            "annotation_id": "LY_033"
+        },
+        {
+            "decision": "Dacogen",
+            "category": "Category 5: Drug related",
+            "start_offset": 3605,
+            "end_offset": 3612,
+            "annotation_id": "LY_034"
+        },
+        {
+            "decision": "liver biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3663,
+            "end_offset": 3675,
+            "annotation_id": "LY_035"
+        },
+        {
+            "decision": "iron overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3692,
+            "end_offset": 3705,
+            "annotation_id": "LY_036"
+        },
+        {
+            "decision": "transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3737,
+            "end_offset": 3749,
+            "annotation_id": "LY_037"
+        },
+        {
+            "decision": "Question GVHD from recent transplant vs other toxic effect of possible medications versus likely transfusion related hemosiderosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3763,
+            "end_offset": 3893,
+            "annotation_id": "LY_038"
+        },
+        {
+            "decision": "Liver MRI",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3924,
+            "end_offset": 3933,
+            "annotation_id": "LY_039"
+        },
+        {
+            "decision": "consistent with hemosiderosis and biopsy cannot rule out GVHD due to mild bile duct dilation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3934,
+            "end_offset": 4026,
+            "annotation_id": "LY_040"
+        },
+        {
+            "decision": "Ground glass opacities on CXR and CT ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4028,
+            "end_offset": 4064,
+            "annotation_id": "LY_041"
+        },
+        {
+            "decision": "bronchial washings done",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4069,
+            "end_offset": 4092,
+            "annotation_id": "LY_042"
+        },
+        {
+            "decision": "Cytology negative for malignant cells",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4118,
+            "end_offset": 4155,
+            "annotation_id": "LY_043"
+        },
+        {
+            "decision": "BAL cultures negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4157,
+            "end_offset": 4178,
+            "annotation_id": "LY_044"
+        },
+        {
+            "decision": "d/c'd on posaconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 4182,
+            "end_offset": 4203,
+            "annotation_id": "LY_045"
+        },
+        {
+            "decision": "cefpidoxime",
+            "category": "Category 5: Drug related",
+            "start_offset": 4208,
+            "end_offset": 4219,
+            "annotation_id": "LY_046"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4267,
+            "end_offset": 4273,
+            "annotation_id": "LY_047"
+        },
+        {
+            "decision": "AML diagnosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4300,
+            "end_offset": 4313,
+            "annotation_id": "LY_048"
+        },
+        {
+            "decision": "iron supplements",
+            "category": "Category 5: Drug related",
+            "start_offset": 4330,
+            "end_offset": 4346,
+            "annotation_id": "LY_049"
+        },
+        {
+            "decision": "VRE bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4368,
+            "end_offset": 4382,
+            "annotation_id": "LY_050"
+        },
+        {
+            "decision": "post transplant",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4386,
+            "end_offset": 4401,
+            "annotation_id": "LY_051"
+        },
+        {
+            "decision": "C diff",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4404,
+            "end_offset": 4410,
+            "annotation_id": "LY_052"
+        },
+        {
+            "decision": "Anthracycline induced cardiotoxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4443,
+            "end_offset": 4479,
+            "annotation_id": "LY_053"
+        },
+        {
+            "decision": "Digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4494,
+            "end_offset": 4501,
+            "annotation_id": "LY_054"
+        },
+        {
+            "decision": "Metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 4503,
+            "end_offset": 4513,
+            "annotation_id": "LY_055"
+        },
+        {
+            "decision": "Lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 4515,
+            "end_offset": 4525,
+            "annotation_id": "LY_056"
+        },
+        {
+            "decision": "Torsemide",
+            "category": "Category 5: Drug related",
+            "start_offset": 4531,
+            "end_offset": 4540,
+            "annotation_id": "LY_057"
+        },
+        {
+            "decision": "initial echo with normal LVEF >60% -- ([**2128-2-25**]) routine echo with LVEF 35% -- ([**2128-3-3**], [**2128-3-9**]) periodic echoes with LVEF 25% -- ([**2128-3-18**]) improving with LVEF 35% -- ([**2128-4-26**]) improving with LVEF 45% -- ([**2128-6-2**]) most recent echo with LVEF 45-50%",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4561,
+            "end_offset": 4852,
+            "annotation_id": "LY_058"
+        },
+        {
+            "decision": "GENERAL:  non-toxic, chronic-ill appearing, NAD, mentating clearly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5544,
+            "end_offset": 5610,
+            "annotation_id": "LY_059"
+        },
+        {
+            "decision": "Eyes: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5611,
+            "end_offset": 5679,
+            "annotation_id": "LY_060"
+        },
+        {
+            "decision": "Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5680,
+            "end_offset": 5731,
+            "annotation_id": "LY_061"
+        },
+        {
+            "decision": "Neck: supple, no JVD or carotid bruits appreciated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5732,
+            "end_offset": 5782,
+            "annotation_id": "LY_062"
+        },
+        {
+            "decision": "Respiratory: Lungs CTA bilaterally without R/R/W",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5783,
+            "end_offset": 5831,
+            "annotation_id": "LY_063"
+        },
+        {
+            "decision": "Cardiovascular: Reg S1S2, no M/R/G noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5832,
+            "end_offset": 5872,
+            "annotation_id": "LY_064"
+        },
+        {
+            "decision": "Gastrointestinal: soft, NT/ND, + bowel sounds, no masses or organomegaly noted.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5873,
+            "end_offset": 5951,
+            "annotation_id": "LY_065"
+        },
+        {
+            "decision": "Genitourinary: no flank tenderness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5953,
+            "end_offset": 5987,
+            "annotation_id": "LY_066"
+        },
+        {
+            "decision": "Skin: 1cm x 1cm mildly erythematous, mildly tender induration/subcutaneous nodule on R posterior calf, dry skin changes on ankles bilaterally (unchanged per pt)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5988,
+            "end_offset": 6147,
+            "annotation_id": "LY_067"
+        },
+        {
+            "decision": "Extremities: No clubbing, cyanosis, edema bilaterally, 2+ radial, DP and PT pulses b/l.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6149,
+            "end_offset": 6235,
+            "annotation_id": "LY_068"
+        },
+        {
+            "decision": "Lymphatics/Heme/Immun: No cervical, supraclavicular lymphadenopathy noted.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6237,
+            "end_offset": 6310,
+            "annotation_id": "LY_069"
+        },
+        {
+            "decision": "Neurologic: -mental status: Alert, oriented x 3. Able to relate history without difficulty. -cranial nerves: II-XII intact -motor: normal bulk, strength and tone throughout. No abnormal movements noted. -sensory: No deficits to light touch throughout. -cerebellar: No nystagmus, dysarthria, tremor, dysdiadochokinesia noted. .",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6312,
+            "end_offset": 6636,
+            "annotation_id": "LY_070"
+        },
+        {
+            "decision": "deceased no spontaneous respirations, no pulse (jugular and radial), no heart sounds auscultated, pupils fixed and dilated, no corneal reflex, no reaction to painful stimuli",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6655,
+            "end_offset": 6828,
+            "annotation_id": "LY_071"
+        },
+        {
+            "decision": "PLT SMR-VERY LOW PLT COUNT-31",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7133,
+            "end_offset": 7162,
+            "annotation_id": "LY_072"
+        },
+        {
+            "decision": "BCx [**2128-11-24**] Blood Culture, Routine (Final [**2128-11-28**]):       STAPHYLOCOCCUS LUGDUNENSIS.    FINAL SENSITIVITIES.          Staphylococcus species may develop resistance during prolonged          therapy with quinolones.   Therefore, isolates that are initially          susceptible may become resistant within three to four days after          initiation of therapy.  Testing of repeat isolates may be          warranted.       CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).          Isolated from only one set in the previous five days.                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS LUGDUNENSIS                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------     2 S TETRACYCLINE----------   <=1 S VANCOMYCIN------------     1 S . BCx, UCx, Tissue Cx and PICC Cx negative C.Diff Negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7606,
+            "end_offset": 8642,
+            "annotation_id": "LY_073"
+        },
+        {
+            "decision": "Lung, core needle biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8658,
+            "end_offset": 8682,
+            "annotation_id": "LY_074"
+        },
+        {
+            "decision": "Organizing pneumonitis with features of BOOP/COP (bronchiolitis obliterans-organizing pneumonia/cryptogenic organizing pneumonia)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8686,
+            "end_offset": 8814,
+            "annotation_id": "LY_075"
+        },
+        {
+            "decision": "Patchy infiltrate within pulmonary interstitium morphologically and immunophenotypically consistent with involvement by patient's known acute myeloid leukemia in a background of organizing pneumonitis as described above",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8934,
+            "end_offset": 9153,
+            "annotation_id": "LY_076"
+        },
+        {
+            "decision": "Nodule US",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9167,
+            "end_offset": 9176,
+            "annotation_id": "LY_077"
+        },
+        {
+            "decision": "No abscess",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9195,
+            "end_offset": 9205,
+            "annotation_id": "LY_078"
+        },
+        {
+            "decision": "CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9210,
+            "end_offset": 9213,
+            "annotation_id": "LY_079"
+        },
+        {
+            "decision": "Slight progression of AML nodules or concurrent infection. PIC line ends in the right atrium, approximately 3 cm past the superior atriocaval junction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9234,
+            "end_offset": 9384,
+            "annotation_id": "LY_080"
+        },
+        {
+            "decision": "CTA CHest",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9389,
+            "end_offset": 9398,
+            "annotation_id": "LY_081"
+        },
+        {
+            "decision": "No pulmonary embolism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9419,
+            "end_offset": 9440,
+            "annotation_id": "LY_082"
+        },
+        {
+            "decision": "Marked increase in size and number of multiple pulmonary nodules, many of which are now confluent. It is unclear whether this is the same process seen on the prior studies (i.e., biopsy proven AML nodules) or areas of new infection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9445,
+            "end_offset": 9676,
+            "annotation_id": "LY_083"
+        },
+        {
+            "decision": "Stable mild cardiomegaly. Small pericardial effusion has slightly increased in size since the prior study",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9681,
+            "end_offset": 9786,
+            "annotation_id": "LY_084"
+        },
+        {
+            "decision": "Stable splenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9791,
+            "end_offset": 9810,
+            "annotation_id": "LY_085"
+        },
+        {
+            "decision": "TTE",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9813,
+            "end_offset": 9816,
+            "annotation_id": "LY_086"
+        },
+        {
+            "decision": "The left atrium is normal in size. The coronary sinus is dilated (diameter >15mm). Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF 50%)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9834,
+            "end_offset": 10072,
+            "annotation_id": "LY_087"
+        },
+        {
+            "decision": "The right ventricular free wall thickness is normal. Right ventricular chamber size is normal. with borderline normal free wall function. There is abnormal septal motion/position associated with ventricular interaction. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10076,
+            "end_offset": 10427,
+            "annotation_id": "LY_088"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The estimated pulmonary artery systolic pressure is normal. There is a small pericardial effusion. The effusion appears circumferential. There are no echocardiographic signs of tamponade",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10429,
+            "end_offset": 10730,
+            "annotation_id": "LY_089"
+        },
+        {
+            "decision": "TTE",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10734,
+            "end_offset": 10737,
+            "annotation_id": "LY_090"
+        },
+        {
+            "decision": "Small circumferential pericardial effusion without evidence for hemodynamic compromise. Normal left ventricular cavity size with low normal global systolic function",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10766,
+            "end_offset": 10930,
+            "annotation_id": "LY_091"
+        },
+        {
+            "decision": "RUQ US",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10934,
+            "end_offset": 10940,
+            "annotation_id": "LY_092"
+        },
+        {
+            "decision": "Normal right upper quadrant ultrasound",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10957,
+            "end_offset": 10995,
+            "annotation_id": "LY_093"
+        },
+        {
+            "decision": "TTE",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10999,
+            "end_offset": 11002,
+            "annotation_id": "LY_094"
+        },
+        {
+            "decision": "Mildly depressed global left ventricular systolic function. Mild mitral regurgitation. Small circumferential pericardial effusion without echocardiographic evidence of tamponade. Normal pulmonary artery systolic pressure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11019,
+            "end_offset": 11239,
+            "annotation_id": "LY_095"
+        },
+        {
+            "decision": "CT Pelvis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11242,
+            "end_offset": 11251,
+            "annotation_id": "LY_096"
+        },
+        {
+            "decision": "Possible minimal or early proctitis without evidence for abscess.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11272,
+            "end_offset": 11336,
+            "annotation_id": "LY_097"
+        },
+        {
+            "decision": "Focus of superficial left gluteal subcutaneous fat stranding. Clinical correlation is recommended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11341,
+            "end_offset": 11438,
+            "annotation_id": "LY_098"
+        },
+        {
+            "decision": "CXR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11442,
+            "end_offset": 11445,
+            "annotation_id": "LY_099"
+        },
+        {
+            "decision": "In comparison with the study of [**12-4**], the left PICC line again extends to the lower portion of the SVC. Continued enlargement of the cardiac silhouette without definite vascular congestion. The multifocal areas of opacification have substantially decreased. Mild retrocardiac opacification could reflect atelectatic change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11463,
+            "end_offset": 11791,
+            "annotation_id": "LY_100"
+        },
+        {
+            "decision": "refractory AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11897,
+            "end_offset": 11911,
+            "annotation_id": "LY_101"
+        },
+        {
+            "decision": "s/p allo BMT [**2128-4-15**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11912,
+            "end_offset": 11940,
+            "annotation_id": "LY_102"
+        },
+        {
+            "decision": "s/p dacogen [**2128-10-26**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 11942,
+            "end_offset": 11970,
+            "annotation_id": "LY_103"
+        },
+        {
+            "decision": "ARA-C and lymphocyte infusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11972,
+            "end_offset": 12001,
+            "annotation_id": "LY_104"
+        },
+        {
+            "decision": "h/o VRE bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12003,
+            "end_offset": 12021,
+            "annotation_id": "LY_105"
+        },
+        {
+            "decision": "h/o c. diff admitted from clinic with subcutaneous nodule on her R posterior calf found to have GPC and GPR Bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12023,
+            "end_offset": 12141,
+            "annotation_id": "LY_106"
+        },
+        {
+            "decision": "5 doses of MEC",
+            "category": "Category 5: Drug related",
+            "start_offset": 12176,
+            "end_offset": 12190,
+            "annotation_id": "LY_107"
+        },
+        {
+            "decision": "severe mucositis and neutropenic fevers",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12223,
+            "end_offset": 12262,
+            "annotation_id": "LY_108"
+        },
+        {
+            "decision": "severe multifocal pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12329,
+            "end_offset": 12356,
+            "annotation_id": "LY_109"
+        },
+        {
+            "decision": "septic shock",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12361,
+            "end_offset": 12373,
+            "annotation_id": "LY_110"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12385,
+            "end_offset": 12395,
+            "annotation_id": "LY_111"
+        },
+        {
+            "decision": "bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12410,
+            "end_offset": 12422,
+            "annotation_id": "LY_112"
+        },
+        {
+            "decision": "pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 12484,
+            "end_offset": 12492,
+            "annotation_id": "LY_113"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12536,
+            "end_offset": 12546,
+            "annotation_id": "LY_114"
+        },
+        {
+            "decision": "covered very broadly with antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 12561,
+            "end_offset": 12598,
+            "annotation_id": "LY_115"
+        },
+        {
+            "decision": "Multiple units of platelets were given",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12600,
+            "end_offset": 12638,
+            "annotation_id": "LY_116"
+        },
+        {
+            "decision": "dropping platelet counts < 10",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12643,
+            "end_offset": 12672,
+            "annotation_id": "LY_117"
+        },
+        {
+            "decision": "not clinically improving",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12690,
+            "end_offset": 12714,
+            "annotation_id": "LY_118"
+        },
+        {
+            "decision": "medication requirements (pressors),",
+            "category": "Category 5: Drug related",
+            "start_offset": 12727,
+            "end_offset": 12760,
+            "annotation_id": "LY_119"
+        },
+        {
+            "decision": "pressors ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13403,
+            "end_offset": 13411,
+            "annotation_id": "LY_120"
+        },
+        {
+            "decision": "should be removed from life support, including pressors and intubation, and the patient be made comfort measures only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 13356,
+            "end_offset": 13473,
+            "annotation_id": "LY_121"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13492,
+            "end_offset": 13501,
+            "annotation_id": "LY_122"
+        },
+        {
+            "decision": "anxious, in respiratory distress and pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13510,
+            "end_offset": 13551,
+            "annotation_id": "LY_123"
+        },
+        {
+            "decision": "morphine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13577,
+            "end_offset": 13585,
+            "annotation_id": "LY_124"
+        },
+        {
+            "decision": "midazolam ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13590,
+            "end_offset": 13599,
+            "annotation_id": "LY_125"
+        },
+        {
+            "decision": "Neutropenic Fever",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13823,
+            "end_offset": 13840,
+            "annotation_id": "LY_126"
+        },
+        {
+            "decision": "PO antibiotics prophylactically",
+            "category": "Category 5: Drug related",
+            "start_offset": 13892,
+            "end_offset": 13923,
+            "annotation_id": "LY_127"
+        },
+        {
+            "decision": "ANCs remained consistently <500 and after MEC plummeted to 0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13981,
+            "end_offset": 14041,
+            "annotation_id": "LY_128"
+        },
+        {
+            "decision": "Serial BCx have and UCx remained negative since [**11-25**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14314,
+            "end_offset": 14373,
+            "annotation_id": "LY_129"
+        },
+        {
+            "decision": "TTE negative for endocarditis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14375,
+            "end_offset": 14404,
+            "annotation_id": "LY_130"
+        },
+        {
+            "decision": "PICC Cx negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14406,
+            "end_offset": 14422,
+            "annotation_id": "LY_131"
+        },
+        {
+            "decision": "Pulm biopsy Cx negative",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14424,
+            "end_offset": 14447,
+            "annotation_id": "LY_132"
+        },
+        {
+            "decision": "Vancomycin to 750mg IV Q12hours",
+            "category": "Category 5: Drug related",
+            "start_offset": 14470,
+            "end_offset": 14501,
+            "annotation_id": "LY_133"
+        },
+        {
+            "decision": "CefePIME 2 g IV Q8H",
+            "category": "Category 5: Drug related",
+            "start_offset": 14522,
+            "end_offset": 14541,
+            "annotation_id": "LY_134"
+        },
+        {
+            "decision": "Meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 14570,
+            "end_offset": 14579,
+            "annotation_id": "LY_135"
+        },
+        {
+            "decision": "Cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 14620,
+            "end_offset": 14628,
+            "annotation_id": "LY_136"
+        },
+        {
+            "decision": "Posaconazole 400mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 14645,
+            "end_offset": 14670,
+            "annotation_id": "LY_137"
+        },
+        {
+            "decision": "Micafungin",
+            "category": "Category 5: Drug related",
+            "start_offset": 14711,
+            "end_offset": 14721,
+            "annotation_id": "LY_138"
+        },
+        {
+            "decision": "prolonged QT syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14741,
+            "end_offset": 14762,
+            "annotation_id": "LY_139"
+        },
+        {
+            "decision": "Zofran",
+            "category": "Category 5: Drug related",
+            "start_offset": 14778,
+            "end_offset": 14784,
+            "annotation_id": "LY_140"
+        },
+        {
+            "decision": "Xofran Mica",
+            "category": "Category 5: Drug related",
+            "start_offset": 14818,
+            "end_offset": 14829,
+            "annotation_id": "LY_141"
+        },
+        {
+            "decision": "Voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 14841,
+            "end_offset": 14853,
+            "annotation_id": "LY_142"
+        },
+        {
+            "decision": "Atovaquone",
+            "category": "Category 5: Drug related",
+            "start_offset": 14914,
+            "end_offset": 14924,
+            "annotation_id": "LY_143"
+        },
+        {
+            "decision": "Acyclovir ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14949,
+            "end_offset": 14958,
+            "annotation_id": "LY_144"
+        },
+        {
+            "decision": "CT searching for source revealed organizing pneumonia consistent with biopsy results but improving",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14980,
+            "end_offset": 15078,
+            "annotation_id": "LY_145"
+        },
+        {
+            "decision": "Mucositis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15084,
+            "end_offset": 15093,
+            "annotation_id": "LY_146"
+        },
+        {
+            "decision": "CT pelvis with proctitis without abscess",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15146,
+            "end_offset": 15186,
+            "annotation_id": "LY_147"
+        },
+        {
+            "decision": "morphine PCA but pain still uncontrolled, dose titrated up to 5mg/hr infusion and bolus 1mg Q10mins",
+            "category": "Category 5: Drug related",
+            "start_offset": 15254,
+            "end_offset": 15353,
+            "annotation_id": "LY_148"
+        },
+        {
+            "decision": "Amicar 5mg PO x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 15373,
+            "end_offset": 15389,
+            "annotation_id": "LY_149"
+        },
+        {
+            "decision": "CT neck showing edema of esophagous, retropharynx and hypopharynx but without abscess formation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15426,
+            "end_offset": 15521,
+            "annotation_id": "LY_150"
+        },
+        {
+            "decision": "Gelclair",
+            "category": "Category 5: Drug related",
+            "start_offset": 15539,
+            "end_offset": 15547,
+            "annotation_id": "LY_151"
+        },
+        {
+            "decision": "Caphasol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15549,
+            "end_offset": 15557,
+            "annotation_id": "LY_152"
+        },
+        {
+            "decision": "Viscous Lidocaine",
+            "category": "Category 5: Drug related",
+            "start_offset": 15562,
+            "end_offset": 15579,
+            "annotation_id": "LY_153"
+        },
+        {
+            "decision": "lidocaine creams",
+            "category": "Category 5: Drug related",
+            "start_offset": 15656,
+            "end_offset": 15672,
+            "annotation_id": "LY_154"
+        },
+        {
+            "decision": "AML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15679,
+            "end_offset": 15682,
+            "annotation_id": "LY_155"
+        },
+        {
+            "decision": "s/p C3 decitabine/hydrea",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15693,
+            "end_offset": 15717,
+            "annotation_id": "LY_156"
+        },
+        {
+            "decision": "7+3 allo BMT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15722,
+            "end_offset": 15734,
+            "annotation_id": "LY_157"
+        },
+        {
+            "decision": "received 5 days of MEC",
+            "category": "Category 5: Drug related",
+            "start_offset": 15790,
+            "end_offset": 15812,
+            "annotation_id": "LY_158"
+        },
+        {
+            "decision": "Mitoxan ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15831,
+            "end_offset": 15838,
+            "annotation_id": "LY_159"
+        },
+        {
+            "decision": "history of cardiomyopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15845,
+            "end_offset": 15870,
+            "annotation_id": "LY_160"
+        },
+        {
+            "decision": "Blasts improved with MEC though persistant ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15872,
+            "end_offset": 15914,
+            "annotation_id": "LY_161"
+        },
+        {
+            "decision": "profound pancytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15933,
+            "end_offset": 15954,
+            "annotation_id": "LY_162"
+        },
+        {
+            "decision": "multiple transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15965,
+            "end_offset": 15986,
+            "annotation_id": "LY_163"
+        },
+        {
+            "decision": "complicated by mucositis with esophageal and rectal involvement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16000,
+            "end_offset": 16063,
+            "annotation_id": "LY_164"
+        },
+        {
+            "decision": "Pulmonary nodule and skin nodule biopsies likely AML",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16065,
+            "end_offset": 16117,
+            "annotation_id": "LY_165"
+        },
+        {
+            "decision": "Hydroxyurea initially titrated up to 2 grams PO BID prior to MEC but then held during MEC ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16119,
+            "end_offset": 16208,
+            "annotation_id": "LY_166"
+        },
+        {
+            "decision": "Pancytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16220,
+            "end_offset": 16232,
+            "annotation_id": "LY_167"
+        },
+        {
+            "decision": "Acyclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 16247,
+            "end_offset": 16256,
+            "annotation_id": "LY_168"
+        },
+        {
+            "decision": "Atovaquone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16258,
+            "end_offset": 16268,
+            "annotation_id": "LY_169"
+        },
+        {
+            "decision": "history of transfusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16339,
+            "end_offset": 16361,
+            "annotation_id": "LY_170"
+        },
+        {
+            "decision": "hemosidersosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16370,
+            "end_offset": 16384,
+            "annotation_id": "LY_171"
+        },
+        {
+            "decision": "Liver biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16394,
+            "end_offset": 16406,
+            "annotation_id": "LY_172"
+        },
+        {
+            "decision": "ursodiol",
+            "category": "Category 5: Drug related",
+            "start_offset": 16434,
+            "end_offset": 16442,
+            "annotation_id": "LY_173"
+        },
+        {
+            "decision": "AST and ALT increased and downtrended following completion of course",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16464,
+            "end_offset": 16532,
+            "annotation_id": "LY_174"
+        },
+        {
+            "decision": "RUQ US negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16601,
+            "end_offset": 16616,
+            "annotation_id": "LY_175"
+        },
+        {
+            "decision": "Subcutaneous nodule",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16622,
+            "end_offset": 16641,
+            "annotation_id": "LY_176"
+        },
+        {
+            "decision": "US negative for abscess",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16684,
+            "end_offset": 16707,
+            "annotation_id": "LY_177"
+        },
+        {
+            "decision": "biopsied nodules which showed AML involvement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16728,
+            "end_offset": 16773,
+            "annotation_id": "LY_178"
+        },
+        {
+            "decision": "culture negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16775,
+            "end_offset": 16791,
+            "annotation_id": "LY_179"
+        },
+        {
+            "decision": "Adrenal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16816,
+            "end_offset": 16837,
+            "annotation_id": "LY_180"
+        },
+        {
+            "decision": "hydrocortisone",
+            "category": "Category 5: Drug related",
+            "start_offset": 16842,
+            "end_offset": 16856,
+            "annotation_id": "LY_181"
+        },
+        {
+            "decision": "Doubled hydrocortisone in setting of fever to Hydrocortisone 10/20 mg PO QPM/AM",
+            "category": "Category 5: Drug related",
+            "start_offset": 16886,
+            "end_offset": 16965,
+            "annotation_id": "LY_182"
+        },
+        {
+            "decision": "Oral candidiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17028,
+            "end_offset": 17044,
+            "annotation_id": "LY_183"
+        },
+        {
+            "decision": "Cardiomyopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17074,
+            "end_offset": 17088,
+            "annotation_id": "LY_184"
+        },
+        {
+            "decision": "TTE ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17150,
+            "end_offset": 17153,
+            "annotation_id": "LY_185"
+        },
+        {
+            "decision": "24mg Zofran",
+            "category": "Category 5: Drug related",
+            "start_offset": 17237,
+            "end_offset": 17248,
+            "annotation_id": "LY_186"
+        },
+        {
+            "decision": "EKG showed QT prolongation to 600 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17271,
+            "end_offset": 17304,
+            "annotation_id": "LY_187"
+        },
+        {
+            "decision": "Zofran ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17339,
+            "end_offset": 17345,
+            "annotation_id": "LY_188"
+        },
+        {
+            "decision": "Dex ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17418,
+            "end_offset": 17421,
+            "annotation_id": "LY_189"
+        },
+        {
+            "decision": "Ativan ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17426,
+            "end_offset": 17432,
+            "annotation_id": "LY_190"
+        },
+        {
+            "decision": "Metoprolol Tartrate 12.5 mg PO/NG ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17447,
+            "end_offset": 17480,
+            "annotation_id": "LY_191"
+        },
+        {
+            "decision": "Depression/anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17502,
+            "end_offset": 17520,
+            "annotation_id": "LY_192"
+        },
+        {
+            "decision": "celexa",
+            "category": "Category 5: Drug related",
+            "start_offset": 17540,
+            "end_offset": 17546,
+            "annotation_id": "LY_193"
+        },
+        {
+            "decision": "lorazepam prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 17548,
+            "end_offset": 17561,
+            "annotation_id": "LY_194"
+        },
+        {
+            "decision": "cefpodoxime 400mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 17590,
+            "end_offset": 17624,
+            "annotation_id": "LY_195"
+        },
+        {
+            "decision": "citalopram 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17625,
+            "end_offset": 17646,
+            "annotation_id": "LY_196"
+        },
+        {
+            "decision": "clotrimazole troches",
+            "category": "Category 5: Drug related",
+            "start_offset": 17647,
+            "end_offset": 17667,
+            "annotation_id": "LY_197"
+        },
+        {
+            "decision": "folic acid",
+            "category": "Category 5: Drug related",
+            "start_offset": 17668,
+            "end_offset": 17678,
+            "annotation_id": "LY_198"
+        },
+        {
+            "decision": "hydrocortisone 10mg qAM, 5mg qPM",
+            "category": "Category 5: Drug related",
+            "start_offset": 17679,
+            "end_offset": 17711,
+            "annotation_id": "LY_199"
+        },
+        {
+            "decision": "hydroxyurea 1000mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17712,
+            "end_offset": 17736,
+            "annotation_id": "LY_200"
+        },
+        {
+            "decision": "lorazepam 0.5mg qid prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 17737,
+            "end_offset": 17760,
+            "annotation_id": "LY_201"
+        },
+        {
+            "decision": "metoprolol 12.5 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 17761,
+            "end_offset": 17796,
+            "annotation_id": "LY_202"
+        },
+        {
+            "decision": "ondansetron prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 17797,
+            "end_offset": 17812,
+            "annotation_id": "LY_203"
+        },
+        {
+            "decision": "oxycodone 5mg q4 hours prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 17813,
+            "end_offset": 17839,
+            "annotation_id": "LY_204"
+        },
+        {
+            "decision": "posaconazole 400mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 17840,
+            "end_offset": 17875,
+            "annotation_id": "LY_205"
+        },
+        {
+            "decision": "prednisone 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17876,
+            "end_offset": 17897,
+            "annotation_id": "LY_206"
+        },
+        {
+            "decision": "ursodiol 300mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 17898,
+            "end_offset": 17929,
+            "annotation_id": "LY_207"
+        },
+        {
+            "decision": "MVI",
+            "category": "Category 5: Drug related",
+            "start_offset": 17930,
+            "end_offset": 17933,
+            "annotation_id": "LY_208"
+        }
+    ]
+}

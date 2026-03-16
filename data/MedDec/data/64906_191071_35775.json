@@ -1,0 +1,706 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "64906_191071_35775",
+    "annotations": [
+        {
+            "decision": "AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 188,
+            "end_offset": 191,
+            "annotation_id": "OA_000"
+        },
+        {
+            "decision": "SDH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 286,
+            "end_offset": 289,
+            "annotation_id": "OA_001"
+        },
+        {
+            "decision": "h/o DVT's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 291,
+            "end_offset": 300,
+            "annotation_id": "OA_002"
+        },
+        {
+            "decision": "prostate cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 302,
+            "end_offset": 317,
+            "annotation_id": "OA_003"
+        },
+        {
+            "decision": "dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 319,
+            "end_offset": 327,
+            "annotation_id": "OA_004"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 347,
+            "end_offset": 350,
+            "annotation_id": "OA_005"
+        },
+        {
+            "decision": "fevers",
+            "category": "Category 3: Defining problem",
+            "start_offset": 352,
+            "end_offset": 358,
+            "annotation_id": "OA_006"
+        },
+        {
+            "decision": "hypernatremia (Na 159",
+            "category": "Category 3: Defining problem",
+            "start_offset": 364,
+            "end_offset": 385,
+            "annotation_id": "OA_007"
+        },
+        {
+            "decision": "have recurrent bilateral lower extremity DVT's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 402,
+            "end_offset": 448,
+            "annotation_id": "OA_008"
+        },
+        {
+            "decision": "Was initially admitted to the neurosurgery service but was transferred to medicine on [**12-13**] for further management",
+            "category": "Category 1: Contact related",
+            "start_offset": 450,
+            "end_offset": 570,
+            "annotation_id": "OA_009"
+        },
+        {
+            "decision": "heparin - coumadin bridge ",
+            "category": "Category 5: Drug related",
+            "start_offset": 591,
+            "end_offset": 616,
+            "annotation_id": "OA_010"
+        },
+        {
+            "decision": "hematocrit was noted to have dropped from 28 to 21.5",
+            "category": "Category 3: Defining problem",
+            "start_offset": 634,
+            "end_offset": 686,
+            "annotation_id": "OA_011"
+        },
+        {
+            "decision": "taken down to CT for CT ab/pelvis and CT head which did not show RP or new head bleed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 695,
+            "end_offset": 780,
+            "annotation_id": "OA_012"
+        },
+        {
+            "decision": "His mental status was noted to be even worse today than usual.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 860,
+            "end_offset": 921,
+            "annotation_id": "OA_013"
+        },
+        {
+            "decision": "he was noted to be in respiratory distress ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 947,
+            "end_offset": 989,
+            "annotation_id": "OA_014"
+        },
+        {
+            "decision": "Respiratory agressively suctioned and were able to retrieve 3 very large mucus plugs with improvement in his O2 sats.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1026,
+            "end_offset": 1142,
+            "annotation_id": "OA_015"
+        },
+        {
+            "decision": "He was transferred to the ICU for further management.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1144,
+            "end_offset": 1196,
+            "annotation_id": "OA_016"
+        },
+        {
+            "decision": "- coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1465,
+            "end_offset": 1488,
+            "annotation_id": "OA_017"
+        },
+        {
+            "decision": "s/p MI and CABG [**44**] yrs ago",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1489,
+            "end_offset": 1521,
+            "annotation_id": "OA_018"
+        },
+        {
+            "decision": "s/p emergent burrhole placement x2 on [**2133-11-23**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1564,
+            "end_offset": 1618,
+            "annotation_id": "OA_019"
+        },
+        {
+            "decision": "subdural hematoma in [**10/2133**], now s/p emergent burrhole placement x2 on [**2133-11-23**] for acute worsening of hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1524,
+            "end_offset": 1650,
+            "annotation_id": "OA_020"
+        },
+        {
+            "decision": "off anticoagulation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1695,
+            "end_offset": 1714,
+            "annotation_id": "OA_021"
+        },
+        {
+            "decision": "lower extremity DVT in [**8-/2133**] (now off anticoagulation due to SDH; bliateral LENIs earlier this month show no clot",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1653,
+            "end_offset": 1774,
+            "annotation_id": "OA_022"
+        },
+        {
+            "decision": "colon cancer (stage, therapy, status otherwise unknown)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1778,
+            "end_offset": 1832,
+            "annotation_id": "OA_023"
+        },
+        {
+            "decision": "hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1836,
+            "end_offset": 1850,
+            "annotation_id": "OA_024"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1853,
+            "end_offset": 1865,
+            "annotation_id": "OA_025"
+        },
+        {
+            "decision": "chronic kidney disease, stage II with baseline creatinine 1.2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1868,
+            "end_offset": 1929,
+            "annotation_id": "OA_026"
+        },
+        {
+            "decision": "General: Lethargic, lying on his R side, does not follow commands or give verbal responses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2148,
+            "end_offset": 2238,
+            "annotation_id": "OA_027"
+        },
+        {
+            "decision": "HEENT: pinpoint pupils, dry MM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2239,
+            "end_offset": 2269,
+            "annotation_id": "OA_028"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2270,
+            "end_offset": 2300,
+            "annotation_id": "OA_029"
+        },
+        {
+            "decision": "Lungs: decreased breath sounds bilaterally, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2301,
+            "end_offset": 2370,
+            "annotation_id": "OA_030"
+        },
+        {
+            "decision": "CV: distant heart sounds, regular rate, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2371,
+            "end_offset": 2452,
+            "annotation_id": "OA_031"
+        },
+        {
+            "decision": "Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2453,
+            "end_offset": 2568,
+            "annotation_id": "OA_032"
+        },
+        {
+            "decision": "Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2569,
+            "end_offset": 2636,
+            "annotation_id": "OA_033"
+        },
+        {
+            "decision": "Head CT [**2133-12-9**]:  IMPRESSION: 1. Left subdural collection with hyperdense focus anteriorly that is not significantly changed in comparison to [**2133-12-1**], with mass effect upon the cerebral sulci and lateral ventricle",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2658,
+            "end_offset": 2887,
+            "annotation_id": "OA_034"
+        },
+        {
+            "decision": ". Small hypodense right subdural collection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2892,
+            "end_offset": 2933,
+            "annotation_id": "OA_035"
+        },
+        {
+            "decision": "6mm rightward shift of midline structures.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2938,
+            "end_offset": 2979,
+            "annotation_id": "OA_036"
+        },
+        {
+            "decision": "Head CT [**2133-12-11**]:  IMPRESSION: Overall no significant interval change in the extent and size of the left sided subdural with minimal mass effect on the sulci and the ventricle and minimal midline shift as described previously",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2983,
+            "end_offset": 3216,
+            "annotation_id": "OA_037"
+        },
+        {
+            "decision": "No evidence of herniation identified. Tiny right-sided subdural is again seen unchanged. Other changes as described above.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3218,
+            "end_offset": 3339,
+            "annotation_id": "OA_038"
+        },
+        {
+            "decision": "Head CT [**2133-12-16**]:  IMPRESSION: Unchanged extent and size of chronic bilateral subdural hematomas and their minimal mass effect and shift of midline structures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3343,
+            "end_offset": 3509,
+            "annotation_id": "OA_039"
+        },
+        {
+            "decision": "The acute component in the anterior left frontal subdural compartment is unchanged.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3511,
+            "end_offset": 3593,
+            "annotation_id": "OA_040"
+        },
+        {
+            "decision": "Abd CT [**2133-12-16**]:  IMPRESSION: 1. No retroperitoneal hematoma or intra-abdominal free gas",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3597,
+            "end_offset": 3693,
+            "annotation_id": "OA_041"
+        },
+        {
+            "decision": ". Bilateral atelectasis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3698,
+            "end_offset": 3719,
+            "annotation_id": "OA_042"
+        },
+        {
+            "decision": "Capacious rectum, appearing impacted with retained fecal material.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3724,
+            "end_offset": 3789,
+            "annotation_id": "OA_043"
+        },
+        {
+            "decision": "CXR [**2133-12-22**]:   FINDINGS: In comparison with the study of [**12-21**], there is continued  opacification just above the minor fissure consistent with right upper lobe pneumonia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3793,
+            "end_offset": 3977,
+            "annotation_id": "OA_044"
+        },
+        {
+            "decision": "pmh of recent SDH s/p boreholes X 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4022,
+            "end_offset": 4057,
+            "annotation_id": "OA_045"
+        },
+        {
+            "decision": "also w/ recurrent DVTs s/p IVC filter",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4059,
+            "end_offset": 4096,
+            "annotation_id": "OA_046"
+        },
+        {
+            "decision": "here w/ persistently altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4098,
+            "end_offset": 4140,
+            "annotation_id": "OA_047"
+        },
+        {
+            "decision": "s/p hypoxia in the setting of large mucus plugs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4146,
+            "end_offset": 4193,
+            "annotation_id": "OA_048"
+        },
+        {
+            "decision": "Hypoxia/Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4199,
+            "end_offset": 4216,
+            "annotation_id": "OA_049"
+        },
+        {
+            "decision": "developed a large right sided pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4382,
+            "end_offset": 4421,
+            "annotation_id": "OA_050"
+        },
+        {
+            "decision": "vanc",
+            "category": "Category 5: Drug related",
+            "start_offset": 4481,
+            "end_offset": 4485,
+            "annotation_id": "OA_051"
+        },
+        {
+            "decision": "aztreonam",
+            "category": "Category 5: Drug related",
+            "start_offset": 4486,
+            "end_offset": 4495,
+            "annotation_id": "OA_052"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 4496,
+            "end_offset": 4502,
+            "annotation_id": "OA_053"
+        },
+        {
+            "decision": "cipro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4503,
+            "end_offset": 4508,
+            "annotation_id": "OA_054"
+        },
+        {
+            "decision": "hypotensive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4672,
+            "end_offset": 4683,
+            "annotation_id": "OA_055"
+        },
+        {
+            "decision": "arterial line was placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4688,
+            "end_offset": 4712,
+            "annotation_id": "OA_056"
+        },
+        {
+            "decision": "started on pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 4724,
+            "end_offset": 4743,
+            "annotation_id": "OA_057"
+        },
+        {
+            "decision": "After discussion with the family, the decision was made to make the patient DNR/DNI as the pneumonia was worsening and his pressor requirement was increasing",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4746,
+            "end_offset": 4903,
+            "annotation_id": "OA_058"
+        },
+        {
+            "decision": "respiratory arrest and subsequent cardiac arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5046,
+            "end_offset": 5094,
+            "annotation_id": "OA_059"
+        },
+        {
+            "decision": "Eventually, the decision was made to withdraw pressor support. Within hours the patient's [**Date Range **] pressure decreased, he went into respiratory arrest and subsequent cardiac arrest. The patient was not resuscitation per the family's request",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4905,
+            "end_offset": 5154,
+            "annotation_id": "OA_060"
+        },
+        {
+            "decision": "AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5160,
+            "end_offset": 5163,
+            "annotation_id": "OA_061"
+        },
+        {
+            "decision": "Mental status improved initially while in the MICU, however deteriorated once the patient's pneumonia developed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5231,
+            "end_offset": 5342,
+            "annotation_id": "OA_062"
+        },
+        {
+            "decision": "EEG did not show evidence of seizure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5345,
+            "end_offset": 5381,
+            "annotation_id": "OA_063"
+        },
+        {
+            "decision": "Keppra",
+            "category": "Category 5: Drug related",
+            "start_offset": 5389,
+            "end_offset": 5395,
+            "annotation_id": "OA_064"
+        },
+        {
+            "decision": "Alzheimer's medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 5400,
+            "end_offset": 5423,
+            "annotation_id": "OA_065"
+        },
+        {
+            "decision": "After much discussion the decision was made not to escalate care and to make the patient DNR/DNI",
+            "category": "Category 8: Deferment",
+            "start_offset": 5426,
+            "end_offset": 5522,
+            "annotation_id": "OA_066"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5528,
+            "end_offset": 5534,
+            "annotation_id": "OA_067"
+        },
+        {
+            "decision": "Unclear etiology of [**Date Range **] loss.  GI consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 5536,
+            "end_offset": 5593,
+            "annotation_id": "OA_068"
+        },
+        {
+            "decision": "heparin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5685,
+            "end_offset": 5692,
+            "annotation_id": "OA_069"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5697,
+            "end_offset": 5705,
+            "annotation_id": "OA_070"
+        },
+        {
+            "decision": "# Recurrent DVTs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5736,
+            "end_offset": 5750,
+            "annotation_id": "OA_071"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5760,
+            "end_offset": 5768,
+            "annotation_id": "OA_072"
+        },
+        {
+            "decision": "heparin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5773,
+            "end_offset": 5780,
+            "annotation_id": "OA_073"
+        },
+        {
+            "decision": "# Recurrent SDH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5870,
+            "end_offset": 5883,
+            "annotation_id": "OA_074"
+        },
+        {
+            "decision": "Per CT head he had no acute bleed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5968,
+            "end_offset": 6001,
+            "annotation_id": "OA_075"
+        },
+        {
+            "decision": "Neurosurgery was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 6004,
+            "end_offset": 6030,
+            "annotation_id": "OA_076"
+        },
+        {
+            "decision": "Transaminitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6158,
+            "end_offset": 6171,
+            "annotation_id": "OA_077"
+        },
+        {
+            "decision": "Ultrasound performed on [**12-9**] was unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6232,
+            "end_offset": 6283,
+            "annotation_id": "OA_078"
+        },
+        {
+            "decision": "FEN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6289,
+            "end_offset": 6292,
+            "annotation_id": "OA_079"
+        },
+        {
+            "decision": "IVF, repleted electrolytes, Tube feeds via dopoff",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6294,
+            "end_offset": 6343,
+            "annotation_id": "OA_080"
+        },
+        {
+            "decision": "# Access: double-lumen PICC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6389,
+            "end_offset": 6414,
+            "annotation_id": "OA_081"
+        },
+        {
+            "decision": "Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.  Order date: [**12-13**] @ 0938",
+            "category": "Category 5: Drug related",
+            "start_offset": 6513,
+            "end_offset": 6704,
+            "annotation_id": "OA_082"
+        },
+        {
+            "decision": "Insulin SC  (per Insulin Flowsheet) Sliding Scale Order date: [**12-12**] @ 2137 500 mL NS Bolus 500 ml Over 30 mins Order date: [**12-16**] @ 0313",
+            "category": "Category 5: Drug related",
+            "start_offset": 6705,
+            "end_offset": 6852,
+            "annotation_id": "OA_083"
+        },
+        {
+            "decision": "Influenza Virus Vaccine 0.5 mL IM ASDIR Follow Influenza Protocol Document administration in POE   Order date: [**12-16**] @ 1109 500 mL NS Bolus 500 ml Over 60 mins Order date: [**12-16**] @ 0525 15.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6853,
+            "end_offset": 7052,
+            "annotation_id": "OA_084"
+        },
+        {
+            "decision": "Ipratropium Bromide Neb 1 NEB IH Q6H  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7054,
+            "end_offset": 7122,
+            "annotation_id": "OA_085"
+        },
+        {
+            "decision": "Acetaminophen 325-650 mg PO Q6H:PRN  Order date: [**12-16**] @ 0836",
+            "category": "Category 5: Drug related",
+            "start_offset": 7123,
+            "end_offset": 7190,
+            "annotation_id": "OA_086"
+        },
+        {
+            "decision": "LeVETiracetam 250 mg PO BID  Order date: [**12-15**] @ 1754",
+            "category": "Category 5: Drug related",
+            "start_offset": 7191,
+            "end_offset": 7250,
+            "annotation_id": "OA_087"
+        },
+        {
+            "decision": "Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7251,
+            "end_offset": 7325,
+            "annotation_id": "OA_088"
+        },
+        {
+            "decision": "Metoprolol Tartrate 12.5 mg PO BID Start: In am hold hr<55 sbp<100  Order date: [**12-12**] @ 2248",
+            "category": "Category 5: Drug related",
+            "start_offset": 7326,
+            "end_offset": 7424,
+            "annotation_id": "OA_089"
+        },
+        {
+            "decision": "Doxazosin 1 mg PO HS  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7425,
+            "end_offset": 7477,
+            "annotation_id": "OA_090"
+        },
+        {
+            "decision": "Multivitamins 5 mL PO DAILY  Order date: [**12-13**] @ 1210",
+            "category": "Category 5: Drug related",
+            "start_offset": 7478,
+            "end_offset": 7537,
+            "annotation_id": "OA_091"
+        },
+        {
+            "decision": "ocusate Sodium (Liquid) 100 mg PO BID  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7538,
+            "end_offset": 7608,
+            "annotation_id": "OA_092"
+        },
+        {
+            "decision": "Namenda *NF* 10 mg Oral [**Hospital1 **]  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7609,
+            "end_offset": 7681,
+            "annotation_id": "OA_093"
+        },
+        {
+            "decision": "Donepezil 5 mg PO HS  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7682,
+            "end_offset": 7734,
+            "annotation_id": "OA_094"
+        },
+        {
+            "decision": "Senna 1 TAB PO BID  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7735,
+            "end_offset": 7785,
+            "annotation_id": "OA_095"
+        },
+        {
+            "decision": "Famotidine 20 mg PO BID  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7786,
+            "end_offset": 7841,
+            "annotation_id": "OA_096"
+        },
+        {
+            "decision": "FoLIC Acid 1 mg PO DAILY  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7842,
+            "end_offset": 7898,
+            "annotation_id": "OA_097"
+        },
+        {
+            "decision": "Thiamine 100 mg PO DAILY  Order date: [**12-12**] @ 2137",
+            "category": "Category 5: Drug related",
+            "start_offset": 7899,
+            "end_offset": 7955,
+            "annotation_id": "OA_098"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8010,
+            "end_offset": 8019,
+            "annotation_id": "OA_099"
+        }
+    ]
+}

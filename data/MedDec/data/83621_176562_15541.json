@@ -1,0 +1,1308 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "83621_176562_15541",
+    "annotations": [
+        {
+            "decision": "Shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 239,
+            "end_offset": 258,
+            "annotation_id": "QA_000"
+        },
+        {
+            "decision": "Mitral valve repair with quadrangular resection of posterior P2 leaflet and annuloplasty with [**Company 1543**] CG Future ring, model number 638R, size 28 mm.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 298,
+            "end_offset": 456,
+            "annotation_id": "QA_001"
+        },
+        {
+            "decision": "history of mitral valve prolapse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 514,
+            "end_offset": 546,
+            "annotation_id": "QA_002"
+        },
+        {
+            "decision": "with chest pain radiating to right neck and acute shortness of breath for 2 days- found to have CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 575,
+            "end_offset": 674,
+            "annotation_id": "QA_003"
+        },
+        {
+            "decision": "EKG showed NSR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 679,
+            "end_offset": 693,
+            "annotation_id": "QA_004"
+        },
+        {
+            "decision": "A [**4-4**] murmer was auscultated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 695,
+            "end_offset": 729,
+            "annotation_id": "QA_005"
+        },
+        {
+            "decision": "A stat echo was done that revealed a flail posterior MV leaflet with  4+ wide open MR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 731,
+            "end_offset": 816,
+            "annotation_id": "QA_006"
+        },
+        {
+            "decision": "She is currently on nitro @ 10mcg/min and nipride @ 9ml.",
+            "category": "Category 5: Drug related",
+            "start_offset": 818,
+            "end_offset": 873,
+            "annotation_id": "QA_007"
+        },
+        {
+            "decision": "She was also given IV push 20mg lasix and 0.25mg IV ativan and (4) 81mg Aspirin tablets",
+            "category": "Category 5: Drug related",
+            "start_offset": 875,
+            "end_offset": 962,
+            "annotation_id": "QA_008"
+        },
+        {
+            "decision": "patient is currently stable without chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 994,
+            "end_offset": 1040,
+            "annotation_id": "QA_009"
+        },
+        {
+            "decision": "Transferred to [**Hospital1 18**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1042,
+            "end_offset": 1075,
+            "annotation_id": "QA_010"
+        },
+        {
+            "decision": "cardiac catheterization which showed Cardiac Catheterization: Date:[**2141-12-4**]  PCW=25 PA=57/29",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1080,
+            "end_offset": 1179,
+            "annotation_id": "QA_011"
+        },
+        {
+            "decision": "Severe pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1180,
+            "end_offset": 1209,
+            "annotation_id": "QA_012"
+        },
+        {
+            "decision": "Severe mitral regurgitation by v-waves to 45 mmHg Normal Coronaries",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1210,
+            "end_offset": 1277,
+            "annotation_id": "QA_013"
+        },
+        {
+            "decision": "Severe mitral regurgitation by v-waves to 45 mmHg Normal Coronaries",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1210,
+            "end_offset": 1277,
+            "annotation_id": "QA_014"
+        },
+        {
+            "decision": "Mitral Valve Prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1301,
+            "end_offset": 1322,
+            "annotation_id": "QA_015"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1323,
+            "end_offset": 1333,
+            "annotation_id": "QA_016"
+        },
+        {
+            "decision": "Palpitations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1334,
+            "end_offset": 1346,
+            "annotation_id": "QA_017"
+        },
+        {
+            "decision": "migraine headaches",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1347,
+            "end_offset": 1365,
+            "annotation_id": "QA_018"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1366,
+            "end_offset": 1373,
+            "annotation_id": "QA_019"
+        },
+        {
+            "decision": "cervical radiculopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1374,
+            "end_offset": 1396,
+            "annotation_id": "QA_020"
+        },
+        {
+            "decision": "cesarean section x2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1420,
+            "end_offset": 1439,
+            "annotation_id": "QA_021"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1440,
+            "end_offset": 1450,
+            "annotation_id": "QA_022"
+        },
+        {
+            "decision": "cesarean section x2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1474,
+            "end_offset": 1493,
+            "annotation_id": "QA_023"
+        },
+        {
+            "decision": "Normal coronaries",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1494,
+            "end_offset": 1511,
+            "annotation_id": "QA_024"
+        },
+        {
+            "decision": "General:NAD, alert, cooperative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1808,
+            "end_offset": 1839,
+            "annotation_id": "QA_025"
+        },
+        {
+            "decision": "Skin: Dry [x] intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1840,
+            "end_offset": 1863,
+            "annotation_id": "QA_026"
+        },
+        {
+            "decision": "HEENT: PERRLA [x] EOMI [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1865,
+            "end_offset": 1890,
+            "annotation_id": "QA_027"
+        },
+        {
+            "decision": "Neck:  Supple [x] Full ROM [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1892,
+            "end_offset": 1921,
+            "annotation_id": "QA_028"
+        },
+        {
+            "decision": "Chest: Lungs clear bilaterally [x] appears tachypneic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1923,
+            "end_offset": 1976,
+            "annotation_id": "QA_029"
+        },
+        {
+            "decision": "Heart: RRR [x]  Irregular []  Murmur - III-IV/VI systolic murmur across precordium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1977,
+            "end_offset": 2059,
+            "annotation_id": "QA_030"
+        },
+        {
+            "decision": "Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + []",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2060,
+            "end_offset": 2124,
+            "annotation_id": "QA_031"
+        },
+        {
+            "decision": "Extremities: Warm [x], well-perfused [x]  Edema Varicosities: None x",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2130,
+            "end_offset": 2198,
+            "annotation_id": "QA_032"
+        },
+        {
+            "decision": "Neuro: Grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2199,
+            "end_offset": 2220,
+            "annotation_id": "QA_033"
+        },
+        {
+            "decision": "Carotid Bruit        Right/Left:murmur radiates into both carotids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2372,
+            "end_offset": 2438,
+            "annotation_id": "QA_034"
+        },
+        {
+            "decision": "mvrepair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3220,
+            "end_offset": 3228,
+            "annotation_id": "QA_035"
+        },
+        {
+            "decision": "f/u rt effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3261,
+            "end_offset": 3276,
+            "annotation_id": "QA_036"
+        },
+        {
+            "decision": "Mitral valve repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3300,
+            "end_offset": 3319,
+            "annotation_id": "QA_037"
+        },
+        {
+            "decision": "In comparison with the study of [**12-7**], intact midline sternal wires are again seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3354,
+            "end_offset": 3441,
+            "annotation_id": "QA_038"
+        },
+        {
+            "decision": "There is continued bilateral pleural effusion with extensive atelectatic changes at the bases",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3443,
+            "end_offset": 3536,
+            "annotation_id": "QA_039"
+        },
+        {
+            "decision": "Some indistinctness of pulmonary vessels is suggestive of elevated pulmonary venous pressure in this patient with a prosthetic valve and enlargement of the cardiac silhouette",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3538,
+            "end_offset": 3712,
+            "annotation_id": "QA_040"
+        },
+        {
+            "decision": "Mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4367,
+            "end_offset": 4387,
+            "annotation_id": "QA_041"
+        },
+        {
+            "decision": "LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or thrombus in the LA/LAA or the RA/RAA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5213,
+            "end_offset": 5306,
+            "annotation_id": "QA_042"
+        },
+        {
+            "decision": "RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or color Doppler.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5309,
+            "end_offset": 5387,
+            "annotation_id": "QA_043"
+        },
+        {
+            "decision": "RIGHT VENTRICLE: Normal RV chamber size and free wall motion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5390,
+            "end_offset": 5450,
+            "annotation_id": "QA_044"
+        },
+        {
+            "decision": "AORTA: Normal ascending, transverse and descending thoracic aorta with no atherosclerotic plaque.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5453,
+            "end_offset": 5549,
+            "annotation_id": "QA_045"
+        },
+        {
+            "decision": "AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5552,
+            "end_offset": 5622,
+            "annotation_id": "QA_046"
+        },
+        {
+            "decision": "Moderate to severe (3+) MR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5754,
+            "end_offset": 5780,
+            "annotation_id": "QA_047"
+        },
+        {
+            "decision": "MITRAL VALVE: Severely thickened/deformed mitral valve leaflets. Myxomatous mitral valve leaflets. Partial mitral leaflet flail. Moderate to severe (3+) MR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5625,
+            "end_offset": 5780,
+            "annotation_id": "QA_048"
+        },
+        {
+            "decision": "TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5783,
+            "end_offset": 5847,
+            "annotation_id": "QA_049"
+        },
+        {
+            "decision": "PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS. Physiologic PR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5850,
+            "end_offset": 5935,
+            "annotation_id": "QA_050"
+        },
+        {
+            "decision": "PERICARDIUM: No pericardial effusion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5938,
+            "end_offset": 5974,
+            "annotation_id": "QA_051"
+        },
+        {
+            "decision": "A TEE was performed in the location listed above.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5995,
+            "end_offset": 6043,
+            "annotation_id": "QA_052"
+        },
+        {
+            "decision": "The TEE probe was passed with assistance from the anesthesioology staff using a laryngoscope",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6173,
+            "end_offset": 6265,
+            "annotation_id": "QA_053"
+        },
+        {
+            "decision": "No TEE related complications.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6267,
+            "end_offset": 6295,
+            "annotation_id": "QA_054"
+        },
+        {
+            "decision": "The patient appears to be in sinus rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6297,
+            "end_offset": 6338,
+            "annotation_id": "QA_055"
+        },
+        {
+            "decision": "The left atrium is dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6373,
+            "end_offset": 6399,
+            "annotation_id": "QA_056"
+        },
+        {
+            "decision": "No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6401,
+            "end_offset": 6557,
+            "annotation_id": "QA_057"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6559,
+            "end_offset": 6613,
+            "annotation_id": "QA_058"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6615,
+            "end_offset": 6677,
+            "annotation_id": "QA_059"
+        },
+        {
+            "decision": "The ascending, transverse and descending thoracic aorta are normal in diameter and free of atherosclerotic plaque to40 cm from the incisors.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6679,
+            "end_offset": 6818,
+            "annotation_id": "QA_060"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6820,
+            "end_offset": 6905,
+            "annotation_id": "QA_061"
+        },
+        {
+            "decision": "No aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6907,
+            "end_offset": 6938,
+            "annotation_id": "QA_062"
+        },
+        {
+            "decision": "The mitral valve leaflets are severely thickened/deformed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6940,
+            "end_offset": 6997,
+            "annotation_id": "QA_063"
+        },
+        {
+            "decision": "The mitral valve leaflets are myxomatous. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6999,
+            "end_offset": 7039,
+            "annotation_id": "QA_064"
+        },
+        {
+            "decision": "There is partial P2 mitral leaflet flail with torn chords. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7041,
+            "end_offset": 7098,
+            "annotation_id": "QA_065"
+        },
+        {
+            "decision": "Moderate to severe (3+) mitral regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7100,
+            "end_offset": 7152,
+            "annotation_id": "QA_066"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7154,
+            "end_offset": 7186,
+            "annotation_id": "QA_067"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] was notified in person of the results before surgical incision.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7188,
+            "end_offset": 7280,
+            "annotation_id": "QA_068"
+        },
+        {
+            "decision": "Preserved biventricualr systolic function",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7295,
+            "end_offset": 7336,
+            "annotation_id": "QA_069"
+        },
+        {
+            "decision": "Intact thoracic aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7338,
+            "end_offset": 7359,
+            "annotation_id": "QA_070"
+        },
+        {
+            "decision": "There is a mitral annular ring, stable and well functioning with transmitral mean gradient of 6 mm of Hg.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7361,
+            "end_offset": 7465,
+            "annotation_id": "QA_071"
+        },
+        {
+            "decision": "There is no mitral regurgitation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7467,
+            "end_offset": 7499,
+            "annotation_id": "QA_072"
+        },
+        {
+            "decision": "past medical history of mitral valve prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7952,
+            "end_offset": 7997,
+            "annotation_id": "QA_073"
+        },
+        {
+            "decision": "transferred from an outside hospital ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7998,
+            "end_offset": 8034,
+            "annotation_id": "QA_074"
+        },
+        {
+            "decision": "new flail leaflet on echocardiogram",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8108,
+            "end_offset": 8143,
+            "annotation_id": "QA_075"
+        },
+        {
+            "decision": "emergernt evalation of severe mitral regurgitation in the setting of new flail leaflet on echocardiogram.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8039,
+            "end_offset": 8143,
+            "annotation_id": "QA_076"
+        },
+        {
+            "decision": "severe acute mr",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8179,
+            "end_offset": 8194,
+            "annotation_id": "QA_077"
+        },
+        {
+            "decision": "chf",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8195,
+            "end_offset": 8198,
+            "annotation_id": "QA_078"
+        },
+        {
+            "decision": "Right Heart Catheterization: was performed by percutaneous entry of the right femoral vein, using a 7 French pulmonary wedge pressure catheter, advanced to the PCW position through an 8 French introducing sheath.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8211,
+            "end_offset": 8422,
+            "annotation_id": "QA_079"
+        },
+        {
+            "decision": "Cardiac output was measured by the Fick method.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8424,
+            "end_offset": 8470,
+            "annotation_id": "QA_080"
+        },
+        {
+            "decision": "Left Heart Catheterization: was performed by percutaneous entry of the right femoral artery, using a 5 French angled pigtail catheter, advanced to the left ventricle through a 5 French introducing sheath",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8472,
+            "end_offset": 8675,
+            "annotation_id": "QA_081"
+        },
+        {
+            "decision": "Coronary Angiography: was performed in multiple projections using a 5 French JL4 and a 5 French JR4 catheter, with manual contrast injections.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8677,
+            "end_offset": 8818,
+            "annotation_id": "QA_082"
+        },
+        {
+            "decision": "Conscious Sedation:  was provided with appropriate monitoring performed by a member of the nursing staff.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8821,
+            "end_offset": 8925,
+            "annotation_id": "QA_083"
+        },
+        {
+            "decision": "HEMODYNAMICS RESULTS BODY SURFACE AREA:  1.66 m2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8928,
+            "end_offset": 8976,
+            "annotation_id": "QA_084"
+        },
+        {
+            "decision": "  HEMOGLOBIN: 13.2 gms %",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8979,
+            "end_offset": 8999,
+            "annotation_id": "QA_085"
+        },
+        {
+            "decision": "RHYTHM NSR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9253,
+            "end_offset": 9263,
+            "annotation_id": "QA_086"
+        },
+        {
+            "decision": "PROXIMAL RCA   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9638,
+            "end_offset": 9659,
+            "annotation_id": "QA_087"
+        },
+        {
+            "decision": "MID RCA   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9663,
+            "end_offset": 9679,
+            "annotation_id": "QA_088"
+        },
+        {
+            "decision": "ACUTE MARGINAL   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9684,
+            "end_offset": 9707,
+            "annotation_id": "QA_089"
+        },
+        {
+            "decision": "DISTAL RCA   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9711,
+            "end_offset": 9730,
+            "annotation_id": "QA_090"
+        },
+        {
+            "decision": "R-PDA   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9734,
+            "end_offset": 9748,
+            "annotation_id": "QA_091"
+        },
+        {
+            "decision": "R-POST-LAT   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9753,
+            "end_offset": 9772,
+            "annotation_id": "QA_092"
+        },
+        {
+            "decision": "R-LV   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9777,
+            "end_offset": 9790,
+            "annotation_id": "QA_093"
+        },
+        {
+            "decision": "LEFT MAIN   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9870,
+            "end_offset": 9888,
+            "annotation_id": "QA_094"
+        },
+        {
+            "decision": "PROXIMAL LAD   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9892,
+            "end_offset": 9913,
+            "annotation_id": "QA_095"
+        },
+        {
+            "decision": "SEPTAL-1   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9918,
+            "end_offset": 9935,
+            "annotation_id": "QA_096"
+        },
+        {
+            "decision": "MID-LAD   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9939,
+            "end_offset": 9955,
+            "annotation_id": "QA_097"
+        },
+        {
+            "decision": "DISTAL LAD   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9959,
+            "end_offset": 9978,
+            "annotation_id": "QA_098"
+        },
+        {
+            "decision": "DIAGONAL-1   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9982,
+            "end_offset": 10001,
+            "annotation_id": "QA_099"
+        },
+        {
+            "decision": "DIAGONAL-2   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10006,
+            "end_offset": 10025,
+            "annotation_id": "QA_100"
+        },
+        {
+            "decision": "INTERMEDIUS   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10030,
+            "end_offset": 10050,
+            "annotation_id": "QA_101"
+        },
+        {
+            "decision": "PROXIMAL CX   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10055,
+            "end_offset": 10075,
+            "annotation_id": "QA_102"
+        },
+        {
+            "decision": "MID CX   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10080,
+            "end_offset": 10095,
+            "annotation_id": "QA_103"
+        },
+        {
+            "decision": "DISTAL CX   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10101,
+            "end_offset": 10119,
+            "annotation_id": "QA_104"
+        },
+        {
+            "decision": "OBTUSE MARGINAL-1   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10124,
+            "end_offset": 10150,
+            "annotation_id": "QA_105"
+        },
+        {
+            "decision": "OBTUSE MARGINAL-2   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10155,
+            "end_offset": 10181,
+            "annotation_id": "QA_106"
+        },
+        {
+            "decision": "OBTUSE MARGINAL-3   NORMAL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10186,
+            "end_offset": 10212,
+            "annotation_id": "QA_107"
+        },
+        {
+            "decision": "Total time (Lidocaine to test complete) = 52 minutes.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10234,
+            "end_offset": 10286,
+            "annotation_id": "QA_108"
+        },
+        {
+            "decision": "Contrast injected:           Non-ionic low osmolar (isovue, optiray...), vol 55 ml",
+            "category": "Category 5: Drug related",
+            "start_offset": 10363,
+            "end_offset": 10445,
+            "annotation_id": "QA_109"
+        },
+        {
+            "decision": "Midazolam 1 mg IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 10472,
+            "end_offset": 10489,
+            "annotation_id": "QA_110"
+        },
+        {
+            "decision": "Fentanyl 50 mcg IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 10500,
+            "end_offset": 10518,
+            "annotation_id": "QA_111"
+        },
+        {
+            "decision": "1% Lidocaine subq",
+            "category": "Category 5: Drug related",
+            "start_offset": 10541,
+            "end_offset": 10558,
+            "annotation_id": "QA_112"
+        },
+        {
+            "decision": "TNG 0.5 mcg/min",
+            "category": "Category 5: Drug related",
+            "start_offset": 10605,
+            "end_offset": 10620,
+            "annotation_id": "QA_113"
+        },
+        {
+            "decision": "ALLEGIANCE, CUSTOM STERILE PACK",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10661,
+            "end_offset": 10692,
+            "annotation_id": "QA_114"
+        },
+        {
+            "decision": "MERIT, LEFT HEART KIT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10705,
+            "end_offset": 10726,
+            "annotation_id": "QA_115"
+        },
+        {
+            "decision": "MERIT, RIGHT HEART KIT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10739,
+            "end_offset": 10761,
+            "annotation_id": "QA_116"
+        },
+        {
+            "decision": "[**Company **], PULMONARY WEDGE PRESSURE CATHETER",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10774,
+            "end_offset": 10823,
+            "annotation_id": "QA_117"
+        },
+        {
+            "decision": "Coronary angiography in this right dominant system demonstrated no angiographic evidence of CAD.  The LMCA, RCA, LAD, and Lcx are all normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10840,
+            "end_offset": 10980,
+            "annotation_id": "QA_118"
+        },
+        {
+            "decision": "Resting hemodynamics revealed elevated left and right filling pressures with an RVEDP of 17mm Hg and LVEDP of 20mm Hg.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10986,
+            "end_offset": 11103,
+            "annotation_id": "QA_119"
+        },
+        {
+            "decision": "Moderate pulmonary hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11105,
+            "end_offset": 11136,
+            "annotation_id": "QA_120"
+        },
+        {
+            "decision": "Moderate pulmonary hypertension was present with a PASP of 61mm Hg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11105,
+            "end_offset": 11171,
+            "annotation_id": "QA_121"
+        },
+        {
+            "decision": "suggestive of significant Mitral regurtgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11221,
+            "end_offset": 11268,
+            "annotation_id": "QA_122"
+        },
+        {
+            "decision": "PCWP  tracings showed large v waves to 31 mmHg suggestive of significant Mitral regurtgitation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11174,
+            "end_offset": 11268,
+            "annotation_id": "QA_123"
+        },
+        {
+            "decision": "The cardiac index was preserved at 2.9 l/min.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11271,
+            "end_offset": 11315,
+            "annotation_id": "QA_124"
+        },
+        {
+            "decision": "Left ventriculography was deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 11321,
+            "end_offset": 11355,
+            "annotation_id": "QA_125"
+        },
+        {
+            "decision": "Coronary arteries are normal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11378,
+            "end_offset": 11406,
+            "annotation_id": "QA_126"
+        },
+        {
+            "decision": "Severe mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11411,
+            "end_offset": 11438,
+            "annotation_id": "QA_127"
+        },
+        {
+            "decision": "Normal ventricular function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11443,
+            "end_offset": 11470,
+            "annotation_id": "QA_128"
+        },
+        {
+            "decision": "Moderate primary pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11475,
+            "end_offset": 11514,
+            "annotation_id": "QA_129"
+        },
+        {
+            "decision": "[**Hospital1 18**] ATTENDING OF RECORD: [**Last Name (LF) **],[**First Name3 (LF) **] M. REFERRING PHYSICIAN: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. FELLOW: [**Last Name (LF) 32335**],[**First Name3 (LF) **] INVASIVE ATTENDING STAFF: [**Last Name (LF) **],[**First Name3 (LF) **] M.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11517,
+            "end_offset": 11835,
+            "annotation_id": "QA_130"
+        },
+        {
+            "decision": "underwent cardiac cath which revealed severe pulmonary hypertension and clean coronary arteries",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11877,
+            "end_offset": 11972,
+            "annotation_id": "QA_131"
+        },
+        {
+            "decision": "Cardiac surgery was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 11974,
+            "end_offset": 12003,
+            "annotation_id": "QA_132"
+        },
+        {
+            "decision": "she had dental clearance",
+            "category": "Category 1: Contact related",
+            "start_offset": 12008,
+            "end_offset": 12032,
+            "annotation_id": "QA_133"
+        },
+        {
+            "decision": "she underwent mitral valve repair with a 28mm [**Company 1543**] CG Future ring. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12054,
+            "end_offset": 12133,
+            "annotation_id": "QA_134"
+        },
+        {
+            "decision": "Her cross clamp time was 53 minutes and total bypass time was 69 minutes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12136,
+            "end_offset": 12208,
+            "annotation_id": "QA_135"
+        },
+        {
+            "decision": "She was transferred to the CVICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12211,
+            "end_offset": 12243,
+            "annotation_id": "QA_136"
+        },
+        {
+            "decision": "Neo and Propofol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12247,
+            "end_offset": 12263,
+            "annotation_id": "QA_137"
+        },
+        {
+            "decision": "stable condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12267,
+            "end_offset": 12283,
+            "annotation_id": "QA_138"
+        },
+        {
+            "decision": "She was extubated on the post operative",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12285,
+            "end_offset": 12324,
+            "annotation_id": "QA_139"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12337,
+            "end_offset": 12361,
+            "annotation_id": "QA_140"
+        },
+        {
+            "decision": "Her chest tubes and wires were discontinued ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12373,
+            "end_offset": 12416,
+            "annotation_id": "QA_141"
+        },
+        {
+            "decision": "she was discharged to home in stable condition.",
+            "category": "Category 1: Contact related",
+            "start_offset": 12430,
+            "end_offset": 12476,
+            "annotation_id": "QA_142"
+        },
+        {
+            "decision": "stable condition.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12460,
+            "end_offset": 12476,
+            "annotation_id": "QA_143"
+        },
+        {
+            "decision": "Effexor XR 150mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12505,
+            "end_offset": 12527,
+            "annotation_id": "QA_144"
+        },
+        {
+            "decision": "Xanax 0.5 mg Twice a day as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 12528,
+            "end_offset": 12562,
+            "annotation_id": "QA_145"
+        },
+        {
+            "decision": "Albuterol inhaler as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 12563,
+            "end_offset": 12590,
+            "annotation_id": "QA_146"
+        },
+        {
+            "decision": "Multivitamin",
+            "category": "Category 5: Drug related",
+            "start_offset": 12591,
+            "end_offset": 12603,
+            "annotation_id": "QA_147"
+        },
+        {
+            "decision": "metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12632,
+            "end_offset": 12740,
+            "annotation_id": "QA_148"
+        },
+        {
+            "decision": "aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12744,
+            "end_offset": 12907,
+            "annotation_id": "QA_149"
+        },
+        {
+            "decision": "ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12911,
+            "end_offset": 13015,
+            "annotation_id": "QA_150"
+        },
+        {
+            "decision": "venlafaxine 75 mg Capsule, Sust. Release 24 hr Sig: Two (2) Capsule, Sust. Release 24 hr PO DAILY (Daily). Disp:*60 Capsule, Sust. Release 24 hr(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13019,
+            "end_offset": 13179,
+            "annotation_id": "QA_151"
+        },
+        {
+            "decision": "multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13183,
+            "end_offset": 13276,
+            "annotation_id": "QA_152"
+        },
+        {
+            "decision": "ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13280,
+            "end_offset": 13393,
+            "annotation_id": "QA_153"
+        },
+        {
+            "decision": "ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13397,
+            "end_offset": 13500,
+            "annotation_id": "QA_154"
+        },
+        {
+            "decision": "folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13504,
+            "end_offset": 13596,
+            "annotation_id": "QA_155"
+        },
+        {
+            "decision": "atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13600,
+            "end_offset": 13695,
+            "annotation_id": "QA_156"
+        },
+        {
+            "decision": "tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13700,
+            "end_offset": 13816,
+            "annotation_id": "QA_157"
+        },
+        {
+            "decision": "Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day for 7 days. Disp:*7 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13821,
+            "end_offset": 13916,
+            "annotation_id": "QA_158"
+        },
+        {
+            "decision": "potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days. Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13921,
+            "end_offset": 14102,
+            "annotation_id": "QA_159"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14107,
+            "end_offset": 14180,
+            "annotation_id": "QA_160"
+        },
+        {
+            "decision": "Home With Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 14208,
+            "end_offset": 14225,
+            "annotation_id": "QA_161"
+        },
+        {
+            "decision": "[**Hospital1 1474**] VNA",
+            "category": "Category 1: Contact related",
+            "start_offset": 14237,
+            "end_offset": 14261,
+            "annotation_id": "QA_162"
+        },
+        {
+            "decision": "Severe mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14284,
+            "end_offset": 14311,
+            "annotation_id": "QA_163"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14312,
+            "end_offset": 14322,
+            "annotation_id": "QA_164"
+        },
+        {
+            "decision": "Palpitations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14323,
+            "end_offset": 14335,
+            "annotation_id": "QA_165"
+        },
+        {
+            "decision": "migraine headaches",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14336,
+            "end_offset": 14354,
+            "annotation_id": "QA_166"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14355,
+            "end_offset": 14362,
+            "annotation_id": "QA_167"
+        },
+        {
+            "decision": "cervical radiculopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14363,
+            "end_offset": 14385,
+            "annotation_id": "QA_168"
+        },
+        {
+            "decision": "Alert and oriented x3 nonfocal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14409,
+            "end_offset": 14439,
+            "annotation_id": "QA_169"
+        },
+        {
+            "decision": "Ambulating with steady gait",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14440,
+            "end_offset": 14467,
+            "annotation_id": "QA_170"
+        },
+        {
+            "decision": "Incisional pain managed with Ultram",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14468,
+            "end_offset": 14503,
+            "annotation_id": "QA_171"
+        },
+        {
+            "decision": "managed with Ultram",
+            "category": "Category 5: Drug related",
+            "start_offset": 14484,
+            "end_offset": 14503,
+            "annotation_id": "QA_172"
+        },
+        {
+            "decision": "Sternal - healing well, no erythema or drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14515,
+            "end_offset": 14562,
+            "annotation_id": "QA_173"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14591,
+            "end_offset": 14707,
+            "annotation_id": "QA_174"
+        },
+        {
+            "decision": "Look at your incisions daily for redness or drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14709,
+            "end_offset": 14761,
+            "annotation_id": "QA_175"
+        },
+        {
+            "decision": "Please NO lotions, cream, powder, or ointments to incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14762,
+            "end_offset": 14821,
+            "annotation_id": "QA_176"
+        },
+        {
+            "decision": "Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14822,
+            "end_offset": 14949,
+            "annotation_id": "QA_177"
+        },
+        {
+            "decision": "No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14951,
+            "end_offset": 15104,
+            "annotation_id": "QA_178"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15105,
+            "end_offset": 15148,
+            "annotation_id": "QA_179"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15149,
+            "end_offset": 15219,
+            "annotation_id": "QA_180"
+        },
+        {
+            "decision": "Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15220,
+            "end_offset": 15303,
+            "annotation_id": "QA_181"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 1: Contact related",
+            "start_offset": 15304,
+            "end_offset": 15465,
+            "annotation_id": "QA_182"
+        },
+        {
+            "decision": "Surgeon: Dr. [**Last Name (STitle) **] [**2141-1-3**] at 1:30 PM",
+            "category": "Category 1: Contact related",
+            "start_offset": 15540,
+            "end_offset": 15604,
+            "annotation_id": "QA_183"
+        },
+        {
+            "decision": "Cardiologist: Dr. [**Last Name (STitle) **] [**12-14**] @1:30 PM",
+            "category": "Category 1: Contact related",
+            "start_offset": 15605,
+            "end_offset": 15669,
+            "annotation_id": "QA_184"
+        },
+        {
+            "decision": "Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15672,
+            "end_offset": 15831,
+            "annotation_id": "QA_185"
+        }
+    ]
+}

@@ -1,0 +1,1546 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "29035_117343_16126",
+    "annotations": [
+        {
+            "decision": "NASH cirrhosis, stage IV, grade 2 inflammation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 429,
+            "end_offset": 475,
+            "annotation_id": "JK_000"
+        },
+        {
+            "decision": "portal vein thrombosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 478,
+            "end_offset": 500,
+            "annotation_id": "JK_001"
+        },
+        {
+            "decision": "depression with psychosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 502,
+            "end_offset": 527,
+            "annotation_id": "JK_002"
+        },
+        {
+            "decision": "hepatic encephalopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 535,
+            "end_offset": 557,
+            "annotation_id": "JK_003"
+        },
+        {
+            "decision": "altered mental status ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 603,
+            "end_offset": 624,
+            "annotation_id": "JK_004"
+        },
+        {
+            "decision": "and found to have seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 625,
+            "end_offset": 659,
+            "annotation_id": "JK_005"
+        },
+        {
+            "decision": "no changes in any of her liver meds",
+            "category": "Category 5: Drug related",
+            "start_offset": 748,
+            "end_offset": 783,
+            "annotation_id": "JK_006"
+        },
+        {
+            "decision": "PO lasix 120 mg [**Hospital1 **] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 856,
+            "end_offset": 888,
+            "annotation_id": "JK_007"
+        },
+        {
+            "decision": "spironolactone 100 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 893,
+            "end_offset": 931,
+            "annotation_id": "JK_008"
+        },
+        {
+            "decision": "increased her diuretics to 100 mg IV lasix QAM, 120 mg PO QPM,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1142,
+            "end_offset": 1203,
+            "annotation_id": "JK_009"
+        },
+        {
+            "decision": "spironolactone 100 mg [**Hospital1 **]. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1205,
+            "end_offset": 1243,
+            "annotation_id": "JK_010"
+        },
+        {
+            "decision": "NASH/Cirrhosis:  (Liver bx [**9-6**] = Stage IV cirrhosis, Grade 2 inflammation)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1944,
+            "end_offset": 2023,
+            "annotation_id": "JK_011"
+        },
+        {
+            "decision": "EGD [**7-13**] = 3 cords of grade 1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2025,
+            "end_offset": 2060,
+            "annotation_id": "JK_012"
+        },
+        {
+            "decision": "Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2061,
+            "end_offset": 2077,
+            "annotation_id": "JK_013"
+        },
+        {
+            "decision": "Previous ascites and encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2078,
+            "end_offset": 2113,
+            "annotation_id": "JK_014"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2114,
+            "end_offset": 2118,
+            "annotation_id": "JK_015"
+        },
+        {
+            "decision": "DM2 with retinopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2119,
+            "end_offset": 2139,
+            "annotation_id": "JK_016"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2140,
+            "end_offset": 2143,
+            "annotation_id": "JK_017"
+        },
+        {
+            "decision": "Retinal hemmorhape; diabetic retinopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2144,
+            "end_offset": 2184,
+            "annotation_id": "JK_018"
+        },
+        {
+            "decision": "Diabetic neprhopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2185,
+            "end_offset": 2205,
+            "annotation_id": "JK_019"
+        },
+        {
+            "decision": "sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2206,
+            "end_offset": 2217,
+            "annotation_id": "JK_020"
+        },
+        {
+            "decision": "Leg crams/? RLS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2218,
+            "end_offset": 2233,
+            "annotation_id": "JK_021"
+        },
+        {
+            "decision": "DJD of neck",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2234,
+            "end_offset": 2245,
+            "annotation_id": "JK_022"
+        },
+        {
+            "decision": "? ASD/murmur on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2248,
+            "end_offset": 2266,
+            "annotation_id": "JK_023"
+        },
+        {
+            "decision": "Hyperdymanic LVF ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2267,
+            "end_offset": 2283,
+            "annotation_id": "JK_024"
+        },
+        {
+            "decision": "(75% on echo 1 yr ago",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2285,
+            "end_offset": 2305,
+            "annotation_id": "JK_025"
+        },
+        {
+            "decision": "Intermittent, atypical CP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2306,
+            "end_offset": 2331,
+            "annotation_id": "JK_026"
+        },
+        {
+            "decision": "(stress test had been planned but not done).",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2333,
+            "end_offset": 2374,
+            "annotation_id": "JK_027"
+        },
+        {
+            "decision": "H/o Dermoid cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2377,
+            "end_offset": 2393,
+            "annotation_id": "JK_028"
+        },
+        {
+            "decision": "Right adrenal mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2394,
+            "end_offset": 2412,
+            "annotation_id": "JK_029"
+        },
+        {
+            "decision": "s/p cholecystectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2438,
+            "end_offset": 2457,
+            "annotation_id": "JK_030"
+        },
+        {
+            "decision": "tubal ligation, s/p left oopherectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2470,
+            "end_offset": 2507,
+            "annotation_id": "JK_031"
+        },
+        {
+            "decision": ",  s/p Appy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2510,
+            "end_offset": 2518,
+            "annotation_id": "JK_032"
+        },
+        {
+            "decision": "Psychiatrist: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]; Psychologist: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 2547,
+            "end_offset": 2707,
+            "annotation_id": "JK_033"
+        },
+        {
+            "decision": "Depression ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2708,
+            "end_offset": 2718,
+            "annotation_id": "JK_034"
+        },
+        {
+            "decision": "12 previous psychiatric hospitalizations in all Most recently treated at [**Doctor First Name 1191**] (and transferred to Bay State)",
+            "category": "Category 1: Contact related",
+            "start_offset": 2804,
+            "end_offset": 2935,
+            "annotation_id": "JK_035"
+        },
+        {
+            "decision": "OD on meds",
+            "category": "Category 5: Drug related",
+            "start_offset": 2991,
+            "end_offset": 3001,
+            "annotation_id": "JK_036"
+        },
+        {
+            "decision": "1 course of ECT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3013,
+            "end_offset": 3028,
+            "annotation_id": "JK_037"
+        },
+        {
+            "decision": "Gen:  pleasant, NAD, obese",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3361,
+            "end_offset": 3387,
+            "annotation_id": "JK_038"
+        },
+        {
+            "decision": "HEENT:  PERRL, EOMI, no thyromegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3388,
+            "end_offset": 3423,
+            "annotation_id": "JK_039"
+        },
+        {
+            "decision": "Neck:  JVP difficult to assess given neck circumference",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3424,
+            "end_offset": 3479,
+            "annotation_id": "JK_040"
+        },
+        {
+            "decision": "CV: 4/6 SEM, RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3480,
+            "end_offset": 3496,
+            "annotation_id": "JK_041"
+        },
+        {
+            "decision": "Resp:  clear bilaterally, no crackles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3497,
+            "end_offset": 3534,
+            "annotation_id": "JK_042"
+        },
+        {
+            "decision": "Abd:  very distended, but soft, non-tender, choly scar in ruq, +shifting dullness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3535,
+            "end_offset": 3616,
+            "annotation_id": "JK_043"
+        },
+        {
+            "decision": "Ext: 1+ pitting edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3617,
+            "end_offset": 3638,
+            "annotation_id": "JK_044"
+        },
+        {
+            "decision": "Skin:  no lesion ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3639,
+            "end_offset": 3655,
+            "annotation_id": "JK_045"
+        },
+        {
+            "decision": "ECHO [**2152-7-21**]: The left atrium is mildly dilated. No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4012,
+            "end_offset": 4233,
+            "annotation_id": "JK_046"
+        },
+        {
+            "decision": "with normal cavity size and global systolic function (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4234,
+            "end_offset": 4295,
+            "annotation_id": "JK_047"
+        },
+        {
+            "decision": "Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4299,
+            "end_offset": 4390,
+            "annotation_id": "JK_048"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4393,
+            "end_offset": 4455,
+            "annotation_id": "JK_049"
+        },
+        {
+            "decision": "The aortic arch is mildly dilated. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4457,
+            "end_offset": 4490,
+            "annotation_id": "JK_050"
+        },
+        {
+            "decision": "The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4492,
+            "end_offset": 4596,
+            "annotation_id": "JK_051"
+        },
+        {
+            "decision": "There is mild aortic valve stenosis (area 1.2-1.9cm2). No aortic regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4598,
+            "end_offset": 4684,
+            "annotation_id": "JK_052"
+        },
+        {
+            "decision": "Mild (1+) mitral regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4734,
+            "end_offset": 4772,
+            "annotation_id": "JK_053"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4686,
+            "end_offset": 4874,
+            "annotation_id": "JK_054"
+        },
+        {
+            "decision": " There is borderline pulmonary artery systolic hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4877,
+            "end_offset": 4935,
+            "annotation_id": "JK_055"
+        },
+        {
+            "decision": "IMPRESSION: No evidence of intrapulmonary shunting by bubble study. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4939,
+            "end_offset": 5104,
+            "annotation_id": "JK_056"
+        },
+        {
+            "decision": ". Diastolic dysfunction with elevated PCWP. Mild aortic stenosis. Mild mitral regurgitation. Borderline pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5106,
+            "end_offset": 5230,
+            "annotation_id": "JK_057"
+        },
+        {
+            "decision": "atrial ectopy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5380,
+            "end_offset": 5393,
+            "annotation_id": "JK_058"
+        },
+        {
+            "decision": "atrial ectopy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5473,
+            "end_offset": 5486,
+            "annotation_id": "JK_059"
+        },
+        {
+            "decision": "EKG [**2152-8-9**]: Sinus rhythm with frequent atrial ectopy. Q-T interval prolongation. Compared to the previous tracing of [**2152-6-2**] atrial ectopy has appeared. Otherwise, no diagnostic interim change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5333,
+            "end_offset": 5540,
+            "annotation_id": "JK_060"
+        },
+        {
+            "decision": "Abd/Pelvis U/S & duplex doppler: IMPRESSION: 1. Heterogeneous and coarsened liver without focal lesion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5559,
+            "end_offset": 5661,
+            "annotation_id": "JK_061"
+        },
+        {
+            "decision": "2. No ascites. 3. Splenomegaly.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5663,
+            "end_offset": 5693,
+            "annotation_id": "JK_062"
+        },
+        {
+            "decision": ". Left lower quadrant cystic structure. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5698,
+            "end_offset": 5734,
+            "annotation_id": "JK_063"
+        },
+        {
+            "decision": ". Pelvic ultrasound to further evaluate continues to be recommended.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5736,
+            "end_offset": 5801,
+            "annotation_id": "JK_064"
+        },
+        {
+            "decision": "The left lower quadrant cystic structure is unchanged in size and character from the prior CT of [**2151-10-5**]. However, it is new from the CT abdomen and pelvis of [**2149-6-10**]. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5813,
+            "end_offset": 5995,
+            "annotation_id": "JK_065"
+        },
+        {
+            "decision": "6- to 12-month pelvic ultrasound followup is recommended to ensure stability.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5997,
+            "end_offset": 6073,
+            "annotation_id": "JK_066"
+        },
+        {
+            "decision": "Chest x-ray: COMPARISON: [**2152-6-8**]. As compared to the previous examination, there is moderate improvement. The lung volumes are still small and the hemidiaphragms are elevated, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6092,
+            "end_offset": 6273,
+            "annotation_id": "JK_067"
+        },
+        {
+            "decision": "but the extent of the right-sided pleural effusion has markedly decreased. The effusion now reaches the height of 4 cm in the dorsal sinus. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6275,
+            "end_offset": 6413,
+            "annotation_id": "JK_068"
+        },
+        {
+            "decision": "The size of the cardiac silhouette is at the upper range of normal, the diameter of the pulmonary vessels still indicates minimal overhydration.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6415,
+            "end_offset": 6558,
+            "annotation_id": "JK_069"
+        },
+        {
+            "decision": "minimal overhydration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6537,
+            "end_offset": 6558,
+            "annotation_id": "JK_070"
+        },
+        {
+            "decision": "There is no focal parenchymal opacity suggestive of pneumonia. No pneumothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6560,
+            "end_offset": 6638,
+            "annotation_id": "JK_071"
+        },
+        {
+            "decision": "Chest x-ray: FINDINGS: As compared to the previous examination, there is no major change.  The lung volumes are unchanged. Also unchanged is the size of the cardiac silhouette and the appearance of the lung parenchyma",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6658,
+            "end_offset": 6875,
+            "annotation_id": "JK_072"
+        },
+        {
+            "decision": ". On the frontal radiograph, no pleural effusion is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6877,
+            "end_offset": 6931,
+            "annotation_id": "JK_073"
+        },
+        {
+            "decision": "On the frontal radiograph, no pleural effusion is seen. The mediastinum has unchanged appearance.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6877,
+            "end_offset": 6973,
+            "annotation_id": "JK_074"
+        },
+        {
+            "decision": "On the frontal radiograph, no pleural effusion is seen. The mediastinum has unchanged appearance.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6877,
+            "end_offset": 6973,
+            "annotation_id": "JK_075"
+        },
+        {
+            "decision": " The mediastinum has unchanged appearance.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6933,
+            "end_offset": 6973,
+            "annotation_id": "JK_076"
+        },
+        {
+            "decision": "Wrist x-rays: Preliminary report - no fractures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6993,
+            "end_offset": 7040,
+            "annotation_id": "JK_077"
+        },
+        {
+            "decision": "NASH cirrhosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7094,
+            "end_offset": 7108,
+            "annotation_id": "JK_078"
+        },
+        {
+            "decision": "Weight gain/abd distention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7206,
+            "end_offset": 7232,
+            "annotation_id": "JK_079"
+        },
+        {
+            "decision": "The differential diagnosis broadly is primary hepatic vs cardiac.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7234,
+            "end_offset": 7298,
+            "annotation_id": "JK_080"
+        },
+        {
+            "decision": "She had previously patent vessels and no ascites on her last U/S.  No ascites was noted on a repeat ultrasound on this admission and vessels were patent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7301,
+            "end_offset": 7453,
+            "annotation_id": "JK_081"
+        },
+        {
+            "decision": "Cardiac causes including MI/CHF were also considered,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7456,
+            "end_offset": 7508,
+            "annotation_id": "JK_082"
+        },
+        {
+            "decision": "an echo on [**7-21**] showed a normal EF",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7519,
+            "end_offset": 7559,
+            "annotation_id": "JK_083"
+        },
+        {
+            "decision": "marked diastolic dysfunction which may be contributing to volume overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7576,
+            "end_offset": 7649,
+            "annotation_id": "JK_084"
+        },
+        {
+            "decision": "The patient was diuresed, initially with lasix 100 mg IV BID ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7685,
+            "end_offset": 7745,
+            "annotation_id": "JK_085"
+        },
+        {
+            "decision": "aldactone 100 mg PO BID.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7750,
+            "end_offset": 7773,
+            "annotation_id": "JK_086"
+        },
+        {
+            "decision": "changed to lasix 80 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 7815,
+            "end_offset": 7854,
+            "annotation_id": "JK_087"
+        },
+        {
+            "decision": "aldactone 300 mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 7859,
+            "end_offset": 7881,
+            "annotation_id": "JK_088"
+        },
+        {
+            "decision": "Diuretics",
+            "category": "Category 5: Drug related",
+            "start_offset": 7998,
+            "end_offset": 8007,
+            "annotation_id": "JK_089"
+        },
+        {
+            "decision": "when she entered the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 8018,
+            "end_offset": 8043,
+            "annotation_id": "JK_090"
+        },
+        {
+            "decision": "Upper GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8201,
+            "end_offset": 8215,
+            "annotation_id": "JK_091"
+        },
+        {
+            "decision": "1L of hematemesis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8254,
+            "end_offset": 8271,
+            "annotation_id": "JK_092"
+        },
+        {
+            "decision": "and was transfered to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8286,
+            "end_offset": 8316,
+            "annotation_id": "JK_093"
+        },
+        {
+            "decision": "where she received a 2 units of RBCs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8317,
+            "end_offset": 8353,
+            "annotation_id": "JK_094"
+        },
+        {
+            "decision": "underwent endoscopy.  The first EGD showed no intervenable varices but the repeat EGD showed 2 bands of grade II varices and 2 bands of grade I varices ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8358,
+            "end_offset": 8509,
+            "annotation_id": "JK_095"
+        },
+        {
+            "decision": "and 2 bands were placed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8510,
+            "end_offset": 8533,
+            "annotation_id": "JK_096"
+        },
+        {
+            "decision": "post procedure Hct has been stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8540,
+            "end_offset": 8574,
+            "annotation_id": "JK_097"
+        },
+        {
+            "decision": "she was transferred back to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 8603,
+            "end_offset": 8640,
+            "annotation_id": "JK_098"
+        },
+        {
+            "decision": "octreotide",
+            "category": "Category 5: Drug related",
+            "start_offset": 8644,
+            "end_offset": 8654,
+            "annotation_id": "JK_099"
+        },
+        {
+            "decision": "protonix drips ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8659,
+            "end_offset": 8673,
+            "annotation_id": "JK_100"
+        },
+        {
+            "decision": "switched to a PO PPI ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8678,
+            "end_offset": 8698,
+            "annotation_id": "JK_101"
+        },
+        {
+            "decision": "She received ceftriaxone as prophylaxis x 3 doses",
+            "category": "Category 5: Drug related",
+            "start_offset": 8718,
+            "end_offset": 8767,
+            "annotation_id": "JK_102"
+        },
+        {
+            "decision": "sucrafate 1 g PO BID x 3 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8772,
+            "end_offset": 8801,
+            "annotation_id": "JK_103"
+        },
+        {
+            "decision": "Ferrous sulfate and SC heparin were discontinued.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8804,
+            "end_offset": 8852,
+            "annotation_id": "JK_104"
+        },
+        {
+            "decision": "Cirrhosis: The patient has stage IV cirrhosis by biopsy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8859,
+            "end_offset": 8914,
+            "annotation_id": "JK_105"
+        },
+        {
+            "decision": "There were no significant changes in her LFTs during her stay",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8916,
+            "end_offset": 8977,
+            "annotation_id": "JK_106"
+        },
+        {
+            "decision": "Chronic kidney disease:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8984,
+            "end_offset": 9006,
+            "annotation_id": "JK_107"
+        },
+        {
+            "decision": "The patient's baseline creatinine is 1.3-1.7. Her creatinine remained within this range during most of her admission.  It increased to 1.9 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9008,
+            "end_offset": 9146,
+            "annotation_id": "JK_108"
+        },
+        {
+            "decision": "after diuretics were resumed post-GI bleed",
+            "category": "Category 5: Drug related",
+            "start_offset": 9147,
+            "end_offset": 9189,
+            "annotation_id": "JK_109"
+        },
+        {
+            "decision": "her volume overload had improved significantly and she was slightly dry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9206,
+            "end_offset": 9277,
+            "annotation_id": "JK_110"
+        },
+        {
+            "decision": "The diuretic dose was decreased to lasix 80 mg PO BID and aldactone remained at 300 mg PO QD.  Her medications were renally dosed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9280,
+            "end_offset": 9409,
+            "annotation_id": "JK_111"
+        },
+        {
+            "decision": "Pelvic cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9469,
+            "end_offset": 9480,
+            "annotation_id": "JK_112"
+        },
+        {
+            "decision": "The patient has a cyst on the broad ligament, previously visualized by CT scan in [**2150**], although this finding is new compared to a CT scan in [**2149**].  The cyst has remained stable in size",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9482,
+            "end_offset": 9679,
+            "annotation_id": "JK_113"
+        },
+        {
+            "decision": "Radiology recommends reimagining in [**7-20**] months to confirm that the mass is stable",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9682,
+            "end_offset": 9770,
+            "annotation_id": "JK_114"
+        },
+        {
+            "decision": "Radiology recommends reimagining in [**7-20**] months to confirm that the mass is stable",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9682,
+            "end_offset": 9770,
+            "annotation_id": "JK_115"
+        },
+        {
+            "decision": "The patient has been advised to follow-up with a gynecologist of her choosing.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9773,
+            "end_offset": 9850,
+            "annotation_id": "JK_116"
+        },
+        {
+            "decision": "Seizures: The patient has a history of seizures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9857,
+            "end_offset": 9904,
+            "annotation_id": "JK_117"
+        },
+        {
+            "decision": "Her home regimen of keppra and lamictal were continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 9907,
+            "end_offset": 9961,
+            "annotation_id": "JK_118"
+        },
+        {
+            "decision": ".  No overt seizures were noted.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9964,
+            "end_offset": 9992,
+            "annotation_id": "JK_119"
+        },
+        {
+            "decision": "Depression/Anxiety: The patient has a history of depression.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9999,
+            "end_offset": 10058,
+            "annotation_id": "JK_120"
+        },
+        {
+            "decision": "Her home dose of seroquel was continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 10060,
+            "end_offset": 10099,
+            "annotation_id": "JK_121"
+        },
+        {
+            "decision": "alprazolam ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10146,
+            "end_offset": 10156,
+            "annotation_id": "JK_122"
+        },
+        {
+            "decision": "she received her home dose of alprazolam ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10116,
+            "end_offset": 10156,
+            "annotation_id": "JK_123"
+        },
+        {
+            "decision": "for anxiety.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10157,
+            "end_offset": 10168,
+            "annotation_id": "JK_124"
+        },
+        {
+            "decision": "DM: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10175,
+            "end_offset": 10177,
+            "annotation_id": "JK_125"
+        },
+        {
+            "decision": "The patient was placed on sliding scale insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 10179,
+            "end_offset": 10226,
+            "annotation_id": "JK_126"
+        },
+        {
+            "decision": "CAD: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10233,
+            "end_offset": 10236,
+            "annotation_id": "JK_127"
+        },
+        {
+            "decision": "The patient has had a previous CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10238,
+            "end_offset": 10273,
+            "annotation_id": "JK_128"
+        },
+        {
+            "decision": "known 3 vessel disease on cardiac cath in [**2151**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10278,
+            "end_offset": 10330,
+            "annotation_id": "JK_129"
+        },
+        {
+            "decision": "She is not currently on an ACEI, statin, or aspirin. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10333,
+            "end_offset": 10384,
+            "annotation_id": "JK_130"
+        },
+        {
+            "decision": "history of variceal bleeding,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10397,
+            "end_offset": 10425,
+            "annotation_id": "JK_131"
+        },
+        {
+            "decision": "it was decided not to start her on an aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 10427,
+            "end_offset": 10472,
+            "annotation_id": "JK_132"
+        },
+        {
+            "decision": "defer starting an ACEI or statin ",
+            "category": "Category 8: Deferment",
+            "start_offset": 10612,
+            "end_offset": 10644,
+            "annotation_id": "JK_133"
+        },
+        {
+            "decision": "discuss this these therapies with her cardiologist in follow-up.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10661,
+            "end_offset": 10724,
+            "annotation_id": "JK_134"
+        },
+        {
+            "decision": "Thrombocytopenia: The patient's thrombocytopenia has been stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10733,
+            "end_offset": 10797,
+            "annotation_id": "JK_135"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10805,
+            "end_offset": 10811,
+            "annotation_id": "JK_136"
+        },
+        {
+            "decision": "Iron studies revealed that she is iron deficient",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10849,
+            "end_offset": 10897,
+            "annotation_id": "JK_137"
+        },
+        {
+            "decision": "was started on ferrous sulfate supplementation",
+            "category": "Category 5: Drug related",
+            "start_offset": 10907,
+            "end_offset": 10953,
+            "annotation_id": "JK_138"
+        },
+        {
+            "decision": "transfuse her with 2 units of RBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11040,
+            "end_offset": 11074,
+            "annotation_id": "JK_139"
+        },
+        {
+            "decision": "Her stools were guiac tested.  One was negative; one was trace positive.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11077,
+            "end_offset": 11148,
+            "annotation_id": "JK_140"
+        },
+        {
+            "decision": "1L of hematemesis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11192,
+            "end_offset": 11209,
+            "annotation_id": "JK_141"
+        },
+        {
+            "decision": "2 units of RBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11235,
+            "end_offset": 11250,
+            "annotation_id": "JK_142"
+        },
+        {
+            "decision": "Her hematocrit has remained stable between 24-27.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11253,
+            "end_offset": 11301,
+            "annotation_id": "JK_143"
+        },
+        {
+            "decision": "Ferrous sulfate was discontinued immediately after the GI bleed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11304,
+            "end_offset": 11367,
+            "annotation_id": "JK_144"
+        },
+        {
+            "decision": "The patient was given a low salt, cardiac and diabetic diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11380,
+            "end_offset": 11439,
+            "annotation_id": "JK_145"
+        },
+        {
+            "decision": "diuretic use.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11496,
+            "end_offset": 11508,
+            "annotation_id": "JK_146"
+        },
+        {
+            "decision": "She was initially hyponatremic, likely from increased diuretic use.  This was carefully monitored and resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11442,
+            "end_offset": 11552,
+            "annotation_id": "JK_147"
+        },
+        {
+            "decision": "heparin sc tid ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11594,
+            "end_offset": 11608,
+            "annotation_id": "JK_148"
+        },
+        {
+            "decision": "She was also placed on a bowel regimen",
+            "category": "Category 5: Drug related",
+            "start_offset": 11636,
+            "end_offset": 11674,
+            "annotation_id": "JK_149"
+        },
+        {
+            "decision": "Allopurinol 300 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11722,
+            "end_offset": 11746,
+            "annotation_id": "JK_150"
+        },
+        {
+            "decision": "Amlodipine 5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11747,
+            "end_offset": 11768,
+            "annotation_id": "JK_151"
+        },
+        {
+            "decision": "Calcium 1200 mg QOD",
+            "category": "Category 5: Drug related",
+            "start_offset": 11769,
+            "end_offset": 11788,
+            "annotation_id": "JK_152"
+        },
+        {
+            "decision": "Citalopram 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11789,
+            "end_offset": 11811,
+            "annotation_id": "JK_153"
+        },
+        {
+            "decision": "folic acid 1 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11812,
+            "end_offset": 11833,
+            "annotation_id": "JK_154"
+        },
+        {
+            "decision": "lasix 120 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11834,
+            "end_offset": 11852,
+            "annotation_id": "JK_155"
+        },
+        {
+            "decision": "keppra 500 mg [**Hospital1 **",
+            "category": "Category 5: Drug related",
+            "start_offset": 11853,
+            "end_offset": 11882,
+            "annotation_id": "JK_156"
+        },
+        {
+            "decision": "lamictal 100 mg HS",
+            "category": "Category 5: Drug related",
+            "start_offset": 11884,
+            "end_offset": 11902,
+            "annotation_id": "JK_157"
+        },
+        {
+            "decision": "MVI",
+            "category": "Category 5: Drug related",
+            "start_offset": 11903,
+            "end_offset": 11906,
+            "annotation_id": "JK_158"
+        },
+        {
+            "decision": "nadolol 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11907,
+            "end_offset": 11926,
+            "annotation_id": "JK_159"
+        },
+        {
+            "decision": "provigil 200 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11927,
+            "end_offset": 11948,
+            "annotation_id": "JK_160"
+        },
+        {
+            "decision": "seroquel 100 mg QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 11949,
+            "end_offset": 11968,
+            "annotation_id": "JK_161"
+        },
+        {
+            "decision": "spironolactone 100 mg [**Hospital1 **] [**Last Name (un) **] 500 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 11969,
+            "end_offset": 12053,
+            "annotation_id": "JK_162"
+        },
+        {
+            "decision": "novolog SS",
+            "category": "Category 5: Drug related",
+            "start_offset": 12054,
+            "end_offset": 12064,
+            "annotation_id": "JK_163"
+        },
+        {
+            "decision": "Lantus 65 unit [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12065,
+            "end_offset": 12096,
+            "annotation_id": "JK_164"
+        },
+        {
+            "decision": "neurontin 600 qam, 300 lunch, 300 dinner",
+            "category": "Category 5: Drug related",
+            "start_offset": 12097,
+            "end_offset": 12137,
+            "annotation_id": "JK_165"
+        },
+        {
+            "decision": "rifaximin 400 tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12138,
+            "end_offset": 12155,
+            "annotation_id": "JK_166"
+        },
+        {
+            "decision": "Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12184,
+            "end_offset": 12242,
+            "annotation_id": "JK_167"
+        },
+        {
+            "decision": "Allopurinol 100 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12249,
+            "end_offset": 12312,
+            "annotation_id": "JK_168"
+        },
+        {
+            "decision": "Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12318,
+            "end_offset": 12396,
+            "annotation_id": "JK_169"
+        },
+        {
+            "decision": "Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12402,
+            "end_offset": 12461,
+            "annotation_id": "JK_170"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12468,
+            "end_offset": 12526,
+            "annotation_id": "JK_171"
+        },
+        {
+            "decision": "Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12533,
+            "end_offset": 12602,
+            "annotation_id": "JK_172"
+        },
+        {
+            "decision": "Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12608,
+            "end_offset": 12671,
+            "annotation_id": "JK_173"
+        },
+        {
+            "decision": "Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12677,
+            "end_offset": 12733,
+            "annotation_id": "JK_174"
+        },
+        {
+            "decision": "Nadolol 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12739,
+            "end_offset": 12795,
+            "annotation_id": "JK_175"
+        },
+        {
+            "decision": "Quetiapine 200 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12802,
+            "end_offset": 12860,
+            "annotation_id": "JK_176"
+        },
+        {
+            "decision": "Ursodiol 250 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12868,
+            "end_offset": 12932,
+            "annotation_id": "JK_177"
+        },
+        {
+            "decision": "Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12939,
+            "end_offset": 13004,
+            "annotation_id": "JK_178"
+        },
+        {
+            "decision": "Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO QAM (once a day (in the morning)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13011,
+            "end_offset": 13095,
+            "annotation_id": "JK_179"
+        },
+        {
+            "decision": "Provigil 200 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13103,
+            "end_offset": 13159,
+            "annotation_id": "JK_180"
+        },
+        {
+            "decision": "Neurontin 300 mg Capsule Sig: Three (3) Capsule PO at bedtime",
+            "category": "Category 5: Drug related",
+            "start_offset": 13165,
+            "end_offset": 13226,
+            "annotation_id": "JK_181"
+        },
+        {
+            "decision": "insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 13232,
+            "end_offset": 13239,
+            "annotation_id": "JK_182"
+        },
+        {
+            "decision": "Please resume your home regimen of Lantus 65 units [**Hospital1 **] and humalog sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 13240,
+            "end_offset": 13333,
+            "annotation_id": "JK_183"
+        },
+        {
+            "decision": "Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13338,
+            "end_offset": 13437,
+            "annotation_id": "JK_184"
+        },
+        {
+            "decision": "Spironolactone 100 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). Disp:*90 Tablet(s)* Refills:*2* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13442,
+            "end_offset": 13542,
+            "annotation_id": "JK_185"
+        },
+        {
+            "decision": "Volume overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13678,
+            "end_offset": 13693,
+            "annotation_id": "JK_186"
+        },
+        {
+            "decision": "NASH/cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13717,
+            "end_offset": 13731,
+            "annotation_id": "JK_187"
+        },
+        {
+            "decision": "Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13732,
+            "end_offset": 13748,
+            "annotation_id": "JK_188"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13749,
+            "end_offset": 13753,
+            "annotation_id": "JK_189"
+        },
+        {
+            "decision": "Type 2 Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13754,
+            "end_offset": 13769,
+            "annotation_id": "JK_190"
+        },
+        {
+            "decision": "Major Depression with psychosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13770,
+            "end_offset": 13801,
+            "annotation_id": "JK_191"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13802,
+            "end_offset": 13814,
+            "annotation_id": "JK_192"
+        },
+        {
+            "decision": "Diabetic nephropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13815,
+            "end_offset": 13835,
+            "annotation_id": "JK_193"
+        },
+        {
+            "decision": "Obstructive sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13836,
+            "end_offset": 13859,
+            "annotation_id": "JK_194"
+        },
+        {
+            "decision": "stable, satting well on room air, pain free.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13883,
+            "end_offset": 13926,
+            "annotation_id": "JK_195"
+        },
+        {
+            "decision": "water retention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14083,
+            "end_offset": 14098,
+            "annotation_id": "JK_196"
+        },
+        {
+            "decision": "did not show any ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14151,
+            "end_offset": 14175,
+            "annotation_id": "JK_197"
+        },
+        {
+            "decision": "The abdominal ultrasound study that was performed did not show any ascites.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14101,
+            "end_offset": 14175,
+            "annotation_id": "JK_198"
+        },
+        {
+            "decision": "IV lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14192,
+            "end_offset": 14200,
+            "annotation_id": "JK_199"
+        },
+        {
+            "decision": "increased doses of oral spironolactone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14205,
+            "end_offset": 14243,
+            "annotation_id": "JK_200"
+        },
+        {
+            "decision": "The abdominal ultrasound also showed a cystic structure in your pelvis that was noticed 2 years ago on a CT study, but was not seen on a study 3 years ago.  The structure has remained approximately the same size.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14304,
+            "end_offset": 14515,
+            "annotation_id": "JK_201"
+        },
+        {
+            "decision": "The radiologist recommended another pelvic ultrasound in [**7-20**] months to confirm that the cyst is not changing in size. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 14518,
+            "end_offset": 14641,
+            "annotation_id": "JK_202"
+        },
+        {
+            "decision": "We recommend that you follow-up with a gynecologist to further evaluate this finding.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14644,
+            "end_offset": 14728,
+            "annotation_id": "JK_203"
+        },
+        {
+            "decision": "In addition, the echocardiogram that was performed on [**2152-7-21**] was significant for some diastolic dysfunction.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14731,
+            "end_offset": 14847,
+            "annotation_id": "JK_204"
+        },
+        {
+            "decision": "This finding may help to partly explain why you are retaining excess water and having increased shortness of breath.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14850,
+            "end_offset": 14965,
+            "annotation_id": "JK_205"
+        },
+        {
+            "decision": "history of coronary artery disease,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14979,
+            "end_offset": 15013,
+            "annotation_id": "JK_206"
+        },
+        {
+            "decision": "we recommend that you follow-up with a cardiologist to discuss possible options for further medical management.  We recommend that you discuss with your cardiologist whether starting a statin medication and/or an ACE inhibitor may be beneficial for your heart",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15015,
+            "end_offset": 15274,
+            "annotation_id": "JK_207"
+        },
+        {
+            "decision": "We recommend that you discuss with your cardiologist whether starting a statin medication and/or an ACE inhibitor may be beneficial for your heart",
+            "category": "Category 5: Drug related",
+            "start_offset": 15128,
+            "end_offset": 15274,
+            "annotation_id": "JK_208"
+        },
+        {
+            "decision": "you were started on ferrous sulfate",
+            "category": "Category 5: Drug related",
+            "start_offset": 15299,
+            "end_offset": 15334,
+            "annotation_id": "JK_209"
+        },
+        {
+            "decision": "iron deficiency anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15369,
+            "end_offset": 15391,
+            "annotation_id": "JK_210"
+        },
+        {
+            "decision": "You also received 1 unit of red blood cells ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15394,
+            "end_offset": 15437,
+            "annotation_id": "JK_211"
+        },
+        {
+            "decision": "low hematocrit.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15451,
+            "end_offset": 15465,
+            "annotation_id": "JK_212"
+        },
+        {
+            "decision": "You have an appointment with Dr. [**Last Name (STitle) 497**] on Wednesday, the 16th at 3:00 PM. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 15468,
+            "end_offset": 15563,
+            "annotation_id": "JK_213"
+        },
+        {
+            "decision": "he will adjust your diuretic doses. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15565,
+            "end_offset": 15599,
+            "annotation_id": "JK_214"
+        },
+        {
+            "decision": "In addition, he will discuss your repeat EGD.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 15601,
+            "end_offset": 15645,
+            "annotation_id": "JK_215"
+        },
+        {
+            "decision": "Your diuretic therapy was changed to lasix 80 mg PO twice daily and spironolactone 300 mg daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15648,
+            "end_offset": 15743,
+            "annotation_id": "JK_216"
+        },
+        {
+            "decision": "If you experience any fevers, chills, increased shortness of breath, rapid weight gain, or other concerning symptoms, you should return to the hospital.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15746,
+            "end_offset": 15897,
+            "annotation_id": "JK_217"
+        },
+        {
+            "decision": "Followup Instructions: - [**Location (un) 620**] Cardiology, Dr. [**Last Name (STitle) 1016**], [**9-26**] at 11:30 am - Gynecologist of your choosing",
+            "category": "Category 1: Contact related",
+            "start_offset": 15900,
+            "end_offset": 16050,
+            "annotation_id": "JK_218"
+        },
+        {
+            "decision": "You have an appointment with Dr. [**Last Name (STitle) 497**] on Wednesday, the 16th at 3:00 PM.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16052,
+            "end_offset": 16147,
+            "annotation_id": "JK_219"
+        }
+    ]
+}

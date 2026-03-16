@@ -1,0 +1,412 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14599_112565_19643",
+    "annotations": [
+        {
+            "decision": "Motor vehicle crash.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 149,
+            "end_offset": 168,
+            "annotation_id": "CM_000"
+        },
+        {
+            "decision": "positive loss of consciousness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 345,
+            "end_offset": 375,
+            "annotation_id": "CM_001"
+        },
+        {
+            "decision": "initial [**Location (un) 2611**] coma scale of 14 at the scene",
+            "category": "Category 3: Defining problem",
+            "start_offset": 397,
+            "end_offset": 459,
+            "annotation_id": "CM_002"
+        },
+        {
+            "decision": "initially hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 561,
+            "end_offset": 593,
+            "annotation_id": "CM_003"
+        },
+        {
+            "decision": "transferred to the [**Hospital6 2018**] Trauma Center",
+            "category": "Category 1: Contact related",
+            "start_offset": 603,
+            "end_offset": 656,
+            "annotation_id": "CM_004"
+        },
+        {
+            "decision": "resuscitation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 670,
+            "end_offset": 683,
+            "annotation_id": "CM_005"
+        },
+        {
+            "decision": "endotracheal tube placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 703,
+            "end_offset": 727,
+            "annotation_id": "CM_006"
+        },
+        {
+            "decision": "chest tube placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 736,
+            "end_offset": 753,
+            "annotation_id": "CM_007"
+        },
+        {
+            "decision": "central line and Foley catheter",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 757,
+            "end_offset": 788,
+            "annotation_id": "CM_008"
+        },
+        {
+            "decision": "resuscitated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 807,
+            "end_offset": 819,
+            "annotation_id": "CM_009"
+        },
+        {
+            "decision": "resuscitation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 835,
+            "end_offset": 848,
+            "annotation_id": "CM_010"
+        },
+        {
+            "decision": "mediastinal hematoma, most likely secondary to an aortic arch disruption",
+            "category": "Category 3: Defining problem",
+            "start_offset": 885,
+            "end_offset": 957,
+            "annotation_id": "CM_011"
+        },
+        {
+            "decision": "liver laceration and a splenic laceration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 983,
+            "end_offset": 1024,
+            "annotation_id": "CM_012"
+        },
+        {
+            "decision": "brought to the Operating Room emergently",
+            "category": "Category 1: Contact related",
+            "start_offset": 1043,
+            "end_offset": 1083,
+            "annotation_id": "CM_013"
+        },
+        {
+            "decision": "coma scale on arrival was 14 with -1 for confusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1646,
+            "end_offset": 1696,
+            "annotation_id": "CM_014"
+        },
+        {
+            "decision": "Head, eyes, ears, nose and throat:  Pupils are equal and reactive 3 to 2 on the right and 5 to 3 on the left. Extraocular muscles intact.  Tympanic membranes were clear. There was positive blood in oropharynx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1698,
+            "end_offset": 1906,
+            "annotation_id": "CM_015"
+        },
+        {
+            "decision": "Cardiovascular, regular rate and rhythm, no rubs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1909,
+            "end_offset": 1957,
+            "annotation_id": "CM_016"
+        },
+        {
+            "decision": "Respiratory:  Clear to auscultation bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1960,
+            "end_offset": 2007,
+            "annotation_id": "CM_017"
+        },
+        {
+            "decision": "Chest: No crepitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2010,
+            "end_offset": 2028,
+            "annotation_id": "CM_018"
+        },
+        {
+            "decision": "Abdomen: Soft, nontender, positive bowel sounds, distended.  Pelvis was stable, flank, no deformities or tenderness bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2031,
+            "end_offset": 2158,
+            "annotation_id": "CM_019"
+        },
+        {
+            "decision": "Back:  No deformities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2160,
+            "end_offset": 2181,
+            "annotation_id": "CM_020"
+        },
+        {
+            "decision": "Cervical spine and thoracic, lumbosacral spines, no deformities, stepoffs or tenderness. Rectal, guaiac negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2184,
+            "end_offset": 2296,
+            "annotation_id": "CM_021"
+        },
+        {
+            "decision": "Good rectal tone",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2299,
+            "end_offset": 2315,
+            "annotation_id": "CM_022"
+        },
+        {
+            "decision": "Right and left upper extremity, no deformities.  Right lower extremity and left lower extremity no deformities.  Pulses, palpable radial, femoral, dorsalis pedis and posterior tibial, no palpable abdominal masses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2318,
+            "end_offset": 2530,
+            "annotation_id": "CM_023"
+        },
+        {
+            "decision": "Chest x-ray widened mediastinum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2543,
+            "end_offset": 2574,
+            "annotation_id": "CM_024"
+        },
+        {
+            "decision": "Pelvis within normal limits",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2577,
+            "end_offset": 2604,
+            "annotation_id": "CM_025"
+        },
+        {
+            "decision": "Back normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2636,
+            "end_offset": 2647,
+            "annotation_id": "CM_026"
+        },
+        {
+            "decision": "Head computerized tomography scan within normal limits.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2649,
+            "end_offset": 2703,
+            "annotation_id": "CM_027"
+        },
+        {
+            "decision": "Computerized tomography scan of the abdomen showed a splenic Grade 2 and liver laceration.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2705,
+            "end_offset": 2794,
+            "annotation_id": "CM_028"
+        },
+        {
+            "decision": "brought emergently from the Emergency Department to the Operating Room",
+            "category": "Category 1: Contact related",
+            "start_offset": 2831,
+            "end_offset": 2901,
+            "annotation_id": "CM_029"
+        },
+        {
+            "decision": "exploratory laparotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2918,
+            "end_offset": 2940,
+            "annotation_id": "CM_030"
+        },
+        {
+            "decision": "exploratory laparotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2954,
+            "end_offset": 2976,
+            "annotation_id": "CM_031"
+        },
+        {
+            "decision": "liver laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2979,
+            "end_offset": 2995,
+            "annotation_id": "CM_032"
+        },
+        {
+            "decision": "It was sutured and coagulated using the Argon beam.  The spleen appeared to be intact with no signs of hemorrhage.  The abdomen was packed off in four quadrants.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3008,
+            "end_offset": 3168,
+            "annotation_id": "CM_033"
+        },
+        {
+            "decision": "median sternotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3234,
+            "end_offset": 3251,
+            "annotation_id": "CM_034"
+        },
+        {
+            "decision": "it was decided that the aortic arch would not be repaired due to the patient's coagulopathy, hypothermia and overall instability",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3297,
+            "end_offset": 3425,
+            "annotation_id": "CM_035"
+        },
+        {
+            "decision": "cardiac window was performed and relieved serosanguinous/blood.  The drain was placed in the pericardium",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3430,
+            "end_offset": 3534,
+            "annotation_id": "CM_036"
+        },
+        {
+            "decision": "was transferred to the Intensive Care Uni",
+            "category": "Category 1: Contact related",
+            "start_offset": 3549,
+            "end_offset": 3591,
+            "annotation_id": "CM_037"
+        },
+        {
+            "decision": "resuscitation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3697,
+            "end_offset": 3710,
+            "annotation_id": "CM_038"
+        },
+        {
+            "decision": "intravenous fluids and blood products",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3721,
+            "end_offset": 3758,
+            "annotation_id": "CM_039"
+        },
+        {
+            "decision": "respiratory status deteriorated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3792,
+            "end_offset": 3823,
+            "annotation_id": "CM_040"
+        },
+        {
+            "decision": "placed on pressure controlled ventilation and required significant amount of support",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3842,
+            "end_offset": 3926,
+            "annotation_id": "CM_041"
+        },
+        {
+            "decision": "continued to be unstable, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3958,
+            "end_offset": 3982,
+            "annotation_id": "CM_042"
+        },
+        {
+            "decision": "pressors ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3994,
+            "end_offset": 4002,
+            "annotation_id": "CM_043"
+        },
+        {
+            "decision": "fluid",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4007,
+            "end_offset": 4012,
+            "annotation_id": "CM_044"
+        },
+        {
+            "decision": "Do-Not-Resuscitate, Do-Not-Intubate and possibly Care-Measures-Only depending on the status throughout the day",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4156,
+            "end_offset": 4266,
+            "annotation_id": "CM_045"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **], ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4406,
+            "end_offset": 4435,
+            "annotation_id": "CM_046"
+        },
+        {
+            "decision": "made Care-Measures-Only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4535,
+            "end_offset": 4558,
+            "annotation_id": "CM_047"
+        },
+        {
+            "decision": "Fluid ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4561,
+            "end_offset": 4566,
+            "annotation_id": "CM_048"
+        },
+        {
+            "decision": "pressors ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4571,
+            "end_offset": 4579,
+            "annotation_id": "CM_049"
+        },
+        {
+            "decision": "Morphine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4626,
+            "end_offset": 4634,
+            "annotation_id": "CM_050"
+        },
+        {
+            "decision": "became bradycardiac ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4673,
+            "end_offset": 4692,
+            "annotation_id": "CM_051"
+        },
+        {
+            "decision": "Status post motor vehicle crash with aortic arch disruption.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4819,
+            "end_offset": 4878,
+            "annotation_id": "CM_052"
+        },
+        {
+            "decision": "Splenic laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4884,
+            "end_offset": 4902,
+            "annotation_id": "CM_053"
+        },
+        {
+            "decision": "Liver laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4908,
+            "end_offset": 4924,
+            "annotation_id": "CM_054"
+        },
+        {
+            "decision": "Acute respiratory distress syndrome.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4930,
+            "end_offset": 4965,
+            "annotation_id": "CM_055"
+        },
+        {
+            "decision": "Coagulopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4971,
+            "end_offset": 4983,
+            "annotation_id": "CM_056"
+        },
+        {
+            "decision": "Ethyl alcohol abuse.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5008,
+            "end_offset": 5027,
+            "annotation_id": "CM_057"
+        }
+    ]
+}

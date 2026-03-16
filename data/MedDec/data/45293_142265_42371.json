@@ -1,0 +1,825 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "45293_142265_42371",
+    "annotations": [
+        {
+            "decision": "Chest tightness; shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 272,
+            "end_offset": 308,
+            "annotation_id": "LQ_000"
+        },
+        {
+            "decision": "Aortic valve replacement (23 St. [**Male First Name (un) 923**] tissue)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 364,
+            "end_offset": 434,
+            "annotation_id": "LQ_001"
+        },
+        {
+            "decision": "Coronary artery bypass graft x1 (Left internal mammary artery to left anterior descending)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 437,
+            "end_offset": 526,
+            "annotation_id": "LQ_002"
+        },
+        {
+            "decision": "aortic stenosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 593,
+            "end_offset": 608,
+            "annotation_id": "LQ_003"
+        },
+        {
+            "decision": "followed with serial echocardiograms",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 622,
+            "end_offset": 658,
+            "annotation_id": "LQ_004"
+        },
+        {
+            "decision": "referred for right and left heart catheterization for evaluation for possible future aortic valve replacement surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1036,
+            "end_offset": 1153,
+            "annotation_id": "LQ_005"
+        },
+        {
+            "decision": "coronary artery disease and severe aortic stenosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1176,
+            "end_offset": 1226,
+            "annotation_id": "LQ_006"
+        },
+        {
+            "decision": "on catheterization ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1227,
+            "end_offset": 1245,
+            "annotation_id": "LQ_007"
+        },
+        {
+            "decision": "admitted for aortic valve replacement and revascularization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1257,
+            "end_offset": 1316,
+            "annotation_id": "LQ_008"
+        },
+        {
+            "decision": "Aortic stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1341,
+            "end_offset": 1356,
+            "annotation_id": "LQ_009"
+        },
+        {
+            "decision": "Prostate cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1357,
+            "end_offset": 1372,
+            "annotation_id": "LQ_010"
+        },
+        {
+            "decision": "and prostatectomy [**2129**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1373,
+            "end_offset": 1401,
+            "annotation_id": "LQ_011"
+        },
+        {
+            "decision": "Heme positive stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1402,
+            "end_offset": 1421,
+            "annotation_id": "LQ_012"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1422,
+            "end_offset": 1432,
+            "annotation_id": "LQ_013"
+        },
+        {
+            "decision": "Basal cell lesions removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1433,
+            "end_offset": 1459,
+            "annotation_id": "LQ_014"
+        },
+        {
+            "decision": "History of anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1460,
+            "end_offset": 1477,
+            "annotation_id": "LQ_015"
+        },
+        {
+            "decision": "Hip abscess as a child",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1478,
+            "end_offset": 1500,
+            "annotation_id": "LQ_016"
+        },
+        {
+            "decision": "s/p Cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1501,
+            "end_offset": 1520,
+            "annotation_id": "LQ_017"
+        },
+        {
+            "decision": "s/p Herniorrhaphy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1521,
+            "end_offset": 1538,
+            "annotation_id": "LQ_018"
+        },
+        {
+            "decision": "s/p Prostatectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1539,
+            "end_offset": 1556,
+            "annotation_id": "LQ_019"
+        },
+        {
+            "decision": "Skin: Dry [x] intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2128,
+            "end_offset": 2151,
+            "annotation_id": "LQ_020"
+        },
+        {
+            "decision": "HEENT: PERRLA [x] EOMI [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2153,
+            "end_offset": 2178,
+            "annotation_id": "LQ_021"
+        },
+        {
+            "decision": "Neck:  Supple [x] Full ROM [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2180,
+            "end_offset": 2209,
+            "annotation_id": "LQ_022"
+        },
+        {
+            "decision": "Chest: Lungs clear bilaterally [x",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2211,
+            "end_offset": 2244,
+            "annotation_id": "LQ_023"
+        },
+        {
+            "decision": "Heart: RRR [x]  Irregular []  Murmur [x] grade SEM III/VI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2246,
+            "end_offset": 2303,
+            "annotation_id": "LQ_024"
+        },
+        {
+            "decision": "Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2304,
+            "end_offset": 2373,
+            "annotation_id": "LQ_025"
+        },
+        {
+            "decision": "Extremities: Warm [x], well-perfused [x]  Edema: none",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2375,
+            "end_offset": 2428,
+            "annotation_id": "LQ_026"
+        },
+        {
+            "decision": "Varicosities: None [x], multiple spider veins",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2429,
+            "end_offset": 2474,
+            "annotation_id": "LQ_027"
+        },
+        {
+            "decision": "Neuro: Grossly intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2475,
+            "end_offset": 2499,
+            "annotation_id": "LQ_028"
+        },
+        {
+            "decision": "Pulses: Femoral      Right:2+   Left:2+ DP           Right:2+   Left:2+ PT           [**Name (NI) 167**]:2+   Left:2+ Radial       Right:2+   Left:2+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2501,
+            "end_offset": 2650,
+            "annotation_id": "LQ_029"
+        },
+        {
+            "decision": "Carotid Bruit       referred murmur to carotids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2652,
+            "end_offset": 2699,
+            "annotation_id": "LQ_030"
+        },
+        {
+            "decision": "Echo: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2736,
+            "end_offset": 2740,
+            "annotation_id": "LQ_031"
+        },
+        {
+            "decision": ": No spontaneous echo contrast is seen in the body of the left atrium or left atrial appendage. No spontaneous echo contrast is seen in the left atrial appendage. No atrial septal defect is seen by 2D or color Doppler.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2754,
+            "end_offset": 2969,
+            "annotation_id": "LQ_032"
+        },
+        {
+            "decision": "There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2971,
+            "end_offset": 3134,
+            "annotation_id": "LQ_033"
+        },
+        {
+            "decision": "The ascending aorta is mildly dilated. There are simple atheroma in the aortic arch. There are simple atheroma in the descending thoracic aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3138,
+            "end_offset": 3281,
+            "annotation_id": "LQ_034"
+        },
+        {
+            "decision": "There appear to be three aortic valve leaflets with almost complete fusion of the left and right coronary cusps. The aortic valve leaflets are severely thickened/deformed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3283,
+            "end_offset": 3453,
+            "annotation_id": "LQ_035"
+        },
+        {
+            "decision": "There is critical aortic valve stenosis (valve area <0.8cm2). Mild (1+) aortic regurgitation is seen. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3455,
+            "end_offset": 3555,
+            "annotation_id": "LQ_036"
+        },
+        {
+            "decision": "The anterior mitral valve leaflet is moderately thickened. The posterior mitral leaflet is very calcified and mobility is significantly restricted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3557,
+            "end_offset": 3703,
+            "annotation_id": "LQ_037"
+        },
+        {
+            "decision": "Mild (1+) mitral regurgitation is seen. There is no mitral stenosis. There is no pericardial effusion. Dr. [**Last Name (STitle) **] was notified in person of the results in the operating room.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3705,
+            "end_offset": 3897,
+            "annotation_id": "LQ_038"
+        },
+        {
+            "decision": "There is a bioprosthetic valve in the aortic position. The valve appears well-seated with normal leaflet mobility. There are no apparent paravalvular leaks",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3911,
+            "end_offset": 4066,
+            "annotation_id": "LQ_039"
+        },
+        {
+            "decision": "There is no AI. The peak gradient across the aortic valve is , and the mean gradient is , with a cardiac output of 4.5L/min. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4068,
+            "end_offset": 4191,
+            "annotation_id": "LQ_040"
+        },
+        {
+            "decision": "The left ventricle appears small, consistent with hypovolemic state. The left ventricular systolic function appears normal, EF>55%. Other valvular function remains unchanged.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4193,
+            "end_offset": 4366,
+            "annotation_id": "LQ_041"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2138-2-16**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4817,
+            "end_offset": 4883,
+            "annotation_id": "LQ_042"
+        },
+        {
+            "decision": ": The endotracheal tube, Swan-Ganz catheter, NG tube have all been removed. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4936,
+            "end_offset": 5008,
+            "annotation_id": "LQ_043"
+        },
+        {
+            "decision": "Left-sided chest tube has been removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5010,
+            "end_offset": 5048,
+            "annotation_id": "LQ_044"
+        },
+        {
+            "decision": "There is a small left apical pneumothorax. There is a small left pleural effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5050,
+            "end_offset": 5131,
+            "annotation_id": "LQ_045"
+        },
+        {
+            "decision": "he underwent an aortic valve replacement and coronary artery bypass graft x1 on [**2-14**] by Dr [**Last Name (STitle) **]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5342,
+            "end_offset": 5464,
+            "annotation_id": "LQ_046"
+        },
+        {
+            "decision": "Aortic valve replacement, 23-mm Biocor Epic porcine valve",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5535,
+            "end_offset": 5592,
+            "annotation_id": "LQ_047"
+        },
+        {
+            "decision": "Coronary artery bypass grafting x1 with the left internal mammary artery graft to left anterior descending artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5597,
+            "end_offset": 5710,
+            "annotation_id": "LQ_048"
+        },
+        {
+            "decision": "cardiopulmonary bypass time was 101 minutes with a crossclamp time of 82 minutes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5716,
+            "end_offset": 5796,
+            "annotation_id": "LQ_049"
+        },
+        {
+            "decision": "tolerated the surgery well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5801,
+            "end_offset": 5827,
+            "annotation_id": "LQ_050"
+        },
+        {
+            "decision": "transferred to the CVICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5853,
+            "end_offset": 5877,
+            "annotation_id": "LQ_051"
+        },
+        {
+            "decision": "awoke neurologically intact ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5968,
+            "end_offset": 5995,
+            "annotation_id": "LQ_052"
+        },
+        {
+            "decision": "and extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5996,
+            "end_offset": 6009,
+            "annotation_id": "LQ_053"
+        },
+        {
+            "decision": "started on ASA, Bblockers, statin and diuretics",
+            "category": "Category 5: Drug related",
+            "start_offset": 6062,
+            "end_offset": 6109,
+            "annotation_id": "LQ_054"
+        },
+        {
+            "decision": "transferred to the stepdown floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6131,
+            "end_offset": 6164,
+            "annotation_id": "LQ_055"
+        },
+        {
+            "decision": ". All tubes lines and drains were removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6198,
+            "end_offset": 6237,
+            "annotation_id": "LQ_056"
+        },
+        {
+            "decision": "he worked with nursing and physical therapy to improve his strength and endurance",
+            "category": "Category 1: Contact related",
+            "start_offset": 6295,
+            "end_offset": 6376,
+            "annotation_id": "LQ_057"
+        },
+        {
+            "decision": "rapid Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6415,
+            "end_offset": 6440,
+            "annotation_id": "LQ_058"
+        },
+        {
+            "decision": "Amio bolus and placed on oral meds",
+            "category": "Category 5: Drug related",
+            "start_offset": 6458,
+            "end_offset": 6492,
+            "annotation_id": "LQ_059"
+        },
+        {
+            "decision": "started on anticoagulation with Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6514,
+            "end_offset": 6554,
+            "annotation_id": "LQ_060"
+        },
+        {
+            "decision": "converted to normal sinus rhythm. He continued to progress post-operatively",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6559,
+            "end_offset": 6634,
+            "annotation_id": "LQ_061"
+        },
+        {
+            "decision": "follow up in wound clinic in 1 week and with Dr [**Last Name (STitle) **] in 4 weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6700,
+            "end_offset": 6784,
+            "annotation_id": "LQ_062"
+        },
+        {
+            "decision": "First INR check tomorrow with results to Dr. [**Last Name (STitle) **]. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6785,
+            "end_offset": 6855,
+            "annotation_id": "LQ_063"
+        },
+        {
+            "decision": "Target INR 2.0-2.5 .",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 6857,
+            "end_offset": 6875,
+            "annotation_id": "LQ_064"
+        },
+        {
+            "decision": "FLUOXETINE 20 mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6905,
+            "end_offset": 6927,
+            "annotation_id": "LQ_065"
+        },
+        {
+            "decision": "LEUPROLIDE 1 injection every 6 months (for prostate",
+            "category": "Category 5: Drug related",
+            "start_offset": 6928,
+            "end_offset": 6979,
+            "annotation_id": "LQ_066"
+        },
+        {
+            "decision": "SIMVASTATIN 20 mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6981,
+            "end_offset": 7004,
+            "annotation_id": "LQ_067"
+        },
+        {
+            "decision": "ASCORBIC ACID [VITAMIN C] Dosage uncertain",
+            "category": "Category 5: Drug related",
+            "start_offset": 7005,
+            "end_offset": 7047,
+            "annotation_id": "LQ_068"
+        },
+        {
+            "decision": "ASPIRIN  81 mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7048,
+            "end_offset": 7068,
+            "annotation_id": "LQ_069"
+        },
+        {
+            "decision": "MULTIVITAMIN WITH MIN-FA-LYCOPENE [ONE-A-DAY MEN'S] Dosage uncertain",
+            "category": "Category 5: Drug related",
+            "start_offset": 7069,
+            "end_offset": 7137,
+            "annotation_id": "LQ_070"
+        },
+        {
+            "decision": "VITAMIN E 400 unit Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7138,
+            "end_offset": 7162,
+            "annotation_id": "LQ_071"
+        },
+        {
+            "decision": "1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) for 1 months. Disp:*60 Capsule(s)* Refills:*1",
+            "category": "Category 5: Drug related",
+            "start_offset": 7187,
+            "end_offset": 7310,
+            "annotation_id": "LQ_072"
+        },
+        {
+            "decision": "2. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily) for 1 months. Disp:*30 Tablet(s)* Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 7312,
+            "end_offset": 7420,
+            "annotation_id": "LQ_073"
+        },
+        {
+            "decision": "3. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 1 months. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7422,
+            "end_offset": 7541,
+            "annotation_id": "LQ_074"
+        },
+        {
+            "decision": "4. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*2",
+            "category": "Category 5: Drug related",
+            "start_offset": 7542,
+            "end_offset": 7640,
+            "annotation_id": "LQ_075"
+        },
+        {
+            "decision": "5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2",
+            "category": "Category 5: Drug related",
+            "start_offset": 7642,
+            "end_offset": 7806,
+            "annotation_id": "LQ_076"
+        },
+        {
+            "decision": "6. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7808,
+            "end_offset": 7902,
+            "annotation_id": "LQ_077"
+        },
+        {
+            "decision": "7. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7903,
+            "end_offset": 8000,
+            "annotation_id": "LQ_078"
+        },
+        {
+            "decision": "8. furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day for 1 weeks. Disp:*14 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8001,
+            "end_offset": 8107,
+            "annotation_id": "LQ_079"
+        },
+        {
+            "decision": "9. potassium chloride 10 mEq Tablet Extended Release Sig: Two (2) Tablet Extended Release PO once a day for 1 weeks. Disp:*14 Tablet Extended Release(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8108,
+            "end_offset": 8273,
+            "annotation_id": "LQ_080"
+        },
+        {
+            "decision": "10. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 2 weeks. Disp:*28 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8274,
+            "end_offset": 8394,
+            "annotation_id": "LQ_081"
+        },
+        {
+            "decision": "11. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8395,
+            "end_offset": 8491,
+            "annotation_id": "LQ_082"
+        },
+        {
+            "decision": "12. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*50 Tablet(s)* Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 8492,
+            "end_offset": 8626,
+            "annotation_id": "LQ_083"
+        },
+        {
+            "decision": "13. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8628,
+            "end_offset": 8754,
+            "annotation_id": "LQ_084"
+        },
+        {
+            "decision": "14. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8755,
+            "end_offset": 8867,
+            "annotation_id": "LQ_085"
+        },
+        {
+            "decision": "15. warfarin 1 mg Tablet Sig: MD to order daily dosing Tablet PO Once Daily at 4 PM: dose today 5 mg [**2-19**] only; all further daily dosing per Dr. [**Last Name (STitle) **]; target INR 2.0-2.5 for A Fib. Disp:*75 Tablet(s)* Refills:*1* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8868,
+            "end_offset": 9107,
+            "annotation_id": "LQ_086"
+        },
+        {
+            "decision": "[**Hospital3 3765**] Hospice Program",
+            "category": "Category 1: Contact related",
+            "start_offset": 9162,
+            "end_offset": 9198,
+            "annotation_id": "LQ_087"
+        },
+        {
+            "decision": "Aortic stenosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9221,
+            "end_offset": 9236,
+            "annotation_id": "LQ_088"
+        },
+        {
+            "decision": "s/p Aortic valve replacement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9237,
+            "end_offset": 9265,
+            "annotation_id": "LQ_089"
+        },
+        {
+            "decision": "Coronary artery disease ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9266,
+            "end_offset": 9289,
+            "annotation_id": "LQ_090"
+        },
+        {
+            "decision": "p Coronary artery bypass graft x 1",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9292,
+            "end_offset": 9326,
+            "annotation_id": "LQ_091"
+        },
+        {
+            "decision": "postop atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9327,
+            "end_offset": 9353,
+            "annotation_id": "LQ_092"
+        },
+        {
+            "decision": "Prostate cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9376,
+            "end_offset": 9391,
+            "annotation_id": "LQ_093"
+        },
+        {
+            "decision": "and prostatectomy [**2129**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9392,
+            "end_offset": 9420,
+            "annotation_id": "LQ_094"
+        },
+        {
+            "decision": "Heme positive stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9421,
+            "end_offset": 9440,
+            "annotation_id": "LQ_095"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9441,
+            "end_offset": 9451,
+            "annotation_id": "LQ_096"
+        },
+        {
+            "decision": "Basal cell lesions removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9452,
+            "end_offset": 9478,
+            "annotation_id": "LQ_097"
+        },
+        {
+            "decision": "History of anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9479,
+            "end_offset": 9496,
+            "annotation_id": "LQ_098"
+        },
+        {
+            "decision": "Hip abscess as a child",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9497,
+            "end_offset": 9519,
+            "annotation_id": "LQ_099"
+        },
+        {
+            "decision": "s/p Cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9520,
+            "end_offset": 9539,
+            "annotation_id": "LQ_100"
+        },
+        {
+            "decision": "s/p Herniorrhaphy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9540,
+            "end_offset": 9557,
+            "annotation_id": "LQ_101"
+        },
+        {
+            "decision": "s/p Prostatectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9558,
+            "end_offset": 9575,
+            "annotation_id": "LQ_102"
+        },
+        {
+            "decision": "Alert and oriented x3 nonfocal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9598,
+            "end_offset": 9628,
+            "annotation_id": "LQ_103"
+        },
+        {
+            "decision": "Ambulating with steady gait",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9629,
+            "end_offset": 9656,
+            "annotation_id": "LQ_104"
+        },
+        {
+            "decision": "Incisional pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9657,
+            "end_offset": 9672,
+            "annotation_id": "LQ_105"
+        },
+        {
+            "decision": "managed with Percocet",
+            "category": "Category 5: Drug related",
+            "start_offset": 9673,
+            "end_offset": 9694,
+            "annotation_id": "LQ_106"
+        },
+        {
+            "decision": "Incisions: Sternal - healing well, no erythema or drainage Leg Incision-N/A Edema: 1+ bilat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9695,
+            "end_offset": 9786,
+            "annotation_id": "LQ_107"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon. Look at your incisions daily for redness or drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9813,
+            "end_offset": 9983,
+            "annotation_id": "LQ_108"
+        },
+        {
+            "decision": "Please NO lotions, cream, powder, or ointments to incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9984,
+            "end_offset": 10043,
+            "annotation_id": "LQ_109"
+        },
+        {
+            "decision": "Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10044,
+            "end_offset": 10171,
+            "annotation_id": "LQ_110"
+        },
+        {
+            "decision": "No driving for one month or while taking narcotics. driving will be discussed at follow up appointment with surgeon.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10173,
+            "end_offset": 10288,
+            "annotation_id": "LQ_111"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10290,
+            "end_offset": 10333,
+            "annotation_id": "LQ_112"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**] **Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 1: Contact related",
+            "start_offset": 10334,
+            "end_offset": 10566,
+            "annotation_id": "LQ_113"
+        },
+        {
+            "decision": "You are scheduled for the following appointments [**Hospital 409**] Clinic: [**2138-2-25**] at 10:30a [**Telephone/Fax (1) 1504**] Surgeon: Dr. [**Last Name (STitle) **] [**2138-3-19**] at 1:00p [**Telephone/Fax (1) 1504**] Cardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7756**] [**2138-3-10**] at 2:00p",
+            "category": "Category 1: Contact related",
+            "start_offset": 10591,
+            "end_offset": 10927,
+            "annotation_id": "LQ_114"
+        },
+        {
+            "decision": "Please call to schedule appointment with your Primary Care Dr. [**First Name (STitle) 2530**] [**Name (STitle) **] in [**4-17**] weeks  [**Telephone/Fax (1) 71053**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10929,
+            "end_offset": 11094,
+            "annotation_id": "LQ_115"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 1: Contact related",
+            "start_offset": 11096,
+            "end_offset": 11257,
+            "annotation_id": "LQ_116"
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "25258_103434_18719",
+    "annotations": [
+        {
+            "decision": "Shortness of breath, fatigue.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 304,
+            "annotation_id": "HU_000"
+        },
+        {
+            "decision": "CMML ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 403,
+            "end_offset": 407,
+            "annotation_id": "HU_001"
+        },
+        {
+            "decision": "splenic rupture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 475,
+            "end_offset": 490,
+            "annotation_id": "HU_002"
+        },
+        {
+            "decision": "underwent emergent splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 500,
+            "end_offset": 530,
+            "annotation_id": "HU_003"
+        },
+        {
+            "decision": "course complicated by intra-abdominal staph infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 545,
+            "end_offset": 598,
+            "annotation_id": "HU_004"
+        },
+        {
+            "decision": "Culture of hematoma revealed coagulase negative staphylococcus with multiple resistances",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 746,
+            "end_offset": 834,
+            "annotation_id": "HU_005"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 852,
+            "end_offset": 862,
+            "annotation_id": "HU_006"
+        },
+        {
+            "decision": "vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 882,
+            "end_offset": 892,
+            "annotation_id": "HU_007"
+        },
+        {
+            "decision": "diarrhea related to c. diff infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 922,
+            "end_offset": 959,
+            "annotation_id": "HU_008"
+        },
+        {
+            "decision": "flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 964,
+            "end_offset": 970,
+            "annotation_id": "HU_009"
+        },
+        {
+            "decision": "discharged from the OSH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 991,
+            "end_offset": 1014,
+            "annotation_id": "HU_010"
+        },
+        {
+            "decision": "vancomycin and flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1039,
+            "end_offset": 1060,
+            "annotation_id": "HU_011"
+        },
+        {
+            "decision": "taken by hospital to the oncology clinic",
+            "category": "Category 1: Contact related",
+            "start_offset": 1376,
+            "end_offset": 1416,
+            "annotation_id": "HU_012"
+        },
+        {
+            "decision": "afebrile and hemodynamically stable; however, his O2 saturation was noted to be 90 on room air",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1431,
+            "end_offset": 1525,
+            "annotation_id": "HU_013"
+        },
+        {
+            "decision": "Currently the patient reports he doesn't feel short of breath except with exertion. He believes his diarrhea has resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1575,
+            "end_offset": 1696,
+            "annotation_id": "HU_014"
+        },
+        {
+            "decision": "myelodysplastic syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1722,
+            "end_offset": 1746,
+            "annotation_id": "HU_015"
+        },
+        {
+            "decision": "diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1747,
+            "end_offset": 1761,
+            "annotation_id": "HU_016"
+        },
+        {
+            "decision": "AML ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1762,
+            "end_offset": 1765,
+            "annotation_id": "HU_017"
+        },
+        {
+            "decision": "chemo ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1792,
+            "end_offset": 1797,
+            "annotation_id": "HU_018"
+        },
+        {
+            "decision": "recovered",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1802,
+            "end_offset": 1811,
+            "annotation_id": "HU_019"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1813,
+            "end_offset": 1816,
+            "annotation_id": "HU_020"
+        },
+        {
+            "decision": "Gen: Elderly Caucasian gentleman in NAD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2141,
+            "end_offset": 2180,
+            "annotation_id": "HU_021"
+        },
+        {
+            "decision": "Head: NCAT.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2182,
+            "end_offset": 2192,
+            "annotation_id": "HU_022"
+        },
+        {
+            "decision": "Eyes: PERRL, EOMI, anicteric,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2194,
+            "end_offset": 2222,
+            "annotation_id": "HU_023"
+        },
+        {
+            "decision": "Mouth: Small black spot on L lateral tongue, otherwise MMM, no other lesions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2224,
+            "end_offset": 2300,
+            "annotation_id": "HU_024"
+        },
+        {
+            "decision": "CV: RR, nl S1S2, 3/6 systolic murmur at LLSB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2301,
+            "end_offset": 2345,
+            "annotation_id": "HU_025"
+        },
+        {
+            "decision": "Lungs: Slightly diminished at R base, otherwise fair air movement with no adventitial sounds heard.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2346,
+            "end_offset": 2444,
+            "annotation_id": "HU_026"
+        },
+        {
+            "decision": "Abdomen: Purpuric bruising at abdomen LUQ and LLQ. Non-tender, non-distended, normoactive BS,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2446,
+            "end_offset": 2538,
+            "annotation_id": "HU_027"
+        },
+        {
+            "decision": "Extrem: no c/c/e",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2540,
+            "end_offset": 2556,
+            "annotation_id": "HU_028"
+        },
+        {
+            "decision": "urinalyisis: negative for LE, nitrates. Few bacteria.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2718,
+            "end_offset": 2770,
+            "annotation_id": "HU_029"
+        },
+        {
+            "decision": "LUQ hematoma: coag negative staphylococcus PCN resistant but vancomycin sensitive.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2782,
+            "end_offset": 2863,
+            "annotation_id": "HU_030"
+        },
+        {
+            "decision": "CMML ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2921,
+            "end_offset": 2925,
+            "annotation_id": "HU_031"
+        },
+        {
+            "decision": "emergent splenectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2959,
+            "end_offset": 2979,
+            "annotation_id": "HU_032"
+        },
+        {
+            "decision": "splenic rupture ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2986,
+            "end_offset": 3001,
+            "annotation_id": "HU_033"
+        },
+        {
+            "decision": "hypoxemia and worsening bilateral ground glass opacities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3022,
+            "end_offset": 3078,
+            "annotation_id": "HU_034"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 3126,
+            "end_offset": 3137,
+            "annotation_id": "HU_035"
+        },
+        {
+            "decision": "fluid resusitated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3211,
+            "end_offset": 3228,
+            "annotation_id": "HU_036"
+        },
+        {
+            "decision": "CMML regimen",
+            "category": "Category 5: Drug related",
+            "start_offset": 3250,
+            "end_offset": 3262,
+            "annotation_id": "HU_037"
+        },
+        {
+            "decision": "progressively hypotensive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3297,
+            "end_offset": 3322,
+            "annotation_id": "HU_038"
+        },
+        {
+            "decision": "transfered to the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 3331,
+            "end_offset": 3352,
+            "annotation_id": "HU_039"
+        },
+        {
+            "decision": "continued to deteriorate and developed progressive hypotension and acidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3395,
+            "end_offset": 3470,
+            "annotation_id": "HU_040"
+        },
+        {
+            "decision": "aggressive fluid repletion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3479,
+            "end_offset": 3505,
+            "annotation_id": "HU_041"
+        },
+        {
+            "decision": "pressor support, and bicarbonate drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 3507,
+            "end_offset": 3544,
+            "annotation_id": "HU_042"
+        },
+        {
+            "decision": "bicarb",
+            "category": "Category 5: Drug related",
+            "start_offset": 3573,
+            "end_offset": 3579,
+            "annotation_id": "HU_043"
+        },
+        {
+            "decision": "pressor support w/ levophed and vasopressin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3581,
+            "end_offset": 3624,
+            "annotation_id": "HU_044"
+        },
+        {
+            "decision": "maximum ventilatory support",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3630,
+            "end_offset": 3657,
+            "annotation_id": "HU_045"
+        },
+        {
+            "decision": "lactate continued to trend upwards",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3687,
+            "end_offset": 3721,
+            "annotation_id": "HU_046"
+        },
+        {
+            "decision": "progressively more hypotensive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3736,
+            "end_offset": 3766,
+            "annotation_id": "HU_047"
+        },
+        {
+            "decision": "PEEP settings required to adequately oxygenate",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3774,
+            "end_offset": 3820,
+            "annotation_id": "HU_048"
+        },
+        {
+            "decision": "tumor lysis syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3861,
+            "end_offset": 3881,
+            "annotation_id": "HU_049"
+        },
+        {
+            "decision": "chemotherapy",
+            "category": "Category 5: Drug related",
+            "start_offset": 3904,
+            "end_offset": 3916,
+            "annotation_id": "HU_050"
+        },
+        {
+            "decision": "anuric producing only 40cc of urine over 8hr",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3928,
+            "end_offset": 3972,
+            "annotation_id": "HU_051"
+        },
+        {
+            "decision": "Renal service was called",
+            "category": "Category 1: Contact related",
+            "start_offset": 3974,
+            "end_offset": 3998,
+            "annotation_id": "HU_052"
+        },
+        {
+            "decision": "consider dialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4013,
+            "end_offset": 4030,
+            "annotation_id": "HU_053"
+        },
+        {
+            "decision": "code status to DNR/DNI and focus care on comfort",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4068,
+            "end_offset": 4116,
+            "annotation_id": "HU_054"
+        },
+        {
+            "decision": "oncologist Dr [**First Name (STitle) 1557**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 4156,
+            "end_offset": 4200,
+            "annotation_id": "HU_055"
+        },
+        {
+            "decision": "defer more aggressive therapy.",
+            "category": "Category 8: Deferment",
+            "start_offset": 4208,
+            "end_offset": 4237,
+            "annotation_id": "HU_056"
+        },
+        {
+            "decision": "MED Danazol 200 mg PO BID Start: 4 pm",
+            "category": "Category 5: Drug related",
+            "start_offset": 4266,
+            "end_offset": 4303,
+            "annotation_id": "HU_057"
+        },
+        {
+            "decision": "MED Folic Acid 1 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4304,
+            "end_offset": 4332,
+            "annotation_id": "HU_058"
+        },
+        {
+            "decision": "MED Pantoprazole 40 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 4333,
+            "end_offset": 4363,
+            "annotation_id": "HU_059"
+        },
+        {
+            "decision": "MED Atenolol 25 mg PO DAILY Start: In am",
+            "category": "Category 5: Drug related",
+            "start_offset": 4364,
+            "end_offset": 4404,
+            "annotation_id": "HU_060"
+        },
+        {
+            "decision": "MED Prednisone 12.5 mg PO DAILY Start: In am",
+            "category": "Category 5: Drug related",
+            "start_offset": 4457,
+            "end_offset": 4501,
+            "annotation_id": "HU_061"
+        },
+        {
+            "decision": "MED Metronidazole 500 mg PO TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 4502,
+            "end_offset": 4533,
+            "annotation_id": "HU_062"
+        },
+        {
+            "decision": "MED Hydroxyurea 1500 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4534,
+            "end_offset": 4566,
+            "annotation_id": "HU_063"
+        },
+        {
+            "decision": "MED Ipratropium Bromide Neb 1 NEB IH Q6H:PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 4567,
+            "end_offset": 4611,
+            "annotation_id": "HU_064"
+        },
+        {
+            "decision": "CMML",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4696,
+            "end_offset": 4700,
+            "annotation_id": "HU_065"
+        },
+        {
+            "decision": "splenic rupture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4702,
+            "end_offset": 4717,
+            "annotation_id": "HU_066"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4719,
+            "end_offset": 4730,
+            "annotation_id": "HU_067"
+        }
+    ]
+}

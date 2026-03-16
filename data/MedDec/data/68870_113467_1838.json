@@ -1,0 +1,1763 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "68870_113467_18382",
+    "annotations": [
+        {
+            "decision": "Shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 267,
+            "end_offset": 286,
+            "annotation_id": "OO_000"
+        },
+        {
+            "decision": "Central line placement and removal ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 326,
+            "end_offset": 360,
+            "annotation_id": "OO_001"
+        },
+        {
+            "decision": "history of bilateral breast cancer and metastatic kidney cancer, with extensive osseous and pulmonary metastases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 432,
+            "end_offset": 544,
+            "annotation_id": "OO_002"
+        },
+        {
+            "decision": "extensive bony metastasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 670,
+            "end_offset": 695,
+            "annotation_id": "OO_003"
+        },
+        {
+            "decision": "T9-L1 posterior fusion ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 718,
+            "end_offset": 740,
+            "annotation_id": "OO_004"
+        },
+        {
+            "decision": "unstable T11 metastasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 745,
+            "end_offset": 768,
+            "annotation_id": "OO_005"
+        },
+        {
+            "decision": "transferred to the ED at [**Hospital1 18**].  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 909,
+            "end_offset": 952,
+            "annotation_id": "OO_006"
+        },
+        {
+            "decision": "heparin SQ TID ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1122,
+            "end_offset": 1136,
+            "annotation_id": "OO_007"
+        },
+        {
+            "decision": "DVT prophylaxis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1141,
+            "end_offset": 1156,
+            "annotation_id": "OO_008"
+        },
+        {
+            "decision": "UA was abnormal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1232,
+            "end_offset": 1247,
+            "annotation_id": "OO_009"
+        },
+        {
+            "decision": "elevated WBC to 15.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1265,
+            "end_offset": 1283,
+            "annotation_id": "OO_010"
+        },
+        {
+            "decision": "head CT that did not show evidence of acute CVA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1295,
+            "end_offset": 1342,
+            "annotation_id": "OO_011"
+        },
+        {
+            "decision": "Unfortunately due to IV access issues (it could not be determined whether she had a power port), she could not obtain a CT chest with contrast to evaluate for PE",
+            "category": "Category 8: Deferment",
+            "start_offset": 1344,
+            "end_offset": 1505,
+            "annotation_id": "OO_012"
+        },
+        {
+            "decision": "empirically treated with therapeutic dose of lovenox ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1516,
+            "end_offset": 1568,
+            "annotation_id": "OO_013"
+        },
+        {
+            "decision": "D-dimer was found to be mildly elevated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1577,
+            "end_offset": 1616,
+            "annotation_id": "OO_014"
+        },
+        {
+            "decision": "chest CXR showed worsening pul edema, but given extensive lung mets, a consolidative process could not be ruled out.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1621,
+            "end_offset": 1736,
+            "annotation_id": "OO_015"
+        },
+        {
+            "decision": "empirically started on vancomycin and cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 1747,
+            "end_offset": 1793,
+            "annotation_id": "OO_016"
+        },
+        {
+            "decision": "UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1798,
+            "end_offset": 1801,
+            "annotation_id": "OO_017"
+        },
+        {
+            "decision": "possible pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1813,
+            "end_offset": 1831,
+            "annotation_id": "OO_018"
+        },
+        {
+            "decision": "admitted to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 1837,
+            "end_offset": 1858,
+            "annotation_id": "OO_019"
+        },
+        {
+            "decision": "Denies chills, night sweats, recent weight loss or gain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1896,
+            "end_offset": 1951,
+            "annotation_id": "OO_020"
+        },
+        {
+            "decision": "Denies blurry vision, diplopia, loss of vision, photophobia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1953,
+            "end_offset": 2012,
+            "annotation_id": "OO_021"
+        },
+        {
+            "decision": "Denies  sinus tenderness, rhinorrhea or congestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2014,
+            "end_offset": 2064,
+            "annotation_id": "OO_022"
+        },
+        {
+            "decision": "Denies chest pain or tightness, palpitations, lower extremity edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2066,
+            "end_offset": 2133,
+            "annotation_id": "OO_023"
+        },
+        {
+            "decision": "Denies cough, or wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2135,
+            "end_offset": 2159,
+            "annotation_id": "OO_024"
+        },
+        {
+            "decision": "Denies nausea, vomiting, diarrhea, constipation, abdominal pain, melena, hematemesis, hematochezia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2161,
+            "end_offset": 2259,
+            "annotation_id": "OO_025"
+        },
+        {
+            "decision": "Denies rashes or skin breakdown. No numbness/tingling in extremities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2261,
+            "end_offset": 2329,
+            "annotation_id": "OO_026"
+        },
+        {
+            "decision": "All other systems negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2331,
+            "end_offset": 2357,
+            "annotation_id": "OO_027"
+        },
+        {
+            "decision": "left nephrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2418,
+            "end_offset": 2434,
+            "annotation_id": "OO_028"
+        },
+        {
+            "decision": "clear cell renal cell carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2445,
+            "end_offset": 2476,
+            "annotation_id": "OO_029"
+        },
+        {
+            "decision": "bilateral breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2510,
+            "end_offset": 2533,
+            "annotation_id": "OO_030"
+        },
+        {
+            "decision": "node-positive on left, ER/PR positive, HER-2 negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2535,
+            "end_offset": 2588,
+            "annotation_id": "OO_031"
+        },
+        {
+            "decision": "neoadjuvant dose-dense AC ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2604,
+            "end_offset": 2629,
+            "annotation_id": "OO_032"
+        },
+        {
+            "decision": "weekly taxol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2634,
+            "end_offset": 2646,
+            "annotation_id": "OO_033"
+        },
+        {
+            "decision": "bilateral mastectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2671,
+            "end_offset": 2691,
+            "annotation_id": "OO_034"
+        },
+        {
+            "decision": "after lumpectomy with positive margins)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2710,
+            "end_offset": 2748,
+            "annotation_id": "OO_035"
+        },
+        {
+            "decision": "radiation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2751,
+            "end_offset": 2760,
+            "annotation_id": "OO_036"
+        },
+        {
+            "decision": "On arimidex since completion of chemotherapy.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2780,
+            "end_offset": 2824,
+            "annotation_id": "OO_037"
+        },
+        {
+            "decision": "elevated alk phos",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2869,
+            "end_offset": 2886,
+            "annotation_id": "OO_038"
+        },
+        {
+            "decision": "CT torso (done because of elevated alk phos) showed 1.5 and 0.6 cm left upper lobe nodules",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2843,
+            "end_offset": 2933,
+            "annotation_id": "OO_039"
+        },
+        {
+            "decision": "Left upper lobectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2952,
+            "end_offset": 2972,
+            "annotation_id": "OO_040"
+        },
+        {
+            "decision": "clear cell renal cell carcinoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2992,
+            "end_offset": 3023,
+            "annotation_id": "OO_041"
+        },
+        {
+            "decision": "MRI of T/L spine with disease at T10, T11 vertebral bodies, soft tissues T10-T12, and L3 body",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3041,
+            "end_offset": 3134,
+            "annotation_id": "OO_042"
+        },
+        {
+            "decision": "CT-guided biopsy consistent with renal cell carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3136,
+            "end_offset": 3189,
+            "annotation_id": "OO_043"
+        },
+        {
+            "decision": "Bone scan [**2157-4-18**] also showed involvement of several left ribs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3191,
+            "end_offset": 3261,
+            "annotation_id": "OO_044"
+        },
+        {
+            "decision": "XRT to thoracic spine",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3285,
+            "end_offset": 3306,
+            "annotation_id": "OO_045"
+        },
+        {
+            "decision": "Began sunitinib; dose reduced over time to 25 mg because of toxicities. Sutent ended in [**2158-1-14**] because of disease progression.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3323,
+            "end_offset": 3457,
+            "annotation_id": "OO_046"
+        },
+        {
+            "decision": "MRI L-spine with T11 disease with persistent mass effect on thecal sac but no significant cord compression, and T9 and T10 disease, all likely unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3475,
+            "end_offset": 3627,
+            "annotation_id": "OO_047"
+        },
+        {
+            "decision": "New T12 compression fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3629,
+            "end_offset": 3657,
+            "annotation_id": "OO_048"
+        },
+        {
+            "decision": "pathologic fracture ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3716,
+            "end_offset": 3735,
+            "annotation_id": "OO_049"
+        },
+        {
+            "decision": "Significant progression of L3 vertebral body lesion with pathologic fracture and retropulsion of posterior cortex",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3659,
+            "end_offset": 3772,
+            "annotation_id": "OO_050"
+        },
+        {
+            "decision": "CT torso with interval marked progression of innumerable pulmonary mets since [**2157-8-2**]. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3791,
+            "end_offset": 3883,
+            "annotation_id": "OO_051"
+        },
+        {
+            "decision": "Destructive lytic lesion within left femoral head.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3885,
+            "end_offset": 3934,
+            "annotation_id": "OO_052"
+        },
+        {
+            "decision": "XRT to lumbar spine",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3953,
+            "end_offset": 3972,
+            "annotation_id": "OO_053"
+        },
+        {
+            "decision": "avastin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4025,
+            "end_offset": 4032,
+            "annotation_id": "OO_054"
+        },
+        {
+            "decision": "temsirolimus",
+            "category": "Category 5: Drug related",
+            "start_offset": 4037,
+            "end_offset": 4049,
+            "annotation_id": "OO_055"
+        },
+        {
+            "decision": "CT torso showed osseous mets in spine and left ibs, with interva lincrease in size in soft tissue component at T11 encasing thecal sac, invading cord, and invading more than 50% of the spinal canal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4051,
+            "end_offset": 4248,
+            "annotation_id": "OO_056"
+        },
+        {
+            "decision": "At L3, compression fracture with soft tissue component extending into spinal canal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4250,
+            "end_offset": 4332,
+            "annotation_id": "OO_057"
+        },
+        {
+            "decision": "Increase in number and size of numerous pulmonary mets bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4334,
+            "end_offset": 4400,
+            "annotation_id": "OO_058"
+        },
+        {
+            "decision": "Destructive lytic lesion within left femoral head.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4402,
+            "end_offset": 4451,
+            "annotation_id": "OO_059"
+        },
+        {
+            "decision": "avastin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4483,
+            "end_offset": 4490,
+            "annotation_id": "OO_060"
+        },
+        {
+            "decision": "temsirolimus",
+            "category": "Category 5: Drug related",
+            "start_offset": 4491,
+            "end_offset": 4503,
+            "annotation_id": "OO_061"
+        },
+        {
+            "decision": "CT torso with significant decrease in size of bilateral pulmonary lesions and stable osseous disease with decrease in soft tissue mass at T11",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4521,
+            "end_offset": 4662,
+            "annotation_id": "OO_062"
+        },
+        {
+            "decision": "PNA, mental status changes, found to have frontal CVA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4706,
+            "end_offset": 4759,
+            "annotation_id": "OO_063"
+        },
+        {
+            "decision": "CT TORSO: stable disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4794,
+            "end_offset": 4818,
+            "annotation_id": "OO_064"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4840,
+            "end_offset": 4852,
+            "annotation_id": "OO_065"
+        },
+        {
+            "decision": "Breast Cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4855,
+            "end_offset": 4868,
+            "annotation_id": "OO_066"
+        },
+        {
+            "decision": "s/p resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4869,
+            "end_offset": 4882,
+            "annotation_id": "OO_067"
+        },
+        {
+            "decision": "gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4885,
+            "end_offset": 4889,
+            "annotation_id": "OO_068"
+        },
+        {
+            "decision": "General: Drowsy, confused but orientable, mild respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5281,
+            "end_offset": 5348,
+            "annotation_id": "OO_069"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5349,
+            "end_offset": 5395,
+            "annotation_id": "OO_070"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD, exam limited by body habitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5396,
+            "end_offset": 5464,
+            "annotation_id": "OO_071"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi, mildly decreased air entry.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5465,
+            "end_offset": 5560,
+            "annotation_id": "OO_072"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "TBD",
+            "start_offset": 5562,
+            "end_offset": 5632,
+            "annotation_id": "OO_073"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, +Obesity, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5633,
+            "end_offset": 5757,
+            "annotation_id": "OO_074"
+        },
+        {
+            "decision": "GU: foley in place, draining yellow urine.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5758,
+            "end_offset": 5799,
+            "annotation_id": "OO_075"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5801,
+            "end_offset": 5868,
+            "annotation_id": "OO_076"
+        },
+        {
+            "decision": "General: Awake and oriented but anxious appearing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5972,
+            "end_offset": 6021,
+            "annotation_id": "OO_077"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6022,
+            "end_offset": 6068,
+            "annotation_id": "OO_078"
+        },
+        {
+            "decision": "Neck: supple, JVP difficult to interpret, no LAD, exam limited by body habitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6069,
+            "end_offset": 6147,
+            "annotation_id": "OO_079"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally except for mild anterior wheezes (unable to get full posterior lung exam due to pain) and some bibasilar crackles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6148,
+            "end_offset": 6302,
+            "annotation_id": "OO_080"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6303,
+            "end_offset": 6373,
+            "annotation_id": "OO_081"
+        },
+        {
+            "decision": "Abdomen: Soft, non-tender, obese, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6374,
+            "end_offset": 6480,
+            "annotation_id": "OO_082"
+        },
+        {
+            "decision": "GU: Foley in place, draining yellow urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6481,
+            "end_offset": 6522,
+            "annotation_id": "OO_083"
+        },
+        {
+            "decision": "Ext: Warm, well perfused with 2+ nonpitting edema on all four extremities, LUE>RUE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6523,
+            "end_offset": 6605,
+            "annotation_id": "OO_084"
+        },
+        {
+            "decision": "URINE  BLOOD-SM  NITRITE-NEG PROTEIN-100 GLUCOSE-NEG KETONE-TR BILIRUBIN-SM  UROBILNGN-8* PH-5.5 LEUK-LG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7153,
+            "end_offset": 7257,
+            "annotation_id": "OO_085"
+        },
+        {
+            "decision": "CXR: UPRIGHT FRONTAL CHEST RADIOGRAPH: A right-sided catheter terminates within the right atrium. Spinal fusion hardware in the mid thoracic region is unchanged in position. Multiple left upper quadrant surgical clips are present",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8195,
+            "end_offset": 8424,
+            "annotation_id": "OO_086"
+        },
+        {
+            "decision": "Again seen are innumerable pulmonary nodules, compatible with known history of metastatic disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8426,
+            "end_offset": 8523,
+            "annotation_id": "OO_087"
+        },
+        {
+            "decision": "there has been interval increase in pulmonary vascular congestion and mild underlying pulmonary edema is present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8565,
+            "end_offset": 8677,
+            "annotation_id": "OO_088"
+        },
+        {
+            "decision": "mild underlying pulmonary edema is present. Small bilateral pleural effusions are present. There is no pneumothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8635,
+            "end_offset": 8750,
+            "annotation_id": "OO_089"
+        },
+        {
+            "decision": "No evidence of metastatic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8835,
+            "end_offset": 8868,
+            "annotation_id": "OO_090"
+        },
+        {
+            "decision": "CT Head w/o contrast: No acute intracranial process or evidence. No evidence of metastatic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8770,
+            "end_offset": 8868,
+            "annotation_id": "OO_091"
+        },
+        {
+            "decision": "CTA Chest: 1. No pulmonary embolism or acute aortic pathology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8930,
+            "end_offset": 8991,
+            "annotation_id": "OO_092"
+        },
+        {
+            "decision": "Ground-glass opacification in the right middle lobe likely reflects infectious process with new right greater than left small-to-moderate pleural effusions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8996,
+            "end_offset": 9151,
+            "annotation_id": "OO_093"
+        },
+        {
+            "decision": "pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9134,
+            "end_offset": 9151,
+            "annotation_id": "OO_094"
+        },
+        {
+            "decision": "Innumerable pulmonary metastases, many of which are increased in size",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9156,
+            "end_offset": 9225,
+            "annotation_id": "OO_095"
+        },
+        {
+            "decision": "Unchanged left sixth rib, left pectoral and T11 vertebral body metastases with interval vertebral fusion, which is incompletely characterized.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9227,
+            "end_offset": 9368,
+            "annotation_id": "OO_096"
+        },
+        {
+            "decision": "LLE US: 1. No left lower extremity DVT above the knee",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9388,
+            "end_offset": 9441,
+            "annotation_id": "OO_097"
+        },
+        {
+            "decision": "Diffuse subcutaneous edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9446,
+            "end_offset": 9472,
+            "annotation_id": "OO_098"
+        },
+        {
+            "decision": "No left upper extremity DVT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9503,
+            "end_offset": 9530,
+            "annotation_id": "OO_099"
+        },
+        {
+            "decision": "LUE US: 1. No left upper extremity DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9492,
+            "end_offset": 9530,
+            "annotation_id": "OO_100"
+        },
+        {
+            "decision": "Diffuse subcutaneous edema.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9535,
+            "end_offset": 9561,
+            "annotation_id": "OO_101"
+        },
+        {
+            "decision": "TTE: The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9581,
+            "end_offset": 9772,
+            "annotation_id": "OO_102"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9776,
+            "end_offset": 9838,
+            "annotation_id": "OO_103"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9840,
+            "end_offset": 9890,
+            "annotation_id": "OO_104"
+        },
+        {
+            "decision": "Trace aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9892,
+            "end_offset": 9926,
+            "annotation_id": "OO_105"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9928,
+            "end_offset": 9974,
+            "annotation_id": "OO_106"
+        },
+        {
+            "decision": "An eccentric, laterally directed jet of at least mild to moderate ([**1-15**]+) mitral regurgitation is seen (likely moderate 2+). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9976,
+            "end_offset": 10104,
+            "annotation_id": "OO_107"
+        },
+        {
+            "decision": "mitral regurgitation is seen (likely moderate 2+). ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10056,
+            "end_offset": 10104,
+            "annotation_id": "OO_108"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10107,
+            "end_offset": 10156,
+            "annotation_id": "OO_109"
+        },
+        {
+            "decision": "There is mild pulmonary artery systolic hypertension. There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10158,
+            "end_offset": 10244,
+            "annotation_id": "OO_110"
+        },
+        {
+            "decision": "MRI T/L spine: Metastatic disease to L3 vertebral body is again identified and unchanged",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10265,
+            "end_offset": 10353,
+            "annotation_id": "OO_111"
+        },
+        {
+            "decision": "moderate spinal stenosis is also seen ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10389,
+            "end_offset": 10426,
+            "annotation_id": "OO_112"
+        },
+        {
+            "decision": "Indentation on the thecal sac and moderate spinal stenosis is also seen at this level",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10355,
+            "end_offset": 10440,
+            "annotation_id": "OO_113"
+        },
+        {
+            "decision": "Fluid collection is identified in the upper lumbar posterior soft tissues at L1 level measuring 3 x 2.5 cm which likely is postoperative in nature",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10442,
+            "end_offset": 10588,
+            "annotation_id": "OO_114"
+        },
+        {
+            "decision": "CT T/L spine: 1. No evidence of retroperitoneal fluid collection, however, a large fluid collection in the subcutaneous fat posterior to the paraspinal region extending from L2-T10, larger than on MR from 2 days prior",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10744,
+            "end_offset": 10961,
+            "annotation_id": "OO_115"
+        },
+        {
+            "decision": "In order to visualize if this is a CSF leak, a CT myelogram would be a more appropriate study. ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 10963,
+            "end_offset": 11056,
+            "annotation_id": "OO_116"
+        },
+        {
+            "decision": "L3 compression fracture secondary to metastatic disease. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11061,
+            "end_offset": 11116,
+            "annotation_id": "OO_117"
+        },
+        {
+            "decision": " Lytic lesion within the posterior rib at the T8 vertebral level.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11118,
+            "end_offset": 11181,
+            "annotation_id": "OO_118"
+        },
+        {
+            "decision": "Multiple pulmonary metastatic nodules. Bilateral pleural fluid, right greater left",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11186,
+            "end_offset": 11268,
+            "annotation_id": "OO_119"
+        },
+        {
+            "decision": "Cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11274,
+            "end_offset": 11288,
+            "annotation_id": "OO_120"
+        },
+        {
+            "decision": "Possible kink in the centralv enous catheter on the scout, unchanged from prior CTA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11296,
+            "end_offset": 11379,
+            "annotation_id": "OO_121"
+        },
+        {
+            "decision": "d/w RN taking care of pt by Dr.[**Last Name (STitle) **] on [**2158-10-27**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 11388,
+            "end_offset": 11464,
+            "annotation_id": "OO_122"
+        },
+        {
+            "decision": "Pleural fluid cytology - TSH - Pleural fluid beta2-transferrin and protein electropheresis",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 11486,
+            "end_offset": 11576,
+            "annotation_id": "OO_123"
+        },
+        {
+            "decision": "Blood cultures pending, no growth to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11591,
+            "end_offset": 11632,
+            "annotation_id": "OO_124"
+        },
+        {
+            "decision": "Pleural fluid culture, no growth to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11647,
+            "end_offset": 11687,
+            "annotation_id": "OO_125"
+        },
+        {
+            "decision": "bilateral breast cancer and metastatic kidney cancer with extensive osseous and pulmonary metastases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11747,
+            "end_offset": 11847,
+            "annotation_id": "OO_126"
+        },
+        {
+            "decision": "extensive bony metastasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11972,
+            "end_offset": 11997,
+            "annotation_id": "OO_127"
+        },
+        {
+            "decision": "T9-L1 posterior fusion ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12020,
+            "end_offset": 12042,
+            "annotation_id": "OO_128"
+        },
+        {
+            "decision": "unstable T11 metastasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12047,
+            "end_offset": 12070,
+            "annotation_id": "OO_129"
+        },
+        {
+            "decision": "she presented with fevers, confusion, hypoxia and  felt to have sepsis due to UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12092,
+            "end_offset": 12173,
+            "annotation_id": "OO_130"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12179,
+            "end_offset": 12190,
+            "annotation_id": "OO_131"
+        },
+        {
+            "decision": "hypotension that was fluid responsive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12214,
+            "end_offset": 12251,
+            "annotation_id": "OO_132"
+        },
+        {
+            "decision": "It was ultimately felt to be sepsis due to UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12254,
+            "end_offset": 12300,
+            "annotation_id": "OO_133"
+        },
+        {
+            "decision": "She did not require pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 12302,
+            "end_offset": 12330,
+            "annotation_id": "OO_134"
+        },
+        {
+            "decision": "She was ruled out for PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12333,
+            "end_offset": 12357,
+            "annotation_id": "OO_135"
+        },
+        {
+            "decision": "TTE was unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12383,
+            "end_offset": 12403,
+            "annotation_id": "OO_136"
+        },
+        {
+            "decision": "initially treated with vancomycin and cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 12414,
+            "end_offset": 12460,
+            "annotation_id": "OO_137"
+        },
+        {
+            "decision": "narrowed to cipro and then changed to bactrim",
+            "category": "Category 5: Drug related",
+            "start_offset": 12471,
+            "end_offset": 12516,
+            "annotation_id": "OO_138"
+        },
+        {
+            "decision": "Hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12522,
+            "end_offset": 12529,
+            "annotation_id": "OO_139"
+        },
+        {
+            "decision": "extensive pulmonary disease as evidenced by her CXR and CTA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12539,
+            "end_offset": 12598,
+            "annotation_id": "OO_140"
+        },
+        {
+            "decision": "No evidence of PE ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12601,
+            "end_offset": 12618,
+            "annotation_id": "OO_141"
+        },
+        {
+            "decision": "She had the new development of pleural effusions felt to be either related to her spinal wound drainage or the fluid resuscitation in the ICU",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12630,
+            "end_offset": 12771,
+            "annotation_id": "OO_142"
+        },
+        {
+            "decision": "one dose of lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12796,
+            "end_offset": 12813,
+            "annotation_id": "OO_143"
+        },
+        {
+            "decision": "further doses were deferred as she was on room air most of the time and refused further labs draws. ",
+            "category": "Category 8: Deferment",
+            "start_offset": 12818,
+            "end_offset": 12916,
+            "annotation_id": "OO_144"
+        },
+        {
+            "decision": "nebulizers ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12941,
+            "end_offset": 12951,
+            "annotation_id": "OO_145"
+        },
+        {
+            "decision": "Urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12965,
+            "end_offset": 12988,
+            "annotation_id": "OO_146"
+        },
+        {
+            "decision": "UA was consistent with infection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13001,
+            "end_offset": 13033,
+            "annotation_id": "OO_147"
+        },
+        {
+            "decision": "cipro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13095,
+            "end_offset": 13100,
+            "annotation_id": "OO_148"
+        },
+        {
+            "decision": "Bactrim",
+            "category": "Category 5: Drug related",
+            "start_offset": 13105,
+            "end_offset": 13112,
+            "annotation_id": "OO_149"
+        },
+        {
+            "decision": "Urine culture grew E Coli and Klebsiella both sensitive to cipro and Bactrim",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13036,
+            "end_offset": 13112,
+            "annotation_id": "OO_150"
+        },
+        {
+            "decision": "was initially on broad spectrum antibiotics and then narrowed to cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 13119,
+            "end_offset": 13189,
+            "annotation_id": "OO_151"
+        },
+        {
+            "decision": "delirium ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13219,
+            "end_offset": 13227,
+            "annotation_id": "OO_152"
+        },
+        {
+            "decision": "induced by cipro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13228,
+            "end_offset": 13244,
+            "annotation_id": "OO_153"
+        },
+        {
+            "decision": "her antibiotics were changed to bactrim.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13249,
+            "end_offset": 13288,
+            "annotation_id": "OO_154"
+        },
+        {
+            "decision": "chronic foley.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13322,
+            "end_offset": 13335,
+            "annotation_id": "OO_155"
+        },
+        {
+            "decision": "s/p Spinal Fusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13356,
+            "end_offset": 13373,
+            "annotation_id": "OO_156"
+        },
+        {
+            "decision": "spinal fusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13393,
+            "end_offset": 13406,
+            "annotation_id": "OO_157"
+        },
+        {
+            "decision": "her wound drained a large amount of serous fluid",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13431,
+            "end_offset": 13479,
+            "annotation_id": "OO_158"
+        },
+        {
+            "decision": "Her orthopedics team followed her wound and consulted neurosurgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 13503,
+            "end_offset": 13569,
+            "annotation_id": "OO_159"
+        },
+        {
+            "decision": "and consulted neurosurgery",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 13543,
+            "end_offset": 13569,
+            "annotation_id": "OO_160"
+        },
+        {
+            "decision": "She had multiple imaging studies that showed a fluid collection around the wound",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13572,
+            "end_offset": 13652,
+            "annotation_id": "OO_161"
+        },
+        {
+            "decision": "her new pleural effusions may be related to leakage of CSF.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13678,
+            "end_offset": 13736,
+            "annotation_id": "OO_162"
+        },
+        {
+            "decision": "thoracentesis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13764,
+            "end_offset": 13777,
+            "annotation_id": "OO_163"
+        },
+        {
+            "decision": "Beta2 transferrin and PEP are pending at the time of discharge, which will help determine if the pleural fluid is CSF.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 13800,
+            "end_offset": 13917,
+            "annotation_id": "OO_164"
+        },
+        {
+            "decision": "The neurosurgery team will follow-up these studies as an outpatient ",
+            "category": "Category 1: Contact related",
+            "start_offset": 13920,
+            "end_offset": 13987,
+            "annotation_id": "OO_165"
+        },
+        {
+            "decision": "decide if a lumbar drain is needed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13992,
+            "end_offset": 14026,
+            "annotation_id": "OO_166"
+        },
+        {
+            "decision": "She has follow-up scheduled with neurosurgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 14029,
+            "end_offset": 14074,
+            "annotation_id": "OO_167"
+        },
+        {
+            "decision": "Metastatic renal cancer with mets",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14080,
+            "end_offset": 14113,
+            "annotation_id": "OO_168"
+        },
+        {
+            "decision": "recently found to have extensive bony mets",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14128,
+            "end_offset": 14170,
+            "annotation_id": "OO_169"
+        },
+        {
+            "decision": "difficulties controlling pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14194,
+            "end_offset": 14223,
+            "annotation_id": "OO_170"
+        },
+        {
+            "decision": "titration of pain control meds",
+            "category": "Category 5: Drug related",
+            "start_offset": 14275,
+            "end_offset": 14305,
+            "annotation_id": "OO_171"
+        },
+        {
+            "decision": "Anemia: Likely anemia of chronic disease secondary to underlying cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14311,
+            "end_offset": 14382,
+            "annotation_id": "OO_172"
+        },
+        {
+            "decision": "1 unit pRBC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14393,
+            "end_offset": 14404,
+            "annotation_id": "OO_173"
+        },
+        {
+            "decision": "Hemolysis labs were unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14445,
+            "end_offset": 14477,
+            "annotation_id": "OO_174"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14482,
+            "end_offset": 14485,
+            "annotation_id": "OO_175"
+        },
+        {
+            "decision": "Valsartan was held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14487,
+            "end_offset": 14505,
+            "annotation_id": "OO_176"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14523,
+            "end_offset": 14534,
+            "annotation_id": "OO_177"
+        },
+        {
+            "decision": "Port-a-cath ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14615,
+            "end_offset": 14626,
+            "annotation_id": "OO_178"
+        },
+        {
+            "decision": "Port-a-cath blockage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14615,
+            "end_offset": 14635,
+            "annotation_id": "OO_179"
+        },
+        {
+            "decision": "CT chest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14822,
+            "end_offset": 14830,
+            "annotation_id": "OO_180"
+        },
+        {
+            "decision": " the line was kinked on her CT chest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14795,
+            "end_offset": 14830,
+            "annotation_id": "OO_181"
+        },
+        {
+            "decision": "TPA ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14852,
+            "end_offset": 14855,
+            "annotation_id": "OO_182"
+        },
+        {
+            "decision": "Delirium/Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14940,
+            "end_offset": 14956,
+            "annotation_id": "OO_183"
+        },
+        {
+            "decision": "She was mildly delirious during her admission with difficulty with attention.  This is likely related to her ongoing medical issues, as well as pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14958,
+            "end_offset": 15106,
+            "annotation_id": "OO_184"
+        },
+        {
+            "decision": "olanzapine 2.5mg po at night",
+            "category": "Category 5: Drug related",
+            "start_offset": 15131,
+            "end_offset": 15159,
+            "annotation_id": "OO_185"
+        },
+        {
+            "decision": "Ativan as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 15186,
+            "end_offset": 15202,
+            "annotation_id": "OO_186"
+        },
+        {
+            "decision": "She continued to be anxious",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15205,
+            "end_offset": 15232,
+            "annotation_id": "OO_187"
+        },
+        {
+            "decision": "She was following by primary care and her primary oncologist.",
+            "category": "Category 1: Contact related",
+            "start_offset": 15384,
+            "end_offset": 15444,
+            "annotation_id": "OO_188"
+        },
+        {
+            "decision": "delirium ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15547,
+            "end_offset": 15555,
+            "annotation_id": "OO_189"
+        },
+        {
+            "decision": "Pending studies: TSH, blood culture, pleural fluid culture, cytology, beta2 transferrin and PEP",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 15663,
+            "end_offset": 15758,
+            "annotation_id": "OO_190"
+        },
+        {
+            "decision": "Needs neurosurgical/ortho-spine followup for her wound in 2 weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 15761,
+            "end_offset": 15826,
+            "annotation_id": "OO_191"
+        },
+        {
+            "decision": "It has continued to drain serous fluid requiring multiple changes per day",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15829,
+            "end_offset": 15902,
+            "annotation_id": "OO_192"
+        },
+        {
+            "decision": "anastrozole 1 mg Tablet 1 Tablet(s) by mouth once a day (Not Taking as Prescribed: no prescription now so not taking)",
+            "category": "Category 5: Drug related",
+            "start_offset": 15933,
+            "end_offset": 16049,
+            "annotation_id": "OO_193"
+        },
+        {
+            "decision": "levothyroxine 50 mcg Tablet 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 16053,
+            "end_offset": 16112,
+            "annotation_id": "OO_194"
+        },
+        {
+            "decision": "lorazepam [Ativan] 0.5 mg Tablet [**1-15**] Tablet(s) by mouth three times a day as needed for anxiety",
+            "category": "Category 5: Drug related",
+            "start_offset": 16115,
+            "end_offset": 16217,
+            "annotation_id": "OO_195"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16210,
+            "end_offset": 16217,
+            "annotation_id": "OO_196"
+        },
+        {
+            "decision": "ondansetron 4 mg Tablet, Rapid Dissolve 1 Tablet(s) by mouth every 8 hours as needed for nausea",
+            "category": "Category 5: Drug related",
+            "start_offset": 16220,
+            "end_offset": 16315,
+            "annotation_id": "OO_197"
+        },
+        {
+            "decision": "oxycodone 5 mg Tablet 1 Tablet(s) by mouth every 4 hours as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 16318,
+            "end_offset": 16393,
+            "annotation_id": "OO_198"
+        },
+        {
+            "decision": "oxycodone [OxyContin] 10 mg Tablet Extended Release 12 hr 2 Tablet(s) by mouth twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 16396,
+            "end_offset": 16486,
+            "annotation_id": "OO_199"
+        },
+        {
+            "decision": "prochlorperazine maleate 10 mg Tablet 1 Tablet(s) by mouth every six (6) hours as needed for nausea/vomiting",
+            "category": "Category 5: Drug related",
+            "start_offset": 16489,
+            "end_offset": 16597,
+            "annotation_id": "OO_200"
+        },
+        {
+            "decision": "simvastatin 10 mg Tablet 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 16600,
+            "end_offset": 16656,
+            "annotation_id": "OO_201"
+        },
+        {
+            "decision": "valsartan [Diovan] 160 mg Tablet 1 Tablet(s) by mouth once a day hold for bp < 110",
+            "category": "Category 5: Drug related",
+            "start_offset": 16659,
+            "end_offset": 16741,
+            "annotation_id": "OO_202"
+        },
+        {
+            "decision": "hold for bp < 110",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16724,
+            "end_offset": 16741,
+            "annotation_id": "OO_203"
+        },
+        {
+            "decision": "acetaminophen 325 mg Tablet 1 Tablet(s) by mouth every 6 hours (OTC) prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 16744,
+            "end_offset": 16816,
+            "annotation_id": "OO_204"
+        },
+        {
+            "decision": "aspirin 81 mg Tablet, Chewable 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 16819,
+            "end_offset": 16876,
+            "annotation_id": "OO_205"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule 1 Capsule(s) by mouth",
+            "category": "Category 5: Drug related",
+            "start_offset": 16879,
+            "end_offset": 16931,
+            "annotation_id": "OO_206"
+        },
+        {
+            "decision": "anastrozole 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16960,
+            "end_offset": 17019,
+            "annotation_id": "OO_207"
+        },
+        {
+            "decision": "levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17026,
+            "end_offset": 17089,
+            "annotation_id": "OO_208"
+        },
+        {
+            "decision": "lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO every eight (8) hours as needed for anxiety",
+            "category": "Category 5: Drug related",
+            "start_offset": 17095,
+            "end_offset": 17182,
+            "annotation_id": "OO_209"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17175,
+            "end_offset": 17182,
+            "annotation_id": "OO_210"
+        },
+        {
+            "decision": "ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea",
+            "category": "Category 5: Drug related",
+            "start_offset": 17187,
+            "end_offset": 17306,
+            "annotation_id": "OO_211"
+        },
+        {
+            "decision": "oxycodone 60 mg Tablet Extended Release 12 hr Sig: One (1) Tablet Extended Release 12 hr PO Q8H (every 8 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17311,
+            "end_offset": 17421,
+            "annotation_id": "OO_212"
+        },
+        {
+            "decision": "hydromorphone 2 mg Tablet Sig: 3-5 Tablets PO Q3H (every 3 hours) as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 17427,
+            "end_offset": 17511,
+            "annotation_id": "OO_213"
+        },
+        {
+            "decision": "prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea",
+            "category": "Category 5: Drug related",
+            "start_offset": 17516,
+            "end_offset": 17617,
+            "annotation_id": "OO_214"
+        },
+        {
+            "decision": "simvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 17622,
+            "end_offset": 17680,
+            "annotation_id": "OO_215"
+        },
+        {
+            "decision": "docusate sodium 100 mg Tablet Sig: One (1) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17685,
+            "end_offset": 17749,
+            "annotation_id": "OO_216"
+        },
+        {
+            "decision": "senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 17755,
+            "end_offset": 17844,
+            "annotation_id": "OO_217"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17832,
+            "end_offset": 17844,
+            "annotation_id": "OO_218"
+        },
+        {
+            "decision": "aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17850,
+            "end_offset": 17926,
+            "annotation_id": "OO_219"
+        },
+        {
+            "decision": "acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17933,
+            "end_offset": 18002,
+            "annotation_id": "OO_220"
+        },
+        {
+            "decision": "lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO BID (2 times a day): Hold for loose stool",
+            "category": "Category 5: Drug related",
+            "start_offset": 18009,
+            "end_offset": 18104,
+            "annotation_id": "OO_221"
+        },
+        {
+            "decision": "Hold for loose stool",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18084,
+            "end_offset": 18104,
+            "annotation_id": "OO_222"
+        },
+        {
+            "decision": "insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18188,
+            "end_offset": 18196,
+            "annotation_id": "OO_223"
+        },
+        {
+            "decision": "olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia: Patient may refuse",
+            "category": "Category 5: Drug related",
+            "start_offset": 18110,
+            "end_offset": 18216,
+            "annotation_id": "OO_224"
+        },
+        {
+            "decision": "enoxaparin 30 mg/0.3 mL Syringe Sig: Thirty (30) mg Subcutaneous Q12H (every 12 hours): For prophylaxis",
+            "category": "Category 5: Drug related",
+            "start_offset": 18222,
+            "end_offset": 18325,
+            "annotation_id": "OO_225"
+        },
+        {
+            "decision": "sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 5 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 18331,
+            "end_offset": 18432,
+            "annotation_id": "OO_226"
+        },
+        {
+            "decision": "ipratropium bromide 0.02 % Solution Sig: One (1) nebulization Inhalation Q6H (every 6 hours) as needed for wheeze.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18438,
+            "end_offset": 18551,
+            "annotation_id": "OO_227"
+        },
+        {
+            "decision": "Urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18725,
+            "end_offset": 18748,
+            "annotation_id": "OO_228"
+        },
+        {
+            "decision": "Pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18749,
+            "end_offset": 18766,
+            "annotation_id": "OO_229"
+        },
+        {
+            "decision": "Wound fluid collections",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18767,
+            "end_offset": 18790,
+            "annotation_id": "OO_230"
+        },
+        {
+            "decision": "Metastatic renal cell carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18791,
+            "end_offset": 18822,
+            "annotation_id": "OO_231"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18845,
+            "end_offset": 18857,
+            "annotation_id": "OO_232"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18858,
+            "end_offset": 18862,
+            "annotation_id": "OO_233"
+        },
+        {
+            "decision": "Activity Status: Out of Bed with assistance to chair or wheelchair.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18886,
+            "end_offset": 18952,
+            "annotation_id": "OO_234"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18954,
+            "end_offset": 18999,
+            "annotation_id": "OO_235"
+        },
+        {
+            "decision": "Mental Status: Confused - sometimes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19001,
+            "end_offset": 19036,
+            "annotation_id": "OO_236"
+        },
+        {
+            "decision": "fevers, confusion and low blood pressures felt to be related to an urinary tract infection (UTI)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19105,
+            "end_offset": 19200,
+            "annotation_id": "OO_237"
+        },
+        {
+            "decision": "You were admitted to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 19204,
+            "end_offset": 19232,
+            "annotation_id": "OO_238"
+        },
+        {
+            "decision": "were given antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 19237,
+            "end_offset": 19259,
+            "annotation_id": "OO_239"
+        },
+        {
+            "decision": "UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19269,
+            "end_offset": 19272,
+            "annotation_id": "OO_240"
+        },
+        {
+            "decision": "Your oxygen level was also low on admission, but improved prior to discharge.  It was felt to be due to some fluid around your lungs, as well as the cancer in your lungs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19302,
+            "end_offset": 19471,
+            "annotation_id": "OO_241"
+        },
+        {
+            "decision": "You had a procedure where fluid was removed around your lungs.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19474,
+            "end_offset": 19535,
+            "annotation_id": "OO_242"
+        },
+        {
+            "decision": "You were also evaluated by the orthopedic surgeons and neurosurgeons ",
+            "category": "Category 1: Contact related",
+            "start_offset": 19538,
+            "end_offset": 19606,
+            "annotation_id": "OO_243"
+        },
+        {
+            "decision": "concern about leakage from your wound.  It is still leaking significantly and you have labs that are pending to determine the source of leakage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19614,
+            "end_offset": 19757,
+            "annotation_id": "OO_244"
+        },
+        {
+            "decision": "Your neurosurgery team will follow-up on these studies.",
+            "category": "Category 1: Contact related",
+            "start_offset": 19760,
+            "end_offset": 19814,
+            "annotation_id": "OO_245"
+        },
+        {
+            "decision": "ADD Bactrim 1 DS tab by mouth twice daily for 5 more days",
+            "category": "Category 5: Drug related",
+            "start_offset": 19846,
+            "end_offset": 19903,
+            "annotation_id": "OO_246"
+        },
+        {
+            "decision": "INCREASED oxyCONTIN to 60mg by mouth every 8 hours",
+            "category": "Category 5: Drug related",
+            "start_offset": 19904,
+            "end_offset": 19954,
+            "annotation_id": "OO_247"
+        },
+        {
+            "decision": "ADD olazapine 2.5mg by mouth at bedtime as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 19955,
+            "end_offset": 20004,
+            "annotation_id": "OO_248"
+        },
+        {
+            "decision": "ADD enoxaparin  30 mg SC every 12 hours for prophylaxis",
+            "category": "Category 5: Drug related",
+            "start_offset": 20005,
+            "end_offset": 20060,
+            "annotation_id": "OO_249"
+        },
+        {
+            "decision": "When: FRIDAY [**2158-11-10**] at 9:30 AM With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 3736**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage *You should discuss with him if you need a separate appointment with Dr. [**Last Name (STitle) **]*",
+            "category": "Category 1: Contact related",
+            "start_offset": 20158,
+            "end_offset": 20516,
+            "annotation_id": "OO_250"
+        }
+    ]
+}

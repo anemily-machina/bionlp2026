@@ -1,0 +1,1357 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29603_141773_33249",
+    "annotations": [
+        {
+            "decision": "abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 230,
+            "end_offset": 244,
+            "annotation_id": "JZ_000"
+        },
+        {
+            "decision": "VP shunt removal ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 284,
+            "end_offset": 300,
+            "annotation_id": "JZ_001"
+        },
+        {
+            "decision": "Endotracheal intubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 316,
+            "end_offset": 339,
+            "annotation_id": "JZ_002"
+        },
+        {
+            "decision": "non-small cell lung cancer metastatic to the brain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 397,
+            "end_offset": 447,
+            "annotation_id": "JZ_003"
+        },
+        {
+            "decision": "VP shunt ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 453,
+            "end_offset": 461,
+            "annotation_id": "JZ_004"
+        },
+        {
+            "decision": "obstructive hydrocephalus who p/w abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 473,
+            "end_offset": 521,
+            "annotation_id": "JZ_005"
+        },
+        {
+            "decision": "levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 706,
+            "end_offset": 718,
+            "annotation_id": "JZ_006"
+        },
+        {
+            "decision": "metronidazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 723,
+            "end_offset": 736,
+            "annotation_id": "JZ_007"
+        },
+        {
+            "decision": "ceftriaxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 750,
+            "end_offset": 761,
+            "annotation_id": "JZ_008"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 766,
+            "end_offset": 776,
+            "annotation_id": "JZ_009"
+        },
+        {
+            "decision": "narcotic therapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 859,
+            "end_offset": 875,
+            "annotation_id": "JZ_010"
+        },
+        {
+            "decision": "severe abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 885,
+            "end_offset": 906,
+            "annotation_id": "JZ_011"
+        },
+        {
+            "decision": "abdominal CT showed a 3 cm RUQ fluid collection at the distal tip of the VP shunt",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 911,
+            "end_offset": 992,
+            "annotation_id": "JZ_012"
+        },
+        {
+            "decision": "ultrasound-guided aspiration of this fluid collection on [**2181-8-4**] with drainage of purulent material",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1007,
+            "end_offset": 1113,
+            "annotation_id": "JZ_013"
+        },
+        {
+            "decision": "RUQ drain ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1117,
+            "end_offset": 1126,
+            "annotation_id": "JZ_014"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] for neurosurgical evaluation",
+            "category": "Category 1: Contact related",
+            "start_offset": 1153,
+            "end_offset": 1215,
+            "annotation_id": "JZ_015"
+        },
+        {
+            "decision": "VP shunt infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1238,
+            "end_offset": 1256,
+            "annotation_id": "JZ_016"
+        },
+        {
+            "decision": "NSCLC met to brain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1282,
+            "end_offset": 1300,
+            "annotation_id": "JZ_017"
+        },
+        {
+            "decision": "s/p whole brain XRT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1326,
+            "end_offset": 1345,
+            "annotation_id": "JZ_018"
+        },
+        {
+            "decision": "avastin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1347,
+            "end_offset": 1354,
+            "annotation_id": "JZ_019"
+        },
+        {
+            "decision": "taxol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1356,
+            "end_offset": 1361,
+            "annotation_id": "JZ_020"
+        },
+        {
+            "decision": "carboplatin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1363,
+            "end_offset": 1374,
+            "annotation_id": "JZ_021"
+        },
+        {
+            "decision": "s/p resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1398,
+            "end_offset": 1411,
+            "annotation_id": "JZ_022"
+        },
+        {
+            "decision": "parietal lesion c/b obstructive hydrocephalus ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1412,
+            "end_offset": 1457,
+            "annotation_id": "JZ_023"
+        },
+        {
+            "decision": "VP shunt placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1461,
+            "end_offset": 1479,
+            "annotation_id": "JZ_024"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1480,
+            "end_offset": 1484,
+            "annotation_id": "JZ_025"
+        },
+        {
+            "decision": "BPH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1485,
+            "end_offset": 1488,
+            "annotation_id": "JZ_026"
+        },
+        {
+            "decision": "diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1489,
+            "end_offset": 1503,
+            "annotation_id": "JZ_027"
+        },
+        {
+            "decision": "SBO",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1504,
+            "end_offset": 1507,
+            "annotation_id": "JZ_028"
+        },
+        {
+            "decision": "s/p ex-lap ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1508,
+            "end_offset": 1518,
+            "annotation_id": "JZ_029"
+        },
+        {
+            "decision": "s/p tonsillectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1531,
+            "end_offset": 1548,
+            "annotation_id": "JZ_030"
+        },
+        {
+            "decision": "General: lying in bed with eyes closed and intermittently moaning",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2079,
+            "end_offset": 2144,
+            "annotation_id": "JZ_031"
+        },
+        {
+            "decision": "HEENT: no scleral icterus, dry mucous membranes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2146,
+            "end_offset": 2193,
+            "annotation_id": "JZ_032"
+        },
+        {
+            "decision": "Neck: supple, no cervical/supraclavicular lymphadenopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2195,
+            "end_offset": 2252,
+            "annotation_id": "JZ_033"
+        },
+        {
+            "decision": "Chest: scattered rhonchi and loud upper airway sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2254,
+            "end_offset": 2307,
+            "annotation_id": "JZ_034"
+        },
+        {
+            "decision": "CV: regular rate/rhythm, normal s1s2, no murmurs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2309,
+            "end_offset": 2357,
+            "annotation_id": "JZ_035"
+        },
+        {
+            "decision": "Abdomen: soft, mildly distended, no guarding but significantly tender to palpation especially on right side; (+) rebound tenderness; normal bowel sounds; (+) upper right flank drain with whitish liquid drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2359,
+            "end_offset": 2569,
+            "annotation_id": "JZ_036"
+        },
+        {
+            "decision": "Extremities: warm, no edema, 2+ PT pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2571,
+            "end_offset": 2612,
+            "annotation_id": "JZ_037"
+        },
+        {
+            "decision": "Skin:  no jaundice or rashes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2614,
+            "end_offset": 2642,
+            "annotation_id": "JZ_038"
+        },
+        {
+            "decision": "Neurologic:  alert, disoriented and inattentive, intermittently following commands; CN 2-12 intact, though exam limited by poor attentiveness/cooperation; 4/5 strength in bilateral deltoids, biceps, triceps, wrist extensors, hip flexors/extensors, ankle flexors/extensors; 2+ biceps reflexes bilaterally; unable to elicit patellar reflexes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2644,
+            "end_offset": 2983,
+            "annotation_id": "JZ_039"
+        },
+        {
+            "decision": "MRI HEAD W/ CONRAST",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3014,
+            "end_offset": 3033,
+            "annotation_id": "JZ_040"
+        },
+        {
+            "decision": "craniotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3091,
+            "end_offset": 3101,
+            "annotation_id": "JZ_041"
+        },
+        {
+            "decision": "changes from a right frontal and left parietal craniotomy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3044,
+            "end_offset": 3101,
+            "annotation_id": "JZ_042"
+        },
+        {
+            "decision": "parietal craniotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3175,
+            "end_offset": 3194,
+            "annotation_id": "JZ_043"
+        },
+        {
+            "decision": "slight decrease in the soft tissue swelling overlying the left parietal craniotomy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3112,
+            "end_offset": 3194,
+            "annotation_id": "JZ_044"
+        },
+        {
+            "decision": "The soft tissue overlying the right frontal cranitomy is stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3196,
+            "end_offset": 3259,
+            "annotation_id": "JZ_045"
+        },
+        {
+            "decision": "right frontal ventricular catheter with its tip just past the left frontal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3272,
+            "end_offset": 3346,
+            "annotation_id": "JZ_046"
+        },
+        {
+            "decision": "There is a postoperative cavity in the left parietal lobe with blood products within it, which appears to be relatively stable in terms of size and mild associated enhancement",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3375,
+            "end_offset": 3550,
+            "annotation_id": "JZ_047"
+        },
+        {
+            "decision": "Enhancing lesion in the right cerebellum appears to be stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3552,
+            "end_offset": 3613,
+            "annotation_id": "JZ_048"
+        },
+        {
+            "decision": "No new enhancing foci are seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3615,
+            "end_offset": 3645,
+            "annotation_id": "JZ_049"
+        },
+        {
+            "decision": "Previously noted subdural fluid collections and dural enhancement have decreased to a large degree",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3647,
+            "end_offset": 3745,
+            "annotation_id": "JZ_050"
+        },
+        {
+            "decision": "There has been progression of confluent periventricular hyperintensity, which may reflect post-treatment sequela",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3747,
+            "end_offset": 3859,
+            "annotation_id": "JZ_051"
+        },
+        {
+            "decision": "The ventricles are mildly enlarged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3861,
+            "end_offset": 3895,
+            "annotation_id": "JZ_052"
+        },
+        {
+            "decision": "Postoperative changes, no new enhancing foci are seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4087,
+            "end_offset": 4140,
+            "annotation_id": "JZ_053"
+        },
+        {
+            "decision": "Stable enhancement in the right cerebellum and in the left parietal operative bed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4142,
+            "end_offset": 4223,
+            "annotation_id": "JZ_054"
+        },
+        {
+            "decision": "Progression of white matter hyperintensity which may reflect radiation sequela",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4225,
+            "end_offset": 4303,
+            "annotation_id": "JZ_055"
+        },
+        {
+            "decision": "There are low lung volumes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4326,
+            "end_offset": 4352,
+            "annotation_id": "JZ_056"
+        },
+        {
+            "decision": "There is no pneumothorax or pleural effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4354,
+            "end_offset": 4398,
+            "annotation_id": "JZ_057"
+        },
+        {
+            "decision": "There is atelectasis in the right base",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4400,
+            "end_offset": 4438,
+            "annotation_id": "JZ_058"
+        },
+        {
+            "decision": "Ill-defined opacity in the right apex",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4440,
+            "end_offset": 4477,
+            "annotation_id": "JZ_059"
+        },
+        {
+            "decision": "lung cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4513,
+            "end_offset": 4524,
+            "annotation_id": "JZ_060"
+        },
+        {
+            "decision": "Cardiomediastinal contours are unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4526,
+            "end_offset": 4569,
+            "annotation_id": "JZ_061"
+        },
+        {
+            "decision": "No evidence of acute cardiopulmonary abnormalities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4584,
+            "end_offset": 4634,
+            "annotation_id": "JZ_062"
+        },
+        {
+            "decision": "Negative examination for pulmonary embolism",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4666,
+            "end_offset": 4709,
+            "annotation_id": "JZ_063"
+        },
+        {
+            "decision": "Increase in size of the previously described spiculated lesion in the right upper lobe, now extending to the pleura",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4714,
+            "end_offset": 4829,
+            "annotation_id": "JZ_064"
+        },
+        {
+            "decision": "New lung nodules ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4834,
+            "end_offset": 4850,
+            "annotation_id": "JZ_065"
+        },
+        {
+            "decision": "Atelectasis of the right lower lobe, associated with effusion; no pleural nodule",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4874,
+            "end_offset": 4954,
+            "annotation_id": "JZ_066"
+        },
+        {
+            "decision": "Bronchomalacia of the right main bronchus and intermedius bronchus, evoked by expiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4959,
+            "end_offset": 5047,
+            "annotation_id": "JZ_067"
+        },
+        {
+            "decision": "No evidence of intracranial abscess or VP shunt infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5089,
+            "end_offset": 5146,
+            "annotation_id": "JZ_068"
+        },
+        {
+            "decision": "Known enhancement in the left cerebellum and at the left parietal surgical site",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5235,
+            "end_offset": 5314,
+            "annotation_id": "JZ_069"
+        },
+        {
+            "decision": "Increased hemispheric white matter hypodensity without mass effect",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5404,
+            "end_offset": 5470,
+            "annotation_id": "JZ_070"
+        },
+        {
+            "decision": "radiation therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5490,
+            "end_offset": 5507,
+            "annotation_id": "JZ_071"
+        },
+        {
+            "decision": "status post right VP shunt removal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5622,
+            "end_offset": 5656,
+            "annotation_id": "JZ_072"
+        },
+        {
+            "decision": "small locule of air noted non-dependently within the left frontal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5664,
+            "end_offset": 5729,
+            "annotation_id": "JZ_073"
+        },
+        {
+            "decision": "post-surgical intraventricular hemorrhage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5797,
+            "end_offset": 5838,
+            "annotation_id": "JZ_074"
+        },
+        {
+            "decision": "stable appearance to the left parietal surgical resection bed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5971,
+            "end_offset": 6032,
+            "annotation_id": "JZ_075"
+        },
+        {
+            "decision": "Small extra-axial fluid collections are unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6034,
+            "end_offset": 6083,
+            "annotation_id": "JZ_076"
+        },
+        {
+            "decision": "Subcutaneous emphysema and a mild amount of edema ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6085,
+            "end_offset": 6134,
+            "annotation_id": "JZ_077"
+        },
+        {
+            "decision": "Mild mucosal thickening within the ethmoid air cells and sphenoid sinus is stable as is partial opacification of the mastoid air cells bilaterally.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6182,
+            "end_offset": 6328,
+            "annotation_id": "JZ_078"
+        },
+        {
+            "decision": "Trace amount of blood within the left occipital ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6346,
+            "end_offset": 6393,
+            "annotation_id": "JZ_079"
+        },
+        {
+            "decision": "no significant interval change status post VP shunt removal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6432,
+            "end_offset": 6491,
+            "annotation_id": "JZ_080"
+        },
+        {
+            "decision": "There is an oblique fracture of the proximal shaft of the humerus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6538,
+            "end_offset": 6603,
+            "annotation_id": "JZ_081"
+        },
+        {
+            "decision": "There is callus formation at the fracture site, although the fracture line is partially visible",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6605,
+            "end_offset": 6700,
+            "annotation_id": "JZ_082"
+        },
+        {
+            "decision": "Fracture fragments are not significantly displaced",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6702,
+            "end_offset": 6752,
+            "annotation_id": "JZ_083"
+        },
+        {
+            "decision": "Bones are osteopenic",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6754,
+            "end_offset": 6774,
+            "annotation_id": "JZ_084"
+        },
+        {
+            "decision": "There is no evidence of dislocation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6776,
+            "end_offset": 6811,
+            "annotation_id": "JZ_085"
+        },
+        {
+            "decision": "Mild degenerative arthritic change is present in the shoulder joint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6813,
+            "end_offset": 6880,
+            "annotation_id": "JZ_086"
+        },
+        {
+            "decision": "PICC line ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6884,
+            "end_offset": 6893,
+            "annotation_id": "JZ_087"
+        },
+        {
+            "decision": "Healing fracture proximal humerus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6919,
+            "end_offset": 6952,
+            "annotation_id": "JZ_088"
+        },
+        {
+            "decision": "STAPHYLOCOCCUS, COAGULASE NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8697,
+            "end_offset": 8731,
+            "annotation_id": "JZ_089"
+        },
+        {
+            "decision": "STAPH AUREUS COAG +.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8739,
+            "end_offset": 8756,
+            "annotation_id": "JZ_090"
+        },
+        {
+            "decision": "CLINDAMYCIN-----------<=0.25 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9277,
+            "end_offset": 9307,
+            "annotation_id": "JZ_091"
+        },
+        {
+            "decision": "ERYTHROMYCIN----------<=0.25 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9308,
+            "end_offset": 9338,
+            "annotation_id": "JZ_092"
+        },
+        {
+            "decision": "GENTAMICIN------------ <=0.5 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9339,
+            "end_offset": 9369,
+            "annotation_id": "JZ_093"
+        },
+        {
+            "decision": "LEVOFLOXACIN----------<=0.12 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9370,
+            "end_offset": 9400,
+            "annotation_id": "JZ_094"
+        },
+        {
+            "decision": "OXACILLIN-------------   0.5 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9401,
+            "end_offset": 9431,
+            "annotation_id": "JZ_095"
+        },
+        {
+            "decision": "PENICILLIN G---------- =>0.5 R",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9432,
+            "end_offset": 9462,
+            "annotation_id": "JZ_096"
+        },
+        {
+            "decision": "TRIMETHOPRIM/SULFA---- <=0.5 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9463,
+            "end_offset": 9493,
+            "annotation_id": "JZ_097"
+        },
+        {
+            "decision": "WOUND CULTURE (Final [**2181-8-11**]):       LACTOBACILLUS SPECIES. . [**2181-8-16**] 2:44 pm PERITONEAL FLUID      PERITONEAL FLUID.     GRAM STAIN (Final [**2181-8-16**]):       1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.       NO MICROORGANISMS SEEN.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9632,
+            "end_offset": 9900,
+            "annotation_id": "JZ_098"
+        },
+        {
+            "decision": "FLUID CULTURE (Preliminary):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10043,
+            "end_offset": 10084,
+            "annotation_id": "JZ_099"
+        },
+        {
+            "decision": "Hypercapnic respiratory failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10183,
+            "end_offset": 10214,
+            "annotation_id": "JZ_100"
+        },
+        {
+            "decision": "Secondary to COPD exacerbation in the setting of narcotic analgesia and aspiration pneumonitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10217,
+            "end_offset": 10311,
+            "annotation_id": "JZ_101"
+        },
+        {
+            "decision": "mechanical ventilation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10326,
+            "end_offset": 10348,
+            "annotation_id": "JZ_102"
+        },
+        {
+            "decision": "noninvasive ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10361,
+            "end_offset": 10384,
+            "annotation_id": "JZ_103"
+        },
+        {
+            "decision": "high-dose corticosteroid taper",
+            "category": "Category 5: Drug related",
+            "start_offset": 10386,
+            "end_offset": 10416,
+            "annotation_id": "JZ_104"
+        },
+        {
+            "decision": "nebulized bronchodilators",
+            "category": "Category 5: Drug related",
+            "start_offset": 10418,
+            "end_offset": 10443,
+            "annotation_id": "JZ_105"
+        },
+        {
+            "decision": "incentive spirometry",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10445,
+            "end_offset": 10465,
+            "annotation_id": "JZ_106"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 10471,
+            "end_offset": 10482,
+            "annotation_id": "JZ_107"
+        },
+        {
+            "decision": "Ambulatory oxygenation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10493,
+            "end_offset": 10515,
+            "annotation_id": "JZ_108"
+        },
+        {
+            "decision": "physical therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10530,
+            "end_offset": 10546,
+            "annotation_id": "JZ_109"
+        },
+        {
+            "decision": "VP shunt infection ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10596,
+            "end_offset": 10614,
+            "annotation_id": "JZ_110"
+        },
+        {
+            "decision": "indwelling catheter",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10656,
+            "end_offset": 10675,
+            "annotation_id": "JZ_111"
+        },
+        {
+            "decision": "broad-spectrum ABX",
+            "category": "Category 5: Drug related",
+            "start_offset": 10706,
+            "end_offset": 10724,
+            "annotation_id": "JZ_112"
+        },
+        {
+            "decision": "VP shunt was removed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10733,
+            "end_offset": 10753,
+            "annotation_id": "JZ_113"
+        },
+        {
+            "decision": "Culture grew MSSA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10770,
+            "end_offset": 10787,
+            "annotation_id": "JZ_114"
+        },
+        {
+            "decision": "vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10809,
+            "end_offset": 10819,
+            "annotation_id": "JZ_115"
+        },
+        {
+            "decision": "right brachial PICC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10872,
+            "end_offset": 10891,
+            "annotation_id": "JZ_116"
+        },
+        {
+            "decision": "Mental status progressively improved and the patient did not have any signs or symptoms of residual neurological deficit.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10931,
+            "end_offset": 11051,
+            "annotation_id": "JZ_117"
+        },
+        {
+            "decision": "RUQ fluid collection ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11056,
+            "end_offset": 11076,
+            "annotation_id": "JZ_118"
+        },
+        {
+            "decision": "Ultrasound-guided drainage of this collection at the OSH reportedly revealed purulent material",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11079,
+            "end_offset": 11173,
+            "annotation_id": "JZ_119"
+        },
+        {
+            "decision": "infected pseudocyst ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11190,
+            "end_offset": 11209,
+            "annotation_id": "JZ_120"
+        },
+        {
+            "decision": "drain placed at the OSH was removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11264,
+            "end_offset": 11299,
+            "annotation_id": "JZ_121"
+        },
+        {
+            "decision": "Peritoneal fluid was not consistent with peritonitis and culture grew lactobacillus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11320,
+            "end_offset": 11403,
+            "annotation_id": "JZ_122"
+        },
+        {
+            "decision": "ceftriaxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11434,
+            "end_offset": 11445,
+            "annotation_id": "JZ_123"
+        },
+        {
+            "decision": "flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11450,
+            "end_offset": 11456,
+            "annotation_id": "JZ_124"
+        },
+        {
+            "decision": "His abdominal symptoms and exam progressively improved prior to discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11509,
+            "end_offset": 11582,
+            "annotation_id": "JZ_125"
+        },
+        {
+            "decision": "Metastatic NSCLC ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11587,
+            "end_offset": 11603,
+            "annotation_id": "JZ_126"
+        },
+        {
+            "decision": "stable metastatic disease in the cerebellum",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11644,
+            "end_offset": 11687,
+            "annotation_id": "JZ_127"
+        },
+        {
+            "decision": "Seen in consultation by the palliative care service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11689,
+            "end_offset": 11740,
+            "annotation_id": "JZ_128"
+        },
+        {
+            "decision": "The patient has scheduled follow-up with his oncologist 2 weeks after discharge, at which time he is due for a repeat MRI.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11822,
+            "end_offset": 11943,
+            "annotation_id": "JZ_129"
+        },
+        {
+            "decision": "HTN ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11948,
+            "end_offset": 11951,
+            "annotation_id": "JZ_130"
+        },
+        {
+            "decision": "patient did not carry the diagnosis of hypertension prior to admission but had BP 160-180/80-100 in the setting of corticosteroid therapy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11958,
+            "end_offset": 12095,
+            "annotation_id": "JZ_131"
+        },
+        {
+            "decision": "corticosteroid therapy",
+            "category": "Category 5: Drug related",
+            "start_offset": 12073,
+            "end_offset": 12095,
+            "annotation_id": "JZ_132"
+        },
+        {
+            "decision": "started on amlodipine which was uptitrated to 10 mg daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12101,
+            "end_offset": 12158,
+            "annotation_id": "JZ_133"
+        },
+        {
+            "decision": "steroid taper",
+            "category": "Category 5: Drug related",
+            "start_offset": 12233,
+            "end_offset": 12246,
+            "annotation_id": "JZ_134"
+        },
+        {
+            "decision": "amlodipine",
+            "category": "Category 5: Drug related",
+            "start_offset": 12252,
+            "end_offset": 12262,
+            "annotation_id": "JZ_135"
+        },
+        {
+            "decision": "pneumoboots ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12332,
+            "end_offset": 12343,
+            "annotation_id": "JZ_136"
+        },
+        {
+            "decision": "DVT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12348,
+            "end_offset": 12351,
+            "annotation_id": "JZ_137"
+        },
+        {
+            "decision": "PPI ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12361,
+            "end_offset": 12364,
+            "annotation_id": "JZ_138"
+        },
+        {
+            "decision": "ISS",
+            "category": "Category 5: Drug related",
+            "start_offset": 12369,
+            "end_offset": 12372,
+            "annotation_id": "JZ_139"
+        },
+        {
+            "decision": "steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 12382,
+            "end_offset": 12390,
+            "annotation_id": "JZ_140"
+        },
+        {
+            "decision": "Hydromorphone 2mg IM/SC q4h prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12445,
+            "end_offset": 12476,
+            "annotation_id": "JZ_141"
+        },
+        {
+            "decision": "Ondansetron 4 mg IV q4h prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12478,
+            "end_offset": 12505,
+            "annotation_id": "JZ_142"
+        },
+        {
+            "decision": "Heparin SC 5000 units TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12507,
+            "end_offset": 12532,
+            "annotation_id": "JZ_143"
+        },
+        {
+            "decision": "Ceftriaxone [**2172**] mg IV q12h ([**8-3**] - )",
+            "category": "Category 5: Drug related",
+            "start_offset": 12534,
+            "end_offset": 12578,
+            "annotation_id": "JZ_144"
+        },
+        {
+            "decision": "Vancomycin 1000 mg IV q12h ([**8-3**] - )",
+            "category": "Category 5: Drug related",
+            "start_offset": 12584,
+            "end_offset": 12621,
+            "annotation_id": "JZ_145"
+        },
+        {
+            "decision": "Fluticasone/salmeterol 250/50 1 puff [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12648,
+            "end_offset": 12701,
+            "annotation_id": "JZ_146"
+        },
+        {
+            "decision": "Fluticasone nasal 50 mcg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12703,
+            "end_offset": 12744,
+            "annotation_id": "JZ_147"
+        },
+        {
+            "decision": "Esomeprazole 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12746,
+            "end_offset": 12770,
+            "annotation_id": "JZ_148"
+        },
+        {
+            "decision": "Multivitamin once daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12772,
+            "end_offset": 12795,
+            "annotation_id": "JZ_149"
+        },
+        {
+            "decision": "Calcium citrate once daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12797,
+            "end_offset": 12823,
+            "annotation_id": "JZ_150"
+        },
+        {
+            "decision": "Folic acid 1 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12825,
+            "end_offset": 12846,
+            "annotation_id": "JZ_151"
+        },
+        {
+            "decision": "Thiamine 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12848,
+            "end_offset": 12869,
+            "annotation_id": "JZ_152"
+        },
+        {
+            "decision": "Levetiracetam 1000 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12871,
+            "end_offset": 12909,
+            "annotation_id": "JZ_153"
+        },
+        {
+            "decision": "Polyethylene glycol once daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12911,
+            "end_offset": 12941,
+            "annotation_id": "JZ_154"
+        },
+        {
+            "decision": "Metoclopromide 10 mg four times daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12943,
+            "end_offset": 12980,
+            "annotation_id": "JZ_155"
+        },
+        {
+            "decision": "Megace 625 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12982,
+            "end_offset": 13001,
+            "annotation_id": "JZ_156"
+        },
+        {
+            "decision": "Prochlorperazine 10 mg prn (rarely takes)",
+            "category": "Category 5: Drug related",
+            "start_offset": 13003,
+            "end_offset": 13043,
+            "annotation_id": "JZ_157"
+        },
+        {
+            "decision": "Lorazepam 1 mg prn (very rarely takes)",
+            "category": "Category 5: Drug related",
+            "start_offset": 13046,
+            "end_offset": 13083,
+            "annotation_id": "JZ_158"
+        },
+        {
+            "decision": "Loratadine/pseudoephedrine prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 13086,
+            "end_offset": 13116,
+            "annotation_id": "JZ_159"
+        },
+        {
+            "decision": "Tiotropium 1 puff daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13118,
+            "end_offset": 13141,
+            "annotation_id": "JZ_160"
+        },
+        {
+            "decision": "Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13170,
+            "end_offset": 13239,
+            "annotation_id": "JZ_161"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13245,
+            "end_offset": 13318,
+            "annotation_id": "JZ_162"
+        },
+        {
+            "decision": "Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): hold for sbp<100, hr<55.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13324,
+            "end_offset": 13408,
+            "annotation_id": "JZ_163"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.02 % Solution Sig: One (1) INH Inhalation Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13413,
+            "end_offset": 13495,
+            "annotation_id": "JZ_164"
+        },
+        {
+            "decision": "Fentanyl 12 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13501,
+            "end_offset": 13589,
+            "annotation_id": "JZ_165"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13595,
+            "end_offset": 13712,
+            "annotation_id": "JZ_166"
+        },
+        {
+            "decision": "Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) INH Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13718,
+            "end_offset": 13878,
+            "annotation_id": "JZ_167"
+        },
+        {
+            "decision": "Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 1 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13883,
+            "end_offset": 13954,
+            "annotation_id": "JZ_168"
+        },
+        {
+            "decision": "Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 3 days: [**Date range (1) 14790**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 13959,
+            "end_offset": 14058,
+            "annotation_id": "JZ_169"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14064,
+            "end_offset": 14150,
+            "annotation_id": "JZ_170"
+        },
+        {
+            "decision": "Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14156,
+            "end_offset": 14289,
+            "annotation_id": "JZ_171"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) puff Inhalation twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14295,
+            "end_offset": 14391,
+            "annotation_id": "JZ_172"
+        },
+        {
+            "decision": "Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) spray Nasal twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14397,
+            "end_offset": 14480,
+            "annotation_id": "JZ_173"
+        },
+        {
+            "decision": "Multivitamin     Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14486,
+            "end_offset": 14545,
+            "annotation_id": "JZ_174"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14552,
+            "end_offset": 14608,
+            "annotation_id": "JZ_175"
+        },
+        {
+            "decision": "Hypercapnic respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14742,
+            "end_offset": 14773,
+            "annotation_id": "JZ_176"
+        },
+        {
+            "decision": "Ventriculoperitoneal shunt infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14777,
+            "end_offset": 14813,
+            "annotation_id": "JZ_177"
+        },
+        {
+            "decision": "s/p shunt removal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14814,
+            "end_offset": 14831,
+            "annotation_id": "JZ_178"
+        },
+        {
+            "decision": "Chronic obstructive pulmonary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14835,
+            "end_offset": 14872,
+            "annotation_id": "JZ_179"
+        },
+        {
+            "decision": "Non-small-cell lung cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14876,
+            "end_offset": 14902,
+            "annotation_id": "JZ_180"
+        },
+        {
+            "decision": "asymptomatic with stable vital signs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14926,
+            "end_offset": 14962,
+            "annotation_id": "JZ_181"
+        },
+        {
+            "decision": "infection of your ventriculoperitoneal shunt",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15032,
+            "end_offset": 15076,
+            "annotation_id": "JZ_182"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 15123,
+            "end_offset": 15134,
+            "annotation_id": "JZ_183"
+        },
+        {
+            "decision": "COPD flare ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15152,
+            "end_offset": 15162,
+            "annotation_id": "JZ_184"
+        },
+        {
+            "decision": "mechanical ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15176,
+            "end_offset": 15198,
+            "annotation_id": "JZ_185"
+        },
+        {
+            "decision": "nebulizer breathing treatments ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15200,
+            "end_offset": 15230,
+            "annotation_id": "JZ_186"
+        },
+        {
+            "decision": "steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15247,
+            "end_offset": 15255,
+            "annotation_id": "JZ_187"
+        },
+        {
+            "decision": "Please call the office of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Telephone/Fax (1) 5835**] to arrange a follow-up appointment in [**12-13**] weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 15317,
+            "end_offset": 15500,
+            "annotation_id": "JZ_188"
+        },
+        {
+            "decision": "Please attend your MRI appointment on Monday [**9-3**] at 1:15 PM prior to your appointment with Dr. [**Last Name (STitle) 4253**] at 3:00 PM.",
+            "category": "Category 1: Contact related",
+            "start_offset": 15503,
+            "end_offset": 15644,
+            "annotation_id": "JZ_189"
+        },
+        {
+            "decision": "Please call your physician or return to the Emergency Department if you experience fever, chills, sweats, dizziness, lightheadedness, headache, confusion, aversion to light, changes in vision, chest pain, cough, shortness of breath, back pain, abdominal pain, vomiting, bloody or dark stools, leg pain or swelling, numbness, weakness, tingling, or falls.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15648,
+            "end_offset": 16001,
+            "annotation_id": "JZ_190"
+        },
+        {
+            "decision": "Please call the office of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Telephone/Fax (1) 5835**] to arrange a follow-up appointment in [**12-13**] weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16027,
+            "end_offset": 16210,
+            "annotation_id": "JZ_191"
+        },
+        {
+            "decision": "Please attend your MRI appointment on Monday [**9-3**] at 1:15 PM prior to your appointment with Dr. [**Last Name (STitle) 4253**] at 3:00 PM.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16213,
+            "end_offset": 16354,
+            "annotation_id": "JZ_192"
+        }
+    ]
+}

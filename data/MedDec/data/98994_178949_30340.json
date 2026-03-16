@@ -1,0 +1,1798 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "98994_178949_30340",
+    "annotations": [
+        {
+            "decision": "End stage renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 239,
+            "end_offset": 262,
+            "annotation_id": "RG_000"
+        },
+        {
+            "decision": "Cadaveric renal transplant",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 302,
+            "end_offset": 328,
+            "annotation_id": "RG_001"
+        },
+        {
+            "decision": "central venous access",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 344,
+            "end_offset": 365,
+            "annotation_id": "RG_002"
+        },
+        {
+            "decision": "arterial line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 366,
+            "end_offset": 379,
+            "annotation_id": "RG_003"
+        },
+        {
+            "decision": "Hemodyalsis line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 380,
+            "end_offset": 396,
+            "annotation_id": "RG_004"
+        },
+        {
+            "decision": "Kidney biopsy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 397,
+            "end_offset": 410,
+            "annotation_id": "RG_005"
+        },
+        {
+            "decision": "bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 411,
+            "end_offset": 423,
+            "annotation_id": "RG_006"
+        },
+        {
+            "decision": "tracheostomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 424,
+            "end_offset": 436,
+            "annotation_id": "RG_007"
+        },
+        {
+            "decision": "HD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 497,
+            "end_offset": 499,
+            "annotation_id": "RG_008"
+        },
+        {
+            "decision": "standard criteria cadaveric kidney transplant",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 569,
+            "end_offset": 614,
+            "annotation_id": "RG_009"
+        },
+        {
+            "decision": "currently dialyzes T-Th-S with last HD on [**8-1**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 628,
+            "end_offset": 679,
+            "annotation_id": "RG_010"
+        },
+        {
+            "decision": "hypotension during RX",
+            "category": "Category 3: Defining problem",
+            "start_offset": 764,
+            "end_offset": 785,
+            "annotation_id": "RG_011"
+        },
+        {
+            "decision": "adjusted his BP meds recently.",
+            "category": "Category 5: Drug related",
+            "start_offset": 795,
+            "end_offset": 824,
+            "annotation_id": "RG_012"
+        },
+        {
+            "decision": "ESRD of unclear etiology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1060,
+            "end_offset": 1084,
+            "annotation_id": "RG_013"
+        },
+        {
+            "decision": "HD x 3 years, on transplant list",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1088,
+            "end_offset": 1120,
+            "annotation_id": "RG_014"
+        },
+        {
+            "decision": "MSSA bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1121,
+            "end_offset": 1136,
+            "annotation_id": "RG_015"
+        },
+        {
+            "decision": "treated with 6 weeks IV Vanco at HD",
+            "category": "Category 5: Drug related",
+            "start_offset": 1155,
+            "end_offset": 1190,
+            "annotation_id": "RG_016"
+        },
+        {
+            "decision": "MSSA bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1191,
+            "end_offset": 1206,
+            "annotation_id": "RG_017"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1250,
+            "end_offset": 1253,
+            "annotation_id": "RG_018"
+        },
+        {
+            "decision": "S/p L nephrectomy late",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1254,
+            "end_offset": 1276,
+            "annotation_id": "RG_019"
+        },
+        {
+            "decision": "stab wound to kidney",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1292,
+            "end_offset": 1312,
+            "annotation_id": "RG_020"
+        },
+        {
+            "decision": "HCV GT1 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1313,
+            "end_offset": 1320,
+            "annotation_id": "RG_021"
+        },
+        {
+            "decision": "s/p 48 wks RBV/IFN ending [**2-26**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1321,
+            "end_offset": 1357,
+            "annotation_id": "RG_022"
+        },
+        {
+            "decision": "with HCV VL undectable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1358,
+            "end_offset": 1380,
+            "annotation_id": "RG_023"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1397,
+            "end_offset": 1407,
+            "annotation_id": "RG_024"
+        },
+        {
+            "decision": "OCD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1408,
+            "end_offset": 1411,
+            "annotation_id": "RG_025"
+        },
+        {
+            "decision": "Obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1412,
+            "end_offset": 1419,
+            "annotation_id": "RG_026"
+        },
+        {
+            "decision": "Brachiocephalic stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1420,
+            "end_offset": 1444,
+            "annotation_id": "RG_027"
+        },
+        {
+            "decision": "HEENT: No oral infection or dental caries noted, no LAD, sclera anicteric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1822,
+            "end_offset": 1895,
+            "annotation_id": "RG_028"
+        },
+        {
+            "decision": "Card: RRR, no M/R/G",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1896,
+            "end_offset": 1915,
+            "annotation_id": "RG_029"
+        },
+        {
+            "decision": "Lungs: CTA bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1916,
+            "end_offset": 1938,
+            "annotation_id": "RG_030"
+        },
+        {
+            "decision": "Abd: Obese, multiple scars noted (s/p nephrectomy from stab wound 15 years ago) + BS, not taut or distended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1939,
+            "end_offset": 2046,
+            "annotation_id": "RG_031"
+        },
+        {
+            "decision": "Extr: 1+ LE edema, Left femoral groin catheter in place, arms with multiple access interventions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2047,
+            "end_offset": 2143,
+            "annotation_id": "RG_032"
+        },
+        {
+            "decision": "Neuro: A+O x 3, depressed somewhat flat affect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2144,
+            "end_offset": 2190,
+            "annotation_id": "RG_033"
+        },
+        {
+            "decision": "Skin: moist, multiple dry scaly areas especially lower legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2191,
+            "end_offset": 2250,
+            "annotation_id": "RG_034"
+        },
+        {
+            "decision": "SPUTUM     GRAM STAIN (Final [**2137-8-7**]):       >25 PMNs and <10 epithelial cells/100X field.       4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2736,
+            "end_offset": 2889,
+            "annotation_id": "RG_035"
+        },
+        {
+            "decision": "RESPIRATORY CULTURE (Final [**2137-8-9**]):       Commensal Respiratory Flora Absent.       PSEUDOMONAS AERUGINOSA.    HEAVY GROWTH.                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     8 S CEFTAZIDIME-----------     8 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------     8 I MEROPENEM-------------  =>16 R PIPERACILLIN/TAZO-----    32 S TOBRAMYCIN------------   <=1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2896,
+            "end_offset": 3457,
+            "annotation_id": "RG_036"
+        },
+        {
+            "decision": "CEFEPIME--------------     8 S CEFTAZIDIME-----------     8 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------     8 I MEROPENEM-------------  =>16 R PIPERACILLIN/TAZO-----    32 S TOBRAMYCIN------------   <=1 S",
+            "category": "Category 5: Drug related",
+            "start_offset": 3241,
+            "end_offset": 3457,
+            "annotation_id": "RG_037"
+        },
+        {
+            "decision": "SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED [**2137-8-13**] BY DR          [**Last Name (STitle) **] [**Last Name (NamePattern4) 10000**] ([**Numeric Identifier 72184**]).          SENT TO [**Hospital1 4534**] FOR COLISTIN AND DORIPENEM SENSITIVITIES",
+            "category": "Category 5: Drug related",
+            "start_offset": 3678,
+            "end_offset": 3935,
+            "annotation_id": "RG_038"
+        },
+        {
+            "decision": "BRONCHIAL WASHINGS   RESPIRATORY CULTURE (Final [**2137-8-20**]):       10,000-100,000 ORGANISMS/ML. Commensal Respiratory Flora.       PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..          SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED [**2137-8-13**] BY DR          [**Last Name (STitle) **] [**Last Name (NamePattern4) 10000**] ([**Numeric Identifier 72184**]).          SENT TO [**Hospital1 4534**] FOR COLISTIN AND DORIPENEM SENSITIVITIES ([**2137-8-15**]).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3482,
+            "end_offset": 3952,
+            "annotation_id": "RG_039"
+        },
+        {
+            "decision": "         Colistin <= 2 MCG/ML SUSCEPTIBLE.          DORIPENEM > 2 MCG/ML NOT SUSCEPTIBLE.          Colistin & DORIPENEM SENSITIVITIES DONE BY [**Hospital1 4534**] LABS.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3964,
+            "end_offset": 4122,
+            "annotation_id": "RG_040"
+        },
+        {
+            "decision": "         SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED",
+            "category": "Category 5: Drug related",
+            "start_offset": 4224,
+            "end_offset": 4274,
+            "annotation_id": "RG_041"
+        },
+        {
+            "decision": "PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..          SECOND MORPHOLOGY.          SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED [**2137-8-13**] BY DR          [**Last Name (STitle) **] [**Last Name (NamePattern4) 10000**] ([**Numeric Identifier 72184**]).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4130,
+            "end_offset": 4400,
+            "annotation_id": "RG_042"
+        },
+        {
+            "decision": "PSEUDOMONAS AERUGINOSA #2 COMBINED WITH #1 FOR COLISTIN &          DORIPEMEM SENSITIVITIES.                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              |          PSEUDOMONAS AERUGINOSA                              |          | CEFEPIME--------------    16 I       16 I CEFTAZIDIME-----------    16 I       16 I CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------     8 I        8 I MEROPENEM-------------  =>16 R     =>16 R",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4412,
+            "end_offset": 4999,
+            "annotation_id": "RG_043"
+        },
+        {
+            "decision": "PIPERACILLIN/TAZO-----    64 S       64 S TOBRAMYCIN------------   <=1 S      <=1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5000,
+            "end_offset": 5083,
+            "annotation_id": "RG_044"
+        },
+        {
+            "decision": "FUNGAL CULTURE (Final [**2137-8-22**]):    NO FUNGUS ISOLATED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5088,
+            "end_offset": 5149,
+            "annotation_id": "RG_045"
+        },
+        {
+            "decision": "   ACID FAST SMEAR (Final [**2137-8-9**]):       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5155,
+            "end_offset": 5248,
+            "annotation_id": "RG_046"
+        },
+        {
+            "decision": "   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5254,
+            "end_offset": 5314,
+            "annotation_id": "RG_047"
+        },
+        {
+            "decision": "[**2137-8-9**] 7:59 pm Immunology (CMV)      Source: Line-art.     CMV Viral Load (Final [**2137-8-13**]):       CMV DNA not detected.       Performed by PCR.       Detection Range: 600 - 100,000 copies/ml.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5317,
+            "end_offset": 5522,
+            "annotation_id": "RG_048"
+        },
+        {
+            "decision": "[**2137-8-26**] 2:48 pm BLOOD CULTURE    Blood Culture, Routine (Final [**2137-9-1**]):       STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL SENSITIVITIES.  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------  =>16 R LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN--------------     2 I TETRACYCLINE----------     2 S VANCOMYCIN------------     1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5525,
+            "end_offset": 6080,
+            "annotation_id": "RG_049"
+        },
+        {
+            "decision": "CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------  =>16 R LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN--------------     2 I TETRACYCLINE----------     2 S VANCOMYCIN------------     1 S",
+            "category": "Category 5: Drug related",
+            "start_offset": 5833,
+            "end_offset": 6080,
+            "annotation_id": "RG_050"
+        },
+        {
+            "decision": "[**2137-8-29**] 11:40 am BLOOD CULTURE    Blood Culture, Routine (Final [**2137-9-1**]):       STAPHYLOCOCCUS, COAGULASE NEGATIVE. _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------  =>16 R LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------     2 S VANCOMYCIN------------     1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6082,
+            "end_offset": 6613,
+            "annotation_id": "RG_051"
+        },
+        {
+            "decision": "CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------  =>16 R LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------     2 S VANCOMYCIN------------     1 S",
+            "category": "Category 5: Drug related",
+            "start_offset": 6366,
+            "end_offset": 6613,
+            "annotation_id": "RG_052"
+        },
+        {
+            "decision": "[**2137-9-1**] 4:30 pm SPUTUM       PSEUDOMONAS AERUGINOSA                              |          PSEUDOMONAS AERUGINOSA                              |          | CEFEPIME--------------    16 I       16 I CEFTAZIDIME-----------    16 I       16 I CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------  =>16 R        8 I MEROPENEM-------------  =>16 R     =>16 R PIPERACILLIN/TAZO----- =>128 R    =>128 R TOBRAMYCIN------------     2 S        2 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6615,
+            "end_offset": 7072,
+            "annotation_id": "RG_053"
+        },
+        {
+            "decision": "CEFEPIME--------------    16 I       16 I CEFTAZIDIME-----------    16 I       16 I CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------  =>16 R        8 I MEROPENEM-------------  =>16 R     =>16 R PIPERACILLIN/TAZO----- =>128 R    =>128 R TOBRAMYCIN------------     2 S        2 S",
+            "category": "Category 5: Drug related",
+            "start_offset": 6779,
+            "end_offset": 7072,
+            "annotation_id": "RG_054"
+        },
+        {
+            "decision": "[**2137-9-14**] 12:58 am URINE       ENTEROBACTER CLOACAE.    >100,000 ORGANISMS/ML..                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROBACTER CLOACAE                              |          ENTEROBACTER CLOACAE                              |          | CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------    64 I       64 I PIPERACILLIN/TAZO-----   <=4 S      <=4 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     =>16 R",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7074,
+            "end_offset": 7861,
+            "annotation_id": "RG_055"
+        },
+        {
+            "decision": "CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------    64 I       64 I PIPERACILLIN/TAZO-----   <=4 S      <=4 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     =>16 R",
+            "category": "Category 5: Drug related",
+            "start_offset": 7442,
+            "end_offset": 7861,
+            "annotation_id": "RG_056"
+        },
+        {
+            "decision": "[**2137-9-14**] 12:58 am URINE _________________________________________________________                              ENTEROBACTER CLOACAE                              |          ENTEROBACTER CLOACAE                              |          | CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------    64 I       64 I PIPERACILLIN/TAZO-----   <=4 S      <=4 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     =>16 R",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7863,
+            "end_offset": 8524,
+            "annotation_id": "RG_057"
+        },
+        {
+            "decision": "CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------    64 I       64 I PIPERACILLIN/TAZO-----   <=4 S      <=4 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     =>16 R",
+            "category": "Category 5: Drug related",
+            "start_offset": 8105,
+            "end_offset": 8524,
+            "annotation_id": "RG_058"
+        },
+        {
+            "decision": "admitted to Dr.[**Name (NI) 8584**] surgical service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8562,
+            "end_offset": 8614,
+            "annotation_id": "RG_059"
+        },
+        {
+            "decision": "cadaveric renal transplant ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8631,
+            "end_offset": 8657,
+            "annotation_id": "RG_060"
+        },
+        {
+            "decision": "re-positioning of his tunneled HD line as this is also his only vascular access",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8714,
+            "end_offset": 8793,
+            "annotation_id": "RG_061"
+        },
+        {
+            "decision": "He was taken directly to the intensvie care unit after his surgery.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8844,
+            "end_offset": 8910,
+            "annotation_id": "RG_062"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9112,
+            "end_offset": 9121,
+            "annotation_id": "RG_063"
+        },
+        {
+            "decision": "Patient's sedation and pain was appropriately controlled with fentanyl and versed while he remained intubated",
+            "category": "Category 5: Drug related",
+            "start_offset": 9012,
+            "end_offset": 9121,
+            "annotation_id": "RG_064"
+        },
+        {
+            "decision": "multple episodes of agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9139,
+            "end_offset": 9168,
+            "annotation_id": "RG_065"
+        },
+        {
+            "decision": "requiring increased boluses of fentanyl and versed",
+            "category": "Category 5: Drug related",
+            "start_offset": 9169,
+            "end_offset": 9219,
+            "annotation_id": "RG_066"
+        },
+        {
+            "decision": "fluoextine was restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 9242,
+            "end_offset": 9266,
+            "annotation_id": "RG_067"
+        },
+        {
+            "decision": "SSRI withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9284,
+            "end_offset": 9299,
+            "annotation_id": "RG_068"
+        },
+        {
+            "decision": "PO Zyprexa and Ativan were also started",
+            "category": "Category 5: Drug related",
+            "start_offset": 9314,
+            "end_offset": 9353,
+            "annotation_id": "RG_069"
+        },
+        {
+            "decision": "started on PO methadone",
+            "category": "Category 5: Drug related",
+            "start_offset": 9387,
+            "end_offset": 9410,
+            "annotation_id": "RG_070"
+        },
+        {
+            "decision": "pain control and anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9422,
+            "end_offset": 9446,
+            "annotation_id": "RG_071"
+        },
+        {
+            "decision": "librium was started for a longer acting anxiolysis",
+            "category": "Category 5: Drug related",
+            "start_offset": 9464,
+            "end_offset": 9514,
+            "annotation_id": "RG_072"
+        },
+        {
+            "decision": "Fentanyl and Versed were weaned off. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9516,
+            "end_offset": 9551,
+            "annotation_id": "RG_073"
+        },
+        {
+            "decision": "methadone and ativan were being weaned",
+            "category": "Category 5: Drug related",
+            "start_offset": 9567,
+            "end_offset": 9605,
+            "annotation_id": "RG_074"
+        },
+        {
+            "decision": "continued to have episodes of agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9615,
+            "end_offset": 9654,
+            "annotation_id": "RG_075"
+        },
+        {
+            "decision": "suicidal ideations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9688,
+            "end_offset": 9706,
+            "annotation_id": "RG_076"
+        },
+        {
+            "decision": "pyschiatry was reconsulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 9711,
+            "end_offset": 9737,
+            "annotation_id": "RG_077"
+        },
+        {
+            "decision": "started on Cogentin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9755,
+            "end_offset": 9774,
+            "annotation_id": "RG_078"
+        },
+        {
+            "decision": "akathisia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9791,
+            "end_offset": 9800,
+            "annotation_id": "RG_079"
+        },
+        {
+            "decision": "Zypexa was d/c'ed",
+            "category": "Category 5: Drug related",
+            "start_offset": 9809,
+            "end_offset": 9826,
+            "annotation_id": "RG_080"
+        },
+        {
+            "decision": "suspected EPS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9831,
+            "end_offset": 9844,
+            "annotation_id": "RG_081"
+        },
+        {
+            "decision": "started on prn seroquel",
+            "category": "Category 5: Drug related",
+            "start_offset": 9862,
+            "end_offset": 9885,
+            "annotation_id": "RG_082"
+        },
+        {
+            "decision": "agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9890,
+            "end_offset": 9899,
+            "annotation_id": "RG_083"
+        },
+        {
+            "decision": "intermittent propofol at night ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9943,
+            "end_offset": 9973,
+            "annotation_id": "RG_084"
+        },
+        {
+            "decision": "deline/detubing",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9985,
+            "end_offset": 10000,
+            "annotation_id": "RG_085"
+        },
+        {
+            "decision": "suicidal ideation improved with the start of eating and being in contact with his family in [**Name (NI) 651**] (via telephone). The patient's neuro status improved with an improvement in his suicidal ideations. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10017,
+            "end_offset": 10227,
+            "annotation_id": "RG_086"
+        },
+        {
+            "decision": ". Ativan and clonidine were weaned ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10256,
+            "end_offset": 10288,
+            "annotation_id": "RG_087"
+        },
+        {
+            "decision": "Patient is awake, alert, oriented and cooperative on discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10321,
+            "end_offset": 10383,
+            "annotation_id": "RG_088"
+        },
+        {
+            "decision": "transferred to the SICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 10408,
+            "end_offset": 10431,
+            "annotation_id": "RG_089"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10432,
+            "end_offset": 10441,
+            "annotation_id": "RG_090"
+        },
+        {
+            "decision": "Esophageal balloon used to determine optimal PEEP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10443,
+            "end_offset": 10492,
+            "annotation_id": "RG_091"
+        },
+        {
+            "decision": "ARDS ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10516,
+            "end_offset": 10520,
+            "annotation_id": "RG_092"
+        },
+        {
+            "decision": "Patient bronched on [**8-8**], cultures sent.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 10531,
+            "end_offset": 10575,
+            "annotation_id": "RG_093"
+        },
+        {
+            "decision": "Cefepime and fluconazole started",
+            "category": "Category 5: Drug related",
+            "start_offset": 10577,
+            "end_offset": 10609,
+            "annotation_id": "RG_094"
+        },
+        {
+            "decision": "was growing psuedomonas from sputum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10619,
+            "end_offset": 10654,
+            "annotation_id": "RG_095"
+        },
+        {
+            "decision": "Tobramycin Inh and Cefepime started",
+            "category": "Category 5: Drug related",
+            "start_offset": 10657,
+            "end_offset": 10692,
+            "annotation_id": "RG_096"
+        },
+        {
+            "decision": "for VAP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10693,
+            "end_offset": 10700,
+            "annotation_id": "RG_097"
+        },
+        {
+            "decision": "PEEP decreased to 5 and started a CPAP trial on POD16",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10713,
+            "end_offset": 10766,
+            "annotation_id": "RG_098"
+        },
+        {
+            "decision": "history of tracheal stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10792,
+            "end_offset": 10820,
+            "annotation_id": "RG_099"
+        },
+        {
+            "decision": "Thoracic surgery was consulted for trach placement.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10851,
+            "end_offset": 10901,
+            "annotation_id": "RG_100"
+        },
+        {
+            "decision": "CPAP 5/5",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10933,
+            "end_offset": 10941,
+            "annotation_id": "RG_101"
+        },
+        {
+            "decision": "patient was brought to the OR by thoracic surgery ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10962,
+            "end_offset": 11011,
+            "annotation_id": "RG_102"
+        },
+        {
+            "decision": "trach placement, which was subequently exchanged for a longer size",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11016,
+            "end_offset": 11082,
+            "annotation_id": "RG_103"
+        },
+        {
+            "decision": "The patient was weaned to PS with trach mask trials. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11084,
+            "end_offset": 11135,
+            "annotation_id": "RG_104"
+        },
+        {
+            "decision": "speech and swallow was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 11152,
+            "end_offset": 11184,
+            "annotation_id": "RG_105"
+        },
+        {
+            "decision": "Passy-Muir valve",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11208,
+            "end_offset": 11224,
+            "annotation_id": "RG_106"
+        },
+        {
+            "decision": "CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11281,
+            "end_offset": 11285,
+            "annotation_id": "RG_107"
+        },
+        {
+            "decision": "required CPAP support",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11359,
+            "end_offset": 11380,
+            "annotation_id": "RG_108"
+        },
+        {
+            "decision": "He did not tolerate a Passy-Muir valve.  On [**9-17**], he tolerated trach collar all day with CPAP overnight.  The patient had episodes of tolerating trach collar and then required CPAP support",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11186,
+            "end_offset": 11380,
+            "annotation_id": "RG_109"
+        },
+        {
+            "decision": "IP assessed the patient",
+            "category": "Category 1: Contact related",
+            "start_offset": 11397,
+            "end_offset": 11420,
+            "annotation_id": "RG_110"
+        },
+        {
+            "decision": "for possible desizing trach to allow for a PMV. However, since he wasn't tolerating trach collar, it was decided to not manipuate the trach",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11421,
+            "end_offset": 11560,
+            "annotation_id": "RG_111"
+        },
+        {
+            "decision": "the patient had a acute desaturation episode and became agitated. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11593,
+            "end_offset": 11657,
+            "annotation_id": "RG_112"
+        },
+        {
+            "decision": "severe hypercarbia on ABG ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11666,
+            "end_offset": 11691,
+            "annotation_id": "RG_113"
+        },
+        {
+            "decision": "restarted on CMV with gradual improvement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11700,
+            "end_offset": 11741,
+            "annotation_id": "RG_114"
+        },
+        {
+            "decision": "The patient was bronched during this event, which showed a normal exam: all airways patent, no mucus or erythema.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11744,
+            "end_offset": 11856,
+            "annotation_id": "RG_115"
+        },
+        {
+            "decision": "tolerating intermittent trach mask but still requiring vent support when tires",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11876,
+            "end_offset": 11954,
+            "annotation_id": "RG_116"
+        },
+        {
+            "decision": "massive fluid resuscitation immediately post-op",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12051,
+            "end_offset": 12098,
+            "annotation_id": "RG_117"
+        },
+        {
+            "decision": "required Levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12103,
+            "end_offset": 12120,
+            "annotation_id": "RG_118"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12125,
+            "end_offset": 12136,
+            "annotation_id": "RG_119"
+        },
+        {
+            "decision": "Cardiac enzymes were negative x 3",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12138,
+            "end_offset": 12171,
+            "annotation_id": "RG_120"
+        },
+        {
+            "decision": "TEE on [**8-8**] and [**8-9**] showed hyperdynamic with evidence of low intravascular volume. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12173,
+            "end_offset": 12265,
+            "annotation_id": "RG_121"
+        },
+        {
+            "decision": "intermittently bolused with crystallioid,albumin, and PRBCs for volume replacement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12279,
+            "end_offset": 12361,
+            "annotation_id": "RG_122"
+        },
+        {
+            "decision": "Pressors were weaned, but needed to be restarted/increased ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12363,
+            "end_offset": 12421,
+            "annotation_id": "RG_123"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12426,
+            "end_offset": 12437,
+            "annotation_id": "RG_124"
+        },
+        {
+            "decision": "CVVHD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12472,
+            "end_offset": 12477,
+            "annotation_id": "RG_125"
+        },
+        {
+            "decision": "sedation",
+            "category": "Category 5: Drug related",
+            "start_offset": 12508,
+            "end_offset": 12516,
+            "annotation_id": "RG_126"
+        },
+        {
+            "decision": "continued volume resuscitation with albumin",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12526,
+            "end_offset": 12569,
+            "annotation_id": "RG_127"
+        },
+        {
+            "decision": "off HD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12696,
+            "end_offset": 12702,
+            "annotation_id": "RG_128"
+        },
+        {
+            "decision": "The patient's BP stabilized and he was able to tolerate fluid removal via HD.  He has been hemodynamically stable even while off HD for past few days.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12571,
+            "end_offset": 12720,
+            "annotation_id": "RG_129"
+        },
+        {
+            "decision": "Dobhoff was placed by IR and Novasource Renal was started on [**8-12**] and advanced",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12727,
+            "end_offset": 12811,
+            "annotation_id": "RG_130"
+        },
+        {
+            "decision": "Tf were held",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12828,
+            "end_offset": 12840,
+            "annotation_id": "RG_131"
+        },
+        {
+            "decision": "increased abominal distention (noticeable at his known hernia site).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12845,
+            "end_offset": 12911,
+            "annotation_id": "RG_132"
+        },
+        {
+            "decision": "Relistor",
+            "category": "Category 5: Drug related",
+            "start_offset": 12929,
+            "end_offset": 12937,
+            "annotation_id": "RG_133"
+        },
+        {
+            "decision": "which improved bowel function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12949,
+            "end_offset": 12978,
+            "annotation_id": "RG_134"
+        },
+        {
+            "decision": "TF were restarted.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12984,
+            "end_offset": 13001,
+            "annotation_id": "RG_135"
+        },
+        {
+            "decision": "passed his swallowing evaulation.",
+            "category": "Category 1: Contact related",
+            "start_offset": 13030,
+            "end_offset": 13062,
+            "annotation_id": "RG_136"
+        },
+        {
+            "decision": "The patient was started on pureed solids and thin liquids with ensure supplements and has been tolerating them while on trach mask",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13065,
+            "end_offset": 13195,
+            "annotation_id": "RG_137"
+        },
+        {
+            "decision": "delayted graft function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13218,
+            "end_offset": 13241,
+            "annotation_id": "RG_138"
+        },
+        {
+            "decision": "started on CVVHD post-op",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13252,
+            "end_offset": 13276,
+            "annotation_id": "RG_139"
+        },
+        {
+            "decision": "Renal u/s on [**8-5**] showed patent vessels and good flow",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13278,
+            "end_offset": 13336,
+            "annotation_id": "RG_140"
+        },
+        {
+            "decision": "2 doses of ATG",
+            "category": "Category 5: Drug related",
+            "start_offset": 13355,
+            "end_offset": 13369,
+            "annotation_id": "RG_141"
+        },
+        {
+            "decision": "Tacorlimus was started POD3",
+            "category": "Category 5: Drug related",
+            "start_offset": 13374,
+            "end_offset": 13401,
+            "annotation_id": "RG_142"
+        },
+        {
+            "decision": "tPa was added to HD line clotting",
+            "category": "Category 5: Drug related",
+            "start_offset": 13416,
+            "end_offset": 13449,
+            "annotation_id": "RG_143"
+        },
+        {
+            "decision": "HD line was replaced by IR on [**8-8**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13451,
+            "end_offset": 13490,
+            "annotation_id": "RG_144"
+        },
+        {
+            "decision": "Tacrolimus, Cellcept, and solumedrol restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 13491,
+            "end_offset": 13537,
+            "annotation_id": "RG_145"
+        },
+        {
+            "decision": "Right groin HD catheter was replaced ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13553,
+            "end_offset": 13589,
+            "annotation_id": "RG_146"
+        },
+        {
+            "decision": "Renal biopsy on [**8-16**] showed no acute rejection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13605,
+            "end_offset": 13657,
+            "annotation_id": "RG_147"
+        },
+        {
+            "decision": "diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 13703,
+            "end_offset": 13711,
+            "annotation_id": "RG_148"
+        },
+        {
+            "decision": "CVHD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13715,
+            "end_offset": 13719,
+            "annotation_id": "RG_149"
+        },
+        {
+            "decision": "daily diuresis up to 2- 3L daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13726,
+            "end_offset": 13758,
+            "annotation_id": "RG_150"
+        },
+        {
+            "decision": "CVVHD was run even",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13817,
+            "end_offset": 13835,
+            "annotation_id": "RG_151"
+        },
+        {
+            "decision": "his BP was labile",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13853,
+            "end_offset": 13870,
+            "annotation_id": "RG_152"
+        },
+        {
+            "decision": "renal biopsy, which was negative for rejection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13942,
+            "end_offset": 13988,
+            "annotation_id": "RG_153"
+        },
+        {
+            "decision": "160mg lasix given",
+            "category": "Category 5: Drug related",
+            "start_offset": 14094,
+            "end_offset": 14111,
+            "annotation_id": "RG_154"
+        },
+        {
+            "decision": "with no change in urine output",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14113,
+            "end_offset": 14143,
+            "annotation_id": "RG_155"
+        },
+        {
+            "decision": "qdaily straight caths",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14162,
+            "end_offset": 14183,
+            "annotation_id": "RG_156"
+        },
+        {
+            "decision": "ureteral stent was d/c'ed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14261,
+            "end_offset": 14286,
+            "annotation_id": "RG_157"
+        },
+        {
+            "decision": "100mg IV Lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14336,
+            "end_offset": 14350,
+            "annotation_id": "RG_158"
+        },
+        {
+            "decision": "Overall, his urine output continued to improve up to 400-500cc/day. With the improvement in his urine output and return to pre-op weight",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14386,
+            "end_offset": 14522,
+            "annotation_id": "RG_159"
+        },
+        {
+            "decision": "HD was held",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14524,
+            "end_offset": 14535,
+            "annotation_id": "RG_160"
+        },
+        {
+            "decision": "improving renal function ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14544,
+            "end_offset": 14568,
+            "annotation_id": "RG_161"
+        },
+        {
+            "decision": "decreasing Cr",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14575,
+            "end_offset": 14588,
+            "annotation_id": "RG_162"
+        },
+        {
+            "decision": "intermittent lasix with good response",
+            "category": "Category 5: Drug related",
+            "start_offset": 14645,
+            "end_offset": 14682,
+            "annotation_id": "RG_163"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 14742,
+            "end_offset": 14747,
+            "annotation_id": "RG_164"
+        },
+        {
+            "decision": "He is to have his FK level checked at rehab ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 14848,
+            "end_offset": 14891,
+            "annotation_id": "RG_165"
+        },
+        {
+            "decision": "and his medication dosed accordingly",
+            "category": "Category 5: Drug related",
+            "start_offset": 14892,
+            "end_offset": 14928,
+            "annotation_id": "RG_166"
+        },
+        {
+            "decision": "heparin gtt post-op",
+            "category": "Category 5: Drug related",
+            "start_offset": 14957,
+            "end_offset": 14976,
+            "annotation_id": "RG_167"
+        },
+        {
+            "decision": "PTT goal 50-60 to protect the graft",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 14984,
+            "end_offset": 15019,
+            "annotation_id": "RG_168"
+        },
+        {
+            "decision": "started on coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15051,
+            "end_offset": 15070,
+            "annotation_id": "RG_169"
+        },
+        {
+            "decision": "hep gtt was stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 15117,
+            "end_offset": 15136,
+            "annotation_id": "RG_170"
+        },
+        {
+            "decision": "received intermittent PRBCs transfusions with HD.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15151,
+            "end_offset": 15199,
+            "annotation_id": "RG_171"
+        },
+        {
+            "decision": "transfused for low HCT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15209,
+            "end_offset": 15231,
+            "annotation_id": "RG_172"
+        },
+        {
+            "decision": "for low HCT ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15220,
+            "end_offset": 15231,
+            "annotation_id": "RG_173"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 15247,
+            "end_offset": 15252,
+            "annotation_id": "RG_174"
+        },
+        {
+            "decision": "His HCT at discharge was stable 29.5.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15275,
+            "end_offset": 15311,
+            "annotation_id": "RG_175"
+        },
+        {
+            "decision": "on coumdain 7.5mg) and his coumadin dose was dropped to 1mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 15354,
+            "end_offset": 15413,
+            "annotation_id": "RG_176"
+        },
+        {
+            "decision": "He is to have his INR checked tomorrow AM at rehab.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 15416,
+            "end_offset": 15466,
+            "annotation_id": "RG_177"
+        },
+        {
+            "decision": "VAP sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15473,
+            "end_offset": 15483,
+            "annotation_id": "RG_178"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15485,
+            "end_offset": 15495,
+            "annotation_id": "RG_179"
+        },
+        {
+            "decision": "cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 15496,
+            "end_offset": 15501,
+            "annotation_id": "RG_180"
+        },
+        {
+            "decision": "flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15502,
+            "end_offset": 15508,
+            "annotation_id": "RG_181"
+        },
+        {
+            "decision": "cefepime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15552,
+            "end_offset": 15560,
+            "annotation_id": "RG_182"
+        },
+        {
+            "decision": "inhaled tobramycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15565,
+            "end_offset": 15583,
+            "annotation_id": "RG_183"
+        },
+        {
+            "decision": "ID was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 15586,
+            "end_offset": 15602,
+            "annotation_id": "RG_184"
+        },
+        {
+            "decision": "pseudomonas aeruginoas pneuomia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15620,
+            "end_offset": 15651,
+            "annotation_id": "RG_185"
+        },
+        {
+            "decision": "continue Vanco, cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 15661,
+            "end_offset": 15685,
+            "annotation_id": "RG_186"
+        },
+        {
+            "decision": "d/c ciprofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15687,
+            "end_offset": 15704,
+            "annotation_id": "RG_187"
+        },
+        {
+            "decision": "cont micfungin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15706,
+            "end_offset": 15720,
+            "annotation_id": "RG_188"
+        },
+        {
+            "decision": "d/c fluconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 15722,
+            "end_offset": 15737,
+            "annotation_id": "RG_189"
+        },
+        {
+            "decision": "start inh tobramycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 15739,
+            "end_offset": 15766,
+            "annotation_id": "RG_190"
+        },
+        {
+            "decision": "valgancyclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 15773,
+            "end_offset": 15787,
+            "annotation_id": "RG_191"
+        },
+        {
+            "decision": "bactrim ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15792,
+            "end_offset": 15799,
+            "annotation_id": "RG_192"
+        },
+        {
+            "decision": "blood cultures from R. femoral catheter grew GPC, coag negative Staph",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15849,
+            "end_offset": 15918,
+            "annotation_id": "RG_193"
+        },
+        {
+            "decision": "Vancomycin was restarted, in addition to vanco lock in the HD line for a 14 day course.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15920,
+            "end_offset": 16006,
+            "annotation_id": "RG_194"
+        },
+        {
+            "decision": "blood cultures were drawn, which were consistently negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16022,
+            "end_offset": 16081,
+            "annotation_id": "RG_195"
+        },
+        {
+            "decision": "Sputum culture on [**9-1**], positive for pseudomonas",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16084,
+            "end_offset": 16137,
+            "annotation_id": "RG_196"
+        },
+        {
+            "decision": "had normal WBC,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16168,
+            "end_offset": 16182,
+            "annotation_id": "RG_197"
+        },
+        {
+            "decision": "tolerating trach mask",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16194,
+            "end_offset": 16215,
+            "annotation_id": "RG_198"
+        },
+        {
+            "decision": "vanc ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16225,
+            "end_offset": 16229,
+            "annotation_id": "RG_199"
+        },
+        {
+            "decision": "HD line vanc lock continued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16217,
+            "end_offset": 16244,
+            "annotation_id": "RG_200"
+        },
+        {
+            "decision": "started on cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 16277,
+            "end_offset": 16293,
+            "annotation_id": "RG_201"
+        },
+        {
+            "decision": "urine culture positive for enterobacter",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16298,
+            "end_offset": 16337,
+            "annotation_id": "RG_202"
+        },
+        {
+            "decision": "cipro was stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 16372,
+            "end_offset": 16389,
+            "annotation_id": "RG_203"
+        },
+        {
+            "decision": "valcyte was increased to 450mg three times per week",
+            "category": "Category 5: Drug related",
+            "start_offset": 16396,
+            "end_offset": 16447,
+            "annotation_id": "RG_204"
+        },
+        {
+            "decision": "RISS",
+            "category": "Category 5: Drug related",
+            "start_offset": 16491,
+            "end_offset": 16495,
+            "annotation_id": "RG_205"
+        },
+        {
+            "decision": "appropriate adrenal function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16538,
+            "end_offset": 16566,
+            "annotation_id": "RG_206"
+        },
+        {
+            "decision": "Fluoxetine 40mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 16760,
+            "end_offset": 16784,
+            "annotation_id": "RG_207"
+        },
+        {
+            "decision": "Renal cap daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 16786,
+            "end_offset": 16801,
+            "annotation_id": "RG_208"
+        },
+        {
+            "decision": "Lisinopril 40mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 16803,
+            "end_offset": 16827,
+            "annotation_id": "RG_209"
+        },
+        {
+            "decision": "Renagel 1600mg PO TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 16829,
+            "end_offset": 16850,
+            "annotation_id": "RG_210"
+        },
+        {
+            "decision": "Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16879,
+            "end_offset": 16951,
+            "annotation_id": "RG_211"
+        },
+        {
+            "decision": "Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16957,
+            "end_offset": 17031,
+            "annotation_id": "RG_212"
+        },
+        {
+            "decision": "Acetaminophen 650 mg/20.3 mL Solution Sig: One (1) dose PO Q6H (every 6 hours) as needed for Pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17037,
+            "end_offset": 17134,
+            "annotation_id": "RG_213"
+        },
+        {
+            "decision": "hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17242,
+            "end_offset": 17254,
+            "annotation_id": "RG_214"
+        },
+        {
+            "decision": "Glucagon (Human Recombinant) 1 mg Recon Soln Sig: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17139,
+            "end_offset": 17263,
+            "annotation_id": "RG_215"
+        },
+        {
+            "decision": "Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17268,
+            "end_offset": 17329,
+            "annotation_id": "RG_216"
+        },
+        {
+            "decision": "Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17335,
+            "end_offset": 17402,
+            "annotation_id": "RG_217"
+        },
+        {
+            "decision": "Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Six (6) Puff Inhalation Q2 PRN () as needed for SOB/wheeze.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17408,
+            "end_offset": 17526,
+            "annotation_id": "RG_218"
+        },
+        {
+            "decision": "Acetylcysteine 20 % (200 mg/mL) Solution Sig: 3-5 MLs Miscellaneous Q4H (every 4 hours) as needed for thick secretions.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17531,
+            "end_offset": 17649,
+            "annotation_id": "RG_219"
+        },
+        {
+            "decision": "Mycophenolate Mofetil 200 mg/mL Suspension for Reconstitution Sig: 1000 (1000) mg PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17654,
+            "end_offset": 17757,
+            "annotation_id": "RG_220"
+        },
+        {
+            "decision": "Insulin Regular Human 100 unit/mL Solution Sig: ASDIR ASDIR Injection ASDIR (AS DIRECTED).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17764,
+            "end_offset": 17852,
+            "annotation_id": "RG_221"
+        },
+        {
+            "decision": "Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17859,
+            "end_offset": 17939,
+            "annotation_id": "RG_222"
+        },
+        {
+            "decision": "Sulfamethoxazole-Trimethoprim 200-40 mg/5 mL Suspension Sig: Ten (10) ML PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17945,
+            "end_offset": 18033,
+            "annotation_id": "RG_223"
+        },
+        {
+            "decision": "agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18121,
+            "end_offset": 18130,
+            "annotation_id": "RG_224"
+        },
+        {
+            "decision": "Quetiapine 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for agitation: Hold for hypotension/oversedation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18040,
+            "end_offset": 18165,
+            "annotation_id": "RG_225"
+        },
+        {
+            "decision": "Hold for hypotension/oversedation.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18132,
+            "end_offset": 18165,
+            "annotation_id": "RG_226"
+        },
+        {
+            "decision": "agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18252,
+            "end_offset": 18261,
+            "annotation_id": "RG_227"
+        },
+        {
+            "decision": "Hold for SBP<110",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18263,
+            "end_offset": 18279,
+            "annotation_id": "RG_228"
+        },
+        {
+            "decision": "Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for agitation: Hold for SBP<110.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18171,
+            "end_offset": 18279,
+            "annotation_id": "RG_229"
+        },
+        {
+            "decision": "Epoetin Alfa 10,000 unit/mL Solution Sig: One (1) SC Injection Injection QMOWEFR (Monday -Wednesday-Friday).",
+            "category": "Category 5: Drug related",
+            "start_offset": 18285,
+            "end_offset": 18391,
+            "annotation_id": "RG_230"
+        },
+        {
+            "decision": "Tacrolimus level to be checked in AM tomorrow and then 3 times a week,",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 18473,
+            "end_offset": 18542,
+            "annotation_id": "RG_231"
+        },
+        {
+            "decision": "Tacrolimus 1 mg Capsule Sig: Twelve (12) Capsule PO Q12H (every 12 hours): Tacrolimus level to be checked in AM tomorrow and then 3 times a week, adjust dose accordingly.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18398,
+            "end_offset": 18567,
+            "annotation_id": "RG_232"
+        },
+        {
+            "decision": "anxiety/agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18658,
+            "end_offset": 18675,
+            "annotation_id": "RG_233"
+        },
+        {
+            "decision": "Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO QID (4 times a day) as needed for PRN anxiety/agitation: Hold for over-sedation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18573,
+            "end_offset": 18699,
+            "annotation_id": "RG_234"
+        },
+        {
+            "decision": "Hold for over-sedation.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18677,
+            "end_offset": 18699,
+            "annotation_id": "RG_235"
+        },
+        {
+            "decision": ": Please check INR in AM tomorrow and then 3 times per week, ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 18774,
+            "end_offset": 18831,
+            "annotation_id": "RG_236"
+        },
+        {
+            "decision": "Warfarin 1 mg Tablet Sig: One (1) Tablet PO ONCE (Once) for 1 doses: Please check INR in AM tomorrow and then 3 times per week, adjust dose accordingly.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18705,
+            "end_offset": 18856,
+            "annotation_id": "RG_237"
+        },
+        {
+            "decision": "Valganciclovir 50 mg/mL Recon Soln Sig: Four [**Age over 90 1230**]y (450) mg PO 3X/WEEK ([**Doctor First Name **],TU,TH).",
+            "category": "Category 5: Drug related",
+            "start_offset": 18862,
+            "end_offset": 18982,
+            "annotation_id": "RG_238"
+        },
+        {
+            "decision": "Ondansetron 4 mg IV Q8H:PRN nausea/vomiting",
+            "category": "Category 5: Drug related",
+            "start_offset": 18989,
+            "end_offset": 19032,
+            "annotation_id": "RG_239"
+        },
+        {
+            "decision": "hypoglycemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19065,
+            "end_offset": 19077,
+            "annotation_id": "RG_240"
+        },
+        {
+            "decision": "Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol",
+            "category": "Category 5: Drug related",
+            "start_offset": 19037,
+            "end_offset": 19086,
+            "annotation_id": "RG_241"
+        },
+        {
+            "decision": "Vancomycin Lock  Sig: One (1) Vancomycin Lock  ASDIR: Combine",
+            "category": "Category 5: Drug related",
+            "start_offset": 19091,
+            "end_offset": 19152,
+            "annotation_id": "RG_242"
+        },
+        {
+            "decision": "12,500 Units heparin sodium",
+            "category": "Category 5: Drug related",
+            "start_offset": 19154,
+            "end_offset": 19181,
+            "annotation_id": "RG_243"
+        },
+        {
+            "decision": "12.5mg Vancomycin in 5mL Normal Saline",
+            "category": "Category 5: Drug related",
+            "start_offset": 19184,
+            "end_offset": 19222,
+            "annotation_id": "RG_244"
+        },
+        {
+            "decision": "Please administer via sterile syringe each time after using the femoral dialysis line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19224,
+            "end_offset": 19309,
+            "annotation_id": "RG_245"
+        },
+        {
+            "decision": "Please administer via sterile syringe each time after using the femoral dialysis line -If any questions, please call [**Telephone/Fax (1) 72185**] for [**Hospital1 18**] Pharmacy.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 19224,
+            "end_offset": 19402,
+            "annotation_id": "RG_246"
+        },
+        {
+            "decision": "ESRD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19522,
+            "end_offset": 19526,
+            "annotation_id": "RG_247"
+        },
+        {
+            "decision": "s/p Cadaveric Renal Transplant with extended criteria",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19527,
+            "end_offset": 19580,
+            "annotation_id": "RG_248"
+        },
+        {
+            "decision": "complicated by VAP sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19581,
+            "end_offset": 19606,
+            "annotation_id": "RG_249"
+        },
+        {
+            "decision": "s/p percutaneous tracheostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19607,
+            "end_offset": 19636,
+            "annotation_id": "RG_250"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19660,
+            "end_offset": 19814,
+            "annotation_id": "RG_251"
+        },
+        {
+            "decision": "You going [**Hospital1 **]/[**Hospital **] [**Hospital 8**] Rehab.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 19843,
+            "end_offset": 19908,
+            "annotation_id": "RG_252"
+        },
+        {
+            "decision": "Please call Dr. [**Last Name (STitle) **]/[**Hospital 1326**] clinic if any of the warning signs listed below appear or if you have any concerns/questions.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 19911,
+            "end_offset": 20065,
+            "annotation_id": "RG_253"
+        },
+        {
+            "decision": "You have a tracheostomy and are tolerating trach mask.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 20067,
+            "end_offset": 20120,
+            "annotation_id": "RG_254"
+        },
+        {
+            "decision": "Please follow-up in 1 week at the transplant clinic with Dr. [**Last Name (STitle) **] - please call [**Telephone/Fax (1) 673**] to schedule an appointment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 20146,
+            "end_offset": 20301,
+            "annotation_id": "RG_255"
+        }
+    ]
+}

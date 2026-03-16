@@ -1,0 +1,545 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "73134_157623_42054",
+    "annotations": [
+        {
+            "decision": "Cardiac arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 249,
+            "end_offset": 263,
+            "annotation_id": "PC_000"
+        },
+        {
+            "decision": "Intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 304,
+            "end_offset": 314,
+            "annotation_id": "PC_001"
+        },
+        {
+            "decision": "CPR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 316,
+            "end_offset": 319,
+            "annotation_id": "PC_002"
+        },
+        {
+            "decision": "right groin CVL.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 321,
+            "end_offset": 336,
+            "annotation_id": "PC_003"
+        },
+        {
+            "decision": "HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 391,
+            "end_offset": 394,
+            "annotation_id": "PC_004"
+        },
+        {
+            "decision": "DM ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 396,
+            "end_offset": 398,
+            "annotation_id": "PC_005"
+        },
+        {
+            "decision": "NSTEMI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 411,
+            "end_offset": 417,
+            "annotation_id": "PC_006"
+        },
+        {
+            "decision": "?cholangitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 423,
+            "end_offset": 434,
+            "annotation_id": "PC_007"
+        },
+        {
+            "decision": "presumed sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 525,
+            "end_offset": 540,
+            "annotation_id": "PC_008"
+        },
+        {
+            "decision": "was brought to [**Hospital1 18**] ED",
+            "category": "Category 1: Contact related",
+            "start_offset": 708,
+            "end_offset": 744,
+            "annotation_id": "PC_009"
+        },
+        {
+            "decision": "noninvasive ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 765,
+            "end_offset": 788,
+            "annotation_id": "PC_010"
+        },
+        {
+            "decision": "transferred back to TMC",
+            "category": "Category 1: Contact related",
+            "start_offset": 804,
+            "end_offset": 827,
+            "annotation_id": "PC_011"
+        },
+        {
+            "decision": "discharged to rehab",
+            "category": "Category 1: Contact related",
+            "start_offset": 852,
+            "end_offset": 871,
+            "annotation_id": "PC_012"
+        },
+        {
+            "decision": "started CPR for 4 rounds, 3 additional shocks, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1054,
+            "end_offset": 1099,
+            "annotation_id": "PC_013"
+        },
+        {
+            "decision": " and 3 doses of epi. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1101,
+            "end_offset": 1119,
+            "annotation_id": "PC_014"
+        },
+        {
+            "decision": "intubated for airway protection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1129,
+            "end_offset": 1160,
+            "annotation_id": "PC_015"
+        },
+        {
+            "decision": "CPR in progress even upon arrival to ED. Left IO placed for access.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1162,
+            "end_offset": 1228,
+            "annotation_id": "PC_016"
+        },
+        {
+            "decision": "pulseless",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1255,
+            "end_offset": 1264,
+            "annotation_id": "PC_017"
+        },
+        {
+            "decision": "CPR continued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1266,
+            "end_offset": 1279,
+            "annotation_id": "PC_018"
+        },
+        {
+            "decision": "2 atropine and 4 rounds of epi",
+            "category": "Category 5: Drug related",
+            "start_offset": 1280,
+            "end_offset": 1310,
+            "annotation_id": "PC_019"
+        },
+        {
+            "decision": "Return of pulse after 3rd round of epi and 1 shock.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1312,
+            "end_offset": 1362,
+            "annotation_id": "PC_020"
+        },
+        {
+            "decision": "Right groin line placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1364,
+            "end_offset": 1387,
+            "annotation_id": "PC_021"
+        },
+        {
+            "decision": "levo and dopamine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1392,
+            "end_offset": 1409,
+            "annotation_id": "PC_022"
+        },
+        {
+            "decision": "Dopa 5, norepi at 5,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1411,
+            "end_offset": 1430,
+            "annotation_id": "PC_023"
+        },
+        {
+            "decision": "4L of fluid",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1432,
+            "end_offset": 1443,
+            "annotation_id": "PC_024"
+        },
+        {
+            "decision": "One bolus of amiodarone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1445,
+            "end_offset": 1468,
+            "annotation_id": "PC_025"
+        },
+        {
+            "decision": "VT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1485,
+            "end_offset": 1487,
+            "annotation_id": "PC_026"
+        },
+        {
+            "decision": "on vent.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1508,
+            "end_offset": 1515,
+            "annotation_id": "PC_027"
+        },
+        {
+            "decision": "NSTEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1524,
+            "end_offset": 1530,
+            "annotation_id": "PC_028"
+        },
+        {
+            "decision": "EKG obtained was difficult to interpret with nonspecific ST changes, ?narrow complex",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1532,
+            "end_offset": 1616,
+            "annotation_id": "PC_029"
+        },
+        {
+            "decision": "elevated lactate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1618,
+            "end_offset": 1634,
+            "annotation_id": "PC_030"
+        },
+        {
+            "decision": "Calcium gluconate, insulin and D50",
+            "category": "Category 5: Drug related",
+            "start_offset": 1644,
+            "end_offset": 1678,
+            "annotation_id": "PC_031"
+        },
+        {
+            "decision": "No EKG changes. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1693,
+            "end_offset": 1707,
+            "annotation_id": "PC_032"
+        },
+        {
+            "decision": "bicarb and amio drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 1755,
+            "end_offset": 1775,
+            "annotation_id": "PC_033"
+        },
+        {
+            "decision": "Postarrest team contact[**Name (NI) **",
+            "category": "Category 1: Contact related",
+            "start_offset": 1777,
+            "end_offset": 1815,
+            "annotation_id": "PC_034"
+        },
+        {
+            "decision": "cooling protocol initiated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1822,
+            "end_offset": 1848,
+            "annotation_id": "PC_035"
+        },
+        {
+            "decision": "CT head negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1874,
+            "end_offset": 1890,
+            "annotation_id": "PC_036"
+        },
+        {
+            "decision": "CT torso, and CTA chest pending",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1892,
+            "end_offset": 1923,
+            "annotation_id": "PC_037"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1948,
+            "end_offset": 1951,
+            "annotation_id": "PC_038"
+        },
+        {
+            "decision": "DM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1952,
+            "end_offset": 1954,
+            "annotation_id": "PC_039"
+        },
+        {
+            "decision": "?Recent NSTEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1956,
+            "end_offset": 1969,
+            "annotation_id": "PC_040"
+        },
+        {
+            "decision": "?Recent cholangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1971,
+            "end_offset": 1989,
+            "annotation_id": "PC_041"
+        },
+        {
+            "decision": "Patient pulseless",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2113,
+            "end_offset": 2130,
+            "annotation_id": "PC_042"
+        },
+        {
+            "decision": "CPR initiated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2132,
+            "end_offset": 2145,
+            "annotation_id": "PC_043"
+        },
+        {
+            "decision": "CT abd pelvis: 1. Massive dilation of CBD and intrahepatic biliary tree.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3230,
+            "end_offset": 3301,
+            "annotation_id": "PC_044"
+        },
+        {
+            "decision": "Dilated left intrahepatic bile duct with atrophy of the left hepatic lobe.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3303,
+            "end_offset": 3376,
+            "annotation_id": "PC_045"
+        },
+        {
+            "decision": "The presence of purulent material within the biliary tree in this patient with reported history of oriental cholangiohepatitis is not excluded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3378,
+            "end_offset": 3520,
+            "annotation_id": "PC_046"
+        },
+        {
+            "decision": "2. Heterogeneous ill-defined area of low density just inferior to the left hepatic lobe extending towards the pancreatic head",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3585,
+            "end_offset": 3710,
+            "annotation_id": "PC_047"
+        },
+        {
+            "decision": "could represent mass or possible phlegmon.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3711,
+            "end_offset": 3752,
+            "annotation_id": "PC_048"
+        },
+        {
+            "decision": "Given this finding, along with dilation of the pancreatic duct, atrophy of the pancreas and multiple perihepatic nodules versus lymph nodes, there is concern for possible malignancy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3754,
+            "end_offset": 3935,
+            "annotation_id": "PC_049"
+        },
+        {
+            "decision": "Opacities at the right lung base could represent aspiration or infection. Material within the esophagus could represent reflux, predisposing to aspiration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3996,
+            "end_offset": 4150,
+            "annotation_id": "PC_050"
+        },
+        {
+            "decision": "CT abd pelvis (wetread): CT Chest: ET and NG tubes appropriately positioned",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4166,
+            "end_offset": 4241,
+            "annotation_id": "PC_051"
+        },
+        {
+            "decision": "No Pulmonary embolism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4242,
+            "end_offset": 4263,
+            "annotation_id": "PC_052"
+        },
+        {
+            "decision": "No aortic pathology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4264,
+            "end_offset": 4283,
+            "annotation_id": "PC_053"
+        },
+        {
+            "decision": "Extensive pulmonary consolidations concerning for pneumonia and aspiration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4284,
+            "end_offset": 4358,
+            "annotation_id": "PC_054"
+        },
+        {
+            "decision": "Also ground glass opacities B/L could be Pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4360,
+            "end_offset": 4416,
+            "annotation_id": "PC_055"
+        },
+        {
+            "decision": "Small B/L pleural effusions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4418,
+            "end_offset": 4445,
+            "annotation_id": "PC_056"
+        },
+        {
+            "decision": "CT Abd/Pelvis: Stable Biliary abnormalities",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4448,
+            "end_offset": 4491,
+            "annotation_id": "PC_057"
+        },
+        {
+            "decision": "? Tumor at gastro-hepatic recess",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4494,
+            "end_offset": 4524,
+            "annotation_id": "PC_058"
+        },
+        {
+            "decision": "Hypoenhancement of the kidneys concerning for ATN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4525,
+            "end_offset": 4574,
+            "annotation_id": "PC_059"
+        },
+        {
+            "decision": "CXR: 1. Low lung volumes. Elevation of the right hemidiaphragm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4588,
+            "end_offset": 4650,
+            "annotation_id": "PC_060"
+        },
+        {
+            "decision": "may be due to small pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4717,
+            "end_offset": 4754,
+            "annotation_id": "PC_061"
+        },
+        {
+            "decision": ". Blunting of the costophrenic angles, right greater than left, may be due to small pleural effusions. No focal consolidation seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4655,
+            "end_offset": 4783,
+            "annotation_id": "PC_062"
+        },
+        {
+            "decision": "CT head (prelim): No acute hemorrhage.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4799,
+            "end_offset": 4836,
+            "annotation_id": "PC_063"
+        },
+        {
+            "decision": "HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4881,
+            "end_offset": 4884,
+            "annotation_id": "PC_064"
+        },
+        {
+            "decision": " DM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4886,
+            "end_offset": 4888,
+            "annotation_id": "PC_065"
+        },
+        {
+            "decision": "cholangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4911,
+            "end_offset": 4922,
+            "annotation_id": "PC_066"
+        },
+        {
+            "decision": "NSTEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4927,
+            "end_offset": 4933,
+            "annotation_id": "PC_067"
+        },
+        {
+            "decision": "cardiac arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4955,
+            "end_offset": 4969,
+            "annotation_id": "PC_068"
+        },
+        {
+            "decision": "Patient arrived in CCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 5004,
+            "end_offset": 5026,
+            "annotation_id": "PC_069"
+        },
+        {
+            "decision": "pulseless",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5047,
+            "end_offset": 5056,
+            "annotation_id": "PC_070"
+        },
+        {
+            "decision": "CPR reiniated.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5059,
+            "end_offset": 5072,
+            "annotation_id": "PC_071"
+        },
+        {
+            "decision": "PEA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5089,
+            "end_offset": 5092,
+            "annotation_id": "PC_072"
+        },
+        {
+            "decision": "CPR continued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5095,
+            "end_offset": 5108,
+            "annotation_id": "PC_073"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5138,
+            "end_offset": 5148,
+            "annotation_id": "PC_074"
+        },
+        {
+            "decision": "Epinephrine x2 and bicarbonate",
+            "category": "Category 5: Drug related",
+            "start_offset": 5151,
+            "end_offset": 5181,
+            "annotation_id": "PC_075"
+        },
+        {
+            "decision": "Patient did not regain pulse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5232,
+            "end_offset": 5260,
+            "annotation_id": "PC_076"
+        }
+    ]
+}

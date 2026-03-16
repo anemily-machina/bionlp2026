@@ -1,0 +1,1098 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "50899_193309_37067",
+    "annotations": [
+        {
+            "decision": "hemothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 230,
+            "end_offset": 240,
+            "annotation_id": "MM_000"
+        },
+        {
+            "decision": "Chest tube",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 285,
+            "end_offset": 295,
+            "annotation_id": "MM_001"
+        },
+        {
+            "decision": "s/p RFA procedure ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 374,
+            "end_offset": 391,
+            "annotation_id": "MM_002"
+        },
+        {
+            "decision": "s/p RFA ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 420,
+            "end_offset": 427,
+            "annotation_id": "MM_003"
+        },
+        {
+            "decision": "recent dx of HCC ([**11-25**]) s/p RFA procedure for SVT on [**2173-2-26**], s/p RFA of HCC on [**2173-3-11**] as part of clinical trial,IVC clot on lovenox",
+            "category": "Category 3: Defining problem",
+            "start_offset": 343,
+            "end_offset": 499,
+            "annotation_id": "MM_004"
+        },
+        {
+            "decision": "lovenox",
+            "category": "Category 5: Drug related",
+            "start_offset": 492,
+            "end_offset": 499,
+            "annotation_id": "MM_005"
+        },
+        {
+            "decision": "presented to the [**Hospital1 18**] ED w/ fever, dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 505,
+            "end_offset": 561,
+            "annotation_id": "MM_006"
+        },
+        {
+            "decision": "He presented to the ED where a CT scan was obtained which demonstrated a large R hemothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 837,
+            "end_offset": 928,
+            "annotation_id": "MM_007"
+        },
+        {
+            "decision": "Thoracic surgery was consulted ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 930,
+            "end_offset": 960,
+            "annotation_id": "MM_008"
+        },
+        {
+            "decision": "chest tube was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 967,
+            "end_offset": 988,
+            "annotation_id": "MM_009"
+        },
+        {
+            "decision": "Pt was then admitted to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 994,
+            "end_offset": 1026,
+            "annotation_id": "MM_010"
+        },
+        {
+            "decision": "Patient had a CXR that showed large R pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1107,
+            "end_offset": 1161,
+            "annotation_id": "MM_011"
+        },
+        {
+            "decision": "CT scan showed a large right hemothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1163,
+            "end_offset": 1202,
+            "annotation_id": "MM_012"
+        },
+        {
+            "decision": "Thoracics placed a chest tube.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1204,
+            "end_offset": 1233,
+            "annotation_id": "MM_013"
+        },
+        {
+            "decision": "protamine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1258,
+            "end_offset": 1267,
+            "annotation_id": "MM_014"
+        },
+        {
+            "decision": "2 18g and 1 20g PIV were placed for access",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1283,
+            "end_offset": 1325,
+            "annotation_id": "MM_015"
+        },
+        {
+            "decision": "complaining of pain at the site of chest tube insertion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1536,
+            "end_offset": 1591,
+            "annotation_id": "MM_016"
+        },
+        {
+            "decision": ". h/o SVT since age 39",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1619,
+            "end_offset": 1639,
+            "annotation_id": "MM_017"
+        },
+        {
+            "decision": "HCV cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1643,
+            "end_offset": 1656,
+            "annotation_id": "MM_018"
+        },
+        {
+            "decision": "HCV dx [**2150**], genotype 3, presumably [**1-19**] IVDU",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1665,
+            "end_offset": 1722,
+            "annotation_id": "MM_019"
+        },
+        {
+            "decision": "liver biopsy showed cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1739,
+            "end_offset": 1768,
+            "annotation_id": "MM_020"
+        },
+        {
+            "decision": "s/p Pegylated Interferon-Ribavirin x48 weeks, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1770,
+            "end_offset": 1814,
+            "annotation_id": "MM_021"
+        },
+        {
+            "decision": "became aviremic ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1816,
+            "end_offset": 1831,
+            "annotation_id": "MM_022"
+        },
+        {
+            "decision": "abnl LFTs ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1877,
+            "end_offset": 1886,
+            "annotation_id": "MM_023"
+        },
+        {
+            "decision": "AFP [**2172-11-6**]: 14.8",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1949,
+            "end_offset": 1974,
+            "annotation_id": "MM_024"
+        },
+        {
+            "decision": "CT [**2172-11-20**]: ill-defined 5.6cm mass in superior right lobe of liver",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1977,
+            "end_offset": 2052,
+            "annotation_id": "MM_025"
+        },
+        {
+            "decision": "Bx [**2172-12-4**]: moderately-differentiated HCC, with broad bands of fibrosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2055,
+            "end_offset": 2134,
+            "annotation_id": "MM_026"
+        },
+        {
+            "decision": "Not transplant candidate (lesion outside [**Location (un) 6624**] criteria), not resection or chemoembolization candidate (tumor thrombus)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2137,
+            "end_offset": 2274,
+            "annotation_id": "MM_027"
+        },
+        {
+            "decision": "s/p CyberKnife ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2278,
+            "end_offset": 2292,
+            "annotation_id": "MM_028"
+        },
+        {
+            "decision": "tumor thrombus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2310,
+            "end_offset": 2324,
+            "annotation_id": "MM_029"
+        },
+        {
+            "decision": "Cirrhosis well-compensated, with evidence of portal hypertension (varices) and ascites seen on last CT scan",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2327,
+            "end_offset": 2434,
+            "annotation_id": "MM_030"
+        },
+        {
+            "decision": "Biliary colic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2438,
+            "end_offset": 2451,
+            "annotation_id": "MM_031"
+        },
+        {
+            "decision": "ursodiol",
+            "category": "Category 5: Drug related",
+            "start_offset": 2476,
+            "end_offset": 2484,
+            "annotation_id": "MM_032"
+        },
+        {
+            "decision": "peripheral neuropathy - he has numbness of the soles of his feet and the tip of his second toe bilaterally, appears to be [**1-19**] interferon treatment",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2489,
+            "end_offset": 2642,
+            "annotation_id": "MM_033"
+        },
+        {
+            "decision": "interferon treatment",
+            "category": "Category 5: Drug related",
+            "start_offset": 2622,
+            "end_offset": 2642,
+            "annotation_id": "MM_034"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2646,
+            "end_offset": 2658,
+            "annotation_id": "MM_035"
+        },
+        {
+            "decision": "history of alcohol use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2662,
+            "end_offset": 2684,
+            "annotation_id": "MM_036"
+        },
+        {
+            "decision": "history of IV drug use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2688,
+            "end_offset": 2710,
+            "annotation_id": "MM_037"
+        },
+        {
+            "decision": "Seasonal allergies",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2714,
+            "end_offset": 2732,
+            "annotation_id": "MM_038"
+        },
+        {
+            "decision": "s/p knee surgery age 16",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2736,
+            "end_offset": 2759,
+            "annotation_id": "MM_039"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress, somewhat cachetic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3246,
+            "end_offset": 3308,
+            "annotation_id": "MM_040"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3309,
+            "end_offset": 3355,
+            "annotation_id": "MM_041"
+        },
+        {
+            "decision": "Neck: supple, JVP elevated 8cm, no LAD, trachea midline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3356,
+            "end_offset": 3411,
+            "annotation_id": "MM_042"
+        },
+        {
+            "decision": "Lungs: Breath sounds absent on R lower and middle lung base, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3412,
+            "end_offset": 3498,
+            "annotation_id": "MM_043"
+        },
+        {
+            "decision": "CV: tachycardic, regular, normal S1 + S2, no murmurs, rubs, gallops. Chest tube in place draining",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3499,
+            "end_offset": 3596,
+            "annotation_id": "MM_044"
+        },
+        {
+            "decision": "Abdomen: soft, distended,bowel sounds present, no rebound tenderness or guarding.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3597,
+            "end_offset": 3677,
+            "annotation_id": "MM_045"
+        },
+        {
+            "decision": "GU: no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3679,
+            "end_offset": 3691,
+            "annotation_id": "MM_046"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3692,
+            "end_offset": 3759,
+            "annotation_id": "MM_047"
+        },
+        {
+            "decision": "Large right-sided hemothorax with two areas of active extravasation, one of which may be arising from intercostal artery.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4063,
+            "end_offset": 4183,
+            "annotation_id": "MM_048"
+        },
+        {
+            "decision": "Expected hematoma within the RFA site in the liver dome without enhancement.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4188,
+            "end_offset": 4263,
+            "annotation_id": "MM_049"
+        },
+        {
+            "decision": "Thrombus within the main portal vein and SMV, slightly decreased when compared to prior exam",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4268,
+            "end_offset": 4360,
+            "annotation_id": "MM_050"
+        },
+        {
+            "decision": "Previously identified thrombus in the middle hepatic vein is not well seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4362,
+            "end_offset": 4436,
+            "annotation_id": "MM_051"
+        },
+        {
+            "decision": "Cavernous transformation of the portal vein is also identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4438,
+            "end_offset": 4500,
+            "annotation_id": "MM_052"
+        },
+        {
+            "decision": "Heterogeneous appearance of the liver concerning for multifocal tumor, incompletely characterized.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4505,
+            "end_offset": 4602,
+            "annotation_id": "MM_053"
+        },
+        {
+            "decision": "Large amount of ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4607,
+            "end_offset": 4630,
+            "annotation_id": "MM_054"
+        },
+        {
+            "decision": "Small loculated areas of air seen in the right base at the site of one of the chest tubes which has now been removed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4703,
+            "end_offset": 4819,
+            "annotation_id": "MM_055"
+        },
+        {
+            "decision": "No apical pneumothorax is present.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4821,
+            "end_offset": 4854,
+            "annotation_id": "MM_056"
+        },
+        {
+            "decision": "Atelectasis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4856,
+            "end_offset": 4867,
+            "annotation_id": "MM_057"
+        },
+        {
+            "decision": "Atelectasis at the right base persists, little changed from the prior chest x-ray.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4856,
+            "end_offset": 4937,
+            "annotation_id": "MM_058"
+        },
+        {
+            "decision": "The left lung field remains clear. There is no failure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4939,
+            "end_offset": 4993,
+            "annotation_id": "MM_059"
+        },
+        {
+            "decision": "IMPRESSION: No significant change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4996,
+            "end_offset": 5029,
+            "annotation_id": "MM_060"
+        },
+        {
+            "decision": "Hemothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5057,
+            "end_offset": 5067,
+            "annotation_id": "MM_061"
+        },
+        {
+            "decision": "Hemothorax which was felt to be secondary to intercostal vessel injury in the setting of his RFA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5108,
+            "end_offset": 5204,
+            "annotation_id": "MM_062"
+        },
+        {
+            "decision": "This required VATS with 2 Liters of old blood removed, and the placement of three chest tubes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5207,
+            "end_offset": 5300,
+            "annotation_id": "MM_063"
+        },
+        {
+            "decision": "Eventually all three chest tubes were pulled",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5302,
+            "end_offset": 5346,
+            "annotation_id": "MM_064"
+        },
+        {
+            "decision": "the patients CXRs showed healing, and he began to ambulate easily with physical therapy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5348,
+            "end_offset": 5435,
+            "annotation_id": "MM_065"
+        },
+        {
+            "decision": "initially recomended for subacute rehab placement, however an amenable facility could not be found.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5454,
+            "end_offset": 5552,
+            "annotation_id": "MM_066"
+        },
+        {
+            "decision": "He worked more intensely with PT who cleared him to go home with home PT.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5555,
+            "end_offset": 5627,
+            "annotation_id": "MM_067"
+        },
+        {
+            "decision": "Follow-up was scheduled with thoracic surgery.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5630,
+            "end_offset": 5675,
+            "annotation_id": "MM_068"
+        },
+        {
+            "decision": "Increasing abdominal distension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5682,
+            "end_offset": 5713,
+            "annotation_id": "MM_069"
+        },
+        {
+            "decision": "patient began experiencing abdominal distension, gastric discomfort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5754,
+            "end_offset": 5821,
+            "annotation_id": "MM_070"
+        },
+        {
+            "decision": "NG tube was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5824,
+            "end_offset": 5842,
+            "annotation_id": "MM_071"
+        },
+        {
+            "decision": "KUB was checked and an illeus was discovered",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5844,
+            "end_offset": 5888,
+            "annotation_id": "MM_072"
+        },
+        {
+            "decision": "Eventually with NG suction, ambulation, and PR suppositories",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5891,
+            "end_offset": 5951,
+            "annotation_id": "MM_073"
+        },
+        {
+            "decision": "illeus resolved and the patient felt relief",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5957,
+            "end_offset": 6000,
+            "annotation_id": "MM_074"
+        },
+        {
+            "decision": "He continued to complain of abdominal distension and discomfort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6003,
+            "end_offset": 6066,
+            "annotation_id": "MM_075"
+        },
+        {
+            "decision": "Repaeat imaging showed resolution of his bowel gas pattern, and persistent asci",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6069,
+            "end_offset": 6151,
+            "annotation_id": "MM_076"
+        },
+        {
+            "decision": "Paracentesis was discussed among the team, the patient, and the patient's HCP and it was determined that the preference would be to spare the patient another procedure",
+            "category": "Category 8: Deferment",
+            "start_offset": 6154,
+            "end_offset": 6321,
+            "annotation_id": "MM_077"
+        },
+        {
+            "decision": "He was initially started on 50 of spironolactone and 20 of lasix, with a small improvement in his distension.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6324,
+            "end_offset": 6432,
+            "annotation_id": "MM_078"
+        },
+        {
+            "decision": "small improvement in his distension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6397,
+            "end_offset": 6432,
+            "annotation_id": "MM_079"
+        },
+        {
+            "decision": "SVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6438,
+            "end_offset": 6441,
+            "annotation_id": "MM_080"
+        },
+        {
+            "decision": "s/p ablation for SVT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6455,
+            "end_offset": 6475,
+            "annotation_id": "MM_081"
+        },
+        {
+            "decision": "SVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6472,
+            "end_offset": 6475,
+            "annotation_id": "MM_082"
+        },
+        {
+            "decision": "transferred out of the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6509,
+            "end_offset": 6535,
+            "annotation_id": "MM_083"
+        },
+        {
+            "decision": "found to be in SVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6543,
+            "end_offset": 6561,
+            "annotation_id": "MM_084"
+        },
+        {
+            "decision": "which he came out of with IV dilt",
+            "category": "Category 5: Drug related",
+            "start_offset": 6563,
+            "end_offset": 6596,
+            "annotation_id": "MM_085"
+        },
+        {
+            "decision": "oral metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6603,
+            "end_offset": 6618,
+            "annotation_id": "MM_086"
+        },
+        {
+            "decision": "he never returned into a rapid rhythym.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6619,
+            "end_offset": 6657,
+            "annotation_id": "MM_087"
+        },
+        {
+            "decision": "He was in sinus the entire time he was on the floor.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6660,
+            "end_offset": 6711,
+            "annotation_id": "MM_088"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6716,
+            "end_offset": 6722,
+            "annotation_id": "MM_089"
+        },
+        {
+            "decision": "8 units transfed in unit",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6793,
+            "end_offset": 6817,
+            "annotation_id": "MM_090"
+        },
+        {
+            "decision": "His HCT was stable the entire time he was on the floor.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6859,
+            "end_offset": 6913,
+            "annotation_id": "MM_091"
+        },
+        {
+            "decision": "Hyponatremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6918,
+            "end_offset": 6930,
+            "annotation_id": "MM_092"
+        },
+        {
+            "decision": "Suspect hypovolemic hyponatremia in setting of recent blood loss into hemothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6975,
+            "end_offset": 7055,
+            "annotation_id": "MM_093"
+        },
+        {
+            "decision": "IVF ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7084,
+            "end_offset": 7087,
+            "annotation_id": "MM_094"
+        },
+        {
+            "decision": "Has increased to 134 with IVF and xfusions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7058,
+            "end_offset": 7100,
+            "annotation_id": "MM_095"
+        },
+        {
+            "decision": "xfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7092,
+            "end_offset": 7100,
+            "annotation_id": "MM_096"
+        },
+        {
+            "decision": "Eventually normalized with IV hydration (albumin).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7102,
+            "end_offset": 7150,
+            "annotation_id": "MM_097"
+        },
+        {
+            "decision": "IV hydration (albumin).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7129,
+            "end_offset": 7150,
+            "annotation_id": "MM_098"
+        },
+        {
+            "decision": "HCC: Pt currently on clinical trial for HCC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7156,
+            "end_offset": 7199,
+            "annotation_id": "MM_099"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] followed the whole time the patient was in house, which was greatly appreciated.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7201,
+            "end_offset": 7310,
+            "annotation_id": "MM_100"
+        },
+        {
+            "decision": "IVC clot vs SMV/Portal Vein clot",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7315,
+            "end_offset": 7347,
+            "annotation_id": "MM_101"
+        },
+        {
+            "decision": "There was extensive imaging of this lesion, which was documented to have resolved ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7348,
+            "end_offset": 7429,
+            "annotation_id": "MM_102"
+        },
+        {
+            "decision": "resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7421,
+            "end_offset": 7429,
+            "annotation_id": "MM_103"
+        },
+        {
+            "decision": "patient was discharged ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7438,
+            "end_offset": 7460,
+            "annotation_id": "MM_104"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7498,
+            "end_offset": 7510,
+            "annotation_id": "MM_105"
+        },
+        {
+            "decision": "We held home antihypertensive medications in setting of the bleed",
+            "category": "Category 5: Drug related",
+            "start_offset": 7513,
+            "end_offset": 7578,
+            "annotation_id": "MM_106"
+        },
+        {
+            "decision": "patient never had issues with hypertension so he was sent out off of them.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7588,
+            "end_offset": 7661,
+            "annotation_id": "MM_107"
+        },
+        {
+            "decision": "Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)  as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7696,
+            "end_offset": 7781,
+            "annotation_id": "MM_108"
+        },
+        {
+            "decision": "Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7786,
+            "end_offset": 7845,
+            "annotation_id": "MM_109"
+        },
+        {
+            "decision": "Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7852,
+            "end_offset": 7910,
+            "annotation_id": "MM_110"
+        },
+        {
+            "decision": "Ursodiol 500 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7917,
+            "end_offset": 7973,
+            "annotation_id": "MM_111"
+        },
+        {
+            "decision": "Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for bloating. Disp:*30 Tablet, Chewable(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7978,
+            "end_offset": 8131,
+            "annotation_id": "MM_112"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice  a day then once a day: Take one tablet twice a day for three days, then take one tablet once a day (in the morning) for three  more days, then stop. Disp:*9 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8135,
+            "end_offset": 8377,
+            "annotation_id": "MM_113"
+        },
+        {
+            "decision": "Hydromorphone 2 mg Tablet Sig: 0.5-1 Tablet PO Q4H (every 4 hours) as needed for pain for 14 days. Disp:*84 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8406,
+            "end_offset": 8536,
+            "annotation_id": "MM_114"
+        },
+        {
+            "decision": "Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12 hours on then remove for 12 hours. Disp:*30 Adhesive Patch, Medicated(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8540,
+            "end_offset": 8744,
+            "annotation_id": "MM_115"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8748,
+            "end_offset": 8856,
+            "annotation_id": "MM_116"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8860,
+            "end_offset": 8977,
+            "annotation_id": "MM_117"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8983,
+            "end_offset": 9056,
+            "annotation_id": "MM_118"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9062,
+            "end_offset": 9151,
+            "annotation_id": "MM_119"
+        },
+        {
+            "decision": "Simethicone 80 mg Tablet, Chewable Sig: 1.5 Tablet, Chewables PO QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9156,
+            "end_offset": 9239,
+            "annotation_id": "MM_120"
+        },
+        {
+            "decision": "Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal [**Hospital1 **] (2 times a day). Disp:*60 Suppository(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9245,
+            "end_offset": 9375,
+            "annotation_id": "MM_121"
+        },
+        {
+            "decision": "Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9379,
+            "end_offset": 9476,
+            "annotation_id": "MM_122"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9481,
+            "end_offset": 9574,
+            "annotation_id": "MM_123"
+        },
+        {
+            "decision": "Home With Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 9600,
+            "end_offset": 9617,
+            "annotation_id": "MM_124"
+        },
+        {
+            "decision": "Personal Touch VNA",
+            "category": "Category 1: Contact related",
+            "start_offset": 9629,
+            "end_offset": 9647,
+            "annotation_id": "MM_125"
+        },
+        {
+            "decision": "Hemothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9670,
+            "end_offset": 9680,
+            "annotation_id": "MM_126"
+        },
+        {
+            "decision": "Illeus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9681,
+            "end_offset": 9687,
+            "annotation_id": "MM_127"
+        },
+        {
+            "decision": "Ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9688,
+            "end_offset": 9695,
+            "annotation_id": "MM_128"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9719,
+            "end_offset": 9752,
+            "annotation_id": "MM_129"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9754,
+            "end_offset": 9799,
+            "annotation_id": "MM_130"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9801,
+            "end_offset": 9842,
+            "annotation_id": "MM_131"
+        },
+        {
+            "decision": "found to have bleeding following your RFA for your hepatocellular cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9900,
+            "end_offset": 9972,
+            "annotation_id": "MM_132"
+        },
+        {
+            "decision": "underwent surgical drainage of this blood and briefly required chest tubes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9979,
+            "end_offset": 10053,
+            "annotation_id": "MM_133"
+        },
+        {
+            "decision": "You did well after these chest tubes came out and eventually were safe to walk around the floor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10057,
+            "end_offset": 10152,
+            "annotation_id": "MM_134"
+        },
+        {
+            "decision": "Your stay was complicated by constipation known as illeus, and accumulated fluid in your abdomen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10155,
+            "end_offset": 10251,
+            "annotation_id": "MM_135"
+        },
+        {
+            "decision": "We started you on diuretic medications for the fluid and laxatives for the illeus",
+            "category": "Category 5: Drug related",
+            "start_offset": 10254,
+            "end_offset": 10335,
+            "annotation_id": "MM_136"
+        },
+        {
+            "decision": "illeus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10329,
+            "end_offset": 10335,
+            "annotation_id": "MM_137"
+        },
+        {
+            "decision": "The following medications were stopped and must be discussed with your PCP at [**Name9 (PRE) 83565**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 10397,
+            "end_offset": 10498,
+            "annotation_id": "MM_138"
+        },
+        {
+            "decision": "Lisinopril, Amlodipine, ursodiol",
+            "category": "Category 5: Drug related",
+            "start_offset": 10499,
+            "end_offset": 10531,
+            "annotation_id": "MM_139"
+        },
+        {
+            "decision": "The following medications were started",
+            "category": "Category 5: Drug related",
+            "start_offset": 10532,
+            "end_offset": 10570,
+            "annotation_id": "MM_140"
+        },
+        {
+            "decision": "Dilaudid 2mg .5-1tab every four hours as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 10572,
+            "end_offset": 10628,
+            "annotation_id": "MM_141"
+        },
+        {
+            "decision": "Lidocaine patch 12 hours on 12 hours off once per day for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 10629,
+            "end_offset": 10691,
+            "annotation_id": "MM_142"
+        },
+        {
+            "decision": "Metoprolol 25mg three times per day to control your heart rate",
+            "category": "Category 5: Drug related",
+            "start_offset": 10692,
+            "end_offset": 10754,
+            "annotation_id": "MM_143"
+        },
+        {
+            "decision": "Omeprazole 40mg Daily to protect your stomach",
+            "category": "Category 5: Drug related",
+            "start_offset": 10755,
+            "end_offset": 10800,
+            "annotation_id": "MM_144"
+        },
+        {
+            "decision": "Docusate 100mg twice per day for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 10801,
+            "end_offset": 10846,
+            "annotation_id": "MM_145"
+        },
+        {
+            "decision": "Senna 8.6mg 1 tab twice per day for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 10847,
+            "end_offset": 10895,
+            "annotation_id": "MM_146"
+        },
+        {
+            "decision": "Simethicone 80mg up to four times per day as needed for gas",
+            "category": "Category 5: Drug related",
+            "start_offset": 10896,
+            "end_offset": 10955,
+            "annotation_id": "MM_147"
+        },
+        {
+            "decision": "Bisacodyl 10mg per rectum up to twice per day as needed for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 10956,
+            "end_offset": 11028,
+            "annotation_id": "MM_148"
+        },
+        {
+            "decision": "Spironolactone 50mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11029,
+            "end_offset": 11054,
+            "annotation_id": "MM_149"
+        },
+        {
+            "decision": "Lasix 20mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11055,
+            "end_offset": 11071,
+            "annotation_id": "MM_150"
+        },
+        {
+            "decision": "albuterol inhalers every 6 hours as needed for SOB/wheezing",
+            "category": "Category 5: Drug related",
+            "start_offset": 11072,
+            "end_offset": 11131,
+            "annotation_id": "MM_151"
+        },
+        {
+            "decision": "atrovent  inhalers every 6 hours as needed for SOB/wheezing",
+            "category": "Category 5: Drug related",
+            "start_offset": 11132,
+            "end_offset": 11191,
+            "annotation_id": "MM_152"
+        },
+        {
+            "decision": "Department: TRANSPLANT When: FRIDAY [**2173-4-2**] at 10:00 AM With: [**Name6 (MD) 1382**] [**Name8 (MD) 1383**], MD [**Telephone/Fax (1) 673**] Building: LM [**Hospital Unit Name **] [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 11217,
+            "end_offset": 11485,
+            "annotation_id": "MM_153"
+        },
+        {
+            "decision": "Department: THORACIC SURGERY When: TUESDAY [**2173-4-6**] at 9:30 AM With: [**Name6 (MD) 1532**] [**Last Name (NamePattern4) 8786**], MD [**Telephone/Fax (1) 3020**] Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: EAST     Best Parking: [**Street Address(1) 592**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 11487,
+            "end_offset": 11817,
+            "annotation_id": "MM_154"
+        },
+        {
+            "decision": "Department: HEMATOLOGY/ONCOLOGY When: WEDNESDAY [**2173-4-14**] at 2:00 PM With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2502**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 11819,
+            "end_offset": 12143,
+            "annotation_id": "MM_155"
+        }
+    ]
+}

@@ -1,0 +1,8459 @@
+[
+  [
+    {
+      "id": 1,
+      "text": "Admission",
+      "start_char": 0,
+      "end_char": 9
+    },
+    {
+      "id": 2,
+      "text": "Date",
+      "start_char": 10,
+      "end_char": 14,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 14,
+      "end_char": 15,
+      "misc": "SpacesAfter=\\s\\s"
+    },
+    {
+      "id": 4,
+      "text": "[",
+      "start_char": 17,
+      "end_char": 18,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "**2100-11-1**]",
+      "start_char": 18,
+      "end_char": 32,
+      "misc": "SpacesAfter=\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s"
+    },
+    {
+      "id": 6,
+      "text": "Discharge",
+      "start_char": 46,
+      "end_char": 55
+    },
+    {
+      "id": 7,
+      "text": "Date",
+      "start_char": 56,
+      "end_char": 60,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ":",
+      "start_char": 60,
+      "end_char": 61,
+      "misc": "SpacesAfter=\\s\\s\\s"
+    },
+    {
+      "id": 9,
+      "text": "[",
+      "start_char": 64,
+      "end_char": 65,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": "**2100-11-2**",
+      "start_char": 65,
+      "end_char": 78,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "]",
+      "start_char": 78,
+      "end_char": 79,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Date",
+      "start_char": 81,
+      "end_char": 85
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 86,
+      "end_char": 88
+    },
+    {
+      "id": 3,
+      "text": "Birth",
+      "start_char": 89,
+      "end_char": 94,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ":",
+      "start_char": 94,
+      "end_char": 95,
+      "misc": "SpacesAfter=\\s\\s"
+    },
+    {
+      "id": 5,
+      "text": "[",
+      "start_char": 97,
+      "end_char": 98,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "**2057-11-8**]",
+      "start_char": 98,
+      "end_char": 112,
+      "misc": "SpacesAfter=\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Sex",
+      "start_char": 125,
+      "end_char": 128,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 128,
+      "end_char": 129,
+      "misc": "SpacesAfter=\\s\\s\\s"
+    },
+    {
+      "id": 3,
+      "text": "F",
+      "start_char": 132,
+      "end_char": 133,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Service",
+      "start_char": 135,
+      "end_char": 142,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 142,
+      "end_char": 143
+    },
+    {
+      "id": 3,
+      "text": "MEDICINE",
+      "start_char": 144,
+      "end_char": 152,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Allergies",
+      "start_char": 154,
+      "end_char": 163,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 163,
+      "end_char": 164,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 3,
+      "text": "Penicillins",
+      "start_char": 165,
+      "end_char": 176
+    },
+    {
+      "id": 4,
+      "text": "/",
+      "start_char": 177,
+      "end_char": 178
+    },
+    {
+      "id": 5,
+      "text": "Amoxicillin",
+      "start_char": 179,
+      "end_char": 190
+    },
+    {
+      "id": 6,
+      "text": "/",
+      "start_char": 191,
+      "end_char": 192
+    },
+    {
+      "id": 7,
+      "text": "E",
+      "start_char": 193,
+      "end_char": 194,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "-",
+      "start_char": 194,
+      "end_char": 195,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "Mycin",
+      "start_char": 195,
+      "end_char": 200
+    },
+    {
+      "id": 10,
+      "text": "/",
+      "start_char": 201,
+      "end_char": 202
+    },
+    {
+      "id": 11,
+      "text": "Latex",
+      "start_char": 203,
+      "end_char": 208
+    },
+    {
+      "id": 12,
+      "text": "/",
+      "start_char": 209,
+      "end_char": 210
+    },
+    {
+      "id": 13,
+      "text": "Ondansetron",
+      "start_char": 211,
+      "end_char": 222
+    },
+    {
+      "id": 14,
+      "text": "/",
+      "start_char": 223,
+      "end_char": 224,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 15,
+      "text": "Vancomycin",
+      "start_char": 225,
+      "end_char": 235
+    },
+    {
+      "id": 16,
+      "text": "/",
+      "start_char": 236,
+      "end_char": 237
+    },
+    {
+      "id": 17,
+      "text": "Levofloxacin",
+      "start_char": 238,
+      "end_char": 250
+    },
+    {
+      "id": 18,
+      "text": "/",
+      "start_char": 251,
+      "end_char": 252
+    },
+    {
+      "id": 19,
+      "text": "Zofran",
+      "start_char": 253,
+      "end_char": 259
+    },
+    {
+      "id": 20,
+      "text": "/",
+      "start_char": 260,
+      "end_char": 261
+    },
+    {
+      "id": 21,
+      "text": "Phenergan",
+      "start_char": 262,
+      "end_char": 271
+    },
+    {
+      "id": 22,
+      "text": "/",
+      "start_char": 272,
+      "end_char": 273
+    },
+    {
+      "id": 23,
+      "text": "Dilaudid",
+      "start_char": 274,
+      "end_char": 282
+    },
+    {
+      "id": 24,
+      "text": "/",
+      "start_char": 283,
+      "end_char": 284,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 25,
+      "text": "Ceftriaxone",
+      "start_char": 285,
+      "end_char": 296
+    },
+    {
+      "id": 26,
+      "text": "/",
+      "start_char": 297,
+      "end_char": 298
+    },
+    {
+      "id": 27,
+      "text": "Sulfamethoxazole",
+      "start_char": 299,
+      "end_char": 315,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 28,
+      "text": "/",
+      "start_char": 315,
+      "end_char": 316,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 29,
+      "text": "Trimethoprim",
+      "start_char": 316,
+      "end_char": 328
+    },
+    {
+      "id": 30,
+      "text": "/",
+      "start_char": 329,
+      "end_char": 330
+    },
+    {
+      "id": 31,
+      "text": "Voriconazole",
+      "start_char": 331,
+      "end_char": 343
+    },
+    {
+      "id": 32,
+      "text": "/",
+      "start_char": 344,
+      "end_char": 345,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 33,
+      "text": "Fluconazole",
+      "start_char": 346,
+      "end_char": 357
+    },
+    {
+      "id": 34,
+      "text": "/",
+      "start_char": 358,
+      "end_char": 359
+    },
+    {
+      "id": 35,
+      "text": "Caspofungin",
+      "start_char": 360,
+      "end_char": 371
+    },
+    {
+      "id": 36,
+      "text": "/",
+      "start_char": 372,
+      "end_char": 373
+    },
+    {
+      "id": 37,
+      "text": "Doxycycline",
+      "start_char": 374,
+      "end_char": 385
+    },
+    {
+      "id": 38,
+      "text": "/",
+      "start_char": 386,
+      "end_char": 387
+    },
+    {
+      "id": 39,
+      "text": "Propranolol",
+      "start_char": 388,
+      "end_char": 399
+    },
+    {
+      "id": 40,
+      "text": "/",
+      "start_char": 400,
+      "end_char": 401,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 41,
+      "text": "Neurontin",
+      "start_char": 402,
+      "end_char": 411
+    },
+    {
+      "id": 42,
+      "text": "/",
+      "start_char": 412,
+      "end_char": 413
+    },
+    {
+      "id": 43,
+      "text": "Azithromycin",
+      "start_char": 414,
+      "end_char": 426
+    },
+    {
+      "id": 44,
+      "text": "/",
+      "start_char": 427,
+      "end_char": 428
+    },
+    {
+      "id": 45,
+      "text": "Xopenex",
+      "start_char": 429,
+      "end_char": 436
+    },
+    {
+      "id": 46,
+      "text": "Hfa",
+      "start_char": 437,
+      "end_char": 440
+    },
+    {
+      "id": 47,
+      "text": "/",
+      "start_char": 441,
+      "end_char": 442
+    },
+    {
+      "id": 48,
+      "text": "Optiray",
+      "start_char": 443,
+      "end_char": 450
+    },
+    {
+      "id": 49,
+      "text": "300",
+      "start_char": 451,
+      "end_char": 454,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Attending",
+      "start_char": 456,
+      "end_char": 465,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":[**",
+      "start_char": 465,
+      "end_char": 469,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": "First",
+      "start_char": 469,
+      "end_char": 474
+    },
+    {
+      "id": 4,
+      "text": "Name3",
+      "start_char": 475,
+      "end_char": 480
+    },
+    {
+      "id": 5,
+      "text": "(",
+      "start_char": 481,
+      "end_char": 482,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "LF",
+      "start_char": 482,
+      "end_char": 484,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ")",
+      "start_char": 484,
+      "end_char": 485
+    },
+    {
+      "id": 8,
+      "text": "8487",
+      "start_char": 486,
+      "end_char": 490,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "**]",
+      "start_char": 490,
+      "end_char": 493,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Chief",
+      "start_char": 494,
+      "end_char": 499
+    },
+    {
+      "id": 2,
+      "text": "Complaint",
+      "start_char": 500,
+      "end_char": 509,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 509,
+      "end_char": 510,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "admit",
+      "start_char": 511,
+      "end_char": 516
+    },
+    {
+      "id": 5,
+      "text": "for",
+      "start_char": 517,
+      "end_char": 520
+    },
+    {
+      "id": 6,
+      "text": "caspofungin",
+      "start_char": 521,
+      "end_char": 532
+    },
+    {
+      "id": 7,
+      "text": "desensitization",
+      "start_char": 533,
+      "end_char": 548,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Major",
+      "start_char": 550,
+      "end_char": 555
+    },
+    {
+      "id": 2,
+      "text": "Surgical",
+      "start_char": 556,
+      "end_char": 564
+    },
+    {
+      "id": 3,
+      "text": "or",
+      "start_char": 565,
+      "end_char": 567
+    },
+    {
+      "id": 4,
+      "text": "Invasive",
+      "start_char": 568,
+      "end_char": 576
+    },
+    {
+      "id": 5,
+      "text": "Procedure",
+      "start_char": 577,
+      "end_char": 586,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ":",
+      "start_char": 586,
+      "end_char": 587,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 7,
+      "text": "None",
+      "start_char": 588,
+      "end_char": 592,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "History",
+      "start_char": 594,
+      "end_char": 601
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 602,
+      "end_char": 604
+    },
+    {
+      "id": 3,
+      "text": "Present",
+      "start_char": 605,
+      "end_char": 612
+    },
+    {
+      "id": 4,
+      "text": "Illness",
+      "start_char": 613,
+      "end_char": 620,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ":",
+      "start_char": 620,
+      "end_char": 621,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 6,
+      "text": "42",
+      "start_char": 622,
+      "end_char": 624,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": "yo",
+      "start_char": 624,
+      "end_char": 626
+    },
+    {
+      "id": 8,
+      "text": "female",
+      "start_char": 627,
+      "end_char": 633
+    },
+    {
+      "id": 9,
+      "text": "with",
+      "start_char": 634,
+      "end_char": 638
+    },
+    {
+      "id": 10,
+      "text": "extremely",
+      "start_char": 639,
+      "end_char": 648
+    },
+    {
+      "id": 11,
+      "text": "extensive",
+      "start_char": 649,
+      "end_char": 658
+    },
+    {
+      "id": 12,
+      "text": "allergy",
+      "start_char": 659,
+      "end_char": 666
+    },
+    {
+      "id": 13,
+      "text": "history",
+      "start_char": 667,
+      "end_char": 674
+    },
+    {
+      "id": 14,
+      "text": "and",
+      "start_char": 675,
+      "end_char": 678
+    },
+    {
+      "id": 15,
+      "text": "history",
+      "start_char": 679,
+      "end_char": 686,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 16,
+      "text": "of",
+      "start_char": 687,
+      "end_char": 689
+    },
+    {
+      "id": 17,
+      "text": "resistant",
+      "start_char": 690,
+      "end_char": 699
+    },
+    {
+      "id": 18,
+      "text": "[",
+      "start_char": 700,
+      "end_char": 701,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "**",
+      "start_char": 701,
+      "end_char": 703,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": "Female",
+      "start_char": 703,
+      "end_char": 709
+    },
+    {
+      "id": 21,
+      "text": "First",
+      "start_char": 710,
+      "end_char": 715
+    },
+    {
+      "id": 22,
+      "text": "Name",
+      "start_char": 716,
+      "end_char": 720
+    },
+    {
+      "id": 23,
+      "text": "(",
+      "start_char": 721,
+      "end_char": 722,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 24,
+      "text": "un",
+      "start_char": 722,
+      "end_char": 724,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": ")",
+      "start_char": 724,
+      "end_char": 725
+    },
+    {
+      "id": 26,
+      "text": "**]",
+      "start_char": 726,
+      "end_char": 729
+    },
+    {
+      "id": 27,
+      "text": "yeast",
+      "start_char": 730,
+      "end_char": 735
+    },
+    {
+      "id": 28,
+      "text": "vaginitis",
+      "start_char": 736,
+      "end_char": 745
+    },
+    {
+      "id": 29,
+      "text": "treated",
+      "start_char": 746,
+      "end_char": 753
+    },
+    {
+      "id": 30,
+      "text": "with",
+      "start_char": 754,
+      "end_char": 758
+    },
+    {
+      "id": 31,
+      "text": "caspofungin",
+      "start_char": 759,
+      "end_char": 770
+    },
+    {
+      "id": 32,
+      "text": "a",
+      "start_char": 771,
+      "end_char": 772,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 33,
+      "text": "few",
+      "start_char": 773,
+      "end_char": 776
+    },
+    {
+      "id": 34,
+      "text": "years",
+      "start_char": 777,
+      "end_char": 782
+    },
+    {
+      "id": 35,
+      "text": "ago",
+      "start_char": 783,
+      "end_char": 786,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 36,
+      "text": ",",
+      "start_char": 786,
+      "end_char": 787
+    },
+    {
+      "id": 37,
+      "text": "to",
+      "start_char": 788,
+      "end_char": 790
+    },
+    {
+      "id": 38,
+      "text": "which",
+      "start_char": 791,
+      "end_char": 796
+    },
+    {
+      "id": 39,
+      "text": "she",
+      "start_char": 797,
+      "end_char": 800
+    },
+    {
+      "id": 40,
+      "text": "developed",
+      "start_char": 801,
+      "end_char": 810
+    },
+    {
+      "id": 41,
+      "text": "chest",
+      "start_char": 811,
+      "end_char": 816
+    },
+    {
+      "id": 42,
+      "text": "tightness",
+      "start_char": 817,
+      "end_char": 826
+    },
+    {
+      "id": 43,
+      "text": "during",
+      "start_char": 827,
+      "end_char": 833,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 44,
+      "text": "that",
+      "start_char": 834,
+      "end_char": 838
+    },
+    {
+      "id": 45,
+      "text": "course",
+      "start_char": 839,
+      "end_char": 845,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 46,
+      "text": ",",
+      "start_char": 845,
+      "end_char": 846
+    },
+    {
+      "id": 47,
+      "text": "who",
+      "start_char": 847,
+      "end_char": 850
+    },
+    {
+      "id": 48,
+      "text": "is",
+      "start_char": 851,
+      "end_char": 853
+    },
+    {
+      "id": 49,
+      "text": "now",
+      "start_char": 854,
+      "end_char": 857
+    },
+    {
+      "id": 50,
+      "text": "coming",
+      "start_char": 858,
+      "end_char": 864
+    },
+    {
+      "id": 51,
+      "text": "in",
+      "start_char": 865,
+      "end_char": 867
+    },
+    {
+      "id": 52,
+      "text": "for",
+      "start_char": 868,
+      "end_char": 871
+    },
+    {
+      "id": 53,
+      "text": "caspofungin",
+      "start_char": 872,
+      "end_char": 883,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 54,
+      "text": "desensitization",
+      "start_char": 884,
+      "end_char": 899
+    },
+    {
+      "id": 55,
+      "text": "in",
+      "start_char": 900,
+      "end_char": 902
+    },
+    {
+      "id": 56,
+      "text": "order",
+      "start_char": 903,
+      "end_char": 908
+    },
+    {
+      "id": 57,
+      "text": "to",
+      "start_char": 909,
+      "end_char": 911
+    },
+    {
+      "id": 58,
+      "text": "treat",
+      "start_char": 912,
+      "end_char": 917
+    },
+    {
+      "id": 59,
+      "text": "a",
+      "start_char": 918,
+      "end_char": 919
+    },
+    {
+      "id": 60,
+      "text": "recurrent",
+      "start_char": 920,
+      "end_char": 929
+    },
+    {
+      "id": 61,
+      "text": "resistant",
+      "start_char": 930,
+      "end_char": 939
+    },
+    {
+      "id": 62,
+      "text": "yest",
+      "start_char": 940,
+      "end_char": 944,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 63,
+      "text": "infection",
+      "start_char": 945,
+      "end_char": 954,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 64,
+      "text": ".",
+      "start_char": 954,
+      "end_char": 955
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Seen",
+      "start_char": 956,
+      "end_char": 960
+    },
+    {
+      "id": 2,
+      "text": "in",
+      "start_char": 961,
+      "end_char": 963
+    },
+    {
+      "id": 3,
+      "text": "[",
+      "start_char": 964,
+      "end_char": 965,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "**",
+      "start_char": 965,
+      "end_char": 967,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "Company",
+      "start_char": 967,
+      "end_char": 974
+    },
+    {
+      "id": 6,
+      "text": "191**]",
+      "start_char": 975,
+      "end_char": 981
+    },
+    {
+      "id": 7,
+      "text": "[",
+      "start_char": 982,
+      "end_char": 983,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "**",
+      "start_char": 983,
+      "end_char": 985,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "10",
+      "start_char": 985,
+      "end_char": 987,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": "-",
+      "start_char": 987,
+      "end_char": 988,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "1",
+      "start_char": 988,
+      "end_char": 989,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "**",
+      "start_char": 989,
+      "end_char": 991,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "]",
+      "start_char": 991,
+      "end_char": 992
+    },
+    {
+      "id": 14,
+      "text": "where",
+      "start_char": 993,
+      "end_char": 998
+    },
+    {
+      "id": 15,
+      "text": "vaginal",
+      "start_char": 999,
+      "end_char": 1006
+    },
+    {
+      "id": 16,
+      "text": "swab",
+      "start_char": 1007,
+      "end_char": 1011
+    },
+    {
+      "id": 17,
+      "text": "sent",
+      "start_char": 1012,
+      "end_char": 1016
+    },
+    {
+      "id": 18,
+      "text": "off",
+      "start_char": 1017,
+      "end_char": 1020
+    },
+    {
+      "id": 19,
+      "text": "which",
+      "start_char": 1021,
+      "end_char": 1026,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 20,
+      "text": "grew",
+      "start_char": 1027,
+      "end_char": 1031
+    },
+    {
+      "id": 21,
+      "text": "[",
+      "start_char": 1032,
+      "end_char": 1033,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": "**",
+      "start_char": 1033,
+      "end_char": 1035,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 23,
+      "text": "Female",
+      "start_char": 1035,
+      "end_char": 1041
+    },
+    {
+      "id": 24,
+      "text": "First",
+      "start_char": 1042,
+      "end_char": 1047
+    },
+    {
+      "id": 25,
+      "text": "Name",
+      "start_char": 1048,
+      "end_char": 1052
+    },
+    {
+      "id": 26,
+      "text": "(",
+      "start_char": 1053,
+      "end_char": 1054,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 27,
+      "text": "un",
+      "start_char": 1054,
+      "end_char": 1056,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 28,
+      "text": ")",
+      "start_char": 1056,
+      "end_char": 1057
+    },
+    {
+      "id": 29,
+      "text": "**]",
+      "start_char": 1058,
+      "end_char": 1061,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 30,
+      "text": ".",
+      "start_char": 1061,
+      "end_char": 1062
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "This",
+      "start_char": 1063,
+      "end_char": 1067
+    },
+    {
+      "id": 2,
+      "text": "was",
+      "start_char": 1068,
+      "end_char": 1071
+    },
+    {
+      "id": 3,
+      "text": "found",
+      "start_char": 1072,
+      "end_char": 1077
+    },
+    {
+      "id": 4,
+      "text": "to",
+      "start_char": 1078,
+      "end_char": 1080
+    },
+    {
+      "id": 5,
+      "text": "be",
+      "start_char": 1081,
+      "end_char": 1083
+    },
+    {
+      "id": 6,
+      "text": "sensitive",
+      "start_char": 1084,
+      "end_char": 1093
+    },
+    {
+      "id": 7,
+      "text": "to",
+      "start_char": 1094,
+      "end_char": 1096
+    },
+    {
+      "id": 8,
+      "text": "caspofungin",
+      "start_char": 1097,
+      "end_char": 1108
+    },
+    {
+      "id": 9,
+      "text": "per",
+      "start_char": 1109,
+      "end_char": 1112,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 10,
+      "text": "outside",
+      "start_char": 1113,
+      "end_char": 1120
+    },
+    {
+      "id": 11,
+      "text": "reference",
+      "start_char": 1121,
+      "end_char": 1130
+    },
+    {
+      "id": 12,
+      "text": "lab",
+      "start_char": 1131,
+      "end_char": 1134,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": ".",
+      "start_char": 1134,
+      "end_char": 1135
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Given",
+      "start_char": 1136,
+      "end_char": 1141
+    },
+    {
+      "id": 2,
+      "text": "her",
+      "start_char": 1142,
+      "end_char": 1145
+    },
+    {
+      "id": 3,
+      "text": "history",
+      "start_char": 1146,
+      "end_char": 1153
+    },
+    {
+      "id": 4,
+      "text": "of",
+      "start_char": 1154,
+      "end_char": 1156
+    },
+    {
+      "id": 5,
+      "text": "allergic",
+      "start_char": 1157,
+      "end_char": 1165
+    },
+    {
+      "id": 6,
+      "text": "reaction",
+      "start_char": 1166,
+      "end_char": 1174
+    },
+    {
+      "id": 7,
+      "text": "to",
+      "start_char": 1175,
+      "end_char": 1177,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 8,
+      "text": "caspofungin",
+      "start_char": 1178,
+      "end_char": 1189,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ",",
+      "start_char": 1189,
+      "end_char": 1190
+    },
+    {
+      "id": 10,
+      "text": "she",
+      "start_char": 1191,
+      "end_char": 1194
+    },
+    {
+      "id": 11,
+      "text": "is",
+      "start_char": 1195,
+      "end_char": 1197
+    },
+    {
+      "id": 12,
+      "text": "being",
+      "start_char": 1198,
+      "end_char": 1203
+    },
+    {
+      "id": 13,
+      "text": "admitted",
+      "start_char": 1204,
+      "end_char": 1212
+    },
+    {
+      "id": 14,
+      "text": "to",
+      "start_char": 1213,
+      "end_char": 1215
+    },
+    {
+      "id": 15,
+      "text": "the",
+      "start_char": 1216,
+      "end_char": 1219
+    },
+    {
+      "id": 16,
+      "text": "ICU",
+      "start_char": 1220,
+      "end_char": 1223
+    },
+    {
+      "id": 17,
+      "text": "for",
+      "start_char": 1224,
+      "end_char": 1227,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 18,
+      "text": "desensitization",
+      "start_char": 1228,
+      "end_char": 1243
+    },
+    {
+      "id": 19,
+      "text": "and",
+      "start_char": 1244,
+      "end_char": 1247
+    },
+    {
+      "id": 20,
+      "text": "monitoring",
+      "start_char": 1248,
+      "end_char": 1258,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 21,
+      "text": ".",
+      "start_char": 1258,
+      "end_char": 1259,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 22,
+      "text": ".",
+      "start_char": 1260,
+      "end_char": 1261,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Of",
+      "start_char": 1262,
+      "end_char": 1264
+    },
+    {
+      "id": 2,
+      "text": "note",
+      "start_char": 1265,
+      "end_char": 1269,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 1269,
+      "end_char": 1270
+    },
+    {
+      "id": 4,
+      "text": "she",
+      "start_char": 1271,
+      "end_char": 1274
+    },
+    {
+      "id": 5,
+      "text": "develops",
+      "start_char": 1275,
+      "end_char": 1283
+    },
+    {
+      "id": 6,
+      "text": "phlebitic",
+      "start_char": 1284,
+      "end_char": 1293
+    },
+    {
+      "id": 7,
+      "text": "reactions",
+      "start_char": 1294,
+      "end_char": 1303
+    },
+    {
+      "id": 8,
+      "text": "to",
+      "start_char": 1304,
+      "end_char": 1306
+    },
+    {
+      "id": 9,
+      "text": "catheters",
+      "start_char": 1307,
+      "end_char": 1316
+    },
+    {
+      "id": 10,
+      "text": "kept",
+      "start_char": 1317,
+      "end_char": 1321
+    },
+    {
+      "id": 11,
+      "text": "in",
+      "start_char": 1322,
+      "end_char": 1324,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 12,
+      "text": "beyonf",
+      "start_char": 1325,
+      "end_char": 1331
+    },
+    {
+      "id": 13,
+      "text": "the",
+      "start_char": 1332,
+      "end_char": 1335
+    },
+    {
+      "id": 14,
+      "text": "actual",
+      "start_char": 1336,
+      "end_char": 1342
+    },
+    {
+      "id": 15,
+      "text": "infusion",
+      "start_char": 1343,
+      "end_char": 1351
+    },
+    {
+      "id": 16,
+      "text": "(",
+      "start_char": 1352,
+      "end_char": 1353,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": "IVs",
+      "start_char": 1353,
+      "end_char": 1356,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": ",",
+      "start_char": 1356,
+      "end_char": 1357
+    },
+    {
+      "id": 19,
+      "text": "PICCs",
+      "start_char": 1358,
+      "end_char": 1363,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 1363,
+      "end_char": 1364
+    },
+    {
+      "id": 21,
+      "text": "etc",
+      "start_char": 1365,
+      "end_char": 1368,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": ")",
+      "start_char": 1368,
+      "end_char": 1369,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 23,
+      "text": ".",
+      "start_char": 1369,
+      "end_char": 1370
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "As",
+      "start_char": 1371,
+      "end_char": 1373
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "start_char": 1374,
+      "end_char": 1375
+    },
+    {
+      "id": 3,
+      "text": "result",
+      "start_char": 1376,
+      "end_char": 1382,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ",",
+      "start_char": 1382,
+      "end_char": 1383
+    },
+    {
+      "id": 5,
+      "text": "once",
+      "start_char": 1384,
+      "end_char": 1388,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 6,
+      "text": "desensitized",
+      "start_char": 1389,
+      "end_char": 1401,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ",",
+      "start_char": 1401,
+      "end_char": 1402
+    },
+    {
+      "id": 8,
+      "text": "she",
+      "start_char": 1403,
+      "end_char": 1406
+    },
+    {
+      "id": 9,
+      "text": "will",
+      "start_char": 1407,
+      "end_char": 1411
+    },
+    {
+      "id": 10,
+      "text": "need",
+      "start_char": 1412,
+      "end_char": 1416
+    },
+    {
+      "id": 11,
+      "text": "daily",
+      "start_char": 1417,
+      "end_char": 1422
+    },
+    {
+      "id": 12,
+      "text": "outpatient",
+      "start_char": 1423,
+      "end_char": 1433
+    },
+    {
+      "id": [
+        13,
+        14
+      ],
+      "text": "IV's",
+      "start_char": 1434,
+      "end_char": 1438
+    },
+    {
+      "id": 13,
+      "text": "IV",
+      "start_char": 1434,
+      "end_char": 1436
+    },
+    {
+      "id": 14,
+      "text": "'s",
+      "start_char": 1436,
+      "end_char": 1438
+    },
+    {
+      "id": 15,
+      "text": "placed",
+      "start_char": 1439,
+      "end_char": 1445
+    },
+    {
+      "id": 16,
+      "text": "at",
+      "start_char": 1446,
+      "end_char": 1448
+    },
+    {
+      "id": 17,
+      "text": "the",
+      "start_char": 1449,
+      "end_char": 1452,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 18,
+      "text": "daycare",
+      "start_char": 1453,
+      "end_char": 1460
+    },
+    {
+      "id": 19,
+      "text": "infusion",
+      "start_char": 1461,
+      "end_char": 1469
+    },
+    {
+      "id": 20,
+      "text": "center",
+      "start_char": 1470,
+      "end_char": 1476
+    },
+    {
+      "id": 21,
+      "text": "in",
+      "start_char": 1477,
+      "end_char": 1479
+    },
+    {
+      "id": 22,
+      "text": "order",
+      "start_char": 1480,
+      "end_char": 1485
+    },
+    {
+      "id": 23,
+      "text": "to",
+      "start_char": 1486,
+      "end_char": 1488
+    },
+    {
+      "id": 24,
+      "text": "continue",
+      "start_char": 1489,
+      "end_char": 1497
+    },
+    {
+      "id": 25,
+      "text": "her",
+      "start_char": 1498,
+      "end_char": 1501
+    },
+    {
+      "id": 26,
+      "text": "caspofungin",
+      "start_char": 1502,
+      "end_char": 1513,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 27,
+      "text": "course",
+      "start_char": 1514,
+      "end_char": 1520,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 28,
+      "text": ".",
+      "start_char": 1520,
+      "end_char": 1521,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": ".",
+      "start_char": 1522,
+      "end_char": 1523,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Review",
+      "start_char": 1524,
+      "end_char": 1530
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 1531,
+      "end_char": 1533
+    },
+    {
+      "id": 3,
+      "text": "systems",
+      "start_char": 1534,
+      "end_char": 1541
+    },
+    {
+      "id": 4,
+      "text": "is",
+      "start_char": 1542,
+      "end_char": 1544
+    },
+    {
+      "id": 5,
+      "text": "positive",
+      "start_char": 1545,
+      "end_char": 1553
+    },
+    {
+      "id": 6,
+      "text": "for",
+      "start_char": 1554,
+      "end_char": 1557
+    },
+    {
+      "id": 7,
+      "text": "a",
+      "start_char": 1558,
+      "end_char": 1559
+    },
+    {
+      "id": 8,
+      "text": "small",
+      "start_char": 1560,
+      "end_char": 1565
+    },
+    {
+      "id": 9,
+      "text": "laceration",
+      "start_char": 1566,
+      "end_char": 1576
+    },
+    {
+      "id": 10,
+      "text": "on",
+      "start_char": 1577,
+      "end_char": 1579
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "start_char": 1580,
+      "end_char": 1583,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 12,
+      "text": "bottom",
+      "start_char": 1584,
+      "end_char": 1590
+    },
+    {
+      "id": 13,
+      "text": "of",
+      "start_char": 1591,
+      "end_char": 1593
+    },
+    {
+      "id": 14,
+      "text": "her",
+      "start_char": 1594,
+      "end_char": 1597
+    },
+    {
+      "id": 15,
+      "text": "right",
+      "start_char": 1598,
+      "end_char": 1603
+    },
+    {
+      "id": 16,
+      "text": "foot",
+      "start_char": 1604,
+      "end_char": 1608,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ".",
+      "start_char": 1608,
+      "end_char": 1609
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "She",
+      "start_char": 1610,
+      "end_char": 1613
+    },
+    {
+      "id": 2,
+      "text": "cut",
+      "start_char": 1614,
+      "end_char": 1617
+    },
+    {
+      "id": 3,
+      "text": "her",
+      "start_char": 1618,
+      "end_char": 1621
+    },
+    {
+      "id": 4,
+      "text": "foot",
+      "start_char": 1622,
+      "end_char": 1626
+    },
+    {
+      "id": 5,
+      "text": "on",
+      "start_char": 1627,
+      "end_char": 1629
+    },
+    {
+      "id": 6,
+      "text": "a",
+      "start_char": 1630,
+      "end_char": 1631
+    },
+    {
+      "id": 7,
+      "text": "clean",
+      "start_char": 1632,
+      "end_char": 1637
+    },
+    {
+      "id": 8,
+      "text": "metal",
+      "start_char": 1638,
+      "end_char": 1643,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 9,
+      "text": "edgue",
+      "start_char": 1644,
+      "end_char": 1649
+    },
+    {
+      "id": 10,
+      "text": "after",
+      "start_char": 1650,
+      "end_char": 1655
+    },
+    {
+      "id": 11,
+      "text": "tripping",
+      "start_char": 1656,
+      "end_char": 1664
+    },
+    {
+      "id": 12,
+      "text": "while",
+      "start_char": 1665,
+      "end_char": 1670
+    },
+    {
+      "id": 13,
+      "text": "putting",
+      "start_char": 1671,
+      "end_char": 1678
+    },
+    {
+      "id": 14,
+      "text": "together",
+      "start_char": 1679,
+      "end_char": 1687
+    },
+    {
+      "id": 15,
+      "text": "a",
+      "start_char": 1688,
+      "end_char": 1689
+    },
+    {
+      "id": 16,
+      "text": "new",
+      "start_char": 1690,
+      "end_char": 1693
+    },
+    {
+      "id": 17,
+      "text": "bed",
+      "start_char": 1694,
+      "end_char": 1697,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": ";",
+      "start_char": 1697,
+      "end_char": 1698
+    },
+    {
+      "id": 19,
+      "text": "no",
+      "start_char": 1699,
+      "end_char": 1701
+    },
+    {
+      "id": 20,
+      "text": "rust",
+      "start_char": 1702,
+      "end_char": 1706,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 21,
+      "text": "or",
+      "start_char": 1707,
+      "end_char": 1709
+    },
+    {
+      "id": 22,
+      "text": "debris",
+      "start_char": 1710,
+      "end_char": 1716
+    },
+    {
+      "id": 23,
+      "text": "on",
+      "start_char": 1717,
+      "end_char": 1719
+    },
+    {
+      "id": 24,
+      "text": "the",
+      "start_char": 1720,
+      "end_char": 1723
+    },
+    {
+      "id": 25,
+      "text": "metal",
+      "start_char": 1724,
+      "end_char": 1729,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 26,
+      "text": ".",
+      "start_char": 1729,
+      "end_char": 1730
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 1731,
+      "end_char": 1733
+    },
+    {
+      "id": 2,
+      "text": "fevers",
+      "start_char": 1734,
+      "end_char": 1740,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 1740,
+      "end_char": 1741
+    },
+    {
+      "id": 4,
+      "text": "but",
+      "start_char": 1742,
+      "end_char": 1745
+    },
+    {
+      "id": 5,
+      "text": "small",
+      "start_char": 1746,
+      "end_char": 1751
+    },
+    {
+      "id": 6,
+      "text": "amount",
+      "start_char": 1752,
+      "end_char": 1758
+    },
+    {
+      "id": 7,
+      "text": "of",
+      "start_char": 1759,
+      "end_char": 1761
+    },
+    {
+      "id": 8,
+      "text": "erythema",
+      "start_char": 1762,
+      "end_char": 1770,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 9,
+      "text": "and",
+      "start_char": 1771,
+      "end_char": 1774
+    },
+    {
+      "id": 10,
+      "text": "discharge",
+      "start_char": 1775,
+      "end_char": 1784
+    },
+    {
+      "id": 11,
+      "text": "at",
+      "start_char": 1785,
+      "end_char": 1787
+    },
+    {
+      "id": 12,
+      "text": "the",
+      "start_char": 1788,
+      "end_char": 1791
+    },
+    {
+      "id": 13,
+      "text": "cut",
+      "start_char": 1792,
+      "end_char": 1795,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ".",
+      "start_char": 1795,
+      "end_char": 1796
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Review",
+      "start_char": 1797,
+      "end_char": 1803
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 1804,
+      "end_char": 1806
+    },
+    {
+      "id": 3,
+      "text": "systems",
+      "start_char": 1807,
+      "end_char": 1814
+    },
+    {
+      "id": 4,
+      "text": "is",
+      "start_char": 1815,
+      "end_char": 1817
+    },
+    {
+      "id": 5,
+      "text": "otherwise",
+      "start_char": 1818,
+      "end_char": 1827,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 6,
+      "text": "negative",
+      "start_char": 1828,
+      "end_char": 1836,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ".",
+      "start_char": 1836,
+      "end_char": 1837,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Past",
+      "start_char": 1840,
+      "end_char": 1844
+    },
+    {
+      "id": 2,
+      "text": "Medical",
+      "start_char": 1845,
+      "end_char": 1852
+    },
+    {
+      "id": 3,
+      "text": "History",
+      "start_char": 1853,
+      "end_char": 1860,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ":",
+      "start_char": 1860,
+      "end_char": 1861,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 5,
+      "text": "presumed",
+      "start_char": 1862,
+      "end_char": 1870
+    },
+    {
+      "id": 6,
+      "text": "autonomic",
+      "start_char": 1871,
+      "end_char": 1880
+    },
+    {
+      "id": 7,
+      "text": "neuropathy",
+      "start_char": 1881,
+      "end_char": 1891
+    },
+    {
+      "id": 8,
+      "text": "for",
+      "start_char": 1892,
+      "end_char": 1895
+    },
+    {
+      "id": 9,
+      "text": "which",
+      "start_char": 1896,
+      "end_char": 1901
+    },
+    {
+      "id": 10,
+      "text": "she",
+      "start_char": 1902,
+      "end_char": 1905
+    },
+    {
+      "id": 11,
+      "text": "receives",
+      "start_char": 1906,
+      "end_char": 1914
+    },
+    {
+      "id": 12,
+      "text": "IVIG",
+      "start_char": 1915,
+      "end_char": 1919,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 13,
+      "text": "bizarre",
+      "start_char": 1920,
+      "end_char": 1927
+    },
+    {
+      "id": 14,
+      "text": "phlebitic",
+      "start_char": 1928,
+      "end_char": 1937
+    },
+    {
+      "id": 15,
+      "text": "reactions",
+      "start_char": 1938,
+      "end_char": 1947
+    },
+    {
+      "id": 16,
+      "text": "to",
+      "start_char": 1948,
+      "end_char": 1950
+    },
+    {
+      "id": 17,
+      "text": "catheters",
+      "start_char": 1951,
+      "end_char": 1960
+    },
+    {
+      "id": 18,
+      "text": "kept",
+      "start_char": 1961,
+      "end_char": 1965
+    },
+    {
+      "id": 19,
+      "text": "in",
+      "start_char": 1966,
+      "end_char": 1968
+    },
+    {
+      "id": 20,
+      "text": "too",
+      "start_char": 1969,
+      "end_char": 1972
+    },
+    {
+      "id": 21,
+      "text": "long",
+      "start_char": 1973,
+      "end_char": 1977,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 22,
+      "text": "atonic",
+      "start_char": 1978,
+      "end_char": 1984
+    },
+    {
+      "id": 23,
+      "text": "colon",
+      "start_char": 1985,
+      "end_char": 1990
+    },
+    {
+      "id": 24,
+      "text": "s/",
+      "start_char": 1991,
+      "end_char": 1993,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": "p",
+      "start_char": 1993,
+      "end_char": 1994
+    },
+    {
+      "id": 26,
+      "text": "resection",
+      "start_char": 1995,
+      "end_char": 2004,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 27,
+      "text": "bronchospasm",
+      "start_char": 2005,
+      "end_char": 2017,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Social",
+      "start_char": 2020,
+      "end_char": 2026
+    },
+    {
+      "id": 2,
+      "text": "History",
+      "start_char": 2027,
+      "end_char": 2034,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 2034,
+      "end_char": 2035,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "No",
+      "start_char": 2036,
+      "end_char": 2038
+    },
+    {
+      "id": 5,
+      "text": "tob",
+      "start_char": 2039,
+      "end_char": 2042,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ",",
+      "start_char": 2042,
+      "end_char": 2043
+    },
+    {
+      "id": 7,
+      "text": "alcohol",
+      "start_char": 2044,
+      "end_char": 2051
+    },
+    {
+      "id": 8,
+      "text": "and",
+      "start_char": 2052,
+      "end_char": 2055
+    },
+    {
+      "id": 9,
+      "text": "illict",
+      "start_char": 2056,
+      "end_char": 2062
+    },
+    {
+      "id": 10,
+      "text": "drugs",
+      "start_char": 2063,
+      "end_char": 2068,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ".",
+      "start_char": 2068,
+      "end_char": 2069
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Former",
+      "start_char": 2070,
+      "end_char": 2076
+    },
+    {
+      "id": 2,
+      "text": "NP",
+      "start_char": 2077,
+      "end_char": 2079
+    },
+    {
+      "id": 3,
+      "text": "in",
+      "start_char": 2080,
+      "end_char": 2082
+    },
+    {
+      "id": 4,
+      "text": "GI",
+      "start_char": 2083,
+      "end_char": 2085
+    },
+    {
+      "id": 5,
+      "text": "unit",
+      "start_char": 2086,
+      "end_char": 2090,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ".",
+      "start_char": 2090,
+      "end_char": 2091,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Family",
+      "start_char": 2093,
+      "end_char": 2099
+    },
+    {
+      "id": 2,
+      "text": "History",
+      "start_char": 2100,
+      "end_char": 2107,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 2107,
+      "end_char": 2108,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "Non-contributory",
+      "start_char": 2109,
+      "end_char": 2125,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Physical",
+      "start_char": 2127,
+      "end_char": 2135
+    },
+    {
+      "id": 2,
+      "text": "Exam",
+      "start_char": 2136,
+      "end_char": 2140,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 2140,
+      "end_char": 2141,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "Physical",
+      "start_char": 2142,
+      "end_char": 2150
+    },
+    {
+      "id": 5,
+      "text": "Exam",
+      "start_char": 2151,
+      "end_char": 2155
+    },
+    {
+      "id": 6,
+      "text": "on",
+      "start_char": 2156,
+      "end_char": 2158
+    },
+    {
+      "id": 7,
+      "text": "Admission",
+      "start_char": 2159,
+      "end_char": 2168,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ":",
+      "start_char": 2168,
+      "end_char": 2169,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "GENERAL",
+      "start_char": 2171,
+      "end_char": 2178,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 2178,
+      "end_char": 2179
+    },
+    {
+      "id": 3,
+      "text": "Pleasant",
+      "start_char": 2180,
+      "end_char": 2188,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ",",
+      "start_char": 2188,
+      "end_char": 2189
+    },
+    {
+      "id": 5,
+      "text": "well",
+      "start_char": 2190,
+      "end_char": 2194
+    },
+    {
+      "id": 6,
+      "text": "appearing",
+      "start_char": 2195,
+      "end_char": 2204
+    },
+    {
+      "id": 7,
+      "text": "woman",
+      "start_char": 2205,
+      "end_char": 2210
+    },
+    {
+      "id": 8,
+      "text": "in",
+      "start_char": 2211,
+      "end_char": 2213
+    },
+    {
+      "id": 9,
+      "text": "NAD",
+      "start_char": 2214,
+      "end_char": 2217,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 10,
+      "text": "HEENT",
+      "start_char": 2218,
+      "end_char": 2223,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ":",
+      "start_char": 2223,
+      "end_char": 2224
+    },
+    {
+      "id": 12,
+      "text": "Normocephalic",
+      "start_char": 2225,
+      "end_char": 2238,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": ",",
+      "start_char": 2238,
+      "end_char": 2239
+    },
+    {
+      "id": 14,
+      "text": "atraumatic",
+      "start_char": 2240,
+      "end_char": 2250,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ".",
+      "start_char": 2250,
+      "end_char": 2251
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 2252,
+      "end_char": 2254
+    },
+    {
+      "id": 2,
+      "text": "conjunctival",
+      "start_char": 2255,
+      "end_char": 2267
+    },
+    {
+      "id": 3,
+      "text": "pallor",
+      "start_char": 2268,
+      "end_char": 2274,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2274,
+      "end_char": 2275
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 2276,
+      "end_char": 2278,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 2,
+      "text": "scleral",
+      "start_char": 2279,
+      "end_char": 2286
+    },
+    {
+      "id": 3,
+      "text": "icterus",
+      "start_char": 2287,
+      "end_char": 2294,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2294,
+      "end_char": 2295
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "PERRLA",
+      "start_char": 2296,
+      "end_char": 2302,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": "/",
+      "start_char": 2302,
+      "end_char": 2303,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": "EOMI",
+      "start_char": 2303,
+      "end_char": 2307,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2307,
+      "end_char": 2308
+    },
+    {
+      "id": 5,
+      "text": "MMM.",
+      "start_char": 2309,
+      "end_char": 2313
+    },
+    {
+      "id": 6,
+      "text": "OP",
+      "start_char": 2314,
+      "end_char": 2316
+    },
+    {
+      "id": 7,
+      "text": "clear",
+      "start_char": 2317,
+      "end_char": 2322,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ".",
+      "start_char": 2322,
+      "end_char": 2323
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Neck",
+      "start_char": 2324,
+      "end_char": 2328
+    },
+    {
+      "id": 2,
+      "text": "Supple",
+      "start_char": 2329,
+      "end_char": 2335,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 2335,
+      "end_char": 2336
+    },
+    {
+      "id": 4,
+      "text": "No",
+      "start_char": 2337,
+      "end_char": 2339,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 5,
+      "text": "LAD",
+      "start_char": 2340,
+      "end_char": 2343,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ",",
+      "start_char": 2343,
+      "end_char": 2344
+    },
+    {
+      "id": 7,
+      "text": "No",
+      "start_char": 2345,
+      "end_char": 2347
+    },
+    {
+      "id": 8,
+      "text": "thyromegaly",
+      "start_char": 2348,
+      "end_char": 2359,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ".",
+      "start_char": 2359,
+      "end_char": 2360,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "CARDIAC",
+      "start_char": 2361,
+      "end_char": 2368,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 2368,
+      "end_char": 2369
+    },
+    {
+      "id": 3,
+      "text": "Regular",
+      "start_char": 2370,
+      "end_char": 2377
+    },
+    {
+      "id": 4,
+      "text": "rhythm",
+      "start_char": 2378,
+      "end_char": 2384,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 2384,
+      "end_char": 2385
+    },
+    {
+      "id": 6,
+      "text": "normal",
+      "start_char": 2386,
+      "end_char": 2392
+    },
+    {
+      "id": 7,
+      "text": "rate",
+      "start_char": 2393,
+      "end_char": 2397,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ".",
+      "start_char": 2397,
+      "end_char": 2398
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Normal",
+      "start_char": 2399,
+      "end_char": 2405
+    },
+    {
+      "id": 2,
+      "text": "S1",
+      "start_char": 2406,
+      "end_char": 2408,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 2408,
+      "end_char": 2409
+    },
+    {
+      "id": 4,
+      "text": "S2",
+      "start_char": 2410,
+      "end_char": 2412,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ".",
+      "start_char": 2412,
+      "end_char": 2413
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 2414,
+      "end_char": 2416
+    },
+    {
+      "id": 2,
+      "text": "murmurs",
+      "start_char": 2417,
+      "end_char": 2424,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 2424,
+      "end_char": 2425,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "rubs",
+      "start_char": 2426,
+      "end_char": 2430
+    },
+    {
+      "id": 5,
+      "text": "or",
+      "start_char": 2431,
+      "end_char": 2433
+    },
+    {
+      "id": 6,
+      "text": "[",
+      "start_char": 2434,
+      "end_char": 2435,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": "**",
+      "start_char": 2435,
+      "end_char": 2437,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "Last",
+      "start_char": 2437,
+      "end_char": 2441
+    },
+    {
+      "id": 9,
+      "text": "Name",
+      "start_char": 2442,
+      "end_char": 2446
+    },
+    {
+      "id": 10,
+      "text": "(",
+      "start_char": 2447,
+      "end_char": 2448,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "un",
+      "start_char": 2448,
+      "end_char": 2450,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": ")",
+      "start_char": 2450,
+      "end_char": 2451
+    },
+    {
+      "id": 13,
+      "text": "549",
+      "start_char": 2452,
+      "end_char": 2455,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": "**",
+      "start_char": 2455,
+      "end_char": 2457,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": "]",
+      "start_char": 2457,
+      "end_char": 2458,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": ".",
+      "start_char": 2458,
+      "end_char": 2459,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "LUNGS",
+      "start_char": 2460,
+      "end_char": 2465,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 2465,
+      "end_char": 2466
+    },
+    {
+      "id": 3,
+      "text": "CTAB",
+      "start_char": 2467,
+      "end_char": 2471,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ",",
+      "start_char": 2471,
+      "end_char": 2472
+    },
+    {
+      "id": 5,
+      "text": "good",
+      "start_char": 2473,
+      "end_char": 2477
+    },
+    {
+      "id": 6,
+      "text": "air",
+      "start_char": 2478,
+      "end_char": 2481
+    },
+    {
+      "id": 7,
+      "text": "movement",
+      "start_char": 2482,
+      "end_char": 2490
+    },
+    {
+      "id": 8,
+      "text": "biaterally",
+      "start_char": 2491,
+      "end_char": 2501,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ".",
+      "start_char": 2501,
+      "end_char": 2502,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "ABDOMEN",
+      "start_char": 2503,
+      "end_char": 2510,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 2510,
+      "end_char": 2511
+    },
+    {
+      "id": 3,
+      "text": "NABS",
+      "start_char": 2512,
+      "end_char": 2516,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2516,
+      "end_char": 2517
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Soft",
+      "start_char": 2518,
+      "end_char": 2522,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ",",
+      "start_char": 2522,
+      "end_char": 2523
+    },
+    {
+      "id": 3,
+      "text": "NT",
+      "start_char": 2524,
+      "end_char": 2526,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ",",
+      "start_char": 2526,
+      "end_char": 2527
+    },
+    {
+      "id": 5,
+      "text": "ND",
+      "start_char": 2528,
+      "end_char": 2530,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ".",
+      "start_char": 2530,
+      "end_char": 2531
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 2532,
+      "end_char": 2534
+    },
+    {
+      "id": 2,
+      "text": "HSM",
+      "start_char": 2535,
+      "end_char": 2538,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 3,
+      "text": "EXTREMITIES",
+      "start_char": 2539,
+      "end_char": 2550,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ":",
+      "start_char": 2550,
+      "end_char": 2551
+    },
+    {
+      "id": 5,
+      "text": "No",
+      "start_char": 2552,
+      "end_char": 2554
+    },
+    {
+      "id": 6,
+      "text": "edema",
+      "start_char": 2555,
+      "end_char": 2560
+    },
+    {
+      "id": 7,
+      "text": "or",
+      "start_char": 2561,
+      "end_char": 2563
+    },
+    {
+      "id": 8,
+      "text": "calf",
+      "start_char": 2564,
+      "end_char": 2568
+    },
+    {
+      "id": 9,
+      "text": "pain",
+      "start_char": 2569,
+      "end_char": 2573,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ",",
+      "start_char": 2573,
+      "end_char": 2574
+    },
+    {
+      "id": 11,
+      "text": "2",
+      "start_char": 2575,
+      "end_char": 2576,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "+",
+      "start_char": 2576,
+      "end_char": 2577
+    },
+    {
+      "id": 13,
+      "text": "dorsalis",
+      "start_char": 2578,
+      "end_char": 2586
+    },
+    {
+      "id": 14,
+      "text": "pedis",
+      "start_char": 2587,
+      "end_char": 2592,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": "/",
+      "start_char": 2592,
+      "end_char": 2593
+    },
+    {
+      "id": 16,
+      "text": "posterior",
+      "start_char": 2594,
+      "end_char": 2603,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 17,
+      "text": "tibial",
+      "start_char": 2604,
+      "end_char": 2610
+    },
+    {
+      "id": 18,
+      "text": "pulses",
+      "start_char": 2611,
+      "end_char": 2617,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": ".",
+      "start_char": 2617,
+      "end_char": 2618,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "SKIN",
+      "start_char": 2619,
+      "end_char": 2623,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 2623,
+      "end_char": 2624
+    },
+    {
+      "id": 3,
+      "text": "small",
+      "start_char": 2625,
+      "end_char": 2630
+    },
+    {
+      "id": 4,
+      "text": "one",
+      "start_char": 2631,
+      "end_char": 2634
+    },
+    {
+      "id": 5,
+      "text": "cm",
+      "start_char": 2635,
+      "end_char": 2637
+    },
+    {
+      "id": 6,
+      "text": "superficial",
+      "start_char": 2638,
+      "end_char": 2649
+    },
+    {
+      "id": 7,
+      "text": "laceration",
+      "start_char": 2650,
+      "end_char": 2660
+    },
+    {
+      "id": 8,
+      "text": "on",
+      "start_char": 2661,
+      "end_char": 2663
+    },
+    {
+      "id": 9,
+      "text": "the",
+      "start_char": 2664,
+      "end_char": 2667
+    },
+    {
+      "id": 10,
+      "text": "bottom",
+      "start_char": 2668,
+      "end_char": 2674
+    },
+    {
+      "id": 11,
+      "text": "wof",
+      "start_char": 2675,
+      "end_char": 2678,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 12,
+      "text": "right",
+      "start_char": 2679,
+      "end_char": 2684
+    },
+    {
+      "id": 13,
+      "text": "foot",
+      "start_char": 2685,
+      "end_char": 2689
+    },
+    {
+      "id": 14,
+      "text": "with",
+      "start_char": 2690,
+      "end_char": 2694
+    },
+    {
+      "id": 15,
+      "text": "erythema",
+      "start_char": 2695,
+      "end_char": 2703,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": ",",
+      "start_char": 2703,
+      "end_char": 2704
+    },
+    {
+      "id": 17,
+      "text": "but",
+      "start_char": 2705,
+      "end_char": 2708
+    },
+    {
+      "id": 18,
+      "text": "no",
+      "start_char": 2709,
+      "end_char": 2711
+    },
+    {
+      "id": 19,
+      "text": "warmth",
+      "start_char": 2712,
+      "end_char": 2718,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 2718,
+      "end_char": 2719
+    },
+    {
+      "id": 21,
+      "text": "edema",
+      "start_char": 2720,
+      "end_char": 2725
+    },
+    {
+      "id": 22,
+      "text": "or",
+      "start_char": 2726,
+      "end_char": 2728
+    },
+    {
+      "id": 23,
+      "text": "purulent",
+      "start_char": 2729,
+      "end_char": 2737,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 24,
+      "text": "discharge",
+      "start_char": 2738,
+      "end_char": 2747,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 25,
+      "text": "NEURO",
+      "start_char": 2748,
+      "end_char": 2753,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 26,
+      "text": ":",
+      "start_char": 2753,
+      "end_char": 2754
+    },
+    {
+      "id": 27,
+      "text": "A&Ox3",
+      "start_char": 2755,
+      "end_char": 2760,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 28,
+      "text": ".",
+      "start_char": 2760,
+      "end_char": 2761
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Appropriate",
+      "start_char": 2762,
+      "end_char": 2773,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ".",
+      "start_char": 2773,
+      "end_char": 2774
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "CN",
+      "start_char": 2775,
+      "end_char": 2777
+    },
+    {
+      "id": 2,
+      "text": "2",
+      "start_char": 2778,
+      "end_char": 2779,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": "-",
+      "start_char": 2779,
+      "end_char": 2780,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "12",
+      "start_char": 2780,
+      "end_char": 2782
+    },
+    {
+      "id": 5,
+      "text": "grossly",
+      "start_char": 2783,
+      "end_char": 2790
+    },
+    {
+      "id": 6,
+      "text": "intact",
+      "start_char": 2791,
+      "end_char": 2797,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ".",
+      "start_char": 2797,
+      "end_char": 2798
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Preserved",
+      "start_char": 2799,
+      "end_char": 2808,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 2,
+      "text": "sensation",
+      "start_char": 2809,
+      "end_char": 2818
+    },
+    {
+      "id": 3,
+      "text": "throughout",
+      "start_char": 2819,
+      "end_char": 2829,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2829,
+      "end_char": 2830
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "5/5",
+      "start_char": 2831,
+      "end_char": 2834
+    },
+    {
+      "id": 2,
+      "text": "strength",
+      "start_char": 2835,
+      "end_char": 2843
+    },
+    {
+      "id": 3,
+      "text": "throughout",
+      "start_char": 2844,
+      "end_char": 2854,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 2854,
+      "end_char": 2855
+    },
+    {
+      "id": 5,
+      "text": "[",
+      "start_char": 2856,
+      "end_char": 2857,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "**12",
+      "start_char": 2857,
+      "end_char": 2861,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": "-18**",
+      "start_char": 2861,
+      "end_char": 2866,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "]",
+      "start_char": 2866,
+      "end_char": 2867,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "+",
+      "start_char": 2867,
+      "end_char": 2868
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "reflexes",
+      "start_char": 2869,
+      "end_char": 2877,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ",",
+      "start_char": 2877,
+      "end_char": 2878,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 3,
+      "text": "equal",
+      "start_char": 2879,
+      "end_char": 2884
+    },
+    {
+      "id": 4,
+      "text": "BL.",
+      "start_char": 2885,
+      "end_char": 2888
+    },
+    {
+      "id": 5,
+      "text": "Normal",
+      "start_char": 2889,
+      "end_char": 2895
+    },
+    {
+      "id": 6,
+      "text": "coordination",
+      "start_char": 2896,
+      "end_char": 2908,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ".",
+      "start_char": 2908,
+      "end_char": 2909
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Gait",
+      "start_char": 2910,
+      "end_char": 2914
+    },
+    {
+      "id": 2,
+      "text": "assessment",
+      "start_char": 2915,
+      "end_char": 2925
+    },
+    {
+      "id": 3,
+      "text": "deferred",
+      "start_char": 2926,
+      "end_char": 2934,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "PSYCH",
+      "start_char": 2935,
+      "end_char": 2940,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ":",
+      "start_char": 2940,
+      "end_char": 2941
+    },
+    {
+      "id": 6,
+      "text": "Listens",
+      "start_char": 2942,
+      "end_char": 2949
+    },
+    {
+      "id": 7,
+      "text": "and",
+      "start_char": 2950,
+      "end_char": 2953
+    },
+    {
+      "id": 8,
+      "text": "responds",
+      "start_char": 2954,
+      "end_char": 2962
+    },
+    {
+      "id": 9,
+      "text": "to",
+      "start_char": 2963,
+      "end_char": 2965
+    },
+    {
+      "id": 10,
+      "text": "questions",
+      "start_char": 2966,
+      "end_char": 2975
+    },
+    {
+      "id": 11,
+      "text": "appropriately",
+      "start_char": 2976,
+      "end_char": 2989,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": ",",
+      "start_char": 2989,
+      "end_char": 2990
+    },
+    {
+      "id": 13,
+      "text": "pleasant",
+      "start_char": 2991,
+      "end_char": 2999,
+      "misc": "SpacesAfter=\\n\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Pertinent",
+      "start_char": 3003,
+      "end_char": 3012
+    },
+    {
+      "id": 2,
+      "text": "Results",
+      "start_char": 3013,
+      "end_char": 3020,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 3020,
+      "end_char": 3021,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "None",
+      "start_char": 3022,
+      "end_char": 3026,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Brief",
+      "start_char": 3028,
+      "end_char": 3033
+    },
+    {
+      "id": 2,
+      "text": "Hospital",
+      "start_char": 3034,
+      "end_char": 3042
+    },
+    {
+      "id": 3,
+      "text": "Course",
+      "start_char": 3043,
+      "end_char": 3049,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ":",
+      "start_char": 3049,
+      "end_char": 3050,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 5,
+      "text": "The",
+      "start_char": 3051,
+      "end_char": 3054
+    },
+    {
+      "id": 6,
+      "text": "patient",
+      "start_char": 3055,
+      "end_char": 3062
+    },
+    {
+      "id": 7,
+      "text": "is",
+      "start_char": 3063,
+      "end_char": 3065
+    },
+    {
+      "id": 8,
+      "text": "a",
+      "start_char": 3066,
+      "end_char": 3067
+    },
+    {
+      "id": 9,
+      "text": "42",
+      "start_char": 3068,
+      "end_char": 3070
+    },
+    {
+      "id": 10,
+      "text": "year",
+      "start_char": 3071,
+      "end_char": 3075
+    },
+    {
+      "id": 11,
+      "text": "old",
+      "start_char": 3076,
+      "end_char": 3079
+    },
+    {
+      "id": 12,
+      "text": "female",
+      "start_char": 3080,
+      "end_char": 3086
+    },
+    {
+      "id": 13,
+      "text": "with",
+      "start_char": 3087,
+      "end_char": 3091
+    },
+    {
+      "id": 14,
+      "text": "caspofungin",
+      "start_char": 3092,
+      "end_char": 3103
+    },
+    {
+      "id": 15,
+      "text": "allergy",
+      "start_char": 3104,
+      "end_char": 3111
+    },
+    {
+      "id": 16,
+      "text": "and",
+      "start_char": 3112,
+      "end_char": 3115,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 17,
+      "text": "resistant",
+      "start_char": 3116,
+      "end_char": 3125
+    },
+    {
+      "id": 18,
+      "text": "[",
+      "start_char": 3126,
+      "end_char": 3127,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "**",
+      "start_char": 3127,
+      "end_char": 3129,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": "Female",
+      "start_char": 3129,
+      "end_char": 3135
+    },
+    {
+      "id": 21,
+      "text": "First",
+      "start_char": 3136,
+      "end_char": 3141
+    },
+    {
+      "id": 22,
+      "text": "Name",
+      "start_char": 3142,
+      "end_char": 3146
+    },
+    {
+      "id": 23,
+      "text": "(",
+      "start_char": 3147,
+      "end_char": 3148,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 24,
+      "text": "un",
+      "start_char": 3148,
+      "end_char": 3150,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": ")",
+      "start_char": 3150,
+      "end_char": 3151
+    },
+    {
+      "id": 26,
+      "text": "**]",
+      "start_char": 3152,
+      "end_char": 3155
+    },
+    {
+      "id": 27,
+      "text": "yeast",
+      "start_char": 3156,
+      "end_char": 3161
+    },
+    {
+      "id": 28,
+      "text": "vaginitis",
+      "start_char": 3162,
+      "end_char": 3171
+    },
+    {
+      "id": 29,
+      "text": "who",
+      "start_char": 3172,
+      "end_char": 3175
+    },
+    {
+      "id": 30,
+      "text": "presents",
+      "start_char": 3176,
+      "end_char": 3184
+    },
+    {
+      "id": 31,
+      "text": "for",
+      "start_char": 3185,
+      "end_char": 3188
+    },
+    {
+      "id": 32,
+      "text": "caspofungin",
+      "start_char": 3189,
+      "end_char": 3200,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 33,
+      "text": "desensitization",
+      "start_char": 3201,
+      "end_char": 3216,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 34,
+      "text": ".",
+      "start_char": 3216,
+      "end_char": 3217,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Each",
+      "start_char": 3219,
+      "end_char": 3223
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 3224,
+      "end_char": 3226
+    },
+    {
+      "id": 3,
+      "text": "the",
+      "start_char": 3227,
+      "end_char": 3230
+    },
+    {
+      "id": 4,
+      "text": "problems",
+      "start_char": 3231,
+      "end_char": 3239
+    },
+    {
+      "id": 5,
+      "text": "addressed",
+      "start_char": 3240,
+      "end_char": 3249
+    },
+    {
+      "id": 6,
+      "text": "during",
+      "start_char": 3250,
+      "end_char": 3256
+    },
+    {
+      "id": 7,
+      "text": "this",
+      "start_char": 3257,
+      "end_char": 3261,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 8,
+      "text": "hospitalization",
+      "start_char": 3262,
+      "end_char": 3277
+    },
+    {
+      "id": 9,
+      "text": "are",
+      "start_char": 3278,
+      "end_char": 3281
+    },
+    {
+      "id": 10,
+      "text": "described",
+      "start_char": 3282,
+      "end_char": 3291
+    },
+    {
+      "id": 11,
+      "text": "in",
+      "start_char": 3292,
+      "end_char": 3294
+    },
+    {
+      "id": 12,
+      "text": "detail",
+      "start_char": 3295,
+      "end_char": 3301
+    },
+    {
+      "id": 13,
+      "text": "below",
+      "start_char": 3302,
+      "end_char": 3307,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ":",
+      "start_char": 3307,
+      "end_char": 3308,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Caspofungin",
+      "start_char": 3310,
+      "end_char": 3321
+    },
+    {
+      "id": 2,
+      "text": "desensitization",
+      "start_char": 3322,
+      "end_char": 3337,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 3337,
+      "end_char": 3338
+    },
+    {
+      "id": 4,
+      "text": "was",
+      "start_char": 3339,
+      "end_char": 3342
+    },
+    {
+      "id": 5,
+      "text": "provided",
+      "start_char": 3343,
+      "end_char": 3351
+    },
+    {
+      "id": 6,
+      "text": "per",
+      "start_char": 3352,
+      "end_char": 3355
+    },
+    {
+      "id": 7,
+      "text": "desensitization",
+      "start_char": 3356,
+      "end_char": 3371,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 8,
+      "text": "protocol",
+      "start_char": 3372,
+      "end_char": 3380,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ".",
+      "start_char": 3380,
+      "end_char": 3381
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Premedication",
+      "start_char": 3382,
+      "end_char": 3395
+    },
+    {
+      "id": 2,
+      "text": "was",
+      "start_char": 3396,
+      "end_char": 3399
+    },
+    {
+      "id": 3,
+      "text": "provided",
+      "start_char": 3400,
+      "end_char": 3408
+    },
+    {
+      "id": 4,
+      "text": "with",
+      "start_char": 3409,
+      "end_char": 3413
+    },
+    {
+      "id": 5,
+      "text": "benadryl",
+      "start_char": 3414,
+      "end_char": 3422
+    },
+    {
+      "id": 6,
+      "text": "and",
+      "start_char": 3423,
+      "end_char": 3426,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 7,
+      "text": "famotodine",
+      "start_char": 3427,
+      "end_char": 3437,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ",",
+      "start_char": 3437,
+      "end_char": 3438
+    },
+    {
+      "id": 9,
+      "text": "epi",
+      "start_char": 3439,
+      "end_char": 3442
+    },
+    {
+      "id": 10,
+      "text": "was",
+      "start_char": 3443,
+      "end_char": 3446
+    },
+    {
+      "id": 11,
+      "text": "placed",
+      "start_char": 3447,
+      "end_char": 3453
+    },
+    {
+      "id": 12,
+      "text": "at",
+      "start_char": 3454,
+      "end_char": 3456
+    },
+    {
+      "id": 13,
+      "text": "bedside",
+      "start_char": 3457,
+      "end_char": 3464,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ".",
+      "start_char": 3464,
+      "end_char": 3465,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 3467,
+      "end_char": 3470
+    },
+    {
+      "id": 2,
+      "text": "patient",
+      "start_char": 3471,
+      "end_char": 3478
+    },
+    {
+      "id": 3,
+      "text": "received",
+      "start_char": 3479,
+      "end_char": 3487
+    },
+    {
+      "id": 4,
+      "text": "62g",
+      "start_char": 3488,
+      "end_char": 3491,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 5,
+      "text": "\"",
+      "start_char": 3492,
+      "end_char": 3493,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "loading",
+      "start_char": 3493,
+      "end_char": 3500
+    },
+    {
+      "id": 7,
+      "text": "dose",
+      "start_char": 3501,
+      "end_char": 3505,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "\"",
+      "start_char": 3505,
+      "end_char": 3506
+    },
+    {
+      "id": 9,
+      "text": "today",
+      "start_char": 3507,
+      "end_char": 3512,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ".",
+      "start_char": 3512,
+      "end_char": 3513,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Per",
+      "start_char": 3515,
+      "end_char": 3518
+    },
+    {
+      "id": 2,
+      "text": "protocol",
+      "start_char": 3519,
+      "end_char": 3527,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 3527,
+      "end_char": 3528
+    },
+    {
+      "id": 4,
+      "text": "she",
+      "start_char": 3529,
+      "end_char": 3532
+    },
+    {
+      "id": 5,
+      "text": "was",
+      "start_char": 3533,
+      "end_char": 3536
+    },
+    {
+      "id": 6,
+      "text": "observed",
+      "start_char": 3537,
+      "end_char": 3545
+    },
+    {
+      "id": 7,
+      "text": "for",
+      "start_char": 3546,
+      "end_char": 3549
+    },
+    {
+      "id": 8,
+      "text": "2",
+      "start_char": 3550,
+      "end_char": 3551,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 9,
+      "text": "hours",
+      "start_char": 3552,
+      "end_char": 3557
+    },
+    {
+      "id": 10,
+      "text": "after",
+      "start_char": 3558,
+      "end_char": 3563
+    },
+    {
+      "id": 11,
+      "text": "completion",
+      "start_char": 3564,
+      "end_char": 3574
+    },
+    {
+      "id": 12,
+      "text": "of",
+      "start_char": 3575,
+      "end_char": 3577
+    },
+    {
+      "id": 13,
+      "text": "loading",
+      "start_char": 3578,
+      "end_char": 3585
+    },
+    {
+      "id": 14,
+      "text": "dose",
+      "start_char": 3586,
+      "end_char": 3590
+    },
+    {
+      "id": 15,
+      "text": "for",
+      "start_char": 3591,
+      "end_char": 3594
+    },
+    {
+      "id": 16,
+      "text": "signs",
+      "start_char": 3595,
+      "end_char": 3600
+    },
+    {
+      "id": 17,
+      "text": "of",
+      "start_char": 3601,
+      "end_char": 3603
+    },
+    {
+      "id": 18,
+      "text": "anaphylaxis",
+      "start_char": 3604,
+      "end_char": 3615,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 19,
+      "text": "or",
+      "start_char": 3616,
+      "end_char": 3618
+    },
+    {
+      "id": 20,
+      "text": "allergic",
+      "start_char": 3619,
+      "end_char": 3627
+    },
+    {
+      "id": 21,
+      "text": "reaction",
+      "start_char": 3628,
+      "end_char": 3636,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": ".",
+      "start_char": 3636,
+      "end_char": 3637,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 3639,
+      "end_char": 3641
+    },
+    {
+      "id": 2,
+      "text": "such",
+      "start_char": 3642,
+      "end_char": 3646
+    },
+    {
+      "id": 3,
+      "text": "reaction",
+      "start_char": 3647,
+      "end_char": 3655
+    },
+    {
+      "id": 4,
+      "text": "was",
+      "start_char": 3656,
+      "end_char": 3659
+    },
+    {
+      "id": 5,
+      "text": "observed",
+      "start_char": 3660,
+      "end_char": 3668,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ".",
+      "start_char": 3668,
+      "end_char": 3669,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 3671,
+      "end_char": 3674,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 2,
+      "text": "patient",
+      "start_char": 3675,
+      "end_char": 3682
+    },
+    {
+      "id": 3,
+      "text": "was",
+      "start_char": 3683,
+      "end_char": 3686
+    },
+    {
+      "id": 4,
+      "text": "discharged",
+      "start_char": 3687,
+      "end_char": 3697
+    },
+    {
+      "id": 5,
+      "text": "with",
+      "start_char": 3698,
+      "end_char": 3702
+    },
+    {
+      "id": 6,
+      "text": "the",
+      "start_char": 3703,
+      "end_char": 3706
+    },
+    {
+      "id": 7,
+      "text": "plan",
+      "start_char": 3707,
+      "end_char": 3711
+    },
+    {
+      "id": 8,
+      "text": "to",
+      "start_char": 3712,
+      "end_char": 3714
+    },
+    {
+      "id": 9,
+      "text": "receive",
+      "start_char": 3715,
+      "end_char": 3722
+    },
+    {
+      "id": 10,
+      "text": "50",
+      "start_char": 3723,
+      "end_char": 3725,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "mg",
+      "start_char": 3725,
+      "end_char": 3727
+    },
+    {
+      "id": 12,
+      "text": "daily",
+      "start_char": 3728,
+      "end_char": 3733
+    },
+    {
+      "id": 13,
+      "text": "via",
+      "start_char": 3734,
+      "end_char": 3737,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 14,
+      "text": "daycares",
+      "start_char": 3738,
+      "end_char": 3746
+    },
+    {
+      "id": 15,
+      "text": "starting",
+      "start_char": 3747,
+      "end_char": 3755
+    },
+    {
+      "id": 16,
+      "text": "tomorrow",
+      "start_char": 3756,
+      "end_char": 3764
+    },
+    {
+      "id": 17,
+      "text": "[",
+      "start_char": 3765,
+      "end_char": 3766,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": "**",
+      "start_char": 3766,
+      "end_char": 3768,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "2100",
+      "start_char": 3768,
+      "end_char": 3772,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": "-11-2**",
+      "start_char": 3772,
+      "end_char": 3779,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 21,
+      "text": "]",
+      "start_char": 3779,
+      "end_char": 3780,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": ".",
+      "start_char": 3780,
+      "end_char": 3781,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Foot",
+      "start_char": 3783,
+      "end_char": 3787
+    },
+    {
+      "id": 2,
+      "text": "laceration",
+      "start_char": 3788,
+      "end_char": 3798,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 3798,
+      "end_char": 3799,
+      "misc": "SpacesAfter=\\s\\s"
+    },
+    {
+      "id": 4,
+      "text": "The",
+      "start_char": 3801,
+      "end_char": 3804
+    },
+    {
+      "id": 5,
+      "text": "patient",
+      "start_char": 3805,
+      "end_char": 3812
+    },
+    {
+      "id": 6,
+      "text": "has",
+      "start_char": 3813,
+      "end_char": 3816
+    },
+    {
+      "id": 7,
+      "text": "a",
+      "start_char": 3817,
+      "end_char": 3818
+    },
+    {
+      "id": 8,
+      "text": "foot",
+      "start_char": 3819,
+      "end_char": 3823
+    },
+    {
+      "id": 9,
+      "text": "laceration",
+      "start_char": 3824,
+      "end_char": 3834,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ".",
+      "start_char": 3834,
+      "end_char": 3835,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Per",
+      "start_char": 3837,
+      "end_char": 3840,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 2,
+      "text": "discussion",
+      "start_char": 3841,
+      "end_char": 3851
+    },
+    {
+      "id": 3,
+      "text": "with",
+      "start_char": 3852,
+      "end_char": 3856
+    },
+    {
+      "id": 4,
+      "text": "PCP",
+      "start_char": 3857,
+      "end_char": 3860
+    },
+    {
+      "id": 5,
+      "text": "and",
+      "start_char": 3861,
+      "end_char": 3864
+    },
+    {
+      "id": 6,
+      "text": "ID",
+      "start_char": 3865,
+      "end_char": 3867,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ",",
+      "start_char": 3867,
+      "end_char": 3868
+    },
+    {
+      "id": 8,
+      "text": "the",
+      "start_char": 3869,
+      "end_char": 3872
+    },
+    {
+      "id": 9,
+      "text": "patient",
+      "start_char": 3873,
+      "end_char": 3880
+    },
+    {
+      "id": 10,
+      "text": "did",
+      "start_char": 3881,
+      "end_char": 3884
+    },
+    {
+      "id": 11,
+      "text": "not",
+      "start_char": 3885,
+      "end_char": 3888
+    },
+    {
+      "id": 12,
+      "text": "require",
+      "start_char": 3889,
+      "end_char": 3896
+    },
+    {
+      "id": 13,
+      "text": "a",
+      "start_char": 3897,
+      "end_char": 3898,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 14,
+      "text": "tetanus",
+      "start_char": 3899,
+      "end_char": 3906
+    },
+    {
+      "id": 15,
+      "text": "shot",
+      "start_char": 3907,
+      "end_char": 3911
+    },
+    {
+      "id": 16,
+      "text": "today",
+      "start_char": 3912,
+      "end_char": 3917,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ".",
+      "start_char": 3917,
+      "end_char": 3918,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "It",
+      "start_char": 3920,
+      "end_char": 3922
+    },
+    {
+      "id": 2,
+      "text": "was",
+      "start_char": 3923,
+      "end_char": 3926
+    },
+    {
+      "id": 3,
+      "text": "kept",
+      "start_char": 3927,
+      "end_char": 3931
+    },
+    {
+      "id": 4,
+      "text": "clean",
+      "start_char": 3932,
+      "end_char": 3937
+    },
+    {
+      "id": 5,
+      "text": "and",
+      "start_char": 3938,
+      "end_char": 3941
+    },
+    {
+      "id": 6,
+      "text": "dry",
+      "start_char": 3942,
+      "end_char": 3945,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ".",
+      "start_char": 3945,
+      "end_char": 3946,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Medications",
+      "start_char": 3949,
+      "end_char": 3960
+    },
+    {
+      "id": 2,
+      "text": "on",
+      "start_char": 3961,
+      "end_char": 3963
+    },
+    {
+      "id": 3,
+      "text": "Admission",
+      "start_char": 3964,
+      "end_char": 3973,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": ":",
+      "start_char": 3973,
+      "end_char": 3974,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 5,
+      "text": "#",
+      "start_char": 3975,
+      "end_char": 3976
+    },
+    {
+      "id": 6,
+      "text": "Diphenhydramine",
+      "start_char": 3977,
+      "end_char": 3992
+    },
+    {
+      "id": 7,
+      "text": "12.5",
+      "start_char": 3993,
+      "end_char": 3997
+    },
+    {
+      "id": 8,
+      "text": "mg",
+      "start_char": 3998,
+      "end_char": 4000,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "/5",
+      "start_char": 4000,
+      "end_char": 4002,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": "ml",
+      "start_char": 4002,
+      "end_char": 4004,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ":",
+      "start_char": 4004,
+      "end_char": 4005,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "Viscous",
+      "start_char": 4005,
+      "end_char": 4012
+    },
+    {
+      "id": 13,
+      "text": "Lidocaine",
+      "start_char": 4013,
+      "end_char": 4022
+    },
+    {
+      "id": 14,
+      "text": "2",
+      "start_char": 4023,
+      "end_char": 4024,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": "%",
+      "start_char": 4024,
+      "end_char": 4025,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": ":",
+      "start_char": 4025,
+      "end_char": 4026,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": "Maalox",
+      "start_char": 4026,
+      "end_char": 4032
+    },
+    {
+      "id": 18,
+      "text": "swish",
+      "start_char": 4033,
+      "end_char": 4038,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 19,
+      "text": "and",
+      "start_char": 4039,
+      "end_char": 4042
+    },
+    {
+      "id": 20,
+      "text": "spit",
+      "start_char": 4043,
+      "end_char": 4047
+    },
+    {
+      "id": 21,
+      "text": "5",
+      "start_char": 4048,
+      "end_char": 4049
+    },
+    {
+      "id": 22,
+      "text": "ml",
+      "start_char": 4050,
+      "end_char": 4052
+    },
+    {
+      "id": 23,
+      "text": "up",
+      "start_char": 4053,
+      "end_char": 4055
+    },
+    {
+      "id": 24,
+      "text": "to",
+      "start_char": 4056,
+      "end_char": 4058
+    },
+    {
+      "id": 25,
+      "text": "five",
+      "start_char": 4059,
+      "end_char": 4063
+    },
+    {
+      "id": 26,
+      "text": "times",
+      "start_char": 4064,
+      "end_char": 4069
+    },
+    {
+      "id": 27,
+      "text": "daily",
+      "start_char": 4070,
+      "end_char": 4075
+    },
+    {
+      "id": 28,
+      "text": "as",
+      "start_char": 4076,
+      "end_char": 4078
+    },
+    {
+      "id": 29,
+      "text": "needed",
+      "start_char": 4079,
+      "end_char": 4085
+    },
+    {
+      "id": 30,
+      "text": "for",
+      "start_char": 4086,
+      "end_char": 4089
+    },
+    {
+      "id": 31,
+      "text": "prn",
+      "start_char": 4090,
+      "end_char": 4093
+    },
+    {
+      "id": 32,
+      "text": "mouth",
+      "start_char": 4094,
+      "end_char": 4099,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 33,
+      "text": "ulcers",
+      "start_char": 4100,
+      "end_char": 4106,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 34,
+      "text": "#",
+      "start_char": 4107,
+      "end_char": 4108
+    },
+    {
+      "id": 35,
+      "text": "Epinephrine",
+      "start_char": 4109,
+      "end_char": 4120
+    },
+    {
+      "id": 36,
+      "text": "[",
+      "start_char": 4121,
+      "end_char": 4122,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 37,
+      "text": "EpiPen",
+      "start_char": 4122,
+      "end_char": 4128,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 38,
+      "text": "]",
+      "start_char": 4128,
+      "end_char": 4129
+    },
+    {
+      "id": 39,
+      "text": "0.3",
+      "start_char": 4130,
+      "end_char": 4133
+    },
+    {
+      "id": 40,
+      "text": "mg/0.3",
+      "start_char": 4134,
+      "end_char": 4140
+    },
+    {
+      "id": 41,
+      "text": "mL",
+      "start_char": 4141,
+      "end_char": 4143
+    },
+    {
+      "id": 42,
+      "text": "(",
+      "start_char": 4144,
+      "end_char": 4145,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 43,
+      "text": "1:1,000",
+      "start_char": 4145,
+      "end_char": 4152,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 44,
+      "text": ")",
+      "start_char": 4152,
+      "end_char": 4153
+    },
+    {
+      "id": 45,
+      "text": "Pen",
+      "start_char": 4154,
+      "end_char": 4157
+    },
+    {
+      "id": 46,
+      "text": "Injector",
+      "start_char": 4158,
+      "end_char": 4166
+    },
+    {
+      "id": 47,
+      "text": "prn",
+      "start_char": 4167,
+      "end_char": 4170,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "#",
+      "start_char": 4172,
+      "end_char": 4173
+    },
+    {
+      "id": 2,
+      "text": "Estradiol",
+      "start_char": 4174,
+      "end_char": 4183
+    },
+    {
+      "id": 3,
+      "text": "[",
+      "start_char": 4184,
+      "end_char": 4185,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "Estring",
+      "start_char": 4185,
+      "end_char": 4192,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "]",
+      "start_char": 4192,
+      "end_char": 4193
+    },
+    {
+      "id": 6,
+      "text": "7.5",
+      "start_char": 4194,
+      "end_char": 4197
+    },
+    {
+      "id": 7,
+      "text": "mcg",
+      "start_char": 4198,
+      "end_char": 4201,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "/",
+      "start_char": 4201,
+      "end_char": 4202,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": "24",
+      "start_char": 4202,
+      "end_char": 4204
+    },
+    {
+      "id": 10,
+      "text": "hour",
+      "start_char": 4205,
+      "end_char": 4209
+    },
+    {
+      "id": 11,
+      "text": "Ring",
+      "start_char": 4210,
+      "end_char": 4214
+    },
+    {
+      "id": 12,
+      "text": "apply",
+      "start_char": 4215,
+      "end_char": 4220
+    },
+    {
+      "id": 13,
+      "text": "vaginally",
+      "start_char": 4221,
+      "end_char": 4230
+    },
+    {
+      "id": 14,
+      "text": "q3",
+      "start_char": 4231,
+      "end_char": 4233,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 15,
+      "text": "months",
+      "start_char": 4234,
+      "end_char": 4240
+    },
+    {
+      "id": 16,
+      "text": "#",
+      "start_char": 4241,
+      "end_char": 4242
+    },
+    {
+      "id": 17,
+      "text": "Methylphenidate",
+      "start_char": 4243,
+      "end_char": 4258
+    },
+    {
+      "id": 18,
+      "text": "[",
+      "start_char": 4259,
+      "end_char": 4260,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "Concerta",
+      "start_char": 4260,
+      "end_char": 4268,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": "]",
+      "start_char": 4268,
+      "end_char": 4269
+    },
+    {
+      "id": 21,
+      "text": "18",
+      "start_char": 4270,
+      "end_char": 4272
+    },
+    {
+      "id": 22,
+      "text": "mg",
+      "start_char": 4273,
+      "end_char": 4275
+    },
+    {
+      "id": 23,
+      "text": "Tab",
+      "start_char": 4276,
+      "end_char": 4279,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 24,
+      "text": ",",
+      "start_char": 4279,
+      "end_char": 4280,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": "Sust",
+      "start_char": 4280,
+      "end_char": 4284
+    },
+    {
+      "id": 26,
+      "text": "Rel",
+      "start_char": 4285,
+      "end_char": 4288
+    },
+    {
+      "id": 27,
+      "text": "Osmotic",
+      "start_char": 4289,
+      "end_char": 4296,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 28,
+      "text": "Push",
+      "start_char": 4297,
+      "end_char": 4301
+    },
+    {
+      "id": 29,
+      "text": "24",
+      "start_char": 4302,
+      "end_char": 4304,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 30,
+      "text": "hr",
+      "start_char": 4304,
+      "end_char": 4306,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 31,
+      "text": "2",
+      "start_char": 4307,
+      "end_char": 4308
+    },
+    {
+      "id": 32,
+      "text": "Tab",
+      "start_char": 4309,
+      "end_char": 4312,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 33,
+      "text": "(",
+      "start_char": 4312,
+      "end_char": 4313,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 34,
+      "text": "s",
+      "start_char": 4313,
+      "end_char": 4314,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 35,
+      "text": ")",
+      "start_char": 4314,
+      "end_char": 4315
+    },
+    {
+      "id": 36,
+      "text": "by",
+      "start_char": 4316,
+      "end_char": 4318
+    },
+    {
+      "id": 37,
+      "text": "mouth",
+      "start_char": 4319,
+      "end_char": 4324
+    },
+    {
+      "id": 38,
+      "text": "once",
+      "start_char": 4325,
+      "end_char": 4329
+    },
+    {
+      "id": 39,
+      "text": "a",
+      "start_char": 4330,
+      "end_char": 4331
+    },
+    {
+      "id": 40,
+      "text": "day",
+      "start_char": 4332,
+      "end_char": 4335,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 41,
+      "text": "#",
+      "start_char": 4336,
+      "end_char": 4337
+    },
+    {
+      "id": 42,
+      "text": "Sucralfate",
+      "start_char": 4338,
+      "end_char": 4348
+    },
+    {
+      "id": 43,
+      "text": "1",
+      "start_char": 4349,
+      "end_char": 4350
+    },
+    {
+      "id": 44,
+      "text": "gram",
+      "start_char": 4351,
+      "end_char": 4355
+    },
+    {
+      "id": 45,
+      "text": "Tablet",
+      "start_char": 4356,
+      "end_char": 4362
+    },
+    {
+      "id": 46,
+      "text": "1",
+      "start_char": 4363,
+      "end_char": 4364
+    },
+    {
+      "id": 47,
+      "text": "Tablet",
+      "start_char": 4365,
+      "end_char": 4371,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 48,
+      "text": "(",
+      "start_char": 4371,
+      "end_char": 4372,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 49,
+      "text": "s",
+      "start_char": 4372,
+      "end_char": 4373,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 50,
+      "text": ")",
+      "start_char": 4373,
+      "end_char": 4374
+    },
+    {
+      "id": 51,
+      "text": "by",
+      "start_char": 4375,
+      "end_char": 4377
+    },
+    {
+      "id": 52,
+      "text": "mouth",
+      "start_char": 4378,
+      "end_char": 4383
+    },
+    {
+      "id": 53,
+      "text": "used",
+      "start_char": 4384,
+      "end_char": 4388
+    },
+    {
+      "id": 54,
+      "text": "topically",
+      "start_char": 4389,
+      "end_char": 4398,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 55,
+      "text": "four",
+      "start_char": 4399,
+      "end_char": 4403
+    },
+    {
+      "id": 56,
+      "text": "times",
+      "start_char": 4404,
+      "end_char": 4409
+    },
+    {
+      "id": 57,
+      "text": "a",
+      "start_char": 4410,
+      "end_char": 4411
+    },
+    {
+      "id": 58,
+      "text": "day",
+      "start_char": 4412,
+      "end_char": 4415
+    },
+    {
+      "id": 59,
+      "text": "compound",
+      "start_char": 4416,
+      "end_char": 4424
+    },
+    {
+      "id": 60,
+      "text": "and",
+      "start_char": 4425,
+      "end_char": 4428
+    },
+    {
+      "id": 61,
+      "text": "diluted",
+      "start_char": 4429,
+      "end_char": 4436
+    },
+    {
+      "id": 62,
+      "text": "to",
+      "start_char": 4437,
+      "end_char": 4439
+    },
+    {
+      "id": 63,
+      "text": "4",
+      "start_char": 4440,
+      "end_char": 4441,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 64,
+      "text": "%",
+      "start_char": 4441,
+      "end_char": 4442
+    },
+    {
+      "id": 65,
+      "text": "into",
+      "start_char": 4443,
+      "end_char": 4447
+    },
+    {
+      "id": 66,
+      "text": "an",
+      "start_char": 4448,
+      "end_char": 4450
+    },
+    {
+      "id": 67,
+      "text": "ointment",
+      "start_char": 4451,
+      "end_char": 4459,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 68,
+      "text": "please",
+      "start_char": 4460,
+      "end_char": 4466
+    },
+    {
+      "id": 69,
+      "text": "make",
+      "start_char": 4467,
+      "end_char": 4471
+    },
+    {
+      "id": 70,
+      "text": "dye",
+      "start_char": 4472,
+      "end_char": 4475
+    },
+    {
+      "id": 71,
+      "text": "and",
+      "start_char": 4476,
+      "end_char": 4479
+    },
+    {
+      "id": 72,
+      "text": "fragrance",
+      "start_char": 4480,
+      "end_char": 4489
+    },
+    {
+      "id": 73,
+      "text": "free",
+      "start_char": 4490,
+      "end_char": 4494,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Discharge",
+      "start_char": 4497,
+      "end_char": 4506
+    },
+    {
+      "id": 2,
+      "text": "Medications",
+      "start_char": 4507,
+      "end_char": 4518,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 4518,
+      "end_char": 4519,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "1",
+      "start_char": 4520,
+      "end_char": 4521,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ".",
+      "start_char": 4521,
+      "end_char": 4522
+    },
+    {
+      "id": 6,
+      "text": "Sucralfate",
+      "start_char": 4523,
+      "end_char": 4533
+    },
+    {
+      "id": 7,
+      "text": "1",
+      "start_char": 4534,
+      "end_char": 4535
+    },
+    {
+      "id": 8,
+      "text": "gram",
+      "start_char": 4536,
+      "end_char": 4540
+    },
+    {
+      "id": 9,
+      "text": "Tablet",
+      "start_char": 4541,
+      "end_char": 4547
+    },
+    {
+      "id": 10,
+      "text": "Sig",
+      "start_char": 4548,
+      "end_char": 4551,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ":",
+      "start_char": 4551,
+      "end_char": 4552
+    },
+    {
+      "id": 12,
+      "text": "One",
+      "start_char": 4553,
+      "end_char": 4556
+    },
+    {
+      "id": 13,
+      "text": "(",
+      "start_char": 4557,
+      "end_char": 4558,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": "1",
+      "start_char": 4558,
+      "end_char": 4559,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ")",
+      "start_char": 4559,
+      "end_char": 4560
+    },
+    {
+      "id": 16,
+      "text": "Tablet",
+      "start_char": 4561,
+      "end_char": 4567
+    },
+    {
+      "id": 17,
+      "text": "PO",
+      "start_char": 4568,
+      "end_char": 4570
+    },
+    {
+      "id": 18,
+      "text": "four",
+      "start_char": 4571,
+      "end_char": 4575
+    },
+    {
+      "id": 19,
+      "text": "times",
+      "start_char": 4576,
+      "end_char": 4581
+    },
+    {
+      "id": 20,
+      "text": "a",
+      "start_char": 4582,
+      "end_char": 4583,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 21,
+      "text": "day",
+      "start_char": 4584,
+      "end_char": 4587,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": ".",
+      "start_char": 4587,
+      "end_char": 4588,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "2",
+      "start_char": 4589,
+      "end_char": 4590,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ".",
+      "start_char": 4590,
+      "end_char": 4591
+    },
+    {
+      "id": 3,
+      "text": "Concerta",
+      "start_char": 4592,
+      "end_char": 4600
+    },
+    {
+      "id": 4,
+      "text": "18",
+      "start_char": 4601,
+      "end_char": 4603
+    },
+    {
+      "id": 5,
+      "text": "mg",
+      "start_char": 4604,
+      "end_char": 4606
+    },
+    {
+      "id": 6,
+      "text": "Tab",
+      "start_char": 4607,
+      "end_char": 4610,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ",",
+      "start_char": 4610,
+      "end_char": 4611,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "Sust",
+      "start_char": 4611,
+      "end_char": 4615
+    },
+    {
+      "id": 9,
+      "text": "Rel",
+      "start_char": 4616,
+      "end_char": 4619
+    },
+    {
+      "id": 10,
+      "text": "Osmotic",
+      "start_char": 4620,
+      "end_char": 4627
+    },
+    {
+      "id": 11,
+      "text": "Push",
+      "start_char": 4628,
+      "end_char": 4632
+    },
+    {
+      "id": 12,
+      "text": "24hr",
+      "start_char": 4633,
+      "end_char": 4637
+    },
+    {
+      "id": 13,
+      "text": "Sig",
+      "start_char": 4638,
+      "end_char": 4641,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ":",
+      "start_char": 4641,
+      "end_char": 4642
+    },
+    {
+      "id": 15,
+      "text": "Two",
+      "start_char": 4643,
+      "end_char": 4646
+    },
+    {
+      "id": 16,
+      "text": "(",
+      "start_char": 4647,
+      "end_char": 4648,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": "2",
+      "start_char": 4648,
+      "end_char": 4649,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": ")",
+      "start_char": 4649,
+      "end_char": 4650,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 19,
+      "text": "Tab",
+      "start_char": 4651,
+      "end_char": 4654,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 4654,
+      "end_char": 4655,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 21,
+      "text": "Sust",
+      "start_char": 4655,
+      "end_char": 4659
+    },
+    {
+      "id": 22,
+      "text": "Rel",
+      "start_char": 4660,
+      "end_char": 4663
+    },
+    {
+      "id": 23,
+      "text": "Osmotic",
+      "start_char": 4664,
+      "end_char": 4671
+    },
+    {
+      "id": 24,
+      "text": "Push",
+      "start_char": 4672,
+      "end_char": 4676
+    },
+    {
+      "id": 25,
+      "text": "24",
+      "start_char": 4677,
+      "end_char": 4679,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 26,
+      "text": "hr",
+      "start_char": 4679,
+      "end_char": 4681
+    },
+    {
+      "id": 27,
+      "text": "PO",
+      "start_char": 4682,
+      "end_char": 4684
+    },
+    {
+      "id": 28,
+      "text": "twice",
+      "start_char": 4685,
+      "end_char": 4690
+    },
+    {
+      "id": 29,
+      "text": "a",
+      "start_char": 4691,
+      "end_char": 4692
+    },
+    {
+      "id": 30,
+      "text": "day",
+      "start_char": 4693,
+      "end_char": 4696,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 31,
+      "text": ".",
+      "start_char": 4696,
+      "end_char": 4697,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "3",
+      "start_char": 4698,
+      "end_char": 4699,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ".",
+      "start_char": 4699,
+      "end_char": 4700
+    },
+    {
+      "id": 3,
+      "text": "Estring",
+      "start_char": 4701,
+      "end_char": 4708
+    },
+    {
+      "id": 4,
+      "text": "2",
+      "start_char": 4709,
+      "end_char": 4710
+    },
+    {
+      "id": 5,
+      "text": "mg",
+      "start_char": 4711,
+      "end_char": 4713
+    },
+    {
+      "id": 6,
+      "text": "Ring",
+      "start_char": 4714,
+      "end_char": 4718
+    },
+    {
+      "id": 7,
+      "text": "Sig",
+      "start_char": 4719,
+      "end_char": 4722,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ":",
+      "start_char": 4722,
+      "end_char": 4723
+    },
+    {
+      "id": 9,
+      "text": "One",
+      "start_char": 4724,
+      "end_char": 4727
+    },
+    {
+      "id": 10,
+      "text": "(",
+      "start_char": 4728,
+      "end_char": 4729,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "1",
+      "start_char": 4729,
+      "end_char": 4730,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": ")",
+      "start_char": 4730,
+      "end_char": 4731,
+      "misc": "SpacesAfter=\\s\\s"
+    },
+    {
+      "id": 13,
+      "text": "Vaginal",
+      "start_char": 4733,
+      "end_char": 4740
+    },
+    {
+      "id": 14,
+      "text": "q3months",
+      "start_char": 4741,
+      "end_char": 4749,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ".",
+      "start_char": 4749,
+      "end_char": 4750,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "4",
+      "start_char": 4751,
+      "end_char": 4752,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ".",
+      "start_char": 4752,
+      "end_char": 4753
+    },
+    {
+      "id": 3,
+      "text": "EpiPen",
+      "start_char": 4754,
+      "end_char": 4760
+    },
+    {
+      "id": 4,
+      "text": "0.3",
+      "start_char": 4761,
+      "end_char": 4764
+    },
+    {
+      "id": 5,
+      "text": "mg/0.3",
+      "start_char": 4765,
+      "end_char": 4771
+    },
+    {
+      "id": 6,
+      "text": "mL",
+      "start_char": 4772,
+      "end_char": 4774
+    },
+    {
+      "id": 7,
+      "text": "Pen",
+      "start_char": 4775,
+      "end_char": 4778
+    },
+    {
+      "id": 8,
+      "text": "Injector",
+      "start_char": 4779,
+      "end_char": 4787
+    },
+    {
+      "id": 9,
+      "text": "Sig",
+      "start_char": 4788,
+      "end_char": 4791,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ":",
+      "start_char": 4791,
+      "end_char": 4792
+    },
+    {
+      "id": 11,
+      "text": "One",
+      "start_char": 4793,
+      "end_char": 4796
+    },
+    {
+      "id": 12,
+      "text": "(",
+      "start_char": 4797,
+      "end_char": 4798,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "1",
+      "start_char": 4798,
+      "end_char": 4799,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ")",
+      "start_char": 4799,
+      "end_char": 4800,
+      "misc": "SpacesAfter=\\s\\s"
+    },
+    {
+      "id": 15,
+      "text": "Intramuscular",
+      "start_char": 4802,
+      "end_char": 4815,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 16,
+      "text": "PRN",
+      "start_char": 4816,
+      "end_char": 4819
+    },
+    {
+      "id": 17,
+      "text": "as",
+      "start_char": 4820,
+      "end_char": 4822
+    },
+    {
+      "id": 18,
+      "text": "needed",
+      "start_char": 4823,
+      "end_char": 4829
+    },
+    {
+      "id": 19,
+      "text": "for",
+      "start_char": 4830,
+      "end_char": 4833
+    },
+    {
+      "id": 20,
+      "text": "allergy",
+      "start_char": 4834,
+      "end_char": 4841
+    },
+    {
+      "id": 21,
+      "text": "symptoms",
+      "start_char": 4842,
+      "end_char": 4850,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": ".",
+      "start_char": 4850,
+      "end_char": 4851,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "5",
+      "start_char": 4852,
+      "end_char": 4853,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ".",
+      "start_char": 4853,
+      "end_char": 4854
+    },
+    {
+      "id": 3,
+      "text": "Lidocaine",
+      "start_char": 4855,
+      "end_char": 4864,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "-",
+      "start_char": 4864,
+      "end_char": 4865,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "Diphenhyd-[**",
+      "start_char": 4865,
+      "end_char": 4878,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "Doctor",
+      "start_char": 4878,
+      "end_char": 4884
+    },
+    {
+      "id": 7,
+      "text": "Last",
+      "start_char": 4885,
+      "end_char": 4889
+    },
+    {
+      "id": 8,
+      "text": "Name",
+      "start_char": 4890,
+      "end_char": 4894
+    },
+    {
+      "id": 9,
+      "text": "**]-",
+      "start_char": 4895,
+      "end_char": 4899,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": "Mag",
+      "start_char": 4899,
+      "end_char": 4902,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "-[**",
+      "start_char": 4902,
+      "end_char": 4906,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "Doctor",
+      "start_char": 4906,
+      "end_char": 4912
+    },
+    {
+      "id": 13,
+      "text": "Last",
+      "start_char": 4913,
+      "end_char": 4917
+    },
+    {
+      "id": 14,
+      "text": "Name",
+      "start_char": 4918,
+      "end_char": 4922
+    },
+    {
+      "id": 15,
+      "text": "**]",
+      "start_char": 4923,
+      "end_char": 4926
+    },
+    {
+      "id": 16,
+      "text": "200-25-400-40",
+      "start_char": 4927,
+      "end_char": 4940
+    },
+    {
+      "id": 17,
+      "text": "mg/30",
+      "start_char": 4941,
+      "end_char": 4946
+    },
+    {
+      "id": 18,
+      "text": "mL",
+      "start_char": 4947,
+      "end_char": 4949,
+      "misc": "SpacesAfter=\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Mouthwash",
+      "start_char": 4950,
+      "end_char": 4959
+    },
+    {
+      "id": 2,
+      "text": "Sig",
+      "start_char": 4960,
+      "end_char": 4963,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 4963,
+      "end_char": 4964
+    },
+    {
+      "id": 4,
+      "text": "Five",
+      "start_char": 4965,
+      "end_char": 4969
+    },
+    {
+      "id": 5,
+      "text": "(",
+      "start_char": 4970,
+      "end_char": 4971,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "5",
+      "start_char": 4971,
+      "end_char": 4972,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": ")",
+      "start_char": 4972,
+      "end_char": 4973
+    },
+    {
+      "id": 8,
+      "text": "ml",
+      "start_char": 4974,
+      "end_char": 4976
+    },
+    {
+      "id": 9,
+      "text": "Mucous",
+      "start_char": 4977,
+      "end_char": 4983
+    },
+    {
+      "id": 10,
+      "text": "membrane",
+      "start_char": 4984,
+      "end_char": 4992
+    },
+    {
+      "id": 11,
+      "text": "five",
+      "start_char": 4993,
+      "end_char": 4997
+    },
+    {
+      "id": 12,
+      "text": "times",
+      "start_char": 4998,
+      "end_char": 5003
+    },
+    {
+      "id": 13,
+      "text": "a",
+      "start_char": 5004,
+      "end_char": 5005
+    },
+    {
+      "id": 14,
+      "text": "day",
+      "start_char": 5006,
+      "end_char": 5009
+    },
+    {
+      "id": 15,
+      "text": "as",
+      "start_char": 5010,
+      "end_char": 5012,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 16,
+      "text": "needed",
+      "start_char": 5013,
+      "end_char": 5019
+    },
+    {
+      "id": 17,
+      "text": "for",
+      "start_char": 5020,
+      "end_char": 5023
+    },
+    {
+      "id": 18,
+      "text": "mouth",
+      "start_char": 5024,
+      "end_char": 5029
+    },
+    {
+      "id": 19,
+      "text": "ulcers",
+      "start_char": 5030,
+      "end_char": 5036,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 20,
+      "text": ".",
+      "start_char": 5036,
+      "end_char": 5037,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Discharge",
+      "start_char": 5040,
+      "end_char": 5049
+    },
+    {
+      "id": 2,
+      "text": "Disposition",
+      "start_char": 5050,
+      "end_char": 5061,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 5061,
+      "end_char": 5062,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "Home",
+      "start_char": 5063,
+      "end_char": 5067,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Discharge",
+      "start_char": 5069,
+      "end_char": 5078
+    },
+    {
+      "id": 2,
+      "text": "Diagnosis",
+      "start_char": 5079,
+      "end_char": 5088,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 5088,
+      "end_char": 5089,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "Primary",
+      "start_char": 5090,
+      "end_char": 5097,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ":",
+      "start_char": 5097,
+      "end_char": 5098
+    },
+    {
+      "id": 6,
+      "text": "status",
+      "start_char": 5099,
+      "end_char": 5105
+    },
+    {
+      "id": 7,
+      "text": "post",
+      "start_char": 5106,
+      "end_char": 5110
+    },
+    {
+      "id": 8,
+      "text": "Caspofungin",
+      "start_char": 5111,
+      "end_char": 5122
+    },
+    {
+      "id": 9,
+      "text": "desensitization",
+      "start_char": 5123,
+      "end_char": 5138,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Secondary",
+      "start_char": 5140,
+      "end_char": 5149,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 5149,
+      "end_char": 5150
+    },
+    {
+      "id": 3,
+      "text": "Foot",
+      "start_char": 5151,
+      "end_char": 5155
+    },
+    {
+      "id": 4,
+      "text": "laceration",
+      "start_char": 5156,
+      "end_char": 5166,
+      "misc": "SpacesAfter=\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Discharge",
+      "start_char": 5169,
+      "end_char": 5178
+    },
+    {
+      "id": 2,
+      "text": "Condition",
+      "start_char": 5179,
+      "end_char": 5188,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 5188,
+      "end_char": 5189,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "Vitals",
+      "start_char": 5190,
+      "end_char": 5196
+    },
+    {
+      "id": 5,
+      "text": "stable",
+      "start_char": 5197,
+      "end_char": 5203,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": ",",
+      "start_char": 5203,
+      "end_char": 5204
+    },
+    {
+      "id": 7,
+      "text": "asymptomatic",
+      "start_char": 5205,
+      "end_char": 5217,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Discharge",
+      "start_char": 5219,
+      "end_char": 5228
+    },
+    {
+      "id": 2,
+      "text": "Instructions",
+      "start_char": 5229,
+      "end_char": 5241,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 5241,
+      "end_char": 5242,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "You",
+      "start_char": 5243,
+      "end_char": 5246
+    },
+    {
+      "id": 5,
+      "text": "were",
+      "start_char": 5247,
+      "end_char": 5251
+    },
+    {
+      "id": 6,
+      "text": "admitted",
+      "start_char": 5252,
+      "end_char": 5260
+    },
+    {
+      "id": 7,
+      "text": "to",
+      "start_char": 5261,
+      "end_char": 5263
+    },
+    {
+      "id": 8,
+      "text": "the",
+      "start_char": 5264,
+      "end_char": 5267
+    },
+    {
+      "id": 9,
+      "text": "hospital",
+      "start_char": 5268,
+      "end_char": 5276
+    },
+    {
+      "id": 10,
+      "text": "to",
+      "start_char": 5277,
+      "end_char": 5279
+    },
+    {
+      "id": 11,
+      "text": "undergo",
+      "start_char": 5280,
+      "end_char": 5287
+    },
+    {
+      "id": 12,
+      "text": "desensitization",
+      "start_char": 5288,
+      "end_char": 5303
+    },
+    {
+      "id": 13,
+      "text": "for",
+      "start_char": 5304,
+      "end_char": 5307,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 14,
+      "text": "a",
+      "start_char": 5308,
+      "end_char": 5309
+    },
+    {
+      "id": 15,
+      "text": "drug",
+      "start_char": 5310,
+      "end_char": 5314
+    },
+    {
+      "id": 16,
+      "text": "called",
+      "start_char": 5315,
+      "end_char": 5321
+    },
+    {
+      "id": 17,
+      "text": "Caspofungin",
+      "start_char": 5322,
+      "end_char": 5333,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": ",",
+      "start_char": 5333,
+      "end_char": 5334
+    },
+    {
+      "id": 19,
+      "text": "which",
+      "start_char": 5335,
+      "end_char": 5340
+    },
+    {
+      "id": 20,
+      "text": "will",
+      "start_char": 5341,
+      "end_char": 5345
+    },
+    {
+      "id": 21,
+      "text": "be",
+      "start_char": 5346,
+      "end_char": 5348
+    },
+    {
+      "id": 22,
+      "text": "used",
+      "start_char": 5349,
+      "end_char": 5353
+    },
+    {
+      "id": 23,
+      "text": "to",
+      "start_char": 5354,
+      "end_char": 5356
+    },
+    {
+      "id": 24,
+      "text": "treat",
+      "start_char": 5357,
+      "end_char": 5362
+    },
+    {
+      "id": 25,
+      "text": "your",
+      "start_char": 5363,
+      "end_char": 5367,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 26,
+      "text": "vaginal",
+      "start_char": 5368,
+      "end_char": 5375
+    },
+    {
+      "id": 27,
+      "text": "yeast",
+      "start_char": 5376,
+      "end_char": 5381
+    },
+    {
+      "id": 28,
+      "text": "infection",
+      "start_char": 5382,
+      "end_char": 5391,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 29,
+      "text": ".",
+      "start_char": 5391,
+      "end_char": 5392,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "While",
+      "start_char": 5394,
+      "end_char": 5399
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 5400,
+      "end_char": 5403
+    },
+    {
+      "id": 3,
+      "text": "drug",
+      "start_char": 5404,
+      "end_char": 5408
+    },
+    {
+      "id": 4,
+      "text": "was",
+      "start_char": 5409,
+      "end_char": 5412
+    },
+    {
+      "id": 5,
+      "text": "being",
+      "start_char": 5413,
+      "end_char": 5418
+    },
+    {
+      "id": 6,
+      "text": "administered",
+      "start_char": 5419,
+      "end_char": 5431,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 7,
+      "text": "using",
+      "start_char": 5432,
+      "end_char": 5437
+    },
+    {
+      "id": 8,
+      "text": "the",
+      "start_char": 5438,
+      "end_char": 5441
+    },
+    {
+      "id": 9,
+      "text": "desensitization",
+      "start_char": 5442,
+      "end_char": 5457
+    },
+    {
+      "id": 10,
+      "text": "protocol",
+      "start_char": 5458,
+      "end_char": 5466,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ",",
+      "start_char": 5466,
+      "end_char": 5467
+    },
+    {
+      "id": 12,
+      "text": "you",
+      "start_char": 5468,
+      "end_char": 5471
+    },
+    {
+      "id": 13,
+      "text": "were",
+      "start_char": 5472,
+      "end_char": 5476
+    },
+    {
+      "id": 14,
+      "text": "observed",
+      "start_char": 5477,
+      "end_char": 5485
+    },
+    {
+      "id": 15,
+      "text": "closely",
+      "start_char": 5486,
+      "end_char": 5493
+    },
+    {
+      "id": 16,
+      "text": "by",
+      "start_char": 5494,
+      "end_char": 5496,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 17,
+      "text": "ICU",
+      "start_char": 5497,
+      "end_char": 5500
+    },
+    {
+      "id": 18,
+      "text": "nurses",
+      "start_char": 5501,
+      "end_char": 5507
+    },
+    {
+      "id": 19,
+      "text": "and",
+      "start_char": 5508,
+      "end_char": 5511
+    },
+    {
+      "id": 20,
+      "text": "special",
+      "start_char": 5512,
+      "end_char": 5519
+    },
+    {
+      "id": 21,
+      "text": "precautions",
+      "start_char": 5520,
+      "end_char": 5531
+    },
+    {
+      "id": 22,
+      "text": "were",
+      "start_char": 5532,
+      "end_char": 5536
+    },
+    {
+      "id": 23,
+      "text": "taken",
+      "start_char": 5537,
+      "end_char": 5542
+    },
+    {
+      "id": 24,
+      "text": "in",
+      "start_char": 5543,
+      "end_char": 5545
+    },
+    {
+      "id": 25,
+      "text": "order",
+      "start_char": 5546,
+      "end_char": 5551
+    },
+    {
+      "id": 26,
+      "text": "to",
+      "start_char": 5552,
+      "end_char": 5554
+    },
+    {
+      "id": 27,
+      "text": "assure",
+      "start_char": 5555,
+      "end_char": 5561,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 28,
+      "text": "safe",
+      "start_char": 5562,
+      "end_char": 5566
+    },
+    {
+      "id": 29,
+      "text": "desensitization",
+      "start_char": 5567,
+      "end_char": 5582,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 30,
+      "text": ".",
+      "start_char": 5582,
+      "end_char": 5583,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "You",
+      "start_char": 5585,
+      "end_char": 5588
+    },
+    {
+      "id": 2,
+      "text": "tolerated",
+      "start_char": 5589,
+      "end_char": 5598
+    },
+    {
+      "id": 3,
+      "text": "the",
+      "start_char": 5599,
+      "end_char": 5602
+    },
+    {
+      "id": 4,
+      "text": "infusion",
+      "start_char": 5603,
+      "end_char": 5611
+    },
+    {
+      "id": 5,
+      "text": "of",
+      "start_char": 5612,
+      "end_char": 5614
+    },
+    {
+      "id": 6,
+      "text": "medicine",
+      "start_char": 5615,
+      "end_char": 5623,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 7,
+      "text": "well",
+      "start_char": 5624,
+      "end_char": 5628
+    },
+    {
+      "id": 8,
+      "text": "and",
+      "start_char": 5629,
+      "end_char": 5632
+    },
+    {
+      "id": 9,
+      "text": "did",
+      "start_char": 5633,
+      "end_char": 5636
+    },
+    {
+      "id": 10,
+      "text": "not",
+      "start_char": 5637,
+      "end_char": 5640
+    },
+    {
+      "id": 11,
+      "text": "have",
+      "start_char": 5641,
+      "end_char": 5645
+    },
+    {
+      "id": 12,
+      "text": "any",
+      "start_char": 5646,
+      "end_char": 5649
+    },
+    {
+      "id": 13,
+      "text": "complications",
+      "start_char": 5650,
+      "end_char": 5663,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": ".",
+      "start_char": 5663,
+      "end_char": 5664,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "No",
+      "start_char": 5666,
+      "end_char": 5668
+    },
+    {
+      "id": 2,
+      "text": "changes",
+      "start_char": 5669,
+      "end_char": 5676
+    },
+    {
+      "id": 3,
+      "text": "were",
+      "start_char": 5677,
+      "end_char": 5681
+    },
+    {
+      "id": 4,
+      "text": "made",
+      "start_char": 5682,
+      "end_char": 5686
+    },
+    {
+      "id": 5,
+      "text": "to",
+      "start_char": 5687,
+      "end_char": 5689
+    },
+    {
+      "id": 6,
+      "text": "your",
+      "start_char": 5690,
+      "end_char": 5694
+    },
+    {
+      "id": 7,
+      "text": "medication",
+      "start_char": 5695,
+      "end_char": 5705
+    },
+    {
+      "id": 8,
+      "text": "regimen",
+      "start_char": 5706,
+      "end_char": 5713,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ".",
+      "start_char": 5713,
+      "end_char": 5714,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "You",
+      "start_char": 5716,
+      "end_char": 5719
+    },
+    {
+      "id": 2,
+      "text": "may",
+      "start_char": 5720,
+      "end_char": 5723
+    },
+    {
+      "id": 3,
+      "text": "return",
+      "start_char": 5724,
+      "end_char": 5730,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "to",
+      "start_char": 5731,
+      "end_char": 5733
+    },
+    {
+      "id": 5,
+      "text": "normal",
+      "start_char": 5734,
+      "end_char": 5740
+    },
+    {
+      "id": 6,
+      "text": "acitivity",
+      "start_char": 5741,
+      "end_char": 5750
+    },
+    {
+      "id": 7,
+      "text": "upon",
+      "start_char": 5751,
+      "end_char": 5755
+    },
+    {
+      "id": 8,
+      "text": "discharge",
+      "start_char": 5756,
+      "end_char": 5765
+    },
+    {
+      "id": 9,
+      "text": "from",
+      "start_char": 5766,
+      "end_char": 5770
+    },
+    {
+      "id": 10,
+      "text": "the",
+      "start_char": 5771,
+      "end_char": 5774
+    },
+    {
+      "id": 11,
+      "text": "hospital",
+      "start_char": 5775,
+      "end_char": 5783,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": ".",
+      "start_char": 5783,
+      "end_char": 5784,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "You",
+      "start_char": 5786,
+      "end_char": 5789
+    },
+    {
+      "id": 2,
+      "text": "have",
+      "start_char": 5790,
+      "end_char": 5794
+    },
+    {
+      "id": 3,
+      "text": "follow",
+      "start_char": 5795,
+      "end_char": 5801,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "-",
+      "start_char": 5801,
+      "end_char": 5802,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "up",
+      "start_char": 5802,
+      "end_char": 5804
+    },
+    {
+      "id": 6,
+      "text": "appointments",
+      "start_char": 5805,
+      "end_char": 5817
+    },
+    {
+      "id": 7,
+      "text": "for",
+      "start_char": 5818,
+      "end_char": 5821
+    },
+    {
+      "id": 8,
+      "text": "administration",
+      "start_char": 5822,
+      "end_char": 5836
+    },
+    {
+      "id": 9,
+      "text": "of",
+      "start_char": 5837,
+      "end_char": 5839
+    },
+    {
+      "id": 10,
+      "text": "the",
+      "start_char": 5840,
+      "end_char": 5843
+    },
+    {
+      "id": 11,
+      "text": "drug",
+      "start_char": 5844,
+      "end_char": 5848,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 12,
+      "text": "Caspofungin",
+      "start_char": 5849,
+      "end_char": 5860,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": ".",
+      "start_char": 5860,
+      "end_char": 5861,
+      "misc": "SpacesAfter=\\s\\s"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Please",
+      "start_char": 5863,
+      "end_char": 5869
+    },
+    {
+      "id": 2,
+      "text": "go",
+      "start_char": 5870,
+      "end_char": 5872
+    },
+    {
+      "id": 3,
+      "text": "to",
+      "start_char": 5873,
+      "end_char": 5875
+    },
+    {
+      "id": 4,
+      "text": "Pheresis",
+      "start_char": 5876,
+      "end_char": 5884
+    },
+    {
+      "id": 5,
+      "text": "center",
+      "start_char": 5885,
+      "end_char": 5891
+    },
+    {
+      "id": 6,
+      "text": "as",
+      "start_char": 5892,
+      "end_char": 5894
+    },
+    {
+      "id": 7,
+      "text": "instructed",
+      "start_char": 5895,
+      "end_char": 5905,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 8,
+      "text": "starting",
+      "start_char": 5906,
+      "end_char": 5914
+    },
+    {
+      "id": 9,
+      "text": "tomorrow",
+      "start_char": 5915,
+      "end_char": 5923
+    },
+    {
+      "id": 10,
+      "text": "[",
+      "start_char": 5924,
+      "end_char": 5925,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "**",
+      "start_char": 5925,
+      "end_char": 5927,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "2100",
+      "start_char": 5927,
+      "end_char": 5931,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "-11-2**",
+      "start_char": 5931,
+      "end_char": 5938,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": "]",
+      "start_char": 5938,
+      "end_char": 5939,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ".",
+      "start_char": 5939,
+      "end_char": 5940,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "You",
+      "start_char": 5942,
+      "end_char": 5945
+    },
+    {
+      "id": 2,
+      "text": "also",
+      "start_char": 5946,
+      "end_char": 5950
+    },
+    {
+      "id": 3,
+      "text": "will",
+      "start_char": 5951,
+      "end_char": 5955
+    },
+    {
+      "id": 4,
+      "text": "follow",
+      "start_char": 5956,
+      "end_char": 5962,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "-",
+      "start_char": 5962,
+      "end_char": 5963,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "up",
+      "start_char": 5963,
+      "end_char": 5965
+    },
+    {
+      "id": 7,
+      "text": "with",
+      "start_char": 5966,
+      "end_char": 5970
+    },
+    {
+      "id": 8,
+      "text": "your",
+      "start_char": 5971,
+      "end_char": 5975
+    },
+    {
+      "id": 9,
+      "text": "[",
+      "start_char": 5976,
+      "end_char": 5977,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": "**",
+      "start_char": 5977,
+      "end_char": 5979,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "First",
+      "start_char": 5979,
+      "end_char": 5984
+    },
+    {
+      "id": 12,
+      "text": "Name8",
+      "start_char": 5985,
+      "end_char": 5990
+    },
+    {
+      "id": 13,
+      "text": "(",
+      "start_char": 5991,
+      "end_char": 5992,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": "NamePattern2",
+      "start_char": 5992,
+      "end_char": 6004,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ")",
+      "start_char": 6004,
+      "end_char": 6005
+    },
+    {
+      "id": 16,
+      "text": "**]",
+      "start_char": 6006,
+      "end_char": 6009
+    },
+    {
+      "id": 17,
+      "text": "[",
+      "start_char": 6010,
+      "end_char": 6011,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 18,
+      "text": "**",
+      "start_char": 6011,
+      "end_char": 6013,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "Last",
+      "start_char": 6013,
+      "end_char": 6017
+    },
+    {
+      "id": 20,
+      "text": "Name",
+      "start_char": 6018,
+      "end_char": 6022
+    },
+    {
+      "id": 21,
+      "text": "(",
+      "start_char": 6023,
+      "end_char": 6024,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": "NamePattern1",
+      "start_char": 6024,
+      "end_char": 6036,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 23,
+      "text": ")",
+      "start_char": 6036,
+      "end_char": 6037
+    },
+    {
+      "id": 24,
+      "text": "**",
+      "start_char": 6038,
+      "end_char": 6040,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": "]",
+      "start_char": 6040,
+      "end_char": 6041,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 26,
+      "text": ",",
+      "start_char": 6041,
+      "end_char": 6042
+    },
+    {
+      "id": 27,
+      "text": "RN",
+      "start_char": 6043,
+      "end_char": 6045
+    },
+    {
+      "id": 28,
+      "text": "and",
+      "start_char": 6046,
+      "end_char": 6049
+    },
+    {
+      "id": 29,
+      "text": "your",
+      "start_char": 6050,
+      "end_char": 6054,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 30,
+      "text": "Primary",
+      "start_char": 6055,
+      "end_char": 6062
+    },
+    {
+      "id": 31,
+      "text": "Care",
+      "start_char": 6063,
+      "end_char": 6067
+    },
+    {
+      "id": 32,
+      "text": "Doctor",
+      "start_char": 6068,
+      "end_char": 6074
+    },
+    {
+      "id": 33,
+      "text": "Dr.",
+      "start_char": 6075,
+      "end_char": 6078
+    },
+    {
+      "id": 34,
+      "text": "[",
+      "start_char": 6079,
+      "end_char": 6080,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 35,
+      "text": "**",
+      "start_char": 6080,
+      "end_char": 6082,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 36,
+      "text": "First",
+      "start_char": 6082,
+      "end_char": 6087
+    },
+    {
+      "id": 37,
+      "text": "Name8",
+      "start_char": 6088,
+      "end_char": 6093
+    },
+    {
+      "id": 38,
+      "text": "(",
+      "start_char": 6094,
+      "end_char": 6095,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 39,
+      "text": "NamePattern2",
+      "start_char": 6095,
+      "end_char": 6107,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 40,
+      "text": ")",
+      "start_char": 6107,
+      "end_char": 6108
+    },
+    {
+      "id": 41,
+      "text": "**]",
+      "start_char": 6109,
+      "end_char": 6112
+    },
+    {
+      "id": 42,
+      "text": "[",
+      "start_char": 6113,
+      "end_char": 6114,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 43,
+      "text": "**",
+      "start_char": 6114,
+      "end_char": 6116,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 44,
+      "text": "Last",
+      "start_char": 6116,
+      "end_char": 6120
+    },
+    {
+      "id": 45,
+      "text": "Name",
+      "start_char": 6121,
+      "end_char": 6125
+    },
+    {
+      "id": 46,
+      "text": "(",
+      "start_char": 6126,
+      "end_char": 6127,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 47,
+      "text": "NamePattern1",
+      "start_char": 6127,
+      "end_char": 6139,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 48,
+      "text": ")",
+      "start_char": 6139,
+      "end_char": 6140
+    },
+    {
+      "id": 49,
+      "text": "**]",
+      "start_char": 6141,
+      "end_char": 6144
+    },
+    {
+      "id": 50,
+      "text": "(",
+      "start_char": 6145,
+      "end_char": 6146,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 51,
+      "text": "see",
+      "start_char": 6146,
+      "end_char": 6149
+    },
+    {
+      "id": 52,
+      "text": "below",
+      "start_char": 6150,
+      "end_char": 6155,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 53,
+      "text": ")",
+      "start_char": 6155,
+      "end_char": 6156,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 54,
+      "text": ".",
+      "start_char": 6156,
+      "end_char": 6157,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Followup",
+      "start_char": 6159,
+      "end_char": 6167
+    },
+    {
+      "id": 2,
+      "text": "Instructions",
+      "start_char": 6168,
+      "end_char": 6180,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 6180,
+      "end_char": 6181,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 4,
+      "text": "You",
+      "start_char": 6182,
+      "end_char": 6185
+    },
+    {
+      "id": 5,
+      "text": "need",
+      "start_char": 6186,
+      "end_char": 6190
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "start_char": 6191,
+      "end_char": 6193
+    },
+    {
+      "id": 7,
+      "text": "go",
+      "start_char": 6194,
+      "end_char": 6196
+    },
+    {
+      "id": 8,
+      "text": "to",
+      "start_char": 6197,
+      "end_char": 6199
+    },
+    {
+      "id": 9,
+      "text": "Pheresis",
+      "start_char": 6200,
+      "end_char": 6208
+    },
+    {
+      "id": 10,
+      "text": "Center",
+      "start_char": 6209,
+      "end_char": 6215
+    },
+    {
+      "id": 11,
+      "text": "as",
+      "start_char": 6216,
+      "end_char": 6218
+    },
+    {
+      "id": 12,
+      "text": "instructed",
+      "start_char": 6219,
+      "end_char": 6229
+    },
+    {
+      "id": 13,
+      "text": "for",
+      "start_char": 6230,
+      "end_char": 6233,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 14,
+      "text": "administration",
+      "start_char": 6234,
+      "end_char": 6248
+    },
+    {
+      "id": 15,
+      "text": "of",
+      "start_char": 6249,
+      "end_char": 6251
+    },
+    {
+      "id": 16,
+      "text": "Caspofungin",
+      "start_char": 6252,
+      "end_char": 6263,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ".",
+      "start_char": 6263,
+      "end_char": 6264,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "You",
+      "start_char": 6266,
+      "end_char": 6269
+    },
+    {
+      "id": 2,
+      "text": "have",
+      "start_char": 6270,
+      "end_char": 6274
+    },
+    {
+      "id": 3,
+      "text": "the",
+      "start_char": 6275,
+      "end_char": 6278
+    },
+    {
+      "id": 4,
+      "text": "following",
+      "start_char": 6279,
+      "end_char": 6288
+    },
+    {
+      "id": 5,
+      "text": "follow",
+      "start_char": 6289,
+      "end_char": 6295,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "-",
+      "start_char": 6295,
+      "end_char": 6296,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": "up",
+      "start_char": 6296,
+      "end_char": 6298
+    },
+    {
+      "id": 8,
+      "text": "appointments",
+      "start_char": 6299,
+      "end_char": 6311,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ":",
+      "start_char": 6311,
+      "end_char": 6312,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Provider",
+      "start_char": 6314,
+      "end_char": 6322,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 6322,
+      "end_char": 6323
+    },
+    {
+      "id": 3,
+      "text": "[",
+      "start_char": 6324,
+      "end_char": 6325,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "**",
+      "start_char": 6325,
+      "end_char": 6327,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "First",
+      "start_char": 6327,
+      "end_char": 6332
+    },
+    {
+      "id": 6,
+      "text": "Name8",
+      "start_char": 6333,
+      "end_char": 6338
+    },
+    {
+      "id": 7,
+      "text": "(",
+      "start_char": 6339,
+      "end_char": 6340,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "NamePattern2",
+      "start_char": 6340,
+      "end_char": 6352,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ")",
+      "start_char": 6352,
+      "end_char": 6353
+    },
+    {
+      "id": 10,
+      "text": "**]",
+      "start_char": 6354,
+      "end_char": 6357
+    },
+    {
+      "id": 11,
+      "text": "[",
+      "start_char": 6358,
+      "end_char": 6359,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "**",
+      "start_char": 6359,
+      "end_char": 6361,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "Last",
+      "start_char": 6361,
+      "end_char": 6365
+    },
+    {
+      "id": 14,
+      "text": "Name",
+      "start_char": 6366,
+      "end_char": 6370
+    },
+    {
+      "id": 15,
+      "text": "(",
+      "start_char": 6371,
+      "end_char": 6372,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": "NamePattern1",
+      "start_char": 6372,
+      "end_char": 6384,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ")",
+      "start_char": 6384,
+      "end_char": 6385
+    },
+    {
+      "id": 18,
+      "text": "2967**]",
+      "start_char": 6386,
+      "end_char": 6393,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": ",",
+      "start_char": 6393,
+      "end_char": 6394
+    },
+    {
+      "id": 20,
+      "text": "[",
+      "start_char": 6395,
+      "end_char": 6396,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 21,
+      "text": "**",
+      "start_char": 6396,
+      "end_char": 6398,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": "Name12",
+      "start_char": 6398,
+      "end_char": 6404
+    },
+    {
+      "id": 23,
+      "text": "(",
+      "start_char": 6405,
+      "end_char": 6406,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 24,
+      "text": "Name",
+      "start_char": 6406,
+      "end_char": 6410,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": "Is",
+      "start_char": 6410,
+      "end_char": 6412,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 26,
+      "text": ")",
+      "start_char": 6412,
+      "end_char": 6413
+    },
+    {
+      "id": 27,
+      "text": "280**]",
+      "start_char": 6414,
+      "end_char": 6420
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Phone",
+      "start_char": 6421,
+      "end_char": 6426,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 6426,
+      "end_char": 6427,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": "[**",
+      "start_char": 6427,
+      "end_char": 6430,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "Telephone",
+      "start_char": 6430,
+      "end_char": 6439,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "/",
+      "start_char": 6439,
+      "end_char": 6440,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 6,
+      "text": "Fax",
+      "start_char": 6440,
+      "end_char": 6443
+    },
+    {
+      "id": 7,
+      "text": "(",
+      "start_char": 6444,
+      "end_char": 6445,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "1",
+      "start_char": 6445,
+      "end_char": 6446,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ")",
+      "start_char": 6446,
+      "end_char": 6447
+    },
+    {
+      "id": 10,
+      "text": "250**",
+      "start_char": 6448,
+      "end_char": 6453,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": "]",
+      "start_char": 6453,
+      "end_char": 6454,
+      "misc": "SpacesAfter=\\n"
+    },
+    {
+      "id": 12,
+      "text": "Date",
+      "start_char": 6455,
+      "end_char": 6459,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "/",
+      "start_char": 6459,
+      "end_char": 6460,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 14,
+      "text": "Time",
+      "start_char": 6460,
+      "end_char": 6464,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ":[**2100-11-2**",
+      "start_char": 6464,
+      "end_char": 6479,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": "]",
+      "start_char": 6479,
+      "end_char": 6480
+    },
+    {
+      "id": 17,
+      "text": "11:30",
+      "start_char": 6481,
+      "end_char": 6486
+    },
+    {
+      "id": 18,
+      "text": "AM",
+      "start_char": 6487,
+      "end_char": 6489,
+      "misc": "SpacesAfter=\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Provider",
+      "start_char": 6491,
+      "end_char": 6499,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 2,
+      "text": ":",
+      "start_char": 6499,
+      "end_char": 6500
+    },
+    {
+      "id": 3,
+      "text": "[",
+      "start_char": 6501,
+      "end_char": 6502,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "**",
+      "start_char": 6502,
+      "end_char": 6504,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": "Name10",
+      "start_char": 6504,
+      "end_char": 6510
+    },
+    {
+      "id": 6,
+      "text": "(",
+      "start_char": 6511,
+      "end_char": 6512,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 7,
+      "text": "Name",
+      "start_char": 6512,
+      "end_char": 6516,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": "Is",
+      "start_char": 6516,
+      "end_char": 6518,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 9,
+      "text": ")",
+      "start_char": 6518,
+      "end_char": 6519
+    },
+    {
+      "id": 10,
+      "text": "**]",
+      "start_char": 6520,
+      "end_char": 6523
+    },
+    {
+      "id": 11,
+      "text": "[",
+      "start_char": 6524,
+      "end_char": 6525,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": "**",
+      "start_char": 6525,
+      "end_char": 6527,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 13,
+      "text": "First",
+      "start_char": 6527,
+      "end_char": 6532
+    },
+    {
+      "id": 14,
+      "text": "Name8",
+      "start_char": 6533,
+      "end_char": 6538
+    },
+    {
+      "id": 15,
+      "text": "(",
+      "start_char": 6539,
+      "end_char": 6540,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 16,
+      "text": "NamePattern2",
+      "start_char": 6540,
+      "end_char": 6552,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ")",
+      "start_char": 6552,
+      "end_char": 6553
+    },
+    {
+      "id": 18,
+      "text": "1243",
+      "start_char": 6554,
+      "end_char": 6558,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 19,
+      "text": "**]",
+      "start_char": 6558,
+      "end_char": 6561
+    },
+    {
+      "id": 20,
+      "text": "[",
+      "start_char": 6562,
+      "end_char": 6563,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 21,
+      "text": "**",
+      "start_char": 6563,
+      "end_char": 6565,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 22,
+      "text": "Name8",
+      "start_char": 6565,
+      "end_char": 6570
+    },
+    {
+      "id": 23,
+      "text": "(",
+      "start_char": 6571,
+      "end_char": 6572,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 24,
+      "text": "MD",
+      "start_char": 6572,
+      "end_char": 6574,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 25,
+      "text": ")",
+      "start_char": 6574,
+      "end_char": 6575
+    },
+    {
+      "id": 26,
+      "text": "**",
+      "start_char": 6576,
+      "end_char": 6578,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 27,
+      "text": "]",
+      "start_char": 6578,
+      "end_char": 6579,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 28,
+      "text": ",",
+      "start_char": 6579,
+      "end_char": 6580
+    },
+    {
+      "id": 29,
+      "text": "M.D.",
+      "start_char": 6581,
+      "end_char": 6585
+    },
+    {
+      "id": 30,
+      "text": "Date",
+      "start_char": 6586,
+      "end_char": 6590,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 31,
+      "text": "/",
+      "start_char": 6590,
+      "end_char": 6591,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 32,
+      "text": "Time",
+      "start_char": 6591,
+      "end_char": 6595,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 33,
+      "text": ":[**2100-11-8**",
+      "start_char": 6595,
+      "end_char": 6610,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 34,
+      "text": "]",
+      "start_char": 6610,
+      "end_char": 6611
+    },
+    {
+      "id": 35,
+      "text": "12:20",
+      "start_char": 6612,
+      "end_char": 6617
+    },
+    {
+      "id": 36,
+      "text": "PM",
+      "start_char": 6618,
+      "end_char": 6620,
+      "misc": "SpacesAfter=\\n\\n\\n\\n"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Completed",
+      "start_char": 6624,
+      "end_char": 6633
+    },
+    {
+      "id": 2,
+      "text": "by",
+      "start_char": 6634,
+      "end_char": 6636,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 3,
+      "text": ":[**2100-11-7**",
+      "start_char": 6636,
+      "end_char": 6651,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 4,
+      "text": "]",
+      "start_char": 6651,
+      "end_char": 6652,
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]

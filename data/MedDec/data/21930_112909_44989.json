@@ -1,0 +1,951 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "21930_112909_44989",
+    "annotations": [
+        {
+            "decision": "Respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 274,
+            "end_offset": 293,
+            "annotation_id": "GA_000"
+        },
+        {
+            "decision": "Endotracheal intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 333,
+            "end_offset": 356,
+            "annotation_id": "GA_001"
+        },
+        {
+            "decision": "o HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 397,
+            "end_offset": 402,
+            "annotation_id": "GA_002"
+        },
+        {
+            "decision": "PVD,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 404,
+            "end_offset": 407,
+            "annotation_id": "GA_003"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 409,
+            "end_offset": 413,
+            "annotation_id": "GA_004"
+        },
+        {
+            "decision": "osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 415,
+            "end_offset": 427,
+            "annotation_id": "GA_005"
+        },
+        {
+            "decision": "TCC of bladder,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 429,
+            "end_offset": 443,
+            "annotation_id": "GA_006"
+        },
+        {
+            "decision": "worsening dyspnea x 4 days",
+            "category": "Category 3: Defining problem",
+            "start_offset": 461,
+            "end_offset": 487,
+            "annotation_id": "GA_007"
+        },
+        {
+            "decision": "given combivent and nebs.",
+            "category": "Category 5: Drug related",
+            "start_offset": 672,
+            "end_offset": 696,
+            "annotation_id": "GA_008"
+        },
+        {
+            "decision": "received Solumedrol 125mg IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 867,
+            "end_offset": 895,
+            "annotation_id": "GA_009"
+        },
+        {
+            "decision": "Combivent nebs",
+            "category": "Category 5: Drug related",
+            "start_offset": 897,
+            "end_offset": 911,
+            "annotation_id": "GA_010"
+        },
+        {
+            "decision": "Levoflox 500mg IV x 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 913,
+            "end_offset": 934,
+            "annotation_id": "GA_011"
+        },
+        {
+            "decision": "Given terbutaline 0.25mg SC",
+            "category": "Category 5: Drug related",
+            "start_offset": 936,
+            "end_offset": 963,
+            "annotation_id": "GA_012"
+        },
+        {
+            "decision": "intubate for worsening O2 sat to 67% on NRB",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 982,
+            "end_offset": 1025,
+            "annotation_id": "GA_013"
+        },
+        {
+            "decision": "and failed CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1027,
+            "end_offset": 1042,
+            "annotation_id": "GA_014"
+        },
+        {
+            "decision": "succinylcholine, etomidate, and propofol peri-intubation",
+            "category": "Category 5: Drug related",
+            "start_offset": 1053,
+            "end_offset": 1109,
+            "annotation_id": "GA_015"
+        },
+        {
+            "decision": "VS improved to 99.8F HR 120, BP 146/81, RR 18.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1178,
+            "end_offset": 1223,
+            "annotation_id": "GA_016"
+        },
+        {
+            "decision": "1) COPD:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1249,
+            "end_offset": 1256,
+            "annotation_id": "GA_017"
+        },
+        {
+            "decision": "[**2114-12-19**]: FVC 1.46 (57%) FEV1 0.7 (39%) no bronchodilator response Resid vOl 215% of predicted Diffusion 37% predicted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1258,
+            "end_offset": 1384,
+            "annotation_id": "GA_018"
+        },
+        {
+            "decision": "High lung volumes - no restrictive component on interpretation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1385,
+            "end_offset": 1447,
+            "annotation_id": "GA_019"
+        },
+        {
+            "decision": "Maintained on albuterol and spireva",
+            "category": "Category 5: Drug related",
+            "start_offset": 1522,
+            "end_offset": 1557,
+            "annotation_id": "GA_020"
+        },
+        {
+            "decision": "2) HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1560,
+            "end_offset": 1566,
+            "annotation_id": "GA_021"
+        },
+        {
+            "decision": "3) PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1567,
+            "end_offset": 1573,
+            "annotation_id": "GA_022"
+        },
+        {
+            "decision": "4) TCC of bladder ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1620,
+            "end_offset": 1637,
+            "annotation_id": "GA_023"
+        },
+        {
+            "decision": "s/p TURBT and local BCG treatments,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1640,
+            "end_offset": 1674,
+            "annotation_id": "GA_024"
+        },
+        {
+            "decision": "no evidence of recurrence at last urology f/u 6 months ago",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1676,
+            "end_offset": 1734,
+            "annotation_id": "GA_025"
+        },
+        {
+            "decision": "5) Osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1735,
+            "end_offset": 1750,
+            "annotation_id": "GA_026"
+        },
+        {
+            "decision": "6) Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1751,
+            "end_offset": 1768,
+            "annotation_id": "GA_027"
+        },
+        {
+            "decision": "7) Cataract surgery [**9-10**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1769,
+            "end_offset": 1799,
+            "annotation_id": "GA_028"
+        },
+        {
+            "decision": "Gen: intubated, sedated nad",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2093,
+            "end_offset": 2120,
+            "annotation_id": "GA_029"
+        },
+        {
+            "decision": "HEENT: mmm, perrla,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2121,
+            "end_offset": 2139,
+            "annotation_id": "GA_030"
+        },
+        {
+            "decision": "Lungs: diminished bs, low pitched expiratory wheezes, no rales",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2141,
+            "end_offset": 2203,
+            "annotation_id": "GA_031"
+        },
+        {
+            "decision": "Heart: distant hs, no m/r/g, rrr",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2204,
+            "end_offset": 2236,
+            "annotation_id": "GA_032"
+        },
+        {
+            "decision": "Abd: distended but soft, no organomegaly, hypoactive bs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2237,
+            "end_offset": 2292,
+            "annotation_id": "GA_033"
+        },
+        {
+            "decision": "Ext: distal pulses present, lle cool, scar on lle from fem [**Doctor Last Name **], no le edema",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2293,
+            "end_offset": 2388,
+            "annotation_id": "GA_034"
+        },
+        {
+            "decision": "Initial [**1-30**] CXR:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2450,
+            "end_offset": 2472,
+            "annotation_id": "GA_035"
+        },
+        {
+            "decision": "The heart size and mediastinal contours are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2474,
+            "end_offset": 2524,
+            "annotation_id": "GA_036"
+        },
+        {
+            "decision": "The lungs are hyperinflated with attenuation of the pulmonary vascularity, particularly in the right upper lobe, consistent with emphysema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2526,
+            "end_offset": 2664,
+            "annotation_id": "GA_037"
+        },
+        {
+            "decision": "No focal pulmonary parenchymal consolidation or pleural effusions identified. No pneumothorax",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2666,
+            "end_offset": 2759,
+            "annotation_id": "GA_038"
+        },
+        {
+            "decision": "Initial ECG:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2762,
+            "end_offset": 2773,
+            "annotation_id": "GA_039"
+        },
+        {
+            "decision": "Sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2775,
+            "end_offset": 2792,
+            "annotation_id": "GA_040"
+        },
+        {
+            "decision": "Biatrial abnormality",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2794,
+            "end_offset": 2814,
+            "annotation_id": "GA_041"
+        },
+        {
+            "decision": "P pulmonale with very tall P waves in leads II, III and aVF.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2816,
+            "end_offset": 2875,
+            "annotation_id": "GA_042"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2115-9-12**] tachycardia has appeared",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2877,
+            "end_offset": 2953,
+            "annotation_id": "GA_043"
+        },
+        {
+            "decision": "Left atrial abnormality is more pronounced.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2955,
+            "end_offset": 2997,
+            "annotation_id": "GA_044"
+        },
+        {
+            "decision": "TTE [**1-31**]:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3000,
+            "end_offset": 3014,
+            "annotation_id": "GA_045"
+        },
+        {
+            "decision": "Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF 70%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3029,
+            "end_offset": 3180,
+            "annotation_id": "GA_046"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3184,
+            "end_offset": 3246,
+            "annotation_id": "GA_047"
+        },
+        {
+            "decision": "The aortic valve leaflets are severely thickened/deformed. Aortic stenosis is present but could not be quantitated. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3248,
+            "end_offset": 3362,
+            "annotation_id": "GA_048"
+        },
+        {
+            "decision": "An aortic valve vegetation/mass cannot be excluded",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3364,
+            "end_offset": 3414,
+            "annotation_id": "GA_049"
+        },
+        {
+            "decision": "Mild (1+) aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3416,
+            "end_offset": 3454,
+            "annotation_id": "GA_050"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3456,
+            "end_offset": 3502,
+            "annotation_id": "GA_051"
+        },
+        {
+            "decision": "There is no mitral valve prolapse. No mass or vegetation is seen on the mitral valve. There is severe mitral annular calcification. Mild (1+) mitral regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3504,
+            "end_offset": 3674,
+            "annotation_id": "GA_052"
+        },
+        {
+            "decision": "Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3677,
+            "end_offset": 3776,
+            "annotation_id": "GA_053"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened. No vegetation/mass is seen on the pulmonic valve. There is no pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3779,
+            "end_offset": 3912,
+            "annotation_id": "GA_054"
+        },
+        {
+            "decision": "The absence of a vegetation by 2D echocardiography does not exclude endocarditis if clinically suggested.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3914,
+            "end_offset": 4018,
+            "annotation_id": "GA_055"
+        },
+        {
+            "decision": "Blood Cultures: [**1-30**]: Coag negative staph 2/2 bottles [**1-31**] and [**2-1**]: Pending at time of death",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4021,
+            "end_offset": 4131,
+            "annotation_id": "GA_056"
+        },
+        {
+            "decision": "Spurum Cultures: [**1-31**]: Rare oropharyngeal flora [**2-2**]: No growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4133,
+            "end_offset": 4207,
+            "annotation_id": "GA_057"
+        },
+        {
+            "decision": "Urine Culture: [**1-30**]: No growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4209,
+            "end_offset": 4245,
+            "annotation_id": "GA_058"
+        },
+        {
+            "decision": "Rapid respiratory virus screen: Positive for influenza A antigen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4247,
+            "end_offset": 4311,
+            "annotation_id": "GA_059"
+        },
+        {
+            "decision": "Intubat-INTUBATED",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5417,
+            "end_offset": 5434,
+            "annotation_id": "GA_060"
+        },
+        {
+            "decision": "Intubat-INTUBATED",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5588,
+            "end_offset": 5605,
+            "annotation_id": "GA_061"
+        },
+        {
+            "decision": "[**2116-1-30**] 07:40AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.020 [**2116-1-30**] 07:40AM URINE Blood-TR Nitrite-NEG Protein-500 Glucose-NEG Ketone-15 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5691,
+            "end_offset": 5903,
+            "annotation_id": "GA_062"
+        },
+        {
+            "decision": "[**2116-1-30**] 07:40AM URINE RBC-0-2 WBC-0-2 Bacteri-MOD Yeast-NONE Epi-0-2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5904,
+            "end_offset": 5980,
+            "annotation_id": "GA_063"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6082,
+            "end_offset": 6091,
+            "annotation_id": "GA_064"
+        },
+        {
+            "decision": "continued on her COPD regimen ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6101,
+            "end_offset": 6130,
+            "annotation_id": "GA_065"
+        },
+        {
+            "decision": "f prednisone, levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6131,
+            "end_offset": 6158,
+            "annotation_id": "GA_066"
+        },
+        {
+            "decision": "and albuterol/atrovent MDIs.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6160,
+            "end_offset": 6187,
+            "annotation_id": "GA_067"
+        },
+        {
+            "decision": "keep the ventilator on AC mode",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6360,
+            "end_offset": 6390,
+            "annotation_id": "GA_068"
+        },
+        {
+            "decision": "with appropriate levels of propofol for sedation",
+            "category": "Category 5: Drug related",
+            "start_offset": 6392,
+            "end_offset": 6440,
+            "annotation_id": "GA_069"
+        },
+        {
+            "decision": "initial blood cultures grew GPC in pairs and clusters in [**1-9**] bottles. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6471,
+            "end_offset": 6545,
+            "annotation_id": "GA_070"
+        },
+        {
+            "decision": "lack of infiltrate on CXR ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6607,
+            "end_offset": 6632,
+            "annotation_id": "GA_071"
+        },
+        {
+            "decision": "vancomycin was started ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6748,
+            "end_offset": 6770,
+            "annotation_id": "GA_072"
+        },
+        {
+            "decision": "TTE was also done to assess for evidence of endocarditis. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6827,
+            "end_offset": 6883,
+            "annotation_id": "GA_073"
+        },
+        {
+            "decision": "Thickened AV were noted, but no clear evidence of vegetations",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6885,
+            "end_offset": 6946,
+            "annotation_id": "GA_074"
+        },
+        {
+            "decision": "TEE may be clinically indicated,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6979,
+            "end_offset": 7010,
+            "annotation_id": "GA_075"
+        },
+        {
+            "decision": "TEE was deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 7138,
+            "end_offset": 7154,
+            "annotation_id": "GA_076"
+        },
+        {
+            "decision": "nasopharyngeal aspirate done for respiratory viruses",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7195,
+            "end_offset": 7247,
+            "annotation_id": "GA_077"
+        },
+        {
+            "decision": "which was positive for influenza A",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7249,
+            "end_offset": 7283,
+            "annotation_id": "GA_078"
+        },
+        {
+            "decision": "Droplet precautions were instituted; ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7285,
+            "end_offset": 7320,
+            "annotation_id": "GA_079"
+        },
+        {
+            "decision": "it was not felt that antiviral therapy would be beneficial",
+            "category": "Category 5: Drug related",
+            "start_offset": 7410,
+            "end_offset": 7468,
+            "annotation_id": "GA_080"
+        },
+        {
+            "decision": "supportive measures were continued.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7474,
+            "end_offset": 7508,
+            "annotation_id": "GA_081"
+        },
+        {
+            "decision": "would want to be DNR and, if her clinical course did not rapidly improve within 24-48h of admission, that she would want to be placed on comfort measures, and the endotracheal tube removed.",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 7668,
+            "end_offset": 7856,
+            "annotation_id": "GA_082"
+        },
+        {
+            "decision": "ventilator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7988,
+            "end_offset": 7998,
+            "annotation_id": "GA_083"
+        },
+        {
+            "decision": "respiratory failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8065,
+            "end_offset": 8084,
+            "annotation_id": "GA_084"
+        },
+        {
+            "decision": "likely exacerbation by her inluenza",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8120,
+            "end_offset": 8155,
+            "annotation_id": "GA_085"
+        },
+        {
+            "decision": "COPD w",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8181,
+            "end_offset": 8189,
+            "annotation_id": "GA_086"
+        },
+        {
+            "decision": "the ventilator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8244,
+            "end_offset": 8258,
+            "annotation_id": "GA_087"
+        },
+        {
+            "decision": "switch the goals of care to comfort measures only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 8363,
+            "end_offset": 8412,
+            "annotation_id": "GA_088"
+        },
+        {
+            "decision": "given morphine IV prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8422,
+            "end_offset": 8443,
+            "annotation_id": "GA_089"
+        },
+        {
+            "decision": "and her endotracheal tube was removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8445,
+            "end_offset": 8482,
+            "annotation_id": "GA_090"
+        },
+        {
+            "decision": "morphine IV was given prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8559,
+            "end_offset": 8584,
+            "annotation_id": "GA_091"
+        },
+        {
+            "decision": "for respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8585,
+            "end_offset": 8609,
+            "annotation_id": "GA_092"
+        },
+        {
+            "decision": "copd",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8972,
+            "end_offset": 8976,
+            "annotation_id": "GA_093"
+        },
+        {
+            "decision": "htn",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8978,
+            "end_offset": 8981,
+            "annotation_id": "GA_094"
+        },
+        {
+            "decision": "pvd",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8983,
+            "end_offset": 8986,
+            "annotation_id": "GA_095"
+        },
+        {
+            "decision": "and bladder cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8988,
+            "end_offset": 9006,
+            "annotation_id": "GA_096"
+        },
+        {
+            "decision": "who is admitted s/p copd exacerbation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9007,
+            "end_offset": 9044,
+            "annotation_id": "GA_097"
+        },
+        {
+            "decision": "requiring intubation.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9045,
+            "end_offset": 9065,
+            "annotation_id": "GA_098"
+        },
+        {
+            "decision": "COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9067,
+            "end_offset": 9084,
+            "annotation_id": "GA_099"
+        },
+        {
+            "decision": "cxr with hyperinflation but no infiltrate, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9098,
+            "end_offset": 9139,
+            "annotation_id": "GA_100"
+        },
+        {
+            "decision": "possibly exacerbated by influenza",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9141,
+            "end_offset": 9174,
+            "annotation_id": "GA_101"
+        },
+        {
+            "decision": "-Having difficulties triggering breaths. Currently trying PS trial 15/5.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9176,
+            "end_offset": 9247,
+            "annotation_id": "GA_102"
+        },
+        {
+            "decision": "cont prednisone 40mg qD as part of 2 week taper",
+            "category": "Category 5: Drug related",
+            "start_offset": 9250,
+            "end_offset": 9297,
+            "annotation_id": "GA_103"
+        },
+        {
+            "decision": "cont levofloxacin 250mg IV qD D4",
+            "category": "Category 5: Drug related",
+            "start_offset": 9300,
+            "end_offset": 9332,
+            "annotation_id": "GA_104"
+        },
+        {
+            "decision": "cont albuterol q2h and ipratropium q6h.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9334,
+            "end_offset": 9372,
+            "annotation_id": "GA_105"
+        },
+        {
+            "decision": "Will plan on extubating today, with no reintubation if fails.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9375,
+            "end_offset": 9435,
+            "annotation_id": "GA_106"
+        },
+        {
+            "decision": "Coag negative staph bacteremia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9476,
+            "end_offset": 9506,
+            "annotation_id": "GA_107"
+        },
+        {
+            "decision": "BCx growing coag negative staph in blood, and GPC in sputum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9509,
+            "end_offset": 9568,
+            "annotation_id": "GA_108"
+        },
+        {
+            "decision": "Bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9570,
+            "end_offset": 9580,
+            "annotation_id": "GA_109"
+        },
+        {
+            "decision": "due to possible contamination from placement of PIV",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9590,
+            "end_offset": 9641,
+            "annotation_id": "GA_110"
+        },
+        {
+            "decision": "but continuing with vanc 1gm IV q48h ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9643,
+            "end_offset": 9679,
+            "annotation_id": "GA_111"
+        },
+        {
+            "decision": "due to concommitant finding in sputum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9680,
+            "end_offset": 9717,
+            "annotation_id": "GA_112"
+        },
+        {
+            "decision": "- TTE showing no vegetations, but does not severely thickened/deformed AV",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9722,
+            "end_offset": 9793,
+            "annotation_id": "GA_113"
+        },
+        {
+            "decision": "may need TEE if pt does well post-extubation.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9795,
+            "end_offset": 9839,
+            "annotation_id": "GA_114"
+        },
+        {
+            "decision": "HTN-",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9841,
+            "end_offset": 9845,
+            "annotation_id": "GA_115"
+        },
+        {
+            "decision": "with aldactazide ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9866,
+            "end_offset": 9882,
+            "annotation_id": "GA_116"
+        },
+        {
+            "decision": "evidence of borderline lvh on ekg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9888,
+            "end_offset": 9921,
+            "annotation_id": "GA_117"
+        },
+        {
+            "decision": "cardiac wkup in '[**03**], nl",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9928,
+            "end_offset": 9957,
+            "annotation_id": "GA_118"
+        },
+        {
+            "decision": "Holding HCTZ in setting of worsening renal function",
+            "category": "Category 5: Drug related",
+            "start_offset": 9960,
+            "end_offset": 10011,
+            "annotation_id": "GA_119"
+        },
+        {
+            "decision": "Would treat HTN wit",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10013,
+            "end_offset": 10033,
+            "annotation_id": "GA_120"
+        },
+        {
+            "decision": "standing norvasc for now",
+            "category": "Category 5: Drug related",
+            "start_offset": 10034,
+            "end_offset": 10058,
+            "annotation_id": "GA_121"
+        },
+        {
+            "decision": "Bladder ca- ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10060,
+            "end_offset": 10071,
+            "annotation_id": "GA_122"
+        },
+        {
+            "decision": ", s/p BCG topical therapy [**5-13**] years ago.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10094,
+            "end_offset": 10138,
+            "annotation_id": "GA_123"
+        },
+        {
+            "decision": "Access: 2 20ga PIVs, a-line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10194,
+            "end_offset": 10221,
+            "annotation_id": "GA_124"
+        },
+        {
+            "decision": "Code: DNR",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 10222,
+            "end_offset": 10231,
+            "annotation_id": "GA_125"
+        },
+        {
+            "decision": "Would not want to be intubated for long-term, would not want reintubated if unsuccessful extubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10233,
+            "end_offset": 10332,
+            "annotation_id": "GA_126"
+        },
+        {
+            "decision": "Aldactazide 25mg/25mg qD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10534,
+            "end_offset": 10558,
+            "annotation_id": "GA_127"
+        },
+        {
+            "decision": "Zocor 20mg qHS -?taking",
+            "category": "Category 5: Drug related",
+            "start_offset": 10559,
+            "end_offset": 10582,
+            "annotation_id": "GA_128"
+        },
+        {
+            "decision": "Fosamax",
+            "category": "Category 5: Drug related",
+            "start_offset": 10583,
+            "end_offset": 10590,
+            "annotation_id": "GA_129"
+        },
+        {
+            "decision": "Ca supplements",
+            "category": "Category 5: Drug related",
+            "start_offset": 10591,
+            "end_offset": 10605,
+            "annotation_id": "GA_130"
+        },
+        {
+            "decision": "Albuterol",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10606,
+            "end_offset": 10615,
+            "annotation_id": "GA_131"
+        },
+        {
+            "decision": "Spiriva",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10616,
+            "end_offset": 10623,
+            "annotation_id": "GA_132"
+        },
+        {
+            "decision": "Influenza",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10707,
+            "end_offset": 10716,
+            "annotation_id": "GA_133"
+        },
+        {
+            "decision": "Respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10717,
+            "end_offset": 10736,
+            "annotation_id": "GA_134"
+        }
+    ]
+}

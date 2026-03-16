@@ -1,0 +1,552 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "40991_154860_53590",
+    "annotations": [
+        {
+            "decision": "headache",
+            "category": "Category 3: Defining problem",
+            "start_offset": 267,
+            "end_offset": 275,
+            "annotation_id": "LG_000"
+        },
+        {
+            "decision": "angiogram",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 315,
+            "end_offset": 324,
+            "annotation_id": "LG_001"
+        },
+        {
+            "decision": "CT negative for SAH ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 685,
+            "end_offset": 704,
+            "annotation_id": "LG_002"
+        },
+        {
+            "decision": "underwent an LP which resulted [**Numeric Identifier 110109**] RBC's in both tubes 1 and 4.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 732,
+            "end_offset": 822,
+            "annotation_id": "LG_003"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 847,
+            "end_offset": 861,
+            "annotation_id": "LG_004"
+        },
+        {
+            "decision": "celiac sprue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 863,
+            "end_offset": 875,
+            "annotation_id": "LG_005"
+        },
+        {
+            "decision": "csection x2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 877,
+            "end_offset": 888,
+            "annotation_id": "LG_006"
+        },
+        {
+            "decision": "wrist fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 890,
+            "end_offset": 904,
+            "annotation_id": "LG_007"
+        },
+        {
+            "decision": "wrist fracture repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 890,
+            "end_offset": 911,
+            "annotation_id": "LG_008"
+        },
+        {
+            "decision": "rotator cuff repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 913,
+            "end_offset": 932,
+            "annotation_id": "LG_009"
+        },
+        {
+            "decision": "Gen: WD/WN, comfortable, NAD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1248,
+            "end_offset": 1276,
+            "annotation_id": "LG_010"
+        },
+        {
+            "decision": "HEENT: Pupils: 3->2mm bilat        EOMs intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1278,
+            "end_offset": 1324,
+            "annotation_id": "LG_011"
+        },
+        {
+            "decision": "Neck: Supple.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1325,
+            "end_offset": 1337,
+            "annotation_id": "LG_012"
+        },
+        {
+            "decision": "Lungs: CTA bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1339,
+            "end_offset": 1361,
+            "annotation_id": "LG_013"
+        },
+        {
+            "decision": "Cardiac: RRR. S1/S2.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1363,
+            "end_offset": 1382,
+            "annotation_id": "LG_014"
+        },
+        {
+            "decision": "Abd: Soft, NT, BS+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1384,
+            "end_offset": 1402,
+            "annotation_id": "LG_015"
+        },
+        {
+            "decision": "Extrem: Warm and well-perfused. No C/C/E.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1403,
+            "end_offset": 1443,
+            "annotation_id": "LG_016"
+        },
+        {
+            "decision": "Mental status: Awake and alert, cooperative with exam, normal affect.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1453,
+            "end_offset": 1521,
+            "annotation_id": "LG_017"
+        },
+        {
+            "decision": "Orientation: Oriented to person, place, and date.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1523,
+            "end_offset": 1571,
+            "annotation_id": "LG_018"
+        },
+        {
+            "decision": "Recall: [**2-14**] objects at 5 minutes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1573,
+            "end_offset": 1612,
+            "annotation_id": "LG_019"
+        },
+        {
+            "decision": "Language: Speech fluent with good comprehension and repetition.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1614,
+            "end_offset": 1676,
+            "annotation_id": "LG_020"
+        },
+        {
+            "decision": "Naming intact. No dysarthria or paraphasic errors.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1678,
+            "end_offset": 1727,
+            "annotation_id": "LG_021"
+        },
+        {
+            "decision": "II: Pupils equally round and reactive to light, 3 to 2 mm bilaterally. Visual fields are full to confrontation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1760,
+            "end_offset": 1870,
+            "annotation_id": "LG_022"
+        },
+        {
+            "decision": "III, IV, VI: Extraocular movements intact bilaterally without nystagmus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1872,
+            "end_offset": 1943,
+            "annotation_id": "LG_023"
+        },
+        {
+            "decision": "V, VII: Facial strength and sensation intact and symmetric.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1945,
+            "end_offset": 2003,
+            "annotation_id": "LG_024"
+        },
+        {
+            "decision": "VIII: Hearing intact to finger rub bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2005,
+            "end_offset": 2051,
+            "annotation_id": "LG_025"
+        },
+        {
+            "decision": "IX, X: Palatal elevation symmetrical. [**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2053,
+            "end_offset": 2171,
+            "annotation_id": "LG_026"
+        },
+        {
+            "decision": "XII: Tongue midline without fasciculations.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2173,
+            "end_offset": 2215,
+            "annotation_id": "LG_027"
+        },
+        {
+            "decision": "Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power [**4-18**] throughout. No pronator drift",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2218,
+            "end_offset": 2351,
+            "annotation_id": "LG_028"
+        },
+        {
+            "decision": "Sensation: Intact to light touch, propioception, pinprick and vibration bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2353,
+            "end_offset": 2436,
+            "annotation_id": "LG_029"
+        },
+        {
+            "decision": "Toes downgoing bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2439,
+            "end_offset": 2465,
+            "annotation_id": "LG_030"
+        },
+        {
+            "decision": "Coordination: normal on finger-nose-finger, rapid alternating movements, heel to shin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2467,
+            "end_offset": 2552,
+            "annotation_id": "LG_031"
+        },
+        {
+            "decision": "CT/CTA: L cavernous carotid aneurysm, no subarachnoid hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2573,
+            "end_offset": 2637,
+            "annotation_id": "LG_032"
+        },
+        {
+            "decision": "Cerebral Angiogram: negative for aneurysm or vascular abnormality",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2639,
+            "end_offset": 2704,
+            "annotation_id": "LG_033"
+        },
+        {
+            "decision": "admitted to the Neuro ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3078,
+            "end_offset": 3103,
+            "annotation_id": "LG_034"
+        },
+        {
+            "decision": "Nimodipine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3154,
+            "end_offset": 3164,
+            "annotation_id": "LG_035"
+        },
+        {
+            "decision": "Dilantin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3169,
+            "end_offset": 3177,
+            "annotation_id": "LG_036"
+        },
+        {
+            "decision": "was planned to undergo a cerebral angiogram on 3.24.  On [**3-7**] she underwent the cerebral angiogram which was negative for any aneurysm or other vascular abnormality",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3182,
+            "end_offset": 3351,
+            "annotation_id": "LG_037"
+        },
+        {
+            "decision": "was neurologically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3403,
+            "end_offset": 3428,
+            "annotation_id": "LG_038"
+        },
+        {
+            "decision": "her exam was stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3454,
+            "end_offset": 3473,
+            "annotation_id": "LG_039"
+        },
+        {
+            "decision": "nimodipine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3479,
+            "end_offset": 3489,
+            "annotation_id": "LG_040"
+        },
+        {
+            "decision": "and dilantin were discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 3490,
+            "end_offset": 3520,
+            "annotation_id": "LG_041"
+        },
+        {
+            "decision": "Fioricet ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3592,
+            "end_offset": 3600,
+            "annotation_id": "LG_042"
+        },
+        {
+            "decision": "levoxyl 137 mcg",
+            "category": "Category 5: Drug related",
+            "start_offset": 3666,
+            "end_offset": 3681,
+            "annotation_id": "LG_043"
+        },
+        {
+            "decision": "prozac 20 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 3683,
+            "end_offset": 3695,
+            "annotation_id": "LG_044"
+        },
+        {
+            "decision": "acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain or fever",
+            "category": "Category 5: Drug related",
+            "start_offset": 3724,
+            "end_offset": 3819,
+            "annotation_id": "LG_045"
+        },
+        {
+            "decision": "levothyroxine 137 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 3824,
+            "end_offset": 3888,
+            "annotation_id": "LG_046"
+        },
+        {
+            "decision": "fluoxetine 10 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 3894,
+            "end_offset": 3955,
+            "annotation_id": "LG_047"
+        },
+        {
+            "decision": "butalbital-acetaminophen-caff 50-325-40 mg Tablet Sig: [**12-16**] Tablets PO Q6H (every 6 hours) as needed for headache. Disp:*90 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 3961,
+            "end_offset": 4114,
+            "annotation_id": "LG_048"
+        },
+        {
+            "decision": "prednisone 20 mg Tablet Sig: per taper Tablet PO Daily () for 1 days: Please take 2 pills on [**3-9**] and 1 pill on [**3-10**]. Disp:*3 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 4118,
+            "end_offset": 4277,
+            "annotation_id": "LG_049"
+        },
+        {
+            "decision": "left cavernous carotid artery aneurysm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4330,
+            "end_offset": 4368,
+            "annotation_id": "LG_050"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4392,
+            "end_offset": 4425,
+            "annotation_id": "LG_051"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4427,
+            "end_offset": 4472,
+            "annotation_id": "LG_052"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4474,
+            "end_offset": 4515,
+            "annotation_id": "LG_053"
+        },
+        {
+            "decision": "Continue all other medications you were taking before surgery, unless otherwise directed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4563,
+            "end_offset": 4651,
+            "annotation_id": "LG_054"
+        },
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4673,
+            "end_offset": 4680,
+            "annotation_id": "LG_055"
+        },
+        {
+            "decision": "You make take Tylenol or prescribed pain medications for any post procedure pain or discomfort",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4659,
+            "end_offset": 4753,
+            "annotation_id": "LG_056"
+        },
+        {
+            "decision": "When you go home, you may walk and go up and down stairs",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4802,
+            "end_offset": 4858,
+            "annotation_id": "LG_057"
+        },
+        {
+            "decision": "You may shower (let the soapy water run over groin incision, rinse and pat dry)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4867,
+            "end_offset": 4945,
+            "annotation_id": "LG_058"
+        },
+        {
+            "decision": "Your incision may be left uncovered, unless you have small amounts of drainage from the wound, then place a dry dressing or band aid over the area that is draining, as needed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4954,
+            "end_offset": 5128,
+            "annotation_id": "LG_059"
+        },
+        {
+            "decision": "No heavy lifting, pushing or pulling (greater than 5 lbs) for 1 week (to allow groin puncture to heal).",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5136,
+            "end_offset": 5237,
+            "annotation_id": "LG_060"
+        },
+        {
+            "decision": "After 1 week, you may resume sexual activity",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5247,
+            "end_offset": 5291,
+            "annotation_id": "LG_061"
+        },
+        {
+            "decision": "After 1 week, gradually increase your activities and distance walked as you can tolerate.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5300,
+            "end_offset": 5388,
+            "annotation_id": "LG_062"
+        },
+        {
+            "decision": "No driving until you are no longer taking pain medications",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5397,
+            "end_offset": 5455,
+            "annotation_id": "LG_063"
+        },
+        {
+            "decision": "pain medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 5439,
+            "end_offset": 5455,
+            "annotation_id": "LG_064"
+        },
+        {
+            "decision": "What to report to office: ??????\tChanges in vision (loss of vision, blurring, double vision, half vision)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5457,
+            "end_offset": 5561,
+            "annotation_id": "LG_065"
+        },
+        {
+            "decision": "Slurring of speech or difficulty finding correct words to use",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5570,
+            "end_offset": 5631,
+            "annotation_id": "LG_066"
+        },
+        {
+            "decision": "Severe headache or worsening headache not controlled by pain medication",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5639,
+            "end_offset": 5710,
+            "annotation_id": "LG_067"
+        },
+        {
+            "decision": "pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 5695,
+            "end_offset": 5710,
+            "annotation_id": "LG_068"
+        },
+        {
+            "decision": "A sudden change in the ability to move or use your arm or leg or the ability to feel your arm or leg",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5718,
+            "end_offset": 5818,
+            "annotation_id": "LG_069"
+        },
+        {
+            "decision": "Trouble swallowing, breathing, or talking",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5826,
+            "end_offset": 5867,
+            "annotation_id": "LG_070"
+        },
+        {
+            "decision": "Numbness, coldness or pain in lower extremities",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5875,
+            "end_offset": 5922,
+            "annotation_id": "LG_071"
+        },
+        {
+            "decision": "Temperature greater than 101.5F for 24 hours",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5930,
+            "end_offset": 5974,
+            "annotation_id": "LG_072"
+        },
+        {
+            "decision": "New or increased drainage from incision or white, yellow or green drainage from incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5982,
+            "end_offset": 6071,
+            "annotation_id": "LG_073"
+        },
+        {
+            "decision": "Bleeding from groin puncture site",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6079,
+            "end_offset": 6112,
+            "annotation_id": "LG_074"
+        },
+        {
+            "decision": "*SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site) Lie down, keep leg straight and have someone apply firm pressure to area for 10 minutes. If bleeding stops, call our office. If bleeding does not stop, call 911 for transfer to closest Emergency Room!",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6114,
+            "end_offset": 6372,
+            "annotation_id": "LG_075"
+        },
+        {
+            "decision": "Please call the Headache Center at [**Telephone/Fax (1) 44**] to secure an appointment with Dr [**Last Name (STitle) 44287**] within 1 to 2 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6399,
+            "end_offset": 6544,
+            "annotation_id": "LG_076"
+        },
+        {
+            "decision": "You may follow-up in the [**Hospital 16364**] Clinic As needed. Our Office number is [**Telephone/Fax (1) 1669**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6546,
+            "end_offset": 6659,
+            "annotation_id": "LG_077"
+        }
+    ]
+}

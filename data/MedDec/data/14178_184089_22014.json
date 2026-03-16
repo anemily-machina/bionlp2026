@@ -1,0 +1,426 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14178_184089_22014",
+    "annotations": [
+        {
+            "decision": "\"I think I have a upper GI bleed\"",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 307,
+            "annotation_id": "CH_000"
+        },
+        {
+            "decision": "EGD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 348,
+            "end_offset": 351,
+            "annotation_id": "CH_001"
+        },
+        {
+            "decision": "Laparoscopic resection of gastric tumor",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 352,
+            "end_offset": 391,
+            "annotation_id": "CH_002"
+        },
+        {
+            "decision": "The patient reports intermittent use of NSAIDS - approximately 600-800mg TID of ibuprofen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1203,
+            "end_offset": 1292,
+            "annotation_id": "CH_003"
+        },
+        {
+            "decision": "flares of low back spasms/pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1300,
+            "end_offset": 1330,
+            "annotation_id": "CH_004"
+        },
+        {
+            "decision": "treated with heating pads ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1383,
+            "end_offset": 1408,
+            "annotation_id": "CH_005"
+        },
+        {
+            "decision": "ibuprofen",
+            "category": "Category 5: Drug related",
+            "start_offset": 1413,
+            "end_offset": 1422,
+            "annotation_id": "CH_006"
+        },
+        {
+            "decision": "denied any previous hx of GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1432,
+            "end_offset": 1466,
+            "annotation_id": "CH_007"
+        },
+        {
+            "decision": "reports HBV vaccination",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1519,
+            "end_offset": 1542,
+            "annotation_id": "CH_008"
+        },
+        {
+            "decision": "negative HIV and HCV tests in past",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1548,
+            "end_offset": 1582,
+            "annotation_id": "CH_009"
+        },
+        {
+            "decision": "tested negative for HIV and HCV",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1781,
+            "end_offset": 1812,
+            "annotation_id": "CH_010"
+        },
+        {
+            "decision": "denies CP, palpitations, SOB, epigastric pain, burning in epigastrium, abd pain or pelvic pain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1852,
+            "end_offset": 1946,
+            "annotation_id": "CH_011"
+        },
+        {
+            "decision": "the patient was found to be orthostatic with HR of 83 and BP of 118/70 while lying down and HR of 104 and BP of 96/70 while sitting down",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1962,
+            "end_offset": 2098,
+            "annotation_id": "CH_012"
+        },
+        {
+            "decision": "Pt was also found to be guaiac positive and NG lavage resulted in return of gross blood with some small clots which did not clear with 2L of lavage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2101,
+            "end_offset": 2248,
+            "annotation_id": "CH_013"
+        },
+        {
+            "decision": "The patient was given 2L of IVF,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2253,
+            "end_offset": 2284,
+            "annotation_id": "CH_014"
+        },
+        {
+            "decision": "IV protonix",
+            "category": "Category 5: Drug related",
+            "start_offset": 2286,
+            "end_offset": 2297,
+            "annotation_id": "CH_015"
+        },
+        {
+            "decision": "GI was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2321,
+            "end_offset": 2337,
+            "annotation_id": "CH_016"
+        },
+        {
+            "decision": "urgent EGD was planned",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2345,
+            "end_offset": 2367,
+            "annotation_id": "CH_017"
+        },
+        {
+            "decision": "Intermittent low back spasm/pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2461,
+            "end_offset": 2493,
+            "annotation_id": "CH_018"
+        },
+        {
+            "decision": "ibuprofen 600-80mg TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 2521,
+            "end_offset": 2543,
+            "annotation_id": "CH_019"
+        },
+        {
+            "decision": "well nutritioned middle age male lying in gurney in ED with NG tube in place.  The NG tube is draining frank blood with intermittent clots.  The patient is lying at 30 degrees in NAD. Speaking in complete sentences.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3234,
+            "end_offset": 3448,
+            "annotation_id": "CH_020"
+        },
+        {
+            "decision": "PERRL, EOMI, mmm, NG tube in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3457,
+            "end_offset": 3491,
+            "annotation_id": "CH_021"
+        },
+        {
+            "decision": "supple, full ROM, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3499,
+            "end_offset": 3523,
+            "annotation_id": "CH_022"
+        },
+        {
+            "decision": "RRR, S1, S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3528,
+            "end_offset": 3566,
+            "annotation_id": "CH_023"
+        },
+        {
+            "decision": "CTA bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3574,
+            "end_offset": 3589,
+            "annotation_id": "CH_024"
+        },
+        {
+            "decision": "BS+, soft, NT, ND, no hepatosplenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3595,
+            "end_offset": 3635,
+            "annotation_id": "CH_025"
+        },
+        {
+            "decision": "no clubbing, cyanosis, edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3641,
+            "end_offset": 3669,
+            "annotation_id": "CH_026"
+        },
+        {
+            "decision": "A+O x3, CN II-XII grossly intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3677,
+            "end_offset": 3709,
+            "annotation_id": "CH_027"
+        },
+        {
+            "decision": "intermittent NSAID ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4186,
+            "end_offset": 4204,
+            "annotation_id": "CH_028"
+        },
+        {
+            "decision": "low back pain who presents with episode of syncope secondary to orthostatics and low Hct and found to have upper GI bleed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4213,
+            "end_offset": 4334,
+            "annotation_id": "CH_029"
+        },
+        {
+            "decision": "Following surgery consult",
+            "category": "Category 1: Contact related",
+            "start_offset": 4403,
+            "end_offset": 4428,
+            "annotation_id": "CH_030"
+        },
+        {
+            "decision": "pt was transferred to surgery service under Dr [**Last Name (STitle) **] and admitted to SICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4430,
+            "end_offset": 4523,
+            "annotation_id": "CH_031"
+        },
+        {
+            "decision": "EGD revealed 3cm submucosal mass on anterior wall of stomach, not actively bleeding",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4567,
+            "end_offset": 4650,
+            "annotation_id": "CH_032"
+        },
+        {
+            "decision": "underwent repeat EGD on [**10-21**] to re-assess mass and tattoo area around mass for guidance during surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4655,
+            "end_offset": 4764,
+            "annotation_id": "CH_033"
+        },
+        {
+            "decision": "Serial hematocrits had been reassuringly stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4766,
+            "end_offset": 4813,
+            "annotation_id": "CH_034"
+        },
+        {
+            "decision": "transferred to floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 4829,
+            "end_offset": 4849,
+            "annotation_id": "CH_035"
+        },
+        {
+            "decision": "Pt scheduled for laparoscopic resection of tumor by Dr [**Last Name (STitle) **] for [**10-24**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4851,
+            "end_offset": 4947,
+            "annotation_id": "CH_036"
+        },
+        {
+            "decision": "pt tolerated procedure well ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4949,
+            "end_offset": 4976,
+            "annotation_id": "CH_037"
+        },
+        {
+            "decision": "transferred to PACU and then to floor in stable condition",
+            "category": "Category 1: Contact related",
+            "start_offset": 4985,
+            "end_offset": 5042,
+            "annotation_id": "CH_038"
+        },
+        {
+            "decision": "felt subjectively quite orthostatic,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5100,
+            "end_offset": 5135,
+            "annotation_id": "CH_039"
+        },
+        {
+            "decision": "and he was transfused with 2 units of PRBC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5137,
+            "end_offset": 5179,
+            "annotation_id": "CH_040"
+        },
+        {
+            "decision": "Nasogastric tube was removed on [**10-25**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5285,
+            "end_offset": 5328,
+            "annotation_id": "CH_041"
+        },
+        {
+            "decision": "On [**10-27**] a nutrition consult ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5412,
+            "end_offset": 5446,
+            "annotation_id": "CH_042"
+        },
+        {
+            "decision": "instruct pt on post-gastrectomy diet and the patient was advanced to clear liquids ad lib",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5463,
+            "end_offset": 5552,
+            "annotation_id": "CH_043"
+        },
+        {
+            "decision": "Pt was seen and examined by Dr [**Last Name (STitle) **], who felt Dr [**Known lastname **] was suitable for discharge, and he was discharged home in good condition.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5554,
+            "end_offset": 5718,
+            "annotation_id": "CH_044"
+        },
+        {
+            "decision": "Ibuprofen 600-800mg TID intermittently ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5748,
+            "end_offset": 5786,
+            "annotation_id": "CH_045"
+        },
+        {
+            "decision": "low back pain/spasms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5791,
+            "end_offset": 5811,
+            "annotation_id": "CH_046"
+        },
+        {
+            "decision": "Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5840,
+            "end_offset": 6012,
+            "annotation_id": "CH_047"
+        },
+        {
+            "decision": "Percocet 5-325 mg Tablet Sig: One (1) Tablet PO every [**4-5**] hours as needed for pain. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6016,
+            "end_offset": 6137,
+            "annotation_id": "CH_048"
+        },
+        {
+            "decision": "Gastric Stromal Tumor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6190,
+            "end_offset": 6211,
+            "annotation_id": "CH_049"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6235,
+            "end_offset": 6239,
+            "annotation_id": "CH_050"
+        },
+        {
+            "decision": "No heavy lifting or significant exertion for 2 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6266,
+            "end_offset": 6318,
+            "annotation_id": "CH_051"
+        },
+        {
+            "decision": "Remain on the liquid, post-gastrectomy diet for 2 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6320,
+            "end_offset": 6375,
+            "annotation_id": "CH_052"
+        },
+        {
+            "decision": "Do not drive while taking Percocet",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6377,
+            "end_offset": 6411,
+            "annotation_id": "CH_053"
+        },
+        {
+            "decision": "Percocet",
+            "category": "Category 5: Drug related",
+            "start_offset": 6403,
+            "end_offset": 6411,
+            "annotation_id": "CH_054"
+        },
+        {
+            "decision": "You may remove your wound dressings at any time, the STeri-strips will fall off on their own",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6413,
+            "end_offset": 6505,
+            "annotation_id": "CH_055"
+        },
+        {
+            "decision": "If you experience any concerning symptoms, please contact us immediately. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6507,
+            "end_offset": 6579,
+            "annotation_id": "CH_056"
+        },
+        {
+            "decision": "Please return to see Dr [**Last Name (STitle) **] in 2 weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 6581,
+            "end_offset": 6641,
+            "annotation_id": "CH_057"
+        },
+        {
+            "decision": "PLease see Dr [**Last Name (STitle) **] in 2 weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 6667,
+            "end_offset": 6717,
+            "annotation_id": "CH_058"
+        },
+        {
+            "decision": "Oncologic care to be managed by Dr [**Last Name (STitle) 57617**] of Infectious Disease/Oncology at [**Hospital1 18**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 6720,
+            "end_offset": 6838,
+            "annotation_id": "CH_059"
+        }
+    ]
+}

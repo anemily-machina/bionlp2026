@@ -1,0 +1,874 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "52551_183876_32335",
+    "annotations": [
+        {
+            "decision": "ERCP with sphincterotomy and stone/sludge extraction",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 283,
+            "end_offset": 335,
+            "annotation_id": "MS_000"
+        },
+        {
+            "decision": "with being transferred from the [**Location 75548**] ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 406,
+            "end_offset": 462,
+            "annotation_id": "MS_001"
+        },
+        {
+            "decision": "for ERCP.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 463,
+            "end_offset": 471,
+            "annotation_id": "MS_002"
+        },
+        {
+            "decision": "He was recently admitted to the [**Hospital6 19155**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 474,
+            "end_offset": 527,
+            "annotation_id": "MS_003"
+        },
+        {
+            "decision": "previous hernia repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 692,
+            "end_offset": 714,
+            "annotation_id": "MS_004"
+        },
+        {
+            "decision": "abdominal abscess",
+            "category": "Category 3: Defining problem",
+            "start_offset": 777,
+            "end_offset": 794,
+            "annotation_id": "MS_005"
+        },
+        {
+            "decision": "CT scan which showed interval enlargement of his ventral hernia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 835,
+            "end_offset": 898,
+            "annotation_id": "MS_006"
+        },
+        {
+            "decision": "underwent surgical repair on [**6-21**] with placement of two JP drains. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 904,
+            "end_offset": 975,
+            "annotation_id": "MS_007"
+        },
+        {
+            "decision": "US showed gallbladder sludge with enlarged common bile duct 6-8mm",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 977,
+            "end_offset": 1042,
+            "annotation_id": "MS_008"
+        },
+        {
+            "decision": "CXR was concerning for pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1044,
+            "end_offset": 1076,
+            "annotation_id": "MS_009"
+        },
+        {
+            "decision": "started on levofloxacin  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1089,
+            "end_offset": 1112,
+            "annotation_id": "MS_010"
+        },
+        {
+            "decision": "He was transferred to the [**Hospital1 18**] ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1304,
+            "end_offset": 1352,
+            "annotation_id": "MS_011"
+        },
+        {
+            "decision": "worsening liver enzymes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1357,
+            "end_offset": 1380,
+            "annotation_id": "MS_012"
+        },
+        {
+            "decision": "concern for cholangitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1398,
+            "end_offset": 1421,
+            "annotation_id": "MS_013"
+        },
+        {
+            "decision": "plan for ERCP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1426,
+            "end_offset": 1439,
+            "annotation_id": "MS_014"
+        },
+        {
+            "decision": "Ventral hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1559,
+            "end_offset": 1573,
+            "annotation_id": "MS_015"
+        },
+        {
+            "decision": "Ventral hernia repair [**2114-6-21**] [**Hospital6 19155**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1559,
+            "end_offset": 1618,
+            "annotation_id": "MS_016"
+        },
+        {
+            "decision": "incisional hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1621,
+            "end_offset": 1638,
+            "annotation_id": "MS_017"
+        },
+        {
+            "decision": "incisional hernia repair [**6-/2113**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1621,
+            "end_offset": 1659,
+            "annotation_id": "MS_018"
+        },
+        {
+            "decision": "small bowel perforation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1662,
+            "end_offset": 1685,
+            "annotation_id": "MS_019"
+        },
+        {
+            "decision": "s/p repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1686,
+            "end_offset": 1696,
+            "annotation_id": "MS_020"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1713,
+            "end_offset": 1717,
+            "annotation_id": "MS_021"
+        },
+        {
+            "decision": "Osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1720,
+            "end_offset": 1732,
+            "annotation_id": "MS_022"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1735,
+            "end_offset": 1739,
+            "annotation_id": "MS_023"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1742,
+            "end_offset": 1756,
+            "annotation_id": "MS_024"
+        },
+        {
+            "decision": "L Hip Fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1759,
+            "end_offset": 1767,
+            "annotation_id": "MS_025"
+        },
+        {
+            "decision": "Appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1770,
+            "end_offset": 1782,
+            "annotation_id": "MS_026"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2090,
+            "end_offset": 2133,
+            "annotation_id": "MS_027"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, oropharynx dry but clear, EOMI, PERRL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2134,
+            "end_offset": 2196,
+            "annotation_id": "MS_028"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2197,
+            "end_offset": 2235,
+            "annotation_id": "MS_029"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2236,
+            "end_offset": 2306,
+            "annotation_id": "MS_030"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2307,
+            "end_offset": 2374,
+            "annotation_id": "MS_031"
+        },
+        {
+            "decision": "Abdomen: large midline incisional hernia with dressings, bilateral JP drains with serosanginous fluid. Moderate tenderness throughout, worse in epigastric, left-side. Bowel sounds diminished. no organomegaly, no rebound or guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2375,
+            "end_offset": 2606,
+            "annotation_id": "MS_032"
+        },
+        {
+            "decision": "GU: no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2607,
+            "end_offset": 2619,
+            "annotation_id": "MS_033"
+        },
+        {
+            "decision": "Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2620,
+            "end_offset": 2687,
+            "annotation_id": "MS_034"
+        },
+        {
+            "decision": "Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2688,
+            "end_offset": 2814,
+            "annotation_id": "MS_035"
+        },
+        {
+            "decision": "[**2114-6-23**] 10:16PM URINE Blood-TR Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-SM  Urobiln-NEG pH-7.5 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3473,
+            "end_offset": 3599,
+            "annotation_id": "MS_036"
+        },
+        {
+            "decision": "[**6-23**] CXR: IMPRESSION: 1.  Right subclavian PICC line has its tip in the distal SVC near the cavoatrial junction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3673,
+            "end_offset": 3790,
+            "annotation_id": "MS_037"
+        },
+        {
+            "decision": "Right subclavian PICC line has its tip in the distal SVC near the cavoatrial junction",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3705,
+            "end_offset": 3790,
+            "annotation_id": "MS_038"
+        },
+        {
+            "decision": ".  Lung volumes are low with small bilateral layering effusions and patchy bibasilar opacities which most likely represent compressive atelectasis, although bilateral pneumonia or aspiration cannot be entirely excluded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3793,
+            "end_offset": 4008,
+            "annotation_id": "MS_039"
+        },
+        {
+            "decision": "No pneumothorax.  No evidence of pulmonary edema. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4011,
+            "end_offset": 4059,
+            "annotation_id": "MS_040"
+        },
+        {
+            "decision": "No pneumothorax.  No evidence of pulmonary edema. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4011,
+            "end_offset": 4059,
+            "annotation_id": "MS_041"
+        },
+        {
+            "decision": "Overall cardiac and mediastinal contours are likely within normal limits given portable technique",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4062,
+            "end_offset": 4159,
+            "annotation_id": "MS_042"
+        },
+        {
+            "decision": "Surgical clips are seen overlying the epigastric region.  Midline surgical skin staples are seen overlying the mid abdomen along with at least two abdominal surgical drains",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4162,
+            "end_offset": 4334,
+            "annotation_id": "MS_043"
+        },
+        {
+            "decision": "[**6-23**] RUQ U/S: IMPRESSION:   1.  No evidence of biliary obstruction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4336,
+            "end_offset": 4408,
+            "annotation_id": "MS_044"
+        },
+        {
+            "decision": "Prominence of the free segment of the common duct is noted, a commonly seen finding, but the common hepatic duct is nondilated and there is no intrahepatic biliary ductal dilation. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4410,
+            "end_offset": 4589,
+            "annotation_id": "MS_045"
+        },
+        {
+            "decision": "Distal common bile duct and pancreatic duct could not be evaluated due to overlying bowel gas",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4592,
+            "end_offset": 4685,
+            "annotation_id": "MS_046"
+        },
+        {
+            "decision": "No gallstones or evidence of cholecystitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4692,
+            "end_offset": 4734,
+            "annotation_id": "MS_047"
+        },
+        {
+            "decision": "ventral hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4769,
+            "end_offset": 4783,
+            "annotation_id": "MS_048"
+        },
+        {
+            "decision": "s/p ventral hernia repair [**2114-6-21**] at OSH",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4765,
+            "end_offset": 4813,
+            "annotation_id": "MS_049"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4815,
+            "end_offset": 4819,
+            "annotation_id": "MS_050"
+        },
+        {
+            "decision": "abdominal surgeries ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4839,
+            "end_offset": 4858,
+            "annotation_id": "MS_051"
+        },
+        {
+            "decision": "elevated Tbili",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4893,
+            "end_offset": 4907,
+            "annotation_id": "MS_052"
+        },
+        {
+            "decision": "CBD dilatation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4909,
+            "end_offset": 4923,
+            "annotation_id": "MS_053"
+        },
+        {
+            "decision": "transferred from OSH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4924,
+            "end_offset": 4944,
+            "annotation_id": "MS_054"
+        },
+        {
+            "decision": "for ERCP.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4945,
+            "end_offset": 4953,
+            "annotation_id": "MS_055"
+        },
+        {
+            "decision": "Biliary obstruction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4958,
+            "end_offset": 4977,
+            "annotation_id": "MS_056"
+        },
+        {
+            "decision": "underwent ERCP on [**6-25**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4979,
+            "end_offset": 5007,
+            "annotation_id": "MS_057"
+        },
+        {
+            "decision": "rising bilirubin",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5012,
+            "end_offset": 5028,
+            "annotation_id": "MS_058"
+        },
+        {
+            "decision": "Sphincterotomy done w/ stone and sludge extraction",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5030,
+            "end_offset": 5080,
+            "annotation_id": "MS_059"
+        },
+        {
+            "decision": "ciprofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5117,
+            "end_offset": 5130,
+            "annotation_id": "MS_060"
+        },
+        {
+            "decision": "Transaminases and bilirubin improved.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5251,
+            "end_offset": 5287,
+            "annotation_id": "MS_061"
+        },
+        {
+            "decision": "Elective cholecystectomy is recommended,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5290,
+            "end_offset": 5329,
+            "annotation_id": "MS_062"
+        },
+        {
+            "decision": "for which follow up with his surgeon at [**Location (un) **] was arranged.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5331,
+            "end_offset": 5404,
+            "annotation_id": "MS_063"
+        },
+        {
+            "decision": "post-op ileus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5462,
+            "end_offset": 5475,
+            "annotation_id": "MS_064"
+        },
+        {
+            "decision": "Pt was transferred from OSH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5477,
+            "end_offset": 5504,
+            "annotation_id": "MS_065"
+        },
+        {
+            "decision": " with NG tube for decompression, and this was removed at time of ERCP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5505,
+            "end_offset": 5573,
+            "annotation_id": "MS_066"
+        },
+        {
+            "decision": "Diet advanced with success, passed flatus and stool.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5575,
+            "end_offset": 5626,
+            "annotation_id": "MS_067"
+        },
+        {
+            "decision": "Ventral hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5631,
+            "end_offset": 5645,
+            "annotation_id": "MS_068"
+        },
+        {
+            "decision": "recently repaired on [**6-21**] at OSH, with two JP drains still in place. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5647,
+            "end_offset": 5720,
+            "annotation_id": "MS_069"
+        },
+        {
+            "decision": " Surgery consult service following.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5722,
+            "end_offset": 5755,
+            "annotation_id": "MS_070"
+        },
+        {
+            "decision": "oxycodone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5790,
+            "end_offset": 5799,
+            "annotation_id": "MS_071"
+        },
+        {
+            "decision": "oxycontin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5815,
+            "end_offset": 5824,
+            "annotation_id": "MS_072"
+        },
+        {
+            "decision": "This was discussed with his surgeon Dr [**First Name8 (NamePattern2) 12395**] [**Last Name (NamePattern1) 75549**] at [**Location (un) **], who agreed with plan to discharge pt home with drains in place. He will see patient in follow up next week. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5955,
+            "end_offset": 6201,
+            "annotation_id": "MS_073"
+        },
+        {
+            "decision": "Chest imaging showed bibasilar opacities. Patient did not have clinical signs/sx of pneumonia. Picture more consistent with atelectasis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6259,
+            "end_offset": 6394,
+            "annotation_id": "MS_074"
+        },
+        {
+            "decision": "Patient did not have clinical signs/sx of pneumonia. Picture more consistent with atelectasis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6301,
+            "end_offset": 6394,
+            "annotation_id": "MS_075"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6415,
+            "end_offset": 6419,
+            "annotation_id": "MS_076"
+        },
+        {
+            "decision": "Flovent",
+            "category": "Category 5: Drug related",
+            "start_offset": 6435,
+            "end_offset": 6442,
+            "annotation_id": "MS_077"
+        },
+        {
+            "decision": "Ipratropium",
+            "category": "Category 5: Drug related",
+            "start_offset": 6470,
+            "end_offset": 6481,
+            "annotation_id": "MS_078"
+        },
+        {
+            "decision": "albuterol PRN ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6483,
+            "end_offset": 6496,
+            "annotation_id": "MS_079"
+        },
+        {
+            "decision": "without sx or oxygen requirement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6497,
+            "end_offset": 6529,
+            "annotation_id": "MS_080"
+        },
+        {
+            "decision": "OSTEOPOROSIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6534,
+            "end_offset": 6546,
+            "annotation_id": "MS_081"
+        },
+        {
+            "decision": "stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6548,
+            "end_offset": 6554,
+            "annotation_id": "MS_082"
+        },
+        {
+            "decision": "Continued home Calcium carbonate 1.25g PO once daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6556,
+            "end_offset": 6608,
+            "annotation_id": "MS_083"
+        },
+        {
+            "decision": "Vit D 1000U daily. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6613,
+            "end_offset": 6630,
+            "annotation_id": "MS_084"
+        },
+        {
+            "decision": "Held Alendronate 70mg PO (once weekly)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6632,
+            "end_offset": 6669,
+            "annotation_id": "MS_085"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6674,
+            "end_offset": 6678,
+            "annotation_id": "MS_086"
+        },
+        {
+            "decision": "Continued Omeprazole 20mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 6680,
+            "end_offset": 6712,
+            "annotation_id": "MS_087"
+        },
+        {
+            "decision": "ANEMIA: normocytic anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6716,
+            "end_offset": 6741,
+            "annotation_id": "MS_088"
+        },
+        {
+            "decision": "Continued home Cyanocobalamin 1000mcg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6743,
+            "end_offset": 6789,
+            "annotation_id": "MS_089"
+        },
+        {
+            "decision": "cholecystectomy recommended",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6814,
+            "end_offset": 6841,
+            "annotation_id": "MS_090"
+        },
+        {
+            "decision": "Follow-up with Dr. [**Last Name (STitle) 75549**] as above",
+            "category": "Category 1: Contact related",
+            "start_offset": 6844,
+            "end_offset": 6902,
+            "annotation_id": "MS_091"
+        },
+        {
+            "decision": "continue cipro through [**2114-6-30**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6905,
+            "end_offset": 6943,
+            "annotation_id": "MS_092"
+        },
+        {
+            "decision": "Alendronate Sodium 70 mg PO WEEKLY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7107,
+            "end_offset": 7141,
+            "annotation_id": "MS_093"
+        },
+        {
+            "decision": "Calcium Carbonate 1250 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7145,
+            "end_offset": 7179,
+            "annotation_id": "MS_094"
+        },
+        {
+            "decision": "Cyanocobalamin 1000 mcg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7183,
+            "end_offset": 7215,
+            "annotation_id": "MS_095"
+        },
+        {
+            "decision": "Omeprazole 20 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 7219,
+            "end_offset": 7242,
+            "annotation_id": "MS_096"
+        },
+        {
+            "decision": "Pravastatin 40 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7246,
+            "end_offset": 7272,
+            "annotation_id": "MS_097"
+        },
+        {
+            "decision": "Vitamin D 1000 UNIT PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7276,
+            "end_offset": 7304,
+            "annotation_id": "MS_098"
+        },
+        {
+            "decision": "Calcium Carbonate 1250 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7333,
+            "end_offset": 7367,
+            "annotation_id": "MS_099"
+        },
+        {
+            "decision": "Cyanocobalamin 1000 mcg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7371,
+            "end_offset": 7403,
+            "annotation_id": "MS_100"
+        },
+        {
+            "decision": "Omeprazole 20 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 7407,
+            "end_offset": 7430,
+            "annotation_id": "MS_101"
+        },
+        {
+            "decision": "Vitamin D 1000 UNIT PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7434,
+            "end_offset": 7462,
+            "annotation_id": "MS_102"
+        },
+        {
+            "decision": "Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days end date [**2114-6-30**] RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp #*10 Tablet Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 7466,
+            "end_offset": 7626,
+            "annotation_id": "MS_103"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg PO BID RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp #*30 Tablet Refills:*1",
+            "category": "Category 5: Drug related",
+            "start_offset": 7630,
+            "end_offset": 7747,
+            "annotation_id": "MS_104"
+        },
+        {
+            "decision": "OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain Duration: 7 Days RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp #*28 Tablet Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 7751,
+            "end_offset": 7907,
+            "annotation_id": "MS_105"
+        },
+        {
+            "decision": "please hold for sedation",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7955,
+            "end_offset": 7979,
+            "annotation_id": "MS_106"
+        },
+        {
+            "decision": "Oxycodone SR (OxyconTIN) 10 mg PO Q12H pain please hold for sedation RX *OxyContin 10 mg 1 tablet(s) by mouth every twelve (12) hours Disp #*14 Tablet Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 7911,
+            "end_offset": 8072,
+            "annotation_id": "MS_107"
+        },
+        {
+            "decision": "Polyethylene Glycol 17 g PO DAILY RX *polyethylene glycol 3350 17 gram 1 packet by mouth once a day Disp #*7 Packet Refills:*1",
+            "category": "Category 5: Drug related",
+            "start_offset": 8076,
+            "end_offset": 8202,
+            "annotation_id": "MS_108"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8230,
+            "end_offset": 8242,
+            "annotation_id": "MS_109"
+        },
+        {
+            "decision": "Senna 1 TAB PO BID:PRN Constipation RX *senna 8.6 mg 1 tablet by mouth twice a day Disp #*14 Tablet Refills:*1",
+            "category": "Category 5: Drug related",
+            "start_offset": 8207,
+            "end_offset": 8317,
+            "annotation_id": "MS_110"
+        },
+        {
+            "decision": "Promethazine 25 mg PO Q6H:PRN nausea RX *promethazine 25 mg 1 tablet by mouth every six (6) hours Disp #*28 Tablet Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 8322,
+            "end_offset": 8447,
+            "annotation_id": "MS_111"
+        },
+        {
+            "decision": "Alendronate Sodium 70 mg PO WEEKLY",
+            "category": "Category 5: Drug related",
+            "start_offset": 8452,
+            "end_offset": 8486,
+            "annotation_id": "MS_112"
+        },
+        {
+            "decision": "Pravastatin 40 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 8491,
+            "end_offset": 8517,
+            "annotation_id": "MS_113"
+        },
+        {
+            "decision": "biliary obstruction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8649,
+            "end_offset": 8668,
+            "annotation_id": "MS_114"
+        },
+        {
+            "decision": "ventral wall hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8675,
+            "end_offset": 8694,
+            "annotation_id": "MS_115"
+        },
+        {
+            "decision": "s/p ventral wall hernia repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8671,
+            "end_offset": 8701,
+            "annotation_id": "MS_116"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8751,
+            "end_offset": 8755,
+            "annotation_id": "MS_117"
+        },
+        {
+            "decision": "osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8758,
+            "end_offset": 8770,
+            "annotation_id": "MS_118"
+        },
+        {
+            "decision": "hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8773,
+            "end_offset": 8787,
+            "annotation_id": "MS_119"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8811,
+            "end_offset": 8844,
+            "annotation_id": "MS_120"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8846,
+            "end_offset": 8891,
+            "annotation_id": "MS_121"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8893,
+            "end_offset": 8934,
+            "annotation_id": "MS_122"
+        },
+        {
+            "decision": "Name: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 75550**],MD When: Friday [**7-6**] at 1pm Location: [**Hospital3 **]SURGICAL SPECIALTIES Address: [**Street Address(2) 75551**], [**Apartment Address(1) 75552**], [**Location (un) **],[**Numeric Identifier 75553**] Phone: [**Telephone/Fax (1) 75554**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8996,
+            "end_offset": 9317,
+            "annotation_id": "MS_123"
+        }
+    ]
+}

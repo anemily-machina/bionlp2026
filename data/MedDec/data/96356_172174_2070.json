@@ -1,0 +1,797 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "96356_172174_2070",
+    "annotations": [
+        {
+            "decision": "CP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 234,
+            "end_offset": 236,
+            "annotation_id": "QY_000"
+        },
+        {
+            "decision": "Cardiac Catheterization with stent placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 276,
+            "end_offset": 320,
+            "annotation_id": "QY_001"
+        },
+        {
+            "decision": "underwent an ETT demonstrating ischemic EKG changes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 445,
+            "end_offset": 496,
+            "annotation_id": "QY_002"
+        },
+        {
+            "decision": "CT-Angiogram demonstrating heavy calcification and multi-vessel coronary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 524,
+            "end_offset": 604,
+            "annotation_id": "QY_003"
+        },
+        {
+            "decision": "diagnostic cath [**10-23**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 632,
+            "end_offset": 659,
+            "annotation_id": "QY_004"
+        },
+        {
+            "decision": "diagnostic cath [**10-23**] which showed LMCA w/ 20% distal stenosis, LAD 70% proximal stenosis and a 100% occlusion in the mid-vessel. The LCX had a 30% stenosis in the mid-vessel and a 60% stenosis distally. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 632,
+            "end_offset": 840,
+            "annotation_id": "QY_005"
+        },
+        {
+            "decision": " The RCA was a small, non-dominant vessel without flow-limiting stenoses.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 842,
+            "end_offset": 913,
+            "annotation_id": "QY_006"
+        },
+        {
+            "decision": "he was then taken back to the cath lab today",
+            "category": "Category 1: Contact related",
+            "start_offset": 942,
+            "end_offset": 986,
+            "annotation_id": "QY_007"
+        },
+        {
+            "decision": "for intervention to LAD but per report it was difficult to cross LAD & place the stents; ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 987,
+            "end_offset": 1074,
+            "annotation_id": "QY_008"
+        },
+        {
+            "decision": "he had a hypotensive episode (SBP 70s;",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1076,
+            "end_offset": 1113,
+            "annotation_id": "QY_009"
+        },
+        {
+            "decision": "dobopamine initiated)",
+            "category": "Category 5: Drug related",
+            "start_offset": 1115,
+            "end_offset": 1135,
+            "annotation_id": "QY_010"
+        },
+        {
+            "decision": " and it resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1137,
+            "end_offset": 1152,
+            "annotation_id": "QY_011"
+        },
+        {
+            "decision": "stents subsequently placed (DES placed in mid-LAD and DES to prox LAD, 4 stents total). The diag was jailed & rescued with balloon. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1155,
+            "end_offset": 1285,
+            "annotation_id": "QY_012"
+        },
+        {
+            "decision": "ST elevations during angioplasty that resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1296,
+            "end_offset": 1342,
+            "annotation_id": "QY_013"
+        },
+        {
+            "decision": "Interim angiography after this hypotensive episode showed no perforation or dissection.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1344,
+            "end_offset": 1430,
+            "annotation_id": "QY_014"
+        },
+        {
+            "decision": "was referred to CCU post procedure for closer monitoring.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1461,
+            "end_offset": 1517,
+            "annotation_id": "QY_015"
+        },
+        {
+            "decision": "On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He reports some chills/rigors and nausea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1521,
+            "end_offset": 1774,
+            "annotation_id": "QY_016"
+        },
+        {
+            "decision": "Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1778,
+            "end_offset": 1952,
+            "annotation_id": "QY_017"
+        },
+        {
+            "decision": "+ Dyslipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2016,
+            "end_offset": 2028,
+            "annotation_id": "QY_018"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2146,
+            "end_offset": 2160,
+            "annotation_id": "QY_019"
+        },
+        {
+            "decision": "PAF on Holter monitor [**7-27**]- ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2161,
+            "end_offset": 2193,
+            "annotation_id": "QY_020"
+        },
+        {
+            "decision": "not on Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2195,
+            "end_offset": 2210,
+            "annotation_id": "QY_021"
+        },
+        {
+            "decision": "Sleep apnea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2211,
+            "end_offset": 2222,
+            "annotation_id": "QY_022"
+        },
+        {
+            "decision": "CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2226,
+            "end_offset": 2230,
+            "annotation_id": "QY_023"
+        },
+        {
+            "decision": "Appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2231,
+            "end_offset": 2243,
+            "annotation_id": "QY_024"
+        },
+        {
+            "decision": "GENERAL: Middle aged male, slightly anxious, alert and Oriented x3. Mood, affect appropriate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2691,
+            "end_offset": 2783,
+            "annotation_id": "QY_025"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2785,
+            "end_offset": 2892,
+            "annotation_id": "QY_026"
+        },
+        {
+            "decision": "NECK: Supple, JVP flat CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2894,
+            "end_offset": 3011,
+            "annotation_id": "QY_027"
+        },
+        {
+            "decision": "LUNGS: Resp were unlabored, no accessory muscle use. CTAB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3013,
+            "end_offset": 3070,
+            "annotation_id": "QY_028"
+        },
+        {
+            "decision": "ABDOMEN: Soft, NTND. No HSM or tenderness.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3071,
+            "end_offset": 3112,
+            "annotation_id": "QY_029"
+        },
+        {
+            "decision": "EXTREMITIES: No c/c/e.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3114,
+            "end_offset": 3135,
+            "annotation_id": "QY_030"
+        },
+        {
+            "decision": "PULSES: Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3137,
+            "end_offset": 3225,
+            "annotation_id": "QY_031"
+        },
+        {
+            "decision": "[**10-23**] Cardiac Cath COMMENTS: 1.  Selective coronary angiography of this left-dominant system showed two-vessel coronary artery disease.  The LMCA had a 20% distal stenosis. the LAD had a 70% proximal stenosis and a 100% occlusion in the mid-vessel.  The LCX had a 30% stenosis in the mid-vessel and a 60% stenosis distally.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3246,
+            "end_offset": 3574,
+            "annotation_id": "QY_032"
+        },
+        {
+            "decision": "The RCA was a small, non-dominant vessel without flow-limiting stenoses.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3577,
+            "end_offset": 3648,
+            "annotation_id": "QY_033"
+        },
+        {
+            "decision": "2.  Limited resting hemodynamics demonstrated mild systemic arterial hypertension with a central aortic pressure of 152/77 mmHg.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3650,
+            "end_offset": 3777,
+            "annotation_id": "QY_034"
+        },
+        {
+            "decision": "1. Two vessel coronary artery disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3797,
+            "end_offset": 3834,
+            "annotation_id": "QY_035"
+        },
+        {
+            "decision": "2. Mild systemic arterial hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3836,
+            "end_offset": 3874,
+            "annotation_id": "QY_036"
+        },
+        {
+            "decision": "[**10-24**] Cardiac Cath COMMENTS: 1. Successful PTCA and placement of overlapping 2.5x8mm, 2.5x8mm, and 2.5x12mm Xience drug-eluting stents in the mid-LAD were performed. 2. Successful placement of a 3.0x15mm Xience drug-eluting stent in the proximal LAD was performed.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3877,
+            "end_offset": 4146,
+            "annotation_id": "QY_037"
+        },
+        {
+            "decision": " Final angiography showed normal flow, no apparent dissection, and no residual stenoses.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4149,
+            "end_offset": 4235,
+            "annotation_id": "QY_038"
+        },
+        {
+            "decision": "1. Placement of drug-eluting stents in the LAD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4276,
+            "end_offset": 4322,
+            "annotation_id": "QY_039"
+        },
+        {
+            "decision": "1. Placement of drug-eluting stents in the LAD.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4276,
+            "end_offset": 4322,
+            "annotation_id": "QY_040"
+        },
+        {
+            "decision": " [**10-24**] Echo The left atrium is normal in size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4325,
+            "end_offset": 4685,
+            "annotation_id": "QY_041"
+        },
+        {
+            "decision": "Trace aortic regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4687,
+            "end_offset": 4721,
+            "annotation_id": "QY_042"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4723,
+            "end_offset": 4769,
+            "annotation_id": "QY_043"
+        },
+        {
+            "decision": " Trivial mitral regurgitation is seen. There is a trivial/physiologic pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4771,
+            "end_offset": 4860,
+            "annotation_id": "QY_044"
+        },
+        {
+            "decision": "[**10-26**] CT Chest/Abdomen CT OF THE ABDOMEN WITHOUT INTRAVENOUS OR ORAL CONTRAST: Limited evaluation of the lung bases is unremarkable. Atherosclerotic calcification is noted within the RCA/PDA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4863,
+            "end_offset": 5059,
+            "annotation_id": "QY_045"
+        },
+        {
+            "decision": "Multiple slightly irregular low attenuating lesions are noted scattered throughout the liver parenchyma, partially visualized on most recent coronary CTA, the largest within the posterior right lobe measuring 51 x 67 mm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5062,
+            "end_offset": 5281,
+            "annotation_id": "QY_046"
+        },
+        {
+            "decision": "Spleen, stomach, small bowel, pancreas, and adrenal glands are unremarkable. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5283,
+            "end_offset": 5358,
+            "annotation_id": "QY_047"
+        },
+        {
+            "decision": "42-mm right lower pole renal cyst is noted. Additionally, there may be a small nonobstructive b/l renal 1-2 mm renal calculi. Atherosclerotic disease is mild within the intra-abdominal aorta without evidence of aneurysmal dilatation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5362,
+            "end_offset": 5594,
+            "annotation_id": "QY_048"
+        },
+        {
+            "decision": "No pathologically enlarged lymph nodes, free air, or free fluid is noted.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5596,
+            "end_offset": 5668,
+            "annotation_id": "QY_049"
+        },
+        {
+            "decision": " CT OF THE PELVIS WITHOUT INTRAVENOUS OR ORAL CONTRAST: Residual oral contrast is noted within the large bowel which displays mild sigmoid colonic diverticulosis but no evidence of acute diverticulitis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5671,
+            "end_offset": 5871,
+            "annotation_id": "QY_050"
+        },
+        {
+            "decision": " The prostate is noted to be mildly hypertrophied measuring almost 5 cm. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5873,
+            "end_offset": 5943,
+            "annotation_id": "QY_051"
+        },
+        {
+            "decision": "Urinary bladder is unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5945,
+            "end_offset": 5976,
+            "annotation_id": "QY_052"
+        },
+        {
+            "decision": "Moderate amount of induration and stranding is noted surrounding the presumed left-sided common femoral catheterization site, however, no frank retroperitoneal hematoma is appreciated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5979,
+            "end_offset": 6162,
+            "annotation_id": "QY_053"
+        },
+        {
+            "decision": "BONE WINDOWS: No malignant-appearing osseous lesions are identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6165,
+            "end_offset": 6232,
+            "annotation_id": "QY_054"
+        },
+        {
+            "decision": " Multiple vertebral body hemangiomas are noted, present within L3 and T11.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6234,
+            "end_offset": 6306,
+            "annotation_id": "QY_055"
+        },
+        {
+            "decision": "Mild degenerative changes are also present. Non-aggressive sclerotic lesion is noted within the sacrum. most suggestive of a benign bone island. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6308,
+            "end_offset": 6451,
+            "annotation_id": "QY_056"
+        },
+        {
+            "decision": "Moderate amount of stranding is noted localized to the presumed left-sided catheterization site related to post-inflammatory stranding and disseminated hematoma, however, no discrete retroperitoneal hematoma is appreciated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6469,
+            "end_offset": 6691,
+            "annotation_id": "QY_057"
+        },
+        {
+            "decision": "Multiple slightly irregular low attenuating hepatic lesions, likely benign hepatic cysts.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6697,
+            "end_offset": 6785,
+            "annotation_id": "QY_058"
+        },
+        {
+            "decision": "Right renal simple cyst. Small punctate 1-2 mm nonobstructive Bilateral renal calculi.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6791,
+            "end_offset": 6876,
+            "annotation_id": "QY_059"
+        },
+        {
+            "decision": "Sigmoid diverticulosis without evidence of acute diverticulitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6882,
+            "end_offset": 6945,
+            "annotation_id": "QY_060"
+        },
+        {
+            "decision": "h/o hyperlipidemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7001,
+            "end_offset": 7019,
+            "annotation_id": "QY_061"
+        },
+        {
+            "decision": "abnormal Cardiac CT ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7075,
+            "end_offset": 7094,
+            "annotation_id": "QY_062"
+        },
+        {
+            "decision": "diagnostic/interventional cath given abnormal Cardiac CT and found to have LAD and LCX dz ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7038,
+            "end_offset": 7127,
+            "annotation_id": "QY_063"
+        },
+        {
+            "decision": "now s/p DES to LAD.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7128,
+            "end_offset": 7146,
+            "annotation_id": "QY_064"
+        },
+        {
+            "decision": "underwent cath which showed occluded mid-LAD and 70% prox LAD stenosis, LCX with mild dz, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7167,
+            "end_offset": 7255,
+            "annotation_id": "QY_065"
+        },
+        {
+            "decision": "now s/p PCI to LAD--> DES placed in mid LAD and 1 DES in prox LAD; balloon angioplasty at ostium of diag. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7257,
+            "end_offset": 7361,
+            "annotation_id": "QY_066"
+        },
+        {
+            "decision": "had an episode of hypotension while in the Cath lab ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7371,
+            "end_offset": 7422,
+            "annotation_id": "QY_067"
+        },
+        {
+            "decision": "transferred to the CCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 7431,
+            "end_offset": 7453,
+            "annotation_id": "QY_068"
+        },
+        {
+            "decision": "Dobutamine gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 7457,
+            "end_offset": 7471,
+            "annotation_id": "QY_069"
+        },
+        {
+            "decision": "Patient's hypotension resolved on hospital day two",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7474,
+            "end_offset": 7524,
+            "annotation_id": "QY_070"
+        },
+        {
+            "decision": "was off pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 7529,
+            "end_offset": 7545,
+            "annotation_id": "QY_071"
+        },
+        {
+            "decision": "hypotension was of unclear etiology but was suspected to be due to a large dye load vs a vagal episode.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7553,
+            "end_offset": 7655,
+            "annotation_id": "QY_072"
+        },
+        {
+            "decision": "small groin hematoma post cath ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7684,
+            "end_offset": 7714,
+            "annotation_id": "QY_073"
+        },
+        {
+            "decision": "and was also noted to have a drop in his platelets.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7715,
+            "end_offset": 7765,
+            "annotation_id": "QY_074"
+        },
+        {
+            "decision": "integrillin for 16 hours was subsequently turned off",
+            "category": "Category 5: Drug related",
+            "start_offset": 7853,
+            "end_offset": 7905,
+            "annotation_id": "QY_075"
+        },
+        {
+            "decision": "subsequently transfused 1u of platelets",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7882,
+            "end_offset": 7959,
+            "annotation_id": "QY_076"
+        },
+        {
+            "decision": "Platelets trended upwards throughout hospital stay and was 57K.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7962,
+            "end_offset": 8024,
+            "annotation_id": "QY_077"
+        },
+        {
+            "decision": "-Follow up with cardiology",
+            "category": "Category 1: Contact related",
+            "start_offset": 8026,
+            "end_offset": 8052,
+            "annotation_id": "QY_078"
+        },
+        {
+            "decision": "-Continue ASA, Plavix, Lipitor",
+            "category": "Category 5: Drug related",
+            "start_offset": 8053,
+            "end_offset": 8083,
+            "annotation_id": "QY_079"
+        },
+        {
+            "decision": "Normal echo post-cath; normal EF 55%, euvolemic on exam",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8095,
+            "end_offset": 8150,
+            "annotation_id": "QY_080"
+        },
+        {
+            "decision": "OSA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8154,
+            "end_offset": 8157,
+            "annotation_id": "QY_081"
+        },
+        {
+            "decision": "Continue home CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8159,
+            "end_offset": 8177,
+            "annotation_id": "QY_082"
+        },
+        {
+            "decision": "Lipitor 10mg daily at night",
+            "category": "Category 5: Drug related",
+            "start_offset": 8207,
+            "end_offset": 8234,
+            "annotation_id": "QY_083"
+        },
+        {
+            "decision": "Plavix 75mg daily at night-(started a few weeks ago after CT scan)",
+            "category": "Category 5: Drug related",
+            "start_offset": 8235,
+            "end_offset": 8300,
+            "annotation_id": "QY_084"
+        },
+        {
+            "decision": "Aspirin 81mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8302,
+            "end_offset": 8314,
+            "annotation_id": "QY_085"
+        },
+        {
+            "decision": "1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8339,
+            "end_offset": 8403,
+            "annotation_id": "QY_086"
+        },
+        {
+            "decision": "2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8406,
+            "end_offset": 8469,
+            "annotation_id": "QY_087"
+        },
+        {
+            "decision": "3. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8472,
+            "end_offset": 8638,
+            "annotation_id": "QY_088"
+        },
+        {
+            "decision": "Please check Hematocrit and Platelets on [**2114-10-29**] and [**2114-11-2**].",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8662,
+            "end_offset": 8739,
+            "annotation_id": "QY_089"
+        },
+        {
+            "decision": "Please check Hematocrit and Platelets on [**2114-10-29**] and [**2114-11-2**]. Send results to PCP [**First Name4 (NamePattern1) 11249**] [**Last Name (NamePattern1) 11250**] [**Street Address(2) 11251**] [**Location (un) 11252**], [**Numeric Identifier 11253**] phone: [**Telephone/Fax (1) 11254**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8662,
+            "end_offset": 8961,
+            "annotation_id": "QY_090"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9014,
+            "end_offset": 9017,
+            "annotation_id": "QY_091"
+        },
+        {
+            "decision": "dyslipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9018,
+            "end_offset": 9030,
+            "annotation_id": "QY_092"
+        },
+        {
+            "decision": "Discharge Condition: Ambulatory without CP or SOB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9033,
+            "end_offset": 9082,
+            "annotation_id": "QY_093"
+        },
+        {
+            "decision": "cardiac catherization with stent placement in one of your coronary arteries called the Left Ascending Coronary.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9159,
+            "end_offset": 9269,
+            "annotation_id": "QY_094"
+        },
+        {
+            "decision": "In the cath lab your blood pressure dropped ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9272,
+            "end_offset": 9315,
+            "annotation_id": "QY_095"
+        },
+        {
+            "decision": "required medication to elevated it, which you were quickly weaned off",
+            "category": "Category 5: Drug related",
+            "start_offset": 9324,
+            "end_offset": 9393,
+            "annotation_id": "QY_096"
+        },
+        {
+            "decision": "You blood pressures remained stable throughout the rest of your stay.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9395,
+            "end_offset": 9462,
+            "annotation_id": "QY_097"
+        },
+        {
+            "decision": "dropped levels of platelets,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9515,
+            "end_offset": 9542,
+            "annotation_id": "QY_098"
+        },
+        {
+            "decision": "dropped levels of platelets, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9515,
+            "end_offset": 9542,
+            "annotation_id": "QY_099"
+        },
+        {
+            "decision": "likely in reaction to a medication that is used post-cath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9554,
+            "end_offset": 9611,
+            "annotation_id": "QY_100"
+        },
+        {
+            "decision": "The medication was then stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 9613,
+            "end_offset": 9644,
+            "annotation_id": "QY_101"
+        },
+        {
+            "decision": "transfused some platelets ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9655,
+            "end_offset": 9680,
+            "annotation_id": "QY_102"
+        },
+        {
+            "decision": "and and platelet count monitored closely to ensure improvement",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9681,
+            "end_offset": 9743,
+            "annotation_id": "QY_103"
+        },
+        {
+            "decision": "platelet count had risen to 57.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9771,
+            "end_offset": 9801,
+            "annotation_id": "QY_104"
+        },
+        {
+            "decision": "your hematocrit or red blood count had dropped",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9827,
+            "end_offset": 9873,
+            "annotation_id": "QY_105"
+        },
+        {
+            "decision": "your hematocrit trended up toward normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10037,
+            "end_offset": 10077,
+            "annotation_id": "QY_106"
+        },
+        {
+            "decision": "1) Change dose of aspirin to 325mg daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10124,
+            "end_offset": 10164,
+            "annotation_id": "QY_107"
+        },
+        {
+            "decision": "It is incredibly important that you regularly take your medications and do not stop without talking to your cardiologist.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10167,
+            "end_offset": 10287,
+            "annotation_id": "QY_108"
+        },
+        {
+            "decision": "It is incredibly important that you regularly take your medications and do not stop without talking to your cardiologist.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10167,
+            "end_offset": 10287,
+            "annotation_id": "QY_109"
+        },
+        {
+            "decision": "Please contact Dr [**Name (NI) 11250**] or return to the hospital if you have symptoms of chest pain, shortness of breath or concerns about healing at the groin site. You can expect the bruising at your groin to change color and track down the leg - this is normal.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10290,
+            "end_offset": 10554,
+            "annotation_id": "QY_110"
+        },
+        {
+            "decision": "Please follow up with your PCP [**Last Name (NamePattern4) **] [**12-20**] weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10881,
+            "end_offset": 10961,
+            "annotation_id": "QY_111"
+        },
+        {
+            "decision": "Also have your blood checked for platelet count and hematocrit on Monday and Friday of the upcoming week by Dr [**Last Name (STitle) 11250**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10964,
+            "end_offset": 11105,
+            "annotation_id": "QY_112"
+        }
+    ]
+}

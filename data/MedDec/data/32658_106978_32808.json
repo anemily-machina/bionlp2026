@@ -1,0 +1,1749 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "32658_106978_32808",
+    "annotations": [
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 225,
+            "end_offset": 232,
+            "annotation_id": "KY_000"
+        },
+        {
+            "decision": "Tylenol overdose",
+            "category": "Category 3: Defining problem",
+            "start_offset": 225,
+            "end_offset": 241,
+            "annotation_id": "KY_001"
+        },
+        {
+            "decision": "encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 242,
+            "end_offset": 256,
+            "annotation_id": "KY_002"
+        },
+        {
+            "decision": "HCV cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 354,
+            "end_offset": 367,
+            "annotation_id": "KY_003"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] from ICU at [**Hospital3 2737**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 377,
+            "end_offset": 443,
+            "annotation_id": "KY_004"
+        },
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 448,
+            "end_offset": 469,
+            "annotation_id": "KY_005"
+        },
+        {
+            "decision": "have a tylenol level of 51 at [**Hospital3 2737**], no tylenol level checked at [**Last Name (LF) **], [**First Name3 (LF) **] OSH records",
+            "category": "Category 5: Drug related",
+            "start_offset": 480,
+            "end_offset": 618,
+            "annotation_id": "KY_006"
+        },
+        {
+            "decision": "received IV mucomyst there 150mg/kg over 50min , then 50mg per/kg over 4 hours, then 100mg/kg over 16 hours.",
+            "category": "Category 5: Drug related",
+            "start_offset": 623,
+            "end_offset": 730,
+            "annotation_id": "KY_007"
+        },
+        {
+            "decision": "brought to [**Hospital3 2737**], ",
+            "category": "Category 1: Contact related",
+            "start_offset": 752,
+            "end_offset": 783,
+            "annotation_id": "KY_008"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] late on [**3-1**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 989,
+            "end_offset": 1040,
+            "annotation_id": "KY_009"
+        },
+        {
+            "decision": "tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1060,
+            "end_offset": 1067,
+            "annotation_id": "KY_010"
+        },
+        {
+            "decision": "tylenol toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1060,
+            "end_offset": 1076,
+            "annotation_id": "KY_011"
+        },
+        {
+            "decision": "impending liver failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1090,
+            "end_offset": 1113,
+            "annotation_id": "KY_012"
+        },
+        {
+            "decision": "possible SBP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1115,
+            "end_offset": 1127,
+            "annotation_id": "KY_013"
+        },
+        {
+            "decision": "MS changes (encephalopathy vs. frank psychosis). ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1181,
+            "end_offset": 1227,
+            "annotation_id": "KY_014"
+        },
+        {
+            "decision": " pt is no longer active on transplant list, because of both suicidal and homicidal ideation",
+            "category": "Category 8: Deferment",
+            "start_offset": 1238,
+            "end_offset": 1328,
+            "annotation_id": "KY_015"
+        },
+        {
+            "decision": "ideation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1320,
+            "end_offset": 1328,
+            "annotation_id": "KY_016"
+        },
+        {
+            "decision": "ceftriaxone 1mg x one dose",
+            "category": "Category 5: Drug related",
+            "start_offset": 1381,
+            "end_offset": 1407,
+            "annotation_id": "KY_017"
+        },
+        {
+            "decision": "8400mg of mucomyst",
+            "category": "Category 5: Drug related",
+            "start_offset": 1409,
+            "end_offset": 1427,
+            "annotation_id": "KY_018"
+        },
+        {
+            "decision": "Team felt that he was unlikely to have SBP, and was not treated as such",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1429,
+            "end_offset": 1500,
+            "annotation_id": "KY_019"
+        },
+        {
+            "decision": "No paracentesis",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1502,
+            "end_offset": 1517,
+            "annotation_id": "KY_020"
+        },
+        {
+            "decision": "continued on Nadolol, rifaximin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1526,
+            "end_offset": 1557,
+            "annotation_id": "KY_021"
+        },
+        {
+            "decision": "lactulose,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1559,
+            "end_offset": 1568,
+            "annotation_id": "KY_022"
+        },
+        {
+            "decision": " prn haldol and risperidol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1570,
+            "end_offset": 1595,
+            "annotation_id": "KY_023"
+        },
+        {
+            "decision": "Patient extremely agitated at times, still endorsing suicidal and homicidal ideation \"against his wife\". Other times calm, but w/ loose associations, admits to olfactory hallucinations, and reported to at times respond to internal stimuli.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1597,
+            "end_offset": 1836,
+            "annotation_id": "KY_024"
+        },
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1909,
+            "end_offset": 1916,
+            "annotation_id": "KY_025"
+        },
+        {
+            "decision": "Tylenol overdose",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1909,
+            "end_offset": 1925,
+            "annotation_id": "KY_026"
+        },
+        {
+            "decision": "encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1926,
+            "end_offset": 1940,
+            "annotation_id": "KY_027"
+        },
+        {
+            "decision": "HCV cirrhosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1970,
+            "end_offset": 1983,
+            "annotation_id": "KY_028"
+        },
+        {
+            "decision": "altered mental status ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1995,
+            "end_offset": 2016,
+            "annotation_id": "KY_029"
+        },
+        {
+            "decision": "tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2021,
+            "end_offset": 2028,
+            "annotation_id": "KY_030"
+        },
+        {
+            "decision": "tylenol overdose",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2021,
+            "end_offset": 2037,
+            "annotation_id": "KY_031"
+        },
+        {
+            "decision": "cirrohosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2061,
+            "end_offset": 2071,
+            "annotation_id": "KY_032"
+        },
+        {
+            "decision": "has been considered for transplant in the past, but is not currently listed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2076,
+            "end_offset": 2151,
+            "annotation_id": "KY_033"
+        },
+        {
+            "decision": "has been considered for transplant in the past, but is not currently listed due to a psychiatric hospitalization. ",
+            "category": "Category 8: Deferment",
+            "start_offset": 2076,
+            "end_offset": 2188,
+            "annotation_id": "KY_034"
+        },
+        {
+            "decision": "psychiatric hospitalization. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2161,
+            "end_offset": 2188,
+            "annotation_id": "KY_035"
+        },
+        {
+            "decision": "seen recently in the liver clinic",
+            "category": "Category 1: Contact related",
+            "start_offset": 2202,
+            "end_offset": 2235,
+            "annotation_id": "KY_036"
+        },
+        {
+            "decision": "fluid accumulation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2240,
+            "end_offset": 2258,
+            "annotation_id": "KY_037"
+        },
+        {
+            "decision": "his diuretics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2267,
+            "end_offset": 2280,
+            "annotation_id": "KY_038"
+        },
+        {
+            "decision": "and diet adjusted",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2281,
+            "end_offset": 2298,
+            "annotation_id": "KY_039"
+        },
+        {
+            "decision": "Tylenol level of 51",
+            "category": "Category 5: Drug related",
+            "start_offset": 2742,
+            "end_offset": 2761,
+            "annotation_id": "KY_040"
+        },
+        {
+            "decision": "taking acetaminophen nightly ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2776,
+            "end_offset": 2804,
+            "annotation_id": "KY_041"
+        },
+        {
+            "decision": "insomnia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2809,
+            "end_offset": 2817,
+            "annotation_id": "KY_042"
+        },
+        {
+            "decision": "Tylenol PM ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2915,
+            "end_offset": 2925,
+            "annotation_id": "KY_043"
+        },
+        {
+            "decision": "treated with activated charcoal and mucomyst (started 62.5 cc/hr started at 9 am on [**2143-3-1**], stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 2953,
+            "end_offset": 3060,
+            "annotation_id": "KY_044"
+        },
+        {
+            "decision": "Tylenol level improved. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3099,
+            "end_offset": 3121,
+            "annotation_id": "KY_045"
+        },
+        {
+            "decision": "it was not suspected that the patient was in fulminant failure. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3201,
+            "end_offset": 3263,
+            "annotation_id": "KY_046"
+        },
+        {
+            "decision": "persistent ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3279,
+            "end_offset": 3297,
+            "annotation_id": "KY_047"
+        },
+        {
+            "decision": "compliance with his diuretics is unclear.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3306,
+            "end_offset": 3346,
+            "annotation_id": "KY_048"
+        },
+        {
+            "decision": "scheduled for ultrasound guided paracentensis,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3370,
+            "end_offset": 3415,
+            "annotation_id": "KY_049"
+        },
+        {
+            "decision": "started on ceftriaxone empirically",
+            "category": "Category 5: Drug related",
+            "start_offset": 3425,
+            "end_offset": 3459,
+            "annotation_id": "KY_050"
+        },
+        {
+            "decision": "Psychiatry saw the patient ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3461,
+            "end_offset": 3487,
+            "annotation_id": "KY_051"
+        },
+        {
+            "decision": "depressed ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3504,
+            "end_offset": 3513,
+            "annotation_id": "KY_052"
+        },
+        {
+            "decision": "started him on Celexa ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3518,
+            "end_offset": 3539,
+            "annotation_id": "KY_053"
+        },
+        {
+            "decision": "recommended decreasing his Risperdal",
+            "category": "Category 5: Drug related",
+            "start_offset": 3544,
+            "end_offset": 3580,
+            "annotation_id": "KY_054"
+        },
+        {
+            "decision": "transferred for further care at [**Hospital1 18**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 3589,
+            "end_offset": 3639,
+            "annotation_id": "KY_055"
+        },
+        {
+            "decision": "Cirrhosis: from HCV infection. Complicated by variceal bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3688,
+            "end_offset": 3748,
+            "annotation_id": "KY_056"
+        },
+        {
+            "decision": "w/p EGD and banding last in [**11-24**], ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3762,
+            "end_offset": 3801,
+            "annotation_id": "KY_057"
+        },
+        {
+            "decision": "ascites ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3803,
+            "end_offset": 3810,
+            "annotation_id": "KY_058"
+        },
+        {
+            "decision": "diuretics",
+            "category": "Category 5: Drug related",
+            "start_offset": 3814,
+            "end_offset": 3823,
+            "annotation_id": "KY_059"
+        },
+        {
+            "decision": "hyponatremia, and hepatic encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3825,
+            "end_offset": 3865,
+            "annotation_id": "KY_060"
+        },
+        {
+            "decision": "psychiatric hospitalization",
+            "category": "Category 1: Contact related",
+            "start_offset": 3941,
+            "end_offset": 3968,
+            "annotation_id": "KY_061"
+        },
+        {
+            "decision": "been listed for transplant at [**Hospital1 2025**], but removed after psychiatric hospitalization for SI/HI",
+            "category": "Category 8: Deferment",
+            "start_offset": 3871,
+            "end_offset": 3978,
+            "annotation_id": "KY_062"
+        },
+        {
+            "decision": "SI/HI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3973,
+            "end_offset": 3978,
+            "annotation_id": "KY_063"
+        },
+        {
+            "decision": "Last seen in liver clinic by Dr. [**Last Name (STitle) 497**] [**2143-2-23**]. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3981,
+            "end_offset": 4058,
+            "annotation_id": "KY_064"
+        },
+        {
+            "decision": "colonoscopy in [**11-24**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4065,
+            "end_offset": 4091,
+            "annotation_id": "KY_065"
+        },
+        {
+            "decision": "baseline coagulopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4102,
+            "end_offset": 4123,
+            "annotation_id": "KY_066"
+        },
+        {
+            "decision": "-Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4154,
+            "end_offset": 4167,
+            "annotation_id": "KY_067"
+        },
+        {
+            "decision": "-Pancytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4168,
+            "end_offset": 4181,
+            "annotation_id": "KY_068"
+        },
+        {
+            "decision": "-Depression, Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4182,
+            "end_offset": 4202,
+            "annotation_id": "KY_069"
+        },
+        {
+            "decision": "-GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4203,
+            "end_offset": 4208,
+            "annotation_id": "KY_070"
+        },
+        {
+            "decision": "General: tangential, responsive to name, intermittently answers questions, responds to internal stimuli,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4517,
+            "end_offset": 4620,
+            "annotation_id": "KY_071"
+        },
+        {
+            "decision": "HEENT: no icterus, EOMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4622,
+            "end_offset": 4645,
+            "annotation_id": "KY_072"
+        },
+        {
+            "decision": "Car: RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4646,
+            "end_offset": 4654,
+            "annotation_id": "KY_073"
+        },
+        {
+            "decision": "Resp: CTAB-ant/lat, would not cooperate with further exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4655,
+            "end_offset": 4712,
+            "annotation_id": "KY_074"
+        },
+        {
+            "decision": "Abd: + BS, distended, soft,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4713,
+            "end_offset": 4739,
+            "annotation_id": "KY_075"
+        },
+        {
+            "decision": "Ext: no LE edema 2+ DP, No asterixis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4741,
+            "end_offset": 4777,
+            "annotation_id": "KY_076"
+        },
+        {
+            "decision": "NEURO: CN 2-12 intact, normal strength, nl sensory exam, equal reflexes through out.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4778,
+            "end_offset": 4861,
+            "annotation_id": "KY_077"
+        },
+        {
+            "decision": "Skin: jaundice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4863,
+            "end_offset": 4877,
+            "annotation_id": "KY_078"
+        },
+        {
+            "decision": "Acetmnp",
+            "category": "Category 5: Drug related",
+            "start_offset": 5545,
+            "end_offset": 5552,
+            "annotation_id": "KY_079"
+        },
+        {
+            "decision": "[**2143-3-2**] 03:26AM BLOOD Acetmnp-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5516,
+            "end_offset": 5556,
+            "annotation_id": "KY_080"
+        },
+        {
+            "decision": "ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 5586,
+            "end_offset": 5589,
+            "annotation_id": "KY_081"
+        },
+        {
+            "decision": "Acetmnp",
+            "category": "Category 5: Drug related",
+            "start_offset": 5606,
+            "end_offset": 5613,
+            "annotation_id": "KY_082"
+        },
+        {
+            "decision": "Bnzodzp",
+            "category": "Category 5: Drug related",
+            "start_offset": 5618,
+            "end_offset": 5625,
+            "annotation_id": "KY_083"
+        },
+        {
+            "decision": "Barbitr",
+            "category": "Category 5: Drug related",
+            "start_offset": 5630,
+            "end_offset": 5637,
+            "annotation_id": "KY_084"
+        },
+        {
+            "decision": "Tricycl",
+            "category": "Category 5: Drug related",
+            "start_offset": 5642,
+            "end_offset": 5649,
+            "annotation_id": "KY_085"
+        },
+        {
+            "decision": "[**2143-3-3**] 04:37AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5557,
+            "end_offset": 5653,
+            "annotation_id": "KY_086"
+        },
+        {
+            "decision": "ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 6318,
+            "end_offset": 6321,
+            "annotation_id": "KY_087"
+        },
+        {
+            "decision": "Acetmnp",
+            "category": "Category 5: Drug related",
+            "start_offset": 6338,
+            "end_offset": 6345,
+            "annotation_id": "KY_088"
+        },
+        {
+            "decision": "Bnzodzp",
+            "category": "Category 5: Drug related",
+            "start_offset": 6350,
+            "end_offset": 6357,
+            "annotation_id": "KY_089"
+        },
+        {
+            "decision": "Barbitr",
+            "category": "Category 5: Drug related",
+            "start_offset": 6362,
+            "end_offset": 6369,
+            "annotation_id": "KY_090"
+        },
+        {
+            "decision": "Tricycl",
+            "category": "Category 5: Drug related",
+            "start_offset": 6374,
+            "end_offset": 6381,
+            "annotation_id": "KY_091"
+        },
+        {
+            "decision": "[**2143-3-3**] 04:37AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6289,
+            "end_offset": 6385,
+            "annotation_id": "KY_092"
+        },
+        {
+            "decision": "EEG [**3-7**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6386,
+            "end_offset": 6399,
+            "annotation_id": "KY_093"
+        },
+        {
+            "decision": "PSYCHOSIS AND DELIRIUM. ? SEIZURES.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6408,
+            "end_offset": 6442,
+            "annotation_id": "KY_094"
+        },
+        {
+            "decision": "BACKGROUND: Included a well-formed 9 Hz alpha frequency in posterior areas bilaterally during wakefulness.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6569,
+            "end_offset": 6674,
+            "annotation_id": "KY_095"
+        },
+        {
+            "decision": "HYPERVENTILATION: Produced no activation of the record.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6676,
+            "end_offset": 6730,
+            "annotation_id": "KY_096"
+        },
+        {
+            "decision": "INTERMITTENT PHOTIC STIMULATION: Produced no activation of the record.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6732,
+            "end_offset": 6801,
+            "annotation_id": "KY_097"
+        },
+        {
+            "decision": "SLEEP: The patient appeared to remain awake throughout the recording.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6803,
+            "end_offset": 6871,
+            "annotation_id": "KY_098"
+        },
+        {
+            "decision": "CARDIAC MONITOR: Showed a generally regular rhythm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6873,
+            "end_offset": 6923,
+            "annotation_id": "KY_099"
+        },
+        {
+            "decision": "IMPRESSION: Normal EEG in the waking state",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6925,
+            "end_offset": 6967,
+            "annotation_id": "KY_100"
+        },
+        {
+            "decision": ". There were no focal abnormalities or epileptiform features.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6969,
+            "end_offset": 7027,
+            "annotation_id": "KY_101"
+        },
+        {
+            "decision": "CT HEAD W/O CONTRAST  [**2143-3-3**] 3:26 PM . NON-CONTRAST CT HEAD: There is no evidence of infarction, hemorrhage, shift of normally midline structures, or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7029,
+            "end_offset": 7192,
+            "annotation_id": "KY_102"
+        },
+        {
+            "decision": ". The imaged paranasal sinuses and mastoid air cells are unremarkable. The osseous structures are unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7194,
+            "end_offset": 7302,
+            "annotation_id": "KY_103"
+        },
+        {
+            "decision": "IMPRESSION: Normal study.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7306,
+            "end_offset": 7330,
+            "annotation_id": "KY_104"
+        },
+        {
+            "decision": "ECHO [**2-28**] The left atrium is mildly dilated. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7332,
+            "end_offset": 7381,
+            "annotation_id": "KY_105"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%) Right ventricular chamber size and free wall motion are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7383,
+            "end_offset": 7551,
+            "annotation_id": "KY_106"
+        },
+        {
+            "decision": "The ascending aorta is mildly dilated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7553,
+            "end_offset": 7590,
+            "annotation_id": "KY_107"
+        },
+        {
+            "decision": "no aortic regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7681,
+            "end_offset": 7704,
+            "annotation_id": "KY_108"
+        },
+        {
+            "decision": " The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7592,
+            "end_offset": 7750,
+            "annotation_id": "KY_109"
+        },
+        {
+            "decision": "with trivial mitral regurgitation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7751,
+            "end_offset": 7784,
+            "annotation_id": "KY_110"
+        },
+        {
+            "decision": "There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7786,
+            "end_offset": 7878,
+            "annotation_id": "KY_111"
+        },
+        {
+            "decision": "CTA ABD W&W/O C & RECONS  [**2143-2-28**] 12:37 PM . There are stigmata of chronic liver disease with nodular, atrophied liver and moderate amount of perihepatic and perisplenic ascites. Spleen is enlarged. There are varices seen within the splenic hilum, perigastric and paraesophageal region.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7906,
+            "end_offset": 8199,
+            "annotation_id": "KY_112"
+        },
+        {
+            "decision": "Recanalized paraumbilical vein is noted. There is a single hepatic hypodensity, which is too small to characterize, but likely a benign cyst, without change on delayed phase imaging.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8201,
+            "end_offset": 8382,
+            "annotation_id": "KY_113"
+        },
+        {
+            "decision": "Decompressed gallbladder is noted. There is no biliary dilatation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8384,
+            "end_offset": 8449,
+            "annotation_id": "KY_114"
+        },
+        {
+            "decision": "Moderate amount of mesenteric edema is evident, likely on the basis of increased portal pressures. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8451,
+            "end_offset": 8548,
+            "annotation_id": "KY_115"
+        },
+        {
+            "decision": "Portal vein remains patent. Hence, the hepatic arterial anatomy is conventional and patent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8550,
+            "end_offset": 8640,
+            "annotation_id": "KY_116"
+        },
+        {
+            "decision": "No dilated loops of bowel.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8644,
+            "end_offset": 8669,
+            "annotation_id": "KY_117"
+        },
+        {
+            "decision": "PELVIS: There is a fat-containing umbilical hernia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8673,
+            "end_offset": 8723,
+            "annotation_id": "KY_118"
+        },
+        {
+            "decision": "Kidneys enhance and excrete contrast symmetrically. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8727,
+            "end_offset": 8777,
+            "annotation_id": "KY_119"
+        },
+        {
+            "decision": "There is a left renal cyst. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8779,
+            "end_offset": 8805,
+            "annotation_id": "KY_120"
+        },
+        {
+            "decision": "The bowel loops are decompressed. Nondistended bladder is seen in the deep pelvis. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8807,
+            "end_offset": 8888,
+            "annotation_id": "KY_121"
+        },
+        {
+            "decision": "There is a small amount of pelvic ascites. Atherosclerotic calcifications. No focal osseous lesions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8890,
+            "end_offset": 8989,
+            "annotation_id": "KY_122"
+        },
+        {
+            "decision": "Stigmata of chronic liver disease including cirrhotic shrunken liver, ascites, recanalized umbilical vein, splenomegaly and varices. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9003,
+            "end_offset": 9134,
+            "annotation_id": "KY_123"
+        },
+        {
+            "decision": "Conventional hepatic arterial anatomy.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9136,
+            "end_offset": 9173,
+            "annotation_id": "KY_124"
+        },
+        {
+            "decision": "Patent portal vein. No suspicious focal hepatic lesions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9175,
+            "end_offset": 9230,
+            "annotation_id": "KY_125"
+        },
+        {
+            "decision": "HCV cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9284,
+            "end_offset": 9297,
+            "annotation_id": "KY_126"
+        },
+        {
+            "decision": "ESLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9299,
+            "end_offset": 9303,
+            "annotation_id": "KY_127"
+        },
+        {
+            "decision": "varices and encephalopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9314,
+            "end_offset": 9340,
+            "annotation_id": "KY_128"
+        },
+        {
+            "decision": "tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9367,
+            "end_offset": 9374,
+            "annotation_id": "KY_129"
+        },
+        {
+            "decision": "tylenol ingestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9367,
+            "end_offset": 9384,
+            "annotation_id": "KY_130"
+        },
+        {
+            "decision": "likely psychosis. Continued homicidal ideation toward wife and son and suicidal ideation. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9390,
+            "end_offset": 9478,
+            "annotation_id": "KY_131"
+        },
+        {
+            "decision": "EEG normal [**3-7**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9480,
+            "end_offset": 9500,
+            "annotation_id": "KY_132"
+        },
+        {
+            "decision": "Homicidal ideation w/ ? Psychosis vs. Delirium: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9723,
+            "end_offset": 9769,
+            "annotation_id": "KY_133"
+        },
+        {
+            "decision": "MMSE very high",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9820,
+            "end_offset": 9834,
+            "annotation_id": "KY_134"
+        },
+        {
+            "decision": "Psychiatry feels that the waxing and [**Doctor Last Name 688**] does not fit entirely with a primary psychiatric disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10038,
+            "end_offset": 10159,
+            "annotation_id": "KY_135"
+        },
+        {
+            "decision": "hepatic encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10193,
+            "end_offset": 10215,
+            "annotation_id": "KY_136"
+        },
+        {
+            "decision": "trial of inpatient psych evaluation.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10273,
+            "end_offset": 10308,
+            "annotation_id": "KY_137"
+        },
+        {
+            "decision": "needs to have all psychiatric comorbitidies controlled for him to be considered for liver transplant.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 10318,
+            "end_offset": 10418,
+            "annotation_id": "KY_138"
+        },
+        {
+            "decision": "liver transplant.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10402,
+            "end_offset": 10418,
+            "annotation_id": "KY_139"
+        },
+        {
+            "decision": "continued on the following psych medications, Citalopram 10mg daily, Risperidone  3mg po bid, 0.5mg risperidone PRN,",
+            "category": "Category 5: Drug related",
+            "start_offset": 10518,
+            "end_offset": 10633,
+            "annotation_id": "KY_140"
+        },
+        {
+            "decision": "Haldol 5-10mg IV q4PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 10635,
+            "end_offset": 10657,
+            "annotation_id": "KY_141"
+        },
+        {
+            "decision": "transfer to [**Hospital1 **] 4.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10697,
+            "end_offset": 10727,
+            "annotation_id": "KY_142"
+        },
+        {
+            "decision": "Encephalopathy: Patient does not appear encephalopathic,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10733,
+            "end_offset": 10788,
+            "annotation_id": "KY_143"
+        },
+        {
+            "decision": "Patient does not appear encephalopathic, ammonia 22, no asterixis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10749,
+            "end_offset": 10814,
+            "annotation_id": "KY_144"
+        },
+        {
+            "decision": "MMSE very high today",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10816,
+            "end_offset": 10836,
+            "annotation_id": "KY_145"
+        },
+        {
+            "decision": "no asterixis, MMSE very high today, perfect on serial sevens, and memory",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10802,
+            "end_offset": 10874,
+            "annotation_id": "KY_146"
+        },
+        {
+            "decision": "rifaximin/lactulose",
+            "category": "Category 5: Drug related",
+            "start_offset": 10978,
+            "end_offset": 10997,
+            "annotation_id": "KY_147"
+        },
+        {
+            "decision": "Patient not currently encephalopathic, but will become so if he does not continue his current dose of rifaximin/lactulose",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10876,
+            "end_offset": 10997,
+            "annotation_id": "KY_148"
+        },
+        {
+            "decision": "Transient Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11001,
+            "end_offset": 11022,
+            "annotation_id": "KY_149"
+        },
+        {
+            "decision": "receiving spironolactone and nadolol with in 30min of one another",
+            "category": "Category 5: Drug related",
+            "start_offset": 11072,
+            "end_offset": 11137,
+            "annotation_id": "KY_150"
+        },
+        {
+            "decision": "suggest that patient receive 40 of lasix in the morning, spironolactone at noon and nadolol at night",
+            "category": "Category 5: Drug related",
+            "start_offset": 11209,
+            "end_offset": 11309,
+            "annotation_id": "KY_151"
+        },
+        {
+            "decision": "Cirrhosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11315,
+            "end_offset": 11324,
+            "annotation_id": "KY_152"
+        },
+        {
+            "decision": "INR is stable at patient's baseline ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11326,
+            "end_offset": 11361,
+            "annotation_id": "KY_153"
+        },
+        {
+            "decision": "ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11408,
+            "end_offset": 11415,
+            "annotation_id": "KY_154"
+        },
+        {
+            "decision": "unclear if compliant with diuretics.  Continue aldactone and Lasix.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11421,
+            "end_offset": 11487,
+            "annotation_id": "KY_155"
+        },
+        {
+            "decision": "Continued on nadolol dose reduced from 40mg to 20mg for ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11489,
+            "end_offset": 11544,
+            "annotation_id": "KY_156"
+        },
+        {
+            "decision": "esophageal varices",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11556,
+            "end_offset": 11574,
+            "annotation_id": "KY_157"
+        },
+        {
+            "decision": "MELD score near baseline at MELD 19",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11659,
+            "end_offset": 11694,
+            "annotation_id": "KY_158"
+        },
+        {
+            "decision": "Patient follows with Dr. [**Last Name (STitle) 497**] from the liver service at [**Hospital1 18**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 11696,
+            "end_offset": 11794,
+            "annotation_id": "KY_159"
+        },
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11799,
+            "end_offset": 11806,
+            "annotation_id": "KY_160"
+        },
+        {
+            "decision": "#Tylenol ingestion: history consistent with daily tylenol ingestion on a cirrhotic liver",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11799,
+            "end_offset": 11886,
+            "annotation_id": "KY_161"
+        },
+        {
+            "decision": " received NAC infusion with 5 additional hours for 16 hours at 17.5 mg//kg/hr dosing as well as NAC infusion ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11950,
+            "end_offset": 12057,
+            "annotation_id": "KY_162"
+        },
+        {
+            "decision": "Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12104,
+            "end_offset": 12120,
+            "annotation_id": "KY_163"
+        },
+        {
+            "decision": "Platelet transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12205,
+            "end_offset": 12226,
+            "annotation_id": "KY_164"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12268,
+            "end_offset": 12274,
+            "annotation_id": "KY_165"
+        },
+        {
+            "decision": "Probably related to anemia of chronic disease given liver disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12307,
+            "end_offset": 12372,
+            "annotation_id": "KY_166"
+        },
+        {
+            "decision": "Leukopenia: Stable, likely related to liver disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12377,
+            "end_offset": 12428,
+            "annotation_id": "KY_167"
+        },
+        {
+            "decision": "Chronic back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12435,
+            "end_offset": 12452,
+            "annotation_id": "KY_168"
+        },
+        {
+            "decision": "continue oxycontin. Reduced dose from 40mg [**Hospital1 **] to 20mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 12454,
+            "end_offset": 12521,
+            "annotation_id": "KY_169"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12567,
+            "end_offset": 12571,
+            "annotation_id": "KY_170"
+        },
+        {
+            "decision": "continue protonix",
+            "category": "Category 5: Drug related",
+            "start_offset": 12573,
+            "end_offset": 12590,
+            "annotation_id": "KY_171"
+        },
+        {
+            "decision": "low salt diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12601,
+            "end_offset": 12614,
+            "annotation_id": "KY_172"
+        },
+        {
+            "decision": "Hyponatremia of 130s at baseline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12616,
+            "end_offset": 12648,
+            "annotation_id": "KY_173"
+        },
+        {
+            "decision": "patient all ready coagulopathic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12683,
+            "end_offset": 12714,
+            "annotation_id": "KY_174"
+        },
+        {
+            "decision": "Avoided heparin sq, as patient all ready coagulopathic.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12660,
+            "end_offset": 12714,
+            "annotation_id": "KY_175"
+        },
+        {
+            "decision": "PIV",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12730,
+            "end_offset": 12733,
+            "annotation_id": "KY_176"
+        },
+        {
+            "decision": "Lasix 20 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12961,
+            "end_offset": 12972,
+            "annotation_id": "KY_177"
+        },
+        {
+            "decision": "Lactulose 45 cc tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12990,
+            "end_offset": 13009,
+            "annotation_id": "KY_178"
+        },
+        {
+            "decision": "Reglan 5 mg po tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 13010,
+            "end_offset": 13028,
+            "annotation_id": "KY_179"
+        },
+        {
+            "decision": "Nadolol 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13029,
+            "end_offset": 13048,
+            "annotation_id": "KY_180"
+        },
+        {
+            "decision": "Omeprazole 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13049,
+            "end_offset": 13071,
+            "annotation_id": "KY_181"
+        },
+        {
+            "decision": "oxycontin 60 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13072,
+            "end_offset": 13087,
+            "annotation_id": "KY_182"
+        },
+        {
+            "decision": "rifaximin 400 mg tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 13105,
+            "end_offset": 13125,
+            "annotation_id": "KY_183"
+        },
+        {
+            "decision": "risperdal 1 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13126,
+            "end_offset": 13140,
+            "annotation_id": "KY_184"
+        },
+        {
+            "decision": "aldactone 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13158,
+            "end_offset": 13180,
+            "annotation_id": "KY_185"
+        },
+        {
+            "decision": "Thiamine 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13181,
+            "end_offset": 13202,
+            "annotation_id": "KY_186"
+        },
+        {
+            "decision": "Vitamin K 100 mcg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13203,
+            "end_offset": 13226,
+            "annotation_id": "KY_187"
+        },
+        {
+            "decision": "Lactulose 30 ml q8h",
+            "category": "Category 5: Drug related",
+            "start_offset": 13254,
+            "end_offset": 13273,
+            "annotation_id": "KY_188"
+        },
+        {
+            "decision": "Lasix 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13274,
+            "end_offset": 13291,
+            "annotation_id": "KY_189"
+        },
+        {
+            "decision": "Aldactone 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13292,
+            "end_offset": 13314,
+            "annotation_id": "KY_190"
+        },
+        {
+            "decision": "Nadolol 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13315,
+            "end_offset": 13334,
+            "annotation_id": "KY_191"
+        },
+        {
+            "decision": "Protonix 40 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13335,
+            "end_offset": 13349,
+            "annotation_id": "KY_192"
+        },
+        {
+            "decision": "Oxycontin 60 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13367,
+            "end_offset": 13382,
+            "annotation_id": "KY_193"
+        },
+        {
+            "decision": "Xanax 0.25 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13400,
+            "end_offset": 13419,
+            "annotation_id": "KY_194"
+        },
+        {
+            "decision": "Ceftriaxone 1 gm IV daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13420,
+            "end_offset": 13445,
+            "annotation_id": "KY_195"
+        },
+        {
+            "decision": "Thiamine 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13446,
+            "end_offset": 13467,
+            "annotation_id": "KY_196"
+        },
+        {
+            "decision": "Risperdal 0.5 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13468,
+            "end_offset": 13484,
+            "annotation_id": "KY_197"
+        },
+        {
+            "decision": "NAC",
+            "category": "Category 5: Drug related",
+            "start_offset": 13502,
+            "end_offset": 13505,
+            "annotation_id": "KY_198"
+        },
+        {
+            "decision": "Folate 1 mg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13506,
+            "end_offset": 13526,
+            "annotation_id": "KY_199"
+        },
+        {
+            "decision": "Celexa 10 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13527,
+            "end_offset": 13545,
+            "annotation_id": "KY_200"
+        },
+        {
+            "decision": "Ativan",
+            "category": "Category 5: Drug related",
+            "start_offset": 13546,
+            "end_offset": 13552,
+            "annotation_id": "KY_201"
+        },
+        {
+            "decision": "1. Lactulose 10 gram/15 mL Syrup Sig: Forty Five (45) ML PO QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13594,
+            "end_offset": 13672,
+            "annotation_id": "KY_202"
+        },
+        {
+            "decision": "2. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13675,
+            "end_offset": 13743,
+            "annotation_id": "KY_203"
+        },
+        {
+            "decision": "3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13746,
+            "end_offset": 13866,
+            "annotation_id": "KY_204"
+        },
+        {
+            "decision": "4. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13869,
+            "end_offset": 13927,
+            "annotation_id": "KY_205"
+        },
+        {
+            "decision": "agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14012,
+            "end_offset": 14021,
+            "annotation_id": "KY_206"
+        },
+        {
+            "decision": "5. Risperidone 0.5 mg Tablet Sig: One (1) Tablet PO PRN (as needed) as needed for agitation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13930,
+            "end_offset": 14021,
+            "annotation_id": "KY_207"
+        },
+        {
+            "decision": "6. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO QHS (once a day (at bedtime)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14023,
+            "end_offset": 14147,
+            "annotation_id": "KY_208"
+        },
+        {
+            "decision": "7. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14152,
+            "end_offset": 14261,
+            "annotation_id": "KY_209"
+        },
+        {
+            "decision": "8. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14264,
+            "end_offset": 14341,
+            "annotation_id": "KY_210"
+        },
+        {
+            "decision": "9. Risperidone 1 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14343,
+            "end_offset": 14413,
+            "annotation_id": "KY_211"
+        },
+        {
+            "decision": "10. Nadolol 20 mg Tablet Sig: One (1) Tablet PO at bedtime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14416,
+            "end_offset": 14474,
+            "annotation_id": "KY_212"
+        },
+        {
+            "decision": "11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO qam.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14476,
+            "end_offset": 14530,
+            "annotation_id": "KY_213"
+        },
+        {
+            "decision": "12. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY AT NOON ().",
+            "category": "Category 5: Drug related",
+            "start_offset": 14532,
+            "end_offset": 14601,
+            "annotation_id": "KY_214"
+        },
+        {
+            "decision": "13. Haloperidol Lactate 5 mg/mL Solution Sig: One (1)  Injection Q4H (every 4 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14606,
+            "end_offset": 14700,
+            "annotation_id": "KY_215"
+        },
+        {
+            "decision": "1. End Stage Liver Disease(Cirrhosis)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14812,
+            "end_offset": 14848,
+            "annotation_id": "KY_216"
+        },
+        {
+            "decision": "2. Psychosis NOS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14850,
+            "end_offset": 14866,
+            "annotation_id": "KY_217"
+        },
+        {
+            "decision": "3. Enchephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14867,
+            "end_offset": 14885,
+            "annotation_id": "KY_218"
+        },
+        {
+            "decision": "4. Delirium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14886,
+            "end_offset": 14897,
+            "annotation_id": "KY_219"
+        },
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14901,
+            "end_offset": 14908,
+            "annotation_id": "KY_220"
+        },
+        {
+            "decision": "5. Tylenol toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14898,
+            "end_offset": 14917,
+            "annotation_id": "KY_221"
+        },
+        {
+            "decision": "6. Homicidal Ideation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14918,
+            "end_offset": 14939,
+            "annotation_id": "KY_222"
+        },
+        {
+            "decision": "1. Hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14962,
+            "end_offset": 14976,
+            "annotation_id": "KY_223"
+        },
+        {
+            "decision": "2. Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14977,
+            "end_offset": 14996,
+            "annotation_id": "KY_224"
+        },
+        {
+            "decision": "3. GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14997,
+            "end_offset": 15004,
+            "annotation_id": "KY_225"
+        },
+        {
+            "decision": "4. Leukopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15005,
+            "end_offset": 15018,
+            "annotation_id": "KY_226"
+        },
+        {
+            "decision": "5. Hx of varices",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15019,
+            "end_offset": 15035,
+            "annotation_id": "KY_227"
+        },
+        {
+            "decision": "6. Chronic lower back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15036,
+            "end_offset": 15062,
+            "annotation_id": "KY_228"
+        },
+        {
+            "decision": "Discharge Condition: stable, normotensive SBP 100",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15065,
+            "end_offset": 15114,
+            "annotation_id": "KY_229"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] from [**Hospital3 2737**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 15176,
+            "end_offset": 15235,
+            "annotation_id": "KY_230"
+        },
+        {
+            "decision": "mental status changes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15260,
+            "end_offset": 15281,
+            "annotation_id": "KY_231"
+        },
+        {
+            "decision": "high tylenol levels",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15291,
+            "end_offset": 15310,
+            "annotation_id": "KY_232"
+        },
+        {
+            "decision": "received mucomyst ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15395,
+            "end_offset": 15412,
+            "annotation_id": "KY_233"
+        },
+        {
+            "decision": "tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15450,
+            "end_offset": 15457,
+            "annotation_id": "KY_234"
+        },
+        {
+            "decision": "tylenol toxicity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15450,
+            "end_offset": 15466,
+            "annotation_id": "KY_235"
+        },
+        {
+            "decision": "There was also initial concern that you might have an infection in your abdomen, but this was felt not to be the case by the team. You were still very confused when you were in the ICU. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15470,
+            "end_offset": 15653,
+            "annotation_id": "KY_236"
+        },
+        {
+            "decision": "needed medications ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15659,
+            "end_offset": 15677,
+            "annotation_id": "KY_237"
+        },
+        {
+            "decision": "given medications to help control ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15712,
+            "end_offset": 15745,
+            "annotation_id": "KY_238"
+        },
+        {
+            "decision": "any confusion caused from your liver disease. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15746,
+            "end_offset": 15790,
+            "annotation_id": "KY_239"
+        },
+        {
+            "decision": "a test called an RPR ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 15800,
+            "end_offset": 15820,
+            "annotation_id": "KY_240"
+        },
+        {
+            "decision": "rule out any syphyllis causing your confusion. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15827,
+            "end_offset": 15872,
+            "annotation_id": "KY_241"
+        },
+        {
+            "decision": ". You had an EEG which did not show any seizure activity. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15874,
+            "end_offset": 15928,
+            "annotation_id": "KY_242"
+        },
+        {
+            "decision": "You did not have any infection in your urine.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15930,
+            "end_offset": 15974,
+            "annotation_id": "KY_243"
+        },
+        {
+            "decision": "You continued to hear voices and be confused during your hospitalizations. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15978,
+            "end_offset": 16051,
+            "annotation_id": "KY_244"
+        },
+        {
+            "decision": "we are transitioning you to a psychiatry facitilty to determine if you have a primary psychiatric problem on top of your other liver issues, and to further assess if you are a danger to yourself or others.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16164,
+            "end_offset": 16368,
+            "annotation_id": "KY_245"
+        },
+        {
+            "decision": "Please follow up with your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Telephone/Fax (1) 22166**] once you are discharged from the hospital",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16394,
+            "end_offset": 16574,
+            "annotation_id": "KY_246"
+        },
+        {
+            "decision": "Please contact the [**Hospital1 18**] liver center on discharge from the hospital.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16578,
+            "end_offset": 16659,
+            "annotation_id": "KY_247"
+        },
+        {
+            "decision": "Please keep the following appointments. . Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8753**], MD Phone:[**Telephone/Fax (1) 1387**] Date/Time:[**2143-3-12**] 2:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 16663,
+            "end_offset": 16854,
+            "annotation_id": "KY_248"
+        }
+    ]
+}

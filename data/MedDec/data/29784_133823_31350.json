@@ -1,0 +1,489 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29784_133823_31350",
+    "annotations": [
+        {
+            "decision": "Blood type O+",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 307,
+            "end_offset": 320,
+            "annotation_id": "KB_000"
+        },
+        {
+            "decision": "antibody negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 322,
+            "end_offset": 339,
+            "annotation_id": "KB_001"
+        },
+        {
+            "decision": "rubella-immune",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 341,
+            "end_offset": 355,
+            "annotation_id": "KB_002"
+        },
+        {
+            "decision": "RPR nonreactive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 357,
+            "end_offset": 372,
+            "annotation_id": "KB_003"
+        },
+        {
+            "decision": "hepatitis B surface antigen negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 374,
+            "end_offset": 410,
+            "annotation_id": "KB_004"
+        },
+        {
+            "decision": "group beta Strep status positive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 412,
+            "end_offset": 444,
+            "annotation_id": "KB_005"
+        },
+        {
+            "decision": "pregnancy was uncomplicated, with spontaneous onset of labor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 451,
+            "end_offset": 511,
+            "annotation_id": "KB_006"
+        },
+        {
+            "decision": "deep variable heart rate decelerations which returned to baseline noted during fetal monitoring during labor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 524,
+            "end_offset": 632,
+            "annotation_id": "KB_007"
+        },
+        {
+            "decision": "vacuum-assisted vaginal delivery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 649,
+            "end_offset": 681,
+            "annotation_id": "KB_008"
+        },
+        {
+            "decision": "Infant emerged limp and [**Doctor Last Name 352**] with no spontaneous respiratory effort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 683,
+            "end_offset": 772,
+            "annotation_id": "KB_009"
+        },
+        {
+            "decision": "bag mask ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 786,
+            "end_offset": 806,
+            "annotation_id": "KB_010"
+        },
+        {
+            "decision": "naloxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 831,
+            "end_offset": 839,
+            "annotation_id": "KB_011"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 845,
+            "end_offset": 854,
+            "annotation_id": "KB_012"
+        },
+        {
+            "decision": "persistent apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 859,
+            "end_offset": 875,
+            "annotation_id": "KB_013"
+        },
+        {
+            "decision": "admitted to the neonatal intensive care unit ",
+            "category": "Category 1: Contact related",
+            "start_offset": 884,
+            "end_offset": 928,
+            "annotation_id": "KB_014"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1074,
+            "end_offset": 1084,
+            "annotation_id": "KB_015"
+        },
+        {
+            "decision": "Prozac ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1109,
+            "end_offset": 1115,
+            "annotation_id": "KB_016"
+        },
+        {
+            "decision": "Klonopin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1120,
+            "end_offset": 1128,
+            "annotation_id": "KB_017"
+        },
+        {
+            "decision": "General: Non dysmorphic term male on room air, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1323,
+            "end_offset": 1387,
+            "annotation_id": "KB_018"
+        },
+        {
+            "decision": "Skin: Warm and dry. Bruises noted over scalp",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1389,
+            "end_offset": 1433,
+            "annotation_id": "KB_019"
+        },
+        {
+            "decision": "Head, eyes, ears, nose and throat: Anterior fontanelle open and flat, sutures approximated. Normal facies. Palate intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1435,
+            "end_offset": 1555,
+            "annotation_id": "KB_020"
+        },
+        {
+            "decision": "Chest: Breath sounds clear and equal, well aerated. Respirations easy without distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1557,
+            "end_offset": 1643,
+            "annotation_id": "KB_021"
+        },
+        {
+            "decision": "Cardiovascular: Regular rate and rhythm, no murmur, normal S1, S2. Femoral pulses +2, well perfused",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1645,
+            "end_offset": 1744,
+            "annotation_id": "KB_022"
+        },
+        {
+            "decision": "Abdomen soft, no masses, positive bowel sounds. Cord on and drying",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1746,
+            "end_offset": 1812,
+            "annotation_id": "KB_023"
+        },
+        {
+            "decision": "GU: Normal male, testes descended.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1814,
+            "end_offset": 1847,
+            "annotation_id": "KB_024"
+        },
+        {
+            "decision": "Extremities: Moving all.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1849,
+            "end_offset": 1872,
+            "annotation_id": "KB_025"
+        },
+        {
+            "decision": "Neurological: Symmetric tone and reflexes, positive suck, positive grasp, alert gaze",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1874,
+            "end_offset": 1958,
+            "annotation_id": "KB_026"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2053,
+            "end_offset": 2062,
+            "annotation_id": "KB_027"
+        },
+        {
+            "decision": "transferred to the newborn nursery after 24 hours of observation in the neonatal intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 2277,
+            "end_offset": 2377,
+            "annotation_id": "KB_028"
+        },
+        {
+            "decision": "cyanotic episode nad transient tachypnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2396,
+            "end_offset": 2436,
+            "annotation_id": "KB_029"
+        },
+        {
+            "decision": "circumcision ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2451,
+            "end_offset": 2463,
+            "annotation_id": "KB_030"
+        },
+        {
+            "decision": "transferred back to the NICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 2495,
+            "end_offset": 2523,
+            "annotation_id": "KB_031"
+        },
+        {
+            "decision": "tachypnea resove3d shortly after admission and was attributed to agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2590,
+            "end_offset": 2664,
+            "annotation_id": "KB_032"
+        },
+        {
+            "decision": "desaturations also resolved spontaneously, and were attributed to respiratory immaturity and tonal abnormalities secondary to maternal SSRI use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2670,
+            "end_offset": 2813,
+            "annotation_id": "KB_033"
+        },
+        {
+            "decision": "infant has been asymptomatic with no cardiorespiratory events for 5 days.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2845,
+            "end_offset": 2917,
+            "annotation_id": "KB_034"
+        },
+        {
+            "decision": "normal saline bolus ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2984,
+            "end_offset": 3003,
+            "annotation_id": "KB_035"
+        },
+        {
+            "decision": "cardiac murmur ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3121,
+            "end_offset": 3135,
+            "annotation_id": "KB_036"
+        },
+        {
+            "decision": "Screening investigations including chest radiograph, electrocardiogram, 4-extremity blood pressures were normal and the murmur resolved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3183,
+            "end_offset": 3318,
+            "annotation_id": "KB_037"
+        },
+        {
+            "decision": "intravenous fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3418,
+            "end_offset": 3436,
+            "annotation_id": "KB_038"
+        },
+        {
+            "decision": "Enteral feeds ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3438,
+            "end_offset": 3451,
+            "annotation_id": "KB_039"
+        },
+        {
+            "decision": "ad lib breast feeding with glucoses ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3604,
+            "end_offset": 3639,
+            "annotation_id": "KB_040"
+        },
+        {
+            "decision": "group B Streptococcus colonized ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3715,
+            "end_offset": 3746,
+            "annotation_id": "KB_041"
+        },
+        {
+            "decision": "intrapartum antibiotic treatment",
+            "category": "Category 5: Drug related",
+            "start_offset": 3785,
+            "end_offset": 3817,
+            "annotation_id": "KB_042"
+        },
+        {
+            "decision": "intravenous ampicillin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4095,
+            "end_offset": 4117,
+            "annotation_id": "KB_043"
+        },
+        {
+            "decision": "gentamicin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4122,
+            "end_offset": 4132,
+            "annotation_id": "KB_044"
+        },
+        {
+            "decision": "Antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4134,
+            "end_offset": 4145,
+            "annotation_id": "KB_045"
+        },
+        {
+            "decision": "negative cultures ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4181,
+            "end_offset": 4198,
+            "annotation_id": "KB_046"
+        },
+        {
+            "decision": "no further clinical evidence of sepsis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4203,
+            "end_offset": 4241,
+            "annotation_id": "KB_047"
+        },
+        {
+            "decision": "phototherapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4290,
+            "end_offset": 4302,
+            "annotation_id": "KB_048"
+        },
+        {
+            "decision": "peak serum bilirubin of 14.4 with a direct component of 0.3. This was spontaneously decreasing following the discontinuation of phototherapy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4309,
+            "end_offset": 4449,
+            "annotation_id": "KB_049"
+        },
+        {
+            "decision": "hypotonia with exaggerated deep tendon reflexes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4582,
+            "end_offset": 4629,
+            "annotation_id": "KB_050"
+        },
+        {
+            "decision": "There was no evidence of seizure activity clinically in association wiht the desaturation episodes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4631,
+            "end_offset": 4729,
+            "annotation_id": "KB_051"
+        },
+        {
+            "decision": "MRI showed small amount of parasaggital and intraventricular hemorrhage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4731,
+            "end_offset": 4802,
+            "annotation_id": "KB_052"
+        },
+        {
+            "decision": "Neurological examination findings were attributed to antenatal SSRI exposure and resolved somewhat by the time of discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4886,
+            "end_offset": 5009,
+            "annotation_id": "KB_053"
+        },
+        {
+            "decision": "Follow-up is planned for the neonatal neurology clinic at one to two months (telephone number [**Telephone/Fax (1) 36468**])",
+            "category": "Category 1: Contact related",
+            "start_offset": 5011,
+            "end_offset": 5134,
+            "annotation_id": "KB_054"
+        },
+        {
+            "decision": "intravenous catheter infiltrate on the right ankle",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5252,
+            "end_offset": 5302,
+            "annotation_id": "KB_055"
+        },
+        {
+            "decision": "plastic surgery consultation service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5329,
+            "end_offset": 5365,
+            "annotation_id": "KB_056"
+        },
+        {
+            "decision": "topical antibiotic cream",
+            "category": "Category 5: Drug related",
+            "start_offset": 5383,
+            "end_offset": 5407,
+            "annotation_id": "KB_057"
+        },
+        {
+            "decision": "xeroform dressing",
+            "category": "Category 5: Drug related",
+            "start_offset": 5412,
+            "end_offset": 5429,
+            "annotation_id": "KB_058"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5510,
+            "end_offset": 5514,
+            "annotation_id": "KB_059"
+        },
+        {
+            "decision": "PRIMARY PEDIATRICIAN:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 33462**], [**Apartment Address(1) 73903**], [**Location (un) 3307**], [**Numeric Identifier 73904**], phone number [**Telephone/Fax (1) 73905**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 5601,
+            "end_offset": 5834,
+            "annotation_id": "KB_060"
+        },
+        {
+            "decision": "Ad lib breast feeding",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5900,
+            "end_offset": 5921,
+            "annotation_id": "KB_061"
+        },
+        {
+            "decision": "Ampicillin 500 mg IV q.12 h",
+            "category": "Category 5: Drug related",
+            "start_offset": 5940,
+            "end_offset": 5967,
+            "annotation_id": "KB_062"
+        },
+        {
+            "decision": "gentamicin 14     mg IV q.24 h.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5970,
+            "end_offset": 6000,
+            "annotation_id": "KB_063"
+        },
+        {
+            "decision": "Birth apnea, resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6028,
+            "end_offset": 6049,
+            "annotation_id": "KB_064"
+        },
+        {
+            "decision": "Neonatal respiratory immaturity, resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6054,
+            "end_offset": 6095,
+            "annotation_id": "KB_065"
+        },
+        {
+            "decision": "Tonal abnormalities secondary to antenatal exposure to serotonin reuptake inhibitor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6100,
+            "end_offset": 6183,
+            "annotation_id": "KB_066"
+        },
+        {
+            "decision": "Mild parasaggital and intraventricular hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6188,
+            "end_offset": 6237,
+            "annotation_id": "KB_067"
+        },
+        {
+            "decision": "Suspicion for sepsis, resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6242,
+            "end_offset": 6272,
+            "annotation_id": "KB_068"
+        }
+    ]
+}

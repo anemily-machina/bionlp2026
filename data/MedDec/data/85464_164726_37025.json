@@ -1,0 +1,713 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "85464_164726_37025",
+    "annotations": [
+        {
+            "decision": "STEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 306,
+            "end_offset": 311,
+            "annotation_id": "QC_000"
+        },
+        {
+            "decision": "temporary dialysis line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 351,
+            "end_offset": 384,
+            "annotation_id": "QC_001"
+        },
+        {
+            "decision": "cordis placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 385,
+            "end_offset": 401,
+            "annotation_id": "QC_002"
+        },
+        {
+            "decision": "arterial line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 402,
+            "end_offset": 425,
+            "annotation_id": "QC_003"
+        },
+        {
+            "decision": "with two recent MI's, known severe CAD with a 95% LM stenosis (felt not to be a candidate for CABG), cardiomyopathy with an LVEF of 15-20%, moderate aortic stenosis, HTN, AF, hepatitis C with thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 480,
+            "end_offset": 688,
+            "annotation_id": "QC_004"
+        },
+        {
+            "decision": "s/p recent cath/",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 690,
+            "end_offset": 706,
+            "annotation_id": "QC_005"
+        },
+        {
+            "decision": "admission at [**Hospital1 **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 706,
+            "end_offset": 735,
+            "annotation_id": "QC_006"
+        },
+        {
+            "decision": "Patient has continued to have ischemic events since then with recent presentation with new onset AF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 791,
+            "end_offset": 890,
+            "annotation_id": "QC_007"
+        },
+        {
+            "decision": "echo revealing wall motion abnormality involving the anterior wall and apex with possible thrombus in the LV apex",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 892,
+            "end_offset": 1005,
+            "annotation_id": "QC_008"
+        },
+        {
+            "decision": "possible thrombus in the LV apex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 973,
+            "end_offset": 1005,
+            "annotation_id": "QC_009"
+        },
+        {
+            "decision": "Medical management continued with eventual discharge to home earlier this week",
+            "category": "Category 1: Contact related",
+            "start_offset": 1007,
+            "end_offset": 1085,
+            "annotation_id": "QC_010"
+        },
+        {
+            "decision": "chest pain [**11-24**] radiating to the left arm and back, associated with diaphoresis, lightheadedness, shortness of breath and ST elevation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1183,
+            "end_offset": 1324,
+            "annotation_id": "QC_011"
+        },
+        {
+            "decision": "IV nitro inititated, heparin, aspirin initiated ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1376,
+            "end_offset": 1423,
+            "annotation_id": "QC_012"
+        },
+        {
+            "decision": "now painfree",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1428,
+            "end_offset": 1440,
+            "annotation_id": "QC_013"
+        },
+        {
+            "decision": "Troponin last drawn was 13 (still rising)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1442,
+            "end_offset": 1482,
+            "annotation_id": "QC_014"
+        },
+        {
+            "decision": "Currently with minimal chest discomfort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1523,
+            "end_offset": 1562,
+            "annotation_id": "QC_015"
+        },
+        {
+            "decision": "EKG demonstrated ST elevation inferiorly at tuft's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1564,
+            "end_offset": 1614,
+            "annotation_id": "QC_016"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] to consult",
+            "category": "Category 1: Contact related",
+            "start_offset": 1669,
+            "end_offset": 1709,
+            "annotation_id": "QC_017"
+        },
+        {
+            "decision": "pt's pain free and without complaint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1727,
+            "end_offset": 1763,
+            "annotation_id": "QC_018"
+        },
+        {
+            "decision": "CARDIAC RISK FACTORS: htn, hl",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1791,
+            "end_offset": 1820,
+            "annotation_id": "QC_019"
+        },
+        {
+            "decision": "hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1922,
+            "end_offset": 1933,
+            "annotation_id": "QC_020"
+        },
+        {
+            "decision": "multiple hepatic nodules with multiple biopsies with no evidence of malignancy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1934,
+            "end_offset": 2012,
+            "annotation_id": "QC_021"
+        },
+        {
+            "decision": "severe diffuse coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2014,
+            "end_offset": 2052,
+            "annotation_id": "QC_022"
+        },
+        {
+            "decision": "severe cardiomyopathy with ef of 15-20%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2053,
+            "end_offset": 2091,
+            "annotation_id": "QC_023"
+        },
+        {
+            "decision": "severe tricuspid regurgitation with estimated pa pressure of 53mmHg",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2093,
+            "end_offset": 2160,
+            "annotation_id": "QC_024"
+        },
+        {
+            "decision": "moderate aortic stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2161,
+            "end_offset": 2185,
+            "annotation_id": "QC_025"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2186,
+            "end_offset": 2198,
+            "annotation_id": "QC_026"
+        },
+        {
+            "decision": "hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2199,
+            "end_offset": 2213,
+            "annotation_id": "QC_027"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2214,
+            "end_offset": 2233,
+            "annotation_id": "QC_028"
+        },
+        {
+            "decision": "thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2234,
+            "end_offset": 2250,
+            "annotation_id": "QC_029"
+        },
+        {
+            "decision": "GENERAL: In NAD. Oriented x3. Mood, affect appropriate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2438,
+            "end_offset": 2492,
+            "annotation_id": "QC_030"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2494,
+            "end_offset": 2617,
+            "annotation_id": "QC_031"
+        },
+        {
+            "decision": "NECK: Supple with no JVD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2619,
+            "end_offset": 2643,
+            "annotation_id": "QC_032"
+        },
+        {
+            "decision": "CARDIAC: rrr, nl s1, faint s2, [**4-20**] ESM as well as [**4-20**] PSM.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2645,
+            "end_offset": 2716,
+            "annotation_id": "QC_033"
+        },
+        {
+            "decision": "LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2718,
+            "end_offset": 2858,
+            "annotation_id": "QC_034"
+        },
+        {
+            "decision": "ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2860,
+            "end_offset": 2960,
+            "annotation_id": "QC_035"
+        },
+        {
+            "decision": "EXTREMITIES: No c/c/e. No femoral bruits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2962,
+            "end_offset": 3002,
+            "annotation_id": "QC_036"
+        },
+        {
+            "decision": "SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3004,
+            "end_offset": 3059,
+            "annotation_id": "QC_037"
+        },
+        {
+            "decision": "PULSES: 1+ dp and pt pulses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3061,
+            "end_offset": 3088,
+            "annotation_id": "QC_038"
+        },
+        {
+            "decision": "Urine Cx: [**7-31**], [**8-3**] negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3687,
+            "end_offset": 3727,
+            "annotation_id": "QC_039"
+        },
+        {
+            "decision": "Symmetric left ventricular hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3761,
+            "end_offset": 3799,
+            "annotation_id": "QC_040"
+        },
+        {
+            "decision": "Mild regional dysfunction consistent with CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3801,
+            "end_offset": 3846,
+            "annotation_id": "QC_041"
+        },
+        {
+            "decision": "Moderately dilated right ventricle with borderline normal function",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3848,
+            "end_offset": 3914,
+            "annotation_id": "QC_042"
+        },
+        {
+            "decision": "Tricuspid leaflets do not coapt and there is corresponding moderate to severe tricuspid regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3916,
+            "end_offset": 4017,
+            "annotation_id": "QC_043"
+        },
+        {
+            "decision": "moderate to severe tricuspid regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3975,
+            "end_offset": 4017,
+            "annotation_id": "QC_044"
+        },
+        {
+            "decision": "Pulmonary pressures cannot be accurately determined.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4019,
+            "end_offset": 4070,
+            "annotation_id": "QC_045"
+        },
+        {
+            "decision": "Mild mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4072,
+            "end_offset": 4097,
+            "annotation_id": "QC_046"
+        },
+        {
+            "decision": "Moderate aortic stenosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4099,
+            "end_offset": 4123,
+            "annotation_id": "QC_047"
+        },
+        {
+            "decision": "Sinus rhythm with PACs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4147,
+            "end_offset": 4169,
+            "annotation_id": "QC_048"
+        },
+        {
+            "decision": "Prolonged QT interval",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4170,
+            "end_offset": 4191,
+            "annotation_id": "QC_049"
+        },
+        {
+            "decision": "Inferior infarct - age undetermined",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4192,
+            "end_offset": 4227,
+            "annotation_id": "QC_050"
+        },
+        {
+            "decision": "Anteroseptal infarct - age undetermined",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4228,
+            "end_offset": 4267,
+            "annotation_id": "QC_051"
+        },
+        {
+            "decision": "ST-T changes may be due to myocardial ischemia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4268,
+            "end_offset": 4314,
+            "annotation_id": "QC_052"
+        },
+        {
+            "decision": "myocardial ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4295,
+            "end_offset": 4314,
+            "annotation_id": "QC_053"
+        },
+        {
+            "decision": "status post cardiac cath",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4509,
+            "end_offset": 4533,
+            "annotation_id": "QC_054"
+        },
+        {
+            "decision": "history of LMain and 3VD, moderate aortic stenosis and with status post cardiac cath for STEMI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4449,
+            "end_offset": 4543,
+            "annotation_id": "QC_055"
+        },
+        {
+            "decision": "inferior STEMI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4661,
+            "end_offset": 4675,
+            "annotation_id": "QC_056"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] for further management and a second opinion regarding options for revascularization",
+            "category": "Category 1: Contact related",
+            "start_offset": 4703,
+            "end_offset": 4820,
+            "annotation_id": "QC_057"
+        },
+        {
+            "decision": "second opinion regarding options for revascularization",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4766,
+            "end_offset": 4820,
+            "annotation_id": "QC_058"
+        },
+        {
+            "decision": "CABG versus high risk PCI were considered ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4822,
+            "end_offset": 4863,
+            "annotation_id": "QC_059"
+        },
+        {
+            "decision": "CT surgery was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4868,
+            "end_offset": 4892,
+            "annotation_id": "QC_060"
+        },
+        {
+            "decision": "Patient remained chest pain free on medical management of her CAD, however, the acute renal failure she presented with evolved rapidly from the beginning of her course, making either surgical or PCI less of an option",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4894,
+            "end_offset": 5110,
+            "annotation_id": "QC_061"
+        },
+        {
+            "decision": "making either surgical or PCI less of an option",
+            "category": "Category 8: Deferment",
+            "start_offset": 5063,
+            "end_offset": 5110,
+            "annotation_id": "QC_062"
+        },
+        {
+            "decision": "Renal was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 5112,
+            "end_offset": 5131,
+            "annotation_id": "QC_063"
+        },
+        {
+            "decision": "felt her renal failure was likely attributable to evolving ATN in the setting of poor forward flow related to her recent MI and possibly due to contrast nephropathy given a recent catheterization",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5136,
+            "end_offset": 5331,
+            "annotation_id": "QC_064"
+        },
+        {
+            "decision": "catheterization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5316,
+            "end_offset": 5331,
+            "annotation_id": "QC_065"
+        },
+        {
+            "decision": "The patient became oliguric and subsequently volume overloaded and hypoxic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5333,
+            "end_offset": 5407,
+            "annotation_id": "QC_066"
+        },
+        {
+            "decision": "Aggressive diuresis with IV lasix and diuril were unsuccessful",
+            "category": "Category 5: Drug related",
+            "start_offset": 5409,
+            "end_offset": 5471,
+            "annotation_id": "QC_067"
+        },
+        {
+            "decision": "CVVH was initiated.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5475,
+            "end_offset": 5493,
+            "annotation_id": "QC_068"
+        },
+        {
+            "decision": "At this point she had become hemodynamically unstable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5495,
+            "end_offset": 5548,
+            "annotation_id": "QC_069"
+        },
+        {
+            "decision": "requiring pressor support with dopamine",
+            "category": "Category 5: Drug related",
+            "start_offset": 5549,
+            "end_offset": 5588,
+            "annotation_id": "QC_070"
+        },
+        {
+            "decision": "Hemodynamic instability was likely also affected by patient's development of slow atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5590,
+            "end_offset": 5691,
+            "annotation_id": "QC_071"
+        },
+        {
+            "decision": "requried placement of a trancutaneous pacer",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5698,
+            "end_offset": 5741,
+            "annotation_id": "QC_072"
+        },
+        {
+            "decision": "CVVH ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5797,
+            "end_offset": 5801,
+            "annotation_id": "QC_073"
+        },
+        {
+            "decision": "Her dopamine requirement increased significantly with CVVH which likely contributed to the development of metabolic acidosis",
+            "category": "Category 5: Drug related",
+            "start_offset": 5743,
+            "end_offset": 5867,
+            "annotation_id": "QC_074"
+        },
+        {
+            "decision": "development of metabolic acidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5834,
+            "end_offset": 5867,
+            "annotation_id": "QC_075"
+        },
+        {
+            "decision": "lactate of 11 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5914,
+            "end_offset": 5927,
+            "annotation_id": "QC_076"
+        },
+        {
+            "decision": "developed agonal respirations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5936,
+            "end_offset": 5965,
+            "annotation_id": "QC_077"
+        },
+        {
+            "decision": "She underwent intubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5967,
+            "end_offset": 5991,
+            "annotation_id": "QC_078"
+        },
+        {
+            "decision": "did not help to improve her worsening acidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5998,
+            "end_offset": 6044,
+            "annotation_id": "QC_079"
+        },
+        {
+            "decision": "it was clear that her prognosis had become very poor.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6139,
+            "end_offset": 6191,
+            "annotation_id": "QC_080"
+        },
+        {
+            "decision": "lipitor 80mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6364,
+            "end_offset": 6382,
+            "annotation_id": "QC_081"
+        },
+        {
+            "decision": "plavix 75mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6383,
+            "end_offset": 6400,
+            "annotation_id": "QC_082"
+        },
+        {
+            "decision": "toprol xl 50mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6401,
+            "end_offset": 6421,
+            "annotation_id": "QC_083"
+        },
+        {
+            "decision": "zestril 5mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6422,
+            "end_offset": 6439,
+            "annotation_id": "QC_084"
+        },
+        {
+            "decision": "alsix 80mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6440,
+            "end_offset": 6456,
+            "annotation_id": "QC_085"
+        },
+        {
+            "decision": "aspirin 81mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6457,
+            "end_offset": 6475,
+            "annotation_id": "QC_086"
+        },
+        {
+            "decision": "IV heparin at 600u/hour",
+            "category": "Category 5: Drug related",
+            "start_offset": 6495,
+            "end_offset": 6518,
+            "annotation_id": "QC_087"
+        },
+        {
+            "decision": "IV nitro at 30mcg / min",
+            "category": "Category 5: Drug related",
+            "start_offset": 6519,
+            "end_offset": 6542,
+            "annotation_id": "QC_088"
+        },
+        {
+            "decision": "asa 325mg, lipitor 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6543,
+            "end_offset": 6572,
+            "annotation_id": "QC_089"
+        },
+        {
+            "decision": "lasix 80mg po",
+            "category": "Category 5: Drug related",
+            "start_offset": 6573,
+            "end_offset": 6586,
+            "annotation_id": "QC_090"
+        },
+        {
+            "decision": "plavix 75mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 6587,
+            "end_offset": 6598,
+            "annotation_id": "QC_091"
+        },
+        {
+            "decision": "zestril 5mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 6599,
+            "end_offset": 6610,
+            "annotation_id": "QC_092"
+        },
+        {
+            "decision": "Status post ST elevation myocardial infarction, acute heart failure, renal failure, metabolic acidosis, respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6701,
+            "end_offset": 6824,
+            "annotation_id": "QC_093"
+        },
+        {
+            "decision": "Aortic stenosis, hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6836,
+            "end_offset": 6864,
+            "annotation_id": "QC_094"
+        },
+        {
+            "decision": "STEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6965,
+            "end_offset": 6970,
+            "annotation_id": "QC_095"
+        },
+        {
+            "decision": "Her course was complicated by acute renal failure, acute heart failure which ultimately led to pressor support",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6972,
+            "end_offset": 7082,
+            "annotation_id": "QC_096"
+        },
+        {
+            "decision": "pressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 7067,
+            "end_offset": 7082,
+            "annotation_id": "QC_097"
+        },
+        {
+            "decision": "Patient developed metabolic acidosis and subsequent respiratory failure requiring intubation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7084,
+            "end_offset": 7176,
+            "annotation_id": "QC_098"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7166,
+            "end_offset": 7176,
+            "annotation_id": "QC_099"
+        },
+        {
+            "decision": "critical condition and poor prognosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7258,
+            "end_offset": 7295,
+            "annotation_id": "QC_100"
+        }
+    ]
+}

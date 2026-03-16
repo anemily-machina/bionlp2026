@@ -1,0 +1,1315 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "58240_100113_49123",
+    "annotations": [
+        {
+            "decision": "malaise",
+            "category": "Category 3: Defining problem",
+            "start_offset": 237,
+            "end_offset": 244,
+            "annotation_id": "NM_000"
+        },
+        {
+            "decision": "Percutaneous Chol",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 285,
+            "end_offset": 302,
+            "annotation_id": "NM_001"
+        },
+        {
+            "decision": "Afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 351,
+            "end_offset": 355,
+            "annotation_id": "NM_002"
+        },
+        {
+            "decision": "systolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 357,
+            "end_offset": 369,
+            "annotation_id": "NM_003"
+        },
+        {
+            "decision": "and recent cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 371,
+            "end_offset": 395,
+            "annotation_id": "NM_004"
+        },
+        {
+            "decision": "cholecytitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 771,
+            "end_offset": 783,
+            "annotation_id": "NM_005"
+        },
+        {
+            "decision": "started on lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 862,
+            "end_offset": 878,
+            "annotation_id": "NM_006"
+        },
+        {
+            "decision": "was given 1.5L ivf.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1145,
+            "end_offset": 1163,
+            "annotation_id": "NM_007"
+        },
+        {
+            "decision": "treated with azithromycin 500mg iv once",
+            "category": "Category 5: Drug related",
+            "start_offset": 1172,
+            "end_offset": 1211,
+            "annotation_id": "NM_008"
+        },
+        {
+            "decision": "ceftriaxone 1g iv once",
+            "category": "Category 5: Drug related",
+            "start_offset": 1213,
+            "end_offset": 1235,
+            "annotation_id": "NM_009"
+        },
+        {
+            "decision": "unasyn 3g iv once",
+            "category": "Category 5: Drug related",
+            "start_offset": 1237,
+            "end_offset": 1254,
+            "annotation_id": "NM_010"
+        },
+        {
+            "decision": "Lactate decreased from 4.6 to 2.2 with fluids. Troponin stable at .03",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1256,
+            "end_offset": 1325,
+            "annotation_id": "NM_011"
+        },
+        {
+            "decision": "Surgical consultation recommends ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1327,
+            "end_offset": 1359,
+            "annotation_id": "NM_012"
+        },
+        {
+            "decision": "percutaneous cholecystostomy tubes. CT head",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1360,
+            "end_offset": 1403,
+            "annotation_id": "NM_013"
+        },
+        {
+            "decision": "transfer to the micu",
+            "category": "Category 1: Contact related",
+            "start_offset": 1411,
+            "end_offset": 1431,
+            "annotation_id": "NM_014"
+        },
+        {
+            "decision": "Denie night sweats, recent wt gain. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1575,
+            "end_offset": 1609,
+            "annotation_id": "NM_015"
+        },
+        {
+            "decision": "Denies headache, sinus tenderness, rhinorrhea or congestion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1611,
+            "end_offset": 1670,
+            "annotation_id": "NM_016"
+        },
+        {
+            "decision": "Denies or wheezing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1672,
+            "end_offset": 1690,
+            "annotation_id": "NM_017"
+        },
+        {
+            "decision": "Denies chest pain, chest pressure, palpitations, or weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1692,
+            "end_offset": 1752,
+            "annotation_id": "NM_018"
+        },
+        {
+            "decision": "Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits. Denies dysuria, frequency, or urgency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1754,
+            "end_offset": 1884,
+            "annotation_id": "NM_019"
+        },
+        {
+            "decision": "Denies arthralgias or myalgias. Denies rashes or skin changes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1886,
+            "end_offset": 1947,
+            "annotation_id": "NM_020"
+        },
+        {
+            "decision": "S/P BILATERAL TKR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1973,
+            "end_offset": 1990,
+            "annotation_id": "NM_021"
+        },
+        {
+            "decision": "*S/P ILIAL FRACTURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1991,
+            "end_offset": 2010,
+            "annotation_id": "NM_022"
+        },
+        {
+            "decision": "ATRIAL FIBRILLATION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2011,
+            "end_offset": 2030,
+            "annotation_id": "NM_023"
+        },
+        {
+            "decision": "AWB DONATION- DEFFERRAL",
+            "category": "Category 8: Deferment",
+            "start_offset": 2031,
+            "end_offset": 2054,
+            "annotation_id": "NM_024"
+        },
+        {
+            "decision": "B12 DEFICIENCY ANEMIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2055,
+            "end_offset": 2076,
+            "annotation_id": "NM_025"
+        },
+        {
+            "decision": "BLADDER CANCER",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2077,
+            "end_offset": 2091,
+            "annotation_id": "NM_026"
+        },
+        {
+            "decision": "CERVICAL SPONDYLOSIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2092,
+            "end_offset": 2112,
+            "annotation_id": "NM_027"
+        },
+        {
+            "decision": "CHRONIC RENAL FAILURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2113,
+            "end_offset": 2134,
+            "annotation_id": "NM_028"
+        },
+        {
+            "decision": "GASTROESOPHAGEAL REFLUX",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2135,
+            "end_offset": 2158,
+            "annotation_id": "NM_029"
+        },
+        {
+            "decision": "HERNIATED DISC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2159,
+            "end_offset": 2173,
+            "annotation_id": "NM_030"
+        },
+        {
+            "decision": "HYPERCHOLESTEROLEMIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2174,
+            "end_offset": 2194,
+            "annotation_id": "NM_031"
+        },
+        {
+            "decision": "HYPERTENSION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2195,
+            "end_offset": 2207,
+            "annotation_id": "NM_032"
+        },
+        {
+            "decision": "HYPOTHYROIDISM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2208,
+            "end_offset": 2222,
+            "annotation_id": "NM_033"
+        },
+        {
+            "decision": "MGUS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2223,
+            "end_offset": 2227,
+            "annotation_id": "NM_034"
+        },
+        {
+            "decision": "MITRAL VALVE PROLAPSE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2228,
+            "end_offset": 2249,
+            "annotation_id": "NM_035"
+        },
+        {
+            "decision": "PROCTITIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2250,
+            "end_offset": 2259,
+            "annotation_id": "NM_036"
+        },
+        {
+            "decision": "PROSTATE CANCER",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2260,
+            "end_offset": 2275,
+            "annotation_id": "NM_037"
+        },
+        {
+            "decision": "R SHOULDER DJD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2276,
+            "end_offset": 2290,
+            "annotation_id": "NM_038"
+        },
+        {
+            "decision": "TRANSIENT ISCHEMIC ATTACK",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2291,
+            "end_offset": 2316,
+            "annotation_id": "NM_039"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2506,
+            "end_offset": 2549,
+            "annotation_id": "NM_040"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2550,
+            "end_offset": 2609,
+            "annotation_id": "NM_041"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2610,
+            "end_offset": 2648,
+            "annotation_id": "NM_042"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2649,
+            "end_offset": 2719,
+            "annotation_id": "NM_043"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2720,
+            "end_offset": 2787,
+            "annotation_id": "NM_044"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2788,
+            "end_offset": 2867,
+            "annotation_id": "NM_045"
+        },
+        {
+            "decision": "GU: no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2868,
+            "end_offset": 2880,
+            "annotation_id": "NM_046"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2881,
+            "end_offset": 2948,
+            "annotation_id": "NM_047"
+        },
+        {
+            "decision": "Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2949,
+            "end_offset": 3098,
+            "annotation_id": "NM_048"
+        },
+        {
+            "decision": "[**2153-1-5**] 12:03PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.018",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3468,
+            "end_offset": 3557,
+            "annotation_id": "NM_049"
+        },
+        {
+            "decision": "[**2153-1-4**] 08:25PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4214,
+            "end_offset": 4303,
+            "annotation_id": "NM_050"
+        },
+        {
+            "decision": "[**2153-1-4**] 08:25PM URINE  RBC-1 WBC-10* BACTERIA-MANY YEAST-NONE EPI-0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4304,
+            "end_offset": 4378,
+            "annotation_id": "NM_051"
+        },
+        {
+            "decision": "[**2153-1-4**] 08:25PM URINE  MUCOUS-RARE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4379,
+            "end_offset": 4420,
+            "annotation_id": "NM_052"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4781,
+            "end_offset": 4800,
+            "annotation_id": "NM_053"
+        },
+        {
+            "decision": "systolic heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4802,
+            "end_offset": 4824,
+            "annotation_id": "NM_054"
+        },
+        {
+            "decision": "and recent medically treated cholecystitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4825,
+            "end_offset": 4867,
+            "annotation_id": "NM_055"
+        },
+        {
+            "decision": "recurrent cholecystitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4887,
+            "end_offset": 4910,
+            "annotation_id": "NM_056"
+        },
+        {
+            "decision": "that was treated with percutaneous drainage ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4911,
+            "end_offset": 4954,
+            "annotation_id": "NM_057"
+        },
+        {
+            "decision": "and antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 4955,
+            "end_offset": 4970,
+            "annotation_id": "NM_058"
+        },
+        {
+            "decision": "complicated by delirium and mild pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4997,
+            "end_offset": 5045,
+            "annotation_id": "NM_059"
+        },
+        {
+            "decision": "ACUTE CHOLECYSTITIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5064,
+            "end_offset": 5083,
+            "annotation_id": "NM_060"
+        },
+        {
+            "decision": "normal LFTs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5199,
+            "end_offset": 5210,
+            "annotation_id": "NM_061"
+        },
+        {
+            "decision": "RUQ ultrasound ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5212,
+            "end_offset": 5226,
+            "annotation_id": "NM_062"
+        },
+        {
+            "decision": "demonstrate dacute cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5227,
+            "end_offset": 5259,
+            "annotation_id": "NM_063"
+        },
+        {
+            "decision": "Suurgery was consulted ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5261,
+            "end_offset": 5283,
+            "annotation_id": "NM_064"
+        },
+        {
+            "decision": "and recommended percutaneous drainage of his gallbladder which was carried out by IR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5284,
+            "end_offset": 5368,
+            "annotation_id": "NM_065"
+        },
+        {
+            "decision": "Initial pus was drained from the gallbladder which transioned to bilious drainage",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5370,
+            "end_offset": 5451,
+            "annotation_id": "NM_066"
+        },
+        {
+            "decision": "Vancomycin and Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 5497,
+            "end_offset": 5517,
+            "annotation_id": "NM_067"
+        },
+        {
+            "decision": ". Culture data from the biliary drain grew ecoli",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5529,
+            "end_offset": 5575,
+            "annotation_id": "NM_068"
+        },
+        {
+            "decision": "sensitive to ciprofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5576,
+            "end_offset": 5602,
+            "annotation_id": "NM_069"
+        },
+        {
+            "decision": "Antibiotic therapy was changed to ciprofloxacin and metronidazole to include anaerobic coverage for a total of 14 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5604,
+            "end_offset": 5722,
+            "annotation_id": "NM_070"
+        },
+        {
+            "decision": "biliary drain was kept in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5729,
+            "end_offset": 5760,
+            "annotation_id": "NM_071"
+        },
+        {
+            "decision": "CONGESTIVE HEART FAILURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5890,
+            "end_offset": 5914,
+            "annotation_id": "NM_072"
+        },
+        {
+            "decision": "initial chest xray ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5958,
+            "end_offset": 5976,
+            "annotation_id": "NM_073"
+        },
+        {
+            "decision": "was concerning for right lower lobe pneumonia that could not be ruled out in the setting of pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5977,
+            "end_offset": 6084,
+            "annotation_id": "NM_074"
+        },
+        {
+            "decision": "initially on vancomycin and zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6093,
+            "end_offset": 6126,
+            "annotation_id": "NM_075"
+        },
+        {
+            "decision": "admission to the intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 6130,
+            "end_offset": 6166,
+            "annotation_id": "NM_076"
+        },
+        {
+            "decision": "diuresis was initially held",
+            "category": "Category 5: Drug related",
+            "start_offset": 6175,
+            "end_offset": 6202,
+            "annotation_id": "NM_077"
+        },
+        {
+            "decision": "secondary to concern for acute kidney injury his pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6206,
+            "end_offset": 6270,
+            "annotation_id": "NM_078"
+        },
+        {
+            "decision": "given IV lasix 20mg twice and restarted on his home dose of lasix 20mg daily.  This dose was uptitrated to 40mg daily which appeared to better control his volume status and improved his breathing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6325,
+            "end_offset": 6520,
+            "annotation_id": "NM_079"
+        },
+        {
+            "decision": "echo",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6525,
+            "end_offset": 6529,
+            "annotation_id": "NM_080"
+        },
+        {
+            "decision": "demonstrated symmetric left ventricular hypertrophy with cavity dilation and global systolic dysfunction suggestive of a non-ischemic pattern with EF 25%. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6530,
+            "end_offset": 6682,
+            "annotation_id": "NM_081"
+        },
+        {
+            "decision": "low dose ace-inhibitor (lisinopril 5mg) was started and he was continued on an aspirin and beta blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 6687,
+            "end_offset": 6790,
+            "annotation_id": "NM_082"
+        },
+        {
+            "decision": "repeat chest xray",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6870,
+            "end_offset": 6887,
+            "annotation_id": "NM_083"
+        },
+        {
+            "decision": "after diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6888,
+            "end_offset": 6902,
+            "annotation_id": "NM_084"
+        },
+        {
+            "decision": "revealed no evidence of pneumonia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6903,
+            "end_offset": 6936,
+            "annotation_id": "NM_085"
+        },
+        {
+            "decision": "URINARY TRACT INFECTION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7013,
+            "end_offset": 7036,
+            "annotation_id": "NM_086"
+        },
+        {
+            "decision": "urine sample from admission was concerning for infection and culture grew ecoli ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7040,
+            "end_offset": 7119,
+            "annotation_id": "NM_087"
+        },
+        {
+            "decision": "sensitive to ciprofloxacin. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7120,
+            "end_offset": 7146,
+            "annotation_id": "NM_088"
+        },
+        {
+            "decision": "repeat UA prior to discharge was clear of infection.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7150,
+            "end_offset": 7201,
+            "annotation_id": "NM_089"
+        },
+        {
+            "decision": "ATRIAL FIBRILLATION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7205,
+            "end_offset": 7224,
+            "annotation_id": "NM_090"
+        },
+        {
+            "decision": "metoprolol and anticoagulated with aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7278,
+            "end_offset": 7320,
+            "annotation_id": "NM_091"
+        },
+        {
+            "decision": "non sustained ventricular tachycardia, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7410,
+            "end_offset": 7447,
+            "annotation_id": "NM_092"
+        },
+        {
+            "decision": "metoprolol was incrased to 50mg three times a day ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7462,
+            "end_offset": 7511,
+            "annotation_id": "NM_093"
+        },
+        {
+            "decision": "with improvement in the frequency of NSVT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7512,
+            "end_offset": 7553,
+            "annotation_id": "NM_094"
+        },
+        {
+            "decision": "Cardiology was consulted and agreed with management changes",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7600,
+            "end_offset": 7659,
+            "annotation_id": "NM_095"
+        },
+        {
+            "decision": "on domperidone in the past",
+            "category": "Category 5: Drug related",
+            "start_offset": 7700,
+            "end_offset": 7726,
+            "annotation_id": "NM_096"
+        },
+        {
+            "decision": "DELIRIUM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7768,
+            "end_offset": 7776,
+            "annotation_id": "NM_097"
+        },
+        {
+            "decision": "noted to have progressive delirium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7810,
+            "end_offset": 7844,
+            "annotation_id": "NM_098"
+        },
+        {
+            "decision": "Repeat infectious work-up including UA, chest xray and cdiff toxin were negative for infection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8030,
+            "end_offset": 8124,
+            "annotation_id": "NM_099"
+        },
+        {
+            "decision": "electrolytes were stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8130,
+            "end_offset": 8154,
+            "annotation_id": "NM_100"
+        },
+        {
+            "decision": "A speech and swallow evaluation recommended nectar thickened liquids with suggested re-evaluation when his delirium clears.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8368,
+            "end_offset": 8490,
+            "annotation_id": "NM_101"
+        },
+        {
+            "decision": "CHRONIC KIDNEY DISEASE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8510,
+            "end_offset": 8532,
+            "annotation_id": "NM_102"
+        },
+        {
+            "decision": "HYPERTENSION:  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8648,
+            "end_offset": 8660,
+            "annotation_id": "NM_103"
+        },
+        {
+            "decision": "Furosemide increased to 40mg PO",
+            "category": "Category 5: Drug related",
+            "start_offset": 8680,
+            "end_offset": 8711,
+            "annotation_id": "NM_104"
+        },
+        {
+            "decision": "Amlodipine was discontined in favor of lisinopril 5mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8714,
+            "end_offset": 8767,
+            "annotation_id": "NM_105"
+        },
+        {
+            "decision": "Hydralazine was held on discharge given normotensive",
+            "category": "Category 5: Drug related",
+            "start_offset": 8769,
+            "end_offset": 8821,
+            "annotation_id": "NM_106"
+        },
+        {
+            "decision": "should discuss restarting this medication with his primary care physician after discharge.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8826,
+            "end_offset": 8915,
+            "annotation_id": "NM_107"
+        },
+        {
+            "decision": "HYPOTHYROID:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8919,
+            "end_offset": 8930,
+            "annotation_id": "NM_108"
+        },
+        {
+            "decision": "continued on levothyroxine",
+            "category": "Category 5: Drug related",
+            "start_offset": 8939,
+            "end_offset": 8965,
+            "annotation_id": "NM_109"
+        },
+        {
+            "decision": "continued on vitamin D",
+            "category": "Category 5: Drug related",
+            "start_offset": 8988,
+            "end_offset": 9010,
+            "annotation_id": "NM_110"
+        },
+        {
+            "decision": "DYSLIPIDEMIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9014,
+            "end_offset": 9026,
+            "annotation_id": "NM_111"
+        },
+        {
+            "decision": "continued on crestor 20mg daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9035,
+            "end_offset": 9066,
+            "annotation_id": "NM_112"
+        },
+        {
+            "decision": "DEPRESSION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9070,
+            "end_offset": 9080,
+            "annotation_id": "NM_113"
+        },
+        {
+            "decision": "continued on wellbutrin 300mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9089,
+            "end_offset": 9124,
+            "annotation_id": "NM_114"
+        },
+        {
+            "decision": "BENIGN PROSTATIC HYPERTROPHY",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9128,
+            "end_offset": 9156,
+            "annotation_id": "NM_115"
+        },
+        {
+            "decision": "continued on flomax.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9165,
+            "end_offset": 9184,
+            "annotation_id": "NM_116"
+        },
+        {
+            "decision": "Secondary to frequent falls",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9194,
+            "end_offset": 9221,
+            "annotation_id": "NM_117"
+        },
+        {
+            "decision": "continued on tylenol and gabapentin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9230,
+            "end_offset": 9265,
+            "annotation_id": "NM_118"
+        },
+        {
+            "decision": "INSOMNIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9269,
+            "end_offset": 9277,
+            "annotation_id": "NM_119"
+        },
+        {
+            "decision": "Lunesta was held on admission and should be reconsidered on discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 9279,
+            "end_offset": 9348,
+            "annotation_id": "NM_120"
+        },
+        {
+            "decision": "GERD:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9352,
+            "end_offset": 9356,
+            "annotation_id": "NM_121"
+        },
+        {
+            "decision": "continued on ranitidine and nexium",
+            "category": "Category 5: Drug related",
+            "start_offset": 9365,
+            "end_offset": 9399,
+            "annotation_id": "NM_122"
+        },
+        {
+            "decision": "- Continue ciprofloxacin and metronidazole for 8 additional days",
+            "category": "Category 5: Drug related",
+            "start_offset": 9426,
+            "end_offset": 9488,
+            "annotation_id": "NM_123"
+        },
+        {
+            "decision": "- Primary care follow-up",
+            "category": "Category 1: Contact related",
+            "start_offset": 9491,
+            "end_offset": 9513,
+            "annotation_id": "NM_124"
+        },
+        {
+            "decision": "as she has started lasix and lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 9560,
+            "end_offset": 9599,
+            "annotation_id": "NM_125"
+        },
+        {
+            "decision": "tylenol #3 daily prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9640,
+            "end_offset": 9660,
+            "annotation_id": "NM_126"
+        },
+        {
+            "decision": "furosemide 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9661,
+            "end_offset": 9682,
+            "annotation_id": "NM_127"
+        },
+        {
+            "decision": "amlodipine 5mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9683,
+            "end_offset": 9703,
+            "annotation_id": "NM_128"
+        },
+        {
+            "decision": "bupropion 300mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9704,
+            "end_offset": 9725,
+            "annotation_id": "NM_129"
+        },
+        {
+            "decision": "calcitriol .25mcg",
+            "category": "Category 5: Drug related",
+            "start_offset": 9726,
+            "end_offset": 9743,
+            "annotation_id": "NM_130"
+        },
+        {
+            "decision": "domperidone 5mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9744,
+            "end_offset": 9765,
+            "annotation_id": "NM_131"
+        },
+        {
+            "decision": "gabapentin 900mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9766,
+            "end_offset": 9788,
+            "annotation_id": "NM_132"
+        },
+        {
+            "decision": "esmeprasole 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9789,
+            "end_offset": 9811,
+            "annotation_id": "NM_133"
+        },
+        {
+            "decision": "eszopiclone (lunesta) 2mg hs",
+            "category": "Category 5: Drug related",
+            "start_offset": 9812,
+            "end_offset": 9840,
+            "annotation_id": "NM_134"
+        },
+        {
+            "decision": "gabapentin 800mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9841,
+            "end_offset": 9863,
+            "annotation_id": "NM_135"
+        },
+        {
+            "decision": "hydralazine 25mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 9864,
+            "end_offset": 9897,
+            "annotation_id": "NM_136"
+        },
+        {
+            "decision": "levothyroxine 112 mcg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9898,
+            "end_offset": 9925,
+            "annotation_id": "NM_137"
+        },
+        {
+            "decision": "metoprolol succinate 50mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 9926,
+            "end_offset": 9968,
+            "annotation_id": "NM_138"
+        },
+        {
+            "decision": "ranitidine 150mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9969,
+            "end_offset": 9991,
+            "annotation_id": "NM_139"
+        },
+        {
+            "decision": "rosuvastatin 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9992,
+            "end_offset": 10015,
+            "annotation_id": "NM_140"
+        },
+        {
+            "decision": "tamsulosin .4mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10016,
+            "end_offset": 10037,
+            "annotation_id": "NM_141"
+        },
+        {
+            "decision": "asa 325",
+            "category": "Category 5: Drug related",
+            "start_offset": 10038,
+            "end_offset": 10045,
+            "annotation_id": "NM_142"
+        },
+        {
+            "decision": "vitamin d",
+            "category": "Category 5: Drug related",
+            "start_offset": 10046,
+            "end_offset": 10055,
+            "annotation_id": "NM_143"
+        },
+        {
+            "decision": "b12 1000mcg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10056,
+            "end_offset": 10073,
+            "annotation_id": "NM_144"
+        },
+        {
+            "decision": "1. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10099,
+            "end_offset": 10188,
+            "annotation_id": "NM_145"
+        },
+        {
+            "decision": "2. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10190,
+            "end_offset": 10252,
+            "annotation_id": "NM_146"
+        },
+        {
+            "decision": "3. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10256,
+            "end_offset": 10321,
+            "annotation_id": "NM_147"
+        },
+        {
+            "decision": "4. esomeprazole magnesium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10323,
+            "end_offset": 10443,
+            "annotation_id": "NM_148"
+        },
+        {
+            "decision": "5. eszopiclone 2 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10445,
+            "end_offset": 10528,
+            "annotation_id": "NM_149"
+        },
+        {
+            "decision": "6. levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10530,
+            "end_offset": 10597,
+            "annotation_id": "NM_150"
+        },
+        {
+            "decision": "7. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10600,
+            "end_offset": 10664,
+            "annotation_id": "NM_151"
+        },
+        {
+            "decision": "8. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10667,
+            "end_offset": 10772,
+            "annotation_id": "NM_152"
+        },
+        {
+            "decision": "9. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10775,
+            "end_offset": 10835,
+            "annotation_id": "NM_153"
+        },
+        {
+            "decision": "10. Vitamin D 2,000 unit Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10838,
+            "end_offset": 10905,
+            "annotation_id": "NM_154"
+        },
+        {
+            "decision": "11. cyanocobalamin (vitamin B-12) 1,000 mcg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 10907,
+            "end_offset": 10991,
+            "annotation_id": "NM_155"
+        },
+        {
+            "decision": "12. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 8 days: day 1 = [**1-5**] (total course 14 days).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10993,
+            "end_offset": 11121,
+            "annotation_id": "NM_156"
+        },
+        {
+            "decision": "13. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 8 days: day 1 = [**1-5**] (total 14 days).",
+            "category": "Category 5: Drug related",
+            "start_offset": 11124,
+            "end_offset": 11243,
+            "annotation_id": "NM_157"
+        },
+        {
+            "decision": "14. bupropion HCl 300 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11246,
+            "end_offset": 11357,
+            "annotation_id": "NM_158"
+        },
+        {
+            "decision": "15. gabapentin 800 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11359,
+            "end_offset": 11421,
+            "annotation_id": "NM_159"
+        },
+        {
+            "decision": "16. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: Three (3) Tablet Extended Release 24 hr PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11424,
+            "end_offset": 11543,
+            "annotation_id": "NM_160"
+        },
+        {
+            "decision": "17. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11545,
+            "end_offset": 11605,
+            "annotation_id": "NM_161"
+        },
+        {
+            "decision": "Acute cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11758,
+            "end_offset": 11777,
+            "annotation_id": "NM_162"
+        },
+        {
+            "decision": "Urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11778,
+            "end_offset": 11801,
+            "annotation_id": "NM_163"
+        },
+        {
+            "decision": "Atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11802,
+            "end_offset": 11821,
+            "annotation_id": "NM_164"
+        },
+        {
+            "decision": "Decompensated systolic heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11822,
+            "end_offset": 11858,
+            "annotation_id": "NM_165"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11859,
+            "end_offset": 11871,
+            "annotation_id": "NM_166"
+        },
+        {
+            "decision": "Chronic kidney disease ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11872,
+            "end_offset": 11894,
+            "annotation_id": "NM_167"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11918,
+            "end_offset": 11951,
+            "annotation_id": "NM_168"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11953,
+            "end_offset": 11998,
+            "annotation_id": "NM_169"
+        },
+        {
+            "decision": "Activity Status: Out of Bed with assistance to chair or wheelchai",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12000,
+            "end_offset": 12066,
+            "annotation_id": "NM_170"
+        },
+        {
+            "decision": "The reason was that you had inflammation of your galbladder and urinary tact infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12180,
+            "end_offset": 12266,
+            "annotation_id": "NM_171"
+        },
+        {
+            "decision": "The tube was placed into your gallblader so that the bile can drain",
+            "category": "Category 11: Other",
+            "start_offset": 12268,
+            "end_offset": 12335,
+            "annotation_id": "NM_172"
+        },
+        {
+            "decision": "We gave you antibiotics and you recovered. .",
+            "category": "Category 5: Drug related",
+            "start_offset": 12337,
+            "end_offset": 12379,
+            "annotation_id": "NM_173"
+        },
+        {
+            "decision": "The tube should stay in your gallbladder",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12382,
+            "end_offset": 12422,
+            "annotation_id": "NM_174"
+        },
+        {
+            "decision": "Wou will see the surgeon on [**1-26**] and they will give you further instructions.",
+            "category": "Category 1: Contact related",
+            "start_offset": 12424,
+            "end_offset": 12506,
+            "annotation_id": "NM_175"
+        },
+        {
+            "decision": "CONTINUE ciprofloxacin 500 mg tbl. twice a day for 8 more days",
+            "category": "Category 5: Drug related",
+            "start_offset": 12566,
+            "end_offset": 12628,
+            "annotation_id": "NM_176"
+        },
+        {
+            "decision": "CONTINUE metronidazole 500 mg tbl. three times a day for 8 more days",
+            "category": "Category 5: Drug related",
+            "start_offset": 12629,
+            "end_offset": 12697,
+            "annotation_id": "NM_177"
+        },
+        {
+            "decision": "CHANGE furosemide 20 mg po daily to furosemide 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12698,
+            "end_offset": 12756,
+            "annotation_id": "NM_178"
+        },
+        {
+            "decision": "DISCONTINUE dronedorol",
+            "category": "Category 5: Drug related",
+            "start_offset": 12757,
+            "end_offset": 12779,
+            "annotation_id": "NM_179"
+        },
+        {
+            "decision": "DISCONTINUE amlodipine 5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12780,
+            "end_offset": 12813,
+            "annotation_id": "NM_180"
+        },
+        {
+            "decision": "START lisinopril 5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12814,
+            "end_offset": 12841,
+            "annotation_id": "NM_181"
+        },
+        {
+            "decision": "DISCONTINUE hydralazine 25 mg twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 12842,
+            "end_offset": 12883,
+            "annotation_id": "NM_182"
+        },
+        {
+            "decision": "DISCONTINUE ranitidine 150 mg daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12884,
+            "end_offset": 12919,
+            "annotation_id": "NM_183"
+        },
+        {
+            "decision": "Department: GENERAL SURGERY/[**Hospital Unit Name 2193**] When: FRIDAY [**2153-1-26**] at 10:15 AM With: ACUTE CARE CLINIC [**Telephone/Fax (1) 600**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 12944,
+            "end_offset": 13257,
+            "annotation_id": "NM_184"
+        },
+        {
+            "decision": "Department: WEST [**Hospital 2002**] CLINIC When: WEDNESDAY [**2153-2-7**] at 11:30 AM With: [**First Name11 (Name Pattern1) 177**] [**Last Name (NamePattern4) 720**], M.D. [**Telephone/Fax (1) 721**] Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 13260,
+            "end_offset": 13625,
+            "annotation_id": "NM_185"
+        },
+        {
+            "decision": "Department: WEST [**Hospital 2002**] CLINIC When: WEDNESDAY [**2153-3-28**] at 11:30 AM With: [**First Name11 (Name Pattern1) 177**] [**Last Name (NamePattern4) 720**], M.D. [**Telephone/Fax (1) 721**] Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 13628,
+            "end_offset": 13994,
+            "annotation_id": "NM_186"
+        }
+    ]
+}

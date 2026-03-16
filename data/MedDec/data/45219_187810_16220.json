@@ -1,0 +1,636 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "45219_187810_16220",
+    "annotations": [
+        {
+            "decision": "Fever and altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 177,
+            "end_offset": 208,
+            "annotation_id": "LP_000"
+        },
+        {
+            "decision": "h/o Diastolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 345,
+            "end_offset": 362,
+            "annotation_id": "LP_001"
+        },
+        {
+            "decision": "fatigue, altered mental status, cough, SOB, and tachypnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 378,
+            "end_offset": 435,
+            "annotation_id": "LP_002"
+        },
+        {
+            "decision": "(DNR/DNI)",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 438,
+            "end_offset": 445,
+            "annotation_id": "LP_003"
+        },
+        {
+            "decision": "he had been admitted with diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 523,
+            "end_offset": 557,
+            "annotation_id": "LP_004"
+        },
+        {
+            "decision": "He had been doing relatively well with the exception of decreased mobility and weight gain (\"dry weight\" around 125 lbs and now 156lbs)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 560,
+            "end_offset": 694,
+            "annotation_id": "LP_005"
+        },
+        {
+            "decision": "initially febrile and with his presentation of cough and SOB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1684,
+            "end_offset": 1744,
+            "annotation_id": "LP_006"
+        },
+        {
+            "decision": "vanc / cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 1758,
+            "end_offset": 1773,
+            "annotation_id": "LP_007"
+        },
+        {
+            "decision": "noscomial pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1778,
+            "end_offset": 1797,
+            "annotation_id": "LP_008"
+        },
+        {
+            "decision": "He was noted to be AOx0-1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1843,
+            "end_offset": 1868,
+            "annotation_id": "LP_009"
+        },
+        {
+            "decision": "He was guiac negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1940,
+            "end_offset": 1961,
+            "annotation_id": "LP_010"
+        },
+        {
+            "decision": "CXR with bilateraly pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1964,
+            "end_offset": 2001,
+            "annotation_id": "LP_011"
+        },
+        {
+            "decision": "abd distention ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2025,
+            "end_offset": 2039,
+            "annotation_id": "LP_012"
+        },
+        {
+            "decision": "foley was placed, 1 liter of urine was relieved",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2046,
+            "end_offset": 2093,
+            "annotation_id": "LP_013"
+        },
+        {
+            "decision": "abd distention improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2102,
+            "end_offset": 2125,
+            "annotation_id": "LP_014"
+        },
+        {
+            "decision": "500cc NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2134,
+            "end_offset": 2142,
+            "annotation_id": "LP_015"
+        },
+        {
+            "decision": "Diastolic Congestive Heart Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2178,
+            "end_offset": 2212,
+            "annotation_id": "LP_016"
+        },
+        {
+            "decision": "Chronic Renal Failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2237,
+            "end_offset": 2258,
+            "annotation_id": "LP_017"
+        },
+        {
+            "decision": "baseline Cr 1.5 in [**5-20**], but lately has been worse 2.5-3.0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2260,
+            "end_offset": 2324,
+            "annotation_id": "LP_018"
+        },
+        {
+            "decision": "cryoglobuminemia type 2 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2325,
+            "end_offset": 2348,
+            "annotation_id": "LP_019"
+        },
+        {
+            "decision": "treated with Valtrex and prednisone",
+            "category": "Category 5: Drug related",
+            "start_offset": 2450,
+            "end_offset": 2485,
+            "annotation_id": "LP_020"
+        },
+        {
+            "decision": "Moderate C4-C5 spinal stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2486,
+            "end_offset": 2516,
+            "annotation_id": "LP_021"
+        },
+        {
+            "decision": "DJD of spine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2517,
+            "end_offset": 2529,
+            "annotation_id": "LP_022"
+        },
+        {
+            "decision": "BPH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2530,
+            "end_offset": 2533,
+            "annotation_id": "LP_023"
+        },
+        {
+            "decision": "prostate surgery 30years ago",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2535,
+            "end_offset": 2563,
+            "annotation_id": "LP_024"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2564,
+            "end_offset": 2576,
+            "annotation_id": "LP_025"
+        },
+        {
+            "decision": "anemia, likely of CKD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2577,
+            "end_offset": 2598,
+            "annotation_id": "LP_026"
+        },
+        {
+            "decision": "Biliary sludge ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2599,
+            "end_offset": 2613,
+            "annotation_id": "LP_027"
+        },
+        {
+            "decision": "s/p ERCP [**8-20**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2614,
+            "end_offset": 2633,
+            "annotation_id": "LP_028"
+        },
+        {
+            "decision": "NAD, AOx0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3016,
+            "end_offset": 3025,
+            "annotation_id": "LP_029"
+        },
+        {
+            "decision": "EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3033,
+            "end_offset": 3105,
+            "annotation_id": "LP_030"
+        },
+        {
+            "decision": "JVP 11cm, no cervical lymphadenopathy, trachea midline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3112,
+            "end_offset": 3166,
+            "annotation_id": "LP_031"
+        },
+        {
+            "decision": "RRR, [**2-17**] HSM at LLSB without radiation, soft heart sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3172,
+            "end_offset": 3236,
+            "annotation_id": "LP_032"
+        },
+        {
+            "decision": "Lungs w/ scattered ronchi and decreased breath sounds at the bases, no wheezes or rales",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3243,
+            "end_offset": 3330,
+            "annotation_id": "LP_033"
+        },
+        {
+            "decision": "Soft, NT, ND, +BS, no HSM, no masses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3336,
+            "end_offset": 3372,
+            "annotation_id": "LP_034"
+        },
+        {
+            "decision": "3+ pitting pedal edema to lower thighs bilat symmetrical",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3378,
+            "end_offset": 3434,
+            "annotation_id": "LP_035"
+        },
+        {
+            "decision": "Alert, responds to verbal stimuli, follows commands and moving all 4 extremities.  PERRL, EOMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3442,
+            "end_offset": 3536,
+            "annotation_id": "LP_036"
+        },
+        {
+            "decision": "Resp gram stain: >25PMNs, GPC clusters/pairs, GPR rods Cx oropharyngeal flora, staph aures coag pos (MSSA)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3559,
+            "end_offset": 3664,
+            "annotation_id": "LP_037"
+        },
+        {
+            "decision": "Blood Cx [**10-7**] and [**10-8**] NTD",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3667,
+            "end_offset": 3705,
+            "annotation_id": "LP_038"
+        },
+        {
+            "decision": "Abdominal x-ray [**10-7**]: IMPRESSION: Question mildly dilated loops of small bowel in the left mid abdomen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3708,
+            "end_offset": 3816,
+            "annotation_id": "LP_039"
+        },
+        {
+            "decision": "CXR [**10-7**]: large b/l pleural effusion c hazy opacities over mid/lower lung fields c/w Atx vs mass effect vs PNA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3883,
+            "end_offset": 3999,
+            "annotation_id": "LP_040"
+        },
+        {
+            "decision": "CXR [**10-9**]: unchanged b/l pleural effusions. minimal decrease bibasilar bronchograms",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4001,
+            "end_offset": 4089,
+            "annotation_id": "LP_041"
+        },
+        {
+            "decision": "progressive CKD, diastolic heart failure, BPH with LUTS, multiple recent hospitalizations with decrease in functional capacity, now living in hospice facility, admitted with 2weeks of SOB, 1 week of NP[**MD Number(3) **]/rhonchi, fevers, depressed MS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4154,
+            "end_offset": 4404,
+            "annotation_id": "LP_042"
+        },
+        {
+            "decision": "Febrile in ER, hypoxic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4406,
+            "end_offset": 4428,
+            "annotation_id": "LP_043"
+        },
+        {
+            "decision": "required NRB, CXR with b/l effusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4430,
+            "end_offset": 4466,
+            "annotation_id": "LP_044"
+        },
+        {
+            "decision": "possible PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4471,
+            "end_offset": 4483,
+            "annotation_id": "LP_045"
+        },
+        {
+            "decision": "morphine/ativan ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4558,
+            "end_offset": 4573,
+            "annotation_id": "LP_046"
+        },
+        {
+            "decision": "Vanc/Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 4650,
+            "end_offset": 4660,
+            "annotation_id": "LP_047"
+        },
+        {
+            "decision": "mental status improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4662,
+            "end_offset": 4684,
+            "annotation_id": "LP_048"
+        },
+        {
+            "decision": "transfered to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 4713,
+            "end_offset": 4736,
+            "annotation_id": "LP_049"
+        },
+        {
+            "decision": "Sputum culture grew MSSA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4762,
+            "end_offset": 4786,
+            "annotation_id": "LP_050"
+        },
+        {
+            "decision": "abx were changed to augmentin for total 7day course",
+            "category": "Category 5: Drug related",
+            "start_offset": 4794,
+            "end_offset": 4845,
+            "annotation_id": "LP_051"
+        },
+        {
+            "decision": "remarkably better, weaned off O2, tolerating PO, A&Ox3, getting up to chair.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4868,
+            "end_offset": 4943,
+            "annotation_id": "LP_052"
+        },
+        {
+            "decision": "IV Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 4995,
+            "end_offset": 5003,
+            "annotation_id": "LP_053"
+        },
+        {
+            "decision": "his Lasix was titrated up to 100mg IV bid and Zaroxolyn was added",
+            "category": "Category 5: Drug related",
+            "start_offset": 5041,
+            "end_offset": 5106,
+            "annotation_id": "LP_054"
+        },
+        {
+            "decision": "He had a Foley catheter that was removed on the day of discharge and he voided",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5238,
+            "end_offset": 5316,
+            "annotation_id": "LP_055"
+        },
+        {
+            "decision": "urinary retention ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5357,
+            "end_offset": 5374,
+            "annotation_id": "LP_056"
+        },
+        {
+            "decision": "Foley should be replaced ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5381,
+            "end_offset": 5405,
+            "annotation_id": "LP_057"
+        },
+        {
+            "decision": "His Toprol XL was stopped on admission, and he was started on metoprolol at low dose on the floor",
+            "category": "Category 5: Drug related",
+            "start_offset": 5420,
+            "end_offset": 5517,
+            "annotation_id": "LP_058"
+        },
+        {
+            "decision": "Palliative care was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5615,
+            "end_offset": 5644,
+            "annotation_id": "LP_059"
+        },
+        {
+            "decision": "Lasix 80mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6101,
+            "end_offset": 6118,
+            "annotation_id": "LP_060"
+        },
+        {
+            "decision": "Toprol XL 100mg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6119,
+            "end_offset": 6143,
+            "annotation_id": "LP_061"
+        },
+        {
+            "decision": "Amlodipine 5 mg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6144,
+            "end_offset": 6168,
+            "annotation_id": "LP_062"
+        },
+        {
+            "decision": "Cyanocobalamin 1000 mcg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6169,
+            "end_offset": 6201,
+            "annotation_id": "LP_063"
+        },
+        {
+            "decision": "Furosemide 10 mg/mL Solution Sig: One Hundred (100) mg Injection [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6230,
+            "end_offset": 6326,
+            "annotation_id": "LP_064"
+        },
+        {
+            "decision": "Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6332,
+            "end_offset": 6456,
+            "annotation_id": "LP_065"
+        },
+        {
+            "decision": "Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6461,
+            "end_offset": 6541,
+            "annotation_id": "LP_066"
+        },
+        {
+            "decision": "Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 3 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 6546,
+            "end_offset": 6647,
+            "annotation_id": "LP_067"
+        },
+        {
+            "decision": "Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6652,
+            "end_offset": 6740,
+            "annotation_id": "LP_068"
+        },
+        {
+            "decision": "Metolazone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6746,
+            "end_offset": 6804,
+            "annotation_id": "LP_069"
+        },
+        {
+            "decision": "Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6811,
+            "end_offset": 6924,
+            "annotation_id": "LP_070"
+        },
+        {
+            "decision": "needed for pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6929,
+            "end_offset": 6944,
+            "annotation_id": "LP_071"
+        },
+        {
+            "decision": "Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: Five (5) ML PO Q6H (every 6 hours) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6949,
+            "end_offset": 7048,
+            "annotation_id": "LP_072"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7053,
+            "end_offset": 7127,
+            "annotation_id": "LP_073"
+        },
+        {
+            "decision": "Allevyn Dressing 3 X 3   Bandage Sig: One (1) bandage Topical once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7134,
+            "end_offset": 7206,
+            "annotation_id": "LP_074"
+        },
+        {
+            "decision": "Aloe Vesta 2-n-1 Protective     Ointment Sig: One (1) application Topical once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7212,
+            "end_offset": 7296,
+            "annotation_id": "LP_075"
+        },
+        {
+            "decision": "Aspiration Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7410,
+            "end_offset": 7430,
+            "annotation_id": "LP_076"
+        },
+        {
+            "decision": "Acute on Chronic Diastolic heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7431,
+            "end_offset": 7471,
+            "annotation_id": "LP_077"
+        },
+        {
+            "decision": "acute urinary retention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7472,
+            "end_offset": 7495,
+            "annotation_id": "LP_078"
+        },
+        {
+            "decision": "Altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7496,
+            "end_offset": 7517,
+            "annotation_id": "LP_079"
+        },
+        {
+            "decision": "Deconditioning",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7518,
+            "end_offset": 7532,
+            "annotation_id": "LP_080"
+        },
+        {
+            "decision": "Chronic kidney disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7533,
+            "end_offset": 7555,
+            "annotation_id": "LP_081"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7579,
+            "end_offset": 7585,
+            "annotation_id": "LP_082"
+        },
+        {
+            "decision": "admitted for pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7621,
+            "end_offset": 7643,
+            "annotation_id": "LP_083"
+        },
+        {
+            "decision": "treated with antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 7648,
+            "end_offset": 7672,
+            "annotation_id": "LP_084"
+        },
+        {
+            "decision": "You were also admitted with worsening of your heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7674,
+            "end_offset": 7733,
+            "annotation_id": "LP_085"
+        },
+        {
+            "decision": "IV diuretics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7751,
+            "end_offset": 7763,
+            "annotation_id": "LP_086"
+        },
+        {
+            "decision": "You had some urinary retention when you first arrived",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7782,
+            "end_offset": 7835,
+            "annotation_id": "LP_087"
+        },
+        {
+            "decision": "If you have worsening difficulty breathing, fevers, chills, chest pain, or any other concerning symptoms, seek medical attention immediately",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7930,
+            "end_offset": 8070,
+            "annotation_id": "LP_088"
+        },
+        {
+            "decision": "You will be followed by the doctors [**First Name (Titles) **] [**Last Name (Titles) 100**] Rehab. Follow up with Dr. [**Last Name (STitle) 58**] [**Telephone/Fax (1) 3329**] if you are discharged from rehab.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8096,
+            "end_offset": 8303,
+            "annotation_id": "LP_089"
+        }
+    ]
+}

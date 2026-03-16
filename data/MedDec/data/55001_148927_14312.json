@@ -1,0 +1,1630 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "55001_148927_14312",
+    "annotations": [
+        {
+            "decision": "post VF arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 283,
+            "end_offset": 297,
+            "annotation_id": "NC_000"
+        },
+        {
+            "decision": "Intubation and extubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 337,
+            "end_offset": 362,
+            "annotation_id": "NC_001"
+        },
+        {
+            "decision": "Arterial line in the righ radial artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 363,
+            "end_offset": 402,
+            "annotation_id": "NC_002"
+        },
+        {
+            "decision": "Central venous line in the right internal jugular vein",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 403,
+            "end_offset": 457,
+            "annotation_id": "NC_003"
+        },
+        {
+            "decision": "PICC line ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 458,
+            "end_offset": 467,
+            "annotation_id": "NC_004"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 571,
+            "end_offset": 585,
+            "annotation_id": "NC_005"
+        },
+        {
+            "decision": "asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 587,
+            "end_offset": 593,
+            "annotation_id": "NC_006"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 595,
+            "end_offset": 605,
+            "annotation_id": "NC_007"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 607,
+            "end_offset": 611,
+            "annotation_id": "NC_008"
+        },
+        {
+            "decision": "ETOH abuse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 613,
+            "end_offset": 623,
+            "annotation_id": "NC_009"
+        },
+        {
+            "decision": "s/p VF arrest with return of spontaneous circulation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 643,
+            "end_offset": 695,
+            "annotation_id": "NC_010"
+        },
+        {
+            "decision": "transfer to [**Hospital1 **], ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1505,
+            "end_offset": 1533,
+            "annotation_id": "NC_011"
+        },
+        {
+            "decision": "CPR was given and AED applied, with shock x1 ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1535,
+            "end_offset": 1579,
+            "annotation_id": "NC_012"
+        },
+        {
+            "decision": "for vfib.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1580,
+            "end_offset": 1588,
+            "annotation_id": "NC_013"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1599,
+            "end_offset": 1608,
+            "annotation_id": "NC_014"
+        },
+        {
+            "decision": "epi x2 and atropine x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1630,
+            "end_offset": 1652,
+            "annotation_id": "NC_015"
+        },
+        {
+            "decision": "perfusing pulse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1660,
+            "end_offset": 1675,
+            "annotation_id": "NC_016"
+        },
+        {
+            "decision": "and shocked again ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1676,
+            "end_offset": 1693,
+            "annotation_id": "NC_017"
+        },
+        {
+            "decision": "for vtach.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1694,
+            "end_offset": 1703,
+            "annotation_id": "NC_018"
+        },
+        {
+            "decision": "amiodarone load",
+            "category": "Category 5: Drug related",
+            "start_offset": 1846,
+            "end_offset": 1861,
+            "annotation_id": "NC_019"
+        },
+        {
+            "decision": "versed and fentanyl boluses",
+            "category": "Category 5: Drug related",
+            "start_offset": 1863,
+            "end_offset": 1890,
+            "annotation_id": "NC_020"
+        },
+        {
+            "decision": "1 L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1892,
+            "end_offset": 1898,
+            "annotation_id": "NC_021"
+        },
+        {
+            "decision": "started on versed and levo drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 1904,
+            "end_offset": 1935,
+            "annotation_id": "NC_022"
+        },
+        {
+            "decision": "ECGs were notable for sinus tachy w/ PVCs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1942,
+            "end_offset": 1983,
+            "annotation_id": "NC_023"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**].  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1995,
+            "end_offset": 2028,
+            "annotation_id": "NC_024"
+        },
+        {
+            "decision": "negative for ASA, Acetmnphn, Benzo, Barb, Tricyc. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2089,
+            "end_offset": 2137,
+            "annotation_id": "NC_025"
+        },
+        {
+            "decision": "continued on levo, versed, and amiodarone drips",
+            "category": "Category 5: Drug related",
+            "start_offset": 2147,
+            "end_offset": 2194,
+            "annotation_id": "NC_026"
+        },
+        {
+            "decision": "Post-arrest team was contact",
+            "category": "Category 1: Contact related",
+            "start_offset": 2196,
+            "end_offset": 2224,
+            "annotation_id": "NC_027"
+        },
+        {
+            "decision": "with goal 33C x 24h.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 2241,
+            "end_offset": 2260,
+            "annotation_id": "NC_028"
+        },
+        {
+            "decision": "-CABG: -PERCUTANEOUS CORONARY INTERVENTIONS: -PACING/ICD:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2408,
+            "end_offset": 2464,
+            "annotation_id": "NC_029"
+        },
+        {
+            "decision": "- hypothyroid",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2499,
+            "end_offset": 2510,
+            "annotation_id": "NC_030"
+        },
+        {
+            "decision": "- asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2513,
+            "end_offset": 2519,
+            "annotation_id": "NC_031"
+        },
+        {
+            "decision": "s/p cone biopsy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2542,
+            "end_offset": 2557,
+            "annotation_id": "NC_032"
+        },
+        {
+            "decision": "- cervical metaplasia s/p cone biopsy repeat paps normal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2522,
+            "end_offset": 2576,
+            "annotation_id": "NC_033"
+        },
+        {
+            "decision": "repeat paps normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2558,
+            "end_offset": 2576,
+            "annotation_id": "NC_034"
+        },
+        {
+            "decision": "- fibroids ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2579,
+            "end_offset": 2587,
+            "annotation_id": "NC_035"
+        },
+        {
+            "decision": "s/p hysterectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2588,
+            "end_offset": 2604,
+            "annotation_id": "NC_036"
+        },
+        {
+            "decision": "- depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2607,
+            "end_offset": 2617,
+            "annotation_id": "NC_037"
+        },
+        {
+            "decision": "- gerd",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2620,
+            "end_offset": 2624,
+            "annotation_id": "NC_038"
+        },
+        {
+            "decision": "Intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2983,
+            "end_offset": 2992,
+            "annotation_id": "NC_039"
+        },
+        {
+            "decision": "sedated",
+            "category": "Category 5: Drug related",
+            "start_offset": 2994,
+            "end_offset": 3001,
+            "annotation_id": "NC_040"
+        },
+        {
+            "decision": "GENERAL: Intubated, sedated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2974,
+            "end_offset": 3001,
+            "annotation_id": "NC_041"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. Sluggish pupils.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3003,
+            "end_offset": 3049,
+            "annotation_id": "NC_042"
+        },
+        {
+            "decision": "NECK: Laying flat, supple necks, RIJ in place c/d/1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3051,
+            "end_offset": 3102,
+            "annotation_id": "NC_043"
+        },
+        {
+            "decision": "RIJ in place c/d/1",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3084,
+            "end_offset": 3102,
+            "annotation_id": "NC_044"
+        },
+        {
+            "decision": "CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3103,
+            "end_offset": 3229,
+            "annotation_id": "NC_045"
+        },
+        {
+            "decision": "LUNGS: Anterior breath sounds clear, no rhonchi/rales.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3231,
+            "end_offset": 3284,
+            "annotation_id": "NC_046"
+        },
+        {
+            "decision": "Cooling pads in place.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3295,
+            "end_offset": 3316,
+            "annotation_id": "NC_047"
+        },
+        {
+            "decision": "ABDOMEN: Cooling pads in place.  Soft, NTND. No organomegaly.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3286,
+            "end_offset": 3346,
+            "annotation_id": "NC_048"
+        },
+        {
+            "decision": "EXTREMITIES: Cool extremities, weak pulses. No edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3348,
+            "end_offset": 3400,
+            "annotation_id": "NC_049"
+        },
+        {
+            "decision": "SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3402,
+            "end_offset": 3457,
+            "annotation_id": "NC_050"
+        },
+        {
+            "decision": "Sedated",
+            "category": "Category 5: Drug related",
+            "start_offset": 3466,
+            "end_offset": 3473,
+            "annotation_id": "NC_051"
+        },
+        {
+            "decision": "NEURO: Sedated.  No spontaneous eye movements, does not respond to noxious stimuli.  Equivical babinski.  Sluggishly reactive pupils.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3459,
+            "end_offset": 3591,
+            "annotation_id": "NC_052"
+        },
+        {
+            "decision": "Portable TTE (Complete) Done [**2156-5-24**] at 11:08:18 AM  The left atrium is normal in size. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4585,
+            "end_offset": 4679,
+            "annotation_id": "NC_053"
+        },
+        {
+            "decision": "Left ventricular wall thicknesses and cavity size are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4681,
+            "end_offset": 4741,
+            "annotation_id": "NC_054"
+        },
+        {
+            "decision": " There is mild regional left ventricular systolic dysfunction with akinesis of the distal half of the anterior wall and severe hypokinesis of the remaining segments (LVEF = 25%). No masses or thrombi are seen in the left ventricle. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4743,
+            "end_offset": 4972,
+            "annotation_id": "NC_055"
+        },
+        {
+            "decision": "Right ventricular chamber size is normal with mild global free wall hypokinesis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4974,
+            "end_offset": 5053,
+            "annotation_id": "NC_056"
+        },
+        {
+            "decision": "The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5055,
+            "end_offset": 5214,
+            "annotation_id": "NC_057"
+        },
+        {
+            "decision": "and no aortic regurgitation. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5215,
+            "end_offset": 5242,
+            "annotation_id": "NC_058"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5244,
+            "end_offset": 5288,
+            "annotation_id": "NC_059"
+        },
+        {
+            "decision": "with trivial mitral regurgitation. There is no mitral valve prolapse. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5289,
+            "end_offset": 5357,
+            "annotation_id": "NC_060"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5359,
+            "end_offset": 5417,
+            "annotation_id": "NC_061"
+        },
+        {
+            "decision": "There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5419,
+            "end_offset": 5451,
+            "annotation_id": "NC_062"
+        },
+        {
+            "decision": "Normal biventricular cavity size with severe global dysfunction c/w diffuse process. No valvular pathology or pathologic flow identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5465,
+            "end_offset": 5601,
+            "annotation_id": "NC_063"
+        },
+        {
+            "decision": "Portable TTE (Complete) Done [**2156-5-31**] at 3:59:26 PM  The left atrium is normal in size. The estimated right atrial pressure is 0-5 mmHg. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5605,
+            "end_offset": 5747,
+            "annotation_id": "NC_064"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). The estimated cardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5749,
+            "end_offset": 5998,
+            "annotation_id": "NC_065"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6001,
+            "end_offset": 6149,
+            "annotation_id": "NC_066"
+        },
+        {
+            "decision": "and no aortic regurgitation. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6150,
+            "end_offset": 6177,
+            "annotation_id": "NC_067"
+        },
+        {
+            "decision": "The mitral valve leaflets are structurally normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6179,
+            "end_offset": 6228,
+            "annotation_id": "NC_068"
+        },
+        {
+            "decision": "Mild (1+) mitral regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6230,
+            "end_offset": 6268,
+            "annotation_id": "NC_069"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6270,
+            "end_offset": 6328,
+            "annotation_id": "NC_070"
+        },
+        {
+            "decision": "There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6330,
+            "end_offset": 6362,
+            "annotation_id": "NC_071"
+        },
+        {
+            "decision": "Compared with the prior study (images reviewed) of [**2156-5-24**], the left ventricular systolic function has improved to normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6364,
+            "end_offset": 6493,
+            "annotation_id": "NC_072"
+        },
+        {
+            "decision": "CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2156-5-26**] 9:05 AM FINDINGS: There is a tiny filling defect in a subsegmental artery within the right middle lobe (3:41 and 403B:46). No other filling defects are seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6497,
+            "end_offset": 6722,
+            "annotation_id": "NC_073"
+        },
+        {
+            "decision": " There is no dissection. There is bibasilar atelectasis with no evidence of aspiration pneumonia. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6724,
+            "end_offset": 6819,
+            "annotation_id": "NC_074"
+        },
+        {
+            "decision": "The heart size is normal without pericardial effusion. There is no hilar, axillary, or mediastinal lymphadenopathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6821,
+            "end_offset": 6935,
+            "annotation_id": "NC_075"
+        },
+        {
+            "decision": "The endotracheal tube ends approximately 2.8 cm above the carina. An NG tube is coiled within the stomach, completely seen on the coronal scout view.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6937,
+            "end_offset": 7085,
+            "annotation_id": "NC_076"
+        },
+        {
+            "decision": "There is a nodular soft tissue density within the left breast which measures 2.0 cm x 1.3 cm. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7087,
+            "end_offset": 7179,
+            "annotation_id": "NC_077"
+        },
+        {
+            "decision": "visualized aspects of the upper abdomen are within normal limits",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7260,
+            "end_offset": 7324,
+            "annotation_id": "NC_078"
+        },
+        {
+            "decision": "This may be the sequelae of CPR.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7434,
+            "end_offset": 7465,
+            "annotation_id": "NC_079"
+        },
+        {
+            "decision": "BONE WINDOWS: There is a slight anterior cortical deformity to the sternum, seen on the sagittal reformats. This may be the sequelae of CPR. Otherwise, no concerning osseous lesions are identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7326,
+            "end_offset": 7522,
+            "annotation_id": "NC_080"
+        },
+        {
+            "decision": "1. Tiny filling defect within a subsegmental pulmonary artery in the right middle lobe. This may represent a tiny pulmonary embolism. However, no other filling defects noted. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7536,
+            "end_offset": 7709,
+            "annotation_id": "NC_081"
+        },
+        {
+            "decision": "2. Bibasilar atelectasis with no evidence of aspiration pneumonia. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7711,
+            "end_offset": 7776,
+            "annotation_id": "NC_082"
+        },
+        {
+            "decision": "3. Soft tissue density nodule in the left breast.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7778,
+            "end_offset": 7826,
+            "annotation_id": "NC_083"
+        },
+        {
+            "decision": "CT HEAD W/O CONTRAST Study Date of [**2156-5-27**] 7:37 AM FINDINGS: There is no evidence of acute intracranial hemorrhage, edema, mass, mass effect, or large vascular territorial infarction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7865,
+            "end_offset": 8055,
+            "annotation_id": "NC_084"
+        },
+        {
+            "decision": "The ventricles and sulci are normal in configuration. The [**Doctor Last Name 352**]-white matter differentiation is preserved. There is no shift of normally midline structures. The suprasellar and quadrigeminal cisterns are preserved.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8057,
+            "end_offset": 8291,
+            "annotation_id": "NC_085"
+        },
+        {
+            "decision": " There is no acute fracture. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8293,
+            "end_offset": 8319,
+            "annotation_id": "NC_086"
+        },
+        {
+            "decision": "The middle ear cavities and mastoid air cells and included views of the paranasal sinuses are clear. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8321,
+            "end_offset": 8420,
+            "annotation_id": "NC_087"
+        },
+        {
+            "decision": "No acute intracranial process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8434,
+            "end_offset": 8463,
+            "annotation_id": "NC_088"
+        },
+        {
+            "decision": "EEG Study Date of [**2156-5-24**] FINDINGS:  SPIKE DETECTION PROGRAMS: No true interictal epileptiform discharges were seen;",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8467,
+            "end_offset": 8590,
+            "annotation_id": "NC_089"
+        },
+        {
+            "decision": "; most of these were detections of somewhat sharply contoured background activity. A few sharp transients were seen, particularly in the bifrontal region,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8592,
+            "end_offset": 8743,
+            "annotation_id": "NC_090"
+        },
+        {
+            "decision": "these were not definitely epileptiform",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8749,
+            "end_offset": 8787,
+            "annotation_id": "NC_091"
+        },
+        {
+            "decision": "SEIZURE DETECTION PROGRAMS: No true electrographic seizures were seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8789,
+            "end_offset": 8858,
+            "annotation_id": "NC_092"
+        },
+        {
+            "decision": " Most of these were detections of particularly rhythmic periods of a slow background. Selected review of the video demonstrated no apparent change in the patient's clinical status in association with these detections. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8860,
+            "end_offset": 9075,
+            "annotation_id": "NC_093"
+        },
+        {
+            "decision": "PUSHBUTTON ACTIVATIONS: There were none",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9077,
+            "end_offset": 9116,
+            "annotation_id": "NC_094"
+        },
+        {
+            "decision": "CONTINUOUS EEG MONITORING: Review of time sampled excerpts of continuous EEG recording demonstrated that the background was typically of very low voltage and very slow usually in the delta frequency range although occasional intermixed theta frequency activity was seen at times. Bursts of generalized polymorphic delta frequency slowing and theta frequency slowing were also seen. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9118,
+            "end_offset": 9498,
+            "annotation_id": "NC_095"
+        },
+        {
+            "decision": "SLEEP: No normal sleep architecture was seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9500,
+            "end_offset": 9544,
+            "annotation_id": "NC_096"
+        },
+        {
+            "decision": "CARDIAC MONITOR: Showed a generally regular rhythm. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9546,
+            "end_offset": 9596,
+            "annotation_id": "NC_097"
+        },
+        {
+            "decision": "This video EEG telemetry captured no pushbutton activations. No electrographic seizures or interictal epileptiform discharges were seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9610,
+            "end_offset": 9745,
+            "annotation_id": "NC_098"
+        },
+        {
+            "decision": "The background was mostly slow and disorganized throughout the day's recording suggestive of a moderate encephalopathy. Such an encephalopathy can be caused by hypoxic ischemic injury, medications, metabolic disturbances, and other etiologies.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9747,
+            "end_offset": 9989,
+            "annotation_id": "NC_099"
+        },
+        {
+            "decision": "EEG Study Date of [**2156-5-31**] FINDINGS: SPIKE DETECTION PROGRAMS: These were artifactual;",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9993,
+            "end_offset": 10085,
+            "annotation_id": "NC_100"
+        },
+        {
+            "decision": "; no true interictal epileptiform discharges were seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10087,
+            "end_offset": 10139,
+            "annotation_id": "NC_101"
+        },
+        {
+            "decision": "SEIZURE DETECTION PROGRAMS: These were artifactual; no true electrographic seizures were seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10141,
+            "end_offset": 10234,
+            "annotation_id": "NC_102"
+        },
+        {
+            "decision": "no true electrographic seizures were seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10193,
+            "end_offset": 10234,
+            "annotation_id": "NC_103"
+        },
+        {
+            "decision": "PUSHBUTTON ACTIVATIONS: There were none. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10236,
+            "end_offset": 10275,
+            "annotation_id": "NC_104"
+        },
+        {
+            "decision": "ROUTINE TIME SAMPLING: Showed a background that did reach a normal alpha frequency at times during wakefulness but was more commonly slow and disorganized often in the theta and delta frequency ranges. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10277,
+            "end_offset": 10477,
+            "annotation_id": "NC_105"
+        },
+        {
+            "decision": ". At times, blunted sharp wave morphologies were seen over the occipital regions, particularly on the left, and sometimes recurred in the theta frequency range particularly over the O1 electrode. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10479,
+            "end_offset": 10671,
+            "annotation_id": "NC_106"
+        },
+        {
+            "decision": "Selected review of the video demonstrated no apparent change in the patient's appearance in association with these periods of sharp blunted theta activity. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10673,
+            "end_offset": 10827,
+            "annotation_id": "NC_107"
+        },
+        {
+            "decision": "SLEEP: No normal sleep morphologies were seen. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10829,
+            "end_offset": 10874,
+            "annotation_id": "NC_108"
+        },
+        {
+            "decision": "CARDIAC MONITOR: Showed a generally regular rhythm. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10876,
+            "end_offset": 10926,
+            "annotation_id": "NC_109"
+        },
+        {
+            "decision": "This video EEG telemetry captured no pushbutton activations. No electrographic seizures were seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10940,
+            "end_offset": 11037,
+            "annotation_id": "NC_110"
+        },
+        {
+            "decision": "There were some blunted sharp waves seen over the left occipital region sometimes recurrent in the theta frequency range for a few seconds at a time and these suggested a potential focus of epileptogenesis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11039,
+            "end_offset": 11244,
+            "annotation_id": "NC_111"
+        },
+        {
+            "decision": " For most of the recording, the background was slightly slow and disorganized, suggestive of a mild encephalopathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11246,
+            "end_offset": 11359,
+            "annotation_id": "NC_112"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11422,
+            "end_offset": 11436,
+            "annotation_id": "NC_113"
+        },
+        {
+            "decision": "asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11438,
+            "end_offset": 11444,
+            "annotation_id": "NC_114"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11446,
+            "end_offset": 11456,
+            "annotation_id": "NC_115"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11458,
+            "end_offset": 11462,
+            "annotation_id": "NC_116"
+        },
+        {
+            "decision": "ETOH abuse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11464,
+            "end_offset": 11474,
+            "annotation_id": "NC_117"
+        },
+        {
+            "decision": "s/p VF arrest with return of spontaneous circulation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11494,
+            "end_offset": 11546,
+            "annotation_id": "NC_118"
+        },
+        {
+            "decision": "Status post cardiac arrest:  Patient presented status post VF arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11552,
+            "end_offset": 11620,
+            "annotation_id": "NC_119"
+        },
+        {
+            "decision": "The etiology is unknown, but suspected to be related to electrolyte disturbances in the setting of alcohol abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11637,
+            "end_offset": 11749,
+            "annotation_id": "NC_120"
+        },
+        {
+            "decision": "positive cardiac enzymes which were likely elevated secondary to her cardiac arrest as opposed to primary ischemic event",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11764,
+            "end_offset": 11884,
+            "annotation_id": "NC_121"
+        },
+        {
+            "decision": "ECG did not demonstrate t-wave inversions, st-elevations, or signs of ischemia, or prolonged QT interval",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11887,
+            "end_offset": 11991,
+            "annotation_id": "NC_122"
+        },
+        {
+            "decision": "echocardiogram was done that showed normal LA, LV, RV cavity size, mild regional LV dysfunction w/ akinesis of the distal half of the anterior wall and severe hypokinesis of the remaining segments (LVEF = 25%).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11996,
+            "end_offset": 12203,
+            "annotation_id": "NC_123"
+        },
+        {
+            "decision": "Echo findings were thought to be secondary to post-cardiac arrest vs underlying cardiomyopathy. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12207,
+            "end_offset": 12301,
+            "annotation_id": "NC_124"
+        },
+        {
+            "decision": "underwent hypothermia protocol and then re-warming.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12312,
+            "end_offset": 12362,
+            "annotation_id": "NC_125"
+        },
+        {
+            "decision": "continued on amiodarone and pressors but these were stopped subsequently",
+            "category": "Category 5: Drug related",
+            "start_offset": 12387,
+            "end_offset": 12459,
+            "annotation_id": "NC_126"
+        },
+        {
+            "decision": "was cooled using ArticSun according to post-arrest protocol",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12464,
+            "end_offset": 12523,
+            "annotation_id": "NC_127"
+        },
+        {
+            "decision": "Continous EEG did not show evidence of seizures.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12525,
+            "end_offset": 12572,
+            "annotation_id": "NC_128"
+        },
+        {
+            "decision": "Urine/Serum tox were remarkable for elevated ETOH levels.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12575,
+            "end_offset": 12631,
+            "annotation_id": "NC_129"
+        },
+        {
+            "decision": "extubated successfully [**5-28**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12646,
+            "end_offset": 12679,
+            "annotation_id": "NC_130"
+        },
+        {
+            "decision": " Echo on [**5-31**] showed that left ventricular function improved to normal (LVEF 55-60%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12681,
+            "end_offset": 12768,
+            "annotation_id": "NC_131"
+        },
+        {
+            "decision": "Mild (1+) mitral regurgitation was seen,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12772,
+            "end_offset": 12811,
+            "annotation_id": "NC_132"
+        },
+        {
+            "decision": "the estimated pulmonary artery systolic pressure was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12813,
+            "end_offset": 12872,
+            "annotation_id": "NC_133"
+        },
+        {
+            "decision": "ICD placement was discussed but per EP's recommendations and given current neurological status was not placed.",
+            "category": "Category 8: Deferment",
+            "start_offset": 12877,
+            "end_offset": 12986,
+            "annotation_id": "NC_134"
+        },
+        {
+            "decision": "LifeVest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13010,
+            "end_offset": 13018,
+            "annotation_id": "NC_135"
+        },
+        {
+            "decision": "discharge to neuro rehab facility ",
+            "category": "Category 1: Contact related",
+            "start_offset": 13024,
+            "end_offset": 13057,
+            "annotation_id": "NC_136"
+        },
+        {
+            "decision": "Neuro / ETOH withdrawal: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13120,
+            "end_offset": 13143,
+            "annotation_id": "NC_137"
+        },
+        {
+            "decision": "extubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13151,
+            "end_offset": 13161,
+            "annotation_id": "NC_138"
+        },
+        {
+            "decision": "delerium tremors, becoming very agitated with jerky movements though responsive throughout these episodes and autonomic dysfunction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13181,
+            "end_offset": 13312,
+            "annotation_id": "NC_139"
+        },
+        {
+            "decision": "placed on CIWA scale",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13323,
+            "end_offset": 13343,
+            "annotation_id": "NC_140"
+        },
+        {
+            "decision": "started on standing ativan, and ativan prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 13354,
+            "end_offset": 13396,
+            "annotation_id": "NC_141"
+        },
+        {
+            "decision": ".  Neuro was re-consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 13399,
+            "end_offset": 13421,
+            "annotation_id": "NC_142"
+        },
+        {
+            "decision": "continous EEG monitoring that showed background slowing suggestive of mild encephalopathy but no seizure activity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13433,
+            "end_offset": 13546,
+            "annotation_id": "NC_143"
+        },
+        {
+            "decision": "Psychiatry was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 13548,
+            "end_offset": 13572,
+            "annotation_id": "NC_144"
+        },
+        {
+            "decision": "an ativan taper which was completed before discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 13589,
+            "end_offset": 13641,
+            "annotation_id": "NC_145"
+        },
+        {
+            "decision": "evening doses of zyprexa 5mg to help the patient sleep and prevent nighttime agitation",
+            "category": "Category 5: Drug related",
+            "start_offset": 13654,
+            "end_offset": 13740,
+            "annotation_id": "NC_146"
+        },
+        {
+            "decision": "nighttime agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13721,
+            "end_offset": 13740,
+            "annotation_id": "NC_147"
+        },
+        {
+            "decision": "Neurology recommended transfer to rehab facility ",
+            "category": "Category 1: Contact related",
+            "start_offset": 13742,
+            "end_offset": 13790,
+            "annotation_id": "NC_148"
+        },
+        {
+            "decision": "for neuro rehab, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13791,
+            "end_offset": 13806,
+            "annotation_id": "NC_149"
+        },
+        {
+            "decision": " like post-anoxic brain injury.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13808,
+            "end_offset": 13837,
+            "annotation_id": "NC_150"
+        },
+        {
+            "decision": "Infection: Pt began spiking fevers ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13843,
+            "end_offset": 13877,
+            "annotation_id": "NC_151"
+        },
+        {
+            "decision": "she was pancultured and sputum culture eventually revealed coag + staph aureus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13902,
+            "end_offset": 13980,
+            "annotation_id": "NC_152"
+        },
+        {
+            "decision": "completed an 8 day course ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13986,
+            "end_offset": 14011,
+            "annotation_id": "NC_153"
+        },
+        {
+            "decision": "aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14016,
+            "end_offset": 14036,
+            "annotation_id": "NC_154"
+        },
+        {
+            "decision": "She spiked fevers again ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14038,
+            "end_offset": 14061,
+            "annotation_id": "NC_155"
+        },
+        {
+            "decision": "central line was removed and a PICC was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14081,
+            "end_offset": 14127,
+            "annotation_id": "NC_156"
+        },
+        {
+            "decision": "course of vancomycin was started but discontinued after 8 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 14131,
+            "end_offset": 14193,
+            "annotation_id": "NC_157"
+        },
+        {
+            "decision": "pt pulled out PICC line ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14202,
+            "end_offset": 14225,
+            "annotation_id": "NC_158"
+        },
+        {
+            "decision": "C diff was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14315,
+            "end_offset": 14334,
+            "annotation_id": "NC_159"
+        },
+        {
+            "decision": "Pt was afebrile for 48 hrs prior to discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14336,
+            "end_offset": 14381,
+            "annotation_id": "NC_160"
+        },
+        {
+            "decision": "Blood cultures from [**6-3**] and [**6-4**] are NGTD ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14383,
+            "end_offset": 14435,
+            "annotation_id": "NC_161"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14469,
+            "end_offset": 14483,
+            "annotation_id": "NC_162"
+        },
+        {
+            "decision": "continued on synthroid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14511,
+            "end_offset": 14533,
+            "annotation_id": "NC_163"
+        },
+        {
+            "decision": "PCP:  [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) **]:  [**Name (NI) 2808**] [**Name (NI) 42479**] (wife) [**0-0-**] (cell); [**Telephone/Fax (1) 42480**] (home).  [**Name (NI) **] [**Name (NI) **] (friend) [**Telephone/Fax (1) 42481**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 14537,
+            "end_offset": 14823,
+            "annotation_id": "NC_164"
+        },
+        {
+            "decision": "Advair 250/50",
+            "category": "Category 5: Drug related",
+            "start_offset": 14901,
+            "end_offset": 14914,
+            "annotation_id": "NC_165"
+        },
+        {
+            "decision": "Fluticasone 50mcg",
+            "category": "Category 5: Drug related",
+            "start_offset": 14915,
+            "end_offset": 14932,
+            "annotation_id": "NC_166"
+        },
+        {
+            "decision": "Levothyroxine 125mcg",
+            "category": "Category 5: Drug related",
+            "start_offset": 14933,
+            "end_offset": 14953,
+            "annotation_id": "NC_167"
+        },
+        {
+            "decision": "Fluoxetine 20mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 14954,
+            "end_offset": 14969,
+            "annotation_id": "NC_168"
+        },
+        {
+            "decision": "Pantoprazole 40mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14970,
+            "end_offset": 14987,
+            "annotation_id": "NC_169"
+        },
+        {
+            "decision": "Triamterene 3.75-25mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 15005,
+            "end_offset": 15026,
+            "annotation_id": "NC_170"
+        },
+        {
+            "decision": "1. White Petrolatum-Mineral Oil 56.8-42.5 % Ointment Sig: One (1) Appl Ophthalmic PRN (as needed) as needed for dry eyes.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15051,
+            "end_offset": 15171,
+            "annotation_id": "NC_171"
+        },
+        {
+            "decision": "for dry eyes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15159,
+            "end_offset": 15171,
+            "annotation_id": "NC_172"
+        },
+        {
+            "decision": "2. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15173,
+            "end_offset": 15238,
+            "annotation_id": "NC_173"
+        },
+        {
+            "decision": "3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15241,
+            "end_offset": 15320,
+            "annotation_id": "NC_174"
+        },
+        {
+            "decision": "4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15323,
+            "end_offset": 15399,
+            "annotation_id": "NC_175"
+        },
+        {
+            "decision": "5. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15402,
+            "end_offset": 15469,
+            "annotation_id": "NC_176"
+        },
+        {
+            "decision": "6. Therapeutic Multivitamin     Liquid Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15472,
+            "end_offset": 15546,
+            "annotation_id": "NC_177"
+        },
+        {
+            "decision": "7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15549,
+            "end_offset": 15610,
+            "annotation_id": "NC_178"
+        },
+        {
+            "decision": "8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15614,
+            "end_offset": 15702,
+            "annotation_id": "NC_179"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15785,
+            "end_offset": 15797,
+            "annotation_id": "NC_180"
+        },
+        {
+            "decision": "9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15705,
+            "end_offset": 15797,
+            "annotation_id": "NC_181"
+        },
+        {
+            "decision": "10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15799,
+            "end_offset": 15892,
+            "annotation_id": "NC_182"
+        },
+        {
+            "decision": "11. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15894,
+            "end_offset": 16026,
+            "annotation_id": "NC_183"
+        },
+        {
+            "decision": "12. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16029,
+            "end_offset": 16140,
+            "annotation_id": "NC_184"
+        },
+        {
+            "decision": "aggitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16223,
+            "end_offset": 16233,
+            "annotation_id": "NC_185"
+        },
+        {
+            "decision": "13. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for aggitation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16143,
+            "end_offset": 16233,
+            "annotation_id": "NC_186"
+        },
+        {
+            "decision": "aggitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16317,
+            "end_offset": 16327,
+            "annotation_id": "NC_187"
+        },
+        {
+            "decision": "14. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for aggitation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16235,
+            "end_offset": 16327,
+            "annotation_id": "NC_188"
+        },
+        {
+            "decision": "15. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16329,
+            "end_offset": 16418,
+            "annotation_id": "NC_189"
+        },
+        {
+            "decision": "16. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16420,
+            "end_offset": 16507,
+            "annotation_id": "NC_190"
+        },
+        {
+            "decision": "17. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day: Hold SBP < 100, HR < 50.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16509,
+            "end_offset": 16653,
+            "annotation_id": "NC_191"
+        },
+        {
+            "decision": "Hold SBP < 100, HR < 50.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16630,
+            "end_offset": 16653,
+            "annotation_id": "NC_192"
+        },
+        {
+            "decision": "Cardiac Arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16780,
+            "end_offset": 16794,
+            "annotation_id": "NC_193"
+        },
+        {
+            "decision": "Anoxic brain injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16808,
+            "end_offset": 16827,
+            "annotation_id": "NC_194"
+        },
+        {
+            "decision": "Alcohol withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16828,
+            "end_offset": 16846,
+            "annotation_id": "NC_195"
+        },
+        {
+            "decision": "Pt's chest pain is currently mild ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16870,
+            "end_offset": 16903,
+            "annotation_id": "NC_196"
+        },
+        {
+            "decision": "Ibufprofen and Oxycodone",
+            "category": "Category 5: Drug related",
+            "start_offset": 16922,
+            "end_offset": 16946,
+            "annotation_id": "NC_197"
+        },
+        {
+            "decision": "She has residual cognitive deficits post-arrest; she is alert and oriented to self, but not to place or time.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16948,
+            "end_offset": 17056,
+            "annotation_id": "NC_198"
+        },
+        {
+            "decision": "agitation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17062,
+            "end_offset": 17071,
+            "annotation_id": "NC_199"
+        },
+        {
+            "decision": "evening doses of Zyrpexa",
+            "category": "Category 5: Drug related",
+            "start_offset": 17087,
+            "end_offset": 17111,
+            "annotation_id": "NC_200"
+        },
+        {
+            "decision": "She is able to ambulate with assistance.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17113,
+            "end_offset": 17152,
+            "annotation_id": "NC_201"
+        },
+        {
+            "decision": "cardiac arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17288,
+            "end_offset": 17302,
+            "annotation_id": "NC_202"
+        },
+        {
+            "decision": " You were shocked and resuscitated. You were on a ventilator for a time and extubated when stable. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17304,
+            "end_offset": 17400,
+            "annotation_id": "NC_203"
+        },
+        {
+            "decision": "treated with therapeutic cooling",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17416,
+            "end_offset": 17448,
+            "annotation_id": "NC_204"
+        },
+        {
+            "decision": "Neurologically your functional status improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17450,
+            "end_offset": 17496,
+            "annotation_id": "NC_205"
+        },
+        {
+            "decision": "will be transferred to a neurological rehabilitation facility ",
+            "category": "Category 1: Contact related",
+            "start_offset": 17505,
+            "end_offset": 17566,
+            "annotation_id": "NC_206"
+        },
+        {
+            "decision": "with a LifeVest, which is a vest you wear that helps to detect and correct abnormal rhythms in your heart",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17632,
+            "end_offset": 17737,
+            "annotation_id": "NC_207"
+        },
+        {
+            "decision": "echocardiogram done before you left the hospital showed that the function of your heart was largely back to normal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17742,
+            "end_offset": 17856,
+            "annotation_id": "NC_208"
+        },
+        {
+            "decision": "It is very important that you stop drinking alcohol.  It is possible that alcohol caused electrolyte imbalances in your body that may have caused your cardiac arrest. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 17859,
+            "end_offset": 18024,
+            "annotation_id": "NC_209"
+        },
+        {
+            "decision": "alcohol withdrawal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18071,
+            "end_offset": 18089,
+            "annotation_id": "NC_210"
+        },
+        {
+            "decision": "1.Start Thiamine, Folic acid and a multivitamin for your nutrition",
+            "category": "Category 5: Drug related",
+            "start_offset": 18148,
+            "end_offset": 18214,
+            "annotation_id": "NC_211"
+        },
+        {
+            "decision": "Start Aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 18218,
+            "end_offset": 18231,
+            "annotation_id": "NC_212"
+        },
+        {
+            "decision": "2. Start Aspirin to prevent a heart attack",
+            "category": "Category 5: Drug related",
+            "start_offset": 18215,
+            "end_offset": 18257,
+            "annotation_id": "NC_213"
+        },
+        {
+            "decision": "to prevent a heart attack",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18232,
+            "end_offset": 18257,
+            "annotation_id": "NC_214"
+        },
+        {
+            "decision": "3. Start Heparin injections to prevent a blood clot unless you are up and out of bed at least three times daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 18258,
+            "end_offset": 18369,
+            "annotation_id": "NC_215"
+        },
+        {
+            "decision": "4. Start senna and colace to prevent constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 18370,
+            "end_offset": 18419,
+            "annotation_id": "NC_216"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18407,
+            "end_offset": 18419,
+            "annotation_id": "NC_217"
+        },
+        {
+            "decision": "5. Start Tylenol and Ibuprofen around the clock to treat your chest soreness",
+            "category": "Category 5: Drug related",
+            "start_offset": 18420,
+            "end_offset": 18496,
+            "annotation_id": "NC_218"
+        },
+        {
+            "decision": "6. Start Oxycodone to treat chest soreness that is not relieved by tylenol and Ibuprofen",
+            "category": "Category 5: Drug related",
+            "start_offset": 18497,
+            "end_offset": 18585,
+            "annotation_id": "NC_219"
+        },
+        {
+            "decision": "7. Start Omeprazole to prevent heartburn",
+            "category": "Category 5: Drug related",
+            "start_offset": 18586,
+            "end_offset": 18626,
+            "annotation_id": "NC_220"
+        },
+        {
+            "decision": "heartburn",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18617,
+            "end_offset": 18626,
+            "annotation_id": "NC_221"
+        },
+        {
+            "decision": "agitation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18660,
+            "end_offset": 18669,
+            "annotation_id": "NC_222"
+        },
+        {
+            "decision": "8. Start Olanzapine to treat any agitation and help you sleep.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18627,
+            "end_offset": 18688,
+            "annotation_id": "NC_223"
+        },
+        {
+            "decision": "9. Start white petrolatum to treat your dry eyes",
+            "category": "Category 5: Drug related",
+            "start_offset": 18690,
+            "end_offset": 18738,
+            "annotation_id": "NC_224"
+        },
+        {
+            "decision": "dry eyes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18730,
+            "end_offset": 18738,
+            "annotation_id": "NC_225"
+        },
+        {
+            "decision": "10. Stop Hydrochlorothiazide/Triamterene, Fluticasone inhaler and Fluoxetine.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18739,
+            "end_offset": 18815,
+            "annotation_id": "NC_226"
+        },
+        {
+            "decision": "irregular heart rhythms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18854,
+            "end_offset": 18877,
+            "annotation_id": "NC_227"
+        },
+        {
+            "decision": "11. Start Metoprolol to help prevent irregular heart rhythms.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18817,
+            "end_offset": 18877,
+            "annotation_id": "NC_228"
+        },
+        {
+            "decision": "Department: CARDIAC SERVICES When: WEDNESDAY [**2156-6-30**] at 1:20 PM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 18928,
+            "end_offset": 19218,
+            "annotation_id": "NC_229"
+        },
+        {
+            "decision": "Department: ADULT SPECIALTIES When: MONDAY [**2156-6-28**] at 9:30 AM With: [**Name6 (MD) **] [**Name8 (MD) **], MD, PHD [**Telephone/Fax (1) 8645**] Building: [**Location (un) 2790**] ([**Location (un) **], MA) [**Location (un) 551**] Campus: OFF CAMPUS     Best Parking: Free Parking on Site",
+            "category": "Category 1: Contact related",
+            "start_offset": 19220,
+            "end_offset": 19513,
+            "annotation_id": "NC_230"
+        },
+        {
+            "decision": "Department: CARDIAC SERVICES When: WEDNESDAY [**2156-7-14**] at 3:20 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D. [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 19515,
+            "end_offset": 19838,
+            "annotation_id": "NC_231"
+        }
+    ]
+}

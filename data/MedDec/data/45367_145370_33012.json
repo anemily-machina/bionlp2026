@@ -1,0 +1,839 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "45367_145370_33012",
+    "annotations": [
+        {
+            "decision": "Chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 269,
+            "end_offset": 279,
+            "annotation_id": "LR_000"
+        },
+        {
+            "decision": "CABG x 3 (lima to lad, SVG to RPD, SVG to OM) [**5-5**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 319,
+            "end_offset": 374,
+            "annotation_id": "LR_001"
+        },
+        {
+            "decision": "CAD, hypertension, and hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 462,
+            "end_offset": 499,
+            "annotation_id": "LR_002"
+        },
+        {
+            "decision": "cardiac catheterization.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 518,
+            "end_offset": 541,
+            "annotation_id": "LR_003"
+        },
+        {
+            "decision": "a cardiac catheterization ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 582,
+            "end_offset": 607,
+            "annotation_id": "LR_004"
+        },
+        {
+            "decision": "discovered to have an abnormal EKG ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 781,
+            "end_offset": 815,
+            "annotation_id": "LR_005"
+        },
+        {
+            "decision": "catheterization which revealed a totally occluded distal LAD with left to right collaterals",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1028,
+            "end_offset": 1119,
+            "annotation_id": "LR_006"
+        },
+        {
+            "decision": "30-40% Left Main and a 50% PDA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1133,
+            "end_offset": 1163,
+            "annotation_id": "LR_007"
+        },
+        {
+            "decision": "Toprol and Losartan",
+            "category": "Category 5: Drug related",
+            "start_offset": 1252,
+            "end_offset": 1271,
+            "annotation_id": "LR_008"
+        },
+        {
+            "decision": "referred for a cardiac cathterization ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1738,
+            "end_offset": 1775,
+            "annotation_id": "LR_009"
+        },
+        {
+            "decision": "referred to cardiac surgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 1816,
+            "end_offset": 1843,
+            "annotation_id": "LR_010"
+        },
+        {
+            "decision": "for possible revascularization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1844,
+            "end_offset": 1874,
+            "annotation_id": "LR_011"
+        },
+        {
+            "decision": "Chronic ischemic heart disease with chronic totally occluded LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1899,
+            "end_offset": 1963,
+            "annotation_id": "LR_012"
+        },
+        {
+            "decision": "PAC's and PVC's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1964,
+            "end_offset": 1979,
+            "annotation_id": "LR_013"
+        },
+        {
+            "decision": "Familial Mediterranean fever ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1980,
+            "end_offset": 2008,
+            "annotation_id": "LR_014"
+        },
+        {
+            "decision": "treated with Colchicine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2009,
+            "end_offset": 2032,
+            "annotation_id": "LR_015"
+        },
+        {
+            "decision": "Pericarditis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2033,
+            "end_offset": 2045,
+            "annotation_id": "LR_016"
+        },
+        {
+            "decision": "Mild glucose intolerance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2046,
+            "end_offset": 2070,
+            "annotation_id": "LR_017"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2071,
+            "end_offset": 2091,
+            "annotation_id": "LR_018"
+        },
+        {
+            "decision": "Hypertensio",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2092,
+            "end_offset": 2104,
+            "annotation_id": "LR_019"
+        },
+        {
+            "decision": "Recently diagnosed with prostate Adenocarcinoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2105,
+            "end_offset": 2152,
+            "annotation_id": "LR_020"
+        },
+        {
+            "decision": "followed by Dr [**Last Name (STitle) 33427**] at [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 2153,
+            "end_offset": 2220,
+            "annotation_id": "LR_021"
+        },
+        {
+            "decision": "and will continue to be actively followed without need for XRT/chemo/surgery at this time",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2221,
+            "end_offset": 2310,
+            "annotation_id": "LR_022"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2311,
+            "end_offset": 2315,
+            "annotation_id": "LR_023"
+        },
+        {
+            "decision": "Left Meniscus tear ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2316,
+            "end_offset": 2334,
+            "annotation_id": "LR_024"
+        },
+        {
+            "decision": "s/p arthroscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2335,
+            "end_offset": 2350,
+            "annotation_id": "LR_025"
+        },
+        {
+            "decision": "General:NAD, alert cooperative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2982,
+            "end_offset": 3012,
+            "annotation_id": "LR_026"
+        },
+        {
+            "decision": "Skin: Dry [x] intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3013,
+            "end_offset": 3036,
+            "annotation_id": "LR_027"
+        },
+        {
+            "decision": "HEENT: PERRLA [x] EOMI [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3038,
+            "end_offset": 3063,
+            "annotation_id": "LR_028"
+        },
+        {
+            "decision": "Neck:  Supple [x] Full ROM [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3065,
+            "end_offset": 3094,
+            "annotation_id": "LR_029"
+        },
+        {
+            "decision": "Chest: Lungs clear bilaterally [x",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3096,
+            "end_offset": 3129,
+            "annotation_id": "LR_030"
+        },
+        {
+            "decision": "Heart: RRR [x]  Irregular []  No Murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3131,
+            "end_offset": 3170,
+            "annotation_id": "LR_031"
+        },
+        {
+            "decision": "Abdomen: Soft [x] non-distended [] non-tender []  bowel sounds + []",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3171,
+            "end_offset": 3233,
+            "annotation_id": "LR_032"
+        },
+        {
+            "decision": "Extremities: Warm [x], well-perfused [x]  Edema Varicosities: None []",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3239,
+            "end_offset": 3305,
+            "annotation_id": "LR_033"
+        },
+        {
+            "decision": "Neuro: Grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3309,
+            "end_offset": 3330,
+            "annotation_id": "LR_034"
+        },
+        {
+            "decision": "Pulses: Femoral      Right:   Left: DP           Right:   Left: PT           [**Name (NI) 167**]:   Left: Radial       Right:   Left:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3331,
+            "end_offset": 3463,
+            "annotation_id": "LR_035"
+        },
+        {
+            "decision": "Carotid Bruit        Right:present    Left:none",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3466,
+            "end_offset": 3513,
+            "annotation_id": "LR_036"
+        },
+        {
+            "decision": "ECHOCARDIOGRAPHY REPORT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3553,
+            "end_offset": 3576,
+            "annotation_id": "LR_037"
+        },
+        {
+            "decision": "The left atrium is moderately dilated. No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3636,
+            "end_offset": 3831,
+            "annotation_id": "LR_038"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3833,
+            "end_offset": 4012,
+            "annotation_id": "LR_039"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. The aortic root is moderately dilated at the sinus level. The ascending aorta is mildly dilated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4016,
+            "end_offset": 4175,
+            "annotation_id": "LR_040"
+        },
+        {
+            "decision": "There are complex (>4mm) atheroma in the aortic arch. There are simple atheroma in the descending thoracic aorta.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4177,
+            "end_offset": 4289,
+            "annotation_id": "LR_041"
+        },
+        {
+            "decision": "There are three aortic valve leaflets. There is no aortic valve stenosis. Mild (1+) aortic regurgitation is seen. There is no mitral valve prolapse.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4291,
+            "end_offset": 4438,
+            "annotation_id": "LR_042"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen. There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4440,
+            "end_offset": 4510,
+            "annotation_id": "LR_043"
+        },
+        {
+            "decision": "The patient is in sinus rhythm. The biventricular systolic function is preserved. The visible contours of the thoracic aorta are intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4525,
+            "end_offset": 4660,
+            "annotation_id": "LR_044"
+        },
+        {
+            "decision": "Radiology Report CHEST (PA & LAT) Study Date of [**2145-5-8**] 4:41 PM",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5506,
+            "end_offset": 5576,
+            "annotation_id": "LR_045"
+        },
+        {
+            "decision": "Two views of the chest demonstrate small bilateral pleural effusions, increased from prior study, with bibasilar atelectasis, and hazy ground-glass opacities in bilateral lower lung zones",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5592,
+            "end_offset": 5779,
+            "annotation_id": "LR_046"
+        },
+        {
+            "decision": "Status post CABG.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5781,
+            "end_offset": 5797,
+            "annotation_id": "LR_047"
+        },
+        {
+            "decision": "Right IJ line has been removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5799,
+            "end_offset": 5829,
+            "annotation_id": "LR_048"
+        },
+        {
+            "decision": "Heart is mildly enlarged.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5831,
+            "end_offset": 5855,
+            "annotation_id": "LR_049"
+        },
+        {
+            "decision": "coronary artery bypass grafting times three (LIMA to LAD, SVG to RPD, SVG to OM",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5958,
+            "end_offset": 6037,
+            "annotation_id": "LR_050"
+        },
+        {
+            "decision": "tolerated the procedure well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6087,
+            "end_offset": 6115,
+            "annotation_id": "LR_051"
+        },
+        {
+            "decision": "critical but stable condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6135,
+            "end_offset": 6164,
+            "annotation_id": "LR_052"
+        },
+        {
+            "decision": "transferred in critical but stable condition to the surgical intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 6120,
+            "end_offset": 6200,
+            "annotation_id": "LR_053"
+        },
+        {
+            "decision": "neurologically intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6210,
+            "end_offset": 6231,
+            "annotation_id": "LR_054"
+        },
+        {
+            "decision": "extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6240,
+            "end_offset": 6249,
+            "annotation_id": "LR_055"
+        },
+        {
+            "decision": "weaned from pressors ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6280,
+            "end_offset": 6300,
+            "annotation_id": "LR_056"
+        },
+        {
+            "decision": "Beta blocker was initiated ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6328,
+            "end_offset": 6354,
+            "annotation_id": "LR_057"
+        },
+        {
+            "decision": "chest tubes and pacing wires were removed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6427,
+            "end_offset": 6468,
+            "annotation_id": "LR_058"
+        },
+        {
+            "decision": "transferred to the surgical step down floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6506,
+            "end_offset": 6549,
+            "annotation_id": "LR_059"
+        },
+        {
+            "decision": "atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6572,
+            "end_offset": 6591,
+            "annotation_id": "LR_060"
+        },
+        {
+            "decision": "traeated with Bblockade and Amiodarone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6600,
+            "end_offset": 6638,
+            "annotation_id": "LR_061"
+        },
+        {
+            "decision": "converted back to sinus rhythm.  He was in  normal sinus rhythm at the time of discharge. The remainder of his hospital course was uneventful",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6653,
+            "end_offset": 6794,
+            "annotation_id": "LR_062"
+        },
+        {
+            "decision": "evaluated by the physical therapy service for assistance with strength and mobility",
+            "category": "Category 1: Contact related",
+            "start_offset": 6812,
+            "end_offset": 6895,
+            "annotation_id": "LR_063"
+        },
+        {
+            "decision": "patient was ambulating freely, the wound was healing ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6935,
+            "end_offset": 6987,
+            "annotation_id": "LR_064"
+        },
+        {
+            "decision": "and pain was controlled with oral analgesics",
+            "category": "Category 5: Drug related",
+            "start_offset": 6988,
+            "end_offset": 7032,
+            "annotation_id": "LR_065"
+        },
+        {
+            "decision": "AMLODIPINE 2.5 mg 1 by mouth each morning",
+            "category": "Category 5: Drug related",
+            "start_offset": 7183,
+            "end_offset": 7224,
+            "annotation_id": "LR_066"
+        },
+        {
+            "decision": "ATORVASTATIN 40 mg 1 by mouth each morning",
+            "category": "Category 5: Drug related",
+            "start_offset": 7226,
+            "end_offset": 7268,
+            "annotation_id": "LR_067"
+        },
+        {
+            "decision": "COLCHICINE 0.6 mg 1 by mouth every morning,",
+            "category": "Category 5: Drug related",
+            "start_offset": 7270,
+            "end_offset": 7312,
+            "annotation_id": "LR_068"
+        },
+        {
+            "decision": "FLUTICASONE 50 mcg Spray [**Hospital1 **], ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7314,
+            "end_offset": 7355,
+            "annotation_id": "LR_069"
+        },
+        {
+            "decision": "LOSARTAN 100 mg daily,",
+            "category": "Category 5: Drug related",
+            "start_offset": 7357,
+            "end_offset": 7378,
+            "annotation_id": "LR_070"
+        },
+        {
+            "decision": "METOPROLOL SUCCINATE 50 mg 1.5 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7380,
+            "end_offset": 7416,
+            "annotation_id": "LR_071"
+        },
+        {
+            "decision": "OMEPRAZOLE 20 mg [**Hospital1 **],",
+            "category": "Category 5: Drug related",
+            "start_offset": 7418,
+            "end_offset": 7451,
+            "annotation_id": "LR_072"
+        },
+        {
+            "decision": "ASCORBIC ACID 500 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7453,
+            "end_offset": 7479,
+            "annotation_id": "LR_073"
+        },
+        {
+            "decision": "ASPIRIN 325 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7481,
+            "end_offset": 7501,
+            "annotation_id": "LR_074"
+        },
+        {
+            "decision": "FOLIC ACID 0.8 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7503,
+            "end_offset": 7526,
+            "annotation_id": "LR_075"
+        },
+        {
+            "decision": "1. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7551,
+            "end_offset": 7648,
+            "annotation_id": "LR_076"
+        },
+        {
+            "decision": "2. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7649,
+            "end_offset": 7747,
+            "annotation_id": "LR_077"
+        },
+        {
+            "decision": "3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7748,
+            "end_offset": 7913,
+            "annotation_id": "LR_078"
+        },
+        {
+            "decision": "4. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0",
+            "category": "Category 5: Drug related",
+            "start_offset": 7914,
+            "end_offset": 8047,
+            "annotation_id": "LR_079"
+        },
+        {
+            "decision": "5. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day: 2 tablets daily for 7 days the decrease to 1 tablet daily ongoing. Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8049,
+            "end_offset": 8210,
+            "annotation_id": "LR_080"
+        },
+        {
+            "decision": ". potassium chloride 10 mEq Tablet Extended Release Sig: Two (2) Tablet Extended Release PO Q12H (every 12 hours) for 7 days. Disp:*28 Tablet Extended Release(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8214,
+            "end_offset": 8386,
+            "annotation_id": "LR_081"
+        },
+        {
+            "decision": "7. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO DAILY (Daily). Disp:*30 Capsule, Ext Release 24 hr(s)* Refills:*2",
+            "category": "Category 5: Drug related",
+            "start_offset": 8387,
+            "end_offset": 8543,
+            "annotation_id": "LR_082"
+        },
+        {
+            "decision": "8. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 7 days. Disp:*14 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8545,
+            "end_offset": 8658,
+            "annotation_id": "LR_083"
+        },
+        {
+            "decision": "9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2",
+            "category": "Category 5: Drug related",
+            "start_offset": 8659,
+            "end_offset": 8769,
+            "annotation_id": "LR_084"
+        },
+        {
+            "decision": "10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8771,
+            "end_offset": 8888,
+            "annotation_id": "LR_085"
+        },
+        {
+            "decision": "11. Coumadin 2.5 mg Tablet Sig: as directed based on INR Tablet PO once a day:",
+            "category": "Category 5: Drug related",
+            "start_offset": 8891,
+            "end_offset": 8968,
+            "annotation_id": "LR_086"
+        },
+        {
+            "decision": "Indication afi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8970,
+            "end_offset": 8985,
+            "annotation_id": "LR_087"
+        },
+        {
+            "decision": "dose based on INR Goal INR 2.0-2.5",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 8986,
+            "end_offset": 9020,
+            "annotation_id": "LR_088"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9078,
+            "end_offset": 9086,
+            "annotation_id": "LR_089"
+        },
+        {
+            "decision": "for afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9087,
+            "end_offset": 9095,
+            "annotation_id": "LR_090"
+        },
+        {
+            "decision": "INR goal 2.0-2.5",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 9096,
+            "end_offset": 9112,
+            "annotation_id": "LR_091"
+        },
+        {
+            "decision": "Check INR [**2145-5-10**] then at least every other day until INR at goal then as needed.",
+            "category": "Category 11: Other - Further monitoring needed",
+            "start_offset": 9113,
+            "end_offset": 9201,
+            "annotation_id": "LR_092"
+        },
+        {
+            "decision": "call results to Dr. [**Last Name (STitle) 5263**] for coumadin dosing [**Telephone/Fax (1) 7401**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 9203,
+            "end_offset": 9301,
+            "annotation_id": "LR_093"
+        },
+        {
+            "decision": "13. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 9302,
+            "end_offset": 9414,
+            "annotation_id": "LR_094"
+        },
+        {
+            "decision": "14. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain, fever.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9416,
+            "end_offset": 9516,
+            "annotation_id": "LR_095"
+        },
+        {
+            "decision": "15. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9518,
+            "end_offset": 9595,
+            "annotation_id": "LR_096"
+        },
+        {
+            "decision": "Coronary artery disease ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9703,
+            "end_offset": 9726,
+            "annotation_id": "LR_097"
+        },
+        {
+            "decision": "s/p coronary artery bypass graft",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9727,
+            "end_offset": 9759,
+            "annotation_id": "LR_098"
+        },
+        {
+            "decision": "Glucose intolerance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9760,
+            "end_offset": 9779,
+            "annotation_id": "LR_099"
+        },
+        {
+            "decision": ", lipids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9781,
+            "end_offset": 9787,
+            "annotation_id": "LR_100"
+        },
+        {
+            "decision": ", GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9789,
+            "end_offset": 9793,
+            "annotation_id": "LR_101"
+        },
+        {
+            "decision": "Alert and oriented x3 nonfocal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9817,
+            "end_offset": 9847,
+            "annotation_id": "LR_102"
+        },
+        {
+            "decision": "Ambulating with steady gait",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9848,
+            "end_offset": 9875,
+            "annotation_id": "LR_103"
+        },
+        {
+            "decision": "Incisional pain managed ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9876,
+            "end_offset": 9899,
+            "annotation_id": "LR_104"
+        },
+        {
+            "decision": "oral anelgesics",
+            "category": "Category 5: Drug related",
+            "start_offset": 9905,
+            "end_offset": 9920,
+            "annotation_id": "LR_105"
+        },
+        {
+            "decision": "Sternal - healing well, no erythema or drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9932,
+            "end_offset": 9979,
+            "annotation_id": "LR_106"
+        },
+        {
+            "decision": "Leg Left - healing well, no erythema or drainage. Trace Edema ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9980,
+            "end_offset": 10041,
+            "annotation_id": "LR_107"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon. Look at your incisions daily for redness or drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10068,
+            "end_offset": 10238,
+            "annotation_id": "LR_108"
+        },
+        {
+            "decision": "Please NO lotions, cream, powder, or ointments to incision",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10239,
+            "end_offset": 10298,
+            "annotation_id": "LR_109"
+        },
+        {
+            "decision": "Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10299,
+            "end_offset": 10426,
+            "annotation_id": "LR_110"
+        },
+        {
+            "decision": " No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10428,
+            "end_offset": 10581,
+            "annotation_id": "LR_111"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10582,
+            "end_offset": 10625,
+            "annotation_id": "LR_112"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10626,
+            "end_offset": 10696,
+            "annotation_id": "LR_113"
+        },
+        {
+            "decision": "Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10697,
+            "end_offset": 10780,
+            "annotation_id": "LR_114"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours** ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10781,
+            "end_offset": 10942,
+            "annotation_id": "LR_115"
+        },
+        {
+            "decision": "You are scheduled for the following appointments Surgeon: Dr [**Last Name (STitle) **] [**2145-5-27**] at 1:30 AM Cardiologist: Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1655**] [**6-25**] @ 2:30pm",
+            "category": "Category 1: Contact related",
+            "start_offset": 10968,
+            "end_offset": 11188,
+            "annotation_id": "LR_116"
+        },
+        {
+            "decision": "Please call to schedule appointments with your Primary Care Dr. [**Last Name (STitle) 5263**] in [**5-18**] weeks [**Telephone/Fax (1) 7401**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 11190,
+            "end_offset": 11332,
+            "annotation_id": "LR_117"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 1: Contact related",
+            "start_offset": 11334,
+            "end_offset": 11495,
+            "annotation_id": "LR_118"
+        }
+    ]
+}

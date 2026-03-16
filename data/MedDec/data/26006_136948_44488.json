@@ -1,0 +1,524 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "26006_136948_44488",
+    "annotations": [
+        {
+            "decision": "history of metastatic parotid cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 197,
+            "end_offset": 233,
+            "annotation_id": "IA_000"
+        },
+        {
+            "decision": "coronary artery disease, diabetes mellitus type 2 and hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 235,
+            "end_offset": 301,
+            "annotation_id": "IA_001"
+        },
+        {
+            "decision": "the patient contact[**Name (NI) **] his primary care physician",
+            "category": "Category 1: Contact related",
+            "start_offset": 445,
+            "end_offset": 507,
+            "annotation_id": "IA_002"
+        },
+        {
+            "decision": "EKG was unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 881,
+            "end_offset": 898,
+            "annotation_id": "IA_003"
+        },
+        {
+            "decision": "hypertensive to 207/111",
+            "category": "Category 3: Defining problem",
+            "start_offset": 929,
+            "end_offset": 952,
+            "annotation_id": "IA_004"
+        },
+        {
+            "decision": "Lopressor",
+            "category": "Category 5: Drug related",
+            "start_offset": 987,
+            "end_offset": 996,
+            "annotation_id": "IA_005"
+        },
+        {
+            "decision": "Captopril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1003,
+            "end_offset": 1012,
+            "annotation_id": "IA_006"
+        },
+        {
+            "decision": "Isamine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1020,
+            "end_offset": 1027,
+            "annotation_id": "IA_007"
+        },
+        {
+            "decision": "blood pressure decreased to approximately 160/80",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1059,
+            "end_offset": 1107,
+            "annotation_id": "IA_008"
+        },
+        {
+            "decision": "Nipride",
+            "category": "Category 5: Drug related",
+            "start_offset": 1115,
+            "end_offset": 1122,
+            "annotation_id": "IA_009"
+        },
+        {
+            "decision": "agitation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1152,
+            "end_offset": 1161,
+            "annotation_id": "IA_010"
+        },
+        {
+            "decision": "febrile to 103.2 F., with rigors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1215,
+            "end_offset": 1247,
+            "annotation_id": "IA_011"
+        },
+        {
+            "decision": "Ceftriaxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1272,
+            "end_offset": 1283,
+            "annotation_id": "IA_012"
+        },
+        {
+            "decision": "CT scan of the chest, abdomen and head",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1332,
+            "end_offset": 1370,
+            "annotation_id": "IA_013"
+        },
+        {
+            "decision": "agitated, moaning and appeared uncomfortable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1467,
+            "end_offset": 1511,
+            "annotation_id": "IA_014"
+        },
+        {
+            "decision": "lumbar puncture was performed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1518,
+            "end_offset": 1547,
+            "annotation_id": "IA_015"
+        },
+        {
+            "decision": "Diabetes mellitus type 2 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1576,
+            "end_offset": 1600,
+            "annotation_id": "IA_016"
+        },
+        {
+            "decision": "2.  Hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1650,
+            "end_offset": 1666,
+            "annotation_id": "IA_017"
+        },
+        {
+            "decision": "3.  Hypercholesterolemia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1668,
+            "end_offset": 1692,
+            "annotation_id": "IA_018"
+        },
+        {
+            "decision": "4.  Coronary artery disease with a history of inferior myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1694,
+            "end_offset": 1770,
+            "annotation_id": "IA_019"
+        },
+        {
+            "decision": "TPA ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1784,
+            "end_offset": 1787,
+            "annotation_id": "IA_020"
+        },
+        {
+            "decision": "negative exercise treadmill test",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1822,
+            "end_offset": 1854,
+            "annotation_id": "IA_021"
+        },
+        {
+            "decision": "Right adenoid cystic carcinoma of the parotid gland",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1874,
+            "end_offset": 1925,
+            "annotation_id": "IA_022"
+        },
+        {
+            "decision": "status post resection ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1926,
+            "end_offset": 1947,
+            "annotation_id": "IA_023"
+        },
+        {
+            "decision": "XRT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1997,
+            "end_offset": 2000,
+            "annotation_id": "IA_024"
+        },
+        {
+            "decision": "XRT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2065,
+            "end_offset": 2068,
+            "annotation_id": "IA_025"
+        },
+        {
+            "decision": "facial nerve palsy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2105,
+            "end_offset": 2123,
+            "annotation_id": "IA_026"
+        },
+        {
+            "decision": "Repair of macular hole",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2250,
+            "end_offset": 2272,
+            "annotation_id": "IA_027"
+        },
+        {
+            "decision": "1.  Lisinopril 20 mg p.o. q. day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2293,
+            "end_offset": 2325,
+            "annotation_id": "IA_028"
+        },
+        {
+            "decision": "2.  Glyburide 5 mg p.o. q. day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2327,
+            "end_offset": 2357,
+            "annotation_id": "IA_029"
+        },
+        {
+            "decision": "3.  Metformin 1000 mg p.o. twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2359,
+            "end_offset": 2397,
+            "annotation_id": "IA_030"
+        },
+        {
+            "decision": "4.  Metoprolol 50 mg p.o. twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2399,
+            "end_offset": 2436,
+            "annotation_id": "IA_031"
+        },
+        {
+            "decision": "5.  Sandostatin 20 mg p.o. q. day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2438,
+            "end_offset": 2471,
+            "annotation_id": "IA_032"
+        },
+        {
+            "decision": "6.  Aspirin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2473,
+            "end_offset": 2484,
+            "annotation_id": "IA_033"
+        },
+        {
+            "decision": "7.  Vitamin D.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2486,
+            "end_offset": 2499,
+            "annotation_id": "IA_034"
+        },
+        {
+            "decision": "In general, he was moaning, ill-appearing, and in moderate distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2836,
+            "end_offset": 2903,
+            "annotation_id": "IA_035"
+        },
+        {
+            "decision": "HEENT:  Pupils are equal, round and reactive to light. Extraocular muscles are intact.  There was a right facial droop which is chronic and a purulent discharge from the right ear.  Mucous membranes were dry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2905,
+            "end_offset": 3112,
+            "annotation_id": "IA_036"
+        },
+        {
+            "decision": "Neck:  There was nuchal rigidity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3115,
+            "end_offset": 3147,
+            "annotation_id": "IA_037"
+        },
+        {
+            "decision": "Cardiovascular:  Regular, tachycardic, with a soft systolic murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3150,
+            "end_offset": 3216,
+            "annotation_id": "IA_038"
+        },
+        {
+            "decision": "Lungs:  Tachypneic.  Clear to auscultation bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3219,
+            "end_offset": 3273,
+            "annotation_id": "IA_039"
+        },
+        {
+            "decision": "Abdomen soft, nontender, nondistended.  Positive bowel sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3276,
+            "end_offset": 3337,
+            "annotation_id": "IA_040"
+        },
+        {
+            "decision": "Extremities warm with no edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3340,
+            "end_offset": 3370,
+            "annotation_id": "IA_041"
+        },
+        {
+            "decision": "Rectal:  Guaiac negative per Emergency Department staff.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3373,
+            "end_offset": 3428,
+            "annotation_id": "IA_042"
+        },
+        {
+            "decision": "Neurological:  Moving all extremities.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3431,
+            "end_offset": 3468,
+            "annotation_id": "IA_043"
+        },
+        {
+            "decision": "A toxicology screen was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3650,
+            "end_offset": 3682,
+            "annotation_id": "IA_044"
+        },
+        {
+            "decision": "Chest x-ray was within normal limits",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3685,
+            "end_offset": 3721,
+            "annotation_id": "IA_045"
+        },
+        {
+            "decision": "A head CT scan showed no evidence of mass or bleed but did show a defect in the calvarium consistent with a metastatic focus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3724,
+            "end_offset": 3848,
+            "annotation_id": "IA_046"
+        },
+        {
+            "decision": "EKG was unchanged from prior.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3851,
+            "end_offset": 3879,
+            "annotation_id": "IA_047"
+        },
+        {
+            "decision": "A swab of the ear discharge showed two plus neutrophils and four plus Gram positive cocci in pairs, chains and clusters",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3882,
+            "end_offset": 4001,
+            "annotation_id": "IA_048"
+        },
+        {
+            "decision": "bacterial meningitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4463,
+            "end_offset": 4483,
+            "annotation_id": "IA_049"
+        },
+        {
+            "decision": "Ceftriaxone, Ampicillin and Vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4525,
+            "end_offset": 4563,
+            "annotation_id": "IA_050"
+        },
+        {
+            "decision": "Infectious Disease Service was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4603,
+            "end_offset": 4643,
+            "annotation_id": "IA_051"
+        },
+        {
+            "decision": "hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4695,
+            "end_offset": 4707,
+            "annotation_id": "IA_052"
+        },
+        {
+            "decision": "Nipride drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 4737,
+            "end_offset": 4749,
+            "annotation_id": "IA_053"
+        },
+        {
+            "decision": "intubated and placed on the mechanical ventilator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4810,
+            "end_offset": 4859,
+            "annotation_id": "IA_054"
+        },
+        {
+            "decision": "CK rose slightly and he had a troponin leak which peaked at 9.9",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4910,
+            "end_offset": 4973,
+            "annotation_id": "IA_055"
+        },
+        {
+            "decision": "hematocrit drop",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5050,
+            "end_offset": 5065,
+            "annotation_id": "IA_056"
+        },
+        {
+            "decision": "aspirin, beta blocker and Simvastatin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5122,
+            "end_offset": 5159,
+            "annotation_id": "IA_057"
+        },
+        {
+            "decision": "underwent repeat head CT scan with contrast to evaluate for possible abscess or a sinus tract connecting with the cerebrospinal fluid (likely through the metastatic focus near the right ear",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5193,
+            "end_offset": 5382,
+            "annotation_id": "IA_058"
+        },
+        {
+            "decision": "CT scan showed the developed of new hydrocephalus and possible impending herniation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5391,
+            "end_offset": 5474,
+            "annotation_id": "IA_059"
+        },
+        {
+            "decision": "It also showed blood or pus in the posterior occipital [**Doctor Last Name 534**] of the lateral ventricles",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5477,
+            "end_offset": 5584,
+            "annotation_id": "IA_060"
+        },
+        {
+            "decision": "a Neurosurgery consultation was obtained",
+            "category": "Category 1: Contact related",
+            "start_offset": 5610,
+            "end_offset": 5650,
+            "annotation_id": "IA_061"
+        },
+        {
+            "decision": "a ventricular drain was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5655,
+            "end_offset": 5685,
+            "annotation_id": "IA_062"
+        },
+        {
+            "decision": "Ceftriaxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5702,
+            "end_offset": 5713,
+            "annotation_id": "IA_063"
+        },
+        {
+            "decision": "Ceftazidine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5734,
+            "end_offset": 5745,
+            "annotation_id": "IA_064"
+        },
+        {
+            "decision": "labile blood pressure, quickly cycling between systolics of 140 and 205",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5880,
+            "end_offset": 5951,
+            "annotation_id": "IA_065"
+        },
+        {
+            "decision": "he was unresponsive, despite being off sedation for eight to ten hours",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5970,
+            "end_offset": 6040,
+            "annotation_id": "IA_066"
+        },
+        {
+            "decision": "Pupils were sluggishly reactive and he had an abnormal oculocephalic reflex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6043,
+            "end_offset": 6118,
+            "annotation_id": "IA_067"
+        },
+        {
+            "decision": "brain dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6146,
+            "end_offset": 6163,
+            "annotation_id": "IA_068"
+        },
+        {
+            "decision": "no further interventions and that they wanted further treatment to be focused on comfort measures only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 6299,
+            "end_offset": 6401,
+            "annotation_id": "IA_069"
+        },
+        {
+            "decision": "morphine and Ativan",
+            "category": "Category 5: Drug related",
+            "start_offset": 6442,
+            "end_offset": 6461,
+            "annotation_id": "IA_070"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6498,
+            "end_offset": 6507,
+            "annotation_id": "IA_071"
+        },
+        {
+            "decision": "morphine and Ativan ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6526,
+            "end_offset": 6545,
+            "annotation_id": "IA_072"
+        },
+        {
+            "decision": "Fulminant bacterial meningitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6685,
+            "end_offset": 6715,
+            "annotation_id": "IA_073"
+        }
+    ]
+}

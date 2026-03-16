@@ -1,0 +1,797 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "18825_121640_25486",
+    "annotations": [
+        {
+            "decision": "Pt presented s/p fall w/bilaterall lower ext weakness w/parasthesias and difficulty handeling secretions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 268,
+            "end_offset": 372,
+            "annotation_id": "EI_000"
+        },
+        {
+            "decision": "Cervical stabilization anterior partial vertebrectomies c4-5,c6-7",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 413,
+            "end_offset": 478,
+            "annotation_id": "EI_001"
+        },
+        {
+            "decision": "diabetes type II",
+            "category": "Category 3: Defining problem",
+            "start_offset": 541,
+            "end_offset": 557,
+            "annotation_id": "EI_002"
+        },
+        {
+            "decision": "mild asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 558,
+            "end_offset": 569,
+            "annotation_id": "EI_003"
+        },
+        {
+            "decision": "virus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 622,
+            "end_offset": 627,
+            "annotation_id": "EI_004"
+        },
+        {
+            "decision": "lower extremity edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 628,
+            "end_offset": 649,
+            "annotation_id": "EI_005"
+        },
+        {
+            "decision": "newly diagnosed T3N1 poorly differentiated esophageal cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 650,
+            "end_offset": 710,
+            "annotation_id": "EI_006"
+        },
+        {
+            "decision": "inguinal hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 751,
+            "end_offset": 766,
+            "annotation_id": "EI_007"
+        },
+        {
+            "decision": "inguinal hernia repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 751,
+            "end_offset": 773,
+            "annotation_id": "EI_008"
+        },
+        {
+            "decision": "status post exploratory laparotomy i",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 792,
+            "end_offset": 829,
+            "annotation_id": "EI_009"
+        },
+        {
+            "decision": "abdominal pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 845,
+            "end_offset": 859,
+            "annotation_id": "EI_010"
+        },
+        {
+            "decision": "incidental cholecystectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 887,
+            "end_offset": 913,
+            "annotation_id": "EI_011"
+        },
+        {
+            "decision": "appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 918,
+            "end_offset": 930,
+            "annotation_id": "EI_012"
+        },
+        {
+            "decision": "NAD, A&Ox3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1413,
+            "end_offset": 1423,
+            "annotation_id": "EI_013"
+        },
+        {
+            "decision": "Echymosis bilateral orbits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1424,
+            "end_offset": 1450,
+            "annotation_id": "EI_014"
+        },
+        {
+            "decision": "PERRLA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1451,
+            "end_offset": 1457,
+            "annotation_id": "EI_015"
+        },
+        {
+            "decision": "RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1458,
+            "end_offset": 1461,
+            "annotation_id": "EI_016"
+        },
+        {
+            "decision": "Course BS bilat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1462,
+            "end_offset": 1477,
+            "annotation_id": "EI_017"
+        },
+        {
+            "decision": "Abdomen soft, NT/ND",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1478,
+            "end_offset": 1497,
+            "annotation_id": "EI_018"
+        },
+        {
+            "decision": "left bicep, +[**1-20**] left tricep, [**2-20**] bilateral hand grips, [**1-20**] right bicep and tricep, [**12-22**] DTR LUE, [**11-21**] LUE, 0/4 Bilat LE, bilat downgoing toes, sensation intact but describes as \"pins and needles sensation\" on bilateral UE.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1518,
+            "end_offset": 1775,
+            "annotation_id": "EI_019"
+        },
+        {
+            "decision": "Admited to TSICU after transfer from NEH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2653,
+            "end_offset": 2693,
+            "annotation_id": "EI_020"
+        },
+        {
+            "decision": "steroid gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 2697,
+            "end_offset": 2708,
+            "annotation_id": "EI_021"
+        },
+        {
+            "decision": "spinal intervention",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2723,
+            "end_offset": 2742,
+            "annotation_id": "EI_022"
+        },
+        {
+            "decision": "increased secretions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2762,
+            "end_offset": 2782,
+            "annotation_id": "EI_023"
+        },
+        {
+            "decision": "OR delayed secondary to increased secretions",
+            "category": "Category 8: Deferment",
+            "start_offset": 2801,
+            "end_offset": 2845,
+            "annotation_id": "EI_024"
+        },
+        {
+            "decision": "increased secretions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2825,
+            "end_offset": 2845,
+            "annotation_id": "EI_025"
+        },
+        {
+            "decision": "OR for Anterior fusion from C4-C7",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2863,
+            "end_offset": 2896,
+            "annotation_id": "EI_026"
+        },
+        {
+            "decision": "Anterior partial vertebrectomy of C5, C6, C7",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2898,
+            "end_offset": 2942,
+            "annotation_id": "EI_027"
+        },
+        {
+            "decision": "Anterior discectomies C4-5, C5-6, C6-7 Anterior instrumentation C4-C7",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2944,
+            "end_offset": 3013,
+            "annotation_id": "EI_028"
+        },
+        {
+            "decision": "Structural allograft",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3015,
+            "end_offset": 3035,
+            "annotation_id": "EI_029"
+        },
+        {
+            "decision": "Stable postoperatively",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3037,
+            "end_offset": 3059,
+            "annotation_id": "EI_030"
+        },
+        {
+            "decision": "Right groin line placed after failed attempt on right subclavian w/small right apical pneumothorax",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3062,
+            "end_offset": 3160,
+            "annotation_id": "EI_031"
+        },
+        {
+            "decision": "small right apical pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3129,
+            "end_offset": 3160,
+            "annotation_id": "EI_032"
+        },
+        {
+            "decision": "Episode of hypotension w/position change ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3162,
+            "end_offset": 3202,
+            "annotation_id": "EI_033"
+        },
+        {
+            "decision": "requiring neosynephrine",
+            "category": "Category 5: Drug related",
+            "start_offset": 3203,
+            "end_offset": 3226,
+            "annotation_id": "EI_034"
+        },
+        {
+            "decision": "and fluid boluses.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3227,
+            "end_offset": 3244,
+            "annotation_id": "EI_035"
+        },
+        {
+            "decision": "Hematocrit drop from 33 to 26",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3264,
+            "end_offset": 3293,
+            "annotation_id": "EI_036"
+        },
+        {
+            "decision": "Transfused",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3295,
+            "end_offset": 3305,
+            "annotation_id": "EI_037"
+        },
+        {
+            "decision": "OR for: Total laminectomy of C3, C4, C5, C6. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3324,
+            "end_offset": 3367,
+            "annotation_id": "EI_038"
+        },
+        {
+            "decision": "Fusion C4-C7. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3369,
+            "end_offset": 3381,
+            "annotation_id": "EI_039"
+        },
+        {
+            "decision": "Autograft",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3383,
+            "end_offset": 3392,
+            "annotation_id": "EI_040"
+        },
+        {
+            "decision": "soft tissue mass ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3406,
+            "end_offset": 3422,
+            "annotation_id": "EI_041"
+        },
+        {
+            "decision": "Excision of soft tissue mass in the posterior cervical region.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3394,
+            "end_offset": 3455,
+            "annotation_id": "EI_042"
+        },
+        {
+            "decision": "CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3460,
+            "end_offset": 3464,
+            "annotation_id": "EI_043"
+        },
+        {
+            "decision": "PS ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3465,
+            "end_offset": 3467,
+            "annotation_id": "EI_044"
+        },
+        {
+            "decision": "occasional desats and increased secretions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3478,
+            "end_offset": 3520,
+            "annotation_id": "EI_045"
+        },
+        {
+            "decision": "Sputum returns w/gram neg rods w/levofloxacin",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3539,
+            "end_offset": 3584,
+            "annotation_id": "EI_046"
+        },
+        {
+            "decision": "levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3572,
+            "end_offset": 3584,
+            "annotation_id": "EI_047"
+        },
+        {
+            "decision": "Attempted placement of dobhoff tube unsuccesfully",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3594,
+            "end_offset": 3643,
+            "annotation_id": "EI_048"
+        },
+        {
+            "decision": "extubated sucessfully",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3670,
+            "end_offset": 3691,
+            "annotation_id": "EI_049"
+        },
+        {
+            "decision": "Patient failed swallow study w/frank aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3710,
+            "end_offset": 3757,
+            "annotation_id": "EI_050"
+        },
+        {
+            "decision": "Feeding tube by IR.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3759,
+            "end_offset": 3777,
+            "annotation_id": "EI_051"
+        },
+        {
+            "decision": "Tube feeds started after placement of feeding tube by IR.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3796,
+            "end_offset": 3852,
+            "annotation_id": "EI_052"
+        },
+        {
+            "decision": "A-Line removed, femoral line removed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3854,
+            "end_offset": 3890,
+            "annotation_id": "EI_053"
+        },
+        {
+            "decision": "mild hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3893,
+            "end_offset": 3908,
+            "annotation_id": "EI_054"
+        },
+        {
+            "decision": "approx 200cc blood loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3910,
+            "end_offset": 3933,
+            "annotation_id": "EI_055"
+        },
+        {
+            "decision": "stopped w/direct pressure",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3935,
+            "end_offset": 3960,
+            "annotation_id": "EI_056"
+        },
+        {
+            "decision": "Hct and coags normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3962,
+            "end_offset": 3982,
+            "annotation_id": "EI_057"
+        },
+        {
+            "decision": "Droping urine output ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3984,
+            "end_offset": 4004,
+            "annotation_id": "EI_058"
+        },
+        {
+            "decision": "Droping urine output responsive to fluid boluses",
+            "category": "Category 5: Drug related",
+            "start_offset": 3984,
+            "end_offset": 4032,
+            "annotation_id": "EI_059"
+        },
+        {
+            "decision": "fall and head trauma, ? C-spine injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4236,
+            "end_offset": 4274,
+            "annotation_id": "EI_060"
+        },
+        {
+            "decision": "Fall and head trauma and C-spine injury on outside CT and MRI, evaluate fracture.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4369,
+            "end_offset": 4449,
+            "annotation_id": "EI_061"
+        },
+        {
+            "decision": "Axial MDCT images were obtained through the cervical spine without intravenous contrast. Additional coronal and sagittal reformations are provided.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4515,
+            "end_offset": 4661,
+            "annotation_id": "EI_062"
+        },
+        {
+            "decision": "The cervical spine is imaged from C1 through T3. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4718,
+            "end_offset": 4765,
+            "annotation_id": "EI_063"
+        },
+        {
+            "decision": "minimally displaced fracture through the spinous process of C4 extending to the posterior arch of C4. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4778,
+            "end_offset": 4878,
+            "annotation_id": "EI_064"
+        },
+        {
+            "decision": "Minimally displaced fractures of the tips of the spinous processes of C5. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4880,
+            "end_offset": 4952,
+            "annotation_id": "EI_065"
+        },
+        {
+            "decision": "Mildly displaced fracture of the spinous process of C7.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4954,
+            "end_offset": 5008,
+            "annotation_id": "EI_066"
+        },
+        {
+            "decision": "There is malalignment of the component vertebrae at C4-5, with grade 1 retrolisthesis of C4 on C5 and with marked widening of the intervertebral disc space anteriorly.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5010,
+            "end_offset": 5176,
+            "annotation_id": "EI_067"
+        },
+        {
+            "decision": "There is additional widening of the intervertebral disc space anteriorly at C6-7.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5178,
+            "end_offset": 5258,
+            "annotation_id": "EI_068"
+        },
+        {
+            "decision": "There is marked narrowing of the spinal canal at C4-5 due to retrolisthesis of C4 on C5 and angulation of the spine at this level.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5260,
+            "end_offset": 5389,
+            "annotation_id": "EI_069"
+        },
+        {
+            "decision": "The prevertebral soft tissues are widened diffusely. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5391,
+            "end_offset": 5442,
+            "annotation_id": "EI_070"
+        },
+        {
+            "decision": "hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5629,
+            "end_offset": 5637,
+            "annotation_id": "EI_071"
+        },
+        {
+            "decision": "In addition, there is a suggestion of hyperdensity within the widened intervertebral disc spaces at C4-5 and C6-7 as well as within the prevertebral soft tissues, possibly representing hematoma.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5444,
+            "end_offset": 5637,
+            "annotation_id": "EI_072"
+        },
+        {
+            "decision": "nondisplaced fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5860,
+            "end_offset": 5881,
+            "annotation_id": "EI_073"
+        },
+        {
+            "decision": "There is an additional questionable linear lucency within the anterior inferior aspect of the C2 vertebra on the sagittal views only without clear correlate on the axial views, finding that could represent artifact Vs. a nondisplaced fracture.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5639,
+            "end_offset": 5881,
+            "annotation_id": "EI_074"
+        },
+        {
+            "decision": "The visualized portions of the lung apices appear unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5883,
+            "end_offset": 5945,
+            "annotation_id": "EI_075"
+        },
+        {
+            "decision": "Fractures of the spinous processes at C4, C5, and C7.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5962,
+            "end_offset": 6014,
+            "annotation_id": "EI_076"
+        },
+        {
+            "decision": "Cervical spine malalignment of C4-5 and C6-7, with retrolisthesis and intervertebral disc space widening at C4-5 and disc space widening at C6-7, and spinal stenosis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6019,
+            "end_offset": 6184,
+            "annotation_id": "EI_077"
+        },
+        {
+            "decision": "The findings are highly suggestive of ligamentous injury at these locations. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6186,
+            "end_offset": 6261,
+            "annotation_id": "EI_078"
+        },
+        {
+            "decision": "MRI should be considered for assessment of the spinal cord as well as soft tissues.",
+            "category": "Category 11: Other",
+            "start_offset": 6263,
+            "end_offset": 6345,
+            "annotation_id": "EI_079"
+        },
+        {
+            "decision": "Marked expansion of the prevertebral soft tissues consistent with hematoma and edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6350,
+            "end_offset": 6434,
+            "annotation_id": "EI_080"
+        },
+        {
+            "decision": "Questionable artifact Vs. nondisplaced fracture of the anterior inferior corner of C2 vertebra, seen on the sagittal reconstructions only.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6439,
+            "end_offset": 6576,
+            "annotation_id": "EI_081"
+        },
+        {
+            "decision": "Results were discussed with the orthopedic resident at the time of interpretation ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6578,
+            "end_offset": 6659,
+            "annotation_id": "EI_082"
+        },
+        {
+            "decision": "The study and the report were reviewed by the staff radiologist.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6673,
+            "end_offset": 6736,
+            "annotation_id": "EI_083"
+        },
+        {
+            "decision": "DR. [**First Name (STitle) 8913**] R.M. SUN",
+            "category": "Category 1: Contact related",
+            "start_offset": 6738,
+            "end_offset": 6781,
+            "annotation_id": "EI_084"
+        },
+        {
+            "decision": "DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 21104**] Approved: WED [**2120-8-28**] 8:58 AM",
+            "category": "Category 1: Contact related",
+            "start_offset": 6782,
+            "end_offset": 6926,
+            "annotation_id": "EI_085"
+        },
+        {
+            "decision": "Actose 30 QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 6954,
+            "end_offset": 6966,
+            "annotation_id": "EI_086"
+        },
+        {
+            "decision": "Glucophage 250 QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 6968,
+            "end_offset": 6985,
+            "annotation_id": "EI_087"
+        },
+        {
+            "decision": "Methadone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6987,
+            "end_offset": 6996,
+            "annotation_id": "EI_088"
+        },
+        {
+            "decision": "Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7024,
+            "end_offset": 7106,
+            "annotation_id": "EI_089"
+        },
+        {
+            "decision": "Albuterol Sulfate 0.083 % Solution Sig: [**11-19**]  Inhalation Q4H (every 4 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7112,
+            "end_offset": 7194,
+            "annotation_id": "EI_090"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs PO Q4-6H (every 4 to 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7200,
+            "end_offset": 7300,
+            "annotation_id": "EI_091"
+        },
+        {
+            "decision": "Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO PRN (as needed) as needed for Mg<2.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7305,
+            "end_offset": 7392,
+            "annotation_id": "EI_092"
+        },
+        {
+            "decision": "Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7397,
+            "end_offset": 7480,
+            "annotation_id": "EI_093"
+        },
+        {
+            "decision": "Potassium Chloride 20 mEq Packet Sig: Two (2) Packet PO PRN (as needed) as needed for K<4.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7485,
+            "end_offset": 7574,
+            "annotation_id": "EI_094"
+        },
+        {
+            "decision": "Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7579,
+            "end_offset": 7649,
+            "annotation_id": "EI_095"
+        },
+        {
+            "decision": "Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One (1)  PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7655,
+            "end_offset": 7734,
+            "annotation_id": "EI_096"
+        },
+        {
+            "decision": "Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO ONCE (once) for 1 doses.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7740,
+            "end_offset": 7841,
+            "annotation_id": "EI_097"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7847,
+            "end_offset": 7921,
+            "annotation_id": "EI_098"
+        },
+        {
+            "decision": "Insulin Regular Human 100 unit/mL Solution Sig: Sliding Scale  Injection ASDIR (AS DIRECTED).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7928,
+            "end_offset": 8019,
+            "annotation_id": "EI_099"
+        },
+        {
+            "decision": ". Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous  DAILY (Daily) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8026,
+            "end_offset": 8127,
+            "annotation_id": "EI_100"
+        },
+        {
+            "decision": "Magnesium Sulfate 50 % Solution Sig: One (1)  Injection ONCE (once) for 1 doses.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8133,
+            "end_offset": 8212,
+            "annotation_id": "EI_101"
+        },
+        {
+            "decision": "Cervical subluxation C4-5",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8307,
+            "end_offset": 8332,
+            "annotation_id": "EI_102"
+        },
+        {
+            "decision": "Central cord syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8333,
+            "end_offset": 8354,
+            "annotation_id": "EI_103"
+        },
+        {
+            "decision": "good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8378,
+            "end_offset": 8382,
+            "annotation_id": "EI_104"
+        },
+        {
+            "decision": "keep collar on when out of bed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8409,
+            "end_offset": 8439,
+            "annotation_id": "EI_105"
+        },
+        {
+            "decision": "Keep incision clean and dry",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8441,
+            "end_offset": 8468,
+            "annotation_id": "EI_106"
+        },
+        {
+            "decision": "Daily dressing changes to surgical incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8470,
+            "end_offset": 8514,
+            "annotation_id": "EI_107"
+        },
+        {
+            "decision": "Pneumatic boots  Cervical collar:   At all times may elevate HOB",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8572,
+            "end_offset": 8636,
+            "annotation_id": "EI_108"
+        },
+        {
+            "decision": "No heavy lifting (no lifting>10lbs)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8637,
+            "end_offset": 8671,
+            "annotation_id": "EI_109"
+        },
+        {
+            "decision": "Site: ant/post cervical  Type:  Surgical  Dressing:  Gauze - dry  Change dressing:  qd",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8697,
+            "end_offset": 8783,
+            "annotation_id": "EI_110"
+        },
+        {
+            "decision": "Site: Healing incision to ant, neck Description: Incision Care: dry sterile dressing",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8784,
+            "end_offset": 8868,
+            "annotation_id": "EI_111"
+        },
+        {
+            "decision": "10 days from date of discharge with Dr [**Last Name (STitle) 363**] [**Telephone/Fax (1) 3573**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8894,
+            "end_offset": 8990,
+            "annotation_id": "EI_112"
+        }
+    ]
+}

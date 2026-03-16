@@ -1,0 +1,2414 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "22581_120312_11162",
+    "annotations": [
+        {
+            "decision": "Found Unresponsive",
+            "category": "Category 1: Contact related",
+            "start_offset": 276,
+            "end_offset": 294,
+            "annotation_id": "GJ_000"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 334,
+            "end_offset": 343,
+            "annotation_id": "GJ_001"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 366,
+            "end_offset": 375,
+            "annotation_id": "GJ_002"
+        },
+        {
+            "decision": "history of marginal zone lymphoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 437,
+            "end_offset": 470,
+            "annotation_id": "GJ_003"
+        },
+        {
+            "decision": "s/p splenectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 471,
+            "end_offset": 486,
+            "annotation_id": "GJ_004"
+        },
+        {
+            "decision": "found unresponsive for up to 1 hour",
+            "category": "Category 3: Defining problem",
+            "start_offset": 520,
+            "end_offset": 555,
+            "annotation_id": "GJ_005"
+        },
+        {
+            "decision": "recent flu vaccination",
+            "category": "Category 5: Drug related",
+            "start_offset": 584,
+            "end_offset": 606,
+            "annotation_id": "GJ_006"
+        },
+        {
+            "decision": "history of shingles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 706,
+            "end_offset": 725,
+            "annotation_id": "GJ_007"
+        },
+        {
+            "decision": "EMS found the patient to be tachycardic, but with poor pulses and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 916,
+            "end_offset": 993,
+            "annotation_id": "GJ_008"
+        },
+        {
+            "decision": "cardioverted ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1011,
+            "end_offset": 1023,
+            "annotation_id": "GJ_009"
+        },
+        {
+            "decision": "he was still found to be unresponsive with the following vital signs: T 101.3, HR 144, SBP 72, RR44",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1059,
+            "end_offset": 1158,
+            "annotation_id": "GJ_010"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1167,
+            "end_offset": 1176,
+            "annotation_id": "GJ_011"
+        },
+        {
+            "decision": "3 pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 1192,
+            "end_offset": 1202,
+            "annotation_id": "GJ_012"
+        },
+        {
+            "decision": "Initial WBC was 3.1 with 12% bands; eventually the count rose to 13.1 with 44% bands. BUN/CR 23/2.1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1204,
+            "end_offset": 1303,
+            "annotation_id": "GJ_013"
+        },
+        {
+            "decision": "broad spectrum antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1323,
+            "end_offset": 1349,
+            "annotation_id": "GJ_014"
+        },
+        {
+            "decision": "sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1361,
+            "end_offset": 1367,
+            "annotation_id": "GJ_015"
+        },
+        {
+            "decision": "His sputum grew unspeciated yeast; gram stain showed rare squamous cells, few polys, few yeast, and no bacteria.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1418,
+            "end_offset": 1529,
+            "annotation_id": "GJ_016"
+        },
+        {
+            "decision": "urine, sputum, and CSF cultures were negative for any growth.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1542,
+            "end_offset": 1602,
+            "annotation_id": "GJ_017"
+        },
+        {
+            "decision": "negative head CT.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1664,
+            "end_offset": 1680,
+            "annotation_id": "GJ_018"
+        },
+        {
+            "decision": "Gram stain and CSF cultures were negative for microrganisms and growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1738,
+            "end_offset": 1808,
+            "annotation_id": "GJ_019"
+        },
+        {
+            "decision": "Coagulation labs were elevated on admission with PT 22.8 and PTT 130.0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1810,
+            "end_offset": 1880,
+            "annotation_id": "GJ_020"
+        },
+        {
+            "decision": "Fibrinogen was initially low and then increased",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1882,
+            "end_offset": 1929,
+            "annotation_id": "GJ_021"
+        },
+        {
+            "decision": "his coags remained elevated and platelets progressively dropped (to nadir of 46K). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1959,
+            "end_offset": 2039,
+            "annotation_id": "GJ_022"
+        },
+        {
+            "decision": "There was evidence of schistocytes on peripheral blood smear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2042,
+            "end_offset": 2102,
+            "annotation_id": "GJ_023"
+        },
+        {
+            "decision": "the patient was panscanned; head CT at the OSH showed multiple areas of bilateral hypoattenuation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2136,
+            "end_offset": 2233,
+            "annotation_id": "GJ_024"
+        },
+        {
+            "decision": "A 2nd CT scan from the OSH demonstrated multiple brain lesions, some located in watershed areas, but no evidence of increased intracranial pressure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2235,
+            "end_offset": 2382,
+            "annotation_id": "GJ_025"
+        },
+        {
+            "decision": "Chest CT had large, dependent consolidations with air bronchograms and multiple foci of airspace opacity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2384,
+            "end_offset": 2488,
+            "annotation_id": "GJ_026"
+        },
+        {
+            "decision": "pneumonia secondary to aspiration versus CHF exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2519,
+            "end_offset": 2576,
+            "annotation_id": "GJ_027"
+        },
+        {
+            "decision": "diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2607,
+            "end_offset": 2615,
+            "annotation_id": "GJ_028"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2637,
+            "end_offset": 2646,
+            "annotation_id": "GJ_029"
+        },
+        {
+            "decision": "the patient was almost completely unresponsive to voice/noxious stimuli ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2696,
+            "end_offset": 2767,
+            "annotation_id": "GJ_030"
+        },
+        {
+            "decision": "broadly with antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2871,
+            "end_offset": 2895,
+            "annotation_id": "GJ_031"
+        },
+        {
+            "decision": "antifungals ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2900,
+            "end_offset": 2911,
+            "annotation_id": "GJ_032"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2915,
+            "end_offset": 2925,
+            "annotation_id": "GJ_033"
+        },
+        {
+            "decision": "ceftazadine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2927,
+            "end_offset": 2938,
+            "annotation_id": "GJ_034"
+        },
+        {
+            "decision": "azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2940,
+            "end_offset": 2952,
+            "annotation_id": "GJ_035"
+        },
+        {
+            "decision": "clindamycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2954,
+            "end_offset": 2965,
+            "annotation_id": "GJ_036"
+        },
+        {
+            "decision": "acyclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 2967,
+            "end_offset": 2976,
+            "annotation_id": "GJ_037"
+        },
+        {
+            "decision": "liposomal ambisome",
+            "category": "Category 5: Drug related",
+            "start_offset": 2982,
+            "end_offset": 3000,
+            "annotation_id": "GJ_038"
+        },
+        {
+            "decision": "Pressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 3002,
+            "end_offset": 3017,
+            "annotation_id": "GJ_039"
+        },
+        {
+            "decision": "neosynephrin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3027,
+            "end_offset": 3039,
+            "annotation_id": "GJ_040"
+        },
+        {
+            "decision": "vasopressin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3044,
+            "end_offset": 3055,
+            "annotation_id": "GJ_041"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3076,
+            "end_offset": 3085,
+            "annotation_id": "GJ_042"
+        },
+        {
+            "decision": "vent settings were adjusted to AC 550 x20, FiO2 60%, PEEP 8",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3126,
+            "end_offset": 3185,
+            "annotation_id": "GJ_043"
+        },
+        {
+            "decision": "Antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3187,
+            "end_offset": 3198,
+            "annotation_id": "GJ_044"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3215,
+            "end_offset": 3225,
+            "annotation_id": "GJ_045"
+        },
+        {
+            "decision": "levoquin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3227,
+            "end_offset": 3235,
+            "annotation_id": "GJ_046"
+        },
+        {
+            "decision": "zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 3237,
+            "end_offset": 3242,
+            "annotation_id": "GJ_047"
+        },
+        {
+            "decision": "ambisome ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3248,
+            "end_offset": 3256,
+            "annotation_id": "GJ_048"
+        },
+        {
+            "decision": "Acyclovir ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3281,
+            "end_offset": 3290,
+            "annotation_id": "GJ_049"
+        },
+        {
+            "decision": "stable blood pressure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3339,
+            "end_offset": 3360,
+            "annotation_id": "GJ_050"
+        },
+        {
+            "decision": "pressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 3364,
+            "end_offset": 3379,
+            "annotation_id": "GJ_051"
+        },
+        {
+            "decision": "the patient appeared jaundiced with icterus, had anasarca, and was nonresponsive to painful stimuli",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3500,
+            "end_offset": 3599,
+            "annotation_id": "GJ_052"
+        },
+        {
+            "decision": "Petechiae were noted on the oral mucous membrane.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3601,
+            "end_offset": 3649,
+            "annotation_id": "GJ_053"
+        },
+        {
+            "decision": "Breath sounds were decreased at the bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3651,
+            "end_offset": 3692,
+            "annotation_id": "GJ_054"
+        },
+        {
+            "decision": "Cardiac and abdominal exam were unremarkable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3694,
+            "end_offset": 3738,
+            "annotation_id": "GJ_055"
+        },
+        {
+            "decision": "Extremities had 3+ pitting edema to the thighs, flaccid muscle tone, and absent reflexes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3740,
+            "end_offset": 3828,
+            "annotation_id": "GJ_056"
+        },
+        {
+            "decision": "Pupil equal round reactive to light, doll's eyes showed no movement, he was non responsive to painful stimuli, and had minimal corneal or gag reflexes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3831,
+            "end_offset": 3981,
+            "annotation_id": "GJ_057"
+        },
+        {
+            "decision": "head MRI ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3985,
+            "end_offset": 3993,
+            "annotation_id": "GJ_058"
+        },
+        {
+            "decision": "Neuroradiology observed basal ganglia and cerebellar lesions consistent with watershed infarctions and some remaining lesions that were not located in watershed areas",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4046,
+            "end_offset": 4212,
+            "annotation_id": "GJ_059"
+        },
+        {
+            "decision": "septic with hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4287,
+            "end_offset": 4310,
+            "annotation_id": "GJ_060"
+        },
+        {
+            "decision": "TTE/TEE were negative for vegetations, PFO, or suspicious aortic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4375,
+            "end_offset": 4447,
+            "annotation_id": "GJ_061"
+        },
+        {
+            "decision": "EEG showed no evidence of seizure activity. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4477,
+            "end_offset": 4519,
+            "annotation_id": "GJ_062"
+        },
+        {
+            "decision": "It showed diffuse slowing consistent with toxic/metabolic encephalopathy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4521,
+            "end_offset": 4593,
+            "annotation_id": "GJ_063"
+        },
+        {
+            "decision": "completely unresponsive to voice/noxious stimuli ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4618,
+            "end_offset": 4666,
+            "annotation_id": "GJ_064"
+        },
+        {
+            "decision": "Neuro exam @ OSH w/ evidence of brainstem findings, however, here, pt??????s PERRL, conjugate gaze, doll??????s eyes intact, intact corneal, intact gag reflexes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4748,
+            "end_offset": 4908,
+            "annotation_id": "GJ_065"
+        },
+        {
+            "decision": "he had slow recovery in mental status.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4921,
+            "end_offset": 4958,
+            "annotation_id": "GJ_066"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5001,
+            "end_offset": 5010,
+            "annotation_id": "GJ_067"
+        },
+        {
+            "decision": "he had waxing/[**Doctor Last Name 688**] lethargy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5046,
+            "end_offset": 5095,
+            "annotation_id": "GJ_068"
+        },
+        {
+            "decision": "Blood pressure was stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5097,
+            "end_offset": 5122,
+            "annotation_id": "GJ_069"
+        },
+        {
+            "decision": "The leading diagnosis was overwhelming sepsis with hypotension and watershed infarctions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5152,
+            "end_offset": 5240,
+            "annotation_id": "GJ_070"
+        },
+        {
+            "decision": "antibiotic",
+            "category": "Category 5: Drug related",
+            "start_offset": 5369,
+            "end_offset": 5379,
+            "annotation_id": "GJ_071"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5416,
+            "end_offset": 5426,
+            "annotation_id": "GJ_072"
+        },
+        {
+            "decision": "levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5428,
+            "end_offset": 5440,
+            "annotation_id": "GJ_073"
+        },
+        {
+            "decision": "zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 5446,
+            "end_offset": 5451,
+            "annotation_id": "GJ_074"
+        },
+        {
+            "decision": "acyclovir ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5465,
+            "end_offset": 5474,
+            "annotation_id": "GJ_075"
+        },
+        {
+            "decision": "Zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5511,
+            "end_offset": 5516,
+            "annotation_id": "GJ_076"
+        },
+        {
+            "decision": "meropenem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5540,
+            "end_offset": 5549,
+            "annotation_id": "GJ_077"
+        },
+        {
+            "decision": "levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5558,
+            "end_offset": 5570,
+            "annotation_id": "GJ_078"
+        },
+        {
+            "decision": "vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5646,
+            "end_offset": 5656,
+            "annotation_id": "GJ_079"
+        },
+        {
+            "decision": "meropenem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5661,
+            "end_offset": 5670,
+            "annotation_id": "GJ_080"
+        },
+        {
+            "decision": "transfer to the medicine floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 5688,
+            "end_offset": 5718,
+            "annotation_id": "GJ_081"
+        },
+        {
+            "decision": "ID consult",
+            "category": "Category 1: Contact related",
+            "start_offset": 5720,
+            "end_offset": 5730,
+            "annotation_id": "GJ_082"
+        },
+        {
+            "decision": "follow up imaging on CT",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5764,
+            "end_offset": 5787,
+            "annotation_id": "GJ_083"
+        },
+        {
+            "decision": "transfer to the medicine service",
+            "category": "Category 1: Contact related",
+            "start_offset": 5811,
+            "end_offset": 5843,
+            "annotation_id": "GJ_084"
+        },
+        {
+            "decision": "possible PEG placement ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5887,
+            "end_offset": 5909,
+            "annotation_id": "GJ_085"
+        },
+        {
+            "decision": "been NPO in the ICU and was getting free water repletion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6002,
+            "end_offset": 6058,
+            "annotation_id": "GJ_086"
+        },
+        {
+            "decision": "hypernatremia secondary to inadequate oral intake and resulting hypoalbuminemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6063,
+            "end_offset": 6142,
+            "annotation_id": "GJ_087"
+        },
+        {
+            "decision": "He also had anasarca with weeping fluid from lesions in the upper extremities due to the volume overload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6145,
+            "end_offset": 6249,
+            "annotation_id": "GJ_088"
+        },
+        {
+            "decision": "lasix 40mg iv qam, 20mg iv qpm ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6356,
+            "end_offset": 6386,
+            "annotation_id": "GJ_089"
+        },
+        {
+            "decision": "The patient also developed acute renal failure likely ATN in setting of hypoperfusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6412,
+            "end_offset": 6497,
+            "annotation_id": "GJ_090"
+        },
+        {
+            "decision": "he was never oliguric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6508,
+            "end_offset": 6529,
+            "annotation_id": "GJ_091"
+        },
+        {
+            "decision": "Creatinine trended down close to baseline while treated in the ICU",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6531,
+            "end_offset": 6597,
+            "annotation_id": "GJ_092"
+        },
+        {
+            "decision": "Leukopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6622,
+            "end_offset": 6632,
+            "annotation_id": "GJ_093"
+        },
+        {
+            "decision": "Marginal zone lymphoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6633,
+            "end_offset": 6655,
+            "annotation_id": "GJ_094"
+        },
+        {
+            "decision": "s/p splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6656,
+            "end_offset": 6671,
+            "annotation_id": "GJ_095"
+        },
+        {
+            "decision": "NAD in bed, alert and awake, breathing comfortably on RA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6973,
+            "end_offset": 7029,
+            "annotation_id": "GJ_096"
+        },
+        {
+            "decision": "EOMI, MMMI, anicteric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7037,
+            "end_offset": 7058,
+            "annotation_id": "GJ_097"
+        },
+        {
+            "decision": "clear anteriorly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7065,
+            "end_offset": 7081,
+            "annotation_id": "GJ_098"
+        },
+        {
+            "decision": "RRR nl s1 s2, 3/6 SEM at LUSB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7086,
+            "end_offset": 7115,
+            "annotation_id": "GJ_099"
+        },
+        {
+            "decision": "soft/ND/NT, +bs, no masses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7121,
+            "end_offset": 7147,
+            "annotation_id": "GJ_100"
+        },
+        {
+            "decision": "anasarca improved, 2+ pitting edema to ankles, scrotal edema improved, flaccid muscle tone, no reflex. +gauze and tegaderm dressing on both hands c/d/i",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7154,
+            "end_offset": 7305,
+            "annotation_id": "GJ_101"
+        },
+        {
+            "decision": "arousable to voice, can mouth/whisper simple one word answers, following commands with facial muscles, not moving extremities spontaneously, weak hand grips, slight movement of right toes but not left, responsive to painful stimuli, no babinski, +corneal reflex and gag reflex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7313,
+            "end_offset": 7589,
+            "annotation_id": "GJ_102"
+        },
+        {
+            "decision": "no rash, multiple healing lesions on arms and hands ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7596,
+            "end_offset": 7647,
+            "annotation_id": "GJ_103"
+        },
+        {
+            "decision": "ASSIST/CON INTUBATED-INTUBATED",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7825,
+            "end_offset": 7855,
+            "annotation_id": "GJ_104"
+        },
+        {
+            "decision": "BCx M/F, routine ngtd",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9847,
+            "end_offset": 9868,
+            "annotation_id": "GJ_105"
+        },
+        {
+            "decision": "sputum >25 P, <10 E, no org. Cx oral flora, sparse yeast",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9880,
+            "end_offset": 9936,
+            "annotation_id": "GJ_106"
+        },
+        {
+            "decision": "BCx ngtd",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9948,
+            "end_offset": 9956,
+            "annotation_id": "GJ_107"
+        },
+        {
+            "decision": "UCx neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9968,
+            "end_offset": 9975,
+            "annotation_id": "GJ_108"
+        },
+        {
+            "decision": "BCx M/F ngtd. Cdiff neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9988,
+            "end_offset": 10011,
+            "annotation_id": "GJ_109"
+        },
+        {
+            "decision": "cath tip R fem negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10024,
+            "end_offset": 10047,
+            "annotation_id": "GJ_110"
+        },
+        {
+            "decision": "CrAg negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10060,
+            "end_offset": 10073,
+            "annotation_id": "GJ_111"
+        },
+        {
+            "decision": "sputum GS negative, >25P<10E. fungal Cx C.albicans AFB conc neg.Nocardia Cx neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10086,
+            "end_offset": 10165,
+            "annotation_id": "GJ_112"
+        },
+        {
+            "decision": "UCx BCx neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10178,
+            "end_offset": 10189,
+            "annotation_id": "GJ_113"
+        },
+        {
+            "decision": ". diff neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10205,
+            "end_offset": 10213,
+            "annotation_id": "GJ_114"
+        },
+        {
+            "decision": "BCx neg 10/27 M/F neg ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10226,
+            "end_offset": 10247,
+            "annotation_id": "GJ_115"
+        },
+        {
+            "decision": "CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2199-12-9**]): FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA. x3",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10260,
+            "end_offset": 10367,
+            "annotation_id": "GJ_116"
+        },
+        {
+            "decision": "AEROBIC BOTTLE (Final [**2199-12-8**]):    NO GROWTH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10378,
+            "end_offset": 10430,
+            "annotation_id": "GJ_117"
+        },
+        {
+            "decision": "ANAEROBIC BOTTLE (Final [**2199-12-8**]):    NO GROWTH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10432,
+            "end_offset": 10486,
+            "annotation_id": "GJ_118"
+        },
+        {
+            "decision": "BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10488,
+            "end_offset": 10545,
+            "annotation_id": "GJ_119"
+        },
+        {
+            "decision": "BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10547,
+            "end_offset": 10607,
+            "annotation_id": "GJ_120"
+        },
+        {
+            "decision": "URINE CULTURE (Final [**2199-12-2**]):    NO GROWTH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10618,
+            "end_offset": 10669,
+            "annotation_id": "GJ_121"
+        },
+        {
+            "decision": "GRAM STAIN (Final [**2199-12-1**]): >25 PMNs and <10 epithelial cells/100X field. NO MICROORGANISMS SEEN",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10679,
+            "end_offset": 10783,
+            "annotation_id": "GJ_122"
+        },
+        {
+            "decision": "RESPIRATORY CULTURE (Final [**2199-12-3**]): SPARSE GROWTH OROPHARYNGEAL FLORA. YEAST.    SPARSE GROWTH. PREDOMINATING ORGANISM",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10785,
+            "end_offset": 10912,
+            "annotation_id": "GJ_123"
+        },
+        {
+            "decision": "CRYPTOCOCCAL ANTIGEN (Final [**2199-11-29**]): CRYPTOCOCCAL ANTIGEN NOT DETECTED",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10928,
+            "end_offset": 11008,
+            "annotation_id": "GJ_124"
+        },
+        {
+            "decision": "ECG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11031,
+            "end_offset": 11034,
+            "annotation_id": "GJ_125"
+        },
+        {
+            "decision": "Sinus rhythm, Nonspecific inferolateral T wave changes, No previous tracing Rate PR QRS QT/QTc P QRS T 97 182 82 [**Telephone/Fax (2) 35947**] 39 48 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11035,
+            "end_offset": 11183,
+            "annotation_id": "GJ_126"
+        },
+        {
+            "decision": "EEG- This is an abnormal portable EEG due to the presence of a slow and low voltage background rhythm predominantly in the [**3-5**] Hz delta frequency range with very low voltage superimposed theta frequency activity at times",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11197,
+            "end_offset": 11423,
+            "annotation_id": "GJ_127"
+        },
+        {
+            "decision": "there was occasional mild to moderate amplitude generalized delta frequency slowing",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11438,
+            "end_offset": 11521,
+            "annotation_id": "GJ_128"
+        },
+        {
+            "decision": "deep, midline, subcortical dysfunction and are consistent with a  moderate to severe encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11546,
+            "end_offset": 11645,
+            "annotation_id": "GJ_129"
+        },
+        {
+            "decision": "No lateralizing or epileptiform abnormalities were seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11647,
+            "end_offset": 11702,
+            "annotation_id": "GJ_130"
+        },
+        {
+            "decision": "Note was made of sinus tachycardia with  occasional ectopy on the cardiac monitor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11704,
+            "end_offset": 11785,
+            "annotation_id": "GJ_131"
+        },
+        {
+            "decision": "MRI head - The MR [**First Name (Titles) 29765**] [**Last Name (Titles) 4059**] areas of abnormal increased signal intensity on the FLAIR and fast spin-echo images that were seen as hypodense areas on the CT scan",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11800,
+            "end_offset": 12012,
+            "annotation_id": "GJ_132"
+        },
+        {
+            "decision": "These were identified in the cerebellar hemispheres bilaterally, greater on the left than right, in the globus pallidus bilaterally, and in the right frontal subcortical and periventricular white matter",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12014,
+            "end_offset": 12216,
+            "annotation_id": "GJ_133"
+        },
+        {
+            "decision": "Also identified on the MR, but not on the CT scan, is a region of hyperintensity in the mid-brain on the left, as well as several smaller white matter lesions bilaterally in the frontal white matter",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12218,
+            "end_offset": 12416,
+            "annotation_id": "GJ_134"
+        },
+        {
+            "decision": "There is no evidence of hemorrhage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12418,
+            "end_offset": 12452,
+            "annotation_id": "GJ_135"
+        },
+        {
+            "decision": "These areas demonstrate a normal slow diffusion on the diffusion weighted series, and there is mild contrast enhancment in the right frontal periventricular white matter, the globus pallidus bilaterally, and the brainstem lesions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12454,
+            "end_offset": 12683,
+            "annotation_id": "GJ_136"
+        },
+        {
+            "decision": "These findings are most suspicious for infarction in these locations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12685,
+            "end_offset": 12753,
+            "annotation_id": "GJ_137"
+        },
+        {
+            "decision": "Note that the globus pallidus involvement is characteristic of severe hypoxia or hypoperfusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12845,
+            "end_offset": 12939,
+            "annotation_id": "GJ_138"
+        },
+        {
+            "decision": "The magnetic resounance arteriography study [**Last Name (Titles) 4059**] no significant abnormalities.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13023,
+            "end_offset": 13125,
+            "annotation_id": "GJ_139"
+        },
+        {
+            "decision": "The vertebral arteries, vertebrobasilar junction, internal carotid arteries, and their major intracranial branches appear normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13127,
+            "end_offset": 13255,
+            "annotation_id": "GJ_140"
+        },
+        {
+            "decision": "Note that there is an artifact across the mid-portion of the basilar artery, as well as across the internal carotid arteries that produces an artifactual apparent stenosis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13257,
+            "end_offset": 13428,
+            "annotation_id": "GJ_141"
+        },
+        {
+            "decision": "Multiple posterior fossa, brainstem, and supratentorial lesions, most suspicious for infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13441,
+            "end_offset": 13536,
+            "annotation_id": "GJ_142"
+        },
+        {
+            "decision": "The bilateral globus pallidus involvement would suggest global hypoxia or hypoperfusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13538,
+            "end_offset": 13625,
+            "annotation_id": "GJ_143"
+        },
+        {
+            "decision": "However, the distribution of the remainder of the lesions is more suspicious for an embolic source.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13627,
+            "end_offset": 13725,
+            "annotation_id": "GJ_144"
+        },
+        {
+            "decision": "Echo TEE ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13740,
+            "end_offset": 13748,
+            "annotation_id": "GJ_145"
+        },
+        {
+            "decision": "no vegetations, no sign of endocarditis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13751,
+            "end_offset": 13790,
+            "annotation_id": "GJ_146"
+        },
+        {
+            "decision": "The left atrium is normal in size. No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13791,
+            "end_offset": 13982,
+            "annotation_id": "GJ_147"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13984,
+            "end_offset": 14071,
+            "annotation_id": "GJ_148"
+        },
+        {
+            "decision": "Regional left ventricular wall motion is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14075,
+            "end_offset": 14122,
+            "annotation_id": "GJ_149"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14124,
+            "end_offset": 14186,
+            "annotation_id": "GJ_150"
+        },
+        {
+            "decision": "There are simple atheroma in the aortic arch",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14188,
+            "end_offset": 14232,
+            "annotation_id": "GJ_151"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) appear structurally normal with good leaflet excursion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14234,
+            "end_offset": 14318,
+            "annotation_id": "GJ_152"
+        },
+        {
+            "decision": "The aortic valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14320,
+            "end_offset": 14366,
+            "annotation_id": "GJ_153"
+        },
+        {
+            "decision": "No masses or vegetations are seen on the aortic valve",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14368,
+            "end_offset": 14421,
+            "annotation_id": "GJ_154"
+        },
+        {
+            "decision": "There is no aortic valve stenosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14423,
+            "end_offset": 14456,
+            "annotation_id": "GJ_155"
+        },
+        {
+            "decision": "No aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14458,
+            "end_offset": 14489,
+            "annotation_id": "GJ_156"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal with trivial mitral regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14491,
+            "end_offset": 14569,
+            "annotation_id": "GJ_157"
+        },
+        {
+            "decision": "No mass or vegetation is seen on the mitral valve.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14571,
+            "end_offset": 14620,
+            "annotation_id": "GJ_158"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14622,
+            "end_offset": 14654,
+            "annotation_id": "GJ_159"
+        },
+        {
+            "decision": "No evidence for endocarditis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14669,
+            "end_offset": 14697,
+            "annotation_id": "GJ_160"
+        },
+        {
+            "decision": "Portable Abd Xray",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14712,
+            "end_offset": 14729,
+            "annotation_id": "GJ_161"
+        },
+        {
+            "decision": "The distribution of bowel gas is unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14730,
+            "end_offset": 14775,
+            "annotation_id": "GJ_162"
+        },
+        {
+            "decision": "No evidence for intestinal obstruction and no radiographic findings to suggest ischemic bowel",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14777,
+            "end_offset": 14870,
+            "annotation_id": "GJ_163"
+        },
+        {
+            "decision": "The diaphragms and upper abdomen are not included on the film",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14872,
+            "end_offset": 14933,
+            "annotation_id": "GJ_164"
+        },
+        {
+            "decision": "No soft tissue masses or radiopaque calculi.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14935,
+            "end_offset": 14978,
+            "annotation_id": "GJ_165"
+        },
+        {
+            "decision": "Video Swallow",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14993,
+            "end_offset": 15006,
+            "annotation_id": "GJ_166"
+        },
+        {
+            "decision": "Fluoroscopic imaging assistance was performed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15007,
+            "end_offset": 15052,
+            "annotation_id": "GJ_167"
+        },
+        {
+            "decision": "video oropharyngeal swallow during which the patient ingested barium material of varying consistencies including softs, thick liquid, thin liquid, and a tablet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15114,
+            "end_offset": 15273,
+            "annotation_id": "GJ_168"
+        },
+        {
+            "decision": "Bolus control and formation was noted to be impaired",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15275,
+            "end_offset": 15327,
+            "annotation_id": "GJ_169"
+        },
+        {
+            "decision": "There was mild pooling of residue in the vallecular space and to a lesser degree into the piriform sinuses.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15329,
+            "end_offset": 15435,
+            "annotation_id": "GJ_170"
+        },
+        {
+            "decision": "Trace penetration during the secondary swallowing phase was noted but no frank aspiration",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15437,
+            "end_offset": 15526,
+            "annotation_id": "GJ_171"
+        },
+        {
+            "decision": "No aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15539,
+            "end_offset": 15552,
+            "annotation_id": "GJ_172"
+        },
+        {
+            "decision": "Minimal penetration of residue spillover during the secondary swallow phase",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15554,
+            "end_offset": 15629,
+            "annotation_id": "GJ_173"
+        },
+        {
+            "decision": "Echo",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15800,
+            "end_offset": 15804,
+            "annotation_id": "GJ_174"
+        },
+        {
+            "decision": "The left atrium is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15805,
+            "end_offset": 15838,
+            "annotation_id": "GJ_175"
+        },
+        {
+            "decision": "Left ventricular wall thicknesses and cavity size are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15840,
+            "end_offset": 15900,
+            "annotation_id": "GJ_176"
+        },
+        {
+            "decision": "Left ventricular systolic function is hyperdynamic (EF 70-80%).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15902,
+            "end_offset": 15962,
+            "annotation_id": "GJ_177"
+        },
+        {
+            "decision": "There is an abnormal systolic flow contour at rest, but no left ventricular outflow obstruction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15966,
+            "end_offset": 16061,
+            "annotation_id": "GJ_178"
+        },
+        {
+            "decision": "No masses or thrombi are seen in the left ventricle",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16063,
+            "end_offset": 16114,
+            "annotation_id": "GJ_179"
+        },
+        {
+            "decision": "defect",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16147,
+            "end_offset": 16153,
+            "annotation_id": "GJ_180"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16155,
+            "end_offset": 16217,
+            "annotation_id": "GJ_181"
+        },
+        {
+            "decision": "The number of aortic valve leaflets cannot be determined",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16219,
+            "end_offset": 16275,
+            "annotation_id": "GJ_182"
+        },
+        {
+            "decision": "The aortic valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16277,
+            "end_offset": 16323,
+            "annotation_id": "GJ_183"
+        },
+        {
+            "decision": "There is no aortic valve stenosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16325,
+            "end_offset": 16358,
+            "annotation_id": "GJ_184"
+        },
+        {
+            "decision": "No aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16360,
+            "end_offset": 16391,
+            "annotation_id": "GJ_185"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16393,
+            "end_offset": 16439,
+            "annotation_id": "GJ_186"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16476,
+            "end_offset": 16512,
+            "annotation_id": "GJ_187"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16514,
+            "end_offset": 16572,
+            "annotation_id": "GJ_188"
+        },
+        {
+            "decision": "There is a trivial/physiologic pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16574,
+            "end_offset": 16625,
+            "annotation_id": "GJ_189"
+        },
+        {
+            "decision": "No vegetations seen on any valve",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16627,
+            "end_offset": 16659,
+            "annotation_id": "GJ_190"
+        },
+        {
+            "decision": "the left ventricle is now hyperdynamic",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16745,
+            "end_offset": 16783,
+            "annotation_id": "GJ_191"
+        },
+        {
+            "decision": "The absence of a vegetation by  2D echocardiography does not exclude endocarditis if clinically suggested.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16785,
+            "end_offset": 16890,
+            "annotation_id": "GJ_192"
+        },
+        {
+            "decision": "THE ABDOMEN WITH AND WITHOUT IV CONTRAST",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16905,
+            "end_offset": 16945,
+            "annotation_id": "GJ_193"
+        },
+        {
+            "decision": "There are moderate to large bilateral pleural effusions with associated atelectasis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16947,
+            "end_offset": 17030,
+            "annotation_id": "GJ_194"
+        },
+        {
+            "decision": "The visualized heart is unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17090,
+            "end_offset": 17126,
+            "annotation_id": "GJ_195"
+        },
+        {
+            "decision": "The liver, gallbladder, pancreas, adrenals, and intra-abdominal large and small bowel are normal in appearance.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17128,
+            "end_offset": 17238,
+            "annotation_id": "GJ_196"
+        },
+        {
+            "decision": "Both kidneys contain several small hypodensities likely representing cysts",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17240,
+            "end_offset": 17314,
+            "annotation_id": "GJ_197"
+        },
+        {
+            "decision": "The kidneys are otherwise normal in appearance",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17316,
+            "end_offset": 17362,
+            "annotation_id": "GJ_198"
+        },
+        {
+            "decision": "No spleen is identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17364,
+            "end_offset": 17387,
+            "annotation_id": "GJ_199"
+        },
+        {
+            "decision": "There is no evidence of pancreatitis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17389,
+            "end_offset": 17425,
+            "annotation_id": "GJ_200"
+        },
+        {
+            "decision": "There is no dilation of the extra or intrahepatic bile duct",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17427,
+            "end_offset": 17486,
+            "annotation_id": "GJ_201"
+        },
+        {
+            "decision": "No free air, free fluid, or pathologic lymphadenopathy is seen within the abdomen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17488,
+            "end_offset": 17569,
+            "annotation_id": "GJ_202"
+        },
+        {
+            "decision": "CT OF THE PELVIS WITH IV CONTRAST",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17571,
+            "end_offset": 17604,
+            "annotation_id": "GJ_203"
+        },
+        {
+            "decision": "The rectum, sigmoid, distal ureters, and bladder are unremarkable in appearance",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17606,
+            "end_offset": 17685,
+            "annotation_id": "GJ_204"
+        },
+        {
+            "decision": "Foley catheter ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17689,
+            "end_offset": 17703,
+            "annotation_id": "GJ_205"
+        },
+        {
+            "decision": "A Foley catheter is seen within the bladder",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17687,
+            "end_offset": 17730,
+            "annotation_id": "GJ_206"
+        },
+        {
+            "decision": "A collection of fluid is seen in the pelvis in the presacral area",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17732,
+            "end_offset": 17797,
+            "annotation_id": "GJ_207"
+        },
+        {
+            "decision": "A rounded low attenuation structure is seen in the right paraspinal region inferior and posterior to the psoas muscle and the right ureter which may be slightly anteriorly displaced",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17799,
+            "end_offset": 17980,
+            "annotation_id": "GJ_208"
+        },
+        {
+            "decision": "This measures approximately 30HU in attenuation with possible slight rim enhancement and is of uncertain cause or significance",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17982,
+            "end_offset": 18108,
+            "annotation_id": "GJ_209"
+        },
+        {
+            "decision": "The adjacent vertebra is unremarkable and it doesnot appear to represent a thrombosed vessel",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18110,
+            "end_offset": 18202,
+            "annotation_id": "GJ_210"
+        },
+        {
+            "decision": "There is no pathologic inguinal or pelvic lymphadenopathy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18204,
+            "end_offset": 18261,
+            "annotation_id": "GJ_211"
+        },
+        {
+            "decision": "A small right fat containing inguinal hernia is present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18263,
+            "end_offset": 18318,
+            "annotation_id": "GJ_212"
+        },
+        {
+            "decision": "The osseous structures are unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18319,
+            "end_offset": 18358,
+            "annotation_id": "GJ_213"
+        },
+        {
+            "decision": "The soft tissues demonstrate mild edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18360,
+            "end_offset": 18399,
+            "annotation_id": "GJ_214"
+        },
+        {
+            "decision": "Moderate to large size bilateral pleural effusions with associated atelectasis which are unchanged from the prior outside study",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18412,
+            "end_offset": 18539,
+            "annotation_id": "GJ_215"
+        },
+        {
+            "decision": "No evidence of pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18541,
+            "end_offset": 18568,
+            "annotation_id": "GJ_216"
+        },
+        {
+            "decision": "No spleen is seen in the left upper quadrant.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18570,
+            "end_offset": 18614,
+            "annotation_id": "GJ_217"
+        },
+        {
+            "decision": "portable chest xray",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 18792,
+            "end_offset": 18811,
+            "annotation_id": "GJ_218"
+        },
+        {
+            "decision": "The tip of the PICC line is in the region of the junction of the left brachiocephalic vein and SVC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18812,
+            "end_offset": 18910,
+            "annotation_id": "GJ_219"
+        },
+        {
+            "decision": "There is opacity at the left base obscurring the left hemidiaphragm as previously demonstrated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18912,
+            "end_offset": 19006,
+            "annotation_id": "GJ_220"
+        },
+        {
+            "decision": "No pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19008,
+            "end_offset": 19023,
+            "annotation_id": "GJ_221"
+        },
+        {
+            "decision": "history of diet controlled DM and marginal zone splenic lymphoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19087,
+            "end_offset": 19151,
+            "annotation_id": "GJ_222"
+        },
+        {
+            "decision": "s/p splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19152,
+            "end_offset": 19167,
+            "annotation_id": "GJ_223"
+        },
+        {
+            "decision": "He was found nonresponsive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19169,
+            "end_offset": 19195,
+            "annotation_id": "GJ_224"
+        },
+        {
+            "decision": "multiple cardioversions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19207,
+            "end_offset": 19230,
+            "annotation_id": "GJ_225"
+        },
+        {
+            "decision": "presented to [**Hospital 1474**] hospital",
+            "category": "Category 1: Contact related",
+            "start_offset": 19236,
+            "end_offset": 19277,
+            "annotation_id": "GJ_226"
+        },
+        {
+            "decision": "He was transferred to [**Hospital1 18**] and then the ICU.",
+            "category": "Category 11: Other",
+            "start_offset": 19279,
+            "end_offset": 19336,
+            "annotation_id": "GJ_227"
+        },
+        {
+            "decision": "sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19358,
+            "end_offset": 19364,
+            "annotation_id": "GJ_228"
+        },
+        {
+            "decision": "suspected pulmonary and CNS emboli",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19423,
+            "end_offset": 19457,
+            "annotation_id": "GJ_229"
+        },
+        {
+            "decision": "s/p intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19538,
+            "end_offset": 19552,
+            "annotation_id": "GJ_230"
+        },
+        {
+            "decision": "He also had hypotension complicated by CNS hypoperfusion, respiratroy failure s/p intubation, ARF secondary to ATN, and anemia of chronic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19460,
+            "end_offset": 19605,
+            "annotation_id": "GJ_231"
+        },
+        {
+            "decision": "His mental status improved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 19607,
+            "end_offset": 19633,
+            "annotation_id": "GJ_232"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 19668,
+            "end_offset": 19677,
+            "annotation_id": "GJ_233"
+        },
+        {
+            "decision": "transferred stably to the medicine floor [**12-9**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 19693,
+            "end_offset": 19744,
+            "annotation_id": "GJ_234"
+        },
+        {
+            "decision": "His decreased mental status was considered secondary to presumed sepsis and hypoperfusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19748,
+            "end_offset": 19837,
+            "annotation_id": "GJ_235"
+        },
+        {
+            "decision": "He is able to communicate with nodding or mouthing one word answers to simple questions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19932,
+            "end_offset": 20019,
+            "annotation_id": "GJ_236"
+        },
+        {
+            "decision": "Extremities are mostly flaccid with very slight movement of the fingertips and right toes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 20021,
+            "end_offset": 20110,
+            "annotation_id": "GJ_237"
+        },
+        {
+            "decision": "MRI showed a cerbellar/basal ganglia watershed infarct with other areas suspicious for an embolic event",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 20113,
+            "end_offset": 20216,
+            "annotation_id": "GJ_238"
+        },
+        {
+            "decision": "anticoagulation",
+            "category": "Category 5: Drug related",
+            "start_offset": 20258,
+            "end_offset": 20273,
+            "annotation_id": "GJ_239"
+        },
+        {
+            "decision": "Carotid ultrasound and TEE were negative for thrombus, diminishing likelihood of septic emboli",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 20275,
+            "end_offset": 20369,
+            "annotation_id": "GJ_240"
+        },
+        {
+            "decision": "No organism was identified since blood, urine, CSF, and sputum cultures had no growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 20371,
+            "end_offset": 20456,
+            "annotation_id": "GJ_241"
+        },
+        {
+            "decision": "ID consultation ",
+            "category": "Category 1: Contact related",
+            "start_offset": 20459,
+            "end_offset": 20474,
+            "annotation_id": "GJ_242"
+        },
+        {
+            "decision": "antibiotic ",
+            "category": "Category 5: Drug related",
+            "start_offset": 20504,
+            "end_offset": 20514,
+            "annotation_id": "GJ_243"
+        },
+        {
+            "decision": "broad spectrum antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 20566,
+            "end_offset": 20592,
+            "annotation_id": "GJ_244"
+        },
+        {
+            "decision": ".  IV vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 20595,
+            "end_offset": 20608,
+            "annotation_id": "GJ_245"
+        },
+        {
+            "decision": "Meropenem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 20767,
+            "end_offset": 20776,
+            "annotation_id": "GJ_246"
+        },
+        {
+            "decision": "imipenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 20792,
+            "end_offset": 20800,
+            "annotation_id": "GJ_247"
+        },
+        {
+            "decision": "meropenem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 20819,
+            "end_offset": 20828,
+            "annotation_id": "GJ_248"
+        },
+        {
+            "decision": "IV medications ",
+            "category": "Category 5: Drug related",
+            "start_offset": 20882,
+            "end_offset": 20896,
+            "annotation_id": "GJ_249"
+        },
+        {
+            "decision": "PICC line ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 20954,
+            "end_offset": 20963,
+            "annotation_id": "GJ_250"
+        },
+        {
+            "decision": "IV antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 21082,
+            "end_offset": 21096,
+            "annotation_id": "GJ_251"
+        },
+        {
+            "decision": "follow up in [**Hospital **] clinic with Dr. [**Last Name (STitle) **] on [**1-13**], [**2199**], at 10AM on [**First Name8 (NamePattern2) **] [**Hospital Ward Name **] Bldg Ste 6B",
+            "category": "Category 1: Contact related",
+            "start_offset": 21145,
+            "end_offset": 21325,
+            "annotation_id": "GJ_252"
+        },
+        {
+            "decision": "Labs to be checked every 3-4 days in the [**Hospital1 1501**] including CBC w/diff and ANC, LFTs, chemistry panel that can be faxed to Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 35948**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 21327,
+            "end_offset": 21524,
+            "annotation_id": "GJ_253"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 21553,
+            "end_offset": 21564,
+            "annotation_id": "GJ_254"
+        },
+        {
+            "decision": "liver damage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 21575,
+            "end_offset": 21587,
+            "annotation_id": "GJ_255"
+        },
+        {
+            "decision": "decrease blood cell counts",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 21592,
+            "end_offset": 21618,
+            "annotation_id": "GJ_256"
+        },
+        {
+            "decision": "neutrophil count has trended downward ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 21635,
+            "end_offset": 21672,
+            "annotation_id": "GJ_257"
+        },
+        {
+            "decision": "marginal zone lymphoma and longstanding history of leukopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 21747,
+            "end_offset": 21808,
+            "annotation_id": "GJ_258"
+        },
+        {
+            "decision": "neutrophilia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 21833,
+            "end_offset": 21845,
+            "annotation_id": "GJ_259"
+        },
+        {
+            "decision": "meropenem-induced leukopenia",
+            "category": "Category 5: Drug related",
+            "start_offset": 21876,
+            "end_offset": 21904,
+            "annotation_id": "GJ_260"
+        },
+        {
+            "decision": "Folate was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 21906,
+            "end_offset": 21923,
+            "annotation_id": "GJ_261"
+        },
+        {
+            "decision": "A repeat head and chest CT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 21926,
+            "end_offset": 21952,
+            "annotation_id": "GJ_262"
+        },
+        {
+            "decision": "antibiotic ",
+            "category": "Category 5: Drug related",
+            "start_offset": 21971,
+            "end_offset": 21981,
+            "annotation_id": "GJ_263"
+        },
+        {
+            "decision": "follow up in stroke clinic with Dr. [**First Name (STitle) **]. Call [**Telephone/Fax (1) 35949**] to make an appointment.",
+            "category": "Category 1: Contact related",
+            "start_offset": 22062,
+            "end_offset": 22183,
+            "annotation_id": "GJ_264"
+        },
+        {
+            "decision": "Anasarca ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 22187,
+            "end_offset": 22195,
+            "annotation_id": "GJ_265"
+        },
+        {
+            "decision": "hypoalbuminemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 22266,
+            "end_offset": 22281,
+            "annotation_id": "GJ_266"
+        },
+        {
+            "decision": "albumin 2.2 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 22283,
+            "end_offset": 22294,
+            "annotation_id": "GJ_267"
+        },
+        {
+            "decision": "autodiuresed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 22312,
+            "end_offset": 22324,
+            "annotation_id": "GJ_268"
+        },
+        {
+            "decision": "thin liquid/pureed diet with supplemental sugar free shakes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 22389,
+            "end_offset": 22448,
+            "annotation_id": "GJ_269"
+        },
+        {
+            "decision": "He passed a swallowing study including videography and did not require PEG placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 22450,
+            "end_offset": 22534,
+            "annotation_id": "GJ_270"
+        },
+        {
+            "decision": "anasarca ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 22541,
+            "end_offset": 22549,
+            "annotation_id": "GJ_271"
+        },
+        {
+            "decision": "patient's upper extremity hand and arm wounds from past weeping of fluid were healed or healing well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 22584,
+            "end_offset": 22684,
+            "annotation_id": "GJ_272"
+        },
+        {
+            "decision": "Oral intake should be encouraged with aspiration precautions and appropriate swalowing protocol",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 22686,
+            "end_offset": 22781,
+            "annotation_id": "GJ_273"
+        },
+        {
+            "decision": "He had required free water replacement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 22784,
+            "end_offset": 22822,
+            "annotation_id": "GJ_274"
+        },
+        {
+            "decision": "hypernatremia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 22827,
+            "end_offset": 22840,
+            "annotation_id": "GJ_275"
+        },
+        {
+            "decision": "free water replacement ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 22950,
+            "end_offset": 22972,
+            "annotation_id": "GJ_276"
+        },
+        {
+            "decision": "had normal serum sodium ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23005,
+            "end_offset": 23028,
+            "annotation_id": "GJ_277"
+        },
+        {
+            "decision": "A heart murmur detected [**12-13**] that may have previously been muffled due to anasarca",
+            "category": "Category 3: Defining problem",
+            "start_offset": 23071,
+            "end_offset": 23160,
+            "annotation_id": "GJ_278"
+        },
+        {
+            "decision": "Repeat echocardiogram showed hyperdynamic LV function, so the changing murmur was likely due to fluid shifting as third-spaced fluid was mobilized and excreted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23162,
+            "end_offset": 23321,
+            "annotation_id": "GJ_279"
+        },
+        {
+            "decision": "CHF was resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 23324,
+            "end_offset": 23340,
+            "annotation_id": "GJ_280"
+        },
+        {
+            "decision": "Bilateral pleural effusions and multiple peripheral consolidations documented improving on serial chest CT before leaving the ICU",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23355,
+            "end_offset": 23484,
+            "annotation_id": "GJ_281"
+        },
+        {
+            "decision": "he was oxygenating well on room air and had been successfully weaned off oxygen supplementation for several days.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 23501,
+            "end_offset": 23613,
+            "annotation_id": "GJ_282"
+        },
+        {
+            "decision": "Increased lipase, although overall stable ranging from 161-214 over past 2weeks, was noted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23617,
+            "end_offset": 23707,
+            "annotation_id": "GJ_283"
+        },
+        {
+            "decision": "The patient denies abdominal pain and does not appear tender to palpation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 23709,
+            "end_offset": 23782,
+            "annotation_id": "GJ_284"
+        },
+        {
+            "decision": "Lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 23784,
+            "end_offset": 23789,
+            "annotation_id": "GJ_285"
+        },
+        {
+            "decision": "pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 23857,
+            "end_offset": 23869,
+            "annotation_id": "GJ_286"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 23881,
+            "end_offset": 23886,
+            "annotation_id": "GJ_287"
+        },
+        {
+            "decision": "lipase remained elevated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23897,
+            "end_offset": 23921,
+            "annotation_id": "GJ_288"
+        },
+        {
+            "decision": "no clinical signs or symptoms of pancreatitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 23935,
+            "end_offset": 23980,
+            "annotation_id": "GJ_289"
+        },
+        {
+            "decision": "abdominal CT with oral and iv contrast (w/prehydration for renal prophylaxis) showed no evidence of pancreatitis or biliary obstruction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 23985,
+            "end_offset": 24120,
+            "annotation_id": "GJ_290"
+        },
+        {
+            "decision": "Repeat abdominal CT scan with contrast is recommended in [**4-6**] months to evaluate for pancreatitis and for evolution of an incidentally identified  uniformly appearing small presacral fluid collection with adjacent hypodensity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 24122,
+            "end_offset": 24352,
+            "annotation_id": "GJ_291"
+        },
+        {
+            "decision": "Radiology did not consider the fluid collection infectious in nature as there was no stranding nearby and it appeared stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 24355,
+            "end_offset": 24479,
+            "annotation_id": "GJ_292"
+        },
+        {
+            "decision": "The patient's blood pressure was elevated in the 120-160s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 24483,
+            "end_offset": 24540,
+            "annotation_id": "GJ_293"
+        },
+        {
+            "decision": "hctz po 25mg daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 24553,
+            "end_offset": 24571,
+            "annotation_id": "GJ_294"
+        },
+        {
+            "decision": "metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 24596,
+            "end_offset": 24606,
+            "annotation_id": "GJ_295"
+        },
+        {
+            "decision": "anemia of chronic disease ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 24703,
+            "end_offset": 24728,
+            "annotation_id": "GJ_296"
+        },
+        {
+            "decision": "hematocrit at baseline in the high 20s since admission",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 24734,
+            "end_offset": 24788,
+            "annotation_id": "GJ_297"
+        },
+        {
+            "decision": "iron studies suggest chronic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 24808,
+            "end_offset": 24844,
+            "annotation_id": "GJ_298"
+        },
+        {
+            "decision": "folate is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 24846,
+            "end_offset": 24862,
+            "annotation_id": "GJ_299"
+        },
+        {
+            "decision": "diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 24870,
+            "end_offset": 24878,
+            "annotation_id": "GJ_300"
+        },
+        {
+            "decision": "regular insulin per sliding scale ",
+            "category": "Category 5: Drug related",
+            "start_offset": 24880,
+            "end_offset": 24913,
+            "annotation_id": "GJ_301"
+        },
+        {
+            "decision": "PPI",
+            "category": "Category 5: Drug related",
+            "start_offset": 25036,
+            "end_offset": 25039,
+            "annotation_id": "GJ_302"
+        },
+        {
+            "decision": "sc heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 25041,
+            "end_offset": 25051,
+            "annotation_id": "GJ_303"
+        },
+        {
+            "decision": "aspiration and fall precautions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 25053,
+            "end_offset": 25084,
+            "annotation_id": "GJ_304"
+        },
+        {
+            "decision": "colace",
+            "category": "Category 5: Drug related",
+            "start_offset": 25086,
+            "end_offset": 25092,
+            "annotation_id": "GJ_305"
+        },
+        {
+            "decision": "senna",
+            "category": "Category 5: Drug related",
+            "start_offset": 25093,
+            "end_offset": 25098,
+            "annotation_id": "GJ_306"
+        },
+        {
+            "decision": "air mattress.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 25107,
+            "end_offset": 25119,
+            "annotation_id": "GJ_307"
+        },
+        {
+            "decision": "IV antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 25280,
+            "end_offset": 25294,
+            "annotation_id": "GJ_308"
+        },
+        {
+            "decision": "He will need treatment at an extended care facility for delivery of IV antibiotics and continued rehabilitation.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 25212,
+            "end_offset": 25323,
+            "annotation_id": "GJ_309"
+        },
+        {
+            "decision": "Mineral Oil-Hydrophil Petrolat     Ointment Sig: One (1) Appl Topical  TID (3 times a day) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 25386,
+            "end_offset": 25486,
+            "annotation_id": "GJ_310"
+        },
+        {
+            "decision": "Chlorhexidine Gluconate 0.12 % Liquid Sig: Fifteen (15) ML Mucous membrane  TID (3 times a day) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 25491,
+            "end_offset": 25596,
+            "annotation_id": "GJ_311"
+        },
+        {
+            "decision": "Acetaminophen 160 mg/5 mL Elixir Sig: Six [**Age over 90 1230**]y (650) mg PO Q6H (every 6 hours) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 25601,
+            "end_offset": 25708,
+            "annotation_id": "GJ_312"
+        },
+        {
+            "decision": "Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 25713,
+            "end_offset": 25812,
+            "annotation_id": "GJ_313"
+        },
+        {
+            "decision": "Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 25818,
+            "end_offset": 25906,
+            "annotation_id": "GJ_314"
+        },
+        {
+            "decision": "Mupirocin Calcium 2 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 25912,
+            "end_offset": 25998,
+            "annotation_id": "GJ_315"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 26004,
+            "end_offset": 26076,
+            "annotation_id": "GJ_316"
+        },
+        {
+            "decision": "Docusate Sodium 150 mg/15 mL Liquid Sig: One Hundred (100) mg PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 26081,
+            "end_offset": 26164,
+            "annotation_id": "GJ_317"
+        },
+        {
+            "decision": "Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q6H (every 6 hours) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 26170,
+            "end_offset": 26265,
+            "annotation_id": "GJ_318"
+        },
+        {
+            "decision": "Therapeutic Multivitamin     Liquid Sig: Five (5) ML PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 26271,
+            "end_offset": 26339,
+            "annotation_id": "GJ_319"
+        },
+        {
+            "decision": "Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 26346,
+            "end_offset": 26414,
+            "annotation_id": "GJ_320"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): hold SBP<100, HR<55",
+            "category": "Category 5: Drug related",
+            "start_offset": 26421,
+            "end_offset": 26517,
+            "annotation_id": "GJ_321"
+        },
+        {
+            "decision": "Vancomycin HCl 10 g Recon Soln Sig: 1000 (1000) mg Intravenous  Q12H (every 12 hours): please check vanco trough on [**12-19**] (goal [**11-15**]) last dose 12/11",
+            "category": "Category 5: Drug related",
+            "start_offset": 26523,
+            "end_offset": 26685,
+            "annotation_id": "GJ_322"
+        },
+        {
+            "decision": "Imipenem-Cilastatin 500 mg Recon Soln Sig: Five Hundred (500) mg Intravenous  Q6H (every 6 hours): last dose 12/11",
+            "category": "Category 5: Drug related",
+            "start_offset": 26691,
+            "end_offset": 26805,
+            "annotation_id": "GJ_323"
+        },
+        {
+            "decision": "Pantoprazole Sodium 40 mg Recon Soln Sig: Forty (40) mg Intravenous  Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 26811,
+            "end_offset": 26900,
+            "annotation_id": "GJ_324"
+        },
+        {
+            "decision": "Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Eight (8) units Subcutaneous twice a day: please adjust based on QID FSG. Disp:*480 units* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 26907,
+            "end_offset": 27062,
+            "annotation_id": "GJ_325"
+        },
+        {
+            "decision": "Insulin Regular Human 300 unit/3 mL Syringe Sig: please see SSI below units Subcutaneous four times a day: SSI: BG <70  give OJ BG 70-150 do nothing BG 151-200 give 2 units BG 201-250 give 4 units 251-300 give 6 units 301-350 give 8 units 351-400 give 10 units >401 give 12 units",
+            "category": "Category 5: Drug related",
+            "start_offset": 27067,
+            "end_offset": 27346,
+            "annotation_id": "GJ_326"
+        },
+        {
+            "decision": "sepsis, etiology unknown c/b pulmonary and CNS emboli",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27467,
+            "end_offset": 27520,
+            "annotation_id": "GJ_327"
+        },
+        {
+            "decision": "hypotension c/b CNS hypoperfusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27521,
+            "end_offset": 27554,
+            "annotation_id": "GJ_328"
+        },
+        {
+            "decision": "respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27555,
+            "end_offset": 27574,
+            "annotation_id": "GJ_329"
+        },
+        {
+            "decision": "s/p intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 27576,
+            "end_offset": 27590,
+            "annotation_id": "GJ_330"
+        },
+        {
+            "decision": "ARF secondary to ATN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27591,
+            "end_offset": 27611,
+            "annotation_id": "GJ_331"
+        },
+        {
+            "decision": "anemia of chronic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27612,
+            "end_offset": 27637,
+            "annotation_id": "GJ_332"
+        },
+        {
+            "decision": "stable- afebrile with gradually improving mental status, profoundly weak, tolerating oral diet with assistance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 27661,
+            "end_offset": 27771,
+            "annotation_id": "GJ_333"
+        },
+        {
+            "decision": "imipenem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 27865,
+            "end_offset": 27873,
+            "annotation_id": "GJ_334"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 27878,
+            "end_offset": 27888,
+            "annotation_id": "GJ_335"
+        },
+        {
+            "decision": "Continue with prescribed medications to complete a 6 week course of imipenem and vancomycin, to be continued until [**2200-1-11**].  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 27797,
+            "end_offset": 27927,
+            "annotation_id": "GJ_336"
+        },
+        {
+            "decision": "vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 28025,
+            "end_offset": 28035,
+            "annotation_id": "GJ_337"
+        },
+        {
+            "decision": "Patient recently changed to q12 hour on [**12-18**] for persistently low troughs. Please check vancomycin trough, CBC with diff, LFTs and chemistry panel with renal function on [**12-19**] (prior to vanco dose)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 27930,
+            "end_offset": 28139,
+            "annotation_id": "GJ_338"
+        },
+        {
+            "decision": "fax to Dr. [**First Name (STitle) **] [**Name (STitle) **] (infectious disease) at # [**Telephone/Fax (1) 35948**]. Goal vanco trough [**11-15**].  Continue to check above labs q 4 days and fax to Dr. [**Last Name (STitle) **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 28145,
+            "end_offset": 28371,
+            "annotation_id": "GJ_339"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] SCAN Where: RA [**Hospital Unit Name **] ([**Hospital Ward Name **]/[**Hospital Ward Name **] COMPLEX) RADIOLOGY Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2200-1-8**] 10:30",
+            "category": "Category 1: Contact related",
+            "start_offset": 28396,
+            "end_offset": 28606,
+            "annotation_id": "GJ_340"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] SCAN Where: RA [**Hospital Unit Name **] ([**Hospital Ward Name **]/[**Hospital Ward Name **] COMPLEX) RADIOLOGY Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2200-1-8**] 10:45",
+            "category": "Category 1: Contact related",
+            "start_offset": 28607,
+            "end_offset": 28817,
+            "annotation_id": "GJ_341"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] [**Name8 (MD) 9406**], MD Where: LM [**Hospital Unit Name 4337**] DISEASE Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2200-1-13**] 10:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 28818,
+            "end_offset": 28990,
+            "annotation_id": "GJ_342"
+        },
+        {
+            "decision": "He will need a follow up CT scan of the abdomen in approximately 3 months, around [**2200-3-4**], to assess for pancreatitis and to look for interval change in a presacral fluid collection with nearby hypodensity located next to the psoas muscle. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 28992,
+            "end_offset": 29237,
+            "annotation_id": "GJ_343"
+        }
+    ]
+}

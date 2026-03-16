@@ -1,0 +1,776 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "69248_186327_52256",
+    "annotations": [
+        {
+            "decision": "Shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 284,
+            "annotation_id": "OR_000"
+        },
+        {
+            "decision": "history of lymphoma as a child, now in remission for many years",
+            "category": "Category 3: Defining problem",
+            "start_offset": 428,
+            "end_offset": 491,
+            "annotation_id": "OR_001"
+        },
+        {
+            "decision": "HLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 493,
+            "end_offset": 496,
+            "annotation_id": "OR_002"
+        },
+        {
+            "decision": "admitted to OSH earlier today",
+            "category": "Category 1: Contact related",
+            "start_offset": 974,
+            "end_offset": 1003,
+            "annotation_id": "OR_003"
+        },
+        {
+            "decision": "steroids and antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 1018,
+            "end_offset": 1042,
+            "annotation_id": "OR_004"
+        },
+        {
+            "decision": "tachypneic and wheezy on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1292,
+            "end_offset": 1321,
+            "annotation_id": "OR_005"
+        },
+        {
+            "decision": "peak flow was noted to be 200",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1328,
+            "end_offset": 1357,
+            "annotation_id": "OR_006"
+        },
+        {
+            "decision": "given Duonebs x3, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1367,
+            "end_offset": 1383,
+            "annotation_id": "OR_007"
+        },
+        {
+            "decision": "Solumedrol,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1385,
+            "end_offset": 1395,
+            "annotation_id": "OR_008"
+        },
+        {
+            "decision": ", Ceftriaxone, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1397,
+            "end_offset": 1408,
+            "annotation_id": "OR_009"
+        },
+        {
+            "decision": " and Azithromycin.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1410,
+            "end_offset": 1426,
+            "annotation_id": "OR_010"
+        },
+        {
+            "decision": "No elevated WBC, but lactate increased at 4.4",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1429,
+            "end_offset": 1474,
+            "annotation_id": "OR_011"
+        },
+        {
+            "decision": "EKG showed sinus tachycardia at 112, no ischemia. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1477,
+            "end_offset": 1525,
+            "annotation_id": "OR_012"
+        },
+        {
+            "decision": "CTA chest was negative for PE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1528,
+            "end_offset": 1557,
+            "annotation_id": "OR_013"
+        },
+        {
+            "decision": "Review of systems: (+) Per HPI and for rhinorrhea and sneezing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1636,
+            "end_offset": 1698,
+            "annotation_id": "OR_014"
+        },
+        {
+            "decision": "(-) Denies weight gain, orthopnea, PND or LE edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1703,
+            "end_offset": 1749,
+            "annotation_id": "OR_015"
+        },
+        {
+            "decision": "Denieschills, night sweats. Denies headache, sinus tenderness or congestion. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1751,
+            "end_offset": 1826,
+            "annotation_id": "OR_016"
+        },
+        {
+            "decision": "  Denies chest pain, chest pressure, palpitations, or weakness. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1829,
+            "end_offset": 1889,
+            "annotation_id": "OR_017"
+        },
+        {
+            "decision": " Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1891,
+            "end_offset": 1982,
+            "annotation_id": "OR_018"
+        },
+        {
+            "decision": " Denies dysuria, frequency, or urgency. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1984,
+            "end_offset": 2021,
+            "annotation_id": "OR_019"
+        },
+        {
+            "decision": " Denies arthralgias or myalgias. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2023,
+            "end_offset": 2053,
+            "annotation_id": "OR_020"
+        },
+        {
+            "decision": " Denies rashes or skin changes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2055,
+            "end_offset": 2084,
+            "annotation_id": "OR_021"
+        },
+        {
+            "decision": "Lymphocytic non-Hodgkin's lymphoma, in remission, diagnosed at age 16, presented with a right tongue lesion as well as a neck mass, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2112,
+            "end_offset": 2242,
+            "annotation_id": "OR_022"
+        },
+        {
+            "decision": "underwent surgeries to excise these ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2244,
+            "end_offset": 2279,
+            "annotation_id": "OR_023"
+        },
+        {
+            "decision": " and also Adriamycin, vincristine, 6-MP, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2280,
+            "end_offset": 2318,
+            "annotation_id": "OR_024"
+        },
+        {
+            "decision": " prednisone and methotrexate ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2320,
+            "end_offset": 2347,
+            "annotation_id": "OR_025"
+        },
+        {
+            "decision": "He also underwent XRT at [**Hospital1 756**].  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2376,
+            "end_offset": 2420,
+            "annotation_id": "OR_026"
+        },
+        {
+            "decision": "vincristine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2466,
+            "end_offset": 2477,
+            "annotation_id": "OR_027"
+        },
+        {
+            "decision": "He had some peripheral neuropathy from the vincristine, which has since resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2423,
+            "end_offset": 2503,
+            "annotation_id": "OR_028"
+        },
+        {
+            "decision": "Has poor denition due to radiation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2506,
+            "end_offset": 2540,
+            "annotation_id": "OR_029"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2544,
+            "end_offset": 2558,
+            "annotation_id": "OR_030"
+        },
+        {
+            "decision": "# Scoliosis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2561,
+            "end_offset": 2570,
+            "annotation_id": "OR_031"
+        },
+        {
+            "decision": "Wears a right shoe-lift",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2573,
+            "end_offset": 2596,
+            "annotation_id": "OR_032"
+        },
+        {
+            "decision": "Bilateral inguinal hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2600,
+            "end_offset": 2625,
+            "annotation_id": "OR_033"
+        },
+        {
+            "decision": "Bilateral inguinal hernia repair as a child",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2600,
+            "end_offset": 2643,
+            "annotation_id": "OR_034"
+        },
+        {
+            "decision": "Tonsillectomy and adenoidectomy x2 as a child.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2646,
+            "end_offset": 2691,
+            "annotation_id": "OR_035"
+        },
+        {
+            "decision": "Tobacco abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2695,
+            "end_offset": 2708,
+            "annotation_id": "OR_036"
+        },
+        {
+            "decision": "General: Alert, oriented, SOB with speaking in full sentences and with mild",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3054,
+            "end_offset": 3129,
+            "annotation_id": "OR_037"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, dry MM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3130,
+            "end_offset": 3179,
+            "annotation_id": "OR_038"
+        },
+        {
+            "decision": "Neck: supple, JVP at 8cm, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3180,
+            "end_offset": 3212,
+            "annotation_id": "OR_039"
+        },
+        {
+            "decision": "Lungs: faint wheezes heard more in the upper lung fields, poor airflow. no rales/ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3213,
+            "end_offset": 3300,
+            "annotation_id": "OR_040"
+        },
+        {
+            "decision": "CV: rapid rate/rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3301,
+            "end_offset": 3365,
+            "annotation_id": "OR_041"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3366,
+            "end_offset": 3480,
+            "annotation_id": "OR_042"
+        },
+        {
+            "decision": "GU: no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3481,
+            "end_offset": 3493,
+            "annotation_id": "OR_043"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3494,
+            "end_offset": 3561,
+            "annotation_id": "OR_044"
+        },
+        {
+            "decision": "Neuro: A&O x3, CN grossly intact, MAE.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3562,
+            "end_offset": 3599,
+            "annotation_id": "OR_045"
+        },
+        {
+            "decision": "[**2166-2-17**] 01:17PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4645,
+            "end_offset": 4772,
+            "annotation_id": "OR_046"
+        },
+        {
+            "decision": "[**2166-2-17**] 07:01AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4786,
+            "end_offset": 4871,
+            "annotation_id": "OR_047"
+        },
+        {
+            "decision": "[**2166-2-17**] 01:17PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4872,
+            "end_offset": 4973,
+            "annotation_id": "OR_048"
+        },
+        {
+            "decision": "Microbiology: [**2166-2-17**] 7:08 am Influenza A/B by DFA (Source: Nasopharyngeal swab)    DIRECT INFLUENZA A ANTIGEN TEST (Final [**2166-2-17**]):       Negative for Influenza A.    DIRECT INFLUENZA B ANTIGEN TEST (Final [**2166-2-17**]):       Negative for Influenza B.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4975,
+            "end_offset": 5246,
+            "annotation_id": "OR_049"
+        },
+        {
+            "decision": "Respiratory Viral Culture (Pending):",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5251,
+            "end_offset": 5285,
+            "annotation_id": "OR_050"
+        },
+        {
+            "decision": "CHEST (PA & LAT) ([**2166-2-16**] at 11:29 PM): FINDINGS: AP and lateral chest with no prior for comparison demonstrates low lung volumes, though the lungs are clear. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5310,
+            "end_offset": 5475,
+            "annotation_id": "OR_051"
+        },
+        {
+            "decision": "There is no pleural effusion or pneumothorax. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5477,
+            "end_offset": 5521,
+            "annotation_id": "OR_052"
+        },
+        {
+            "decision": " The heart is at the upper limits of normal for size, the mediastinal contours are unremarkable. The pulmonary vasculature appears normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5523,
+            "end_offset": 5659,
+            "annotation_id": "OR_053"
+        },
+        {
+            "decision": "IMPRESSION: No acute thoracic pathology.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5661,
+            "end_offset": 5700,
+            "annotation_id": "OR_054"
+        },
+        {
+            "decision": "CTA CHEST W&W/O C&RECONS, NON-CORONARY ([**2166-2-17**] at 2:30 AM): FINDINGS: Vascular opacification is somewhat suboptimal, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5703,
+            "end_offset": 5827,
+            "annotation_id": "OR_055"
+        },
+        {
+            "decision": "but no pulmonary embolism is present to the level of the segemental vessels.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5829,
+            "end_offset": 5904,
+            "annotation_id": "OR_056"
+        },
+        {
+            "decision": " The main pulmonary artery is slightly enlarged measuring 3.2 cm. The thoracic aorta appears within normal limits. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5906,
+            "end_offset": 6018,
+            "annotation_id": "OR_057"
+        },
+        {
+            "decision": " No pericardial, or pleural effusions are present.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6020,
+            "end_offset": 6068,
+            "annotation_id": "OR_058"
+        },
+        {
+            "decision": "Minimal bibasilar dependent atelectasis is present. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6070,
+            "end_offset": 6120,
+            "annotation_id": "OR_059"
+        },
+        {
+            "decision": " Otherwise, the lungs are clear and the airways are patent. No significant hilar, mediastinal, or axillary lymphadenopathy is present. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6122,
+            "end_offset": 6254,
+            "annotation_id": "OR_060"
+        },
+        {
+            "decision": ". In the right lobe of the thyroid is a 14-mm nodule, a small nodule is present in the left lobe.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6256,
+            "end_offset": 6350,
+            "annotation_id": "OR_061"
+        },
+        {
+            "decision": "the liver appears diffusely fatty infiltrated without focal lesions. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6408,
+            "end_offset": 6475,
+            "annotation_id": "OR_062"
+        },
+        {
+            "decision": " Remainder of the abdomen appears normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6477,
+            "end_offset": 6516,
+            "annotation_id": "OR_063"
+        },
+        {
+            "decision": "BONE WINDOWS: Spinal degenerative changes are present but no suspicious bone lesions are present.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6518,
+            "end_offset": 6614,
+            "annotation_id": "OR_064"
+        },
+        {
+            "decision": "IMPRESSION: 1. No pulmonary embolism. Main pulmonary artery is somewhat enlarged, could indicate pulmonary hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6616,
+            "end_offset": 6735,
+            "annotation_id": "OR_065"
+        },
+        {
+            "decision": "2. Thyroid nodules, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6737,
+            "end_offset": 6755,
+            "annotation_id": "OR_066"
+        },
+        {
+            "decision": "ultrasound should be performed to better evaluate.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6767,
+            "end_offset": 6816,
+            "annotation_id": "OR_067"
+        },
+        {
+            "decision": "Fatty liver without focal lesions; however, this evaluation for lesions is limited on this study",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6821,
+            "end_offset": 6917,
+            "annotation_id": "OR_068"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7122,
+            "end_offset": 7174,
+            "annotation_id": "OR_069"
+        },
+        {
+            "decision": "Portable TTE ([**2166-2-18**] at 8:37:01 AM): The left atrium is mildly dilated. No definite atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6920,
+            "end_offset": 7174,
+            "annotation_id": "OR_070"
+        },
+        {
+            "decision": "The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7176,
+            "end_offset": 7433,
+            "annotation_id": "OR_071"
+        },
+        {
+            "decision": "and no aortic regurgitation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7434,
+            "end_offset": 7461,
+            "annotation_id": "OR_072"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7463,
+            "end_offset": 7507,
+            "annotation_id": "OR_073"
+        },
+        {
+            "decision": "with trivial mitral regurgitation. There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7508,
+            "end_offset": 7575,
+            "annotation_id": "OR_074"
+        },
+        {
+            "decision": "CHEST (PORTABLE AP) ([**2166-2-18**] at 4:48 AM): FINDINGS: In comparison with study of [**2-16**], there is no interval change or evidence of acute cardiopulmonary disease. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7578,
+            "end_offset": 7750,
+            "annotation_id": "OR_075"
+        },
+        {
+            "decision": " Relatively low lung volumes but no pneumonia, vascular congestion, or pleural effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7752,
+            "end_offset": 7838,
+            "annotation_id": "OR_076"
+        },
+        {
+            "decision": "history of childhood lymphoma in remission",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7882,
+            "end_offset": 7924,
+            "annotation_id": "OR_077"
+        },
+        {
+            "decision": "after chemotherapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7925,
+            "end_offset": 7943,
+            "annotation_id": "OR_078"
+        },
+        {
+            "decision": "and radiation, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7944,
+            "end_offset": 7957,
+            "annotation_id": "OR_079"
+        },
+        {
+            "decision": "HLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7959,
+            "end_offset": 7962,
+            "annotation_id": "OR_080"
+        },
+        {
+            "decision": "Dyspnea/Hypoxia: very likely related to a severe viral pneumonia or an atypical pneumonia.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8044,
+            "end_offset": 8133,
+            "annotation_id": "OR_081"
+        },
+        {
+            "decision": "CTA of the chest without PE or any infiltrate. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8136,
+            "end_offset": 8181,
+            "annotation_id": "OR_082"
+        },
+        {
+            "decision": "Viral culture and flu swab negative ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8184,
+            "end_offset": 8219,
+            "annotation_id": "OR_083"
+        },
+        {
+            "decision": "treated with a full course of tamiflu",
+            "category": "Category 5: Drug related",
+            "start_offset": 8245,
+            "end_offset": 8282,
+            "annotation_id": "OR_084"
+        },
+        {
+            "decision": "treated with a 7 day total course of levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8304,
+            "end_offset": 8353,
+            "annotation_id": "OR_085"
+        },
+        {
+            "decision": "given significant wheezing, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8397,
+            "end_offset": 8423,
+            "annotation_id": "OR_086"
+        },
+        {
+            "decision": "was on steroids given significant wheezing, the steroids were stopped without any recurrance of wheezing",
+            "category": "Category 5: Drug related",
+            "start_offset": 8381,
+            "end_offset": 8485,
+            "annotation_id": "OR_087"
+        },
+        {
+            "decision": "without any recurrance of wheezing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8451,
+            "end_offset": 8485,
+            "annotation_id": "OR_088"
+        },
+        {
+            "decision": "Ig panel was low in IgG, IgA, and IgM.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8595,
+            "end_offset": 8632,
+            "annotation_id": "OR_089"
+        },
+        {
+            "decision": "He will f/u with a pulmonologist",
+            "category": "Category 1: Contact related",
+            "start_offset": 8635,
+            "end_offset": 8667,
+            "annotation_id": "OR_090"
+        },
+        {
+            "decision": "Aspirin 81 mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8795,
+            "end_offset": 8817,
+            "annotation_id": "OR_091"
+        },
+        {
+            "decision": "Fenofibrate micronized 200 mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8818,
+            "end_offset": 8856,
+            "annotation_id": "OR_092"
+        },
+        {
+            "decision": "1. nicotine 21-14-7 mg/24 hr Patch Daily, Sequential Sig: One (1) patch Transdermal once a day: use 21mg/24hr patch daily for 4 weeks then 14mg/24hr patch daily for 2-4 weeks then 7mg/24hr patch daily for 2-4 weeks .",
+            "category": "Category 5: Drug related",
+            "start_offset": 8882,
+            "end_offset": 9096,
+            "annotation_id": "OR_093"
+        },
+        {
+            "decision": "2. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9099,
+            "end_offset": 9156,
+            "annotation_id": "OR_094"
+        },
+        {
+            "decision": "3. fenofibrate micronized 200 mg Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9158,
+            "end_offset": 9233,
+            "annotation_id": "OR_095"
+        },
+        {
+            "decision": "4. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 2 days: take 1 tablet on [**2-22**] and 1 tablet on [**2-23**]. Disp:*2 Tablet(s)* Refills:*0* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9235,
+            "end_offset": 9408,
+            "annotation_id": "OR_096"
+        },
+        {
+            "decision": "Viral Pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9480,
+            "end_offset": 9495,
+            "annotation_id": "OR_097"
+        },
+        {
+            "decision": "Discharge Condition: Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9498,
+            "end_offset": 9552,
+            "annotation_id": "OR_098"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9554,
+            "end_offset": 9599,
+            "annotation_id": "OR_099"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9601,
+            "end_offset": 9642,
+            "annotation_id": "OR_100"
+        },
+        {
+            "decision": "severe pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9709,
+            "end_offset": 9725,
+            "annotation_id": "OR_101"
+        },
+        {
+            "decision": "flu and for a bacterial pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9752,
+            "end_offset": 9785,
+            "annotation_id": "OR_102"
+        },
+        {
+            "decision": "were treated for the flu and for a bacterial pneumonia with antibiotics.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9731,
+            "end_offset": 9802,
+            "annotation_id": "OR_103"
+        },
+        {
+            "decision": "should take levofloxacin (antibiotic) for 2 additional days (1 pill on [**2-22**] and 1 on [**2-23**])",
+            "category": "Category 5: Drug related",
+            "start_offset": 9809,
+            "end_offset": 9910,
+            "annotation_id": "OR_104"
+        },
+        {
+            "decision": "You should take levofloxacin (antibiotic) for 2 additional days (1 pill on [**2-22**] and 1 on [**2-23**])",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9805,
+            "end_offset": 9910,
+            "annotation_id": "OR_105"
+        },
+        {
+            "decision": "Department: [**Hospital3 249**] When: FRIDAY [**2166-2-28**] at 9:10 AM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD. [**Company 191**] POST [**Hospital 894**] CLINIC [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 10018,
+            "end_offset": 10387,
+            "annotation_id": "OR_106"
+        },
+        {
+            "decision": "*This appointment is with a hospital-based doctor as part of your transition from the hospital back to your primary care provider.  [**Name10 (NameIs) 616**] this visit, you will see your regular primary care doctor in follow up.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10388,
+            "end_offset": 10616,
+            "annotation_id": "OR_107"
+        },
+        {
+            "decision": "Name: [**Last Name (LF) 3517**], [**Name8 (MD) 915**] MD. Location: [**Hospital1 2025**] PULMONARY AND CRITICAL CARE Address:[**Street Address(2) 12266**], [**Location (un) **],[**Numeric Identifier 18228**] Phone: [**Telephone/Fax (1) 86145**] *Please call the number above to register with [**Hospital1 2025**] and set up an appointment with Dr. [**Last Name (STitle) 3517**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10619,
+            "end_offset": 10996,
+            "annotation_id": "OR_108"
+        },
+        {
+            "decision": "Department: [**Hospital3 249**] When: WEDNESDAY [**2166-3-26**] at 10:00 AM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 10999,
+            "end_offset": 11322,
+            "annotation_id": "OR_109"
+        }
+    ]
+}

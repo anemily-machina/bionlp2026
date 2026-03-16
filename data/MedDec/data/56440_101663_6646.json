@@ -1,0 +1,1133 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "56440_101663_6646",
+    "annotations": [
+        {
+            "decision": "Dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 228,
+            "end_offset": 235,
+            "annotation_id": "NF_000"
+        },
+        {
+            "decision": "MAC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 430,
+            "end_offset": 433,
+            "annotation_id": "NF_001"
+        },
+        {
+            "decision": "obstructive lung disease (FEV1/FVC 56 in [**10-18**])",
+            "category": "Category 3: Defining problem",
+            "start_offset": 435,
+            "end_offset": 487,
+            "annotation_id": "NF_002"
+        },
+        {
+            "decision": "s/p recent right TKR on [**2164-1-24**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 494,
+            "end_offset": 533,
+            "annotation_id": "NF_003"
+        },
+        {
+            "decision": "admitted to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 586,
+            "end_offset": 606,
+            "annotation_id": "NF_004"
+        },
+        {
+            "decision": "respiratory distress.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 611,
+            "end_offset": 631,
+            "annotation_id": "NF_005"
+        },
+        {
+            "decision": "She did receive seasonal flu vaccine but not H1N1",
+            "category": "Category 5: Drug related",
+            "start_offset": 811,
+            "end_offset": 860,
+            "annotation_id": "NF_006"
+        },
+        {
+            "decision": "wheezes and rales. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1104,
+            "end_offset": 1121,
+            "annotation_id": "NF_007"
+        },
+        {
+            "decision": "CXR was negative for acute process. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1123,
+            "end_offset": 1157,
+            "annotation_id": "NF_008"
+        },
+        {
+            "decision": "2L NS ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1173,
+            "end_offset": 1178,
+            "annotation_id": "NF_009"
+        },
+        {
+            "decision": "ceftriaxone/azithro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1183,
+            "end_offset": 1202,
+            "annotation_id": "NF_010"
+        },
+        {
+            "decision": "admitted to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1207,
+            "end_offset": 1227,
+            "annotation_id": "NF_011"
+        },
+        {
+            "decision": "- Mycobacterium avium intracellularae - treated for MAC from [**2-/2157**] to [**7-/2158**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1254,
+            "end_offset": 1343,
+            "annotation_id": "NF_012"
+        },
+        {
+            "decision": "- bronchiectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1346,
+            "end_offset": 1360,
+            "annotation_id": "NF_013"
+        },
+        {
+            "decision": "- Right total knee replacement ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1363,
+            "end_offset": 1391,
+            "annotation_id": "NF_014"
+        },
+        {
+            "decision": "on coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1409,
+            "end_offset": 1420,
+            "annotation_id": "NF_015"
+        },
+        {
+            "decision": "- cholecystitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1423,
+            "end_offset": 1436,
+            "annotation_id": "NF_016"
+        },
+        {
+            "decision": "s/p cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1437,
+            "end_offset": 1456,
+            "annotation_id": "NF_017"
+        },
+        {
+            "decision": "- endometrial carcinoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1459,
+            "end_offset": 1480,
+            "annotation_id": "NF_018"
+        },
+        {
+            "decision": "s/p hysterectomy in [**10/2152**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1481,
+            "end_offset": 1514,
+            "annotation_id": "NF_019"
+        },
+        {
+            "decision": "- Obstructive lung disease (FEV1/FVC 56 IN [**10-18**]), NOT on home 02",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1517,
+            "end_offset": 1586,
+            "annotation_id": "NF_020"
+        },
+        {
+            "decision": "- Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1589,
+            "end_offset": 1596,
+            "annotation_id": "NF_021"
+        },
+        {
+            "decision": "GENERAL: Thin, frail appearing elderly woman sitting in chair.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1980,
+            "end_offset": 2041,
+            "annotation_id": "NF_022"
+        },
+        {
+            "decision": "HEENT: Normocephalic, temporal wasting. MM dry. Multiple telangiectasias.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2043,
+            "end_offset": 2115,
+            "annotation_id": "NF_023"
+        },
+        {
+            "decision": "CARDIAC: Tachycardic, regular",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2117,
+            "end_offset": 2146,
+            "annotation_id": "NF_024"
+        },
+        {
+            "decision": "LUNGS: Decreased air movement. Fine crackles and distant wheeze. can only speak [**3-14**] words at a time, is easily winded.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2147,
+            "end_offset": 2271,
+            "annotation_id": "NF_025"
+        },
+        {
+            "decision": "ABDOMEN: NABS. Soft, NT, ND. No HSM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2273,
+            "end_offset": 2308,
+            "annotation_id": "NF_026"
+        },
+        {
+            "decision": "EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses. s/p recent TKR, incision well healed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2309,
+            "end_offset": 2425,
+            "annotation_id": "NF_027"
+        },
+        {
+            "decision": "SKIN: No rashes/lesions, ecchymoses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2427,
+            "end_offset": 2462,
+            "annotation_id": "NF_028"
+        },
+        {
+            "decision": "NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved sensation throughout. 5/5 strength throughout.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2464,
+            "end_offset": 2570,
+            "annotation_id": "NF_029"
+        },
+        {
+            "decision": "PSYCH: Listens and responds to questions appropriately, pleasant",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2572,
+            "end_offset": 2636,
+            "annotation_id": "NF_030"
+        },
+        {
+            "decision": "[**2164-2-18**] 01:18PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2809,
+            "end_offset": 2938,
+            "annotation_id": "NF_031"
+        },
+        {
+            "decision": "[**2164-2-18**] Rapid Respiratory Viral Screen & Culture Respiratory Viral Culture-FINAL {RESPIRATORY SYNCYTIAL VIRUS (RSV)}; Respiratory Viral Antigen Screen-FINAL INPATIENT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3947,
+            "end_offset": 4121,
+            "annotation_id": "NF_032"
+        },
+        {
+            "decision": "[**2-18**] CXR No focal consolidations. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4668,
+            "end_offset": 4706,
+            "annotation_id": "NF_033"
+        },
+        {
+            "decision": "Hyperinflation suggestive of possible emphysema or COPD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4708,
+            "end_offset": 4763,
+            "annotation_id": "NF_034"
+        },
+        {
+            "decision": "admitted to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4834,
+            "end_offset": 4854,
+            "annotation_id": "NF_035"
+        },
+        {
+            "decision": "pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4925,
+            "end_offset": 4934,
+            "annotation_id": "NF_036"
+        },
+        {
+            "decision": "levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4940,
+            "end_offset": 4952,
+            "annotation_id": "NF_037"
+        },
+        {
+            "decision": "COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4961,
+            "end_offset": 4965,
+            "annotation_id": "NF_038"
+        },
+        {
+            "decision": "steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 4971,
+            "end_offset": 4979,
+            "annotation_id": "NF_039"
+        },
+        {
+            "decision": " and nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4980,
+            "end_offset": 4994,
+            "annotation_id": "NF_040"
+        },
+        {
+            "decision": "3L supplemental oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5049,
+            "end_offset": 5071,
+            "annotation_id": "NF_041"
+        },
+        {
+            "decision": "chest-xray did not show consolidation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5078,
+            "end_offset": 5115,
+            "annotation_id": "NF_042"
+        },
+        {
+            "decision": "tested negative for legionella urinary antigen and was negative for flu.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5122,
+            "end_offset": 5193,
+            "annotation_id": "NF_043"
+        },
+        {
+            "decision": "was transferred to a regular medical floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 5200,
+            "end_offset": 5242,
+            "annotation_id": "NF_044"
+        },
+        {
+            "decision": "warfarin for her knee replacement was held",
+            "category": "Category 5: Drug related",
+            "start_offset": 5290,
+            "end_offset": 5332,
+            "annotation_id": "NF_045"
+        },
+        {
+            "decision": "INR became supratherapeutic >5",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5342,
+            "end_offset": 5372,
+            "annotation_id": "NF_046"
+        },
+        {
+            "decision": "antibiotic use.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5391,
+            "end_offset": 5405,
+            "annotation_id": "NF_047"
+        },
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5459,
+            "end_offset": 5479,
+            "annotation_id": "NF_048"
+        },
+        {
+            "decision": "CAP/HAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5505,
+            "end_offset": 5512,
+            "annotation_id": "NF_049"
+        },
+        {
+            "decision": "levoquin and discharged to complete a 7 day course. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5518,
+            "end_offset": 5568,
+            "annotation_id": "NF_050"
+        },
+        {
+            "decision": "CXR on admission showed hyperinflation without focal findings and repeat showed now interval change",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5570,
+            "end_offset": 5669,
+            "annotation_id": "NF_051"
+        },
+        {
+            "decision": "for COPD flare/bronchitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5730,
+            "end_offset": 5755,
+            "annotation_id": "NF_052"
+        },
+        {
+            "decision": "prednisone 60mg daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5770,
+            "end_offset": 5791,
+            "annotation_id": "NF_053"
+        },
+        {
+            "decision": "with aggressive nebulizer treatment.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5796,
+            "end_offset": 5831,
+            "annotation_id": "NF_054"
+        },
+        {
+            "decision": "her resp status dramatically improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5859,
+            "end_offset": 5896,
+            "annotation_id": "NF_055"
+        },
+        {
+            "decision": "a slow 10 day taper.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5922,
+            "end_offset": 5941,
+            "annotation_id": "NF_056"
+        },
+        {
+            "decision": "weaned off oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5952,
+            "end_offset": 5969,
+            "annotation_id": "NF_057"
+        },
+        {
+            "decision": "Lung exam improved with some residual crackles and wheezing at bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5996,
+            "end_offset": 6064,
+            "annotation_id": "NF_058"
+        },
+        {
+            "decision": "ruled out for flu. PE also possible but less likely",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6076,
+            "end_offset": 6127,
+            "annotation_id": "NF_059"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6149,
+            "end_offset": 6157,
+            "annotation_id": "NF_060"
+        },
+        {
+            "decision": "Viral culture showed RSV",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6172,
+            "end_offset": 6196,
+            "annotation_id": "NF_061"
+        },
+        {
+            "decision": " treatment is just supportive care",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6230,
+            "end_offset": 6263,
+            "annotation_id": "NF_062"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6269,
+            "end_offset": 6275,
+            "annotation_id": "NF_063"
+        },
+        {
+            "decision": "Hct stable. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6277,
+            "end_offset": 6287,
+            "annotation_id": "NF_064"
+        },
+        {
+            "decision": "Iron studies c/w mixed iron deficiency and likely chronic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6289,
+            "end_offset": 6354,
+            "annotation_id": "NF_065"
+        },
+        {
+            "decision": "Iron studies c/w mixed iron deficiency and likely chronic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6289,
+            "end_offset": 6354,
+            "annotation_id": "NF_066"
+        },
+        {
+            "decision": " hemoconcentrated in setting of illness.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6420,
+            "end_offset": 6458,
+            "annotation_id": "NF_067"
+        },
+        {
+            "decision": "No obvious bleeding. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6460,
+            "end_offset": 6479,
+            "annotation_id": "NF_068"
+        },
+        {
+            "decision": " Hct remained stable. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6481,
+            "end_offset": 6500,
+            "annotation_id": "NF_069"
+        },
+        {
+            "decision": "iron was increased",
+            "category": "Category 5: Drug related",
+            "start_offset": 6506,
+            "end_offset": 6524,
+            "annotation_id": "NF_070"
+        },
+        {
+            "decision": "Coagulopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6550,
+            "end_offset": 6562,
+            "annotation_id": "NF_071"
+        },
+        {
+            "decision": "warfarin at home for planned 4 week post-op course since [**1-26**]. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6570,
+            "end_offset": 6637,
+            "annotation_id": "NF_072"
+        },
+        {
+            "decision": "Elevated INR ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6639,
+            "end_offset": 6651,
+            "annotation_id": "NF_073"
+        },
+        {
+            "decision": " abx use",
+            "category": "Category 5: Drug related",
+            "start_offset": 6666,
+            "end_offset": 6673,
+            "annotation_id": "NF_074"
+        },
+        {
+            "decision": "It was restarted but she was not yet therapeutic upon discharge. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6740,
+            "end_offset": 6803,
+            "annotation_id": "NF_075"
+        },
+        {
+            "decision": "No evidence of bleeding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6805,
+            "end_offset": 6828,
+            "annotation_id": "NF_076"
+        },
+        {
+            "decision": "Anxiety: stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6834,
+            "end_offset": 6849,
+            "annotation_id": "NF_077"
+        },
+        {
+            "decision": "PRN ativan",
+            "category": "Category 5: Drug related",
+            "start_offset": 6861,
+            "end_offset": 6871,
+            "annotation_id": "NF_078"
+        },
+        {
+            "decision": "HTN: reasonably controlled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6876,
+            "end_offset": 6902,
+            "annotation_id": "NF_079"
+        },
+        {
+            "decision": "cont home lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 6904,
+            "end_offset": 6924,
+            "annotation_id": "NF_080"
+        },
+        {
+            "decision": "TKR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6929,
+            "end_offset": 6932,
+            "annotation_id": "NF_081"
+        },
+        {
+            "decision": "Followed by Dr. [**Last Name (STitle) **]. Has outpatient appt with him on Friday",
+            "category": "Category 1: Contact related",
+            "start_offset": 6934,
+            "end_offset": 7015,
+            "annotation_id": "NF_082"
+        },
+        {
+            "decision": "Cont warfarin management ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7017,
+            "end_offset": 7041,
+            "annotation_id": "NF_083"
+        },
+        {
+            "decision": "oxycodone",
+            "category": "Category 5: Drug related",
+            "start_offset": 7098,
+            "end_offset": 7107,
+            "annotation_id": "NF_084"
+        },
+        {
+            "decision": "Given subQhep while subtherapeutic on coumadin and TEDS",
+            "category": "Category 5: Drug related",
+            "start_offset": 7110,
+            "end_offset": 7165,
+            "annotation_id": "NF_085"
+        },
+        {
+            "decision": "TEDS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7161,
+            "end_offset": 7165,
+            "annotation_id": "NF_086"
+        },
+        {
+            "decision": " replete lytes prn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7199,
+            "end_offset": 7216,
+            "annotation_id": "NF_087"
+        },
+        {
+            "decision": "noIVFs / replete lytes prn / regular diet,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7190,
+            "end_offset": 7231,
+            "annotation_id": "NF_088"
+        },
+        {
+            "decision": "PPI, subQ hep, bowel regimen, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7243,
+            "end_offset": 7271,
+            "annotation_id": "NF_089"
+        },
+        {
+            "decision": "PIV",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7281,
+            "end_offset": 7284,
+            "annotation_id": "NF_090"
+        },
+        {
+            "decision": "1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7487,
+            "end_offset": 7559,
+            "annotation_id": "NF_091"
+        },
+        {
+            "decision": "2. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO q4h PRN as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7562,
+            "end_offset": 7633,
+            "annotation_id": "NF_092"
+        },
+        {
+            "decision": "goal INR 2.0-2.5",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7706,
+            "end_offset": 7722,
+            "annotation_id": "NF_093"
+        },
+        {
+            "decision": "3. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day for 4 weeks: goal INR 2.0-2.5 adjust dose accordingly.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7635,
+            "end_offset": 7746,
+            "annotation_id": "NF_094"
+        },
+        {
+            "decision": "4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7748,
+            "end_offset": 7868,
+            "annotation_id": "NF_095"
+        },
+        {
+            "decision": "Dyspepsia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7982,
+            "end_offset": 7991,
+            "annotation_id": "NF_096"
+        },
+        {
+            "decision": "5. Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig: 15-30 MLs PO Q6H (every 6 hours) as needed for Dyspepsia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7871,
+            "end_offset": 7991,
+            "annotation_id": "NF_097"
+        },
+        {
+            "decision": "6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7993,
+            "end_offset": 8069,
+            "annotation_id": "NF_098"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8196,
+            "end_offset": 8208,
+            "annotation_id": "NF_099"
+        },
+        {
+            "decision": "7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for Constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8072,
+            "end_offset": 8208,
+            "annotation_id": "NF_100"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8313,
+            "end_offset": 8325,
+            "annotation_id": "NF_101"
+        },
+        {
+            "decision": "8. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO BID (2 times a day) as needed for Constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8210,
+            "end_offset": 8325,
+            "annotation_id": "NF_102"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8407,
+            "end_offset": 8419,
+            "annotation_id": "NF_103"
+        },
+        {
+            "decision": "9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8327,
+            "end_offset": 8419,
+            "annotation_id": "NF_104"
+        },
+        {
+            "decision": "10. Multivitamin Tablet Sig: One (1) Cap PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8421,
+            "end_offset": 8477,
+            "annotation_id": "NF_105"
+        },
+        {
+            "decision": "11. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for wheeze.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8480,
+            "end_offset": 8608,
+            "annotation_id": "NF_106"
+        },
+        {
+            "decision": "12. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8610,
+            "end_offset": 8742,
+            "annotation_id": "NF_107"
+        },
+        {
+            "decision": "13. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8745,
+            "end_offset": 8807,
+            "annotation_id": "NF_108"
+        },
+        {
+            "decision": "insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8888,
+            "end_offset": 8896,
+            "annotation_id": "NF_109"
+        },
+        {
+            "decision": "14. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8810,
+            "end_offset": 8896,
+            "annotation_id": "NF_110"
+        },
+        {
+            "decision": "15. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): hold for SBP<110.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8898,
+            "end_offset": 8980,
+            "annotation_id": "NF_111"
+        },
+        {
+            "decision": "16. Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8982,
+            "end_offset": 9067,
+            "annotation_id": "NF_112"
+        },
+        {
+            "decision": "17. Desonide 0.05 % Cream Sig: One (1) Appl Topical DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9070,
+            "end_offset": 9134,
+            "annotation_id": "NF_113"
+        },
+        {
+            "decision": "18. Triamcinolone Acetonide 0.025 % Cream Sig: One (1) Appl Topical DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9137,
+            "end_offset": 9217,
+            "annotation_id": "NF_114"
+        },
+        {
+            "decision": "19. Ketoconazole 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9220,
+            "end_offset": 9304,
+            "annotation_id": "NF_115"
+        },
+        {
+            "decision": "1. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 2 days. Disp:*2 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9331,
+            "end_offset": 9440,
+            "annotation_id": "NF_116"
+        },
+        {
+            "decision": "2. Coumadin 1 mg Tablet Sig: Three (3) Tablet PO once a day for 14 days. Disp:*42 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9441,
+            "end_offset": 9545,
+            "annotation_id": "NF_117"
+        },
+        {
+            "decision": "3. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9546,
+            "end_offset": 9632,
+            "annotation_id": "NF_118"
+        },
+        {
+            "decision": "4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9634,
+            "end_offset": 9744,
+            "annotation_id": "NF_119"
+        },
+        {
+            "decision": "5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9747,
+            "end_offset": 9823,
+            "annotation_id": "NF_120"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9906,
+            "end_offset": 9918,
+            "annotation_id": "NF_121"
+        },
+        {
+            "decision": "6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9826,
+            "end_offset": 9918,
+            "annotation_id": "NF_122"
+        },
+        {
+            "decision": "7. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9920,
+            "end_offset": 9994,
+            "annotation_id": "NF_123"
+        },
+        {
+            "decision": "8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9997,
+            "end_offset": 10059,
+            "annotation_id": "NF_124"
+        },
+        {
+            "decision": "9. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10063,
+            "end_offset": 10184,
+            "annotation_id": "NF_125"
+        },
+        {
+            "decision": "10. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10185,
+            "end_offset": 10247,
+            "annotation_id": "NF_126"
+        },
+        {
+            "decision": "11. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation four times a day as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10251,
+            "end_offset": 10398,
+            "annotation_id": "NF_127"
+        },
+        {
+            "decision": "12. Advair Diskus 100-50 mcg/Dose Disk with Device Sig: One (1) inhalation Inhalation twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10400,
+            "end_offset": 10497,
+            "annotation_id": "NF_128"
+        },
+        {
+            "decision": "13. Prednisone 10 mg Tablet Sig: as directed Tablet PO once a day for 10 days: Take 5 tab for 2 days([**Date range (1) 25385**]), take 4 tab for 2 days ([**Date range (1) 25386**]), take 3 tab for 2([**2073-2-25**]), take 2 tab for 2 days([**Date range (1) 25387**]), take 1 tab for 2 days([**Date range (1) 25388**]). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10499,
+            "end_offset": 10849,
+            "annotation_id": "NF_129"
+        },
+        {
+            "decision": "14. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea. Disp:*15 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10850,
+            "end_offset": 10988,
+            "annotation_id": "NF_130"
+        },
+        {
+            "decision": "Please have INR drawn twice a week starting on Thursday [**2164-2-23**] and have results called in to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 1228**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11013,
+            "end_offset": 11209,
+            "annotation_id": "NF_131"
+        },
+        {
+            "decision": "who should call you with instructions on how to change the coumadin dosing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11210,
+            "end_offset": 11284,
+            "annotation_id": "NF_132"
+        },
+        {
+            "decision": "Community Acquired Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11398,
+            "end_offset": 11426,
+            "annotation_id": "NF_133"
+        },
+        {
+            "decision": "COPD flare",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11427,
+            "end_offset": 11437,
+            "annotation_id": "NF_134"
+        },
+        {
+            "decision": "Iron deficient anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11438,
+            "end_offset": 11459,
+            "annotation_id": "NF_135"
+        },
+        {
+            "decision": "Supratherapeutic INR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11460,
+            "end_offset": 11480,
+            "annotation_id": "NF_136"
+        },
+        {
+            "decision": "bronchiectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11494,
+            "end_offset": 11508,
+            "annotation_id": "NF_137"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11509,
+            "end_offset": 11516,
+            "annotation_id": "NF_138"
+        },
+        {
+            "decision": "Mental Status:Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11540,
+            "end_offset": 11572,
+            "annotation_id": "NF_139"
+        },
+        {
+            "decision": "Level of Consciousness:Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11573,
+            "end_offset": 11617,
+            "annotation_id": "NF_140"
+        },
+        {
+            "decision": "Activity Status:Ambulatory - requires assistance or aid (walker or cane)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11618,
+            "end_offset": 11689,
+            "annotation_id": "NF_141"
+        },
+        {
+            "decision": "admitted to the intensive care ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11792,
+            "end_offset": 11822,
+            "annotation_id": "NF_142"
+        },
+        {
+            "decision": "secondary to a pneumonia and possible exacerbation of your chronic lung disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11860,
+            "end_offset": 11939,
+            "annotation_id": "NF_143"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11956,
+            "end_offset": 11967,
+            "annotation_id": "NF_144"
+        },
+        {
+            "decision": " infection ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11976,
+            "end_offset": 11985,
+            "annotation_id": "NF_145"
+        },
+        {
+            "decision": "steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11990,
+            "end_offset": 11998,
+            "annotation_id": "NF_146"
+        },
+        {
+            "decision": "You slowly improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12031,
+            "end_offset": 12050,
+            "annotation_id": "NF_147"
+        },
+        {
+            "decision": "we were able to get you off oxygen.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12055,
+            "end_offset": 12089,
+            "annotation_id": "NF_148"
+        },
+        {
+            "decision": "1)We started you on an antibiotic called levaquin which you should take for 2 more days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12113,
+            "end_offset": 12200,
+            "annotation_id": "NF_149"
+        },
+        {
+            "decision": "2)You iron was increased to twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12202,
+            "end_offset": 12241,
+            "annotation_id": "NF_150"
+        },
+        {
+            "decision": "3)We started you on prednisone with decreasing doses over the next 10 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12243,
+            "end_offset": 12317,
+            "annotation_id": "NF_151"
+        },
+        {
+            "decision": "4)We started compazine if you have any nausea.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12319,
+            "end_offset": 12364,
+            "annotation_id": "NF_152"
+        },
+        {
+            "decision": "You should have your INR drawn ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 12368,
+            "end_offset": 12398,
+            "annotation_id": "NF_153"
+        },
+        {
+            "decision": "You should have your INR drawn and Thursday by the visiting nurses.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12368,
+            "end_offset": 12434,
+            "annotation_id": "NF_154"
+        },
+        {
+            "decision": "Please keep all your follow up appointments.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12438,
+            "end_offset": 12480,
+            "annotation_id": "NF_155"
+        },
+        {
+            "decision": "If you develop any of the warning signs below or any other concerning symptoms, please do not hesitate to call or your PCP or go to your local emergency room.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12484,
+            "end_offset": 12641,
+            "annotation_id": "NF_156"
+        },
+        {
+            "decision": "You have an appointment with Dr [**First Name8 (NamePattern2) **] [**Name (STitle) **] on Wednesday, [**2-29**] at 10:40am. [**Telephone/Fax (1) 24396**]. Please have him follow up your anemia.",
+            "category": "Category 1: Contact related",
+            "start_offset": 12667,
+            "end_offset": 12859,
+            "annotation_id": "NF_157"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3260**], [**MD Number(3) 3261**]:[**Telephone/Fax (1) 1228**] Date/Time:[**2164-2-24**] 10:20",
+            "category": "Category 1: Contact related",
+            "start_offset": 12862,
+            "end_offset": 13062,
+            "annotation_id": "NF_158"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9052**], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2164-3-2**] 11:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 13063,
+            "end_offset": 13212,
+            "annotation_id": "NF_159"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**] Date/Time:[**2164-4-19**] 11:10",
+            "category": "Category 1: Contact related",
+            "start_offset": 13213,
+            "end_offset": 13328,
+            "annotation_id": "NF_160"
+        }
+    ]
+}

@@ -1,0 +1,881 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "22083_196162_50472",
+    "annotations": [
+        {
+            "decision": "urinary tract infection, pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 222,
+            "end_offset": 256,
+            "annotation_id": "GC_000"
+        },
+        {
+            "decision": "coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 401,
+            "end_offset": 424,
+            "annotation_id": "GC_001"
+        },
+        {
+            "decision": "congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 426,
+            "end_offset": 450,
+            "annotation_id": "GC_002"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 471,
+            "annotation_id": "GC_003"
+        },
+        {
+            "decision": "and prostate cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 473,
+            "end_offset": 492,
+            "annotation_id": "GC_004"
+        },
+        {
+            "decision": "rapid a fib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 656,
+            "end_offset": 667,
+            "annotation_id": "GC_005"
+        },
+        {
+            "decision": "Lopressor",
+            "category": "Category 5: Drug related",
+            "start_offset": 697,
+            "end_offset": 706,
+            "annotation_id": "GC_006"
+        },
+        {
+            "decision": "temperature spiked to 100.9F and his blood pressure dropped to the 70's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 713,
+            "end_offset": 784,
+            "annotation_id": "GC_007"
+        },
+        {
+            "decision": "fluid resuscitated with 8L",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 794,
+            "end_offset": 820,
+            "annotation_id": "GC_008"
+        },
+        {
+            "decision": "blood pressure stabilized to the ~100s.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 829,
+            "end_offset": 867,
+            "annotation_id": "GC_009"
+        },
+        {
+            "decision": "persistent brown diarrhea for two days but no melena or BRBPR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 889,
+            "end_offset": 950,
+            "annotation_id": "GC_010"
+        },
+        {
+            "decision": "cough productive of clear sputum and subjective fevers",
+            "category": "Category 3: Defining problem",
+            "start_offset": 969,
+            "end_offset": 1023,
+            "annotation_id": "GC_011"
+        },
+        {
+            "decision": "increase urine output and no dysuria.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1037,
+            "end_offset": 1073,
+            "annotation_id": "GC_012"
+        },
+        {
+            "decision": ". CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1101,
+            "end_offset": 1104,
+            "annotation_id": "GC_013"
+        },
+        {
+            "decision": "/p CABG in [**2183**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1106,
+            "end_offset": 1127,
+            "annotation_id": "GC_014"
+        },
+        {
+            "decision": ". CHF ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1155,
+            "end_offset": 1158,
+            "annotation_id": "GC_015"
+        },
+        {
+            "decision": "w/ EF of 40%  on TEE in [**2187**], 1+ AR, 2+MR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1159,
+            "end_offset": 1206,
+            "annotation_id": "GC_016"
+        },
+        {
+            "decision": "3. Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1207,
+            "end_offset": 1224,
+            "annotation_id": "GC_017"
+        },
+        {
+            "decision": "L THR [**5-/2182**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1228,
+            "end_offset": 1247,
+            "annotation_id": "GC_018"
+        },
+        {
+            "decision": "Prostate CA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1251,
+            "end_offset": 1262,
+            "annotation_id": "GC_019"
+        },
+        {
+            "decision": "s/p resection+XRT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1263,
+            "end_offset": 1280,
+            "annotation_id": "GC_020"
+        },
+        {
+            "decision": "AFib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1284,
+            "end_offset": 1288,
+            "annotation_id": "GC_021"
+        },
+        {
+            "decision": "/p d/c cardioversion [**2182**], ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1290,
+            "end_offset": 1321,
+            "annotation_id": "GC_022"
+        },
+        {
+            "decision": "on coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1323,
+            "end_offset": 1334,
+            "annotation_id": "GC_023"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1338,
+            "end_offset": 1342,
+            "annotation_id": "GC_024"
+        },
+        {
+            "decision": "Hiatal hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1346,
+            "end_offset": 1359,
+            "annotation_id": "GC_025"
+        },
+        {
+            "decision": "OA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1363,
+            "end_offset": 1365,
+            "annotation_id": "GC_026"
+        },
+        {
+            "decision": ". Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1370,
+            "end_offset": 1382,
+            "annotation_id": "GC_027"
+        },
+        {
+            "decision": ". Dyslipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1387,
+            "end_offset": 1399,
+            "annotation_id": "GC_028"
+        },
+        {
+            "decision": "Gen: Man in bed in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1646,
+            "end_offset": 1668,
+            "annotation_id": "GC_029"
+        },
+        {
+            "decision": "HEENT: MMM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1669,
+            "end_offset": 1679,
+            "annotation_id": "GC_030"
+        },
+        {
+            "decision": "CV: irregular, +HSM at LUSB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1680,
+            "end_offset": 1707,
+            "annotation_id": "GC_031"
+        },
+        {
+            "decision": "PUL: +crackles at bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1708,
+            "end_offset": 1731,
+            "annotation_id": "GC_032"
+        },
+        {
+            "decision": "Abd: soft, nt, nd, +bs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1732,
+            "end_offset": 1754,
+            "annotation_id": "GC_033"
+        },
+        {
+            "decision": "Ext: 1+ LE edema b/l",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1755,
+            "end_offset": 1775,
+            "annotation_id": "GC_034"
+        },
+        {
+            "decision": "Neur: A&Ox3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1776,
+            "end_offset": 1787,
+            "annotation_id": "GC_035"
+        },
+        {
+            "decision": "CXR PA/Lat [**2189-3-19**]: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2439,
+            "end_offset": 2465,
+            "annotation_id": "GC_036"
+        },
+        {
+            "decision": "he patient is status post CABG with median sternotomy.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2467,
+            "end_offset": 2521,
+            "annotation_id": "GC_037"
+        },
+        {
+            "decision": "Note is made of cardiomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2523,
+            "end_offset": 2551,
+            "annotation_id": "GC_038"
+        },
+        {
+            "decision": "Thoracic aorta is tortuous.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2553,
+            "end_offset": 2579,
+            "annotation_id": "GC_039"
+        },
+        {
+            "decision": "Again, note is made of mild congestive heart failure, associated with bilateral effusion and patchy atelectasis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2581,
+            "end_offset": 2692,
+            "annotation_id": "GC_040"
+        },
+        {
+            "decision": "Cardiomegaly with mild CHF, small pleural effusion and patchy atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2706,
+            "end_offset": 2779,
+            "annotation_id": "GC_041"
+        },
+        {
+            "decision": "CXR AP [**2189-3-20**]: Upright AP chest: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2782,
+            "end_offset": 2822,
+            "annotation_id": "GC_042"
+        },
+        {
+            "decision": "The patient is post-median sternotomy. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2824,
+            "end_offset": 2861,
+            "annotation_id": "GC_043"
+        },
+        {
+            "decision": "There is stable cardiomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2863,
+            "end_offset": 2891,
+            "annotation_id": "GC_044"
+        },
+        {
+            "decision": "and the aorta is tortuous.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2893,
+            "end_offset": 2918,
+            "annotation_id": "GC_045"
+        },
+        {
+            "decision": "Heart failure persists and is possibly mildly worsened,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2920,
+            "end_offset": 2974,
+            "annotation_id": "GC_046"
+        },
+        {
+            "decision": "with slightly increased central edema and [**Last Name (un) 16765**] lines",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2976,
+            "end_offset": 3050,
+            "annotation_id": "GC_047"
+        },
+        {
+            "decision": "There is a left pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3052,
+            "end_offset": 3084,
+            "annotation_id": "GC_048"
+        },
+        {
+            "decision": "In addition, there is worsening opacity of the left lower lung zone consistent with pneumonia.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3086,
+            "end_offset": 3179,
+            "annotation_id": "GC_049"
+        },
+        {
+            "decision": "ECG [**2189-3-19**]:  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3182,
+            "end_offset": 3201,
+            "annotation_id": "GC_050"
+        },
+        {
+            "decision": "Atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3204,
+            "end_offset": 3223,
+            "annotation_id": "GC_051"
+        },
+        {
+            "decision": "Left axis deviation - anterior fascicular block. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3225,
+            "end_offset": 3272,
+            "annotation_id": "GC_052"
+        },
+        {
+            "decision": "Possible old septal infarct, Inferior/lateral ST-T changes may be due to myocardial ischemia or left ventricular hypertrophy, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3275,
+            "end_offset": 3399,
+            "annotation_id": "GC_053"
+        },
+        {
+            "decision": "Repolarization changes may be partly due to rhythm, Left ventricular hypertrophy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3401,
+            "end_offset": 3481,
+            "annotation_id": "GC_054"
+        },
+        {
+            "decision": "FECAL CULTURE (Final [**2189-3-21**]):    NO SALMONELLA OR SHIGELLA FOUND.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3483,
+            "end_offset": 3556,
+            "annotation_id": "GC_055"
+        },
+        {
+            "decision": "   CAMPYLOBACTER CULTURE (Final [**2189-3-21**]):    NO CAMPYLOBACTER FOUND.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3562,
+            "end_offset": 3634,
+            "annotation_id": "GC_056"
+        },
+        {
+            "decision": "   FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**2189-3-20**]):       NO E.COLI 0157:H7 FOUND",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3640,
+            "end_offset": 3729,
+            "annotation_id": "GC_057"
+        },
+        {
+            "decision": "   FECAL CULTURE - R/O YERSINIA (Final [**2189-3-21**]):    NO YERSINIA FOUND.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3735,
+            "end_offset": 3809,
+            "annotation_id": "GC_058"
+        },
+        {
+            "decision": "   FECAL CULTURE - R/O VIBRIO (Final [**2189-3-21**]):    NO VIBRIO FOUND.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3815,
+            "end_offset": 3885,
+            "annotation_id": "GC_059"
+        },
+        {
+            "decision": "   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2189-3-19**]):       FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.       Reference Range:  Negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3891,
+            "end_offset": 4034,
+            "annotation_id": "GC_060"
+        },
+        {
+            "decision": "   OVA + PARASITES (Final [**2189-3-19**]):",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4040,
+            "end_offset": 4078,
+            "annotation_id": "GC_061"
+        },
+        {
+            "decision": "coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4150,
+            "end_offset": 4173,
+            "annotation_id": "GC_062"
+        },
+        {
+            "decision": "congestive heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4175,
+            "end_offset": 4199,
+            "annotation_id": "GC_063"
+        },
+        {
+            "decision": "and atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4200,
+            "end_offset": 4223,
+            "annotation_id": "GC_064"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4292,
+            "end_offset": 4303,
+            "annotation_id": "GC_065"
+        },
+        {
+            "decision": ", pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4305,
+            "end_offset": 4314,
+            "annotation_id": "GC_066"
+        },
+        {
+            "decision": "and a urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4315,
+            "end_offset": 4344,
+            "annotation_id": "GC_067"
+        },
+        {
+            "decision": "community acquired pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4355,
+            "end_offset": 4383,
+            "annotation_id": "GC_068"
+        },
+        {
+            "decision": "he was given ceftriaxone and azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4385,
+            "end_offset": 4426,
+            "annotation_id": "GC_069"
+        },
+        {
+            "decision": "ceftriaxone was discontinued and will be discharged on five more days of azithromycin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4453,
+            "end_offset": 4538,
+            "annotation_id": "GC_070"
+        },
+        {
+            "decision": "urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4549,
+            "end_offset": 4572,
+            "annotation_id": "GC_071"
+        },
+        {
+            "decision": "found to have a positive UA with nitrites, leukocyte esterase, +blood) but urine culture was negative. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4581,
+            "end_offset": 4682,
+            "annotation_id": "GC_072"
+        },
+        {
+            "decision": "viral gastroenteritis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4734,
+            "end_offset": 4755,
+            "annotation_id": "GC_073"
+        },
+        {
+            "decision": "fecal cultures for campylobacter, e.coli 0157:H7, yersinia, cholera and c.diff were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4762,
+            "end_offset": 4854,
+            "annotation_id": "GC_074"
+        },
+        {
+            "decision": "presence of charcot-leiden crystals in his stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4871,
+            "end_offset": 4919,
+            "annotation_id": "GC_075"
+        },
+        {
+            "decision": "suggestive of a parasitic infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4929,
+            "end_offset": 4964,
+            "annotation_id": "GC_076"
+        },
+        {
+            "decision": "atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5060,
+            "end_offset": 5079,
+            "annotation_id": "GC_077"
+        },
+        {
+            "decision": "had been treated with coumadin and atenolol as an outpatient",
+            "category": "Category 5: Drug related",
+            "start_offset": 5080,
+            "end_offset": 5140,
+            "annotation_id": "GC_078"
+        },
+        {
+            "decision": "beta-blocker was initially held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5147,
+            "end_offset": 5178,
+            "annotation_id": "GC_079"
+        },
+        {
+            "decision": "due to his hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5179,
+            "end_offset": 5201,
+            "annotation_id": "GC_080"
+        },
+        {
+            "decision": "restarted as metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 5211,
+            "end_offset": 5234,
+            "annotation_id": "GC_081"
+        },
+        {
+            "decision": "transferred to the medical service, ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5273,
+            "end_offset": 5307,
+            "annotation_id": "GC_082"
+        },
+        {
+            "decision": "his atenolol was restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 5309,
+            "end_offset": 5335,
+            "annotation_id": "GC_083"
+        },
+        {
+            "decision": "atenolol dose should be titrated up as tolerated as an outpatient",
+            "category": "Category 5: Drug related",
+            "start_offset": 5398,
+            "end_offset": 5463,
+            "annotation_id": "GC_084"
+        },
+        {
+            "decision": "coumadin dose should be watched carefully as his azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5470,
+            "end_offset": 5531,
+            "annotation_id": "GC_085"
+        },
+        {
+            "decision": "For ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5593,
+            "end_offset": 5605,
+            "annotation_id": "GC_086"
+        },
+        {
+            "decision": "he has a history of CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5607,
+            "end_offset": 5630,
+            "annotation_id": "GC_087"
+        },
+        {
+            "decision": "s/p CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5631,
+            "end_offset": 5639,
+            "annotation_id": "GC_088"
+        },
+        {
+            "decision": "ruled out for MI by serial cardiac enzymes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5645,
+            "end_offset": 5687,
+            "annotation_id": "GC_089"
+        },
+        {
+            "decision": "Beta-blocker was given as above.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5690,
+            "end_offset": 5721,
+            "annotation_id": "GC_090"
+        },
+        {
+            "decision": "presented to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5737,
+            "end_offset": 5757,
+            "annotation_id": "GC_091"
+        },
+        {
+            "decision": "with exacerbation of his CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5758,
+            "end_offset": 5786,
+            "annotation_id": "GC_092"
+        },
+        {
+            "decision": "to boluses of lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 5889,
+            "end_offset": 5908,
+            "annotation_id": "GC_093"
+        },
+        {
+            "decision": "given several more boluses of IV lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 5941,
+            "end_offset": 5979,
+            "annotation_id": "GC_094"
+        },
+        {
+            "decision": "re-started on his home dose of lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 6062,
+            "end_offset": 6098,
+            "annotation_id": "GC_095"
+        },
+        {
+            "decision": "continued on his home dose of levothyroxine. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6162,
+            "end_offset": 6205,
+            "annotation_id": "GC_096"
+        },
+        {
+            "decision": "For hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6208,
+            "end_offset": 6224,
+            "annotation_id": "GC_097"
+        },
+        {
+            "decision": "his lisinopril was initially held and was restarted on [**3-24**].  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6226,
+            "end_offset": 6291,
+            "annotation_id": "GC_098"
+        },
+        {
+            "decision": "He was also re-started on his standing potassium supplementation. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6294,
+            "end_offset": 6358,
+            "annotation_id": "GC_099"
+        },
+        {
+            "decision": "cardiac diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6389,
+            "end_offset": 6401,
+            "annotation_id": "GC_100"
+        },
+        {
+            "decision": "subcutaneous heparin. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6435,
+            "end_offset": 6455,
+            "annotation_id": "GC_101"
+        },
+        {
+            "decision": "DNR/DNI",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 6477,
+            "end_offset": 6484,
+            "annotation_id": "GC_102"
+        },
+        {
+            "decision": "Atenolol 25mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 6513,
+            "end_offset": 6532,
+            "annotation_id": "GC_103"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6533,
+            "end_offset": 6541,
+            "annotation_id": "GC_104"
+        },
+        {
+            "decision": "Lasix 40mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 6542,
+            "end_offset": 6558,
+            "annotation_id": "GC_105"
+        },
+        {
+            "decision": "Lisinopril 10mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 6559,
+            "end_offset": 6580,
+            "annotation_id": "GC_106"
+        },
+        {
+            "decision": "Levoxyl 88 mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 6581,
+            "end_offset": 6600,
+            "annotation_id": "GC_107"
+        },
+        {
+            "decision": "KCl 10meq qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 6601,
+            "end_offset": 6613,
+            "annotation_id": "GC_108"
+        },
+        {
+            "decision": "1. Levothyroxine Sodium 88 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6638,
+            "end_offset": 6711,
+            "annotation_id": "GC_109"
+        },
+        {
+            "decision": "2. Azithromycin 250 mg Capsule Sig: One (1) Capsule PO Q24H (every 24 hours) for 5 days. Disp:*5 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6714,
+            "end_offset": 6834,
+            "annotation_id": "GC_110"
+        },
+        {
+            "decision": "3. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6835,
+            "end_offset": 6937,
+            "annotation_id": "GC_111"
+        },
+        {
+            "decision": "4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6938,
+            "end_offset": 7000,
+            "annotation_id": "GC_112"
+        },
+        {
+            "decision": "5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7004,
+            "end_offset": 7066,
+            "annotation_id": "GC_113"
+        },
+        {
+            "decision": "6. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7070,
+            "end_offset": 7128,
+            "annotation_id": "GC_114"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7225,
+            "end_offset": 7234,
+            "annotation_id": "GC_115"
+        },
+        {
+            "decision": "Diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7235,
+            "end_offset": 7243,
+            "annotation_id": "GC_116"
+        },
+        {
+            "decision": "Urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7244,
+            "end_offset": 7267,
+            "annotation_id": "GC_117"
+        },
+        {
+            "decision": "Congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7268,
+            "end_offset": 7292,
+            "annotation_id": "GC_118"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7293,
+            "end_offset": 7307,
+            "annotation_id": "GC_119"
+        },
+        {
+            "decision": "Stable, afebrile.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7331,
+            "end_offset": 7347,
+            "annotation_id": "GC_120"
+        },
+        {
+            "decision": "Please take your medications as directed.  Please seek medical attention for fevers>101.4, or for anything else medically concerning.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7374,
+            "end_offset": 7506,
+            "annotation_id": "GC_121"
+        },
+        {
+            "decision": "Please do not take your dose of coumadin today, please take 2mg starting tomorrow ([**2189-3-25**]).  Your dose will be adjusted by your PCP.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7509,
+            "end_offset": 7649,
+            "annotation_id": "GC_122"
+        },
+        {
+            "decision": "Please see your PCP at your appointment on Thursday for follow up.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7675,
+            "end_offset": 7740,
+            "annotation_id": "GC_123"
+        },
+        {
+            "decision": "Visiting nurse service will see you at home, tomorrow",
+            "category": "Category 1: Contact related",
+            "start_offset": 7743,
+            "end_offset": 7796,
+            "annotation_id": "GC_124"
+        }
+    ]
+}

@@ -1,0 +1,1385 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "73612_136332_54631",
+    "annotations": [
+        {
+            "decision": "PEA Arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 233,
+            "end_offset": 243,
+            "annotation_id": "PG_000"
+        },
+        {
+            "decision": "Cardiac Catheterization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 336,
+            "end_offset": 359,
+            "annotation_id": "PG_001"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 422,
+            "end_offset": 425,
+            "annotation_id": "PG_002"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 427,
+            "end_offset": 430,
+            "annotation_id": "PG_003"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 432,
+            "end_offset": 435,
+            "annotation_id": "PG_004"
+        },
+        {
+            "decision": "stent leg (? L or R), ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 441,
+            "end_offset": 460,
+            "annotation_id": "PG_005"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 463,
+            "end_offset": 466,
+            "annotation_id": "PG_006"
+        },
+        {
+            "decision": "DM2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 468,
+            "end_offset": 471,
+            "annotation_id": "PG_007"
+        },
+        {
+            "decision": "carotid artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 473,
+            "end_offset": 495,
+            "annotation_id": "PG_008"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 505,
+            "end_offset": 538,
+            "annotation_id": "PG_009"
+        },
+        {
+            "decision": "PEA arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 556,
+            "end_offset": 566,
+            "annotation_id": "PG_010"
+        },
+        {
+            "decision": "PEA arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 697,
+            "end_offset": 707,
+            "annotation_id": "PG_011"
+        },
+        {
+            "decision": "1 round of epi",
+            "category": "Category 5: Drug related",
+            "start_offset": 722,
+            "end_offset": 736,
+            "annotation_id": "PG_012"
+        },
+        {
+            "decision": "atropine",
+            "category": "Category 5: Drug related",
+            "start_offset": 741,
+            "end_offset": 749,
+            "annotation_id": "PG_013"
+        },
+        {
+            "decision": "had ROSC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 759,
+            "end_offset": 767,
+            "annotation_id": "PG_014"
+        },
+        {
+            "decision": "STEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 791,
+            "end_offset": 796,
+            "annotation_id": "PG_015"
+        },
+        {
+            "decision": "transferred over to [**Hospital1 18**] where he went to cath lab",
+            "category": "Category 1: Contact related",
+            "start_offset": 878,
+            "end_offset": 942,
+            "annotation_id": "PG_016"
+        },
+        {
+            "decision": "The RCA was totally occluded but collaterals from Left were noted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 944,
+            "end_offset": 1009,
+            "annotation_id": "PG_017"
+        },
+        {
+            "decision": "RHC showed elevated wedge (30s), RA pressures 15, PAP 60",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1011,
+            "end_offset": 1067,
+            "annotation_id": "PG_018"
+        },
+        {
+            "decision": "Echo in lab showed moderate MR, mild AI, preserved LV, RV function. Calcified AV",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1069,
+            "end_offset": 1149,
+            "annotation_id": "PG_019"
+        },
+        {
+            "decision": "lasix IV in lab 80 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 1160,
+            "end_offset": 1181,
+            "annotation_id": "PG_020"
+        },
+        {
+            "decision": "LV gram showed mild MR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1183,
+            "end_offset": 1205,
+            "annotation_id": "PG_021"
+        },
+        {
+            "decision": "LV gram showed mild MR, inferiobasal HK with EF about 45%",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1183,
+            "end_offset": 1239,
+            "annotation_id": "PG_022"
+        },
+        {
+            "decision": "AS study showed moderate-severe AS with valve area 1.0.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1242,
+            "end_offset": 1296,
+            "annotation_id": "PG_023"
+        },
+        {
+            "decision": "Chronic occlusion of RCA and 80% prox LAD with good flow through LAD and LCx.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1298,
+            "end_offset": 1374,
+            "annotation_id": "PG_024"
+        },
+        {
+            "decision": "Patient was transferred up to CCU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1449,
+            "end_offset": 1482,
+            "annotation_id": "PG_025"
+        },
+        {
+            "decision": "bilateral pitting edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1872,
+            "end_offset": 1895,
+            "annotation_id": "PG_026"
+        },
+        {
+            "decision": "recently increased his lasix dose from 20mg to 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 1905,
+            "end_offset": 1962,
+            "annotation_id": "PG_027"
+        },
+        {
+            "decision": "Azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2054,
+            "end_offset": 2066,
+            "annotation_id": "PG_028"
+        },
+        {
+            "decision": "CAP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2080,
+            "end_offset": 2083,
+            "annotation_id": "PG_029"
+        },
+        {
+            "decision": "presumed CAP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2071,
+            "end_offset": 2083,
+            "annotation_id": "PG_030"
+        },
+        {
+            "decision": "Art line placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2085,
+            "end_offset": 2100,
+            "annotation_id": "PG_031"
+        },
+        {
+            "decision": "transfer to CCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 2106,
+            "end_offset": 2121,
+            "annotation_id": "PG_032"
+        },
+        {
+            "decision": "fentanyl injections ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2179,
+            "end_offset": 2198,
+            "annotation_id": "PG_033"
+        },
+        {
+            "decision": "Hypotensive to Systolic 80s-90s when sleeping and after fentanyl injections but increases upon awakening.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2123,
+            "end_offset": 2227,
+            "annotation_id": "PG_034"
+        },
+        {
+            "decision": ". Started on lasix gtt at 5/hr",
+            "category": "Category 5: Drug related",
+            "start_offset": 2258,
+            "end_offset": 2286,
+            "annotation_id": "PG_035"
+        },
+        {
+            "decision": "On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2307,
+            "end_offset": 2520,
+            "annotation_id": "PG_036"
+        },
+        {
+            "decision": " S/he denies recent fevers, chills or rigors. S/he denies exertional buttock or calf pain. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2522,
+            "end_offset": 2610,
+            "annotation_id": "PG_037"
+        },
+        {
+            "decision": "All of the other review of systems were negative.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2612,
+            "end_offset": 2660,
+            "annotation_id": "PG_038"
+        },
+        {
+            "decision": "Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2664,
+            "end_offset": 2838,
+            "annotation_id": "PG_039"
+        },
+        {
+            "decision": "+Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2889,
+            "end_offset": 2898,
+            "annotation_id": "PG_040"
+        },
+        {
+            "decision": "+Dyslipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2900,
+            "end_offset": 2913,
+            "annotation_id": "PG_041"
+        },
+        {
+            "decision": "+Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2915,
+            "end_offset": 2928,
+            "annotation_id": "PG_042"
+        },
+        {
+            "decision": "CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2951,
+            "end_offset": 2955,
+            "annotation_id": "PG_043"
+        },
+        {
+            "decision": "PERCUTANEOUS CORONARY INTERVENTIONS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2958,
+            "end_offset": 2993,
+            "annotation_id": "PG_044"
+        },
+        {
+            "decision": "PACING/ICD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2996,
+            "end_offset": 3006,
+            "annotation_id": "PG_045"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3008,
+            "end_offset": 3011,
+            "annotation_id": "PG_046"
+        },
+        {
+            "decision": "lasix home dose 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 3027,
+            "end_offset": 3054,
+            "annotation_id": "PG_047"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3055,
+            "end_offset": 3058,
+            "annotation_id": "PG_048"
+        },
+        {
+            "decision": "Stent in leg (unclear R or L)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3060,
+            "end_offset": 3088,
+            "annotation_id": "PG_049"
+        },
+        {
+            "decision": "Bilateral carotid artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3090,
+            "end_offset": 3122,
+            "annotation_id": "PG_050"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3125,
+            "end_offset": 3129,
+            "annotation_id": "PG_051"
+        },
+        {
+            "decision": "Benign neck tumors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3180,
+            "end_offset": 3198,
+            "annotation_id": "PG_052"
+        },
+        {
+            "decision": "GENERAL: Intubated, sedated in NAD. Following commands.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3418,
+            "end_offset": 3472,
+            "annotation_id": "PG_053"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3474,
+            "end_offset": 3597,
+            "annotation_id": "PG_054"
+        },
+        {
+            "decision": "NECK: Supple with no significant JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3600,
+            "end_offset": 3636,
+            "annotation_id": "PG_055"
+        },
+        {
+            "decision": "CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR, normal S1, S2. 3/6 systolic murmer heard over aortic and tricuspid areas. No thrills, lifts. No S3 or S4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3637,
+            "end_offset": 3812,
+            "annotation_id": "PG_056"
+        },
+        {
+            "decision": "LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi anteriorly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3814,
+            "end_offset": 3965,
+            "annotation_id": "PG_057"
+        },
+        {
+            "decision": "ABDOMEN: Soft, non-tender, mildly distended. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3966,
+            "end_offset": 4090,
+            "annotation_id": "PG_058"
+        },
+        {
+            "decision": "EXTREMITIES: 2+ pitting edema bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4092,
+            "end_offset": 4133,
+            "annotation_id": "PG_059"
+        },
+        {
+            "decision": "SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4134,
+            "end_offset": 4189,
+            "annotation_id": "PG_060"
+        },
+        {
+            "decision": "PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4191,
+            "end_offset": 4305,
+            "annotation_id": "PG_061"
+        },
+        {
+            "decision": "On the right side the known occlusion of the internal carotid artery is confirmed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4886,
+            "end_offset": 4967,
+            "annotation_id": "PG_062"
+        },
+        {
+            "decision": "On left side a mild amount of calcified plaque is seen in the common and internal carotid arteries",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4970,
+            "end_offset": 5068,
+            "annotation_id": "PG_063"
+        },
+        {
+            "decision": "On the right side peak systolic velocities were 24 cm/sec for the common carotid artery and 203 cm/sec for the external carotid artery",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5071,
+            "end_offset": 5205,
+            "annotation_id": "PG_064"
+        },
+        {
+            "decision": "No ICA/CCA ratio could be determined on the right side due to complete occlusion of the internal carotid artery",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5208,
+            "end_offset": 5319,
+            "annotation_id": "PG_065"
+        },
+        {
+            "decision": "complete occlusion of the internal carotid artery",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5270,
+            "end_offset": 5319,
+            "annotation_id": "PG_066"
+        },
+        {
+            "decision": "On the left side peak systolic velocities were 75 cm/sec for the proximal internal carotid artery, 106 cm/sec for the mid internal carotid artery, 100 cm/sec for the distal internal carotid artery and 55 cm/sec for the common carotid artery.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5322,
+            "end_offset": 5562,
+            "annotation_id": "PG_067"
+        },
+        {
+            "decision": "The left ICA/CCA ratio was 2.0.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5565,
+            "end_offset": 5595,
+            "annotation_id": "PG_068"
+        },
+        {
+            "decision": "Vertebral arteries presented antegrade flow",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5598,
+            "end_offset": 5641,
+            "annotation_id": "PG_069"
+        },
+        {
+            "decision": "Occlusion of the right internal carotid artery.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5690,
+            "end_offset": 5736,
+            "annotation_id": "PG_070"
+        },
+        {
+            "decision": "Less than 40% stenosis of the left internal carotid artery.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5742,
+            "end_offset": 5800,
+            "annotation_id": "PG_071"
+        },
+        {
+            "decision": "CTA LOWER EXTREMITIES: IMPRESSION: 1.  Filling defect in a moderate segment of the right superficial femoral artery may represent thrombus versus dissection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5895,
+            "end_offset": 6051,
+            "annotation_id": "PG_072"
+        },
+        {
+            "decision": "This was discussed with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] by phone at 10:20 a.m. on [**2195-7-5**] after attending review.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6054,
+            "end_offset": 6211,
+            "annotation_id": "PG_073"
+        },
+        {
+            "decision": "Occluded dorsalis pedis and plantar arteries in the right foot.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6217,
+            "end_offset": 6279,
+            "annotation_id": "PG_074"
+        },
+        {
+            "decision": "Significant atherosclerotic disease in the lower extremity vasculature as described above.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6285,
+            "end_offset": 6374,
+            "annotation_id": "PG_075"
+        },
+        {
+            "decision": "Diverticulosis without diverticulitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6380,
+            "end_offset": 6417,
+            "annotation_id": "PG_076"
+        },
+        {
+            "decision": "Ischemic cardiomyopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6782,
+            "end_offset": 6805,
+            "annotation_id": "PG_077"
+        },
+        {
+            "decision": "severe AS,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6807,
+            "end_offset": 6816,
+            "annotation_id": "PG_078"
+        },
+        {
+            "decision": "Severe PVD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6818,
+            "end_offset": 6828,
+            "annotation_id": "PG_079"
+        },
+        {
+            "decision": "PEA arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6876,
+            "end_offset": 6886,
+            "annotation_id": "PG_080"
+        },
+        {
+            "decision": "CHF exacerbation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6892,
+            "end_offset": 6908,
+            "annotation_id": "PG_081"
+        },
+        {
+            "decision": "diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 6913,
+            "end_offset": 6921,
+            "annotation_id": "PG_082"
+        },
+        {
+            "decision": "hemodynamic optimization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6926,
+            "end_offset": 6950,
+            "annotation_id": "PG_083"
+        },
+        {
+            "decision": "ECHO shows LVEF of 45% with mild MR and AS",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6960,
+            "end_offset": 7002,
+            "annotation_id": "PG_084"
+        },
+        {
+            "decision": "mild MR and AS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6988,
+            "end_offset": 7002,
+            "annotation_id": "PG_085"
+        },
+        {
+            "decision": "diuresed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7034,
+            "end_offset": 7042,
+            "annotation_id": "PG_086"
+        },
+        {
+            "decision": "put on nitro gtt titrated to appropriate BPs",
+            "category": "Category 5: Drug related",
+            "start_offset": 7047,
+            "end_offset": 7091,
+            "annotation_id": "PG_087"
+        },
+        {
+            "decision": "captopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 7149,
+            "end_offset": 7158,
+            "annotation_id": "PG_088"
+        },
+        {
+            "decision": "metoprolol tartrate",
+            "category": "Category 5: Drug related",
+            "start_offset": 7163,
+            "end_offset": 7182,
+            "annotation_id": "PG_089"
+        },
+        {
+            "decision": "These medications were then switched to Lisinopril 10 mg daily and PO Lasix as well as Sprironolactone.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7185,
+            "end_offset": 7287,
+            "annotation_id": "PG_090"
+        },
+        {
+            "decision": "6.5 L out, on nasal cannula",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7311,
+            "end_offset": 7338,
+            "annotation_id": "PG_091"
+        },
+        {
+            "decision": "STEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7408,
+            "end_offset": 7413,
+            "annotation_id": "PG_092"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 7419,
+            "end_offset": 7452,
+            "annotation_id": "PG_093"
+        },
+        {
+            "decision": "sent directly to cath lab ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7457,
+            "end_offset": 7482,
+            "annotation_id": "PG_094"
+        },
+        {
+            "decision": "80% occlusion of LAD, 40% LCx, and 100% RCA although with adequate collaterals were found",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7489,
+            "end_offset": 7578,
+            "annotation_id": "PG_095"
+        },
+        {
+            "decision": "Given the collaterals supported adequate flow, the CAD was thought to be chronic in nature ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7581,
+            "end_offset": 7671,
+            "annotation_id": "PG_096"
+        },
+        {
+            "decision": ".  ST depressions noted on EKGs from OSH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7720,
+            "end_offset": 7757,
+            "annotation_id": "PG_097"
+        },
+        {
+            "decision": "heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 7785,
+            "end_offset": 7792,
+            "annotation_id": "PG_098"
+        },
+        {
+            "decision": "The patient refused CABG ",
+            "category": "Category 8: Deferment",
+            "start_offset": 7794,
+            "end_offset": 7818,
+            "annotation_id": "PG_099"
+        },
+        {
+            "decision": "coronary artery bypass",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7978,
+            "end_offset": 8000,
+            "annotation_id": "PG_100"
+        },
+        {
+            "decision": "Carotid ultrasound was obtained for pre-op evaluation should the patient decide to pursue coronary artery bypass. The right carotid was found to be occluded and the left 40% stenosed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7888,
+            "end_offset": 8070,
+            "annotation_id": "PG_101"
+        },
+        {
+            "decision": "Aspirin and atorvastatin were continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 8072,
+            "end_offset": 8111,
+            "annotation_id": "PG_102"
+        },
+        {
+            "decision": "heparin was discontinued ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8127,
+            "end_offset": 8151,
+            "annotation_id": "PG_103"
+        },
+        {
+            "decision": "The patient did not have any remarkable arrhythmias secondary to condition ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8209,
+            "end_offset": 8283,
+            "annotation_id": "PG_104"
+        },
+        {
+            "decision": "PERIPHERAL VASCULAR DISEASE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8314,
+            "end_offset": 8341,
+            "annotation_id": "PG_105"
+        },
+        {
+            "decision": "CTA of the lower extremities was done, showing the following: 1.  Filling defect in a moderate segment of the right superficial femoral artery may represent thrombus versus dissection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8345,
+            "end_offset": 8528,
+            "annotation_id": "PG_106"
+        },
+        {
+            "decision": "This was discussed with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] by phone at 10:20 a.m. on [**2195-7-5**] after attending review.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8531,
+            "end_offset": 8688,
+            "annotation_id": "PG_107"
+        },
+        {
+            "decision": "Occluded dorsalis pedis and plantar arteries in the right foot",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8694,
+            "end_offset": 8756,
+            "annotation_id": "PG_108"
+        },
+        {
+            "decision": "Significant atherosclerotic disease in the lower extremity vasculature as described above.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8762,
+            "end_offset": 8851,
+            "annotation_id": "PG_109"
+        },
+        {
+            "decision": "Diverticulosis without diverticulitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8857,
+            "end_offset": 8894,
+            "annotation_id": "PG_110"
+        },
+        {
+            "decision": "his right foot was noted to be cool to touch without an appreciation for a dorsalis pedis pulse.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8923,
+            "end_offset": 9018,
+            "annotation_id": "PG_111"
+        },
+        {
+            "decision": "Vascular surgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 9020,
+            "end_offset": 9050,
+            "annotation_id": "PG_112"
+        },
+        {
+            "decision": "CTA of the LE ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9068,
+            "end_offset": 9081,
+            "annotation_id": "PG_113"
+        },
+        {
+            "decision": "heparin drip was started",
+            "category": "Category 5: Drug related",
+            "start_offset": 9095,
+            "end_offset": 9119,
+            "annotation_id": "PG_114"
+        },
+        {
+            "decision": "poor surgical candidate ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9190,
+            "end_offset": 9213,
+            "annotation_id": "PG_115"
+        },
+        {
+            "decision": "His right lower extremity became warmer over the next few days and a pulse returned without clinical consequence to his R foot.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9249,
+            "end_offset": 9375,
+            "annotation_id": "PG_116"
+        },
+        {
+            "decision": "DM2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9395,
+            "end_offset": 9398,
+            "annotation_id": "PG_117"
+        },
+        {
+            "decision": "metformin was discontinued on admission to the hospital and his glucose was kept under good control with insulin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9475,
+            "end_offset": 9587,
+            "annotation_id": "PG_118"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9590,
+            "end_offset": 9593,
+            "annotation_id": "PG_119"
+        },
+        {
+            "decision": "ACE inhibitor was continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 9609,
+            "end_offset": 9636,
+            "annotation_id": "PG_120"
+        },
+        {
+            "decision": "metoprolol was increased to 125 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 9642,
+            "end_offset": 9676,
+            "annotation_id": "PG_121"
+        },
+        {
+            "decision": "Severe three vessel disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9717,
+            "end_offset": 9744,
+            "annotation_id": "PG_122"
+        },
+        {
+            "decision": "The patient deferred CABG ",
+            "category": "Category 8: Deferment",
+            "start_offset": 9746,
+            "end_offset": 9771,
+            "annotation_id": "PG_123"
+        },
+        {
+            "decision": "Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9862,
+            "end_offset": 9870,
+            "annotation_id": "PG_124"
+        },
+        {
+            "decision": "The patient will be discharged on his pre-admission dose of metformin without any insulin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9872,
+            "end_offset": 9961,
+            "annotation_id": "PG_125"
+        },
+        {
+            "decision": "MetFORMIN (Glucophage) 1000 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10124,
+            "end_offset": 10161,
+            "annotation_id": "PG_126"
+        },
+        {
+            "decision": "Lisinopril 40 mg PO DAILY Hold if SBP <90",
+            "category": "Category 5: Drug related",
+            "start_offset": 10165,
+            "end_offset": 10206,
+            "annotation_id": "PG_127"
+        },
+        {
+            "decision": "Hold if SBP <90",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10191,
+            "end_offset": 10206,
+            "annotation_id": "PG_128"
+        },
+        {
+            "decision": "Metoprolol Tartrate Dose is Unknown  PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10210,
+            "end_offset": 10253,
+            "annotation_id": "PG_129"
+        },
+        {
+            "decision": "Furosemide 40 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10257,
+            "end_offset": 10282,
+            "annotation_id": "PG_130"
+        },
+        {
+            "decision": "Atorvastatin 20 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10286,
+            "end_offset": 10313,
+            "annotation_id": "PG_131"
+        },
+        {
+            "decision": "Aspirin 325 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10317,
+            "end_offset": 10340,
+            "annotation_id": "PG_132"
+        },
+        {
+            "decision": "Azithromycin 250 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 10344,
+            "end_offset": 10371,
+            "annotation_id": "PG_133"
+        },
+        {
+            "decision": "DiphenhydrAMINE 50 mg PO HS:PRN Insomnia",
+            "category": "Category 5: Drug related",
+            "start_offset": 10375,
+            "end_offset": 10415,
+            "annotation_id": "PG_134"
+        },
+        {
+            "decision": "Insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10407,
+            "end_offset": 10415,
+            "annotation_id": "PG_135"
+        },
+        {
+            "decision": "Aspirin 325 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10444,
+            "end_offset": 10467,
+            "annotation_id": "PG_136"
+        },
+        {
+            "decision": "Atorvastatin 20 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10471,
+            "end_offset": 10498,
+            "annotation_id": "PG_137"
+        },
+        {
+            "decision": "Lisinopril 10 mg PO DAILY Please hold for SBP <95",
+            "category": "Category 5: Drug related",
+            "start_offset": 10502,
+            "end_offset": 10551,
+            "annotation_id": "PG_138"
+        },
+        {
+            "decision": "Please hold for SBP <95",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10528,
+            "end_offset": 10551,
+            "annotation_id": "PG_139"
+        },
+        {
+            "decision": "Metoprolol Tartrate 125 mg PO BID Hold if SBP <90, HR<55",
+            "category": "Category 5: Drug related",
+            "start_offset": 10555,
+            "end_offset": 10611,
+            "annotation_id": "PG_140"
+        },
+        {
+            "decision": "Hold if SBP <90, HR<55",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10589,
+            "end_offset": 10611,
+            "annotation_id": "PG_141"
+        },
+        {
+            "decision": "DiphenhydrAMINE 50 mg PO HS:PRN Insomnia",
+            "category": "Category 5: Drug related",
+            "start_offset": 10615,
+            "end_offset": 10655,
+            "annotation_id": "PG_142"
+        },
+        {
+            "decision": "Insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10647,
+            "end_offset": 10655,
+            "annotation_id": "PG_143"
+        },
+        {
+            "decision": "Furosemide 40 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 10659,
+            "end_offset": 10684,
+            "annotation_id": "PG_144"
+        },
+        {
+            "decision": "MetFORMIN (Glucophage) 1000 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10688,
+            "end_offset": 10725,
+            "annotation_id": "PG_145"
+        },
+        {
+            "decision": "#Acute on Chronic Diastolic Heart Failure with a preserved EF of 45%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10829,
+            "end_offset": 10895,
+            "annotation_id": "PG_146"
+        },
+        {
+            "decision": "#Severe 3-vessel Coronary Artery Disease with a 100% occlusion of the RCA (with collaterals) and an 80% occlusion of his LAD that is not amenable to percutaneous intervention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10898,
+            "end_offset": 11071,
+            "annotation_id": "PG_147"
+        },
+        {
+            "decision": "not amenable to percutaneous intervention",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11030,
+            "end_offset": 11071,
+            "annotation_id": "PG_148"
+        },
+        {
+            "decision": "#Severe Aortic Stenosis with a gradient of 40mmHg and a valve area of 1.0sq-cm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11073,
+            "end_offset": 11150,
+            "annotation_id": "PG_149"
+        },
+        {
+            "decision": "#Peripheral Vascular Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11152,
+            "end_offset": 11179,
+            "annotation_id": "PG_150"
+        },
+        {
+            "decision": "#Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11181,
+            "end_offset": 11193,
+            "annotation_id": "PG_151"
+        },
+        {
+            "decision": "Patient is alert and oriented x 3 and in good mental state",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11217,
+            "end_offset": 11275,
+            "annotation_id": "PG_152"
+        },
+        {
+            "decision": "2L of O2 by NC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11314,
+            "end_offset": 11328,
+            "annotation_id": "PG_153"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11376,
+            "end_offset": 11409,
+            "annotation_id": "PG_154"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11411,
+            "end_offset": 11456,
+            "annotation_id": "PG_155"
+        },
+        {
+            "decision": "cardiac arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11597,
+            "end_offset": 11611,
+            "annotation_id": "PG_156"
+        },
+        {
+            "decision": "congestive heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11640,
+            "end_offset": 11664,
+            "annotation_id": "PG_157"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11669,
+            "end_offset": 11678,
+            "annotation_id": "PG_158"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 11714,
+            "end_offset": 11719,
+            "annotation_id": "PG_159"
+        },
+        {
+            "decision": "diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11801,
+            "end_offset": 11809,
+            "annotation_id": "PG_160"
+        },
+        {
+            "decision": "Metoprolol Tartrate 125mg twice a day and decreased your previous dose of Lisinopril to 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11861,
+            "end_offset": 11959,
+            "annotation_id": "PG_161"
+        },
+        {
+            "decision": "Metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 11965,
+            "end_offset": 11975,
+            "annotation_id": "PG_162"
+        },
+        {
+            "decision": "severe aortic stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12071,
+            "end_offset": 12093,
+            "annotation_id": "PG_163"
+        },
+        {
+            "decision": "heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12130,
+            "end_offset": 12143,
+            "annotation_id": "PG_164"
+        },
+        {
+            "decision": "wean you off the ventilator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12161,
+            "end_offset": 12188,
+            "annotation_id": "PG_165"
+        },
+        {
+            "decision": "eventually extubate it.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12237,
+            "end_offset": 12259,
+            "annotation_id": "PG_166"
+        },
+        {
+            "decision": "Metoprolol Tartrate 125 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12288,
+            "end_offset": 12314,
+            "annotation_id": "PG_167"
+        },
+        {
+            "decision": "Lasix 20 mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12333,
+            "end_offset": 12353,
+            "annotation_id": "PG_168"
+        },
+        {
+            "decision": "Spironolactone 12.5 mg daily ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12355,
+            "end_offset": 12383,
+            "annotation_id": "PG_169"
+        },
+        {
+            "decision": "Lisinopril 10 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 12406,
+            "end_offset": 12422,
+            "annotation_id": "PG_170"
+        },
+        {
+            "decision": "congestive heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12444,
+            "end_offset": 12468,
+            "annotation_id": "PG_171"
+        },
+        {
+            "decision": "coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12499,
+            "end_offset": 12522,
+            "annotation_id": "PG_172"
+        },
+        {
+            "decision": "Aspirin 325mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 12567,
+            "end_offset": 12580,
+            "annotation_id": "PG_173"
+        },
+        {
+            "decision": "Atorvastatin 20mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 12582,
+            "end_offset": 12599,
+            "annotation_id": "PG_174"
+        },
+        {
+            "decision": "Metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 12629,
+            "end_offset": 12639,
+            "annotation_id": "PG_175"
+        },
+        {
+            "decision": "Lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 12644,
+            "end_offset": 12654,
+            "annotation_id": "PG_176"
+        },
+        {
+            "decision": "cardiac catherization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12668,
+            "end_offset": 12689,
+            "annotation_id": "PG_177"
+        },
+        {
+            "decision": "you developed significant ischemia in your right foot. You had lost pulses and it was becoming cold.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12691,
+            "end_offset": 12790,
+            "annotation_id": "PG_178"
+        },
+        {
+            "decision": "CT scan showed a possible dissection of your R femoral artery.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12792,
+            "end_offset": 12853,
+            "annotation_id": "PG_179"
+        },
+        {
+            "decision": "We consulted vascular surgery ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 12855,
+            "end_offset": 12884,
+            "annotation_id": "PG_180"
+        },
+        {
+            "decision": "Heparin drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12915,
+            "end_offset": 12927,
+            "annotation_id": "PG_181"
+        },
+        {
+            "decision": "your pulses returned and your foot became warm and pink",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12950,
+            "end_offset": 13005,
+            "annotation_id": "PG_182"
+        },
+        {
+            "decision": "Heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 13022,
+            "end_offset": 13029,
+            "annotation_id": "PG_183"
+        },
+        {
+            "decision": "After your catherization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13122,
+            "end_offset": 13146,
+            "annotation_id": "PG_184"
+        },
+        {
+            "decision": "hematoma in your right thigh",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13169,
+            "end_offset": 13197,
+            "annotation_id": "PG_185"
+        },
+        {
+            "decision": "a CT scan, your thigh was found to have a 10x10cm hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13300,
+            "end_offset": 13358,
+            "annotation_id": "PG_186"
+        },
+        {
+            "decision": "4 units of Red Blood Cells ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13396,
+            "end_offset": 13422,
+            "annotation_id": "PG_187"
+        },
+        {
+            "decision": "your hemoglobin was checked",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 13427,
+            "end_offset": 13454,
+            "annotation_id": "PG_188"
+        },
+        {
+            "decision": "Heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 13507,
+            "end_offset": 13514,
+            "annotation_id": "PG_189"
+        },
+        {
+            "decision": "significant coronary artery disease and valve disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13609,
+            "end_offset": 13662,
+            "annotation_id": "PG_190"
+        },
+        {
+            "decision": "that we believe cannot be treated appropriately with medicines alone. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13663,
+            "end_offset": 13731,
+            "annotation_id": "PG_191"
+        },
+        {
+            "decision": "open heart surgery ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13764,
+            "end_offset": 13782,
+            "annotation_id": "PG_192"
+        },
+        {
+            "decision": "We have recommended to receive open heart surgery to help treat these problems. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13733,
+            "end_offset": 13811,
+            "annotation_id": "PG_193"
+        },
+        {
+            "decision": "[**Name (NI) **] refused these procedures on multiple occasions.",
+            "category": "Category 8: Deferment",
+            "start_offset": 13813,
+            "end_offset": 13876,
+            "annotation_id": "PG_194"
+        },
+        {
+            "decision": "A carotid artery ultrasound (a non-invasive test looking at the blood vessels in your neck) was done showing complete blockage of your right carotid artery and a 40% narrowing of your left.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13878,
+            "end_offset": 14066,
+            "annotation_id": "PG_195"
+        },
+        {
+            "decision": "Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) 819**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] Location: [**Hospital 46644**] MEDICAL ASSOCIATES Address: ONE PARKWAY, [**Location (un) **],[**Numeric Identifier 75553**] Phone: [**Telephone/Fax (1) 86181**] Appt:  [**7-20**] at 11:45am",
+            "category": "Category 1: Contact related",
+            "start_offset": 14170,
+            "end_offset": 14487,
+            "annotation_id": "PG_196"
+        }
+    ]
+}

@@ -1,0 +1,727 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30172_134737_33535",
+    "annotations": [
+        {
+            "decision": "MVC with major blunt chest trauma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 231,
+            "end_offset": 264,
+            "annotation_id": "KF_000"
+        },
+        {
+            "decision": "I&D",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 304,
+            "end_offset": 307,
+            "annotation_id": "KF_001"
+        },
+        {
+            "decision": "ORIF right BBFFx w/ ECU Repair [**5-28**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 309,
+            "end_offset": 350,
+            "annotation_id": "KF_002"
+        },
+        {
+            "decision": "Flex bronch",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 351,
+            "end_offset": 362,
+            "annotation_id": "KF_003"
+        },
+        {
+            "decision": "EGD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 364,
+            "end_offset": 367,
+            "annotation_id": "KF_004"
+        },
+        {
+            "decision": "s/p MVC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 437,
+            "end_offset": 444,
+            "annotation_id": "KF_005"
+        },
+        {
+            "decision": "Crohn's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 688,
+            "end_offset": 695,
+            "annotation_id": "KF_006"
+        },
+        {
+            "decision": "Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 696,
+            "end_offset": 702,
+            "annotation_id": "KF_007"
+        },
+        {
+            "decision": "GENERAL    non-rebreather in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 928,
+            "end_offset": 962,
+            "annotation_id": "KF_008"
+        },
+        {
+            "decision": "HEENT trachea midline, subcutaneous emphysema along chest wall and neck midline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 963,
+            "end_offset": 1042,
+            "annotation_id": "KF_009"
+        },
+        {
+            "decision": "RESPIRATORY  bilateral wheeze",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1043,
+            "end_offset": 1072,
+            "annotation_id": "KF_010"
+        },
+        {
+            "decision": "CARDIOVASCULAR   RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1073,
+            "end_offset": 1093,
+            "annotation_id": "KF_011"
+        },
+        {
+            "decision": "GI   Soft NABS ND",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1094,
+            "end_offset": 1111,
+            "annotation_id": "KF_012"
+        },
+        {
+            "decision": "[**5-28**] CXR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1133,
+            "end_offset": 1147,
+            "annotation_id": "KF_013"
+        },
+        {
+            "decision": "Osseous fractures involving the middle third of the bilateral clavicles, bilateral upper ribs, and right scapula.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1161,
+            "end_offset": 1273,
+            "annotation_id": "KF_014"
+        },
+        {
+            "decision": "Subcutaneous emphysema involving the soft tissues of the neck and upper chest. Persistent pneumomediastinum.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1276,
+            "end_offset": 1383,
+            "annotation_id": "KF_015"
+        },
+        {
+            "decision": "No pneumothorax is identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1386,
+            "end_offset": 1415,
+            "annotation_id": "KF_016"
+        },
+        {
+            "decision": "[**5-28**] Hand",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1417,
+            "end_offset": 1432,
+            "annotation_id": "KF_017"
+        },
+        {
+            "decision": "The forearm is obscured by an overlying cast. There are displaced fractures involving the distal radius and ulna with one bone width volar displacement and medial angulation of the over-riding distal fragments. There is surrounding soft tissue swelling. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1443,
+            "end_offset": 1695,
+            "annotation_id": "KF_018"
+        },
+        {
+            "decision": "There are no radiopaque foreign bodies. There are no other fractures in the visualized wrist, fingers and elbow. There are no degenerative changes.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1697,
+            "end_offset": 1843,
+            "annotation_id": "KF_019"
+        },
+        {
+            "decision": "Distal radius and ulna shaft fractures as described.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1858,
+            "end_offset": 1909,
+            "annotation_id": "KF_020"
+        },
+        {
+            "decision": "[**5-28**] CT Torso",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1912,
+            "end_offset": 1931,
+            "annotation_id": "KF_021"
+        },
+        {
+            "decision": "Significant pneumomediastinum with posterior tracheal laceration just above the carina.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1947,
+            "end_offset": 2033,
+            "annotation_id": "KF_022"
+        },
+        {
+            "decision": "Bilateral upper lung contusions, right greater than left.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2038,
+            "end_offset": 2094,
+            "annotation_id": "KF_023"
+        },
+        {
+            "decision": "Bilateral upper rib fractures, clavicle fractures, right scapular fracture with extensive chest wall emphysema extending into the neck soft tissues as well as along nerve roots into the central spinal canal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2099,
+            "end_offset": 2305,
+            "annotation_id": "KF_024"
+        },
+        {
+            "decision": "No evidence of traumatic injury to the abdomen or pelvis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2310,
+            "end_offset": 2366,
+            "annotation_id": "KF_025"
+        },
+        {
+            "decision": "[**5-28**] CTH",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2368,
+            "end_offset": 2382,
+            "annotation_id": "KF_026"
+        },
+        {
+            "decision": "No evidence of intracranial hemorrhage or skull fracture.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2398,
+            "end_offset": 2454,
+            "annotation_id": "KF_027"
+        },
+        {
+            "decision": "Soft tissue gas as described likely extension from subcutaneous emphysema and pneumomediastinum in the chest.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2459,
+            "end_offset": 2567,
+            "annotation_id": "KF_028"
+        },
+        {
+            "decision": "[**5-28**] CT CSPINE",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2626,
+            "end_offset": 2646,
+            "annotation_id": "KF_029"
+        },
+        {
+            "decision": "Chip fracture involving the right C6 transverse process (stable). No fracture line extension into the transverse foramen. Remainder of the cervical spine is intact with normal alignment.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2662,
+            "end_offset": 2847,
+            "annotation_id": "KF_030"
+        },
+        {
+            "decision": "Extensive soft tissue gas in the chest wall, neck soft tissues.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2852,
+            "end_offset": 2914,
+            "annotation_id": "KF_031"
+        },
+        {
+            "decision": "Pneumomediastinum with air dissecting into the retropharynx and parapharyngeal space.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2919,
+            "end_offset": 3003,
+            "annotation_id": "KF_032"
+        },
+        {
+            "decision": "Bilateral rib fractures, right first, left first and second. Bilateral clavicular fractures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3008,
+            "end_offset": 3099,
+            "annotation_id": "KF_033"
+        },
+        {
+            "decision": "Air outlining the thecal sac which appears to extend in along the nerve roots.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3104,
+            "end_offset": 3181,
+            "annotation_id": "KF_034"
+        },
+        {
+            "decision": "[**5-29**] UGI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3183,
+            "end_offset": 3197,
+            "annotation_id": "KF_035"
+        },
+        {
+            "decision": "There is a small area of persistent opacification adjacent to the esophagus, which may be artefactual however a small self-contained leak cannot be excluded. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3239,
+            "end_offset": 3395,
+            "annotation_id": "KF_036"
+        },
+        {
+            "decision": "Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3421,
+            "end_offset": 3489,
+            "annotation_id": "KF_037"
+        },
+        {
+            "decision": "admitted to Trauma surgery from the emergency department directly to the Trauma ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 3564,
+            "end_offset": 3647,
+            "annotation_id": "KF_038"
+        },
+        {
+            "decision": "Bilateral clavicle fx and Right scapular fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3681,
+            "end_offset": 3730,
+            "annotation_id": "KF_039"
+        },
+        {
+            "decision": "Open radial/ulnar fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3734,
+            "end_offset": 3754,
+            "annotation_id": "KF_040"
+        },
+        {
+            "decision": "s/p I&D, ORIF right BBFFx w/ ECU Repair [**5-28**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3756,
+            "end_offset": 3806,
+            "annotation_id": "KF_041"
+        },
+        {
+            "decision": "Chip fracture involving the right C6 transverse process (stable).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3810,
+            "end_offset": 3873,
+            "annotation_id": "KF_042"
+        },
+        {
+            "decision": "R>L Pulmonary contusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3879,
+            "end_offset": 3903,
+            "annotation_id": "KF_043"
+        },
+        {
+            "decision": "Bilateral rib fx:  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3907,
+            "end_offset": 3923,
+            "annotation_id": "KF_044"
+        },
+        {
+            "decision": "Pneumomediastinum",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3976,
+            "end_offset": 3993,
+            "annotation_id": "KF_045"
+        },
+        {
+            "decision": "Evulsed R 4th digit tip ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3997,
+            "end_offset": 4020,
+            "annotation_id": "KF_046"
+        },
+        {
+            "decision": "Plastics followed ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4023,
+            "end_offset": 4040,
+            "annotation_id": "KF_047"
+        },
+        {
+            "decision": "and adaptec placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4041,
+            "end_offset": 4059,
+            "annotation_id": "KF_048"
+        },
+        {
+            "decision": "Right upper molar fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4065,
+            "end_offset": 4091,
+            "annotation_id": "KF_049"
+        },
+        {
+            "decision": "multiple bony fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4111,
+            "end_offset": 4134,
+            "annotation_id": "KF_050"
+        },
+        {
+            "decision": "Orthopedics has been following along",
+            "category": "Category 1: Contact related",
+            "start_offset": 4136,
+            "end_offset": 4172,
+            "annotation_id": "KF_051"
+        },
+        {
+            "decision": "incision and drainage and open reduction internal fixation of the open radial/ulnar fractures with ECU repair.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4254,
+            "end_offset": 4363,
+            "annotation_id": "KF_052"
+        },
+        {
+            "decision": "tolerated the procedure well with no complications",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4378,
+            "end_offset": 4428,
+            "annotation_id": "KF_053"
+        },
+        {
+            "decision": "Expectant management was done ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4431,
+            "end_offset": 4460,
+            "annotation_id": "KF_054"
+        },
+        {
+            "decision": "Physical therapy and occupational therapy were consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4542,
+            "end_offset": 4598,
+            "annotation_id": "KF_055"
+        },
+        {
+            "decision": "Physical therapy and occupational therapy were consulted on the patient to assess home vs rehab needs and both services felt the patient was capable and able enough to return home, requiring only home OT",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4542,
+            "end_offset": 4745,
+            "annotation_id": "KF_056"
+        },
+        {
+            "decision": "pneumomediastinum: The patient had developed evidence of pneumomediastinum",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4764,
+            "end_offset": 4838,
+            "annotation_id": "KF_057"
+        },
+        {
+            "decision": " CAT scan and chest x-ray.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4855,
+            "end_offset": 4879,
+            "annotation_id": "KF_058"
+        },
+        {
+            "decision": "After discussion with the patient and the ICU team and Thoracic Surgery, it was decided the patient would be best served by a flexible bronchoscopy and esophagogastroduodenoscopy, to determine if there was any evidence of tracheal or esophageal injury",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4881,
+            "end_offset": 5132,
+            "annotation_id": "KF_059"
+        },
+        {
+            "decision": "UGI was performed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5156,
+            "end_offset": 5173,
+            "annotation_id": "KF_060"
+        },
+        {
+            "decision": "rule out esophageal injury and was reportedly negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5177,
+            "end_offset": 5231,
+            "annotation_id": "KF_061"
+        },
+        {
+            "decision": "patient's diet was advanced, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5238,
+            "end_offset": 5265,
+            "annotation_id": "KF_062"
+        },
+        {
+            "decision": "crepitus is resolving",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5339,
+            "end_offset": 5360,
+            "annotation_id": "KF_063"
+        },
+        {
+            "decision": "evulsed R 4th digit tip: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5380,
+            "end_offset": 5403,
+            "annotation_id": "KF_064"
+        },
+        {
+            "decision": "Plastic Surgery has been following ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5405,
+            "end_offset": 5439,
+            "annotation_id": "KF_065"
+        },
+        {
+            "decision": "placed adaptec and did not feel any surgical correction was necessary",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5444,
+            "end_offset": 5513,
+            "annotation_id": "KF_066"
+        },
+        {
+            "decision": "Outpatient follow up with Plastics in Hand Clinic was recommended.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5516,
+            "end_offset": 5581,
+            "annotation_id": "KF_067"
+        },
+        {
+            "decision": "possible right upper molar fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5601,
+            "end_offset": 5636,
+            "annotation_id": "KF_068"
+        },
+        {
+            "decision": "panorex was taken to evaluate for fractures",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5640,
+            "end_offset": 5683,
+            "annotation_id": "KF_069"
+        },
+        {
+            "decision": "follow up with an Oral surgeon or dentist as an outpatient",
+            "category": "Category 1: Contact related",
+            "start_offset": 5817,
+            "end_offset": 5875,
+            "annotation_id": "KF_070"
+        },
+        {
+            "decision": "was intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5889,
+            "end_offset": 5902,
+            "annotation_id": "KF_071"
+        },
+        {
+            "decision": "s/p bronchoscopy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5915,
+            "end_offset": 5931,
+            "annotation_id": "KF_072"
+        },
+        {
+            "decision": "Ortho operated on the patient in the OR ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6046,
+            "end_offset": 6085,
+            "annotation_id": "KF_073"
+        },
+        {
+            "decision": "[**5-30**] the patient was transfered out of the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 6100,
+            "end_offset": 6152,
+            "annotation_id": "KF_074"
+        },
+        {
+            "decision": "pain controlled on PCA.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6181,
+            "end_offset": 6203,
+            "annotation_id": "KF_075"
+        },
+        {
+            "decision": "afebrile with all vitals stable, tolerating po feeds, ambulating independently,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6306,
+            "end_offset": 6384,
+            "annotation_id": "KF_076"
+        },
+        {
+            "decision": "with pain controlled on po pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 6390,
+            "end_offset": 6432,
+            "annotation_id": "KF_077"
+        },
+        {
+            "decision": "Albuterol prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 6462,
+            "end_offset": 6475,
+            "annotation_id": "KF_078"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6503,
+            "end_offset": 6625,
+            "annotation_id": "KF_079"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6629,
+            "end_offset": 6737,
+            "annotation_id": "KF_080"
+        },
+        {
+            "decision": "Outpatient Occupational Therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6741,
+            "end_offset": 6772,
+            "annotation_id": "KF_081"
+        },
+        {
+            "decision": "Albuterol  Inhalation",
+            "category": "Category 5: Drug related",
+            "start_offset": 6822,
+            "end_offset": 6843,
+            "annotation_id": "KF_082"
+        },
+        {
+            "decision": "Bilateral clavicle fx and right scapular fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6899,
+            "end_offset": 6942,
+            "annotation_id": "KF_083"
+        },
+        {
+            "decision": "Open radial/ulnar fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6946,
+            "end_offset": 6966,
+            "annotation_id": "KF_084"
+        },
+        {
+            "decision": "Chip fracture involving the right C6 transverse process (stable).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6970,
+            "end_offset": 7033,
+            "annotation_id": "KF_085"
+        },
+        {
+            "decision": "R>L Pulmonary contusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7039,
+            "end_offset": 7063,
+            "annotation_id": "KF_086"
+        },
+        {
+            "decision": "Bilateral rib fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7067,
+            "end_offset": 7083,
+            "annotation_id": "KF_087"
+        },
+        {
+            "decision": "Evulsed R 4th digit tip",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7087,
+            "end_offset": 7110,
+            "annotation_id": "KF_088"
+        },
+        {
+            "decision": "Right upper molar fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7116,
+            "end_offset": 7136,
+            "annotation_id": "KF_089"
+        },
+        {
+            "decision": "Please call your surgeon or come to the Emergency Department if you experience any of the following: - Fever >101.5 or chills - Worsening nausea or vomiting - Inability to tolerate food or water - Increasing redness or drainage from your wound - Any pus from your wound - Anything else of concern",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7191,
+            "end_offset": 7487,
+            "annotation_id": "KF_090"
+        },
+        {
+            "decision": "Right upper extremity is non weight bearing (no splint needed)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7489,
+            "end_offset": 7550,
+            "annotation_id": "KF_091"
+        },
+        {
+            "decision": "treatment",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7632,
+            "end_offset": 7641,
+            "annotation_id": "KF_092"
+        },
+        {
+            "decision": "You will need outpatient Occupational Therapy.  You will be given a script for treatment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7553,
+            "end_offset": 7641,
+            "annotation_id": "KF_093"
+        },
+        {
+            "decision": "You will be given a CD of your dental xrays so you can ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7644,
+            "end_offset": 7698,
+            "annotation_id": "KF_094"
+        },
+        {
+            "decision": "follow up with your dentist to evaluate if you fractured your right upper molar.  You will need to schedule a follow up appointment to further evaluate this.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7699,
+            "end_offset": 7855,
+            "annotation_id": "KF_095"
+        },
+        {
+            "decision": "You will follow up with Orthopedic surgery to manage your fractures and your right arm.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7858,
+            "end_offset": 7944,
+            "annotation_id": "KF_096"
+        },
+        {
+            "decision": "You will follow up with Plastics regarding your ring finger.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7947,
+            "end_offset": 8006,
+            "annotation_id": "KF_097"
+        },
+        {
+            "decision": "You will follow up with Trauma surgery regarding your overall injuries and pulmonary contusions",
+            "category": "Category 1: Contact related",
+            "start_offset": 8009,
+            "end_offset": 8104,
+            "annotation_id": "KF_098"
+        },
+        {
+            "decision": "Please call [**Location (un) **] office ([**Telephone/Fax (1) 1228**])  to follow up with Orthopedic Surgery next week.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8130,
+            "end_offset": 8248,
+            "annotation_id": "KF_099"
+        },
+        {
+            "decision": "Please call The Hand Clinic ([**Telephone/Fax (1) 1228**]) to schedule a follow up appointment with Plastic Surgery next week.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8251,
+            "end_offset": 8376,
+            "annotation_id": "KF_100"
+        },
+        {
+            "decision": "Please call Dr.[**Name (NI) 12389**] Clinic ([**Telephone/Fax (1) 6429**]) to schedule a 2 week follow up with Trauma Surgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 8379,
+            "end_offset": 8504,
+            "annotation_id": "KF_101"
+        },
+        {
+            "decision": "Please make a follow up appointment with an Oral Surgeon or Dentist in the next week",
+            "category": "Category 1: Contact related",
+            "start_offset": 8506,
+            "end_offset": 8590,
+            "annotation_id": "KF_102"
+        }
+    ]
+}

@@ -1,0 +1,916 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "55186_117780_20491",
+    "annotations": [
+        {
+            "decision": "Brain Biopsy([**2120-7-10**])",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 349,
+            "end_offset": 377,
+            "annotation_id": "ND_000"
+        },
+        {
+            "decision": "CT scan was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 745,
+            "end_offset": 765,
+            "annotation_id": "ND_001"
+        },
+        {
+            "decision": "altered mental status with leftward eye deviation with nystagmus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1922,
+            "end_offset": 1986,
+            "annotation_id": "ND_002"
+        },
+        {
+            "decision": "CT showed edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1990,
+            "end_offset": 2005,
+            "annotation_id": "ND_003"
+        },
+        {
+            "decision": "CSF showed highly elevated protein and WBC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2011,
+            "end_offset": 2053,
+            "annotation_id": "ND_004"
+        },
+        {
+            "decision": "MRI was done showing FLAIR signal hyperintensity and patchy enhancement involving the right thalamus, mid brain, splenium of the corpus callosum, inferomedial temporal lobe and right cerebellum with associated leptomeningeal enhancement in the right cerebellum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2058,
+            "end_offset": 2318,
+            "annotation_id": "ND_005"
+        },
+        {
+            "decision": "Broad spectrum antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2321,
+            "end_offset": 2347,
+            "annotation_id": "ND_006"
+        },
+        {
+            "decision": "sent to the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 2392,
+            "end_offset": 2407,
+            "annotation_id": "ND_007"
+        },
+        {
+            "decision": "CT scans showed improvement of the edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2420,
+            "end_offset": 2460,
+            "annotation_id": "ND_008"
+        },
+        {
+            "decision": "transferred to step down.",
+            "category": "Category 1: Contact related",
+            "start_offset": 2475,
+            "end_offset": 2499,
+            "annotation_id": "ND_009"
+        },
+        {
+            "decision": "Gen: patient lying in bed, opens eyes to verbal and tactile stimulation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2786,
+            "end_offset": 2857,
+            "annotation_id": "ND_010"
+        },
+        {
+            "decision": "HEENT:MMM, no adenopathy,positive Brudzinski,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2859,
+            "end_offset": 2903,
+            "annotation_id": "ND_011"
+        },
+        {
+            "decision": "CV: NL S1/S2, RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2905,
+            "end_offset": 2922,
+            "annotation_id": "ND_012"
+        },
+        {
+            "decision": "Lungs: CTA b/l",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2923,
+            "end_offset": 2937,
+            "annotation_id": "ND_013"
+        },
+        {
+            "decision": "Neuro: Mental Status: patient is lethargic and drowsy, arrousable to stimulation, patient will follow commands, opens eyes, responds to questions, oriented to month and year,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2938,
+            "end_offset": 3110,
+            "annotation_id": "ND_014"
+        },
+        {
+            "decision": "CN: left [**Hospital1 **] eye deviation, right beat nystagmus, pupils 2 mm, minimally reactive, left facial droop, corneal reflexes intact,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3112,
+            "end_offset": 3250,
+            "annotation_id": "ND_015"
+        },
+        {
+            "decision": "Motor: left arm weakness, strength 2/5 in [**Hospital1 **] and tri, moves lower extremities to command but does not cooperate for strength exam, left up going toe.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3252,
+            "end_offset": 3414,
+            "annotation_id": "ND_016"
+        },
+        {
+            "decision": "Sensory: unable to evaluate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3416,
+            "end_offset": 3443,
+            "annotation_id": "ND_017"
+        },
+        {
+            "decision": "Cb: unable to test due to mental status.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3445,
+            "end_offset": 3484,
+            "annotation_id": "ND_018"
+        },
+        {
+            "decision": "Mental status intact, knows [**Doctor Last Name 1841**] backwards easily. Speech, naming, repetition, [**Location (un) 1131**] intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3503,
+            "end_offset": 3636,
+            "annotation_id": "ND_019"
+        },
+        {
+            "decision": "CN: EOMI with some increased effort to look right, horizontal nystagmus with rightward gaze, few beats then fatigues. Left downward skew deviation. Left facial droop sparing the upper face. Otherwise intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3639,
+            "end_offset": 3845,
+            "annotation_id": "ND_020"
+        },
+        {
+            "decision": "Motor: 5- in left delt, tri, 4 in left",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3848,
+            "end_offset": 3886,
+            "annotation_id": "ND_021"
+        },
+        {
+            "decision": "PARST SMR-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4090,
+            "end_offset": 4108,
+            "annotation_id": "ND_022"
+        },
+        {
+            "decision": "NEGATIVE SERUM TESTS: aspergillus, B-glucan, Bartonella, [**Location (un) **], EEE, West [**Doctor First Name **], Ehrlichia, anaplamsa, MS profile, mycoplasma, anti-[**Doctor Last Name **], anti-Yo",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4387,
+            "end_offset": 4585,
+            "annotation_id": "ND_023"
+        },
+        {
+            "decision": "[**2120-7-5**] 01:30PM URINE  UCG-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4637,
+            "end_offset": 4679,
+            "annotation_id": "ND_024"
+        },
+        {
+            "decision": "[**2120-7-5**] 01:30PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4769,
+            "end_offset": 4898,
+            "annotation_id": "ND_025"
+        },
+        {
+            "decision": "CSF NEGATIVE STUDIES: TB PCR x 2, CMV, EEE, EBV, EV, HSV, [**Doctor First Name **], TOXO, varicella, west",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5250,
+            "end_offset": 5355,
+            "annotation_id": "ND_026"
+        },
+        {
+            "decision": "MRI/MRV [**2120-7-5**]: 1. FLAIR signal hyperintensity and patchy enhancement involving the right thalamus, mid brain, splenium of the corpus callosum, inferomedial temporal lobe and right cerebellum with associated leptomeningeal enhancement in the right cerebellum. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5391,
+            "end_offset": 5657,
+            "annotation_id": "ND_027"
+        },
+        {
+            "decision": " These findings may reflect an encephalitis of viral, bacterial or fungal etiology versus ADEM. Given the time course of presentation of symptoms, lymphoma or a glial neoplasm is thought to be less likely.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5659,
+            "end_offset": 5862,
+            "annotation_id": "ND_028"
+        },
+        {
+            "decision": "Punctate foci of restricted diffusion within the right thalamus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5868,
+            "end_offset": 5931,
+            "annotation_id": "ND_029"
+        },
+        {
+            "decision": "most likely caused by a secondary vasculitis causing punctate foci of infarction secondary to surrounding inflammatory process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5933,
+            "end_offset": 6059,
+            "annotation_id": "ND_030"
+        },
+        {
+            "decision": "Normal MRV without evidence of venous sinus thrombosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6065,
+            "end_offset": 6119,
+            "annotation_id": "ND_031"
+        },
+        {
+            "decision": " MRI [**2120-7-16**]: Mild interval decrease in enhancement within the splenium of the corpus callosum and right cerebellum with slightly increased prominence of enhancement in the right thalamus, with unchanged persistent FLAIR signal abnormalities within the right thalamus, mid brain, medial temporal lobe, and cerebellar hemisphere compared to the prior study. Unchanged foci of slow diffusion are again demonstrated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6122,
+            "end_offset": 6541,
+            "annotation_id": "ND_032"
+        },
+        {
+            "decision": "These findings remain nonspecific in appearance. Findings may reflect encephalitis, with a viral etiology favored, including entities such as Eastern equine encephalitis. Mycobacterial, typical bacterial and fungal etiologies are thought to be less likely. Differential diagnoses also includes neoplasms such as glioma and inflammatory etiologies such as vasculitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6543,
+            "end_offset": 6908,
+            "annotation_id": "ND_033"
+        },
+        {
+            "decision": "CT CHEST/AB/PELV 1. No intrathoracic, intra-abdominal, or intra-pelvic mass or lymphadenopathy detected.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6911,
+            "end_offset": 7014,
+            "annotation_id": "ND_034"
+        },
+        {
+            "decision": "Enlarged uterus, with slight heterogenous enhancement of the myometrium.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7019,
+            "end_offset": 7090,
+            "annotation_id": "ND_035"
+        },
+        {
+            "decision": "Findings could represent adenomyosis and/or intramural fibroids,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7092,
+            "end_offset": 7155,
+            "annotation_id": "ND_036"
+        },
+        {
+            "decision": "pelvic ultrasound is recommended for further evaluation if clinically indicated.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7227,
+            "end_offset": 7306,
+            "annotation_id": "ND_037"
+        },
+        {
+            "decision": "Pulmonary nodular density adjacent to the left major fissure is unchanged from [**2119-5-22**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7311,
+            "end_offset": 7405,
+            "annotation_id": "ND_038"
+        },
+        {
+            "decision": "altered mental status with leftward eye deviation with nystagmus. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7724,
+            "end_offset": 7788,
+            "annotation_id": "ND_039"
+        },
+        {
+            "decision": "A CT showed edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7790,
+            "end_offset": 7807,
+            "annotation_id": "ND_040"
+        },
+        {
+            "decision": "CSF showed highly elevated protein and WBC.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7813,
+            "end_offset": 7855,
+            "annotation_id": "ND_041"
+        },
+        {
+            "decision": "MRI was done showing FLAIR signal hyperintensity and patchy enhancement involving the right thalamus, mid brain, splenium of the corpus callosum, inferomedial temporal lobe and right cerebellum with associated leptomeningeal enhancement in the right cerebellum.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7860,
+            "end_offset": 8120,
+            "annotation_id": "ND_042"
+        },
+        {
+            "decision": "Broad spectrum antibiotics were begun ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8123,
+            "end_offset": 8160,
+            "annotation_id": "ND_043"
+        },
+        {
+            "decision": "sent to the ICU.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8194,
+            "end_offset": 8209,
+            "annotation_id": "ND_044"
+        },
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8272,
+            "end_offset": 8293,
+            "annotation_id": "ND_045"
+        },
+        {
+            "decision": "brain abscess and meningoencephalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8350,
+            "end_offset": 8387,
+            "annotation_id": "ND_046"
+        },
+        {
+            "decision": "Head CT and MRI showed multiple FLAIR and enhancing hyperintensities throughout the brain (R thalamus, corpus callosum, midbrain). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8389,
+            "end_offset": 8517,
+            "annotation_id": "ND_047"
+        },
+        {
+            "decision": "LP was extremely significant for WBC 1150.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8520,
+            "end_offset": 8561,
+            "annotation_id": "ND_048"
+        },
+        {
+            "decision": "ID was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 8563,
+            "end_offset": 8579,
+            "annotation_id": "ND_049"
+        },
+        {
+            "decision": "started on vancomycin, CTX, ampicillin, and acyclovir. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8593,
+            "end_offset": 8646,
+            "annotation_id": "ND_050"
+        },
+        {
+            "decision": "Numerous bacterial, viral, parasitic and fungal studies were sent from blood and CSF. ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8648,
+            "end_offset": 8732,
+            "annotation_id": "ND_051"
+        },
+        {
+            "decision": "PPD was placed and was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8734,
+            "end_offset": 8765,
+            "annotation_id": "ND_052"
+        },
+        {
+            "decision": "HIV was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8767,
+            "end_offset": 8783,
+            "annotation_id": "ND_053"
+        },
+        {
+            "decision": "Patient continued to wax and wane, and remained somnolent on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8785,
+            "end_offset": 8850,
+            "annotation_id": "ND_054"
+        },
+        {
+            "decision": "started on mannitol, which did not improve her exam very much, it was stopped [**7-11**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8860,
+            "end_offset": 8948,
+            "annotation_id": "ND_055"
+        },
+        {
+            "decision": "increasing sodium levels.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8953,
+            "end_offset": 8977,
+            "annotation_id": "ND_056"
+        },
+        {
+            "decision": "for TB and mycoplasma. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9015,
+            "end_offset": 9036,
+            "annotation_id": "ND_057"
+        },
+        {
+            "decision": "empiric antibiotics and antivirals were discontinued ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9048,
+            "end_offset": 9100,
+            "annotation_id": "ND_058"
+        },
+        {
+            "decision": "once cultures were negative for 48 hours and HSV PCR was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9101,
+            "end_offset": 9166,
+            "annotation_id": "ND_059"
+        },
+        {
+            "decision": "on RIPE and moxifloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9188,
+            "end_offset": 9212,
+            "annotation_id": "ND_060"
+        },
+        {
+            "decision": "dexamethasone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9236,
+            "end_offset": 9249,
+            "annotation_id": "ND_061"
+        },
+        {
+            "decision": "inflammation that could be associated with TB meningoencephalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9263,
+            "end_offset": 9328,
+            "annotation_id": "ND_062"
+        },
+        {
+            "decision": "Consecutive CT scans showed improvement of cerebral edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9330,
+            "end_offset": 9387,
+            "annotation_id": "ND_063"
+        },
+        {
+            "decision": "Patient's mental status began to improve significantly ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9408,
+            "end_offset": 9462,
+            "annotation_id": "ND_064"
+        },
+        {
+            "decision": "decadron was started on [**7-9**].  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9469,
+            "end_offset": 9502,
+            "annotation_id": "ND_065"
+        },
+        {
+            "decision": "repeat LP showed stable pleocytosis but no improvement.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9560,
+            "end_offset": 9614,
+            "annotation_id": "ND_066"
+        },
+        {
+            "decision": "An extremely extensive workup was pursued for infectious and inflammatory causes in the serum and CSF. All of these studies were negative. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9616,
+            "end_offset": 9753,
+            "annotation_id": "ND_067"
+        },
+        {
+            "decision": "CT of the torso was done to look for underlying malignancy, and was negative. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9755,
+            "end_offset": 9831,
+            "annotation_id": "ND_068"
+        },
+        {
+            "decision": "There was no sign of intrapulmonary TB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9833,
+            "end_offset": 9871,
+            "annotation_id": "ND_069"
+        },
+        {
+            "decision": "Opthomology performed an eye exam to look for tubercles which would suggest TB and/or malignant cells in the vitreous representing lymphoma.  The eye exam was normal.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9873,
+            "end_offset": 10038,
+            "annotation_id": "ND_070"
+        },
+        {
+            "decision": "dexamethasone, RIPE and moxifloxicin",
+            "category": "Category 5: Drug related",
+            "start_offset": 10091,
+            "end_offset": 10127,
+            "annotation_id": "ND_071"
+        },
+        {
+            "decision": "Her left sided weakness improved significantly, however she continued to have neglect of that side making activity difficult for her. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10183,
+            "end_offset": 10315,
+            "annotation_id": "ND_072"
+        },
+        {
+            "decision": "At discharge, her gaze preference and skew deviation was improved, and nystagmus was minimal. Her left facial droop was mild compared to initial exam. Motor strength was 5- in left deltoid, tricep, wrist and finger extensors and IP, otherwise full strength",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10317,
+            "end_offset": 10573,
+            "annotation_id": "ND_073"
+        },
+        {
+            "decision": "Repeat LP showed significant improvement in pleocytosis at this point.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10575,
+            "end_offset": 10644,
+            "annotation_id": "ND_074"
+        },
+        {
+            "decision": "MRI on day of discharge showed decreased inflammation and decreased size and intensity of the prior lesions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10646,
+            "end_offset": 10753,
+            "annotation_id": "ND_075"
+        },
+        {
+            "decision": "Brain biopsy was considered at several points, however it was felt that the patient was improving clinically and the biopsy would not be without risks. ",
+            "category": "Category 8: Deferment",
+            "start_offset": 10797,
+            "end_offset": 10947,
+            "annotation_id": "ND_076"
+        },
+        {
+            "decision": "possible TB meningoencephalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11015,
+            "end_offset": 11046,
+            "annotation_id": "ND_077"
+        },
+        {
+            "decision": "continue on dexamethasone at current dose",
+            "category": "Category 5: Drug related",
+            "start_offset": 11100,
+            "end_offset": 11141,
+            "annotation_id": "ND_078"
+        },
+        {
+            "decision": "continue on dexamethasone at current dose. She will begin to taper the steroids in 1 week",
+            "category": "Category 5: Drug related",
+            "start_offset": 11100,
+            "end_offset": 11189,
+            "annotation_id": "ND_079"
+        },
+        {
+            "decision": "speech and swallow ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11427,
+            "end_offset": 11445,
+            "annotation_id": "ND_080"
+        },
+        {
+            "decision": "passed speech and swallow bedside evaluation. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11419,
+            "end_offset": 11464,
+            "annotation_id": "ND_081"
+        },
+        {
+            "decision": "began to work with PT/OT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11470,
+            "end_offset": 11494,
+            "annotation_id": "ND_082"
+        },
+        {
+            "decision": "requires significant reconditioning and teaching to improve her left neglect and motor planning",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11499,
+            "end_offset": 11594,
+            "annotation_id": "ND_083"
+        },
+        {
+            "decision": "will be discharged to [**First Name9 (NamePattern2) 24759**] [**Hospital1 656**] acute rehab.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11600,
+            "end_offset": 11692,
+            "annotation_id": "ND_084"
+        },
+        {
+            "decision": "Patient will follow up with neurology in 4 weeks. She will follow up with ID in 3 weeks. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11695,
+            "end_offset": 11782,
+            "annotation_id": "ND_085"
+        },
+        {
+            "decision": "continue current abx including RIPE and moxifloxacin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11793,
+            "end_offset": 11845,
+            "annotation_id": "ND_086"
+        },
+        {
+            "decision": "taper steroids in 1 week, with a 4 week taper",
+            "category": "Category 5: Drug related",
+            "start_offset": 11856,
+            "end_offset": 11901,
+            "annotation_id": "ND_087"
+        },
+        {
+            "decision": "will get monthly safety labs faxed to ID office.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11907,
+            "end_offset": 11954,
+            "annotation_id": "ND_088"
+        },
+        {
+            "decision": "motrin/tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 11984,
+            "end_offset": 11998,
+            "annotation_id": "ND_089"
+        },
+        {
+            "decision": "started on azythromycin for 01 day",
+            "category": "Category 5: Drug related",
+            "start_offset": 12000,
+            "end_offset": 12034,
+            "annotation_id": "ND_090"
+        },
+        {
+            "decision": "1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever/pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12060,
+            "end_offset": 12155,
+            "annotation_id": "ND_091"
+        },
+        {
+            "decision": "2. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12157,
+            "end_offset": 12242,
+            "annotation_id": "ND_092"
+        },
+        {
+            "decision": "3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12245,
+            "end_offset": 12321,
+            "annotation_id": "ND_093"
+        },
+        {
+            "decision": "4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12324,
+            "end_offset": 12460,
+            "annotation_id": "ND_094"
+        },
+        {
+            "decision": "5. Isoniazid 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12462,
+            "end_offset": 12524,
+            "annotation_id": "ND_095"
+        },
+        {
+            "decision": "6. Rifampin 300 mg Capsule Sig: Two (2) Capsule PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12528,
+            "end_offset": 12599,
+            "annotation_id": "ND_096"
+        },
+        {
+            "decision": "7. Pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12602,
+            "end_offset": 12664,
+            "annotation_id": "ND_097"
+        },
+        {
+            "decision": "8. Pyrazinamide 500 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12668,
+            "end_offset": 12733,
+            "annotation_id": "ND_098"
+        },
+        {
+            "decision": "9. Ethambutol 400 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12736,
+            "end_offset": 12799,
+            "annotation_id": "ND_099"
+        },
+        {
+            "decision": "10. Moxifloxacin 400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12802,
+            "end_offset": 12868,
+            "annotation_id": "ND_100"
+        },
+        {
+            "decision": "11. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12871,
+            "end_offset": 12940,
+            "annotation_id": "ND_101"
+        },
+        {
+            "decision": "12. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours): continue until [**7-29**] at this dose, then taper as follows: [**7-29**] (week 1 of taper)- 2g q6h [**8-5**] (week 2)- 2g q6h [**8-12**] (week 3)- 2g q8h [**8-19**] (week 4)- 2g q12h then STOP.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12943,
+            "end_offset": 13210,
+            "annotation_id": "ND_102"
+        },
+        {
+            "decision": "13. Insulin Regular Human 100 unit/mL Solution Sig: per sliding scale units Injection QHS: QHS sliding scale only FS 150-200= 2 units FS 200-250= 4 units FS 250-300= 6 units FS 300-350= 8 units FS 350-400= 10 units.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13212,
+            "end_offset": 13426,
+            "annotation_id": "ND_103"
+        },
+        {
+            "decision": "encephalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13551,
+            "end_offset": 13563,
+            "annotation_id": "ND_104"
+        },
+        {
+            "decision": "Discharge Condition: Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13566,
+            "end_offset": 13593,
+            "annotation_id": "ND_105"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13594,
+            "end_offset": 13627,
+            "annotation_id": "ND_106"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13629,
+            "end_offset": 13674,
+            "annotation_id": "ND_107"
+        },
+        {
+            "decision": "Activity Status: Out of Bed with assistance to chair or wheelchair.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13676,
+            "end_offset": 13742,
+            "annotation_id": "ND_108"
+        },
+        {
+            "decision": "Neurologic Exam: Mental status intact. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13744,
+            "end_offset": 13781,
+            "annotation_id": "ND_109"
+        },
+        {
+            "decision": "EOMI intact with horizontal beating nystagmus on rightward gaze, left downward skew. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13783,
+            "end_offset": 13866,
+            "annotation_id": "ND_110"
+        },
+        {
+            "decision": " Left facial droop. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13868,
+            "end_offset": 13885,
+            "annotation_id": "ND_111"
+        },
+        {
+            "decision": " Left sided weakness and inattention, distal worse than proximal. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13887,
+            "end_offset": 13950,
+            "annotation_id": "ND_112"
+        },
+        {
+            "decision": " Sensation intact but with variable extinction to DSS on the left. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13952,
+            "end_offset": 14016,
+            "annotation_id": "ND_113"
+        },
+        {
+            "decision": " Coordination intact. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14018,
+            "end_offset": 14037,
+            "annotation_id": "ND_114"
+        },
+        {
+            "decision": " Reflexes 2+, toes downgoing.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14039,
+            "end_offset": 14066,
+            "annotation_id": "ND_115"
+        },
+        {
+            "decision": "have elevated white blood cells in your spinal fluid.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14205,
+            "end_offset": 14257,
+            "annotation_id": "ND_116"
+        },
+        {
+            "decision": "found to have areas in your brain that appeared inflammed on MRI, although the cause of these lesions was not clear. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14268,
+            "end_offset": 14383,
+            "annotation_id": "ND_117"
+        },
+        {
+            "decision": "all testing has been negative so far. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14468,
+            "end_offset": 14504,
+            "annotation_id": "ND_118"
+        },
+        {
+            "decision": "spinal fluid white count improved, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14511,
+            "end_offset": 14544,
+            "annotation_id": "ND_119"
+        },
+        {
+            "decision": " and your MRI now looks improved as well",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14546,
+            "end_offset": 14585,
+            "annotation_id": "ND_120"
+        },
+        {
+            "decision": "tuberculosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14620,
+            "end_offset": 14632,
+            "annotation_id": "ND_121"
+        },
+        {
+            "decision": "treated empirically for tuberculosis with antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 14596,
+            "end_offset": 14649,
+            "annotation_id": "ND_122"
+        },
+        {
+            "decision": "given steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14665,
+            "end_offset": 14679,
+            "annotation_id": "ND_123"
+        },
+        {
+            "decision": "the inflammation in your brain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14689,
+            "end_offset": 14719,
+            "annotation_id": "ND_124"
+        },
+        {
+            "decision": "will continue to improve with physical and occupational therapy in rehab.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14746,
+            "end_offset": 14818,
+            "annotation_id": "ND_125"
+        },
+        {
+            "decision": "continue all these antibiotics and steroids for now",
+            "category": "Category 5: Drug related",
+            "start_offset": 14829,
+            "end_offset": 14880,
+            "annotation_id": "ND_126"
+        },
+        {
+            "decision": "follow up with infectious diseases, who will determine the final antibiotics treatment.",
+            "category": "Category 1: Contact related",
+            "start_offset": 14891,
+            "end_offset": 14977,
+            "annotation_id": "ND_127"
+        },
+        {
+            "decision": "Appointment 1 Infectious Disease Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6137**] Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2120-8-12**] 9:30 [**Last Name (NamePattern1) **]. [**Hospital Unit Name **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 15004,
+            "end_offset": 15234,
+            "annotation_id": "ND_128"
+        },
+        {
+            "decision": "Appointment 2 Neurology Dr. [**Last Name (STitle) 1968**] and Dr. [**Last Name (STitle) 1206**] Phone:[**Telephone/Fax (1) 44**] Date/Time:[**2120-8-20**] 2:30 [**Hospital Ward Name 23**] Building [**Location (un) **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 15236,
+            "end_offset": 15453,
+            "annotation_id": "ND_129"
+        }
+    ]
+}

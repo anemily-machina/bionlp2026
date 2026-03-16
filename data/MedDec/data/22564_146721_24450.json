@@ -1,0 +1,482 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "22564_146721_24450",
+    "annotations": [
+        {
+            "decision": "Hypotension- ? Cholangitis with CBD stone- x-ferred from [**Hospital 7912**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 283,
+            "end_offset": 359,
+            "annotation_id": "GI_000"
+        },
+        {
+            "decision": "ERCP [**2117-3-26**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 401,
+            "end_offset": 421,
+            "annotation_id": "GI_001"
+        },
+        {
+            "decision": "history of PUD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 475,
+            "end_offset": 489,
+            "annotation_id": "GI_002"
+        },
+        {
+            "decision": "s/p Billroth",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 490,
+            "end_offset": 502,
+            "annotation_id": "GI_003"
+        },
+        {
+            "decision": "x-ferred from OSH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 516,
+            "end_offset": 533,
+            "annotation_id": "GI_004"
+        },
+        {
+            "decision": "with ? of cholangitis and concern for CBD stone and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 534,
+            "end_offset": 597,
+            "annotation_id": "GI_005"
+        },
+        {
+            "decision": "on levophed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 598,
+            "end_offset": 609,
+            "annotation_id": "GI_006"
+        },
+        {
+            "decision": "and an Abdominal U/S ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 929,
+            "end_offset": 949,
+            "annotation_id": "GI_007"
+        },
+        {
+            "decision": "showed CBD dilatation 1.0 cm",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 950,
+            "end_offset": 978,
+            "annotation_id": "GI_008"
+        },
+        {
+            "decision": "cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 980,
+            "end_offset": 994,
+            "annotation_id": "GI_009"
+        },
+        {
+            "decision": "recommended MRCP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1000,
+            "end_offset": 1016,
+            "annotation_id": "GI_010"
+        },
+        {
+            "decision": "hypotension refractory to several fluid boluses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1073,
+            "end_offset": 1120,
+            "annotation_id": "GI_011"
+        },
+        {
+            "decision": "transferred to the ICU. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1128,
+            "end_offset": 1150,
+            "annotation_id": "GI_012"
+        },
+        {
+            "decision": "Pt was found to have Cr increase to 2.3 from 0.9 and Bcx [**12-23**] grew out E. coli ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1154,
+            "end_offset": 1239,
+            "annotation_id": "GI_013"
+        },
+        {
+            "decision": "sensitive to Zosyn (also sensitive to cefazolin, levolfoxacin, gentamicin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1240,
+            "end_offset": 1313,
+            "annotation_id": "GI_014"
+        },
+        {
+            "decision": "Pt was x-ferred to [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 1317,
+            "end_offset": 1354,
+            "annotation_id": "GI_015"
+        },
+        {
+            "decision": "COPD- admitted [**2117-3-20**] at OSH with exacerbation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1418,
+            "end_offset": 1473,
+            "annotation_id": "GI_016"
+        },
+        {
+            "decision": "PUD- Billroth 21 years ago",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1478,
+            "end_offset": 1504,
+            "annotation_id": "GI_017"
+        },
+        {
+            "decision": "Glaucoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1509,
+            "end_offset": 1517,
+            "annotation_id": "GI_018"
+        },
+        {
+            "decision": ". Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1521,
+            "end_offset": 1533,
+            "annotation_id": "GI_019"
+        },
+        {
+            "decision": ", Currently off levophed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1771,
+            "end_offset": 1793,
+            "annotation_id": "GI_020"
+        },
+        {
+            "decision": "NAD, sitting in bed, difficulty hearing but AAOx3, speaking in full sentences",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1795,
+            "end_offset": 1872,
+            "annotation_id": "GI_021"
+        },
+        {
+            "decision": "dry MM, OP dry, dentures, slightly icteric sclera. no JVD appreciable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1873,
+            "end_offset": 1942,
+            "annotation_id": "GI_022"
+        },
+        {
+            "decision": "RR without m poor air-exchange, diffuse rhonchi and wheezes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1944,
+            "end_offset": 2003,
+            "annotation_id": "GI_023"
+        },
+        {
+            "decision": "soft, old midline incision, NT/ND +BS, no HSM.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2005,
+            "end_offset": 2050,
+            "annotation_id": "GI_024"
+        },
+        {
+            "decision": "no C/C/E, warm, 2+DP.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2052,
+            "end_offset": 2072,
+            "annotation_id": "GI_025"
+        },
+        {
+            "decision": "right arm PICC line. .",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2075,
+            "end_offset": 2095,
+            "annotation_id": "GI_026"
+        },
+        {
+            "decision": " ECG Study Date of [**2117-3-27**]  8:59:02 PM",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2119,
+            "end_offset": 2164,
+            "annotation_id": "GI_027"
+        },
+        {
+            "decision": "Probable multifocal atrial tachycardia No previous tracing for comparison ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2165,
+            "end_offset": 2238,
+            "annotation_id": "GI_028"
+        },
+        {
+            "decision": "CHEST (PORTABLE AP)  [**2117-3-27**] 7:45 AM",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2240,
+            "end_offset": 2284,
+            "annotation_id": "GI_029"
+        },
+        {
+            "decision": "IMPRESSION: Worsening air space consolidation at the left base since [**2117-3-26**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2285,
+            "end_offset": 2369,
+            "annotation_id": "GI_030"
+        },
+        {
+            "decision": "CHEST (PORTABLE AP)  [**2117-3-26**] 4:51 PM ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2372,
+            "end_offset": 2416,
+            "annotation_id": "GI_031"
+        },
+        {
+            "decision": "Bilateral alveolar air space opacities with small bilateral pleural effusions suggest volume overload",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2431,
+            "end_offset": 2532,
+            "annotation_id": "GI_032"
+        },
+        {
+            "decision": "An underlying infectious process, particularly at the bases cannot be excluded.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2534,
+            "end_offset": 2612,
+            "annotation_id": "GI_033"
+        },
+        {
+            "decision": "ERCP S&I ([**Numeric Identifier 39322**])  [**2117-3-26**] 2:41 PM  ERCP: Four ERCP images were obtained by Dr. [**Last Name (STitle) **]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2615,
+            "end_offset": 2752,
+            "annotation_id": "GI_034"
+        },
+        {
+            "decision": "Multiple abdominal surgical clips are noted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2754,
+            "end_offset": 2797,
+            "annotation_id": "GI_035"
+        },
+        {
+            "decision": "Cholangiogram demonstrates multiple filling defects in the common duct",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2799,
+            "end_offset": 2869,
+            "annotation_id": "GI_036"
+        },
+        {
+            "decision": "By report, sludge And purulent material were extracted. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2871,
+            "end_offset": 2925,
+            "annotation_id": "GI_037"
+        },
+        {
+            "decision": "Final image demonstrates placement of a biliary stent. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2927,
+            "end_offset": 2980,
+            "annotation_id": "GI_038"
+        },
+        {
+            "decision": "PUD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3064,
+            "end_offset": 3067,
+            "annotation_id": "GI_039"
+        },
+        {
+            "decision": "s/p Billroth ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3068,
+            "end_offset": 3080,
+            "annotation_id": "GI_040"
+        },
+        {
+            "decision": "midepigastric pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3095,
+            "end_offset": 3113,
+            "annotation_id": "GI_041"
+        },
+        {
+            "decision": "WBC, elevated T.bili, AST ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3115,
+            "end_offset": 3140,
+            "annotation_id": "GI_042"
+        },
+        {
+            "decision": "dilated CBD all suggestive of Cholangitis and found to have E.coli bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3147,
+            "end_offset": 3224,
+            "annotation_id": "GI_043"
+        },
+        {
+            "decision": "Cholangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3231,
+            "end_offset": 3242,
+            "annotation_id": "GI_044"
+        },
+        {
+            "decision": "CBD stone obstruction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3261,
+            "end_offset": 3282,
+            "annotation_id": "GI_045"
+        },
+        {
+            "decision": "WBC, and abnormal LFTs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3318,
+            "end_offset": 3340,
+            "annotation_id": "GI_046"
+        },
+        {
+            "decision": "Amylase and lipase were normal at OSH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3448,
+            "end_offset": 3485,
+            "annotation_id": "GI_047"
+        },
+        {
+            "decision": "An ERCP was performed on [**2117-3-26**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3543,
+            "end_offset": 3583,
+            "annotation_id": "GI_048"
+        },
+        {
+            "decision": "which found purulent material in the CBD with multiple filling defects and a stent was subsequently placed.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3584,
+            "end_offset": 3690,
+            "annotation_id": "GI_049"
+        },
+        {
+            "decision": "- The patient was switched from Zosyn to Levo as his E.Coli was pansensitive.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3694,
+            "end_offset": 3768,
+            "annotation_id": "GI_050"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3775,
+            "end_offset": 3786,
+            "annotation_id": "GI_051"
+        },
+        {
+            "decision": "from bacteremia (Biliary E.coli source) that lead to mild sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3800,
+            "end_offset": 3864,
+            "annotation_id": "GI_052"
+        },
+        {
+            "decision": "WBC trended down. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3866,
+            "end_offset": 3882,
+            "annotation_id": "GI_053"
+        },
+        {
+            "decision": ". COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3890,
+            "end_offset": 3894,
+            "annotation_id": "GI_054"
+        },
+        {
+            "decision": "emphysema exacerbation.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3949,
+            "end_offset": 3971,
+            "annotation_id": "GI_055"
+        },
+        {
+            "decision": "-- We continued Albuterol/Atrovent Nebs, fluticasone",
+            "category": "Category 5: Drug related",
+            "start_offset": 4009,
+            "end_offset": 4058,
+            "annotation_id": "GI_056"
+        },
+        {
+            "decision": "--We started levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4062,
+            "end_offset": 4085,
+            "annotation_id": "GI_057"
+        },
+        {
+            "decision": "for Cholangitis and also to cover any Bronchitis component there may be to his respiratory distress. .",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4086,
+            "end_offset": 4186,
+            "annotation_id": "GI_058"
+        },
+        {
+            "decision": "ARF-",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4192,
+            "end_offset": 4196,
+            "annotation_id": "GI_059"
+        },
+        {
+            "decision": "baseline Cr 0.9 on admission, currently has gone up to 3.0.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4197,
+            "end_offset": 4255,
+            "annotation_id": "GI_060"
+        },
+        {
+            "decision": "DDx includes prerenal, ATN- hypotension, and interstitial nephritis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4258,
+            "end_offset": 4325,
+            "annotation_id": "GI_061"
+        },
+        {
+            "decision": ". DNR/DNI",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4333,
+            "end_offset": 4340,
+            "annotation_id": "GI_062"
+        },
+        {
+            "decision": "Access- Left A-line, Right PICC line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4485,
+            "end_offset": 4521,
+            "annotation_id": "GI_063"
+        },
+        {
+            "decision": "on BIPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4672,
+            "end_offset": 4680,
+            "annotation_id": "GI_064"
+        },
+        {
+            "decision": "which was consistent with respiratory failure.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4708,
+            "end_offset": 4753,
+            "annotation_id": "GI_065"
+        },
+        {
+            "decision": "morphine drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4912,
+            "end_offset": 4925,
+            "annotation_id": "GI_066"
+        },
+        {
+            "decision": "Respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5030,
+            "end_offset": 5049,
+            "annotation_id": "GI_067"
+        }
+    ]
+}

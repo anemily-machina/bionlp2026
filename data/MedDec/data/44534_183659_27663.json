@@ -1,0 +1,1539 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "44534_183659_27663",
+    "annotations": [
+        {
+            "decision": "AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 242,
+            "end_offset": 245,
+            "annotation_id": "LN_000"
+        },
+        {
+            "decision": "A-line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 285,
+            "end_offset": 291,
+            "annotation_id": "LN_001"
+        },
+        {
+            "decision": "IR guided paracentesis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 292,
+            "end_offset": 314,
+            "annotation_id": "LN_002"
+        },
+        {
+            "decision": "history of end-stage liver disease secondary to hepatitis C, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 403,
+            "end_offset": 462,
+            "annotation_id": "LN_003"
+        },
+        {
+            "decision": "HIV (CD4 322) ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 464,
+            "end_offset": 476,
+            "annotation_id": "LN_004"
+        },
+        {
+            "decision": "and pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 478,
+            "end_offset": 504,
+            "annotation_id": "LN_005"
+        },
+        {
+            "decision": "on tube feeds per Dobhoff but had recently switched to oral feeding",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 706,
+            "end_offset": 773,
+            "annotation_id": "LN_006"
+        },
+        {
+            "decision": "lactulose",
+            "category": "Category 5: Drug related",
+            "start_offset": 1306,
+            "end_offset": 1315,
+            "annotation_id": "LN_007"
+        },
+        {
+            "decision": "negative cardiac enzymes,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1579,
+            "end_offset": 1603,
+            "annotation_id": "LN_008"
+        },
+        {
+            "decision": " and a total bilirubin of 5.5 (unchanged from baseline).  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1605,
+            "end_offset": 1658,
+            "annotation_id": "LN_009"
+        },
+        {
+            "decision": "chest xray which showed a right lower lobe effusion and possible infiltrate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1671,
+            "end_offset": 1746,
+            "annotation_id": "LN_010"
+        },
+        {
+            "decision": "single large gallstone ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1806,
+            "end_offset": 1828,
+            "annotation_id": "LN_011"
+        },
+        {
+            "decision": "He had a RUQ ultrasound with moderate abdominal fluid, a single large gallstone and gallbladder wall thickening",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1749,
+            "end_offset": 1860,
+            "annotation_id": "LN_012"
+        },
+        {
+            "decision": "His blood pressure dropped to 85/63 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1863,
+            "end_offset": 1898,
+            "annotation_id": "LN_013"
+        },
+        {
+            "decision": "received 6 L IVF.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1906,
+            "end_offset": 1922,
+            "annotation_id": "LN_014"
+        },
+        {
+            "decision": "He had an episode of hypoglycemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1924,
+            "end_offset": 1957,
+            "annotation_id": "LN_015"
+        },
+        {
+            "decision": "received 1 amp of D50",
+            "category": "Category 5: Drug related",
+            "start_offset": 1997,
+            "end_offset": 2018,
+            "annotation_id": "LN_016"
+        },
+        {
+            "decision": "He was given ceftriaxone, azithromycin,",
+            "category": "Category 5: Drug related",
+            "start_offset": 2021,
+            "end_offset": 2059,
+            "annotation_id": "LN_017"
+        },
+        {
+            "decision": "vancomycin and then zosyn for broad antibiotic coverage",
+            "category": "Category 5: Drug related",
+            "start_offset": 2061,
+            "end_offset": 2116,
+            "annotation_id": "LN_018"
+        },
+        {
+            "decision": "His still was guaiac negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2118,
+            "end_offset": 2147,
+            "annotation_id": "LN_019"
+        },
+        {
+            "decision": "He was transferred to the ICU for further management.",
+            "category": "Category 1: Contact related",
+            "start_offset": 2150,
+            "end_offset": 2202,
+            "annotation_id": "LN_020"
+        },
+        {
+            "decision": "continued on broad spectrum antibiotics with vancomycin and zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 2223,
+            "end_offset": 2288,
+            "annotation_id": "LN_021"
+        },
+        {
+            "decision": "His HAART was held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2291,
+            "end_offset": 2309,
+            "annotation_id": "LN_022"
+        },
+        {
+            "decision": "elevated lactate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2323,
+            "end_offset": 2339,
+            "annotation_id": "LN_023"
+        },
+        {
+            "decision": "blood and urine cultures which were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2389,
+            "end_offset": 2433,
+            "annotation_id": "LN_024"
+        },
+        {
+            "decision": "Rapid viral screen was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2435,
+            "end_offset": 2466,
+            "annotation_id": "LN_025"
+        },
+        {
+            "decision": "Stool cultures were negative for clostridium difficle x 3 but concern was high ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2469,
+            "end_offset": 2547,
+            "annotation_id": "LN_026"
+        },
+        {
+            "decision": "started on flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 2558,
+            "end_offset": 2575,
+            "annotation_id": "LN_027"
+        },
+        {
+            "decision": "Ultrasound guided paracentesis was negative for SBP",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2577,
+            "end_offset": 2628,
+            "annotation_id": "LN_028"
+        },
+        {
+            "decision": "negative for SBP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2612,
+            "end_offset": 2628,
+            "annotation_id": "LN_029"
+        },
+        {
+            "decision": "CT chest abdomen pelvis showed evidence of a RML pneumonia and colitis as well as bilateral pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2630,
+            "end_offset": 2739,
+            "annotation_id": "LN_030"
+        },
+        {
+            "decision": "Lactate trended down ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2742,
+            "end_offset": 2762,
+            "annotation_id": "LN_031"
+        },
+        {
+            "decision": "IVF ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2768,
+            "end_offset": 2771,
+            "annotation_id": "LN_032"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 2776,
+            "end_offset": 2787,
+            "annotation_id": "LN_033"
+        },
+        {
+            "decision": "A PICC line was placed for IV access",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2789,
+            "end_offset": 2825,
+            "annotation_id": "LN_034"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 2835,
+            "end_offset": 2859,
+            "annotation_id": "LN_035"
+        },
+        {
+            "decision": "in stable condition.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2860,
+            "end_offset": 2879,
+            "annotation_id": "LN_036"
+        },
+        {
+            "decision": "HIV x 26yr (CD4 322, VL undetectable [**3-6**])",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2929,
+            "end_offset": 2975,
+            "annotation_id": "LN_037"
+        },
+        {
+            "decision": "Hepatitis C x 10yr complicated by cirrhosis, grade [**11-29**] esophageal varices [**2-3**], hepatic hydrothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2979,
+            "end_offset": 3091,
+            "annotation_id": "LN_038"
+        },
+        {
+            "decision": "s/p thoracentesis [**3-6**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3092,
+            "end_offset": 3119,
+            "annotation_id": "LN_039"
+        },
+        {
+            "decision": "ascites, portal hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3121,
+            "end_offset": 3149,
+            "annotation_id": "LN_040"
+        },
+        {
+            "decision": "secondary to pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3200,
+            "end_offset": 3235,
+            "annotation_id": "LN_041"
+        },
+        {
+            "decision": "Pulmonary Hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3239,
+            "end_offset": 3261,
+            "annotation_id": "LN_042"
+        },
+        {
+            "decision": "100% oxygen inhalation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3396,
+            "end_offset": 3418,
+            "annotation_id": "LN_043"
+        },
+        {
+            "decision": "Right heart catheterization [**3-6**] showed a mean PA pressure of 40 mmHg and 40% reduction in pulmonary vascular resistance after 100% oxygen inhalation and no further improvement with the addition of inhaled nitric oxide.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3264,
+            "end_offset": 3487,
+            "annotation_id": "LN_044"
+        },
+        {
+            "decision": "inhaled nitric oxide.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3467,
+            "end_offset": 3487,
+            "annotation_id": "LN_045"
+        },
+        {
+            "decision": "LLL lung nodule ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3492,
+            "end_offset": 3507,
+            "annotation_id": "LN_046"
+        },
+        {
+            "decision": "atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3589,
+            "end_offset": 3600,
+            "annotation_id": "LN_047"
+        },
+        {
+            "decision": "incidental finding on CTA [**3-6**], PET-CT without uptake in lung c/w rounded atelectasis, but low-level uptake in benign appearing neck nodules",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3510,
+            "end_offset": 3655,
+            "annotation_id": "LN_048"
+        },
+        {
+            "decision": "s/p hip replacement in [**2146**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3659,
+            "end_offset": 3692,
+            "annotation_id": "LN_049"
+        },
+        {
+            "decision": "avascular necrosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3697,
+            "end_offset": 3715,
+            "annotation_id": "LN_050"
+        },
+        {
+            "decision": "Osteopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3718,
+            "end_offset": 3728,
+            "annotation_id": "LN_051"
+        },
+        {
+            "decision": "General: Alert, oriented, conversant, speaks in short sentences secondary to dyspnea, cachectic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4047,
+            "end_offset": 4142,
+            "annotation_id": "LN_052"
+        },
+        {
+            "decision": "HEENT:  Sclera anicteric, MMM dry, Dobhoff in place, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4143,
+            "end_offset": 4212,
+            "annotation_id": "LN_053"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4213,
+            "end_offset": 4251,
+            "annotation_id": "LN_054"
+        },
+        {
+            "decision": "Lungs: Decreased air movement at right lung base, otherwise clear to auscultation bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4252,
+            "end_offset": 4345,
+            "annotation_id": "LN_055"
+        },
+        {
+            "decision": "CV: regular, [**1-3**] holosystolic murmur heard best at RLSB, no rubs or gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4346,
+            "end_offset": 4427,
+            "annotation_id": "LN_056"
+        },
+        {
+            "decision": "Abdomen: soft, distended, non-tender, bowel sounds present, no rebound tenderness or guarding.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4428,
+            "end_offset": 4521,
+            "annotation_id": "LN_057"
+        },
+        {
+            "decision": "Extremities: Warm and well perfused, 2+ pulses, no clubbing, cyanosis or edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4523,
+            "end_offset": 4601,
+            "annotation_id": "LN_058"
+        },
+        {
+            "decision": "GU: foley draining clear yellow urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4603,
+            "end_offset": 4640,
+            "annotation_id": "LN_059"
+        },
+        {
+            "decision": "Neurologic:  No asterixis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4641,
+            "end_offset": 4666,
+            "annotation_id": "LN_060"
+        },
+        {
+            "decision": "Notable for clear lungs bilaterally, 1+ edema to knees, O2 saturation 95% on RA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4685,
+            "end_offset": 4764,
+            "annotation_id": "LN_061"
+        },
+        {
+            "decision": "URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.008",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6001,
+            "end_offset": 6063,
+            "annotation_id": "LN_062"
+        },
+        {
+            "decision": "URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6088,
+            "end_offset": 6191,
+            "annotation_id": "LN_063"
+        },
+        {
+            "decision": "Paracentesis:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6193,
+            "end_offset": 6205,
+            "annotation_id": "LN_064"
+        },
+        {
+            "decision": "ASCITES ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6231,
+            "end_offset": 6238,
+            "annotation_id": "LN_065"
+        },
+        {
+            "decision": "EKG [**2155-5-13**]: Normal sinus rhythm at 97, normal axis, normal intervals, borderline prolonged QT, no ST elevation or depression.  TWI in 3, V1 with flattening in 2, avF.  Unchangd from prior dated [**2155-3-25**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6289,
+            "end_offset": 6507,
+            "annotation_id": "LN_066"
+        },
+        {
+            "decision": "RUQ Ultrasound: 1. Moderate ascites, with the deepest pocket marked at the lateral right mid abdomen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6527,
+            "end_offset": 6627,
+            "annotation_id": "LN_067"
+        },
+        {
+            "decision": "No evidence of portal vein thrombosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6632,
+            "end_offset": 6669,
+            "annotation_id": "LN_068"
+        },
+        {
+            "decision": "Diffusely heterogeneous and coarsened hepatic echotexture with no focal lesion identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6689,
+            "end_offset": 6778,
+            "annotation_id": "LN_069"
+        },
+        {
+            "decision": "gallstone ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6796,
+            "end_offset": 6805,
+            "annotation_id": "LN_070"
+        },
+        {
+            "decision": "Single large gallstone with gallbladder wall thickening, which may be related to the patient's hypoalbuminemia. No specific sign of cholecystitis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6783,
+            "end_offset": 6928,
+            "annotation_id": "LN_071"
+        },
+        {
+            "decision": "No specific sign of cholecystitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6895,
+            "end_offset": 6928,
+            "annotation_id": "LN_072"
+        },
+        {
+            "decision": "CT Chest/Abdomen/Pelvis: 1. There is dilatation and distention of the esophagus around a gastric tube.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6948,
+            "end_offset": 7049,
+            "annotation_id": "LN_073"
+        },
+        {
+            "decision": ". Given the extensive inflammatory change in the right middle lobe in particular, aspiration must be considered",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7051,
+            "end_offset": 7160,
+            "annotation_id": "LN_074"
+        },
+        {
+            "decision": "Compared to the most recent cross-sectional study, the CT examination of [**2155-4-16**] there has been interval mild progression of ascites and bilateral pleural effusions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7165,
+            "end_offset": 7337,
+            "annotation_id": "LN_075"
+        },
+        {
+            "decision": "Diffuse small bowel dilatation is identified. There is no evidence of pneumatosis nor of a transition point. In the colon there Appears to be pancolitis and C-Diff is suspected",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7342,
+            "end_offset": 7518,
+            "annotation_id": "LN_076"
+        },
+        {
+            "decision": "Pancreatic lesions, likely cyst or pseudocyst cysts and unchanged from prior MR examination.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7523,
+            "end_offset": 7614,
+            "annotation_id": "LN_077"
+        },
+        {
+            "decision": "varices and portal hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7676,
+            "end_offset": 7707,
+            "annotation_id": "LN_078"
+        },
+        {
+            "decision": "There is no evidence of vascular abnormality outside the varices and portal hypertension. The portal vein appears relatively [**Name2 (NI) 67562**], but unchanged from multiple prior cross-sectional imaging studies. SMV, SMA, celiac vessels all appears patent",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7619,
+            "end_offset": 7878,
+            "annotation_id": "LN_079"
+        },
+        {
+            "decision": "Portable CXR: Moderate bilateral pleural effusions are chronic. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7898,
+            "end_offset": 7960,
+            "annotation_id": "LN_080"
+        },
+        {
+            "decision": "The rounded lung lesions in the left lower lobe last documented on chest CT [**3-26**] and PET/CT [**4-16**] are still present, and although attributed to rounded atelectasis are best evaluated with a contrast CT of the chest. The same is true for what was more typical atelectasis in the right lower lobe on those studies, which now has a rounded appearance. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7962,
+            "end_offset": 8320,
+            "annotation_id": "LN_081"
+        },
+        {
+            "decision": "Upper lungs are clear. Heart size is normal, and there is no mediastinal vascular engorgement or evidence of adenopathy in the mediastinum.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8322,
+            "end_offset": 8460,
+            "annotation_id": "LN_082"
+        },
+        {
+            "decision": "Feeding tube passes into the duodenum and out of view",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8462,
+            "end_offset": 8515,
+            "annotation_id": "LN_083"
+        },
+        {
+            "decision": "Left Upper Extremity Ultrasound:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8534,
+            "end_offset": 8565,
+            "annotation_id": "LN_084"
+        },
+        {
+            "decision": "The PICC is noted in the basilic vein.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8829,
+            "end_offset": 8866,
+            "annotation_id": "LN_085"
+        },
+        {
+            "decision": "There is normal compressibility, flow and augmentation. The PICC is noted in the basilic vein. Comparison waveform from the right subclavian was obtained, which was normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8773,
+            "end_offset": 8944,
+            "annotation_id": "LN_086"
+        },
+        {
+            "decision": "Blood Cultures: [**2155-5-13**] x 3, [**2155-5-14**] x 2, [**2155-5-15**] x 1 - negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8960,
+            "end_offset": 9048,
+            "annotation_id": "LN_087"
+        },
+        {
+            "decision": "Urine Cultures: [**2155-5-13**], [**2155-5-21**] - no growth to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9049,
+            "end_offset": 9117,
+            "annotation_id": "LN_088"
+        },
+        {
+            "decision": "C. Diff toxin: [**2155-5-13**], [**2155-5-14**], [**2155-5-15**], [**5-21**] - negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9118,
+            "end_offset": 9205,
+            "annotation_id": "LN_089"
+        },
+        {
+            "decision": "Stool Culture: [**2155-5-15**] - negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9206,
+            "end_offset": 9247,
+            "annotation_id": "LN_090"
+        },
+        {
+            "decision": "Rapid Viral Respiratory Panel: [**2155-5-13**] - negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9248,
+            "end_offset": 9305,
+            "annotation_id": "LN_091"
+        },
+        {
+            "decision": "Peritoneal Fluid: [**2155-5-14**] - no growth to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9306,
+            "end_offset": 9359,
+            "annotation_id": "LN_092"
+        },
+        {
+            "decision": "CMV Viral Load: [**2155-5-16**] - Not detected",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9360,
+            "end_offset": 9406,
+            "annotation_id": "LN_093"
+        },
+        {
+            "decision": "Urine Legionella: [**2155-5-13**] - negative ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9407,
+            "end_offset": 9451,
+            "annotation_id": "LN_094"
+        },
+        {
+            "decision": "history of end-stage liver disease secondary to hepatitis C,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9501,
+            "end_offset": 9560,
+            "annotation_id": "LN_095"
+        },
+        {
+            "decision": " HIV (CD4 322) ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9562,
+            "end_offset": 9574,
+            "annotation_id": "LN_096"
+        },
+        {
+            "decision": " and pulmonary hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9576,
+            "end_offset": 9602,
+            "annotation_id": "LN_097"
+        },
+        {
+            "decision": "found to have colitis and aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9671,
+            "end_offset": 9717,
+            "annotation_id": "LN_098"
+        },
+        {
+            "decision": "Sepsis/Altered Mental Status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9721,
+            "end_offset": 9749,
+            "annotation_id": "LN_099"
+        },
+        {
+            "decision": "confusion, hypotension, leukocytosis and bandemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9785,
+            "end_offset": 9834,
+            "annotation_id": "LN_100"
+        },
+        {
+            "decision": "elevated lactate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9840,
+            "end_offset": 9856,
+            "annotation_id": "LN_101"
+        },
+        {
+            "decision": "Initial imaging studies revealed evidence of a right sided pneumonia in addition to potential colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9859,
+            "end_offset": 9960,
+            "annotation_id": "LN_102"
+        },
+        {
+            "decision": "required significant IV fluids ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9976,
+            "end_offset": 10006,
+            "annotation_id": "LN_103"
+        },
+        {
+            "decision": "did not required pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 10011,
+            "end_offset": 10036,
+            "annotation_id": "LN_104"
+        },
+        {
+            "decision": "started on broad spectrum antibiotics with vancomycin, zosyn and flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10055,
+            "end_offset": 10126,
+            "annotation_id": "LN_105"
+        },
+        {
+            "decision": "hospital acquired pneumonia and possible clostridium difficle",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10131,
+            "end_offset": 10192,
+            "annotation_id": "LN_106"
+        },
+        {
+            "decision": "Subsequent blood, urine, stool and peritoneal cultures were negative ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10195,
+            "end_offset": 10263,
+            "annotation_id": "LN_107"
+        },
+        {
+            "decision": "his antibiotics were changed to levofloxacin and flagyl with plans to complete a 10 day course",
+            "category": "Category 5: Drug related",
+            "start_offset": 10268,
+            "end_offset": 10362,
+            "annotation_id": "LN_108"
+        },
+        {
+            "decision": "aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10367,
+            "end_offset": 10387,
+            "annotation_id": "LN_109"
+        },
+        {
+            "decision": "Aspiration Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10390,
+            "end_offset": 10410,
+            "annotation_id": "LN_110"
+        },
+        {
+            "decision": "Chest CT on admission showed bilateral pleural effusions and RML pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10478,
+            "end_offset": 10552,
+            "annotation_id": "LN_111"
+        },
+        {
+            "decision": "Viral respiratory screen was negative.  Urine legionella was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10554,
+            "end_offset": 10623,
+            "annotation_id": "LN_112"
+        },
+        {
+            "decision": "He did not require intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10671,
+            "end_offset": 10700,
+            "annotation_id": "LN_113"
+        },
+        {
+            "decision": "He was treated with levofloxacin and flagyl to complete a ten day course",
+            "category": "Category 5: Drug related",
+            "start_offset": 10703,
+            "end_offset": 10775,
+            "annotation_id": "LN_114"
+        },
+        {
+            "decision": "His oxygen was weaned off ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10778,
+            "end_offset": 10803,
+            "annotation_id": "LN_115"
+        },
+        {
+            "decision": "Elevated Lactate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10851,
+            "end_offset": 10867,
+            "annotation_id": "LN_116"
+        },
+        {
+            "decision": " HAART medications ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10990,
+            "end_offset": 11007,
+            "annotation_id": "LN_117"
+        },
+        {
+            "decision": "It was felt that this was multifactorial secondary to liver disease, HAART medications and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10921,
+            "end_offset": 11023,
+            "annotation_id": "LN_118"
+        },
+        {
+            "decision": "His HAART medications were initially held",
+            "category": "Category 5: Drug related",
+            "start_offset": 11026,
+            "end_offset": 11067,
+            "annotation_id": "LN_119"
+        },
+        {
+            "decision": "received aggressive IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11075,
+            "end_offset": 11098,
+            "annotation_id": "LN_120"
+        },
+        {
+            "decision": "His lactate trended down to 2.4",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11100,
+            "end_offset": 11131,
+            "annotation_id": "LN_121"
+        },
+        {
+            "decision": "His HAART medications were restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 11134,
+            "end_offset": 11170,
+            "annotation_id": "LN_122"
+        },
+        {
+            "decision": "Hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11204,
+            "end_offset": 11216,
+            "annotation_id": "LN_123"
+        },
+        {
+            "decision": "On presentation the patient was noted to have hypoglycemia in the setting of sepsis and end stage liver disease.  The etiology was unclear but resolved as his illness improved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11219,
+            "end_offset": 11394,
+            "annotation_id": "LN_124"
+        },
+        {
+            "decision": "End Stage Liver Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11397,
+            "end_offset": 11420,
+            "annotation_id": "LN_125"
+        },
+        {
+            "decision": "Secondary to hepatitis C with a history of encephalopathy and varices",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11423,
+            "end_offset": 11492,
+            "annotation_id": "LN_126"
+        },
+        {
+            "decision": "No history of SBP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11495,
+            "end_offset": 11512,
+            "annotation_id": "LN_127"
+        },
+        {
+            "decision": "Not on [**Month/Day/Year **] list secondary to pulmonary hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11515,
+            "end_offset": 11583,
+            "annotation_id": "LN_128"
+        },
+        {
+            "decision": "diarrhea and hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11654,
+            "end_offset": 11678,
+            "annotation_id": "LN_129"
+        },
+        {
+            "decision": "propranolol and lactulose were initially held in the setting of diarrhea and hypotension but were subsequently restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 11590,
+            "end_offset": 11710,
+            "annotation_id": "LN_130"
+        },
+        {
+            "decision": "continued on rifaximin",
+            "category": "Category 5: Drug related",
+            "start_offset": 11725,
+            "end_offset": 11747,
+            "annotation_id": "LN_131"
+        },
+        {
+            "decision": "Given his weight loss and poor nutritional status calorie counts were performed and it was determined that he needed supplemental nutrition via tube feeds to satisfy his caloric intake",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11750,
+            "end_offset": 11934,
+            "annotation_id": "LN_132"
+        },
+        {
+            "decision": "he needed supplemental nutrition via tube feeds to satisfy his caloric intake",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11857,
+            "end_offset": 11934,
+            "annotation_id": "LN_133"
+        },
+        {
+            "decision": "Anemia/Thrombocytopenia:  Likely related to liver disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11995,
+            "end_offset": 12052,
+            "annotation_id": "LN_134"
+        },
+        {
+            "decision": "Acute Renal Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12134,
+            "end_offset": 12153,
+            "annotation_id": "LN_135"
+        },
+        {
+            "decision": "Creatinine on presentation was 1.2 from baseline on 0.6",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12156,
+            "end_offset": 12211,
+            "annotation_id": "LN_136"
+        },
+        {
+            "decision": "volume depletion and sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12230,
+            "end_offset": 12257,
+            "annotation_id": "LN_137"
+        },
+        {
+            "decision": "This resolved with IVF.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12259,
+            "end_offset": 12281,
+            "annotation_id": "LN_138"
+        },
+        {
+            "decision": "Seizure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12286,
+            "end_offset": 12293,
+            "annotation_id": "LN_139"
+        },
+        {
+            "decision": "Etiology of initial presentation unclear and seizure was considered in the differential, particularly given his hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12296,
+            "end_offset": 12420,
+            "annotation_id": "LN_140"
+        },
+        {
+            "decision": "He had no focal neurologic deficits on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12423,
+            "end_offset": 12466,
+            "annotation_id": "LN_141"
+        },
+        {
+            "decision": "initially kept on seizure precautions but these were discontinued after over a week without seizure activity noted",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12475,
+            "end_offset": 12589,
+            "annotation_id": "LN_142"
+        },
+        {
+            "decision": "His blood sugars were monitored closely",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 12591,
+            "end_offset": 12630,
+            "annotation_id": "LN_143"
+        },
+        {
+            "decision": "HIV",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12676,
+            "end_offset": 12679,
+            "annotation_id": "LN_144"
+        },
+        {
+            "decision": "Most recent CD4 count 322 in [**Month (only) 547**], viral load undetectable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12682,
+            "end_offset": 12758,
+            "annotation_id": "LN_145"
+        },
+        {
+            "decision": "elevated lactate ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12781,
+            "end_offset": 12797,
+            "annotation_id": "LN_146"
+        },
+        {
+            "decision": "might be secondary to HIV medications and his HAART medications were reheld.  They were restarted after his elevated lactate resolved without complication.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12798,
+            "end_offset": 12952,
+            "annotation_id": "LN_147"
+        },
+        {
+            "decision": "Pulmonary Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12955,
+            "end_offset": 12977,
+            "annotation_id": "LN_148"
+        },
+        {
+            "decision": "with oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13110,
+            "end_offset": 13121,
+            "annotation_id": "LN_149"
+        },
+        {
+            "decision": "Documented on right heart catheterization [**Month (only) 547**].  Mean PA pressures 40 with 40% reduction in vascular resistance with oxygen but not NO",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12980,
+            "end_offset": 13132,
+            "annotation_id": "LN_150"
+        },
+        {
+            "decision": "but not NO",
+            "category": "Category 5: Drug related",
+            "start_offset": 13122,
+            "end_offset": 13132,
+            "annotation_id": "LN_151"
+        },
+        {
+            "decision": "will be started on sildenafil as an outpatient but is awaiting prior authorization for this medication.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13138,
+            "end_offset": 13240,
+            "annotation_id": "LN_152"
+        },
+        {
+            "decision": "He will followup with his pulmonologist.",
+            "category": "Category 1: Contact related",
+            "start_offset": 13243,
+            "end_offset": 13282,
+            "annotation_id": "LN_153"
+        },
+        {
+            "decision": "Tube feeds 16 hours per day, low sodium diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13290,
+            "end_offset": 13334,
+            "annotation_id": "LN_154"
+        },
+        {
+            "decision": "subcutaneous heparin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13362,
+            "end_offset": 13382,
+            "annotation_id": "LN_155"
+        },
+        {
+            "decision": "DVT prophylaxis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13387,
+            "end_offset": 13402,
+            "annotation_id": "LN_156"
+        },
+        {
+            "decision": "Access:  PICC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13404,
+            "end_offset": 13417,
+            "annotation_id": "LN_157"
+        },
+        {
+            "decision": "Peptamen 60) ml/hr PO continuousto be administered by post-pyloric Dobhoff tube",
+            "category": "Category 5: Drug related",
+            "start_offset": 13643,
+            "end_offset": 13722,
+            "annotation_id": "LN_158"
+        },
+        {
+            "decision": "post-pyloric Dobhoff tube",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13697,
+            "end_offset": 13722,
+            "annotation_id": "LN_159"
+        },
+        {
+            "decision": "Abacavir 300 mg PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13727,
+            "end_offset": 13764,
+            "annotation_id": "LN_160"
+        },
+        {
+            "decision": "Clotrimazole 10 mg Troche 5 TIMES PER DAY -> NOT TAKING",
+            "category": "Category 5: Drug related",
+            "start_offset": 13770,
+            "end_offset": 13825,
+            "annotation_id": "LN_161"
+        },
+        {
+            "decision": "Lactulose 30 ML PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 13829,
+            "end_offset": 13853,
+            "annotation_id": "LN_162"
+        },
+        {
+            "decision": "Lamivudine 300 mg PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 13858,
+            "end_offset": 13889,
+            "annotation_id": "LN_163"
+        },
+        {
+            "decision": "Lopinavir-Ritonavir 200-50 mg 2 Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13894,
+            "end_offset": 13954,
+            "annotation_id": "LN_164"
+        },
+        {
+            "decision": "Metoclopramide 5 mg PO three times a day -> NOT TAKING",
+            "category": "Category 5: Drug related",
+            "start_offset": 13960,
+            "end_offset": 14014,
+            "annotation_id": "LN_165"
+        },
+        {
+            "decision": "Omeprazole 20 mg PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14018,
+            "end_offset": 14050,
+            "annotation_id": "LN_166"
+        },
+        {
+            "decision": "Oxycodone 5 mg PO Q6H",
+            "category": "Category 5: Drug related",
+            "start_offset": 14056,
+            "end_offset": 14077,
+            "annotation_id": "LN_167"
+        },
+        {
+            "decision": "Propranolol 20 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 14082,
+            "end_offset": 14106,
+            "annotation_id": "LN_168"
+        },
+        {
+            "decision": "Rifaximin 200 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 14111,
+            "end_offset": 14134,
+            "annotation_id": "LN_169"
+        },
+        {
+            "decision": "Tenofovir Disoproxil Fumarate 300 mg PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14139,
+            "end_offset": 14191,
+            "annotation_id": "LN_170"
+        },
+        {
+            "decision": "Cholecalciferol (Vitamin D3) 800 unit PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14198,
+            "end_offset": 14251,
+            "annotation_id": "LN_171"
+        },
+        {
+            "decision": "Ferrous Sulfate 325 mg PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14258,
+            "end_offset": 14296,
+            "annotation_id": "LN_172"
+        },
+        {
+            "decision": "Latanoprost 0.005 % Drops 1Ophthalmic HS",
+            "category": "Category 5: Drug related",
+            "start_offset": 14303,
+            "end_offset": 14343,
+            "annotation_id": "LN_173"
+        },
+        {
+            "decision": "compazine prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 14348,
+            "end_offset": 14361,
+            "annotation_id": "LN_174"
+        },
+        {
+            "decision": "megace prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 14367,
+            "end_offset": 14377,
+            "annotation_id": "LN_175"
+        },
+        {
+            "decision": "Abacavir 300 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14407,
+            "end_offset": 14471,
+            "annotation_id": "LN_176"
+        },
+        {
+            "decision": "Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q6H (every 6 hours) as needed for wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14477,
+            "end_offset": 14603,
+            "annotation_id": "LN_177"
+        },
+        {
+            "decision": "Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week",
+            "category": "Category 5: Drug related",
+            "start_offset": 14608,
+            "end_offset": 14663,
+            "annotation_id": "LN_178"
+        },
+        {
+            "decision": "Fexofenadine-Pseudoephedrine 60-120 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO twice a day as needed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14668,
+            "end_offset": 14806,
+            "annotation_id": "LN_179"
+        },
+        {
+            "decision": "allergy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14811,
+            "end_offset": 14818,
+            "annotation_id": "LN_180"
+        },
+        {
+            "decision": "Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14832,
+            "end_offset": 14916,
+            "annotation_id": "LN_181"
+        },
+        {
+            "decision": "Lamivudine 300 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 14922,
+            "end_offset": 14980,
+            "annotation_id": "LN_182"
+        },
+        {
+            "decision": "Lopinavir-Ritonavir 200-50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14985,
+            "end_offset": 15063,
+            "annotation_id": "LN_183"
+        },
+        {
+            "decision": "Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15069,
+            "end_offset": 15176,
+            "annotation_id": "LN_184"
+        },
+        {
+            "decision": "Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15182,
+            "end_offset": 15262,
+            "annotation_id": "LN_185"
+        },
+        {
+            "decision": "Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15268,
+            "end_offset": 15331,
+            "annotation_id": "LN_186"
+        },
+        {
+            "decision": "Propranolol 20 mg Tablet Sig: One (1) Tablet PO twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 15338,
+            "end_offset": 15397,
+            "annotation_id": "LN_187"
+        },
+        {
+            "decision": "Rifaximin 200 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15404,
+            "end_offset": 15471,
+            "annotation_id": "LN_188"
+        },
+        {
+            "decision": "Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15478,
+            "end_offset": 15557,
+            "annotation_id": "LN_189"
+        },
+        {
+            "decision": "Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15564,
+            "end_offset": 15644,
+            "annotation_id": "LN_190"
+        },
+        {
+            "decision": "Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO three times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 15651,
+            "end_offset": 15734,
+            "annotation_id": "LN_191"
+        },
+        {
+            "decision": "Megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: Two (2) PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 15740,
+            "end_offset": 15811,
+            "annotation_id": "LN_192"
+        },
+        {
+            "decision": "Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15817,
+            "end_offset": 15886,
+            "annotation_id": "LN_193"
+        },
+        {
+            "decision": "Prochlorperazine Maleate 5 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8 hours) as needed for nausea.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15893,
+            "end_offset": 15990,
+            "annotation_id": "LN_194"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15996,
+            "end_offset": 16055,
+            "annotation_id": "LN_195"
+        },
+        {
+            "decision": "Spironolactone 100 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16062,
+            "end_offset": 16122,
+            "annotation_id": "LN_196"
+        },
+        {
+            "decision": "Peptamen 1.5     Liquid Sig: One (1) unit PO once a day: Tube Feeding Order:  Petamen 1.5 Full strength.  Goal rate 65 ml/hr.  Cycle Start: 1800 Cycle End: 1000.  Residual Check Q4H Hold feeding for residual >=100 ml.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16129,
+            "end_offset": 16345,
+            "annotation_id": "LN_197"
+        },
+        {
+            "decision": "Hold feeding for residual >=100 ml.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16311,
+            "end_offset": 16345,
+            "annotation_id": "LN_198"
+        },
+        {
+            "decision": "Lactulose 10 gram/15 mL Solution Sig: 30  mL PO three times a day: Titrate to [**1-29**] bowel movements per day ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16351,
+            "end_offset": 16463,
+            "annotation_id": "LN_199"
+        },
+        {
+            "decision": "Metronidazole 500 mg Tablet Sig: One (1) Tablet PO three times a day for 1 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16470,
+            "end_offset": 16549,
+            "annotation_id": "LN_200"
+        },
+        {
+            "decision": "Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day for 1 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16555,
+            "end_offset": 16626,
+            "annotation_id": "LN_201"
+        },
+        {
+            "decision": "Reglan 5 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for hiccups.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16632,
+            "end_offset": 16717,
+            "annotation_id": "LN_202"
+        },
+        {
+            "decision": "Multifocal pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16831,
+            "end_offset": 16851,
+            "annotation_id": "LN_203"
+        },
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17006,
+            "end_offset": 17027,
+            "annotation_id": "LN_204"
+        },
+        {
+            "decision": "You were found to have a multifocal pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17029,
+            "end_offset": 17074,
+            "annotation_id": "LN_205"
+        },
+        {
+            "decision": "You admitted to the intensive care unit ",
+            "category": "Category 1: Contact related",
+            "start_offset": 17076,
+            "end_offset": 17115,
+            "annotation_id": "LN_206"
+        },
+        {
+            "decision": "You were treated with antibotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17138,
+            "end_offset": 17170,
+            "annotation_id": "LN_207"
+        },
+        {
+            "decision": "and fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17171,
+            "end_offset": 17181,
+            "annotation_id": "LN_208"
+        },
+        {
+            "decision": "Please make sure to continue your medications as prescribed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17184,
+            "end_offset": 17243,
+            "annotation_id": "LN_209"
+        },
+        {
+            "decision": "Please take levofloxacin 750 mg daily for one more day",
+            "category": "Category 5: Drug related",
+            "start_offset": 17297,
+            "end_offset": 17351,
+            "annotation_id": "LN_210"
+        },
+        {
+            "decision": "Please take flagyl 500 mg three times a day for one more day",
+            "category": "Category 5: Drug related",
+            "start_offset": 17355,
+            "end_offset": 17415,
+            "annotation_id": "LN_211"
+        },
+        {
+            "decision": "Please take lasix 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17419,
+            "end_offset": 17448,
+            "annotation_id": "LN_212"
+        },
+        {
+            "decision": "Please take spironolactone 50 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17452,
+            "end_offset": 17490,
+            "annotation_id": "LN_213"
+        },
+        {
+            "decision": "Please stop taking carnation instant breakfast and continue on the tube feeds you were started on in the hospital",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 17494,
+            "end_offset": 17607,
+            "annotation_id": "LN_214"
+        },
+        {
+            "decision": "Please stop taking carnation instant breakfast and continue on the tube feeds you were started on in the hospital",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17494,
+            "end_offset": 17607,
+            "annotation_id": "LN_215"
+        },
+        {
+            "decision": "You can take reglan 5 mg three times a day as needed for hiccups",
+            "category": "Category 5: Drug related",
+            "start_offset": 17611,
+            "end_offset": 17675,
+            "annotation_id": "LN_216"
+        },
+        {
+            "decision": "If you experience any abdominal pain, nausea/vomiting, fevers, chills, diarrhea, bloody or dark/tarry stools please call your doctor or return to the emergency room",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 17677,
+            "end_offset": 17841,
+            "annotation_id": "LN_217"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] [**Hospital 1389**] CLINIC Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2155-5-28**] 1:20",
+            "category": "Category 1: Contact related",
+            "start_offset": 17867,
+            "end_offset": 17991,
+            "annotation_id": "LN_218"
+        }
+    ]
+}

@@ -1,0 +1,972 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "21522_133105_28458",
+    "annotations": [
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 227,
+            "end_offset": 247,
+            "annotation_id": "FX_000"
+        },
+        {
+            "decision": "Rigid bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 304,
+            "end_offset": 322,
+            "annotation_id": "FX_001"
+        },
+        {
+            "decision": "flexible bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 324,
+            "end_offset": 345,
+            "annotation_id": "FX_002"
+        },
+        {
+            "decision": "metallic covered Ultraflex stent placement 40 mm x 20 mm.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 351,
+            "end_offset": 407,
+            "annotation_id": "FX_003"
+        },
+        {
+            "decision": "Flexible and rigid bronchoscopy with endotracheal stent placement.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 426,
+            "end_offset": 491,
+            "annotation_id": "FX_004"
+        },
+        {
+            "decision": "Ultrasound-guided right-sided therapeutic thoracentesis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 509,
+            "end_offset": 564,
+            "annotation_id": "FX_005"
+        },
+        {
+            "decision": "This history has been obtained from OSH reports",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 596,
+            "end_offset": 643,
+            "annotation_id": "FX_006"
+        },
+        {
+            "decision": "worsening shortness of breath for 6-7 weeks",
+            "category": "Category 3: Defining problem",
+            "start_offset": 741,
+            "end_offset": 784,
+            "annotation_id": "FX_007"
+        },
+        {
+            "decision": "symptoms continued to worsen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 849,
+            "end_offset": 877,
+            "annotation_id": "FX_008"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1174,
+            "end_offset": 1207,
+            "annotation_id": "FX_009"
+        },
+        {
+            "decision": "she has a metal tracheal stent ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1216,
+            "end_offset": 1246,
+            "annotation_id": "FX_010"
+        },
+        {
+            "decision": "Cervical Trachaelmalacia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1307,
+            "end_offset": 1331,
+            "annotation_id": "FX_011"
+        },
+        {
+            "decision": "s/p Stent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1332,
+            "end_offset": 1341,
+            "annotation_id": "FX_012"
+        },
+        {
+            "decision": "Congestive Heart Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1342,
+            "end_offset": 1366,
+            "annotation_id": "FX_013"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1368,
+            "end_offset": 1387,
+            "annotation_id": "FX_014"
+        },
+        {
+            "decision": "s/p pacemaker",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1389,
+            "end_offset": 1402,
+            "annotation_id": "FX_015"
+        },
+        {
+            "decision": "Rectal prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1403,
+            "end_offset": 1418,
+            "annotation_id": "FX_016"
+        },
+        {
+            "decision": "bronchitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1420,
+            "end_offset": 1430,
+            "annotation_id": "FX_017"
+        },
+        {
+            "decision": "anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1432,
+            "end_offset": 1438,
+            "annotation_id": "FX_018"
+        },
+        {
+            "decision": "syncope",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1440,
+            "end_offset": 1447,
+            "annotation_id": "FX_019"
+        },
+        {
+            "decision": "left humeral fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1449,
+            "end_offset": 1470,
+            "annotation_id": "FX_020"
+        },
+        {
+            "decision": "pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1472,
+            "end_offset": 1494,
+            "annotation_id": "FX_021"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1496,
+            "end_offset": 1508,
+            "annotation_id": "FX_022"
+        },
+        {
+            "decision": "cataracts",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1510,
+            "end_offset": 1519,
+            "annotation_id": "FX_023"
+        },
+        {
+            "decision": "osteoarthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1521,
+            "end_offset": 1535,
+            "annotation_id": "FX_024"
+        },
+        {
+            "decision": "CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1537,
+            "end_offset": 1540,
+            "annotation_id": "FX_025"
+        },
+        {
+            "decision": "stent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1546,
+            "end_offset": 1551,
+            "annotation_id": "FX_026"
+        },
+        {
+            "decision": "goiter",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1553,
+            "end_offset": 1559,
+            "annotation_id": "FX_027"
+        },
+        {
+            "decision": "General: [**Age over 90 **] year-old female sitting in chair no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1848,
+            "end_offset": 1929,
+            "annotation_id": "FX_028"
+        },
+        {
+            "decision": "Neck: supple no lymphadenopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1930,
+            "end_offset": 1961,
+            "annotation_id": "FX_029"
+        },
+        {
+            "decision": "Card: irreg",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1962,
+            "end_offset": 1973,
+            "annotation_id": "FX_030"
+        },
+        {
+            "decision": "Resp: decresased breath sounds throughout with faint crackles R [**2-16**], left base",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1974,
+            "end_offset": 2059,
+            "annotation_id": "FX_031"
+        },
+        {
+            "decision": "GI: bowel sounds positive, abdomen soft non-tender/non-distended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2060,
+            "end_offset": 2124,
+            "annotation_id": "FX_032"
+        },
+        {
+            "decision": "Extr: warm no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2125,
+            "end_offset": 2144,
+            "annotation_id": "FX_033"
+        },
+        {
+            "decision": "Skin: scattered isolated 2-6 mm erytematous papules, central adherent dry crust, on face, chest, abdomen,low back and buttocks arms, & legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2145,
+            "end_offset": 2284,
+            "annotation_id": "FX_034"
+        },
+        {
+            "decision": "Neuro: non-focal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2285,
+            "end_offset": 2301,
+            "annotation_id": "FX_035"
+        },
+        {
+            "decision": "PLEURAL FLUID GRAM STAIN (Final [**2198-7-11**]):  2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.       NO MICROORGANISMS SEEN.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2843,
+            "end_offset": 2982,
+            "annotation_id": "FX_036"
+        },
+        {
+            "decision": "FLUID CULTURE (Preliminary):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2987,
+            "end_offset": 3028,
+            "annotation_id": "FX_037"
+        },
+        {
+            "decision": "SPUTUM Endotracheal. FINAL REPORT [**2198-7-12**]**    GRAM STAIN (Final [**2198-7-10**]):       >25 PMNs and <10 epithelial cells/100X field.       1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.                                   IN PAIRS AND CLUSTERS.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3083,
+            "end_offset": 3338,
+            "annotation_id": "FX_038"
+        },
+        {
+            "decision": "RESPIRATORY CULTURE (Final [**2198-7-12**]):       SPARSE GROWTH OROPHARYNGEAL FLORA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3343,
+            "end_offset": 3427,
+            "annotation_id": "FX_039"
+        },
+        {
+            "decision": "3:50 am MRSA SCREEN     Site: RECTAL FINAL REPORT [**2198-7-12**]    MRSA SCREEN (Final [**2198-7-12**]):    No MRSA isolated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3446,
+            "end_offset": 3571,
+            "annotation_id": "FX_040"
+        },
+        {
+            "decision": "URINE     FINAL REPORT [**2198-7-10**]  NO GROWTH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3597,
+            "end_offset": 3646,
+            "annotation_id": "FX_041"
+        },
+        {
+            "decision": "The left atrial volume is markedly increased (>32ml/m2). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3682,
+            "end_offset": 3736,
+            "annotation_id": "FX_042"
+        },
+        {
+            "decision": "right atrium is moderately dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3743,
+            "end_offset": 3777,
+            "annotation_id": "FX_043"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3779,
+            "end_offset": 3831,
+            "annotation_id": "FX_044"
+        },
+        {
+            "decision": "There is mild to moderate regional left ventricular systolic dysfunction with severe hypokinesis/akinesis of the septum and hypokinesis of the anterior wall.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3833,
+            "end_offset": 3989,
+            "annotation_id": "FX_045"
+        },
+        {
+            "decision": "Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3991,
+            "end_offset": 4082,
+            "annotation_id": "FX_046"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4085,
+            "end_offset": 4170,
+            "annotation_id": "FX_047"
+        },
+        {
+            "decision": "Mild (1+) aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4172,
+            "end_offset": 4210,
+            "annotation_id": "FX_048"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4212,
+            "end_offset": 4258,
+            "annotation_id": "FX_049"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4260,
+            "end_offset": 4296,
+            "annotation_id": "FX_050"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4298,
+            "end_offset": 4347,
+            "annotation_id": "FX_051"
+        },
+        {
+            "decision": "Moderate [2+] tricuspid regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4349,
+            "end_offset": 4394,
+            "annotation_id": "FX_052"
+        },
+        {
+            "decision": "moderate pulmonary artery systolic hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4405,
+            "end_offset": 4452,
+            "annotation_id": "FX_053"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4454,
+            "end_offset": 4486,
+            "annotation_id": "FX_054"
+        },
+        {
+            "decision": "Ejection Fraction 35-40%",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4488,
+            "end_offset": 4511,
+            "annotation_id": "FX_055"
+        },
+        {
+            "decision": "Moderate focal LV systolic dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4525,
+            "end_offset": 4563,
+            "annotation_id": "FX_056"
+        },
+        {
+            "decision": "Diastolic dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4565,
+            "end_offset": 4586,
+            "annotation_id": "FX_057"
+        },
+        {
+            "decision": "Mild aortic regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4588,
+            "end_offset": 4613,
+            "annotation_id": "FX_058"
+        },
+        {
+            "decision": "there is no interval change",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4708,
+            "end_offset": 4735,
+            "annotation_id": "FX_059"
+        },
+        {
+            "decision": "Small bilateral pleural effusions are again seen in this patient with a tracheal stent in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4737,
+            "end_offset": 4832,
+            "annotation_id": "FX_060"
+        },
+        {
+            "decision": "Enlargement of the cardiac silhouette with vascular prominence and pacemaker device.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4834,
+            "end_offset": 4917,
+            "annotation_id": "FX_061"
+        },
+        {
+            "decision": "transferred to the SICU from [**Hospital3 934**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 4980,
+            "end_offset": 5028,
+            "annotation_id": "FX_062"
+        },
+        {
+            "decision": "Hospital intubated [**2198-7-6**] for progressive SOB",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5029,
+            "end_offset": 5082,
+            "annotation_id": "FX_063"
+        },
+        {
+            "decision": "progressive SOB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5067,
+            "end_offset": 5082,
+            "annotation_id": "FX_064"
+        },
+        {
+            "decision": "puritis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5127,
+            "end_offset": 5134,
+            "annotation_id": "FX_065"
+        },
+        {
+            "decision": "seen by dermatology for puritis who recommended to keep skin moist with emollients, such as Eucerin",
+            "category": "Category 1: Contact related",
+            "start_offset": 5103,
+            "end_offset": 5202,
+            "annotation_id": "FX_066"
+        },
+        {
+            "decision": "keep skin moist with emollients, such as Eucerin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5154,
+            "end_offset": 5202,
+            "annotation_id": "FX_067"
+        },
+        {
+            "decision": "Flexible bronchoscopy was performed through the endotracheal tube.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5223,
+            "end_offset": 5288,
+            "annotation_id": "FX_068"
+        },
+        {
+            "decision": "underwent successful Rigid bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5336,
+            "end_offset": 5375,
+            "annotation_id": "FX_069"
+        },
+        {
+            "decision": "flexible bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5377,
+            "end_offset": 5398,
+            "annotation_id": "FX_070"
+        },
+        {
+            "decision": "metallic covered Ultraflex stent placement 40 mm x 20 mm",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5404,
+            "end_offset": 5460,
+            "annotation_id": "FX_071"
+        },
+        {
+            "decision": "transferred back to the SICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5470,
+            "end_offset": 5498,
+            "annotation_id": "FX_072"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5503,
+            "end_offset": 5512,
+            "annotation_id": "FX_073"
+        },
+        {
+            "decision": "was seen by Speech and swallow ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5556,
+            "end_offset": 5586,
+            "annotation_id": "FX_074"
+        },
+        {
+            "decision": "mild difficulty with mastication [**3-17**] edentulous state, but otherwise did not have any overt signs of aspiration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5591,
+            "end_offset": 5709,
+            "annotation_id": "FX_075"
+        },
+        {
+            "decision": "PO diet of thin liquids and ground consistency solids and pills whole with apple sauce.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5730,
+            "end_offset": 5816,
+            "annotation_id": "FX_076"
+        },
+        {
+            "decision": "she transferred to the floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5876,
+            "end_offset": 5904,
+            "annotation_id": "FX_077"
+        },
+        {
+            "decision": "developed respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5909,
+            "end_offset": 5939,
+            "annotation_id": "FX_078"
+        },
+        {
+            "decision": "transferred back to the SICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 5948,
+            "end_offset": 5976,
+            "annotation_id": "FX_079"
+        },
+        {
+            "decision": "diuretics",
+            "category": "Category 5: Drug related",
+            "start_offset": 5996,
+            "end_offset": 6005,
+            "annotation_id": "FX_080"
+        },
+        {
+            "decision": "nebulizers ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6007,
+            "end_offset": 6017,
+            "annotation_id": "FX_081"
+        },
+        {
+            "decision": "responded to diuretics, nebulizers and aggressive pulmonary toileting",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5983,
+            "end_offset": 6052,
+            "annotation_id": "FX_082"
+        },
+        {
+            "decision": "aggressive pulmonary toileting",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6022,
+            "end_offset": 6052,
+            "annotation_id": "FX_083"
+        },
+        {
+            "decision": "atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6078,
+            "end_offset": 6097,
+            "annotation_id": "FX_084"
+        },
+        {
+            "decision": "beta-blockers were increased",
+            "category": "Category 5: Drug related",
+            "start_offset": 6106,
+            "end_offset": 6134,
+            "annotation_id": "FX_085"
+        },
+        {
+            "decision": "echocardiogram was performed",
+            "category": "Category 11: Other",
+            "start_offset": 6140,
+            "end_offset": 6168,
+            "annotation_id": "FX_086"
+        },
+        {
+            "decision": "The right pleural effusion was drained for 600cc",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6184,
+            "end_offset": 6232,
+            "annotation_id": "FX_087"
+        },
+        {
+            "decision": "Her hypoxemia improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6235,
+            "end_offset": 6257,
+            "annotation_id": "FX_088"
+        },
+        {
+            "decision": "transferred back to the floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 6270,
+            "end_offset": 6299,
+            "annotation_id": "FX_089"
+        },
+        {
+            "decision": "seen by physical therapy who recommended rehab",
+            "category": "Category 1: Contact related",
+            "start_offset": 6309,
+            "end_offset": 6355,
+            "annotation_id": "FX_090"
+        },
+        {
+            "decision": "discharged to rehab ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6453,
+            "end_offset": 6472,
+            "annotation_id": "FX_091"
+        },
+        {
+            "decision": "She will follow-up with Dr. [**Last Name (STitle) **] in 4 weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 6485,
+            "end_offset": 6549,
+            "annotation_id": "FX_092"
+        },
+        {
+            "decision": "Zoloft 12.5mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6579,
+            "end_offset": 6598,
+            "annotation_id": "FX_093"
+        },
+        {
+            "decision": "lasix 20mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6600,
+            "end_offset": 6610,
+            "annotation_id": "FX_094"
+        },
+        {
+            "decision": "lopressor 25mg tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6629,
+            "end_offset": 6647,
+            "annotation_id": "FX_095"
+        },
+        {
+            "decision": "asa 81mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6649,
+            "end_offset": 6663,
+            "annotation_id": "FX_096"
+        },
+        {
+            "decision": "famotidine 20mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6665,
+            "end_offset": 6680,
+            "annotation_id": "FX_097"
+        },
+        {
+            "decision": "coumadin as directed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6699,
+            "end_offset": 6719,
+            "annotation_id": "FX_098"
+        },
+        {
+            "decision": "Guaifenesin 600 mg Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO BID (2 times a day)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6747,
+            "end_offset": 6850,
+            "annotation_id": "FX_099"
+        },
+        {
+            "decision": "Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6856,
+            "end_offset": 6933,
+            "annotation_id": "FX_100"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6938,
+            "end_offset": 7011,
+            "annotation_id": "FX_101"
+        },
+        {
+            "decision": "Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7017,
+            "end_offset": 7082,
+            "annotation_id": "FX_102"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7088,
+            "end_offset": 7142,
+            "annotation_id": "FX_103"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7148,
+            "end_offset": 7213,
+            "annotation_id": "FX_104"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7219,
+            "end_offset": 7295,
+            "annotation_id": "FX_105"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7301,
+            "end_offset": 7375,
+            "annotation_id": "FX_106"
+        },
+        {
+            "decision": "Sertraline 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7381,
+            "end_offset": 7436,
+            "annotation_id": "FX_107"
+        },
+        {
+            "decision": "Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7443,
+            "end_offset": 7589,
+            "annotation_id": "FX_108"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7595,
+            "end_offset": 7721,
+            "annotation_id": "FX_109"
+        },
+        {
+            "decision": "Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7727,
+            "end_offset": 7789,
+            "annotation_id": "FX_110"
+        },
+        {
+            "decision": "Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q6H (every 6 hours) as needed. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7795,
+            "end_offset": 7890,
+            "annotation_id": "FX_111"
+        },
+        {
+            "decision": "Meadowbrook",
+            "category": "Category 1: Contact related",
+            "start_offset": 7942,
+            "end_offset": 7953,
+            "annotation_id": "FX_112"
+        },
+        {
+            "decision": "Cervical Trachaelmalacia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8003,
+            "end_offset": 8027,
+            "annotation_id": "FX_113"
+        },
+        {
+            "decision": "s/p Stent ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8028,
+            "end_offset": 8037,
+            "annotation_id": "FX_114"
+        },
+        {
+            "decision": "Trachael bronchomalacia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8049,
+            "end_offset": 8072,
+            "annotation_id": "FX_115"
+        },
+        {
+            "decision": "s/p metallic stent ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8073,
+            "end_offset": 8091,
+            "annotation_id": "FX_116"
+        },
+        {
+            "decision": "Congestive Heart Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8103,
+            "end_offset": 8127,
+            "annotation_id": "FX_117"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8129,
+            "end_offset": 8148,
+            "annotation_id": "FX_118"
+        },
+        {
+            "decision": "s/p pacemaker",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8150,
+            "end_offset": 8163,
+            "annotation_id": "FX_119"
+        },
+        {
+            "decision": "Rectal prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8164,
+            "end_offset": 8179,
+            "annotation_id": "FX_120"
+        },
+        {
+            "decision": "bronchitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8181,
+            "end_offset": 8191,
+            "annotation_id": "FX_121"
+        },
+        {
+            "decision": "anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8193,
+            "end_offset": 8199,
+            "annotation_id": "FX_122"
+        },
+        {
+            "decision": "syncope",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8201,
+            "end_offset": 8208,
+            "annotation_id": "FX_123"
+        },
+        {
+            "decision": "left humeral fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8210,
+            "end_offset": 8231,
+            "annotation_id": "FX_124"
+        },
+        {
+            "decision": "pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8233,
+            "end_offset": 8255,
+            "annotation_id": "FX_125"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8257,
+            "end_offset": 8269,
+            "annotation_id": "FX_126"
+        },
+        {
+            "decision": "cataracts",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8271,
+            "end_offset": 8280,
+            "annotation_id": "FX_127"
+        },
+        {
+            "decision": "osteoarthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8282,
+            "end_offset": 8296,
+            "annotation_id": "FX_128"
+        },
+        {
+            "decision": "CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8298,
+            "end_offset": 8301,
+            "annotation_id": "FX_129"
+        },
+        {
+            "decision": "stent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8307,
+            "end_offset": 8312,
+            "annotation_id": "FX_130"
+        },
+        {
+            "decision": "goiter",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8314,
+            "end_offset": 8320,
+            "annotation_id": "FX_131"
+        },
+        {
+            "decision": "deconditioned",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8344,
+            "end_offset": 8357,
+            "annotation_id": "FX_132"
+        },
+        {
+            "decision": "Call Dr.[**Initials (NamePattern4) 5070**] [**Last Name (NamePattern4)",
+            "category": "Category 1: Contact related",
+            "start_offset": 8384,
+            "end_offset": 8453,
+            "annotation_id": "FX_133"
+        },
+        {
+            "decision": "if experience: fever > 101 or chills, increased cough or shortness of breath or any other symptoms that concern you.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8459,
+            "end_offset": 8574,
+            "annotation_id": "FX_134"
+        },
+        {
+            "decision": "Follow-up with Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 10084**] [**2198-8-14**] 10am for bronchoscopy in the chest disease center [**Hospital Ward Name **] building [**Hospital1 **] one. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8601,
+            "end_offset": 8797,
+            "annotation_id": "FX_135"
+        },
+        {
+            "decision": "Do not eat or Drink after midnight the day before.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8799,
+            "end_offset": 8848,
+            "annotation_id": "FX_136"
+        },
+        {
+            "decision": "Follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 911**] [**Telephone/Fax (1) 59456**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8850,
+            "end_offset": 8965,
+            "annotation_id": "FX_137"
+        }
+    ]
+}

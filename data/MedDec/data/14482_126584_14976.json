@@ -1,0 +1,748 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14482_126584_14976",
+    "annotations": [
+        {
+            "decision": "Acetominophen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 180,
+            "end_offset": 193,
+            "annotation_id": "CK_000"
+        },
+        {
+            "decision": "s/p Acetominophen overdose (polysubstance).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 176,
+            "end_offset": 217,
+            "annotation_id": "CK_001"
+        },
+        {
+            "decision": "post Tylenol, Seroquel, and Geodon ",
+            "category": "Category 5: Drug related",
+            "start_offset": 350,
+            "end_offset": 384,
+            "annotation_id": "CK_002"
+        },
+        {
+            "decision": "of depression status post several suicide attempts presented status post Tylenol, Seroquel, and Geodon ingestion in attempt at overdose.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 282,
+            "end_offset": 417,
+            "annotation_id": "CK_003"
+        },
+        {
+            "decision": "\"was going to kill\" herself",
+            "category": "Category 3: Defining problem",
+            "start_offset": 483,
+            "end_offset": 509,
+            "annotation_id": "CK_004"
+        },
+        {
+            "decision": "unresponsive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 564,
+            "end_offset": 576,
+            "annotation_id": "CK_005"
+        },
+        {
+            "decision": "have warm skin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 586,
+            "end_offset": 600,
+            "annotation_id": "CK_006"
+        },
+        {
+            "decision": "trazodone, Geodon, Seroquel, propanolol, and Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 667,
+            "end_offset": 719,
+            "annotation_id": "CK_007"
+        },
+        {
+            "decision": "Pupils were 2-3 mm and multiple pill bottles including ones for trazodone, Geodon, Seroquel, propanolol, and Tylenol were all empty ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 603,
+            "end_offset": 734,
+            "annotation_id": "CK_008"
+        },
+        {
+            "decision": "Tylenol, Geodon, and Seroquel ",
+            "category": "Category 5: Drug related",
+            "start_offset": 812,
+            "end_offset": 841,
+            "annotation_id": "CK_009"
+        },
+        {
+            "decision": "Tylenol, Geodon, and Seroquel ingestions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 812,
+            "end_offset": 852,
+            "annotation_id": "CK_010"
+        },
+        {
+            "decision": "intubated for airway protection and was given activated charcoal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 894,
+            "end_offset": 958,
+            "annotation_id": "CK_011"
+        },
+        {
+            "decision": "Narcan and N-acetylcysteine",
+            "category": "Category 5: Drug related",
+            "start_offset": 987,
+            "end_offset": 1014,
+            "annotation_id": "CK_012"
+        },
+        {
+            "decision": "Tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1100,
+            "end_offset": 1107,
+            "annotation_id": "CK_013"
+        },
+        {
+            "decision": "Tylenol overdose ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1100,
+            "end_offset": 1116,
+            "annotation_id": "CK_014"
+        },
+        {
+            "decision": "psychiatric history includes many suicide attempts including attempts by Tylenol overdose as well as hanging and cutting",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1027,
+            "end_offset": 1147,
+            "annotation_id": "CK_015"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1289,
+            "end_offset": 1299,
+            "annotation_id": "CK_016"
+        },
+        {
+            "decision": "1. Depression.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1324,
+            "end_offset": 1337,
+            "annotation_id": "CK_017"
+        },
+        {
+            "decision": "2. Suicide attempts, multiple.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1339,
+            "end_offset": 1368,
+            "annotation_id": "CK_018"
+        },
+        {
+            "decision": "3. Hypothyroidism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1370,
+            "end_offset": 1387,
+            "annotation_id": "CK_019"
+        },
+        {
+            "decision": "4. Bulimia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1389,
+            "end_offset": 1399,
+            "annotation_id": "CK_020"
+        },
+        {
+            "decision": "5. Dissociative identity disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1401,
+            "end_offset": 1434,
+            "annotation_id": "CK_021"
+        },
+        {
+            "decision": "6. s/p severe burn around age [**2-22**] requiring multiple skin grafts to the neck, chest, and back.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1436,
+            "end_offset": 1536,
+            "annotation_id": "CK_022"
+        },
+        {
+            "decision": "1. Effexor 375 q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1565,
+            "end_offset": 1583,
+            "annotation_id": "CK_023"
+        },
+        {
+            "decision": "2. Seroquel 600 q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1585,
+            "end_offset": 1604,
+            "annotation_id": "CK_024"
+        },
+        {
+            "decision": "3. Geodon 40 q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1606,
+            "end_offset": 1622,
+            "annotation_id": "CK_025"
+        },
+        {
+            "decision": "4. Naltrexone 150 q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1624,
+            "end_offset": 1645,
+            "annotation_id": "CK_026"
+        },
+        {
+            "decision": "5. Trazodone 200 q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1647,
+            "end_offset": 1667,
+            "annotation_id": "CK_027"
+        },
+        {
+            "decision": "6. Synthroid 75 mcg q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1669,
+            "end_offset": 1692,
+            "annotation_id": "CK_028"
+        },
+        {
+            "decision": "7. Inderal 60 b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1694,
+            "end_offset": 1713,
+            "annotation_id": "CK_029"
+        },
+        {
+            "decision": "8. Clonidine 0.5 q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1715,
+            "end_offset": 1735,
+            "annotation_id": "CK_030"
+        },
+        {
+            "decision": "HEENT:  Pupils were 4 mm and reactive to light.  Mucous membranes were moist",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2429,
+            "end_offset": 2505,
+            "annotation_id": "CK_031"
+        },
+        {
+            "decision": "Neck was supple, no lymphadenopathy, thyroid is smooth",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2508,
+            "end_offset": 2562,
+            "annotation_id": "CK_032"
+        },
+        {
+            "decision": "Large scars did exist on the neck, and chest, and back.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2565,
+            "end_offset": 2619,
+            "annotation_id": "CK_033"
+        },
+        {
+            "decision": "Regular, rate, and rhythm, normal S1, S2, no murmurs, rubs, or gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2651,
+            "end_offset": 2721,
+            "annotation_id": "CK_034"
+        },
+        {
+            "decision": "Lungs were clear to auscultation bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2724,
+            "end_offset": 2768,
+            "annotation_id": "CK_035"
+        },
+        {
+            "decision": "Abdomen was obese, soft, nontender, and nondistended with good bowel sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2771,
+            "end_offset": 2846,
+            "annotation_id": "CK_036"
+        },
+        {
+            "decision": "Extremities:  There are several scars on the upper arm, no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2849,
+            "end_offset": 2913,
+            "annotation_id": "CK_037"
+        },
+        {
+            "decision": "Neurologic examination:  The patient would at times spontaneously move all extremities and respond to painful stimuli.  Babinski's were downgoing.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2916,
+            "end_offset": 3061,
+            "annotation_id": "CK_038"
+        },
+        {
+            "decision": "Chem-7 was unremarkable, normal coags.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3148,
+            "end_offset": 3185,
+            "annotation_id": "CK_039"
+        },
+        {
+            "decision": "Tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 3336,
+            "end_offset": 3343,
+            "annotation_id": "CK_040"
+        },
+        {
+            "decision": "Serum tox:  Tylenol level of 224, otherwise negative.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3324,
+            "end_offset": 3376,
+            "annotation_id": "CK_041"
+        },
+        {
+            "decision": "methadone,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3406,
+            "end_offset": 3415,
+            "annotation_id": "CK_042"
+        },
+        {
+            "decision": "Urine tox was positive for methadone, otherwise negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3379,
+            "end_offset": 3435,
+            "annotation_id": "CK_043"
+        },
+        {
+            "decision": "Urinalysis:  No red blood cells, no white blood cells, no bacteria, and no yeast.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3438,
+            "end_offset": 3518,
+            "annotation_id": "CK_044"
+        },
+        {
+            "decision": "EKG on admission showed sinus tachycardia at 118, normal axis, slight prolongation of the Q-T interval, nondiagnostic Q waves in II, III, and F.  No ST-T wave changes, no T-wave inversions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3521,
+            "end_offset": 3709,
+            "annotation_id": "CK_045"
+        },
+        {
+            "decision": "Chest x-ray revealed clear lungs, no consolidations, and no effusions.  Endotracheal tube in good position",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3712,
+            "end_offset": 3818,
+            "annotation_id": "CK_046"
+        },
+        {
+            "decision": "Head CT was also performed which was negative for an acute bleed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3821,
+            "end_offset": 3885,
+            "annotation_id": "CK_047"
+        },
+        {
+            "decision": "intubated for airway protection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4009,
+            "end_offset": 4040,
+            "annotation_id": "CK_048"
+        },
+        {
+            "decision": "The patient remained with good oxygen saturations on nasal cannula and subsequently maintained oxygen saturations about 94-97% on room air off of nasal cannula.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4127,
+            "end_offset": 4286,
+            "annotation_id": "CK_049"
+        },
+        {
+            "decision": "The patient did experience a period of oxygen desaturation on the original evening of admission with oxygen saturations down to the low 90s.  This improved with suctioning and was likely due to mucus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4289,
+            "end_offset": 4488,
+            "annotation_id": "CK_050"
+        },
+        {
+            "decision": "repeat chest x-ray done on the evening of [**11-9**], had a question of some haziness at the right heart border ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4493,
+            "end_offset": 4604,
+            "annotation_id": "CK_051"
+        },
+        {
+            "decision": "possibly indicating a right middle lobe pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4605,
+            "end_offset": 4654,
+            "annotation_id": "CK_052"
+        },
+        {
+            "decision": "The patient was treated for this with levofloxacin 500 q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4657,
+            "end_offset": 4715,
+            "annotation_id": "CK_053"
+        },
+        {
+            "decision": "for treatment of possible pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4747,
+            "end_offset": 4782,
+            "annotation_id": "CK_054"
+        },
+        {
+            "decision": "low grade temperatures, temperature max of 100.9",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4818,
+            "end_offset": 4866,
+            "annotation_id": "CK_055"
+        },
+        {
+            "decision": "aspiration pneumonitis as well as possible pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4894,
+            "end_offset": 4946,
+            "annotation_id": "CK_056"
+        },
+        {
+            "decision": "Sputum was sent, which revealed gram-positive cocci in pairs on Gram stain, however, respiratory culture was no growth to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4949,
+            "end_offset": 5075,
+            "annotation_id": "CK_057"
+        },
+        {
+            "decision": ". Acetominophen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5081,
+            "end_offset": 5094,
+            "annotation_id": "CK_058"
+        },
+        {
+            "decision": "2. Acetominophen ingestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5078,
+            "end_offset": 5104,
+            "annotation_id": "CK_059"
+        },
+        {
+            "decision": "acetominophen",
+            "category": "Category 5: Drug related",
+            "start_offset": 5131,
+            "end_offset": 5144,
+            "annotation_id": "CK_060"
+        },
+        {
+            "decision": "had an elevated acetominophen level on admission of 224, repeat four hours later was 181",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5115,
+            "end_offset": 5203,
+            "annotation_id": "CK_061"
+        },
+        {
+            "decision": "maintained on N- acetylcysteine",
+            "category": "Category 5: Drug related",
+            "start_offset": 5239,
+            "end_offset": 5270,
+            "annotation_id": "CK_062"
+        },
+        {
+            "decision": "Tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 5346,
+            "end_offset": 5353,
+            "annotation_id": "CK_063"
+        },
+        {
+            "decision": "N-acetylcysteine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5411,
+            "end_offset": 5427,
+            "annotation_id": "CK_064"
+        },
+        {
+            "decision": "refused p.o. N-acetylcysteine and was given dose IV in lieu of the p.o",
+            "category": "Category 5: Drug related",
+            "start_offset": 5466,
+            "end_offset": 5536,
+            "annotation_id": "CK_065"
+        },
+        {
+            "decision": "acetominophen",
+            "category": "Category 5: Drug related",
+            "start_offset": 5556,
+            "end_offset": 5569,
+            "annotation_id": "CK_066"
+        },
+        {
+            "decision": "repeat acetominophen level on the evening of [**11-10**] was negative, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5549,
+            "end_offset": 5618,
+            "annotation_id": "CK_067"
+        },
+        {
+            "decision": "N-acetylcysteine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5639,
+            "end_offset": 5655,
+            "annotation_id": "CK_068"
+        },
+        {
+            "decision": "LFTs and coagulation tests remained all within normal limits.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5689,
+            "end_offset": 5749,
+            "annotation_id": "CK_069"
+        },
+        {
+            "decision": "no evidence for liver damage or toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5762,
+            "end_offset": 5802,
+            "annotation_id": "CK_070"
+        },
+        {
+            "decision": "acetominophen",
+            "category": "Category 5: Drug related",
+            "start_offset": 5814,
+            "end_offset": 5827,
+            "annotation_id": "CK_071"
+        },
+        {
+            "decision": "Geodon and Seroquel ingestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5883,
+            "end_offset": 5912,
+            "annotation_id": "CK_072"
+        },
+        {
+            "decision": "had an increased QTc on arrival, however, this normalized on the evening of admission.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5936,
+            "end_offset": 6021,
+            "annotation_id": "CK_073"
+        },
+        {
+            "decision": "repeat EKG at 48 hours showed a QTc about 400 milliseconds well within the normal range",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6026,
+            "end_offset": 6113,
+            "annotation_id": "CK_074"
+        },
+        {
+            "decision": "methadone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6253,
+            "end_offset": 6262,
+            "annotation_id": "CK_075"
+        },
+        {
+            "decision": "urine tox did reveal a positive methadone",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6221,
+            "end_offset": 6262,
+            "annotation_id": "CK_076"
+        },
+        {
+            "decision": "Benadryl",
+            "category": "Category 5: Drug related",
+            "start_offset": 6345,
+            "end_offset": 6353,
+            "annotation_id": "CK_077"
+        },
+        {
+            "decision": "patient was medically stable and cleared from her other toxic ingestions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6468,
+            "end_offset": 6540,
+            "annotation_id": "CK_078"
+        },
+        {
+            "decision": "the patient had decreased urine output and blood pressures in the 90s/50s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6578,
+            "end_offset": 6651,
+            "annotation_id": "CK_079"
+        },
+        {
+            "decision": "received two 500 cc normal saline boluses with good effect",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6666,
+            "end_offset": 6724,
+            "annotation_id": "CK_080"
+        },
+        {
+            "decision": "Urine output increased on the following day reflecting her diuresis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6726,
+            "end_offset": 6793,
+            "annotation_id": "CK_081"
+        },
+        {
+            "decision": "5 liters of normal saline",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6824,
+            "end_offset": 6849,
+            "annotation_id": "CK_082"
+        },
+        {
+            "decision": "potassium was monitored and repleted as needed, and remained stable at the time of discharge",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6918,
+            "end_offset": 7010,
+            "annotation_id": "CK_083"
+        },
+        {
+            "decision": "fluid balance was appropriate not requiring IV fluids at the time of discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7098,
+            "end_offset": 7176,
+            "annotation_id": "CK_084"
+        },
+        {
+            "decision": ". Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7182,
+            "end_offset": 7196,
+            "annotation_id": "CK_085"
+        },
+        {
+            "decision": "Synthroid will be restarted at the time of discharge.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7283,
+            "end_offset": 7335,
+            "annotation_id": "CK_086"
+        },
+        {
+            "decision": "Psychiatric service was consulted for this patient.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7359,
+            "end_offset": 7409,
+            "annotation_id": "CK_087"
+        },
+        {
+            "decision": "suicidal ideation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7444,
+            "end_offset": 7461,
+            "annotation_id": "CK_088"
+        },
+        {
+            "decision": "extubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7467,
+            "end_offset": 7477,
+            "annotation_id": "CK_089"
+        },
+        {
+            "decision": "fluphenazine",
+            "category": "Category 5: Drug related",
+            "start_offset": 7931,
+            "end_offset": 7943,
+            "annotation_id": "CK_090"
+        },
+        {
+            "decision": "The patient maintained her desire to commit suicide",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7994,
+            "end_offset": 8045,
+            "annotation_id": "CK_091"
+        },
+        {
+            "decision": "Psychiatric team ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8239,
+            "end_offset": 8255,
+            "annotation_id": "CK_092"
+        },
+        {
+            "decision": "Medically stable, under treatment for pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8359,
+            "end_offset": 8406,
+            "annotation_id": "CK_093"
+        },
+        {
+            "decision": "Acute acetominophen ingestion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8485,
+            "end_offset": 8514,
+            "annotation_id": "CK_094"
+        },
+        {
+            "decision": "Toxic ingestion of Geodon and Seroquel.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8519,
+            "end_offset": 8557,
+            "annotation_id": "CK_095"
+        },
+        {
+            "decision": ". Pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8562,
+            "end_offset": 8571,
+            "annotation_id": "CK_096"
+        },
+        {
+            "decision": ". Hypothyroidism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8576,
+            "end_offset": 8590,
+            "annotation_id": "CK_097"
+        },
+        {
+            "decision": "Suicide attempt",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8595,
+            "end_offset": 8610,
+            "annotation_id": "CK_098"
+        },
+        {
+            "decision": ". Suicidal ideation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8614,
+            "end_offset": 8631,
+            "annotation_id": "CK_099"
+        },
+        {
+            "decision": "Depression.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8636,
+            "end_offset": 8646,
+            "annotation_id": "CK_100"
+        },
+        {
+            "decision": ". Levofloxacin 500 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8675,
+            "end_offset": 8703,
+            "annotation_id": "CK_101"
+        },
+        {
+            "decision": "Synthroid 75 mcg q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8708,
+            "end_offset": 8728,
+            "annotation_id": "CK_102"
+        },
+        {
+            "decision": "Fluphenazine 2.5 mg p.o. t.i.d. prn agitation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8733,
+            "end_offset": 8778,
+            "annotation_id": "CK_103"
+        },
+        {
+            "decision": "The patient will follow up with her psychiatric caregivers as arranged by the inpatient psychiatric institution.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8799,
+            "end_offset": 8910,
+            "annotation_id": "CK_104"
+        },
+        {
+            "decision": "She also has an endocrinologist, Dr. [**Last Name (STitle) **], who will also continue to follow the patient for her hypothyroidism.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8913,
+            "end_offset": 9044,
+            "annotation_id": "CK_105"
+        }
+    ]
+}

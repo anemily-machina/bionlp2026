@@ -1,0 +1,727 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "21447_110393_4739",
+    "annotations": [
+        {
+            "decision": "Lethargy, hyperglycemia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 156,
+            "end_offset": 179,
+            "annotation_id": "FW_000"
+        },
+        {
+            "decision": "history of type I diabetes with nephropathy, hypertension, and chronic headaches ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 244,
+            "end_offset": 324,
+            "annotation_id": "FW_001"
+        },
+        {
+            "decision": "presents with lethargy and increased blood sugars ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 329,
+            "end_offset": 378,
+            "annotation_id": "FW_002"
+        },
+        {
+            "decision": "worsening headaches",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 471,
+            "annotation_id": "FW_003"
+        },
+        {
+            "decision": "these headaches to be sometimes correlated to anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 514,
+            "end_offset": 566,
+            "annotation_id": "FW_004"
+        },
+        {
+            "decision": "transfused two units of packed red blood cells",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 620,
+            "end_offset": 666,
+            "annotation_id": "FW_005"
+        },
+        {
+            "decision": "resolution of her headache",
+            "category": "Category 3: Defining problem",
+            "start_offset": 672,
+            "end_offset": 698,
+            "annotation_id": "FW_006"
+        },
+        {
+            "decision": "hyperglycemic secondary to missed insulin doses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 734,
+            "end_offset": 781,
+            "annotation_id": "FW_007"
+        },
+        {
+            "decision": "hypertensive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 786,
+            "end_offset": 798,
+            "annotation_id": "FW_008"
+        },
+        {
+            "decision": "Catapres ",
+            "category": "Category 5: Drug related",
+            "start_offset": 823,
+            "end_offset": 831,
+            "annotation_id": "FW_009"
+        },
+        {
+            "decision": "occasional chronic typical headache",
+            "category": "Category 3: Defining problem",
+            "start_offset": 915,
+            "end_offset": 950,
+            "annotation_id": "FW_010"
+        },
+        {
+            "decision": "relieved by Percocet",
+            "category": "Category 5: Drug related",
+            "start_offset": 951,
+            "end_offset": 971,
+            "annotation_id": "FW_011"
+        },
+        {
+            "decision": "Her blood sugars were running slightly high in the 300's over the course of the week.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 974,
+            "end_offset": 1058,
+            "annotation_id": "FW_012"
+        },
+        {
+            "decision": "blood sugars were high at night",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1077,
+            "end_offset": 1108,
+            "annotation_id": "FW_013"
+        },
+        {
+            "decision": "additional insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1129,
+            "end_offset": 1147,
+            "annotation_id": "FW_014"
+        },
+        {
+            "decision": "blood sugars were increased",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1190,
+            "end_offset": 1217,
+            "annotation_id": "FW_015"
+        },
+        {
+            "decision": "She wet to he [**Female First Name (un) 3408**] for her scheduled appointment and was told to come to the emergency department for hyperglycemia",
+            "category": "Category 1: Contact related",
+            "start_offset": 1219,
+            "end_offset": 1363,
+            "annotation_id": "FW_016"
+        },
+        {
+            "decision": "hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1350,
+            "end_offset": 1363,
+            "annotation_id": "FW_017"
+        },
+        {
+            "decision": "increased lethargy, decreased strength, decreased p.o. intake, nausea, emesis, polyuria and polydipsia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1410,
+            "end_offset": 1512,
+            "annotation_id": "FW_018"
+        },
+        {
+            "decision": "denies any fevers, chills, new headaches, vision changes, chest pain, palpitations, shortness of breath, cough, abdominal pain, dizziness, or light headedness.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1527,
+            "end_offset": 1685,
+            "annotation_id": "FW_019"
+        },
+        {
+            "decision": "Insulin dependent diabetes mellitus with nephropathy, retinopathy, and neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1714,
+            "end_offset": 1795,
+            "annotation_id": "FW_020"
+        },
+        {
+            "decision": "diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1826,
+            "end_offset": 1847,
+            "annotation_id": "FW_021"
+        },
+        {
+            "decision": "Gastroparesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1853,
+            "end_offset": 1866,
+            "annotation_id": "FW_022"
+        },
+        {
+            "decision": "Chronic headache",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1872,
+            "end_offset": 1888,
+            "annotation_id": "FW_023"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1894,
+            "end_offset": 1906,
+            "annotation_id": "FW_024"
+        },
+        {
+            "decision": "Anemia secondary to renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1912,
+            "end_offset": 1945,
+            "annotation_id": "FW_025"
+        },
+        {
+            "decision": "Barrett's esophagitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1951,
+            "end_offset": 1972,
+            "annotation_id": "FW_026"
+        },
+        {
+            "decision": "Status post left cephalic vein clot secondary to PIC line ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1978,
+            "end_offset": 2035,
+            "annotation_id": "FW_027"
+        },
+        {
+            "decision": "History of sepsis and endocarditis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2060,
+            "end_offset": 2094,
+            "annotation_id": "FW_028"
+        },
+        {
+            "decision": "History of depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2100,
+            "end_offset": 2121,
+            "annotation_id": "FW_029"
+        },
+        {
+            "decision": "History of amenorrhea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2128,
+            "end_offset": 2149,
+            "annotation_id": "FW_030"
+        },
+        {
+            "decision": "increased prolactin",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2155,
+            "end_offset": 2174,
+            "annotation_id": "FW_031"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2181,
+            "end_offset": 2201,
+            "annotation_id": "FW_032"
+        },
+        {
+            "decision": "Previous echocardiogram from [**2198-3-31**] showed ejection fraction of 45 to 50 percent with mild mitral regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2208,
+            "end_offset": 2328,
+            "annotation_id": "FW_033"
+        },
+        {
+            "decision": "mild mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2303,
+            "end_offset": 2328,
+            "annotation_id": "FW_034"
+        },
+        {
+            "decision": "Catapres patch .1 mg change q. week, patient not using",
+            "category": "Category 5: Drug related",
+            "start_offset": 2348,
+            "end_offset": 2402,
+            "annotation_id": "FW_035"
+        },
+        {
+            "decision": "Lasix 40 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 2408,
+            "end_offset": 2428,
+            "annotation_id": "FW_036"
+        },
+        {
+            "decision": "Reglan 15 mg p.o. q.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2433,
+            "end_offset": 2455,
+            "annotation_id": "FW_037"
+        },
+        {
+            "decision": "Protonics 40 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 2460,
+            "end_offset": 2484,
+            "annotation_id": "FW_038"
+        },
+        {
+            "decision": "Percocet p.r.n. headache",
+            "category": "Category 5: Drug related",
+            "start_offset": 2490,
+            "end_offset": 2514,
+            "annotation_id": "FW_039"
+        },
+        {
+            "decision": "NPH insulin 25 q. A.M., 4 q. P.M., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2520,
+            "end_offset": 2553,
+            "annotation_id": "FW_040"
+        },
+        {
+            "decision": "Sliding scale Humulog insulin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2558,
+            "end_offset": 2587,
+            "annotation_id": "FW_041"
+        },
+        {
+            "decision": "vomiting ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2637,
+            "end_offset": 2645,
+            "annotation_id": "FW_042"
+        },
+        {
+            "decision": "Notes vomiting with Erythromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2631,
+            "end_offset": 2663,
+            "annotation_id": "FW_043"
+        },
+        {
+            "decision": "General: this is a drowsy middle aged woman who is easily arousable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3098,
+            "end_offset": 3165,
+            "annotation_id": "FW_044"
+        },
+        {
+            "decision": "She sluggishly is able to answer questions, otherwise in no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3168,
+            "end_offset": 3245,
+            "annotation_id": "FW_045"
+        },
+        {
+            "decision": "Pupils were reactive, extraocular movements were intact, sclerae are anicteric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3248,
+            "end_offset": 3326,
+            "annotation_id": "FW_046"
+        },
+        {
+            "decision": "There was no photophobia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3328,
+            "end_offset": 3352,
+            "annotation_id": "FW_047"
+        },
+        {
+            "decision": "Oropharynx was clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3355,
+            "end_offset": 3375,
+            "annotation_id": "FW_048"
+        },
+        {
+            "decision": "Neck is supple without bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3378,
+            "end_offset": 3407,
+            "annotation_id": "FW_049"
+        },
+        {
+            "decision": "There is no jugular venous distention. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3410,
+            "end_offset": 3447,
+            "annotation_id": "FW_050"
+        },
+        {
+            "decision": "There is bilateral shotty cervical lymphadenopathy, tender.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3450,
+            "end_offset": 3508,
+            "annotation_id": "FW_051"
+        },
+        {
+            "decision": "Chest is clear to auscultation bilaterally. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3511,
+            "end_offset": 3553,
+            "annotation_id": "FW_052"
+        },
+        {
+            "decision": "The heart is regular, tachycardic, S1, S2, with a II/VI systolic murmur at the left upper sternal border.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3556,
+            "end_offset": 3660,
+            "annotation_id": "FW_053"
+        },
+        {
+            "decision": "Abdomen was soft, nontender, nondistended, with normal active bowel sounds.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3662,
+            "end_offset": 3736,
+            "annotation_id": "FW_054"
+        },
+        {
+            "decision": "Extremities showed no clubbing, cyanosis or edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3739,
+            "end_offset": 3788,
+            "annotation_id": "FW_055"
+        },
+        {
+            "decision": "Pulses are thin, palpable bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3791,
+            "end_offset": 3828,
+            "annotation_id": "FW_056"
+        },
+        {
+            "decision": "Urinalysis significant for greater than 300 protein, greater than 1,000 glucose, 40 ketones, specific gravity 1.021, count 5.5",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4078,
+            "end_offset": 4204,
+            "annotation_id": "FW_057"
+        },
+        {
+            "decision": "Electrocardiogram shows normal sinus rhythm at 83 beats per minute, T wave flattening in [**Last Name (LF) 1105**], [**First Name3 (LF) **].  ST elevations in V1 through V3.  ST depressions in V4 through V6, I, AVL. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4207,
+            "end_offset": 4421,
+            "annotation_id": "FW_058"
+        },
+        {
+            "decision": "Chest x-ray is clear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4500,
+            "end_offset": 4520,
+            "annotation_id": "FW_059"
+        },
+        {
+            "decision": "received a total of 20 units of insulin in the emergency room with improvement in her sugars",
+            "category": "Category 5: Drug related",
+            "start_offset": 4553,
+            "end_offset": 4645,
+            "annotation_id": "FW_060"
+        },
+        {
+            "decision": "improvement in her sugars",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4620,
+            "end_offset": 4645,
+            "annotation_id": "FW_061"
+        },
+        {
+            "decision": "admitted to the Intensive Care Unit for close observation and during correction of her hyperglycemia",
+            "category": "Category 1: Contact related",
+            "start_offset": 4661,
+            "end_offset": 4761,
+            "annotation_id": "FW_062"
+        },
+        {
+            "decision": "hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4748,
+            "end_offset": 4761,
+            "annotation_id": "FW_063"
+        },
+        {
+            "decision": "called out to the regular medicine service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4777,
+            "end_offset": 4819,
+            "annotation_id": "FW_064"
+        },
+        {
+            "decision": "cardiac enzymes were significantly elevated, most notably for a troponin of 21.2, which later went up to as high as 29.1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4862,
+            "end_offset": 4982,
+            "annotation_id": "FW_065"
+        },
+        {
+            "decision": "non-Q wave myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5023,
+            "end_offset": 5055,
+            "annotation_id": "FW_066"
+        },
+        {
+            "decision": "medically managed for non-Q wave myocardial infarction, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5001,
+            "end_offset": 5055,
+            "annotation_id": "FW_067"
+        },
+        {
+            "decision": "and it was decided to try to avoid cardiac catheterization secondary to the potential and likely damage that the dye load would cause to her kidneys",
+            "category": "Category 8: Deferment",
+            "start_offset": 5057,
+            "end_offset": 5205,
+            "annotation_id": "FW_068"
+        },
+        {
+            "decision": "underwent echocardiogram which showed no focal wall motion abnormalities but did demonstrate global hypokinesis of the ventricular wall",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5223,
+            "end_offset": 5358,
+            "annotation_id": "FW_069"
+        },
+        {
+            "decision": "underwent Persantine Thallium, which demonstrated a small fixed anterior filling defect",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5370,
+            "end_offset": 5457,
+            "annotation_id": "FW_070"
+        },
+        {
+            "decision": "myocardial infarction ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5543,
+            "end_offset": 5564,
+            "annotation_id": "FW_071"
+        },
+        {
+            "decision": "placed on beta blocker, heparin, aspirin, and Lipitor for her post myocardial infarction regimen. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5476,
+            "end_offset": 5572,
+            "annotation_id": "FW_072"
+        },
+        {
+            "decision": "ACE inhibitors were avoided secondary to her renal function.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5575,
+            "end_offset": 5634,
+            "annotation_id": "FW_073"
+        },
+        {
+            "decision": "cardiac enzymes gradually improved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5670,
+            "end_offset": 5704,
+            "annotation_id": "FW_074"
+        },
+        {
+            "decision": "no symptoms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5718,
+            "end_offset": 5729,
+            "annotation_id": "FW_075"
+        },
+        {
+            "decision": "further electrocardiogram changes ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5733,
+            "end_offset": 5766,
+            "annotation_id": "FW_076"
+        },
+        {
+            "decision": "cardiac enzyme elevations",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5770,
+            "end_offset": 5795,
+            "annotation_id": "FW_077"
+        },
+        {
+            "decision": "complicated by labile hypertension, with surges into the 220s/110s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5823,
+            "end_offset": 5889,
+            "annotation_id": "FW_078"
+        },
+        {
+            "decision": "given increasing doses of Lopressor",
+            "category": "Category 5: Drug related",
+            "start_offset": 5900,
+            "end_offset": 5935,
+            "annotation_id": "FW_079"
+        },
+        {
+            "decision": "eventual stabilization of blood pressure in the 130s to 150s/80s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5942,
+            "end_offset": 6006,
+            "annotation_id": "FW_080"
+        },
+        {
+            "decision": "hypertension was fairly stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6038,
+            "end_offset": 6068,
+            "annotation_id": "FW_081"
+        },
+        {
+            "decision": "blood sugars were stable in the high 100s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6070,
+            "end_offset": 6111,
+            "annotation_id": "FW_082"
+        },
+        {
+            "decision": "no cardiac symptoms ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6132,
+            "end_offset": 6151,
+            "annotation_id": "FW_083"
+        },
+        {
+            "decision": "normal CKs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6160,
+            "end_offset": 6170,
+            "annotation_id": "FW_084"
+        },
+        {
+            "decision": "discharged to home with services, with plans for follow up with Dr. [**Last Name (STitle) 19512**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 6181,
+            "end_offset": 6279,
+            "annotation_id": "FW_085"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6307,
+            "end_offset": 6313,
+            "annotation_id": "FW_086"
+        },
+        {
+            "decision": "Non-Q wave myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6411,
+            "end_offset": 6443,
+            "annotation_id": "FW_087"
+        },
+        {
+            "decision": "Diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6453,
+            "end_offset": 6474,
+            "annotation_id": "FW_088"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6484,
+            "end_offset": 6496,
+            "annotation_id": "FW_089"
+        },
+        {
+            "decision": "Diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6506,
+            "end_offset": 6523,
+            "annotation_id": "FW_090"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6533,
+            "end_offset": 6553,
+            "annotation_id": "FW_091"
+        },
+        {
+            "decision": "Chronic renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6563,
+            "end_offset": 6590,
+            "annotation_id": "FW_092"
+        },
+        {
+            "decision": "NPH 25 units q. A.M., 5 units q. P.M., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6620,
+            "end_offset": 6657,
+            "annotation_id": "FW_093"
+        },
+        {
+            "decision": "Humulog sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 6662,
+            "end_offset": 6683,
+            "annotation_id": "FW_094"
+        },
+        {
+            "decision": "Lasix 40 mg p.o. q.d.,",
+            "category": "Category 5: Drug related",
+            "start_offset": 6689,
+            "end_offset": 6710,
+            "annotation_id": "FW_095"
+        },
+        {
+            "decision": "Reglan 15 mg p.o. q. day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6715,
+            "end_offset": 6739,
+            "annotation_id": "FW_096"
+        },
+        {
+            "decision": "Protonics 40 mg p.o. q.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6744,
+            "end_offset": 6769,
+            "annotation_id": "FW_097"
+        },
+        {
+            "decision": "Lopressor 100 mg p.o. b.i.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6774,
+            "end_offset": 6802,
+            "annotation_id": "FW_098"
+        },
+        {
+            "decision": "Norvasc 10 mg p.o. q.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6807,
+            "end_offset": 6830,
+            "annotation_id": "FW_099"
+        },
+        {
+            "decision": "Lipitor 10 mg p.o. q.d., ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6835,
+            "end_offset": 6858,
+            "annotation_id": "FW_100"
+        },
+        {
+            "decision": "Epogen 3,000 units subcutaneous injections three times a week.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6863,
+            "end_offset": 6924,
+            "annotation_id": "FW_101"
+        },
+        {
+            "decision": "Kayexalate 30 grams p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6931,
+            "end_offset": 6959,
+            "annotation_id": "FW_102"
+        }
+    ]
+}

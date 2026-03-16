@@ -1,0 +1,566 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "57105_121138_33449",
+    "annotations": [
+        {
+            "decision": "Acute ethanol intoxication and withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 264,
+            "end_offset": 305,
+            "annotation_id": "NI_000"
+        },
+        {
+            "decision": "PMH of alcoholism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 411,
+            "end_offset": 428,
+            "annotation_id": "NI_001"
+        },
+        {
+            "decision": "polysubstance abuse,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 430,
+            "end_offset": 449,
+            "annotation_id": "NI_002"
+        },
+        {
+            "decision": "hepatitis C ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 455,
+            "end_offset": 466,
+            "annotation_id": "NI_003"
+        },
+        {
+            "decision": "altered mental status due to alcohol intoxication ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 735,
+            "end_offset": 784,
+            "annotation_id": "NI_004"
+        },
+        {
+            "decision": "were unremarkable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 882,
+            "end_offset": 899,
+            "annotation_id": "NI_005"
+        },
+        {
+            "decision": "An EKG and CXR were unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 867,
+            "end_offset": 899,
+            "annotation_id": "NI_006"
+        },
+        {
+            "decision": "received 3L of NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 904,
+            "end_offset": 921,
+            "annotation_id": "NI_007"
+        },
+        {
+            "decision": "and 20mg of IV Valium",
+            "category": "Category 5: Drug related",
+            "start_offset": 922,
+            "end_offset": 943,
+            "annotation_id": "NI_008"
+        },
+        {
+            "decision": "sinus tachycardia to the 140s which resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 966,
+            "end_offset": 1010,
+            "annotation_id": "NI_009"
+        },
+        {
+            "decision": "fluid administration ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1017,
+            "end_offset": 1037,
+            "annotation_id": "NI_010"
+        },
+        {
+            "decision": "benzos",
+            "category": "Category 5: Drug related",
+            "start_offset": 1042,
+            "end_offset": 1048,
+            "annotation_id": "NI_011"
+        },
+        {
+            "decision": "Psychiatry was consulted and recommended having a sitter on the medical floor and for psych re-evaluation when he was sober.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1050,
+            "end_offset": 1173,
+            "annotation_id": "NI_012"
+        },
+        {
+            "decision": "ETOH abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1256,
+            "end_offset": 1266,
+            "annotation_id": "NI_013"
+        },
+        {
+            "decision": "IV drug abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1269,
+            "end_offset": 1282,
+            "annotation_id": "NI_014"
+        },
+        {
+            "decision": "HCV",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1285,
+            "end_offset": 1288,
+            "annotation_id": "NI_015"
+        },
+        {
+            "decision": "GENERAL: acutely intoxicated male, tremulous.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2549,
+            "end_offset": 2593,
+            "annotation_id": "NI_016"
+        },
+        {
+            "decision": "HEENT: NC/AT, PERRLA, EOMI, dry MM, OP clear, ecchymosis over right orbit.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2595,
+            "end_offset": 2668,
+            "annotation_id": "NI_017"
+        },
+        {
+            "decision": "NECK: Supple, no JVD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2670,
+            "end_offset": 2690,
+            "annotation_id": "NI_018"
+        },
+        {
+            "decision": "HEART: RRR, no MRG, nl S1-S2.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2692,
+            "end_offset": 2720,
+            "annotation_id": "NI_019"
+        },
+        {
+            "decision": "LUNGS: CTA bilat, no r/rh/wh, good air movement.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2722,
+            "end_offset": 2769,
+            "annotation_id": "NI_020"
+        },
+        {
+            "decision": "ABDOMEN: Soft/ND, no rebound/guarding, moderate tenderness in bilateral upper quadrants.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2771,
+            "end_offset": 2858,
+            "annotation_id": "NI_021"
+        },
+        {
+            "decision": "EXTREMITIES: WWP, no c/c/e.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2860,
+            "end_offset": 2886,
+            "annotation_id": "NI_022"
+        },
+        {
+            "decision": "NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**4-19**] throughout, absence of sensation in his feet bilaterally, but otherwise sensatioin is intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2888,
+            "end_offset": 3055,
+            "annotation_id": "NI_023"
+        },
+        {
+            "decision": "ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 3619,
+            "end_offset": 3622,
+            "annotation_id": "NI_024"
+        },
+        {
+            "decision": "Acetmnp",
+            "category": "Category 5: Drug related",
+            "start_offset": 3640,
+            "end_offset": 3647,
+            "annotation_id": "NI_025"
+        },
+        {
+            "decision": "Bnzodzp",
+            "category": "Category 5: Drug related",
+            "start_offset": 3652,
+            "end_offset": 3659,
+            "annotation_id": "NI_026"
+        },
+        {
+            "decision": "Barbitr",
+            "category": "Category 5: Drug related",
+            "start_offset": 3664,
+            "end_offset": 3671,
+            "annotation_id": "NI_027"
+        },
+        {
+            "decision": "Tricycl",
+            "category": "Category 5: Drug related",
+            "start_offset": 3676,
+            "end_offset": 3683,
+            "annotation_id": "NI_028"
+        },
+        {
+            "decision": "BLOOD ASA-NEG Ethanol-528* Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3613,
+            "end_offset": 3687,
+            "annotation_id": "NI_029"
+        },
+        {
+            "decision": "[**2142-6-1**] 4:35 pm URINE      Source: Catheter.                              **FINAL REPORT [**2142-6-2**]**     URINE CULTURE (Final [**2142-6-2**]):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4162,
+            "end_offset": 4329,
+            "annotation_id": "NI_030"
+        },
+        {
+            "decision": "SEROLOGY/BLOOD     RAPID PLASMA REAGIN TEST (Pending): . Time Taken Not Noted     Log-In Date/Time: [**2142-6-2**] 4:10 pm       IMMUNOLOGY       TAKEN FROM HEM# 0136K,ADDED HIQ TEST @ 4:10PM ON [**2142-6-2**]..      HIV-1 Viral Load/Ultrasensitive (Pending)",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4356,
+            "end_offset": 4613,
+            "annotation_id": "NI_031"
+        },
+        {
+            "decision": "Chest X-ray on admission: IMPRESSION: No acute cardiopulmonary process.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4633,
+            "end_offset": 4703,
+            "annotation_id": "NI_032"
+        },
+        {
+            "decision": "CT C-spine on admission: IMPRESSION: No acute fracture or subluxation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4707,
+            "end_offset": 4776,
+            "annotation_id": "NI_033"
+        },
+        {
+            "decision": "CT head on admission: IMPRESSION: No acute intracranial process.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4780,
+            "end_offset": 4843,
+            "annotation_id": "NI_034"
+        },
+        {
+            "decision": "PMH of alcoholism, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4901,
+            "end_offset": 4918,
+            "annotation_id": "NI_035"
+        },
+        {
+            "decision": "polysubstance abuse,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4920,
+            "end_offset": 4939,
+            "annotation_id": "NI_036"
+        },
+        {
+            "decision": "hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4945,
+            "end_offset": 4956,
+            "annotation_id": "NI_037"
+        },
+        {
+            "decision": "with imaging negative for acute injury ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5072,
+            "end_offset": 5110,
+            "annotation_id": "NI_038"
+        },
+        {
+            "decision": "alcohol detoxification",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5140,
+            "end_offset": 5162,
+            "annotation_id": "NI_039"
+        },
+        {
+            "decision": "/withdrawal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5162,
+            "end_offset": 5173,
+            "annotation_id": "NI_040"
+        },
+        {
+            "decision": "Alcohol withdrawal/intoxifiication ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5180,
+            "end_offset": 5214,
+            "annotation_id": "NI_041"
+        },
+        {
+            "decision": "Left AMA",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 5216,
+            "end_offset": 5224,
+            "annotation_id": "NI_042"
+        },
+        {
+            "decision": "alcohol detox ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5281,
+            "end_offset": 5294,
+            "annotation_id": "NI_043"
+        },
+        {
+            "decision": "withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5299,
+            "end_offset": 5309,
+            "annotation_id": "NI_044"
+        },
+        {
+            "decision": "delirium tremens. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5331,
+            "end_offset": 5347,
+            "annotation_id": "NI_045"
+        },
+        {
+            "decision": "He requests alcohol rehabilitation when he is intoxicated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5349,
+            "end_offset": 5406,
+            "annotation_id": "NI_046"
+        },
+        {
+            "decision": "quickly leaves AMA once he is sober and released from his section by psychiatry",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 5441,
+            "end_offset": 5520,
+            "annotation_id": "NI_047"
+        },
+        {
+            "decision": "given oral multivitamins, folate and thiamine",
+            "category": "Category 5: Drug related",
+            "start_offset": 5535,
+            "end_offset": 5580,
+            "annotation_id": "NI_048"
+        },
+        {
+            "decision": "diazepam orally for control of withdrawal symptoms",
+            "category": "Category 5: Drug related",
+            "start_offset": 5613,
+            "end_offset": 5663,
+            "annotation_id": "NI_049"
+        },
+        {
+            "decision": "proton pump inhibitor was given every 12 hours to prevent gastritis",
+            "category": "Category 5: Drug related",
+            "start_offset": 5668,
+            "end_offset": 5735,
+            "annotation_id": "NI_050"
+        },
+        {
+            "decision": "gastritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5726,
+            "end_offset": 5735,
+            "annotation_id": "NI_051"
+        },
+        {
+            "decision": "Supportive care was administered via antiemetics",
+            "category": "Category 5: Drug related",
+            "start_offset": 5738,
+            "end_offset": 5786,
+            "annotation_id": "NI_052"
+        },
+        {
+            "decision": "diazepam requirements decreased ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5798,
+            "end_offset": 5829,
+            "annotation_id": "NI_053"
+        },
+        {
+            "decision": "he was out of the seizure window",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5834,
+            "end_offset": 5866,
+            "annotation_id": "NI_054"
+        },
+        {
+            "decision": "During his transfer to the floor the patient left the hospital AMA.",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 5899,
+            "end_offset": 5965,
+            "annotation_id": "NI_055"
+        },
+        {
+            "decision": "Bilateral foot numbness: may be due to alcoholic neuropathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5971,
+            "end_offset": 6030,
+            "annotation_id": "NI_056"
+        },
+        {
+            "decision": "CT head suggested no acute intracranial process such as stroke or intracranial hemorrhage.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6032,
+            "end_offset": 6121,
+            "annotation_id": "NI_057"
+        },
+        {
+            "decision": " Brainstem stroke was unlikely given lack of other findings.  Spinal cord process such as epidural abscess and mass compressing the cord causing cauda equina syndrome was possible, given episode of urinary retention, but rectal tone was intact.  Differential also included [**Last Name (un) 4584**]-[**Location (un) **] and tick paralysis, though less likely and reflexes were intact.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6124,
+            "end_offset": 6506,
+            "annotation_id": "NI_058"
+        },
+        {
+            "decision": "Folate and vitamin B12 levels were not low.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6509,
+            "end_offset": 6551,
+            "annotation_id": "NI_059"
+        },
+        {
+            "decision": "Pancreatitis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6558,
+            "end_offset": 6570,
+            "annotation_id": "NI_060"
+        },
+        {
+            "decision": ". Lipase was elevated to 130 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6572,
+            "end_offset": 6598,
+            "annotation_id": "NI_061"
+        },
+        {
+            "decision": "Supportive care was given with IV fluids.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6648,
+            "end_offset": 6688,
+            "annotation_id": "NI_062"
+        },
+        {
+            "decision": "via IV dilaudid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6724,
+            "end_offset": 6739,
+            "annotation_id": "NI_063"
+        },
+        {
+            "decision": "Hepatitis C. Chronic,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6746,
+            "end_offset": 6766,
+            "annotation_id": "NI_064"
+        },
+        {
+            "decision": "transaminases were elevated, but generally around his baseline.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6798,
+            "end_offset": 6860,
+            "annotation_id": "NI_065"
+        },
+        {
+            "decision": "HIV test was obtained and was pending at the time of discharge",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6862,
+            "end_offset": 6924,
+            "annotation_id": "NI_066"
+        },
+        {
+            "decision": "Hepatocellular carcinoma screening should be pursued in the future with alpha fetoprotein and right upper quadrant ultrasound.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6926,
+            "end_offset": 7051,
+            "annotation_id": "NI_067"
+        },
+        {
+            "decision": "patient has HIV tests and RPR pending at the time of discharge, which will need to be followed up.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7068,
+            "end_offset": 7165,
+            "annotation_id": "NI_068"
+        },
+        {
+            "decision": "Pt left the hospital AMA",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7185,
+            "end_offset": 7209,
+            "annotation_id": "NI_069"
+        },
+        {
+            "decision": "1. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7237,
+            "end_offset": 7295,
+            "annotation_id": "NI_070"
+        },
+        {
+            "decision": "2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7296,
+            "end_offset": 7350,
+            "annotation_id": "NI_071"
+        },
+        {
+            "decision": "3. multivitamin Tablet Sig: One (1) Tablet PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 7351,
+            "end_offset": 7402,
+            "annotation_id": "NI_072"
+        },
+        {
+            "decision": "4. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 7403,
+            "end_offset": 7491,
+            "annotation_id": "NI_073"
+        },
+        {
+            "decision": "Pt left the hospital AMA after transfer to the floor",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7516,
+            "end_offset": 7568,
+            "annotation_id": "NI_074"
+        },
+        {
+            "decision": "Pt left AMA",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7609,
+            "end_offset": 7620,
+            "annotation_id": "NI_075"
+        },
+        {
+            "decision": "EtoH Intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7652,
+            "end_offset": 7669,
+            "annotation_id": "NI_076"
+        },
+        {
+            "decision": "Left AMA",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7692,
+            "end_offset": 7700,
+            "annotation_id": "NI_077"
+        },
+        {
+            "decision": "Left AMA ",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7726,
+            "end_offset": 7734,
+            "annotation_id": "NI_078"
+        },
+        {
+            "decision": "Left AMA",
+            "category": "Category 11: Other - Patient decision to go home without medical advice",
+            "start_offset": 7759,
+            "end_offset": 7767,
+            "annotation_id": "NI_079"
+        }
+    ]
+}

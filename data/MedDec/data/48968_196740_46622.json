@@ -1,0 +1,426 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "48968_196740_46622",
+    "annotations": [
+        {
+            "decision": "respiratory failure, intubated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 295,
+            "annotation_id": "MH_000"
+        },
+        {
+            "decision": "extubated [**2142-8-24**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 335,
+            "end_offset": 360,
+            "annotation_id": "MH_001"
+        },
+        {
+            "decision": "end-stage dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 406,
+            "end_offset": 424,
+            "annotation_id": "MH_002"
+        },
+        {
+            "decision": "acute change in mental status and respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 506,
+            "annotation_id": "MH_003"
+        },
+        {
+            "decision": "unresponsive with labored respirations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 635,
+            "end_offset": 673,
+            "annotation_id": "MH_004"
+        },
+        {
+            "decision": "oxygenation of 60 and hypertensive with a blood pressure of approximately 180/70",
+            "category": "Category 3: Defining problem",
+            "start_offset": 723,
+            "end_offset": 803,
+            "annotation_id": "MH_005"
+        },
+        {
+            "decision": "Intubation was attempted in route unsuccessfully",
+            "category": "Category 11: Other - Therapeutic procedure attempted but failed",
+            "start_offset": 805,
+            "end_offset": 853,
+            "annotation_id": "MH_006"
+        },
+        {
+            "decision": "transferred to the emergency department",
+            "category": "Category 1: Contact related",
+            "start_offset": 875,
+            "end_offset": 914,
+            "annotation_id": "MH_007"
+        },
+        {
+            "decision": "unresponsive tachypneic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 951,
+            "end_offset": 974,
+            "annotation_id": "MH_008"
+        },
+        {
+            "decision": "pt was intubated. On endotracheal suctioning, significant gastric contents were recovered",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1054,
+            "end_offset": 1143,
+            "annotation_id": "MH_009"
+        },
+        {
+            "decision": "CTX 1g, zosyn 3.375, on propofol, switched to versed and fentanyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1199,
+            "end_offset": 1264,
+            "annotation_id": "MH_010"
+        },
+        {
+            "decision": "CT head showed global atrophy, no acute change. D-dimer was elevated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1266,
+            "end_offset": 1334,
+            "annotation_id": "MH_011"
+        },
+        {
+            "decision": "pt was DNR/DNI",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 1379,
+            "end_offset": 1393,
+            "annotation_id": "MH_012"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 1558,
+            "end_offset": 1591,
+            "annotation_id": "MH_013"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1650,
+            "end_offset": 1659,
+            "annotation_id": "MH_014"
+        },
+        {
+            "decision": "fentanyl at 150mcg/hr and versed @ 7.5mcg/h,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1677,
+            "end_offset": 1720,
+            "annotation_id": "MH_015"
+        },
+        {
+            "decision": "with NS @75cc/h.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1722,
+            "end_offset": 1737,
+            "annotation_id": "MH_016"
+        },
+        {
+            "decision": "DNR/DNI and they would terminally extubate",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 1782,
+            "end_offset": 1824,
+            "annotation_id": "MH_017"
+        },
+        {
+            "decision": "intubated.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1934,
+            "end_offset": 1943,
+            "annotation_id": "MH_018"
+        },
+        {
+            "decision": "1L NS bolus ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1958,
+            "end_offset": 1969,
+            "annotation_id": "MH_019"
+        },
+        {
+            "decision": "with improvement of SBPs into the 110s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1970,
+            "end_offset": 2008,
+            "annotation_id": "MH_020"
+        },
+        {
+            "decision": "/p PPM- congenital sinus node dysfunction w/ sinus bradycardia and tachy-brady syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2363,
+            "end_offset": 2450,
+            "annotation_id": "MH_021"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2454,
+            "end_offset": 2468,
+            "annotation_id": "MH_022"
+        },
+        {
+            "decision": "Nausea of unknown cause",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2472,
+            "end_offset": 2495,
+            "annotation_id": "MH_023"
+        },
+        {
+            "decision": "Memory disturbances- followed by Behavioral Neurology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2499,
+            "end_offset": 2552,
+            "annotation_id": "MH_024"
+        },
+        {
+            "decision": ". Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2556,
+            "end_offset": 2568,
+            "annotation_id": "MH_025"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2847,
+            "end_offset": 2856,
+            "annotation_id": "MH_026"
+        },
+        {
+            "decision": "General: intubated, sedated, decorticate posturing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2838,
+            "end_offset": 2888,
+            "annotation_id": "MH_027"
+        },
+        {
+            "decision": "HEENT: pupils pinpoint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2889,
+            "end_offset": 2911,
+            "annotation_id": "MH_028"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2912,
+            "end_offset": 2950,
+            "annotation_id": "MH_029"
+        },
+        {
+            "decision": "Lungs: diffuse rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2951,
+            "end_offset": 2973,
+            "annotation_id": "MH_030"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2974,
+            "end_offset": 3044,
+            "annotation_id": "MH_031"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3045,
+            "end_offset": 3159,
+            "annotation_id": "MH_032"
+        },
+        {
+            "decision": "GU: foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3160,
+            "end_offset": 3169,
+            "annotation_id": "MH_033"
+        },
+        {
+            "decision": "Lung volumes are lower, probably due to new mild interstitial pulmonary edema. Heart size is top normal. No pneumothorax or pleural effusion. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3211,
+            "end_offset": 3351,
+            "annotation_id": "MH_034"
+        },
+        {
+            "decision": "ET tube and nasogastric tube are in standard placements respectively. Transvenous right atrial and right ventricular pacer leads are unchanged in their respective positions.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3353,
+            "end_offset": 3525,
+            "annotation_id": "MH_035"
+        },
+        {
+            "decision": "dementia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3569,
+            "end_offset": 3577,
+            "annotation_id": "MH_036"
+        },
+        {
+            "decision": "respiratory failure due to likely aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3616,
+            "end_offset": 3660,
+            "annotation_id": "MH_037"
+        },
+        {
+            "decision": "intubated at the outside hospital ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3670,
+            "end_offset": 3703,
+            "annotation_id": "MH_038"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] due to MICU bed availability",
+            "category": "Category 1: Contact related",
+            "start_offset": 3770,
+            "end_offset": 3832,
+            "annotation_id": "MH_039"
+        },
+        {
+            "decision": "on transfer to [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 3873,
+            "end_offset": 3906,
+            "annotation_id": "MH_040"
+        },
+        {
+            "decision": "DNR/DNI status",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 3926,
+            "end_offset": 3940,
+            "annotation_id": "MH_041"
+        },
+        {
+            "decision": "remained intubated overnight",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3946,
+            "end_offset": 3974,
+            "annotation_id": "MH_042"
+        },
+        {
+            "decision": "terminally extubate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4044,
+            "end_offset": 4063,
+            "annotation_id": "MH_043"
+        },
+        {
+            "decision": "was extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4077,
+            "end_offset": 4090,
+            "annotation_id": "MH_044"
+        },
+        {
+            "decision": "made comfort-measures-only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 4164,
+            "end_offset": 4190,
+            "annotation_id": "MH_045"
+        },
+        {
+            "decision": "transferred to the general medicine floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 4200,
+            "end_offset": 4241,
+            "annotation_id": "MH_046"
+        },
+        {
+            "decision": "morphine, lorazapam, olanzepine, acetaminophen, and scopolamine patch",
+            "category": "Category 5: Drug related",
+            "start_offset": 4289,
+            "end_offset": 4358,
+            "annotation_id": "MH_047"
+        },
+        {
+            "decision": "Palliative care was consulted ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4361,
+            "end_offset": 4390,
+            "annotation_id": "MH_048"
+        },
+        {
+            "decision": "Asa 81mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 4598,
+            "end_offset": 4606,
+            "annotation_id": "MH_049"
+        },
+        {
+            "decision": "Colace 100mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 4607,
+            "end_offset": 4636,
+            "annotation_id": "MH_050"
+        },
+        {
+            "decision": "Senna",
+            "category": "Category 5: Drug related",
+            "start_offset": 4637,
+            "end_offset": 4642,
+            "annotation_id": "MH_051"
+        },
+        {
+            "decision": "Tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 4643,
+            "end_offset": 4650,
+            "annotation_id": "MH_052"
+        },
+        {
+            "decision": "Caltrate-Vit D3",
+            "category": "Category 5: Drug related",
+            "start_offset": 4651,
+            "end_offset": 4666,
+            "annotation_id": "MH_053"
+        },
+        {
+            "decision": "Claritin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4667,
+            "end_offset": 4675,
+            "annotation_id": "MH_054"
+        },
+        {
+            "decision": "Risperidone",
+            "category": "Category 5: Drug related",
+            "start_offset": 4676,
+            "end_offset": 4687,
+            "annotation_id": "MH_055"
+        },
+        {
+            "decision": "Mag-ox",
+            "category": "Category 5: Drug related",
+            "start_offset": 4688,
+            "end_offset": 4694,
+            "annotation_id": "MH_056"
+        },
+        {
+            "decision": "folic acid",
+            "category": "Category 5: Drug related",
+            "start_offset": 4695,
+            "end_offset": 4705,
+            "annotation_id": "MH_057"
+        },
+        {
+            "decision": "Aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4807,
+            "end_offset": 4827,
+            "annotation_id": "MH_058"
+        },
+        {
+            "decision": "hypoxic respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4828,
+            "end_offset": 4855,
+            "annotation_id": "MH_059"
+        }
+    ]
+}

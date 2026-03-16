@@ -1,0 +1,1413 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "54401_129326_46372",
+    "annotations": [
+        {
+            "decision": "Hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 211,
+            "end_offset": 218,
+            "annotation_id": "MY_000"
+        },
+        {
+            "decision": "low O2 sat to 89 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 368,
+            "end_offset": 384,
+            "annotation_id": "MY_001"
+        },
+        {
+            "decision": "on 6L, normally has 2 -2.5L home O2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 385,
+            "end_offset": 420,
+            "annotation_id": "MY_002"
+        },
+        {
+            "decision": "Nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 615,
+            "end_offset": 625,
+            "annotation_id": "MY_003"
+        },
+        {
+            "decision": "3L O2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 835,
+            "end_offset": 840,
+            "annotation_id": "MY_004"
+        },
+        {
+            "decision": "very mild wheezes, decreased breath sounds on the right, no abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1306,
+            "end_offset": 1380,
+            "annotation_id": "MY_005"
+        },
+        {
+            "decision": "EKG with afib @ 117, RBBB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1482,
+            "end_offset": 1507,
+            "annotation_id": "MY_006"
+        },
+        {
+            "decision": "oxycodone 5mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 1527,
+            "end_offset": 1540,
+            "annotation_id": "MY_007"
+        },
+        {
+            "decision": "albuterol/ipratropium neb",
+            "category": "Category 5: Drug related",
+            "start_offset": 1542,
+            "end_offset": 1567,
+            "annotation_id": "MY_008"
+        },
+        {
+            "decision": "neb",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1564,
+            "end_offset": 1567,
+            "annotation_id": "MY_009"
+        },
+        {
+            "decision": "1gm vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1569,
+            "end_offset": 1583,
+            "annotation_id": "MY_010"
+        },
+        {
+            "decision": "4.5gm zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1585,
+            "end_offset": 1596,
+            "annotation_id": "MY_011"
+        },
+        {
+            "decision": "5mg metoprolol IV ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1616,
+            "end_offset": 1633,
+            "annotation_id": "MY_012"
+        },
+        {
+            "decision": "afib with RVR ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1638,
+            "end_offset": 1651,
+            "annotation_id": "MY_013"
+        },
+        {
+            "decision": "CXR showed possible PNA and CTA Chest was was negative for PE, but confirmed a small consolidation within the right lower lobe",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1677,
+            "end_offset": 1803,
+            "annotation_id": "MY_014"
+        },
+        {
+            "decision": "on his usual 2L NC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2068,
+            "end_offset": 2086,
+            "annotation_id": "MY_015"
+        },
+        {
+            "decision": "pt is normally O2 dependent, but was dipping down into the high 80s on his usual 2L NC, along with decreased lung sounds. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2000,
+            "end_offset": 2120,
+            "annotation_id": "MY_016"
+        },
+        {
+            "decision": "Denies fever, chills",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2354,
+            "end_offset": 2374,
+            "annotation_id": "MY_017"
+        },
+        {
+            "decision": "Denies chest pain or tightness, palpitations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2376,
+            "end_offset": 2420,
+            "annotation_id": "MY_018"
+        },
+        {
+            "decision": "Denies nausea, vomiting, diarrhea, constipation or abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2422,
+            "end_offset": 2487,
+            "annotation_id": "MY_019"
+        },
+        {
+            "decision": "No recent change in bowel or bladder habits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2489,
+            "end_offset": 2532,
+            "annotation_id": "MY_020"
+        },
+        {
+            "decision": "No hematuria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2534,
+            "end_offset": 2546,
+            "annotation_id": "MY_021"
+        },
+        {
+            "decision": "Denies arthralgias or myalgias",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2548,
+            "end_offset": 2578,
+            "annotation_id": "MY_022"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2603,
+            "end_offset": 2606,
+            "annotation_id": "MY_023"
+        },
+        {
+            "decision": "MI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2609,
+            "end_offset": 2611,
+            "annotation_id": "MY_024"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2612,
+            "end_offset": 2615,
+            "annotation_id": "MY_025"
+        },
+        {
+            "decision": "A-fib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2616,
+            "end_offset": 2621,
+            "annotation_id": "MY_026"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2622,
+            "end_offset": 2626,
+            "annotation_id": "MY_027"
+        },
+        {
+            "decision": "on 2L home O2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2627,
+            "end_offset": 2640,
+            "annotation_id": "MY_028"
+        },
+        {
+            "decision": "asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2641,
+            "end_offset": 2647,
+            "annotation_id": "MY_029"
+        },
+        {
+            "decision": "depression/anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2648,
+            "end_offset": 2666,
+            "annotation_id": "MY_030"
+        },
+        {
+            "decision": "T12 compression fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2667,
+            "end_offset": 2691,
+            "annotation_id": "MY_031"
+        },
+        {
+            "decision": "Multiple hip fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2692,
+            "end_offset": 2714,
+            "annotation_id": "MY_032"
+        },
+        {
+            "decision": "back surgery ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2715,
+            "end_offset": 2727,
+            "annotation_id": "MY_033"
+        },
+        {
+            "decision": "multiple hip surgeries ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2750,
+            "end_offset": 2772,
+            "annotation_id": "MY_034"
+        },
+        {
+            "decision": "right eye blindness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2796,
+            "end_offset": 2815,
+            "annotation_id": "MY_035"
+        },
+        {
+            "decision": "Degenerative disk disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2816,
+            "end_offset": 2841,
+            "annotation_id": "MY_036"
+        },
+        {
+            "decision": "Low back pain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2843,
+            "end_offset": 2856,
+            "annotation_id": "MY_037"
+        },
+        {
+            "decision": "Lumbar radiculitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2858,
+            "end_offset": 2876,
+            "annotation_id": "MY_038"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3339,
+            "end_offset": 3382,
+            "annotation_id": "MY_039"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MM dry, oropharynx clear. R eye blue and blind.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3383,
+            "end_offset": 3454,
+            "annotation_id": "MY_040"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally. Rhonchi in RLL, but otherwise no wheezes, rales",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3456,
+            "end_offset": 3545,
+            "annotation_id": "MY_041"
+        },
+        {
+            "decision": "CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3546,
+            "end_offset": 3620,
+            "annotation_id": "MY_042"
+        },
+        {
+            "decision": "Abdomen: softly distended, minimally TTP in LLL, bowel sounds present, no guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3621,
+            "end_offset": 3703,
+            "annotation_id": "MY_043"
+        },
+        {
+            "decision": "Ext: Cool, 1+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3704,
+            "end_offset": 3756,
+            "annotation_id": "MY_044"
+        },
+        {
+            "decision": "BLOOD Vanco",
+            "category": "Category 5: Drug related",
+            "start_offset": 4777,
+            "end_offset": 4788,
+            "annotation_id": "MY_045"
+        },
+        {
+            "decision": "BLOOD Digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4819,
+            "end_offset": 4832,
+            "annotation_id": "MY_046"
+        },
+        {
+            "decision": "Blood Culture, Routine (Preliminary):       STAPHYLOCOCCUS, COAGULASE NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5323,
+            "end_offset": 5401,
+            "annotation_id": "MY_047"
+        },
+        {
+            "decision": "Anaerobic Bottle Gram Stain (Final [**2173-4-12**]):       Reported to and read back by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ 1622 ON [**4-11**] - [**Numeric Identifier 6650**].       GRAM POSITIVE COCCI.       IN CLUSTERS.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5515,
+            "end_offset": 5767,
+            "annotation_id": "MY_048"
+        },
+        {
+            "decision": "URINE CULTURE  no growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5786,
+            "end_offset": 5810,
+            "annotation_id": "MY_049"
+        },
+        {
+            "decision": "BLOOD CULTURES  NGTD",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5848,
+            "end_offset": 5868,
+            "annotation_id": "MY_050"
+        },
+        {
+            "decision": "CHEST (PORTABLE AP): Low lung volumes with bibasilar atelectasis. Difficult to exclude small right pleural effusion. No definite evidence of pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5894,
+            "end_offset": 6044,
+            "annotation_id": "MY_051"
+        },
+        {
+            "decision": "CTA CHEST W&W/O C&RECONS, NON-CORONARY: Extensive mediastinal and hilar lymphadenopathy, with narrowing of right lower lobe bronchi, causing moderate right lower lobe atelectasis, with a small right pleural effusion and small right lower lobe consolidation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6182,
+            "end_offset": 6438,
+            "annotation_id": "MY_052"
+        },
+        {
+            "decision": "Multiple right pulmonary nodules measure up to 11 mm. The findings are suspicious for a neoplastic process. Reactive lymphadenopathy from infection is also possible.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6440,
+            "end_offset": 6604,
+            "annotation_id": "MY_053"
+        },
+        {
+            "decision": "No pulmonary embolus detected to the subsegmental levels",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6606,
+            "end_offset": 6662,
+            "annotation_id": "MY_054"
+        },
+        {
+            "decision": "Moderate atherosclerotic soft plaque throughout the thoracic aorta",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6664,
+            "end_offset": 6730,
+            "annotation_id": "MY_055"
+        },
+        {
+            "decision": "Severe coronary vessel disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6732,
+            "end_offset": 6762,
+            "annotation_id": "MY_056"
+        },
+        {
+            "decision": "Calcifications within the aortic valve",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6764,
+            "end_offset": 6802,
+            "annotation_id": "MY_057"
+        },
+        {
+            "decision": "Cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6853,
+            "end_offset": 6867,
+            "annotation_id": "MY_058"
+        },
+        {
+            "decision": "Gynecomastia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6869,
+            "end_offset": 6881,
+            "annotation_id": "MY_059"
+        },
+        {
+            "decision": "Ultrasound of lower extremity",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6900,
+            "end_offset": 6929,
+            "annotation_id": "MY_060"
+        },
+        {
+            "decision": "The visualized vessels are patent and compressible",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7118,
+            "end_offset": 7168,
+            "annotation_id": "MY_061"
+        },
+        {
+            "decision": "Normal augmentation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7170,
+            "end_offset": 7189,
+            "annotation_id": "MY_062"
+        },
+        {
+            "decision": "No thrombus is identified",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7191,
+            "end_offset": 7216,
+            "annotation_id": "MY_063"
+        },
+        {
+            "decision": "There is arterialization of the SFV waveform with lack of forward flow in diastole which could be in keeping with congestive heart failure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7218,
+            "end_offset": 7356,
+            "annotation_id": "MY_064"
+        },
+        {
+            "decision": "congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7332,
+            "end_offset": 7356,
+            "annotation_id": "MY_065"
+        },
+        {
+            "decision": "No evidence of DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7373,
+            "end_offset": 7391,
+            "annotation_id": "MY_066"
+        },
+        {
+            "decision": "CXR:  FINDINGS: In comparison with study of [**4-13**], there are continued low lung volumes with enlargement of the cardiac silhouette ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7410,
+            "end_offset": 7545,
+            "annotation_id": "MY_067"
+        },
+        {
+            "decision": "pulmonary edema.  Bibasilar atelectasis and probable small pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7550,
+            "end_offset": 7626,
+            "annotation_id": "MY_068"
+        },
+        {
+            "decision": "there is little change from the previous study.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7637,
+            "end_offset": 7683,
+            "annotation_id": "MY_069"
+        },
+        {
+            "decision": "CXR:  FINDINGS: Mild pulmonary edema and bibasilar atelectasis, left side more than right and small bilateral pleural effusions are unchanged over past 24 hours",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7702,
+            "end_offset": 7862,
+            "annotation_id": "MY_070"
+        },
+        {
+            "decision": "Mediastinal congestion is also similar",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7865,
+            "end_offset": 7903,
+            "annotation_id": "MY_071"
+        },
+        {
+            "decision": "Mild pulmonary edema, bibasal atelectasis and small pleural effusions are unchanged over last 24 hours.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7917,
+            "end_offset": 8019,
+            "annotation_id": "MY_072"
+        },
+        {
+            "decision": "CXR:  FINDINGS: Compared to the prior radiograph, there is now mroe prominent interstitial thickening consistent with worsening pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8038,
+            "end_offset": 8181,
+            "annotation_id": "MY_073"
+        },
+        {
+            "decision": "Again seen are small bilateral pleural effusions, cardiomegaly and retrocardiac opacification, likely atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8183,
+            "end_offset": 8296,
+            "annotation_id": "MY_074"
+        },
+        {
+            "decision": "There is no focal consolidation or pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8298,
+            "end_offset": 8345,
+            "annotation_id": "MY_075"
+        },
+        {
+            "decision": "Aorta is tortuous",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8347,
+            "end_offset": 8364,
+            "annotation_id": "MY_076"
+        },
+        {
+            "decision": "Worsening moderate pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8381,
+            "end_offset": 8415,
+            "annotation_id": "MY_077"
+        },
+        {
+            "decision": "Stable bibasilar atelectasis and pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8420,
+            "end_offset": 8470,
+            "annotation_id": "MY_078"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8576,
+            "end_offset": 8580,
+            "annotation_id": "MY_079"
+        },
+        {
+            "decision": "2L home oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8584,
+            "end_offset": 8598,
+            "annotation_id": "MY_080"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8603,
+            "end_offset": 8622,
+            "annotation_id": "MY_081"
+        },
+        {
+            "decision": "hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8674,
+            "end_offset": 8681,
+            "annotation_id": "MY_082"
+        },
+        {
+            "decision": "RLL HCAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8715,
+            "end_offset": 8723,
+            "annotation_id": "MY_083"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8729,
+            "end_offset": 8739,
+            "annotation_id": "MY_084"
+        },
+        {
+            "decision": "Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8744,
+            "end_offset": 8749,
+            "annotation_id": "MY_085"
+        },
+        {
+            "decision": "complicated by atrial fibrillation with RVR and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8771,
+            "end_offset": 8830,
+            "annotation_id": "MY_086"
+        },
+        {
+            "decision": "requiring brief MICU stay for closer monitoring",
+            "category": "Category 1: Contact related",
+            "start_offset": 8832,
+            "end_offset": 8879,
+            "annotation_id": "MY_087"
+        },
+        {
+            "decision": "worsening respiratory failure ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8902,
+            "end_offset": 8931,
+            "annotation_id": "MY_088"
+        },
+        {
+            "decision": "was made CMO",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 8936,
+            "end_offset": 8948,
+            "annotation_id": "MY_089"
+        },
+        {
+            "decision": "Hypoxic Respiratory Distress: Patient presented with hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9009,
+            "end_offset": 9069,
+            "annotation_id": "MY_090"
+        },
+        {
+            "decision": "6L supplemental oxygen by nasal cannula",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9080,
+            "end_offset": 9119,
+            "annotation_id": "MY_091"
+        },
+        {
+            "decision": "Hypoxia occurred in the setting of baseline COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9121,
+            "end_offset": 9169,
+            "annotation_id": "MY_092"
+        },
+        {
+            "decision": "2L of home oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9180,
+            "end_offset": 9197,
+            "annotation_id": "MY_093"
+        },
+        {
+            "decision": "patient's poor lung function was most likely exacerbated by a possible right lower lobe pneumonia, noted on CXR but not on CTA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9221,
+            "end_offset": 9347,
+            "annotation_id": "MY_094"
+        },
+        {
+            "decision": "x-ray imaging showed some evidence of pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9363,
+            "end_offset": 9416,
+            "annotation_id": "MY_095"
+        },
+        {
+            "decision": "Patient was evaluated by Speech and Swallow ",
+            "category": "Category 1: Contact related",
+            "start_offset": 9418,
+            "end_offset": 9461,
+            "annotation_id": "MY_096"
+        },
+        {
+            "decision": "was determined to have no overt aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9466,
+            "end_offset": 9508,
+            "annotation_id": "MY_097"
+        },
+        {
+            "decision": "CTA showed no evidence of pulmonary embolism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9510,
+            "end_offset": 9554,
+            "annotation_id": "MY_098"
+        },
+        {
+            "decision": "Troponins were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9556,
+            "end_offset": 9579,
+            "annotation_id": "MY_099"
+        },
+        {
+            "decision": "4L NC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9607,
+            "end_offset": 9612,
+            "annotation_id": "MY_100"
+        },
+        {
+            "decision": "NRB and facemask",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9680,
+            "end_offset": 9696,
+            "annotation_id": "MY_101"
+        },
+        {
+            "decision": "developed afib with RVR and hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9719,
+            "end_offset": 9758,
+            "annotation_id": "MY_102"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9771,
+            "end_offset": 9780,
+            "annotation_id": "MY_103"
+        },
+        {
+            "decision": "treated empirically with vancomycin and Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9785,
+            "end_offset": 9830,
+            "annotation_id": "MY_104"
+        },
+        {
+            "decision": "he experienced flash pulmonary edema in response to an episode of agitation and hypertension.  His respiratory function continued to be poor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9847,
+            "end_offset": 9987,
+            "annotation_id": "MY_105"
+        },
+        {
+            "decision": "with NRB or high-flow face mask requirement ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9988,
+            "end_offset": 10031,
+            "annotation_id": "MY_106"
+        },
+        {
+            "decision": "diuresis and antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10040,
+            "end_offset": 10064,
+            "annotation_id": "MY_107"
+        },
+        {
+            "decision": "thought to be due to HCAP, likely post-obstructive, combined with flash pulmonary edema and underlying COPD. He was not able to cough, and therefore was unable to clear any infectious component. His prognosis was thought to be poor given his lack of response to treatment and progressive respiratory decline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10075,
+            "end_offset": 10382,
+            "annotation_id": "MY_108"
+        },
+        {
+            "decision": "ipratropium nebulizers",
+            "category": "Category 5: Drug related",
+            "start_offset": 10449,
+            "end_offset": 10471,
+            "annotation_id": "MY_109"
+        },
+        {
+            "decision": "nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10461,
+            "end_offset": 10471,
+            "annotation_id": "MY_110"
+        },
+        {
+            "decision": "He used a highflow facemask for supplemental oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10495,
+            "end_offset": 10546,
+            "annotation_id": "MY_111"
+        },
+        {
+            "decision": "respiratory distress ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10560,
+            "end_offset": 10580,
+            "annotation_id": "MY_112"
+        },
+        {
+            "decision": "treated with morphine and lorzepam as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 10586,
+            "end_offset": 10630,
+            "annotation_id": "MY_113"
+        },
+        {
+            "decision": "respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10692,
+            "end_offset": 10711,
+            "annotation_id": "MY_114"
+        },
+        {
+            "decision": "possible RLL PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10786,
+            "end_offset": 10802,
+            "annotation_id": "MY_115"
+        },
+        {
+            "decision": "One set of BCx's did grow CONS, but this was probably a contaminant. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10804,
+            "end_offset": 10871,
+            "annotation_id": "MY_116"
+        },
+        {
+            "decision": "Other cultures returned negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10873,
+            "end_offset": 10905,
+            "annotation_id": "MY_117"
+        },
+        {
+            "decision": "CTA was negative for PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10917,
+            "end_offset": 10940,
+            "annotation_id": "MY_118"
+        },
+        {
+            "decision": "treated empirically with vanc/Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 10954,
+            "end_offset": 10989,
+            "annotation_id": "MY_119"
+        },
+        {
+            "decision": "switched to an oral regimen with Augmentin and azithromycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 11001,
+            "end_offset": 11060,
+            "annotation_id": "MY_120"
+        },
+        {
+            "decision": "antibiotics were continued until decision was made to pursue comfort-focused care.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11076,
+            "end_offset": 11157,
+            "annotation_id": "MY_121"
+        },
+        {
+            "decision": "Afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11162,
+            "end_offset": 11166,
+            "annotation_id": "MY_122"
+        },
+        {
+            "decision": "digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 11204,
+            "end_offset": 11211,
+            "annotation_id": "MY_123"
+        },
+        {
+            "decision": "atenolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 11216,
+            "end_offset": 11224,
+            "annotation_id": "MY_124"
+        },
+        {
+            "decision": "for afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11225,
+            "end_offset": 11233,
+            "annotation_id": "MY_125"
+        },
+        {
+            "decision": "developed RVR with rates up to 200. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11259,
+            "end_offset": 11293,
+            "annotation_id": "MY_126"
+        },
+        {
+            "decision": "metoprolol tartrate 5 mg IV x3",
+            "category": "Category 5: Drug related",
+            "start_offset": 11332,
+            "end_offset": 11362,
+            "annotation_id": "MY_127"
+        },
+        {
+            "decision": "diltiazem 5 mg IV x2 ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11364,
+            "end_offset": 11384,
+            "annotation_id": "MY_128"
+        },
+        {
+            "decision": "metoprolol tartrate 25 mg PO x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 11389,
+            "end_offset": 11420,
+            "annotation_id": "MY_129"
+        },
+        {
+            "decision": "with subsequent return of rate to low 100s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11422,
+            "end_offset": 11464,
+            "annotation_id": "MY_130"
+        },
+        {
+            "decision": "Trigger for afib with RVR was likely multifactorial from systemic stress of infection, volume overload and possible hypercarbia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11466,
+            "end_offset": 11593,
+            "annotation_id": "MY_131"
+        },
+        {
+            "decision": "hypotensive episode ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11746,
+            "end_offset": 11765,
+            "annotation_id": "MY_132"
+        },
+        {
+            "decision": "restarted to avoid Afib with RVR and subsequent flashing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11779,
+            "end_offset": 11835,
+            "annotation_id": "MY_133"
+        },
+        {
+            "decision": "started on metoprolol tartrate with good rate control.  This was later held for a day due to hypotensive episode on HD3, then restarted to avoid Afib with RVR and subsequent flashing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11653,
+            "end_offset": 11835,
+            "annotation_id": "MY_134"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11840,
+            "end_offset": 11851,
+            "annotation_id": "MY_135"
+        },
+        {
+            "decision": "beta blockers",
+            "category": "Category 5: Drug related",
+            "start_offset": 11877,
+            "end_offset": 11890,
+            "annotation_id": "MY_136"
+        },
+        {
+            "decision": "calcium channel blockers",
+            "category": "Category 5: Drug related",
+            "start_offset": 11895,
+            "end_offset": 11919,
+            "annotation_id": "MY_137"
+        },
+        {
+            "decision": "patient developed hypotension to SBPs in the 70s-80s. This was most likely secondary to medication effects and volume overload with relative intravascular repletion. Differential also included pulmonary embolism, myocardial infarction, sepsis and hypovolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11938,
+            "end_offset": 12196,
+            "annotation_id": "MY_138"
+        },
+        {
+            "decision": "LLE Doppler was negative for DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12198,
+            "end_offset": 12230,
+            "annotation_id": "MY_139"
+        },
+        {
+            "decision": "EKG without any acute changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12232,
+            "end_offset": 12261,
+            "annotation_id": "MY_140"
+        },
+        {
+            "decision": "Patient appeared euvolemic on exam, but exhibited pulmonary edema on CXR. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12263,
+            "end_offset": 12335,
+            "annotation_id": "MY_141"
+        },
+        {
+            "decision": "transferred to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12344,
+            "end_offset": 12367,
+            "annotation_id": "MY_142"
+        },
+        {
+            "decision": "anti-hypertensive medication was held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12419,
+            "end_offset": 12456,
+            "annotation_id": "MY_143"
+        },
+        {
+            "decision": "his BP returned to [**Location 213**] levels.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12461,
+            "end_offset": 12505,
+            "annotation_id": "MY_144"
+        },
+        {
+            "decision": "Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12510,
+            "end_offset": 12526,
+            "annotation_id": "MY_145"
+        },
+        {
+            "decision": "Pt's plt count now downtrended to 78 at its nadir, but had values in the low 100s (113, 134) in [**6-/2172**] as well",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12528,
+            "end_offset": 12645,
+            "annotation_id": "MY_146"
+        },
+        {
+            "decision": "No obvious signs of bleeding. Other possible etiology is possible MDS. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12678,
+            "end_offset": 12747,
+            "annotation_id": "MY_147"
+        },
+        {
+            "decision": "LFTs were normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12749,
+            "end_offset": 12765,
+            "annotation_id": "MY_148"
+        },
+        {
+            "decision": "AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12770,
+            "end_offset": 12773,
+            "annotation_id": "MY_149"
+        },
+        {
+            "decision": "The patient experienced some delirium with reduced orientation.  This was most likely due to pneumonia and respiratory distress.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12774,
+            "end_offset": 12901,
+            "annotation_id": "MY_150"
+        },
+        {
+            "decision": "dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12920,
+            "end_offset": 12928,
+            "annotation_id": "MY_151"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12933,
+            "end_offset": 12936,
+            "annotation_id": "MY_152"
+        },
+        {
+            "decision": "Increased creatinine from 1.0 to 1.3 on MICU admission, returned to baseline 1.1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12939,
+            "end_offset": 13019,
+            "annotation_id": "MY_153"
+        },
+        {
+            "decision": "Likely result of poor forward flow in the setting of AF with RVR and may have pre-renal given poor po intake, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13022,
+            "end_offset": 13130,
+            "annotation_id": "MY_154"
+        },
+        {
+            "decision": " elevated BUN",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13132,
+            "end_offset": 13144,
+            "annotation_id": "MY_155"
+        },
+        {
+            "decision": "AF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13149,
+            "end_offset": 13151,
+            "annotation_id": "MY_156"
+        },
+        {
+            "decision": "metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 13170,
+            "end_offset": 13180,
+            "annotation_id": "MY_157"
+        },
+        {
+            "decision": "digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 13185,
+            "end_offset": 13192,
+            "annotation_id": "MY_158"
+        },
+        {
+            "decision": "  Metoprolol was briefly held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13195,
+            "end_offset": 13222,
+            "annotation_id": "MY_159"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13227,
+            "end_offset": 13238,
+            "annotation_id": "MY_160"
+        },
+        {
+            "decision": "Has CHADS at least 2, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13241,
+            "end_offset": 13261,
+            "annotation_id": "MY_161"
+        },
+        {
+            "decision": "not anticoagulated",
+            "category": "Category 5: Drug related",
+            "start_offset": 13267,
+            "end_offset": 13285,
+            "annotation_id": "MY_162"
+        },
+        {
+            "decision": "likely due to history of falls",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13287,
+            "end_offset": 13317,
+            "annotation_id": "MY_163"
+        },
+        {
+            "decision": "Lung mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13322,
+            "end_offset": 13331,
+            "annotation_id": "MY_164"
+        },
+        {
+            "decision": "Incidental finding on CT chest",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13334,
+            "end_offset": 13364,
+            "annotation_id": "MY_165"
+        },
+        {
+            "decision": "antibiotics and diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 13545,
+            "end_offset": 13569,
+            "annotation_id": "MY_166"
+        },
+        {
+            "decision": "The patient's respiratory status continued to degrade despite antibiotics and diuresis.  He was uncomfortable on turning and dyspnic with mild exertion.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13483,
+            "end_offset": 13634,
+            "annotation_id": "MY_167"
+        },
+        {
+            "decision": "against intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13665,
+            "end_offset": 13683,
+            "annotation_id": "MY_168"
+        },
+        {
+            "decision": "non-rebreather and high-flow face mask ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13707,
+            "end_offset": 13745,
+            "annotation_id": "MY_169"
+        },
+        {
+            "decision": "dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13768,
+            "end_offset": 13775,
+            "annotation_id": "MY_170"
+        },
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13780,
+            "end_offset": 13799,
+            "annotation_id": "MY_171"
+        },
+        {
+            "decision": "morphine IV and then PO",
+            "category": "Category 5: Drug related",
+            "start_offset": 13826,
+            "end_offset": 13849,
+            "annotation_id": "MY_172"
+        },
+        {
+            "decision": "Palliative Care team was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 13856,
+            "end_offset": 13890,
+            "annotation_id": "MY_173"
+        },
+        {
+            "decision": "comfort measures ",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 14057,
+            "end_offset": 14073,
+            "annotation_id": "MY_174"
+        },
+        {
+            "decision": "Antibiotics and most medications were discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 14098,
+            "end_offset": 14148,
+            "annotation_id": "MY_175"
+        },
+        {
+            "decision": "Hospice care ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14150,
+            "end_offset": 14162,
+            "annotation_id": "MY_176"
+        },
+        {
+            "decision": "continued on the medical floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 14167,
+            "end_offset": 14197,
+            "annotation_id": "MY_177"
+        },
+        {
+            "decision": "tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14280,
+            "end_offset": 14382,
+            "annotation_id": "MY_178"
+        },
+        {
+            "decision": "citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14388,
+            "end_offset": 14447,
+            "annotation_id": "MY_179"
+        },
+        {
+            "decision": "fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig: One (1) puff Inhalation [**Hospital1 **] (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14454,
+            "end_offset": 14570,
+            "annotation_id": "MY_180"
+        },
+        {
+            "decision": "pravastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14576,
+            "end_offset": 14638,
+            "annotation_id": "MY_181"
+        },
+        {
+            "decision": "aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14644,
+            "end_offset": 14701,
+            "annotation_id": "MY_182"
+        },
+        {
+            "decision": "atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14707,
+            "end_offset": 14760,
+            "annotation_id": "MY_183"
+        },
+        {
+            "decision": "lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14766,
+            "end_offset": 14879,
+            "annotation_id": "MY_184"
+        },
+        {
+            "decision": "lactulose 10 gram/15 mL Syrup Sig: Two (2) ML PO BID (2 times  a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14885,
+            "end_offset": 14953,
+            "annotation_id": "MY_185"
+        },
+        {
+            "decision": "oxycodone 5 mg Tablet Sig: [**12-21**] Tablet PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14959,
+            "end_offset": 15046,
+            "annotation_id": "MY_186"
+        },
+        {
+            "decision": "acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15052,
+            "end_offset": 15121,
+            "annotation_id": "MY_187"
+        },
+        {
+            "decision": "furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 15128,
+            "end_offset": 15189,
+            "annotation_id": "MY_188"
+        },
+        {
+            "decision": "Nebulization ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15246,
+            "end_offset": 15258,
+            "annotation_id": "MY_189"
+        },
+        {
+            "decision": "DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for Nebulization Sig: One (1) puff Inhalation three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15196,
+            "end_offset": 15305,
+            "annotation_id": "MY_190"
+        },
+        {
+            "decision": "senna 8.6 mg Tablet Sig: Two (2) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15311,
+            "end_offset": 15365,
+            "annotation_id": "MY_191"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15453,
+            "end_offset": 15465,
+            "annotation_id": "MY_192"
+        },
+        {
+            "decision": "Miralax 17 gram Powder in Packet Sig: One (1) packet PO once \t a day as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15371,
+            "end_offset": 15465,
+            "annotation_id": "MY_193"
+        },
+        {
+            "decision": "oxycodone 5 mg Tablet Sig: 0.5 (half) Tablet PO q6h:PRN as needed for moderate-severe pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15471,
+            "end_offset": 15561,
+            "annotation_id": "MY_194"
+        },
+        {
+            "decision": "digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 15567,
+            "end_offset": 15623,
+            "annotation_id": "MY_195"
+        },
+        {
+            "decision": "Lorazepam 0.5mg tab: one-half tab (0.25mg) PO TID prn anxiety",
+            "category": "Category 5: Drug related",
+            "start_offset": 15629,
+            "end_offset": 15690,
+            "annotation_id": "MY_196"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15683,
+            "end_offset": 15690,
+            "annotation_id": "MY_197"
+        },
+        {
+            "decision": "Mucinex 600mg tab: 1 tab PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 15695,
+            "end_offset": 15726,
+            "annotation_id": "MY_198"
+        },
+        {
+            "decision": "respiratory failure with HCAP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15809,
+            "end_offset": 15838,
+            "annotation_id": "MY_199"
+        },
+        {
+            "decision": "acute on chronic diastolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15843,
+            "end_offset": 15873,
+            "annotation_id": "MY_200"
+        }
+    ]
+}

@@ -1,0 +1,937 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "46467_116534_46525",
+    "annotations": [
+        {
+            "decision": "worsening shortness of breath, fatigue and dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 270,
+            "end_offset": 320,
+            "annotation_id": "LW_000"
+        },
+        {
+            "decision": "Aortic valve replacement 25-mm Biocor Epic tissue valve",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 378,
+            "end_offset": 433,
+            "annotation_id": "LW_001"
+        },
+        {
+            "decision": "Coronary artery bypass grafting x3: Left internal mammary artery graft to left anterior descending, reverse saphenous vein graft to the marginal branch and the posterior descending artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 438,
+            "end_offset": 625,
+            "annotation_id": "LW_002"
+        },
+        {
+            "decision": "aortic stenosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 698,
+            "end_offset": 713,
+            "annotation_id": "LW_003"
+        },
+        {
+            "decision": "echo ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 740,
+            "end_offset": 744,
+            "annotation_id": "LW_004"
+        },
+        {
+            "decision": "murmur ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 765,
+            "end_offset": 771,
+            "annotation_id": "LW_005"
+        },
+        {
+            "decision": "left total hip replacement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 785,
+            "end_offset": 811,
+            "annotation_id": "LW_006"
+        },
+        {
+            "decision": "Echo revealed moderate aortic stenosis with peak/mean gradient 62/38",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 813,
+            "end_offset": 881,
+            "annotation_id": "LW_007"
+        },
+        {
+            "decision": "echocardiograms ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 913,
+            "end_offset": 928,
+            "annotation_id": "LW_008"
+        },
+        {
+            "decision": "He noted a marked decrease in exercise tolerance with generalized fatigue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 958,
+            "end_offset": 1031,
+            "annotation_id": "LW_009"
+        },
+        {
+            "decision": "He also complains of dyspnea on exertion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1033,
+            "end_offset": 1073,
+            "annotation_id": "LW_010"
+        },
+        {
+            "decision": "He attributes some of these symptoms to fairly severe arthritis in his knees and hips",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1075,
+            "end_offset": 1160,
+            "annotation_id": "LW_011"
+        },
+        {
+            "decision": "echo showed severe AS (similar to echo in [**2099**]),",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1178,
+            "end_offset": 1230,
+            "annotation_id": "LW_012"
+        },
+        {
+            "decision": "Aortic stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1329,
+            "end_offset": 1344,
+            "annotation_id": "LW_013"
+        },
+        {
+            "decision": "Insulin dependent Diabetes Mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1345,
+            "end_offset": 1380,
+            "annotation_id": "LW_014"
+        },
+        {
+            "decision": "Arthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1381,
+            "end_offset": 1390,
+            "annotation_id": "LW_015"
+        },
+        {
+            "decision": "Rheumatic heart disiease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1391,
+            "end_offset": 1415,
+            "annotation_id": "LW_016"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1416,
+            "end_offset": 1439,
+            "annotation_id": "LW_017"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1440,
+            "end_offset": 1452,
+            "annotation_id": "LW_018"
+        },
+        {
+            "decision": "Prostate cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1453,
+            "end_offset": 1468,
+            "annotation_id": "LW_019"
+        },
+        {
+            "decision": "radiation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1482,
+            "end_offset": 1491,
+            "annotation_id": "LW_020"
+        },
+        {
+            "decision": "treated with radiation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1469,
+            "end_offset": 1491,
+            "annotation_id": "LW_021"
+        },
+        {
+            "decision": "s/p Left total hip replacement at the [**Hospital3 **] in [**12-15**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1497,
+            "end_offset": 1566,
+            "annotation_id": "LW_022"
+        },
+        {
+            "decision": "s/p Bilateral knee replacements in [**2096**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1567,
+            "end_offset": 1612,
+            "annotation_id": "LW_023"
+        },
+        {
+            "decision": "Right shoulder surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1613,
+            "end_offset": 1635,
+            "annotation_id": "LW_024"
+        },
+        {
+            "decision": "Prostatectomy [**2075**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1636,
+            "end_offset": 1660,
+            "annotation_id": "LW_025"
+        },
+        {
+            "decision": "NAD, WGWN, appears younger than stated age",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2087,
+            "end_offset": 2129,
+            "annotation_id": "LW_026"
+        },
+        {
+            "decision": "Dry [x] intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2136,
+            "end_offset": 2153,
+            "annotation_id": "LW_027"
+        },
+        {
+            "decision": "PERRLA [] EOMI [x] fixed pupils (cataracts)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2162,
+            "end_offset": 2204,
+            "annotation_id": "LW_028"
+        },
+        {
+            "decision": "Supple [x] Full ROM [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2212,
+            "end_offset": 2234,
+            "annotation_id": "LW_029"
+        },
+        {
+            "decision": "Lungs clear bilaterally [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2243,
+            "end_offset": 2269,
+            "annotation_id": "LW_030"
+        },
+        {
+            "decision": "RRR [x] Irregular [] Murmur 3/6 systolic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2278,
+            "end_offset": 2318,
+            "annotation_id": "LW_031"
+        },
+        {
+            "decision": "Soft [x] non-distended [x] non-tender [x] + BS [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2328,
+            "end_offset": 2377,
+            "annotation_id": "LW_032"
+        },
+        {
+            "decision": "Warm [x], well-perfused [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2392,
+            "end_offset": 2418,
+            "annotation_id": "LW_033"
+        },
+        {
+            "decision": "trace pedal edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2427,
+            "end_offset": 2444,
+            "annotation_id": "LW_034"
+        },
+        {
+            "decision": "None [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2459,
+            "end_offset": 2466,
+            "annotation_id": "LW_035"
+        },
+        {
+            "decision": "Grossly intact  [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2475,
+            "end_offset": 2493,
+            "annotation_id": "LW_036"
+        },
+        {
+            "decision": "Femoral      Right: 1+  Left:1+ DP           Right: 1+  Left:1+ PT           [**Name (NI) 167**]: 1+  Left:1+ Radial       Right: cath  Left:1+  Carotid Bruit  -radiated murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2503,
+            "end_offset": 2679,
+            "annotation_id": "LW_037"
+        },
+        {
+            "decision": "ECHO ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3577,
+            "end_offset": 3581,
+            "annotation_id": "LW_038"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3609,
+            "end_offset": 3663,
+            "annotation_id": "LW_039"
+        },
+        {
+            "decision": "There is moderate symmetric left ventricular hypertrophy.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3665,
+            "end_offset": 3721,
+            "annotation_id": "LW_040"
+        },
+        {
+            "decision": "The left ventricular cavity size is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3723,
+            "end_offset": 3765,
+            "annotation_id": "LW_041"
+        },
+        {
+            "decision": "Regional left ventricular wall motion is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3767,
+            "end_offset": 3814,
+            "annotation_id": "LW_042"
+        },
+        {
+            "decision": "Overall left ventricular systolic function is normal (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3816,
+            "end_offset": 3877,
+            "annotation_id": "LW_043"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3881,
+            "end_offset": 3943,
+            "annotation_id": "LW_044"
+        },
+        {
+            "decision": "The ascending aorta is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3945,
+            "end_offset": 3982,
+            "annotation_id": "LW_045"
+        },
+        {
+            "decision": "The descending thoracic aorta is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3984,
+            "end_offset": 4031,
+            "annotation_id": "LW_046"
+        },
+        {
+            "decision": "There are simple atheroma in the descending thoracic aorta",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4033,
+            "end_offset": 4091,
+            "annotation_id": "LW_047"
+        },
+        {
+            "decision": "The aortic valve leaflets are severely thickened/deformed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4093,
+            "end_offset": 4150,
+            "annotation_id": "LW_048"
+        },
+        {
+            "decision": "There is critical aortic valve stenosis (valve area <0.8cm2)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4152,
+            "end_offset": 4211,
+            "annotation_id": "LW_049"
+        },
+        {
+            "decision": "Mild (1+) aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4214,
+            "end_offset": 4252,
+            "annotation_id": "LW_050"
+        },
+        {
+            "decision": "The mitral valve leaflets are moderately thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4254,
+            "end_offset": 4304,
+            "annotation_id": "LW_051"
+        },
+        {
+            "decision": "There is borderline functional mitral stenosis due to mitral annular calcification (MVA-2.2 cm2) Mild (1+) mitral regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4306,
+            "end_offset": 4441,
+            "annotation_id": "LW_052"
+        },
+        {
+            "decision": "There is preserved biventricular systolic function",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4455,
+            "end_offset": 4505,
+            "annotation_id": "LW_053"
+        },
+        {
+            "decision": "There is a well seated, well functioning bioprosthesis in the aortic position",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4507,
+            "end_offset": 4584,
+            "annotation_id": "LW_054"
+        },
+        {
+            "decision": "There is trace valvular AI",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4586,
+            "end_offset": 4612,
+            "annotation_id": "LW_055"
+        },
+        {
+            "decision": "Chest x-ray ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4663,
+            "end_offset": 4674,
+            "annotation_id": "LW_056"
+        },
+        {
+            "decision": "shows a stable postoperative appearance to the enlarged mediastinum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4743,
+            "end_offset": 4810,
+            "annotation_id": "LW_057"
+        },
+        {
+            "decision": "Aside from mild right basal atelectasis, lungs are clear",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4812,
+            "end_offset": 4868,
+            "annotation_id": "LW_058"
+        },
+        {
+            "decision": "Pleural effusions are small if any",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4870,
+            "end_offset": 4904,
+            "annotation_id": "LW_059"
+        },
+        {
+            "decision": "No pneumothorax or pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4906,
+            "end_offset": 4940,
+            "annotation_id": "LW_060"
+        },
+        {
+            "decision": "Aortic valve replacement and Coronary artery bypass grafting x3",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5079,
+            "end_offset": 5142,
+            "annotation_id": "LW_061"
+        },
+        {
+            "decision": "Aortic valve replacement 25-mm Biocor Epic tissue valve and Coronary artery bypass grafting x3 with left internal mammary artery graft to left anterior descending, reverse saphenous vein graft to the marginal branch and the posterior descending artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5202,
+            "end_offset": 5453,
+            "annotation_id": "LW_062"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5605,
+            "end_offset": 5614,
+            "annotation_id": "LW_063"
+        },
+        {
+            "decision": "propofol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5630,
+            "end_offset": 5638,
+            "annotation_id": "LW_064"
+        },
+        {
+            "decision": "neo ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5646,
+            "end_offset": 5649,
+            "annotation_id": "LW_065"
+        },
+        {
+            "decision": "rapid afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5776,
+            "end_offset": 5786,
+            "annotation_id": "LW_066"
+        },
+        {
+            "decision": "IV Lopressor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5810,
+            "end_offset": 5822,
+            "annotation_id": "LW_067"
+        },
+        {
+            "decision": "amiodarone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5827,
+            "end_offset": 5837,
+            "annotation_id": "LW_068"
+        },
+        {
+            "decision": "neo ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5866,
+            "end_offset": 5869,
+            "annotation_id": "LW_069"
+        },
+        {
+            "decision": "Neo-Synephrine infusion ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5931,
+            "end_offset": 5954,
+            "annotation_id": "LW_070"
+        },
+        {
+            "decision": "Chest tubes and pacing wires were removed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5971,
+            "end_offset": 6012,
+            "annotation_id": "LW_071"
+        },
+        {
+            "decision": "ATN ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6173,
+            "end_offset": 6176,
+            "annotation_id": "LW_072"
+        },
+        {
+            "decision": "Lasix dose",
+            "category": "Category 5: Drug related",
+            "start_offset": 6197,
+            "end_offset": 6207,
+            "annotation_id": "LW_073"
+        },
+        {
+            "decision": "rapid afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6296,
+            "end_offset": 6306,
+            "annotation_id": "LW_074"
+        },
+        {
+            "decision": "beta blocker ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6315,
+            "end_offset": 6327,
+            "annotation_id": "LW_075"
+        },
+        {
+            "decision": "EP was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 6393,
+            "end_offset": 6409,
+            "annotation_id": "LW_076"
+        },
+        {
+            "decision": "Coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6437,
+            "end_offset": 6445,
+            "annotation_id": "LW_077"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6454,
+            "end_offset": 6473,
+            "annotation_id": "LW_078"
+        },
+        {
+            "decision": "He was evaluated by physical therapy ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6528,
+            "end_offset": 6564,
+            "annotation_id": "LW_079"
+        },
+        {
+            "decision": "He was discharged to [**Hospital 24806**] rehab on POD 8.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6671,
+            "end_offset": 6727,
+            "annotation_id": "LW_080"
+        },
+        {
+            "decision": "Insulin Lispro (Humalog) 30 units daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6756,
+            "end_offset": 6795,
+            "annotation_id": "LW_081"
+        },
+        {
+            "decision": "Insulin Glargine [Lantus]100 unit/mL Solution 30U at 2300 hrs",
+            "category": "Category 5: Drug related",
+            "start_offset": 6796,
+            "end_offset": 6857,
+            "annotation_id": "LW_082"
+        },
+        {
+            "decision": "Latanoprost [Xalatan] 0.005 % Drops, 1 drop(s) both eyes bedtime",
+            "category": "Category 5: Drug related",
+            "start_offset": 6858,
+            "end_offset": 6922,
+            "annotation_id": "LW_083"
+        },
+        {
+            "decision": "Proscar 5mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6923,
+            "end_offset": 6940,
+            "annotation_id": "LW_084"
+        },
+        {
+            "decision": "Ramipril 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6941,
+            "end_offset": 6960,
+            "annotation_id": "LW_085"
+        },
+        {
+            "decision": "Aspirin 81mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6961,
+            "end_offset": 6979,
+            "annotation_id": "LW_086"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7007,
+            "end_offset": 7080,
+            "annotation_id": "LW_087"
+        },
+        {
+            "decision": "ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7086,
+            "end_offset": 7150,
+            "annotation_id": "LW_088"
+        },
+        {
+            "decision": "aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7156,
+            "end_offset": 7260,
+            "annotation_id": "LW_089"
+        },
+        {
+            "decision": "simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7266,
+            "end_offset": 7326,
+            "annotation_id": "LW_090"
+        },
+        {
+            "decision": "finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7332,
+            "end_offset": 7391,
+            "annotation_id": "LW_091"
+        },
+        {
+            "decision": "tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 7398,
+            "end_offset": 7481,
+            "annotation_id": "LW_092"
+        },
+        {
+            "decision": "metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7486,
+            "end_offset": 7560,
+            "annotation_id": "LW_093"
+        },
+        {
+            "decision": "latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7566,
+            "end_offset": 7635,
+            "annotation_id": "LW_094"
+        },
+        {
+            "decision": "warfarin 2 mg Tablet Sig: Two (2) Tablet PO once a day for 1 doses: Titrate for a Goal INR 2.0-2.5.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7641,
+            "end_offset": 7739,
+            "annotation_id": "LW_095"
+        },
+        {
+            "decision": "guaifenesin 600 mg Tablet Extended Release Sig: Two (2) Tablet Extended Release PO BID  () for 3 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 7745,
+            "end_offset": 7846,
+            "annotation_id": "LW_096"
+        },
+        {
+            "decision": "insulin glargine 100 unit/mL Solution Sig: Thirty Five (35) Subcutaneous once a day: at breakfast",
+            "category": "Category 5: Drug related",
+            "start_offset": 7852,
+            "end_offset": 7949,
+            "annotation_id": "LW_097"
+        },
+        {
+            "decision": "Insulin sliding scale Please see attached chart for sliding scale insulin (Humalog) dosing",
+            "category": "Category 5: Drug related",
+            "start_offset": 7955,
+            "end_offset": 8045,
+            "annotation_id": "LW_098"
+        },
+        {
+            "decision": "amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): Please take 200mg three times a day for 5 days. Then take 200mg twice daily for 7 days. Finally, take 200mg daily until stopped by cardiologist",
+            "category": "Category 5: Drug related",
+            "start_offset": 8050,
+            "end_offset": 8262,
+            "annotation_id": "LW_099"
+        },
+        {
+            "decision": "Aortic Stenosis/Coronary artery disease s/p Aortic Valve",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8391,
+            "end_offset": 8447,
+            "annotation_id": "LW_100"
+        },
+        {
+            "decision": "Replacement and Coronary artery bypass graft x 3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8448,
+            "end_offset": 8496,
+            "annotation_id": "LW_101"
+        },
+        {
+            "decision": "Diabetes Mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8502,
+            "end_offset": 8519,
+            "annotation_id": "LW_102"
+        },
+        {
+            "decision": "Osteoarthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8520,
+            "end_offset": 8534,
+            "annotation_id": "LW_103"
+        },
+        {
+            "decision": "Rheumatic heart disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8535,
+            "end_offset": 8558,
+            "annotation_id": "LW_104"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8559,
+            "end_offset": 8571,
+            "annotation_id": "LW_105"
+        },
+        {
+            "decision": "Prostate cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8572,
+            "end_offset": 8587,
+            "annotation_id": "LW_106"
+        },
+        {
+            "decision": "s/p XRT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8588,
+            "end_offset": 8595,
+            "annotation_id": "LW_107"
+        },
+        {
+            "decision": "s/p left total hip replcaement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8596,
+            "end_offset": 8626,
+            "annotation_id": "LW_108"
+        },
+        {
+            "decision": "s/p Bilateral knee replacements in [**2096**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8627,
+            "end_offset": 8672,
+            "annotation_id": "LW_109"
+        },
+        {
+            "decision": "s/p Right shoulder surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8673,
+            "end_offset": 8699,
+            "annotation_id": "LW_110"
+        },
+        {
+            "decision": "s/p Prostatectomy [**2075**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8700,
+            "end_offset": 8728,
+            "annotation_id": "LW_111"
+        },
+        {
+            "decision": "Alert and oriented x3 nonfocal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8751,
+            "end_offset": 8781,
+            "annotation_id": "LW_112"
+        },
+        {
+            "decision": "Ambulating with steady gait",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8782,
+            "end_offset": 8809,
+            "annotation_id": "LW_113"
+        },
+        {
+            "decision": "Incisional pain managed with Tramadol",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8810,
+            "end_offset": 8847,
+            "annotation_id": "LW_114"
+        },
+        {
+            "decision": "Tramadol",
+            "category": "Category 5: Drug related",
+            "start_offset": 8839,
+            "end_offset": 8847,
+            "annotation_id": "LW_115"
+        },
+        {
+            "decision": "Sternal - healing well, no erythema or drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8859,
+            "end_offset": 8906,
+            "annotation_id": "LW_116"
+        },
+        {
+            "decision": "Leg Right/Left - healing well, no erythema or drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8907,
+            "end_offset": 8961,
+            "annotation_id": "LW_117"
+        },
+        {
+            "decision": "Edema 1+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8963,
+            "end_offset": 8971,
+            "annotation_id": "LW_118"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8997,
+            "end_offset": 9113,
+            "annotation_id": "LW_119"
+        },
+        {
+            "decision": "Look at your incisions daily for redness or drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9115,
+            "end_offset": 9167,
+            "annotation_id": "LW_120"
+        },
+        {
+            "decision": "Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9168,
+            "end_offset": 9355,
+            "annotation_id": "LW_121"
+        },
+        {
+            "decision": "No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9357,
+            "end_offset": 9625,
+            "annotation_id": "LW_122"
+        },
+        {
+            "decision": "Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours",
+            "category": "Category 1: Contact related",
+            "start_offset": 9629,
+            "end_offset": 9786,
+            "annotation_id": "LW_123"
+        },
+        {
+            "decision": "Coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9807,
+            "end_offset": 9815,
+            "annotation_id": "LW_124"
+        },
+        {
+            "decision": "Goal INR 2.0-2.5",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 9839,
+            "end_offset": 9855,
+            "annotation_id": "LW_125"
+        },
+        {
+            "decision": "First draw - day after discharge, [**8-15**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9856,
+            "end_offset": 9900,
+            "annotation_id": "LW_126"
+        },
+        {
+            "decision": "Coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9918,
+            "end_offset": 9926,
+            "annotation_id": "LW_127"
+        },
+        {
+            "decision": "Rehab to arrange Coumadin follow-up with PCP",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9901,
+            "end_offset": 9945,
+            "annotation_id": "LW_128"
+        },
+        {
+            "decision": "Surgeon: Dr. [**Last Name (STitle) **] Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2100-9-2**] 1:00 in the [**Hospital **] Medical office building [**Hospital Unit Name **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10019,
+            "end_offset": 10194,
+            "annotation_id": "LW_129"
+        },
+        {
+            "decision": "Cardiologist: Dr. [**First Name11 (Name Pattern1) 125**] [**Last Name (NamePattern4) 126**], MD Phone:[**Telephone/Fax (1) 8645**] Date/Time:[**2100-9-21**] 4:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 10196,
+            "end_offset": 10357,
+            "annotation_id": "LW_130"
+        },
+        {
+            "decision": "Please call to schedule appointments with your Primary Care Dr [**Last Name (STitle) **] [**Telephone/Fax (1) 98813**] to be seen in [**5-11**] weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 10359,
+            "end_offset": 10508,
+            "annotation_id": "LW_131"
+        },
+        {
+            "decision": "Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10512,
+            "end_offset": 10669,
+            "annotation_id": "LW_132"
+        }
+    ]
+}

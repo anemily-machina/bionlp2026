@@ -1,0 +1,517 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "12257_141962_25954",
+    "annotations": [
+        {
+            "decision": "s/p MVC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 283,
+            "annotation_id": "BF_000"
+        },
+        {
+            "decision": "ear laceration ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 323,
+            "end_offset": 337,
+            "annotation_id": "BF_001"
+        },
+        {
+            "decision": "ear laceration sutured",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 323,
+            "end_offset": 345,
+            "annotation_id": "BF_002"
+        },
+        {
+            "decision": "subungal hematoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 346,
+            "end_offset": 363,
+            "annotation_id": "BF_003"
+        },
+        {
+            "decision": "subungal hematoma evacuated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 346,
+            "end_offset": 373,
+            "annotation_id": "BF_004"
+        },
+        {
+            "decision": "nail plate sutured to nail bed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 375,
+            "end_offset": 405,
+            "annotation_id": "BF_005"
+        },
+        {
+            "decision": "LOC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 528,
+            "end_offset": 531,
+            "annotation_id": "BF_006"
+        },
+        {
+            "decision": "taken to OSH",
+            "category": "Category 1: Contact related",
+            "start_offset": 533,
+            "end_offset": 545,
+            "annotation_id": "BF_007"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 547,
+            "end_offset": 556,
+            "annotation_id": "BF_008"
+        },
+        {
+            "decision": "sedated",
+            "category": "Category 5: Drug related",
+            "start_offset": 561,
+            "end_offset": 568,
+            "annotation_id": "BF_009"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] for further management",
+            "category": "Category 1: Contact related",
+            "start_offset": 575,
+            "end_offset": 631,
+            "annotation_id": "BF_010"
+        },
+        {
+            "decision": "ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 1132,
+            "end_offset": 1135,
+            "annotation_id": "BF_011"
+        },
+        {
+            "decision": "ACETMNPHN",
+            "category": "Category 5: Drug related",
+            "start_offset": 1153,
+            "end_offset": 1162,
+            "annotation_id": "BF_012"
+        },
+        {
+            "decision": "bnzodzpn",
+            "category": "Category 5: Drug related",
+            "start_offset": 1167,
+            "end_offset": 1175,
+            "annotation_id": "BF_013"
+        },
+        {
+            "decision": "barbitrt",
+            "category": "Category 5: Drug related",
+            "start_offset": 1180,
+            "end_offset": 1188,
+            "annotation_id": "BF_014"
+        },
+        {
+            "decision": "tricyclic",
+            "category": "Category 5: Drug related",
+            "start_offset": 1193,
+            "end_offset": 1202,
+            "annotation_id": "BF_015"
+        },
+        {
+            "decision": "[**2191-1-22**] 03:00AM   ASA-NEG ETHANOL-130* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1106,
+            "end_offset": 1206,
+            "annotation_id": "BF_016"
+        },
+        {
+            "decision": "bnzodzpn",
+            "category": "Category 5: Drug related",
+            "start_offset": 1238,
+            "end_offset": 1246,
+            "annotation_id": "BF_017"
+        },
+        {
+            "decision": "barbitrt",
+            "category": "Category 5: Drug related",
+            "start_offset": 1251,
+            "end_offset": 1259,
+            "annotation_id": "BF_018"
+        },
+        {
+            "decision": "opiates",
+            "category": "Category 5: Drug related",
+            "start_offset": 1264,
+            "end_offset": 1271,
+            "annotation_id": "BF_019"
+        },
+        {
+            "decision": "cocaine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1276,
+            "end_offset": 1283,
+            "annotation_id": "BF_020"
+        },
+        {
+            "decision": "amphetmn",
+            "category": "Category 5: Drug related",
+            "start_offset": 1288,
+            "end_offset": 1296,
+            "annotation_id": "BF_021"
+        },
+        {
+            "decision": "mthdone",
+            "category": "Category 5: Drug related",
+            "start_offset": 1301,
+            "end_offset": 1308,
+            "annotation_id": "BF_022"
+        },
+        {
+            "decision": "[**2191-1-22**] 03:00AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1207,
+            "end_offset": 1312,
+            "annotation_id": "BF_023"
+        },
+        {
+            "decision": "[**2191-1-22**] 03:00AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1404,
+            "end_offset": 1534,
+            "annotation_id": "BF_024"
+        },
+        {
+            "decision": "PHENYTOIN",
+            "category": "Category 5: Drug related",
+            "start_offset": 1646,
+            "end_offset": 1655,
+            "annotation_id": "BF_025"
+        },
+        {
+            "decision": "[**2191-1-22**] 05:31PM   PHENYTOIN-13.1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1620,
+            "end_offset": 1660,
+            "annotation_id": "BF_026"
+        },
+        {
+            "decision": "Pt was evaluated in the ED and transferred to the TSICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1685,
+            "end_offset": 1740,
+            "annotation_id": "BF_027"
+        },
+        {
+            "decision": "He was found to have multiple diffuse punctate intracerebral hemorrhages as well as multiple right-sided non-displaced parietotemporal skull fractures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1742,
+            "end_offset": 1892,
+            "annotation_id": "BF_028"
+        },
+        {
+            "decision": "He had a right frontal bone fracture as well as a left thumb distal phalanx fracture. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1894,
+            "end_offset": 1978,
+            "annotation_id": "BF_029"
+        },
+        {
+            "decision": "There was a laceration of his right ear. His ear laceration was irrigated and sutured.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1980,
+            "end_offset": 2065,
+            "annotation_id": "BF_030"
+        },
+        {
+            "decision": ". His ear laceration was irrigated and sutured. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2021,
+            "end_offset": 2065,
+            "annotation_id": "BF_031"
+        },
+        {
+            "decision": "Neurosurgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2067,
+            "end_offset": 2093,
+            "annotation_id": "BF_032"
+        },
+        {
+            "decision": "repeat head CT ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2110,
+            "end_offset": 2124,
+            "annotation_id": "BF_033"
+        },
+        {
+            "decision": "dilantin for seizure prophylaxis",
+            "category": "Category 5: Drug related",
+            "start_offset": 2129,
+            "end_offset": 2161,
+            "annotation_id": "BF_034"
+        },
+        {
+            "decision": "Plastic surgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2163,
+            "end_offset": 2192,
+            "annotation_id": "BF_035"
+        },
+        {
+            "decision": "evacuated his left thumb subungal hematoma",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2197,
+            "end_offset": 2239,
+            "annotation_id": "BF_036"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2317,
+            "end_offset": 2326,
+            "annotation_id": "BF_037"
+        },
+        {
+            "decision": "for transfer to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 2393,
+            "end_offset": 2418,
+            "annotation_id": "BF_038"
+        },
+        {
+            "decision": "He continued to recover and was deemed stable for transfer to the floor. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2347,
+            "end_offset": 2418,
+            "annotation_id": "BF_039"
+        },
+        {
+            "decision": "He continued to recover and on hospital day 3 was stable for discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2420,
+            "end_offset": 2490,
+            "annotation_id": "BF_040"
+        },
+        {
+            "decision": "He will follow-up with trauma surgery for suture removal,",
+            "category": "Category 1: Contact related",
+            "start_offset": 2492,
+            "end_offset": 2548,
+            "annotation_id": "BF_041"
+        },
+        {
+            "decision": "suture removal, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2534,
+            "end_offset": 2548,
+            "annotation_id": "BF_042"
+        },
+        {
+            "decision": "plastic surgery for further management of his thumb fracture,",
+            "category": "Category 1: Contact related",
+            "start_offset": 2550,
+            "end_offset": 2610,
+            "annotation_id": "BF_043"
+        },
+        {
+            "decision": "thumb fracture,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2596,
+            "end_offset": 2610,
+            "annotation_id": "BF_044"
+        },
+        {
+            "decision": "intraparenchymal hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2651,
+            "end_offset": 2678,
+            "annotation_id": "BF_045"
+        },
+        {
+            "decision": "neurosurgery for resolution of his intraparenchymal hemorrhage.",
+            "category": "Category 1: Contact related",
+            "start_offset": 2616,
+            "end_offset": 2678,
+            "annotation_id": "BF_046"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for 2 weeks. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 2739,
+            "end_offset": 2880,
+            "annotation_id": "BF_047"
+        },
+        {
+            "decision": "Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day). Disp:*90 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 2884,
+            "end_offset": 3002,
+            "annotation_id": "BF_048"
+        },
+        {
+            "decision": "Dilantin level",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 3026,
+            "end_offset": 3040,
+            "annotation_id": "BF_049"
+        },
+        {
+            "decision": "Dilantin level Monday ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3026,
+            "end_offset": 3047,
+            "annotation_id": "BF_050"
+        },
+        {
+            "decision": "Please call the office of Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 88**] with results.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3065,
+            "end_offset": 3161,
+            "annotation_id": "BF_051"
+        },
+        {
+            "decision": "Keflex 500 mg Capsule Sig: One (1) Capsule PO four times a day for 5 days. Disp:*20 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 3166,
+            "end_offset": 3273,
+            "annotation_id": "BF_052"
+        },
+        {
+            "decision": "s/p MVC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3326,
+            "end_offset": 3333,
+            "annotation_id": "BF_053"
+        },
+        {
+            "decision": "closed head injury with multiple punctate intraparenchymal hemmorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3334,
+            "end_offset": 3404,
+            "annotation_id": "BF_054"
+        },
+        {
+            "decision": "multiple R parietotemporal skull fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3405,
+            "end_offset": 3447,
+            "annotation_id": "BF_055"
+        },
+        {
+            "decision": "R frontal bone fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3448,
+            "end_offset": 3471,
+            "annotation_id": "BF_056"
+        },
+        {
+            "decision": "L thumb distal phalanx fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3472,
+            "end_offset": 3503,
+            "annotation_id": "BF_057"
+        },
+        {
+            "decision": "R ear laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3504,
+            "end_offset": 3520,
+            "annotation_id": "BF_058"
+        },
+        {
+            "decision": "stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3544,
+            "end_offset": 3550,
+            "annotation_id": "BF_059"
+        },
+        {
+            "decision": "Take medications as prescribed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3577,
+            "end_offset": 3607,
+            "annotation_id": "BF_060"
+        },
+        {
+            "decision": "Take medications as prescribed",
+            "category": "Category 5: Drug related",
+            "start_offset": 3577,
+            "end_offset": 3607,
+            "annotation_id": "BF_061"
+        },
+        {
+            "decision": "Keep all follow-up appointments.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3609,
+            "end_offset": 3640,
+            "annotation_id": "BF_062"
+        },
+        {
+            "decision": "narcotic pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 3758,
+            "end_offset": 3782,
+            "annotation_id": "BF_063"
+        },
+        {
+            "decision": "You should not drive until your follow-up appointment with neurosurgery, and you also should not drive while taking narcotic pain medication.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3642,
+            "end_offset": 3782,
+            "annotation_id": "BF_064"
+        },
+        {
+            "decision": "You may resume your usual diet and activities, but you should avoid things like contact sports that may cause you to have a repeat head injury. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3785,
+            "end_offset": 3927,
+            "annotation_id": "BF_065"
+        },
+        {
+            "decision": "You may experience some memory loss, headaches, and fatigue which are normal after a head injury and should decrease over the next few weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 3929,
+            "end_offset": 4069,
+            "annotation_id": "BF_066"
+        },
+        {
+            "decision": "Call your doctor or go to the ER if you experience: -extreme lightheadedness, dizziness, feeling like you will pass out -fevers/chills -visual changes (blurred or double vision) -chest pain or shortness of breath -increased redness or drainage from your ear laceration, color change in the ear -anything else that concerns you",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4072,
+            "end_offset": 4398,
+            "annotation_id": "BF_067"
+        },
+        {
+            "decision": "Follow-up with Truama Surgery clinic next week for suture removal. Call ([**Telephone/Fax (1) 376**] to schedule your appointment",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4423,
+            "end_offset": 4552,
+            "annotation_id": "BF_068"
+        },
+        {
+            "decision": "Follow-up with Plastic Surgery hand clinic Tuesday [**2-1**]. Call [**Telephone/Fax (1) **] to schedule your appointment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4555,
+            "end_offset": 4675,
+            "annotation_id": "BF_069"
+        },
+        {
+            "decision": "Follow-up with Dr. [**Last Name (STitle) **] from Neurosurgery in 4 weeks. Call ([**Telephone/Fax (1) 88**] to schedule your appointment. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4678,
+            "end_offset": 4814,
+            "annotation_id": "BF_070"
+        },
+        {
+            "decision": "a repeat head CT (cat scan",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4847,
+            "end_offset": 4873,
+            "annotation_id": "BF_071"
+        },
+        {
+            "decision": "You will also need to schedule a repeat head CT (cat scan) before your neurosurgery appointment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4816,
+            "end_offset": 4911,
+            "annotation_id": "BF_072"
+        }
+    ]
+}

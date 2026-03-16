@@ -1,0 +1,818 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29502_196973_44785",
+    "annotations": [
+        {
+            "decision": "Found down, hypothermic, alcohol intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 233,
+            "end_offset": 278,
+            "annotation_id": "JW_000"
+        },
+        {
+            "decision": "history of alcohol abuse with prior episodes of delirium tremens and withdrawl seizures, homelessness, hepatitis C, and bipolar disorder ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 412,
+            "end_offset": 548,
+            "annotation_id": "JW_001"
+        },
+        {
+            "decision": "assessed by EMS",
+            "category": "Category 1: Contact related",
+            "start_offset": 931,
+            "end_offset": 946,
+            "annotation_id": "JW_002"
+        },
+        {
+            "decision": "he was noted to be hypothermic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 948,
+            "end_offset": 978,
+            "annotation_id": "JW_003"
+        },
+        {
+            "decision": "had a seizure in the ambulance on the way to the hospital",
+            "category": "Category 3: Defining problem",
+            "start_offset": 995,
+            "end_offset": 1052,
+            "annotation_id": "JW_004"
+        },
+        {
+            "decision": "he was responding to voice but not following commands; within a few hours, he was answering question appropriately",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1467,
+            "end_offset": 1581,
+            "annotation_id": "JW_005"
+        },
+        {
+            "decision": "He had a serum alcohol level of 77 with toxicology screen also positive for benzodiazepines",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1641,
+            "end_offset": 1732,
+            "annotation_id": "JW_006"
+        },
+        {
+            "decision": "benzodiazepines",
+            "category": "Category 5: Drug related",
+            "start_offset": 1717,
+            "end_offset": 1732,
+            "annotation_id": "JW_007"
+        },
+        {
+            "decision": "He received a total of 30mg IV diazepam and 2mg IV lorazepam.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1756,
+            "end_offset": 1816,
+            "annotation_id": "JW_008"
+        },
+        {
+            "decision": "denied any auditory or visual hallucinations, but reports that he has had visual hallucinations in the past (in the setting of alcohol withdrawl).  He denied any SI or HI.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1906,
+            "end_offset": 2076,
+            "annotation_id": "JW_009"
+        },
+        {
+            "decision": "alcoholism with history of delirium tremens",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2378,
+            "end_offset": 2421,
+            "annotation_id": "JW_010"
+        },
+        {
+            "decision": "hepatitis C, never treated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2424,
+            "end_offset": 2450,
+            "annotation_id": "JW_011"
+        },
+        {
+            "decision": "bipolar disorder; history of self-inflicted lacerations and benzo overdoses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2453,
+            "end_offset": 2528,
+            "annotation_id": "JW_012"
+        },
+        {
+            "decision": "reported history of seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2531,
+            "end_offset": 2567,
+            "annotation_id": "JW_013"
+        },
+        {
+            "decision": "Hepatitis B, per OMR serology appears to be chronic infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2570,
+            "end_offset": 2631,
+            "annotation_id": "JW_014"
+        },
+        {
+            "decision": "History of subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2634,
+            "end_offset": 2662,
+            "annotation_id": "JW_015"
+        },
+        {
+            "decision": "General: generally tremulous; answering questions appropriately, but with his eyes closed; smelling of Listerine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3363,
+            "end_offset": 3475,
+            "annotation_id": "JW_016"
+        },
+        {
+            "decision": "HEENT: (+) scleral injection; no icterus; OP clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3476,
+            "end_offset": 3526,
+            "annotation_id": "JW_017"
+        },
+        {
+            "decision": "Neck: no cervical/clavicular lymphadenopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3527,
+            "end_offset": 3571,
+            "annotation_id": "JW_018"
+        },
+        {
+            "decision": "Chest: clear to auscultation throughout with no wheezes, rales, or ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3572,
+            "end_offset": 3645,
+            "annotation_id": "JW_019"
+        },
+        {
+            "decision": "CV: tachycardic, regular, no murmurs or rubs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3646,
+            "end_offset": 3690,
+            "annotation_id": "JW_020"
+        },
+        {
+            "decision": "Abdomen: soft, NTND, normal bowel sounds, no hepatosplenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3691,
+            "end_offset": 3754,
+            "annotation_id": "JW_021"
+        },
+        {
+            "decision": "Extr: no edema, 2+ PT pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3755,
+            "end_offset": 3783,
+            "annotation_id": "JW_022"
+        },
+        {
+            "decision": "Skin: warm, no jaundice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3784,
+            "end_offset": 3807,
+            "annotation_id": "JW_023"
+        },
+        {
+            "decision": "Neuro: alert, appropriate, tremulous; CN 2-12 intact; [**3-19**] strength in both arms and legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3808,
+            "end_offset": 3903,
+            "annotation_id": "JW_024"
+        },
+        {
+            "decision": "Sinus tachycardia with ventricular rate of 135 bpm. Normal axis, normal intervals. Incomplete RBBB Old Q waves in I, aVL. Q waves in V3-V5",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4057,
+            "end_offset": 4195,
+            "annotation_id": "JW_025"
+        },
+        {
+            "decision": "Allowing for the lower lung volumes and unchanged in positioning, the overall appearance is probably not much changed.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4336,
+            "end_offset": 4453,
+            "annotation_id": "JW_026"
+        },
+        {
+            "decision": "There is no focal consolidation, and no overt edema or pleural effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4456,
+            "end_offset": 4527,
+            "annotation_id": "JW_027"
+        },
+        {
+            "decision": "Prominent right paratracheal soft tissues likely represent ectatic brachiocephalic vessels",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4529,
+            "end_offset": 4619,
+            "annotation_id": "JW_028"
+        },
+        {
+            "decision": "There is no evidence of hemorrhage, shift of normally midline structures, mass effect or hydrocephalus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4651,
+            "end_offset": 4753,
+            "annotation_id": "JW_029"
+        },
+        {
+            "decision": "No vascular territorial infarct is identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4756,
+            "end_offset": 4801,
+            "annotation_id": "JW_030"
+        },
+        {
+            "decision": "The density values of the brain parenchyma are within normal limits.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4804,
+            "end_offset": 4871,
+            "annotation_id": "JW_031"
+        },
+        {
+            "decision": "Ventricles and sulci are normal in caliber and configuration.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4874,
+            "end_offset": 4934,
+            "annotation_id": "JW_032"
+        },
+        {
+            "decision": "No fractures are identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4937,
+            "end_offset": 4964,
+            "annotation_id": "JW_033"
+        },
+        {
+            "decision": "There is moderate polypoid mucosal thickening in the bilateral maxillary sinuses with opacification of several anterior ethmoid air cells.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4967,
+            "end_offset": 5104,
+            "annotation_id": "JW_034"
+        },
+        {
+            "decision": "The visualized mastoid air cells appear clear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5107,
+            "end_offset": 5152,
+            "annotation_id": "JW_035"
+        },
+        {
+            "decision": "Blood culture ([**2174-10-17**]): Coagulase negative staph ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5156,
+            "end_offset": 5214,
+            "annotation_id": "JW_036"
+        },
+        {
+            "decision": "Gram positive cocci, preliminary .",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5250,
+            "end_offset": 5282,
+            "annotation_id": "JW_037"
+        },
+        {
+            "decision": "Hepatitis B: Viral load- none detected",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5285,
+            "end_offset": 5323,
+            "annotation_id": "JW_038"
+        },
+        {
+            "decision": "HIV Antibody- Negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5366,
+            "end_offset": 5388,
+            "annotation_id": "JW_039"
+        },
+        {
+            "decision": "Toxocology Screen: Positive for alcohol and benzos",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5391,
+            "end_offset": 5441,
+            "annotation_id": "JW_040"
+        },
+        {
+            "decision": "history of alcoholism with prior delirium tremors and seizures, possibly in the setting of withdrawal ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5502,
+            "end_offset": 5603,
+            "annotation_id": "JW_041"
+        },
+        {
+            "decision": "alcohol intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5623,
+            "end_offset": 5643,
+            "annotation_id": "JW_042"
+        },
+        {
+            "decision": "denies any hallucinations.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5767,
+            "end_offset": 5792,
+            "annotation_id": "JW_043"
+        },
+        {
+            "decision": "Alcohol intoxication/withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5799,
+            "end_offset": 5830,
+            "annotation_id": "JW_044"
+        },
+        {
+            "decision": "history of hypothermia, and possible seizure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5891,
+            "end_offset": 5935,
+            "annotation_id": "JW_045"
+        },
+        {
+            "decision": "received Valium for withdrawal symptoms as needed per the CIWA scale, and did not need any after two days of admission",
+            "category": "Category 5: Drug related",
+            "start_offset": 6013,
+            "end_offset": 6131,
+            "annotation_id": "JW_046"
+        },
+        {
+            "decision": "tremulousness improved and his heart rate and blood pressure remained stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6137,
+            "end_offset": 6213,
+            "annotation_id": "JW_047"
+        },
+        {
+            "decision": "transferred out of the intensive care unit to the regular medical floors",
+            "category": "Category 1: Contact related",
+            "start_offset": 6224,
+            "end_offset": 6296,
+            "annotation_id": "JW_048"
+        },
+        {
+            "decision": "given a multivitamins, thiamine, and folic acid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6305,
+            "end_offset": 6352,
+            "annotation_id": "JW_049"
+        },
+        {
+            "decision": "kept on fall and seizure precautions.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6361,
+            "end_offset": 6397,
+            "annotation_id": "JW_050"
+        },
+        {
+            "decision": "long standing history of alcohol abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6411,
+            "end_offset": 6449,
+            "annotation_id": "JW_051"
+        },
+        {
+            "decision": "social work was consulted and assisted with his care",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6451,
+            "end_offset": 6503,
+            "annotation_id": "JW_052"
+        },
+        {
+            "decision": "long standing history of pattern of decompensation after not taking, or having trouble obtaining, his psychiatric medications, and then relapsing into drinking alcohol.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6517,
+            "end_offset": 6684,
+            "annotation_id": "JW_053"
+        },
+        {
+            "decision": "Hypothermia/Found down",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6691,
+            "end_offset": 6713,
+            "annotation_id": "JW_054"
+        },
+        {
+            "decision": "hypothermia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6727,
+            "end_offset": 6738,
+            "annotation_id": "JW_055"
+        },
+        {
+            "decision": "all temperatures while hospitalized have been normal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6759,
+            "end_offset": 6811,
+            "annotation_id": "JW_056"
+        },
+        {
+            "decision": "ruled out for a MI, and no arrhythmias were noted on telemetry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6820,
+            "end_offset": 6882,
+            "annotation_id": "JW_057"
+        },
+        {
+            "decision": "it was felt that he was found down secondary to alcohol intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6953,
+            "end_offset": 7021,
+            "annotation_id": "JW_058"
+        },
+        {
+            "decision": "Bipolar disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7028,
+            "end_offset": 7044,
+            "annotation_id": "JW_059"
+        },
+        {
+            "decision": "long standing history of bipolar disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7058,
+            "end_offset": 7099,
+            "annotation_id": "JW_060"
+        },
+        {
+            "decision": "With the assistance of the social work consult",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7182,
+            "end_offset": 7228,
+            "annotation_id": "JW_061"
+        },
+        {
+            "decision": "patient has history cutting, as well as prior attempts to overdose on his psychiatric medications, reportedly about 3 attempts over the last 6 months",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7249,
+            "end_offset": 7398,
+            "annotation_id": "JW_062"
+        },
+        {
+            "decision": "evaluated by the psychiatric team ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7658,
+            "end_offset": 7691,
+            "annotation_id": "JW_063"
+        },
+        {
+            "decision": "who felt he wsa severely depressed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7692,
+            "end_offset": 7726,
+            "annotation_id": "JW_064"
+        },
+        {
+            "decision": "continued on trileptal and lexapro at his outpatient doses",
+            "category": "Category 5: Drug related",
+            "start_offset": 7735,
+            "end_offset": 7793,
+            "annotation_id": "JW_065"
+        },
+        {
+            "decision": "He was given 25-50 mg of seroquel ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7795,
+            "end_offset": 7828,
+            "annotation_id": "JW_066"
+        },
+        {
+            "decision": "good response for anxiety related to his social stressors.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7861,
+            "end_offset": 7918,
+            "annotation_id": "JW_067"
+        },
+        {
+            "decision": "mild cognitive deficits, mainly some confabulation, which were felt to be possibly related to Korsakoff or depressive syndrome, or resolving delirium. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7961,
+            "end_offset": 8110,
+            "annotation_id": "JW_068"
+        },
+        {
+            "decision": "An outpatient MRI was recommended at some point to further assess this",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8112,
+            "end_offset": 8182,
+            "annotation_id": "JW_069"
+        },
+        {
+            "decision": "The psychiatry team felt the patient would be best managed in a psychiatric inpatient setting",
+            "category": "Category 1: Contact related",
+            "start_offset": 8186,
+            "end_offset": 8279,
+            "annotation_id": "JW_070"
+        },
+        {
+            "decision": "He was cleared for medical discharge to an inpatient psychiatric unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 8281,
+            "end_offset": 8350,
+            "annotation_id": "JW_071"
+        },
+        {
+            "decision": "Seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8357,
+            "end_offset": 8373,
+            "annotation_id": "JW_072"
+        },
+        {
+            "decision": "Details of his seizure disorder are unknown",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8375,
+            "end_offset": 8418,
+            "annotation_id": "JW_073"
+        },
+        {
+            "decision": "it is unknown if his seizures were in the setting of alcohol withdrawal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8420,
+            "end_offset": 8491,
+            "annotation_id": "JW_074"
+        },
+        {
+            "decision": "Oxcarbazepine at 300 mg daily was continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 8495,
+            "end_offset": 8538,
+            "annotation_id": "JW_075"
+        },
+        {
+            "decision": "convetional dosing is twice daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8549,
+            "end_offset": 8582,
+            "annotation_id": "JW_076"
+        },
+        {
+            "decision": "Seizure precautions were followed",
+            "category": "Category 11: Other - Other precautionary measures recommended",
+            "start_offset": 8619,
+            "end_offset": 8652,
+            "annotation_id": "JW_077"
+        },
+        {
+            "decision": "Hepatitis C and B infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8659,
+            "end_offset": 8686,
+            "annotation_id": "JW_078"
+        },
+        {
+            "decision": "Patient had has significant transaminitis dating back at least two years",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8688,
+            "end_offset": 8760,
+            "annotation_id": "JW_079"
+        },
+        {
+            "decision": "transaminitis is from alcohol abuse in setting of background hepatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8784,
+            "end_offset": 8854,
+            "annotation_id": "JW_080"
+        },
+        {
+            "decision": "His hepatitis B serologies are consistent with a chronic carrier state, and his hepatitis B viral load was undetactable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8856,
+            "end_offset": 8975,
+            "annotation_id": "JW_081"
+        },
+        {
+            "decision": "In light of his viral diseases, HIV testing was completed which was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9025,
+            "end_offset": 9101,
+            "annotation_id": "JW_082"
+        },
+        {
+            "decision": "Positive blood culture",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9108,
+            "end_offset": 9130,
+            "annotation_id": "JW_083"
+        },
+        {
+            "decision": "1/6 bottles positive for coagulase negative staph on day of admission, which was felt to be contaminant",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9158,
+            "end_offset": 9261,
+            "annotation_id": "JW_084"
+        },
+        {
+            "decision": "Surveillance culture demonstrated gram positive cocci",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9263,
+            "end_offset": 9316,
+            "annotation_id": "JW_085"
+        },
+        {
+            "decision": "Patient had no clinical evidence of infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9380,
+            "end_offset": 9425,
+            "annotation_id": "JW_086"
+        },
+        {
+            "decision": "Additional cultures were drawn on day of discharge to be followed.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9427,
+            "end_offset": 9492,
+            "annotation_id": "JW_087"
+        },
+        {
+            "decision": "Patient was seen and evaluated by physical therapy and felt to be safe for discharge",
+            "category": "Category 1: Contact related",
+            "start_offset": 9499,
+            "end_offset": 9583,
+            "annotation_id": "JW_088"
+        },
+        {
+            "decision": "oxcarbazepine 300mg daily (misses doses)",
+            "category": "Category 5: Drug related",
+            "start_offset": 9612,
+            "end_offset": 9651,
+            "annotation_id": "JW_089"
+        },
+        {
+            "decision": "escitalopram 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9653,
+            "end_offset": 9676,
+            "annotation_id": "JW_090"
+        },
+        {
+            "decision": "trazodone 100mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9677,
+            "end_offset": 9698,
+            "annotation_id": "JW_091"
+        },
+        {
+            "decision": "Escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9726,
+            "end_offset": 9787,
+            "annotation_id": "JW_092"
+        },
+        {
+            "decision": "Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9793,
+            "end_offset": 9848,
+            "annotation_id": "JW_093"
+        },
+        {
+            "decision": "Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9854,
+            "end_offset": 9916,
+            "annotation_id": "JW_094"
+        },
+        {
+            "decision": "Oxcarbazepine 600 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9922,
+            "end_offset": 9981,
+            "annotation_id": "JW_095"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9988,
+            "end_offset": 10046,
+            "annotation_id": "JW_096"
+        },
+        {
+            "decision": "Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Anxiety.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10053,
+            "end_offset": 10141,
+            "annotation_id": "JW_097"
+        },
+        {
+            "decision": "Alcohol intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10291,
+            "end_offset": 10311,
+            "annotation_id": "JW_098"
+        },
+        {
+            "decision": "Bipolar disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10314,
+            "end_offset": 10330,
+            "annotation_id": "JW_099"
+        },
+        {
+            "decision": "Alcohol abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10354,
+            "end_offset": 10367,
+            "annotation_id": "JW_100"
+        },
+        {
+            "decision": "Hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10370,
+            "end_offset": 10381,
+            "annotation_id": "JW_101"
+        },
+        {
+            "decision": "Hepatitis B",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10384,
+            "end_offset": 10395,
+            "annotation_id": "JW_102"
+        },
+        {
+            "decision": "History of subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10398,
+            "end_offset": 10426,
+            "annotation_id": "JW_103"
+        },
+        {
+            "decision": "Seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10429,
+            "end_offset": 10445,
+            "annotation_id": "JW_104"
+        },
+        {
+            "decision": "Stable, cleared by physical therapy as safe for discharge. Vital signs stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10469,
+            "end_offset": 10546,
+            "annotation_id": "JW_105"
+        },
+        {
+            "decision": "being found down and hypothermic, with alcohol intoxication",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10598,
+            "end_offset": 10657,
+            "annotation_id": "JW_106"
+        },
+        {
+            "decision": "monitored carefully in the intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 10668,
+            "end_offset": 10714,
+            "annotation_id": "JW_107"
+        },
+        {
+            "decision": "given medications for your withdrawal symptoms",
+            "category": "Category 5: Drug related",
+            "start_offset": 10719,
+            "end_offset": 10765,
+            "annotation_id": "JW_108"
+        },
+        {
+            "decision": "withdrawal symptoms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10746,
+            "end_offset": 10765,
+            "annotation_id": "JW_109"
+        },
+        {
+            "decision": "transferred to another institution for further management and assistance with your bipolar disorder",
+            "category": "Category 1: Contact related",
+            "start_offset": 10781,
+            "end_offset": 10880,
+            "annotation_id": "JW_110"
+        },
+        {
+            "decision": "bipolar disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10864,
+            "end_offset": 10880,
+            "annotation_id": "JW_111"
+        },
+        {
+            "decision": " Please contact your primary care physician or psychiatrist if you experience any fevers, chills, chest pain, shortness of breath, nauesa, vomiting, worsening depression, thoughts of harming your self or others, or any other concerning symptoms",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10884,
+            "end_offset": 11127,
+            "annotation_id": "JW_112"
+        },
+        {
+            "decision": "It is strongly recommended that you stop drinking alcohol, and seek medical attention for any thoughts of harming yourself.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11131,
+            "end_offset": 11253,
+            "annotation_id": "JW_113"
+        },
+        {
+            "decision": "Please follow up with your psychiatric care providers as directed.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11279,
+            "end_offset": 11344,
+            "annotation_id": "JW_114"
+        },
+        {
+            "decision": "Please take all medications as directed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11346,
+            "end_offset": 11385,
+            "annotation_id": "JW_115"
+        }
+    ]
+}

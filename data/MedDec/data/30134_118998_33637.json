@@ -1,0 +1,587 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30134_118998_33637",
+    "annotations": [
+        {
+            "decision": "s/p fall, traumatic subdural and subarachnoid hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 332,
+            "annotation_id": "KE_000"
+        },
+        {
+            "decision": "PICC line placement, J-tube placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 372,
+            "end_offset": 409,
+            "annotation_id": "KE_001"
+        },
+        {
+            "decision": "transfer from [**Hospital3 **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 447,
+            "end_offset": 477,
+            "annotation_id": "KE_002"
+        },
+        {
+            "decision": "fall down 15 steps. ?LOC. C7 spinous process fx, L subdural and SAH on CT. Hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 482,
+            "end_offset": 579,
+            "annotation_id": "KE_003"
+        },
+        {
+            "decision": "Alzheimer's disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 603,
+            "end_offset": 622,
+            "annotation_id": "KE_004"
+        },
+        {
+            "decision": "Parkinson's disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 623,
+            "end_offset": 642,
+            "annotation_id": "KE_005"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 643,
+            "end_offset": 646,
+            "annotation_id": "KE_006"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 647,
+            "end_offset": 667,
+            "annotation_id": "KE_007"
+        },
+        {
+            "decision": "Diabetes: diet controlled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 668,
+            "end_offset": 693,
+            "annotation_id": "KE_008"
+        },
+        {
+            "decision": "GEN: mild distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 821,
+            "end_offset": 839,
+            "annotation_id": "KE_009"
+        },
+        {
+            "decision": "HEENT: PERRL, EOMI, anicteric, MMM, op without lesions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 840,
+            "end_offset": 894,
+            "annotation_id": "KE_010"
+        },
+        {
+            "decision": "NECK: no supraclavicular or cervical lymphadenopathy, no jvd, no carotid bruits, no thyromegaly or thyroid nodules",
+            "category": "Category 3: Defining problem",
+            "start_offset": 895,
+            "end_offset": 1009,
+            "annotation_id": "KE_011"
+        },
+        {
+            "decision": "RESP: CTA b/l with good air movement throughout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1010,
+            "end_offset": 1057,
+            "annotation_id": "KE_012"
+        },
+        {
+            "decision": "CV: RR, S1 and S2 wnl, no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1058,
+            "end_offset": 1089,
+            "annotation_id": "KE_013"
+        },
+        {
+            "decision": "ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1090,
+            "end_offset": 1146,
+            "annotation_id": "KE_014"
+        },
+        {
+            "decision": "EXT: no c/c/e, warm, good pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1147,
+            "end_offset": 1179,
+            "annotation_id": "KE_015"
+        },
+        {
+            "decision": "SKIN: no rashes/no jaundice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1180,
+            "end_offset": 1207,
+            "annotation_id": "KE_016"
+        },
+        {
+            "decision": "parafalcine subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1478,
+            "end_offset": 1507,
+            "annotation_id": "KE_017"
+        },
+        {
+            "decision": "Subdural hematoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1509,
+            "end_offset": 1526,
+            "annotation_id": "KE_018"
+        },
+        {
+            "decision": "Subdural hematoma is also again seen layering over the entire left convexity, as well as subjacent to both occipital lobes, above the tentorium",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1509,
+            "end_offset": 1652,
+            "annotation_id": "KE_019"
+        },
+        {
+            "decision": "This appears slightly thicker at the vertex when compared to prior study, where it measures approximately 7 mm in greatest thickness.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1654,
+            "end_offset": 1786,
+            "annotation_id": "KE_020"
+        },
+        {
+            "decision": "There is approximately 3 mm rightward shift of the septum pellucidum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1788,
+            "end_offset": 1856,
+            "annotation_id": "KE_021"
+        },
+        {
+            "decision": "Subdural hematoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1858,
+            "end_offset": 1875,
+            "annotation_id": "KE_022"
+        },
+        {
+            "decision": "Subdural hematoma also seen layering along the posterior right parietal region",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1858,
+            "end_offset": 1936,
+            "annotation_id": "KE_023"
+        },
+        {
+            "decision": "subarachnoid hemorrhage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2025,
+            "end_offset": 2048,
+            "annotation_id": "KE_024"
+        },
+        {
+            "decision": "Scattered linear foci of hyperdensity within the sulci are again seen, consistent with subarachnoid hemorrhage in a non-aneurysmal distribution.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1938,
+            "end_offset": 2081,
+            "annotation_id": "KE_025"
+        },
+        {
+            "decision": "no evidence of intraparenchymal hemorrhage or contusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2092,
+            "end_offset": 2147,
+            "annotation_id": "KE_026"
+        },
+        {
+            "decision": "Ventricles and cisterns appear within normal limits.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2149,
+            "end_offset": 2200,
+            "annotation_id": "KE_027"
+        },
+        {
+            "decision": "There is no skull fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2202,
+            "end_offset": 2228,
+            "annotation_id": "KE_028"
+        },
+        {
+            "decision": "Moderate mucosal thickening is seen within the frontal and ethmoid sinuses. Mucosal thickening with fluid levels in the left greater than right maxillary sinus are noted.  Severe mucosal thickening also is seen in the right sphenoid sinus.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2230,
+            "end_offset": 2468,
+            "annotation_id": "KE_029"
+        },
+        {
+            "decision": "Bifrontal extra-axial hematomas have evolved and now are slightly hypodense compared to the prior study",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2492,
+            "end_offset": 2595,
+            "annotation_id": "KE_030"
+        },
+        {
+            "decision": "There is no significant mass effect on the underlying brain.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2598,
+            "end_offset": 2657,
+            "annotation_id": "KE_031"
+        },
+        {
+            "decision": "Collections appear to have mildly increased in size compared to the prior study and measure approximately 7-9 mm in greatest dimension compared to prior measurements of [**4-18**] mm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2659,
+            "end_offset": 2841,
+            "annotation_id": "KE_032"
+        },
+        {
+            "decision": "stable hemorrhage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2852,
+            "end_offset": 2869,
+            "annotation_id": "KE_033"
+        },
+        {
+            "decision": "There is stable hemorrhage along the tentorial reflection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2843,
+            "end_offset": 2900,
+            "annotation_id": "KE_034"
+        },
+        {
+            "decision": "biparietal subdural hematomas ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2919,
+            "end_offset": 2948,
+            "annotation_id": "KE_035"
+        },
+        {
+            "decision": "Previously noted biparietal subdural hematomas have evolved in density but are stable to minimally decreased in size",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2902,
+            "end_offset": 3018,
+            "annotation_id": "KE_036"
+        },
+        {
+            "decision": "There is stable mild midline shift to the left.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3021,
+            "end_offset": 3067,
+            "annotation_id": "KE_037"
+        },
+        {
+            "decision": "No new hematomas are seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3069,
+            "end_offset": 3094,
+            "annotation_id": "KE_038"
+        },
+        {
+            "decision": "Minimal subarachnoid hemorrhage is unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3096,
+            "end_offset": 3140,
+            "annotation_id": "KE_039"
+        },
+        {
+            "decision": "There is a small fluid level in the left maxillary sinus which appears new.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3143,
+            "end_offset": 3217,
+            "annotation_id": "KE_040"
+        },
+        {
+            "decision": "Right-sided sphenoid sinus inflammatory disease has improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3219,
+            "end_offset": 3279,
+            "annotation_id": "KE_041"
+        },
+        {
+            "decision": "The left atrium is normal in size",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3288,
+            "end_offset": 3321,
+            "annotation_id": "KE_042"
+        },
+        {
+            "decision": "Left ventricular wall thicknesses are normal. The left ventricular cavity is unusually small. Left ventricular systolic function is hyperdynamic (EF 80%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3323,
+            "end_offset": 3579,
+            "annotation_id": "KE_043"
+        },
+        {
+            "decision": "The aortic root is moderately dilated at the sinus level. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3581,
+            "end_offset": 3724,
+            "annotation_id": "KE_044"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3726,
+            "end_offset": 3807,
+            "annotation_id": "KE_045"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3809,
+            "end_offset": 3858,
+            "annotation_id": "KE_046"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3860,
+            "end_offset": 3918,
+            "annotation_id": "KE_047"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3920,
+            "end_offset": 3952,
+            "annotation_id": "KE_048"
+        },
+        {
+            "decision": "HTN, diet-controlled DM2, mild Alzheimer's and mild Parkinson's disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3994,
+            "end_offset": 4065,
+            "annotation_id": "KE_049"
+        },
+        {
+            "decision": "fall that led to traumatic subdural and subarachnoid hemorrhages",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4084,
+            "end_offset": 4148,
+            "annotation_id": "KE_050"
+        },
+        {
+            "decision": "SAH/SDH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4154,
+            "end_offset": 4161,
+            "annotation_id": "KE_051"
+        },
+        {
+            "decision": "initially admitted to the neurosurgical service",
+            "category": "Category 1: Contact related",
+            "start_offset": 4174,
+            "end_offset": 4221,
+            "annotation_id": "KE_052"
+        },
+        {
+            "decision": "developed hypoxemia and fevers that were attributed to aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4250,
+            "end_offset": 4315,
+            "annotation_id": "KE_053"
+        },
+        {
+            "decision": "developed a UTI, diarrhea and acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4333,
+            "end_offset": 4382,
+            "annotation_id": "KE_054"
+        },
+        {
+            "decision": "started on broad-spectrum antibiotics (vancomycin, metronidazole and ciprofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4391,
+            "end_offset": 4473,
+            "annotation_id": "KE_055"
+        },
+        {
+            "decision": "transferred to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 4478,
+            "end_offset": 4501,
+            "annotation_id": "KE_056"
+        },
+        {
+            "decision": "hypoxemia resolved, as did his ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4543,
+            "end_offset": 4577,
+            "annotation_id": "KE_057"
+        },
+        {
+            "decision": "transferred out to the medical floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 4586,
+            "end_offset": 4622,
+            "annotation_id": "KE_058"
+        },
+        {
+            "decision": "improved daily",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4627,
+            "end_offset": 4641,
+            "annotation_id": "KE_059"
+        },
+        {
+            "decision": "IR-guided J-tube placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4660,
+            "end_offset": 4686,
+            "annotation_id": "KE_060"
+        },
+        {
+            "decision": "clinical status deteriorated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4726,
+            "end_offset": 4754,
+            "annotation_id": "KE_061"
+        },
+        {
+            "decision": "Metronidazole and ciprofloxacin were continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 4790,
+            "end_offset": 4836,
+            "annotation_id": "KE_062"
+        },
+        {
+            "decision": "He recovered from this event, and began to improve again",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4838,
+            "end_offset": 4894,
+            "annotation_id": "KE_063"
+        },
+        {
+            "decision": "A surgical J-tube was placed, and tube feeds were started.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4896,
+            "end_offset": 4953,
+            "annotation_id": "KE_064"
+        },
+        {
+            "decision": "He completed his course of antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 4955,
+            "end_offset": 4993,
+            "annotation_id": "KE_065"
+        },
+        {
+            "decision": "He was started on Keppra for seizure prophylaxis",
+            "category": "Category 5: Drug related",
+            "start_offset": 4995,
+            "end_offset": 5043,
+            "annotation_id": "KE_066"
+        },
+        {
+            "decision": "He again aspirated, this time a large amount",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5058,
+            "end_offset": 5102,
+            "annotation_id": "KE_067"
+        },
+        {
+            "decision": "significant respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5116,
+            "end_offset": 5148,
+            "annotation_id": "KE_068"
+        },
+        {
+            "decision": "he was made comfort care ",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 5189,
+            "end_offset": 5213,
+            "annotation_id": "KE_069"
+        },
+        {
+            "decision": "Carbidopa-levodopa",
+            "category": "Category 5: Drug related",
+            "start_offset": 5254,
+            "end_offset": 5272,
+            "annotation_id": "KE_070"
+        },
+        {
+            "decision": "Donepezil",
+            "category": "Category 5: Drug related",
+            "start_offset": 5273,
+            "end_offset": 5282,
+            "annotation_id": "KE_071"
+        },
+        {
+            "decision": "Lisinopril",
+            "category": "Category 5: Drug related",
+            "start_offset": 5283,
+            "end_offset": 5293,
+            "annotation_id": "KE_072"
+        },
+        {
+            "decision": "HCTZ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5294,
+            "end_offset": 5298,
+            "annotation_id": "KE_073"
+        },
+        {
+            "decision": "Aspirin 81",
+            "category": "Category 5: Drug related",
+            "start_offset": 5299,
+            "end_offset": 5309,
+            "annotation_id": "KE_074"
+        },
+        {
+            "decision": "Simvastatin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5310,
+            "end_offset": 5321,
+            "annotation_id": "KE_075"
+        },
+        {
+            "decision": "Expired",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5379,
+            "end_offset": 5386,
+            "annotation_id": "KE_076"
+        },
+        {
+            "decision": "[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 5398,
+            "end_offset": 5450,
+            "annotation_id": "KE_077"
+        },
+        {
+            "decision": "Subarachnoid hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5482,
+            "end_offset": 5505,
+            "annotation_id": "KE_078"
+        },
+        {
+            "decision": "Subdural hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5506,
+            "end_offset": 5525,
+            "annotation_id": "KE_079"
+        },
+        {
+            "decision": "Acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5526,
+            "end_offset": 5545,
+            "annotation_id": "KE_080"
+        },
+        {
+            "decision": "UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5546,
+            "end_offset": 5549,
+            "annotation_id": "KE_081"
+        },
+        {
+            "decision": "Aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5550,
+            "end_offset": 5560,
+            "annotation_id": "KE_082"
+        }
+    ]
+}

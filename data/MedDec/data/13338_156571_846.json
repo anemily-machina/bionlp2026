@@ -1,0 +1,559 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "13338_156571_846",
+    "annotations": [
+        {
+            "decision": "s/p fall",
+            "category": "Category 3: Defining problem",
+            "start_offset": 273,
+            "end_offset": 281,
+            "annotation_id": "BU_000"
+        },
+        {
+            "decision": "attempted laminectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 332,
+            "end_offset": 353,
+            "annotation_id": "BU_001"
+        },
+        {
+            "decision": "(aborted for bleeding",
+            "category": "Category 8: Deferment",
+            "start_offset": 355,
+            "end_offset": 375,
+            "annotation_id": "BU_002"
+        },
+        {
+            "decision": "C4-T3 laminectomy, C4-T1 fusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 389,
+            "end_offset": 420,
+            "annotation_id": "BU_003"
+        },
+        {
+            "decision": "C4-C7 anterior fusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 433,
+            "end_offset": 454,
+            "annotation_id": "BU_004"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 491,
+            "end_offset": 499,
+            "annotation_id": "BU_005"
+        },
+        {
+            "decision": "a fib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 504,
+            "end_offset": 509,
+            "annotation_id": "BU_006"
+        },
+        {
+            "decision": "A fib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 838,
+            "end_offset": 843,
+            "annotation_id": "BU_007"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 848,
+            "end_offset": 856,
+            "annotation_id": "BU_008"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 858,
+            "end_offset": 861,
+            "annotation_id": "BU_009"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 862,
+            "end_offset": 866,
+            "annotation_id": "BU_010"
+        },
+        {
+            "decision": "BPH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 867,
+            "end_offset": 870,
+            "annotation_id": "BU_011"
+        },
+        {
+            "decision": "DJD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 871,
+            "end_offset": 874,
+            "annotation_id": "BU_012"
+        },
+        {
+            "decision": "left bell palsy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 875,
+            "end_offset": 890,
+            "annotation_id": "BU_013"
+        },
+        {
+            "decision": "R hipo replacement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 891,
+            "end_offset": 909,
+            "annotation_id": "BU_014"
+        },
+        {
+            "decision": "AVSS, GCS 15",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1057,
+            "end_offset": 1069,
+            "annotation_id": "BU_015"
+        },
+        {
+            "decision": "NCAT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1070,
+            "end_offset": 1074,
+            "annotation_id": "BU_016"
+        },
+        {
+            "decision": "trachea midline, +C collar",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1075,
+            "end_offset": 1101,
+            "annotation_id": "BU_017"
+        },
+        {
+            "decision": "RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1102,
+            "end_offset": 1105,
+            "annotation_id": "BU_018"
+        },
+        {
+            "decision": "CTA bilat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1106,
+            "end_offset": 1115,
+            "annotation_id": "BU_019"
+        },
+        {
+            "decision": "soft obese nontender",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1116,
+            "end_offset": 1136,
+            "annotation_id": "BU_020"
+        },
+        {
+            "decision": "guaiac neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1137,
+            "end_offset": 1147,
+            "annotation_id": "BU_021"
+        },
+        {
+            "decision": "5/5 strength x4, moving all extremities in trauma bay",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1148,
+            "end_offset": 1201,
+            "annotation_id": "BU_022"
+        },
+        {
+            "decision": "prevertebral, posterior paraspinal cervical hematomas",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1254,
+            "end_offset": 1307,
+            "annotation_id": "BU_023"
+        },
+        {
+            "decision": "cervical epidural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1308,
+            "end_offset": 1334,
+            "annotation_id": "BU_024"
+        },
+        {
+            "decision": "s/p cervical laminectomy [**6-10**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1336,
+            "end_offset": 1371,
+            "annotation_id": "BU_025"
+        },
+        {
+            "decision": "C spine fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1372,
+            "end_offset": 1389,
+            "annotation_id": "BU_026"
+        },
+        {
+            "decision": "s/p C4-C7 anterior fusion [**6-14**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1391,
+            "end_offset": 1427,
+            "annotation_id": "BU_027"
+        },
+        {
+            "decision": "T spine fractures (T2,3,11 vert bodies)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1428,
+            "end_offset": 1466,
+            "annotation_id": "BU_028"
+        },
+        {
+            "decision": "Epidural hematoma (C5-T4 cord compression, T6-T12-no compression)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1468,
+            "end_offset": 1532,
+            "annotation_id": "BU_029"
+        },
+        {
+            "decision": "R subclavian hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1534,
+            "end_offset": 1555,
+            "annotation_id": "BU_030"
+        },
+        {
+            "decision": "R retroperitoneal hematoma (psoas/iliacus) (?compression of femoral nerve)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1556,
+            "end_offset": 1629,
+            "annotation_id": "BU_031"
+        },
+        {
+            "decision": "Hairline sacral fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1631,
+            "end_offset": 1649,
+            "annotation_id": "BU_032"
+        },
+        {
+            "decision": "Admitted to TSICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1685,
+            "end_offset": 1702,
+            "annotation_id": "BU_033"
+        },
+        {
+            "decision": "Reversal of anticoagulation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1746,
+            "end_offset": 1773,
+            "annotation_id": "BU_034"
+        },
+        {
+            "decision": "& definitive repair of epidural hematomata",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1776,
+            "end_offset": 1816,
+            "annotation_id": "BU_035"
+        },
+        {
+            "decision": "Transfer to floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 1829,
+            "end_offset": 1846,
+            "annotation_id": "BU_036"
+        },
+        {
+            "decision": "Cardiorespiratory arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1859,
+            "end_offset": 1883,
+            "annotation_id": "BU_037"
+        },
+        {
+            "decision": "reintubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1885,
+            "end_offset": 1897,
+            "annotation_id": "BU_038"
+        },
+        {
+            "decision": "transfer back to TISCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1900,
+            "end_offset": 1922,
+            "annotation_id": "BU_039"
+        },
+        {
+            "decision": "Lost bilat arm & RLE strength in ED secondary to explanding cervical epidural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1982,
+            "end_offset": 2068,
+            "annotation_id": "BU_040"
+        },
+        {
+            "decision": "Brought to OR by spine team x3 ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2071,
+            "end_offset": 2101,
+            "annotation_id": "BU_041"
+        },
+        {
+            "decision": "case aborted for excessive bleeding",
+            "category": "Category 8: Deferment",
+            "start_offset": 2114,
+            "end_offset": 2149,
+            "annotation_id": "BU_042"
+        },
+        {
+            "decision": "laminectomy & posterior fusion, [**6-14**]: anterior fusion).",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2163,
+            "end_offset": 2222,
+            "annotation_id": "BU_043"
+        },
+        {
+            "decision": "Neurologically intact until [**6-18**] arrest, after which patient was unresponsive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2225,
+            "end_offset": 2308,
+            "annotation_id": "BU_044"
+        },
+        {
+            "decision": "Followed by neurology & ortho spine teams",
+            "category": "Category 1: Contact related",
+            "start_offset": 2311,
+            "end_offset": 2352,
+            "annotation_id": "BU_045"
+        },
+        {
+            "decision": "recurrent rapid a fib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2359,
+            "end_offset": 2380,
+            "annotation_id": "BU_046"
+        },
+        {
+            "decision": "controlled with lopressor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2404,
+            "end_offset": 2429,
+            "annotation_id": "BU_047"
+        },
+        {
+            "decision": "& diltiazem",
+            "category": "Category 5: Drug related",
+            "start_offset": 2432,
+            "end_offset": 2441,
+            "annotation_id": "BU_048"
+        },
+        {
+            "decision": "followed by cards team",
+            "category": "Category 1: Contact related",
+            "start_offset": 2444,
+            "end_offset": 2466,
+            "annotation_id": "BU_049"
+        },
+        {
+            "decision": "extubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2485,
+            "end_offset": 2495,
+            "annotation_id": "BU_050"
+        },
+        {
+            "decision": "Apneic after arrest event on [**6-18**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2522,
+            "end_offset": 2561,
+            "annotation_id": "BU_051"
+        },
+        {
+            "decision": "followed by hematology ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2570,
+            "end_offset": 2592,
+            "annotation_id": "BU_052"
+        },
+        {
+            "decision": "continued oozing during OR interventions despite reversal of anticoagulation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2597,
+            "end_offset": 2673,
+            "annotation_id": "BU_053"
+        },
+        {
+            "decision": "reversal of anticoagulation",
+            "category": "Category 5: Drug related",
+            "start_offset": 2646,
+            "end_offset": 2673,
+            "annotation_id": "BU_054"
+        },
+        {
+            "decision": "ID",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2676,
+            "end_offset": 2678,
+            "annotation_id": "BU_055"
+        },
+        {
+            "decision": "zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2693,
+            "end_offset": 2698,
+            "annotation_id": "BU_056"
+        },
+        {
+            "decision": "aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2703,
+            "end_offset": 2723,
+            "annotation_id": "BU_057"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2794,
+            "end_offset": 2802,
+            "annotation_id": "BU_058"
+        },
+        {
+            "decision": "advair",
+            "category": "Category 5: Drug related",
+            "start_offset": 2804,
+            "end_offset": 2810,
+            "annotation_id": "BU_059"
+        },
+        {
+            "decision": "atenolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 2812,
+            "end_offset": 2820,
+            "annotation_id": "BU_060"
+        },
+        {
+            "decision": "zestril",
+            "category": "Category 5: Drug related",
+            "start_offset": 2822,
+            "end_offset": 2829,
+            "annotation_id": "BU_061"
+        },
+        {
+            "decision": "hydroxyzine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2831,
+            "end_offset": 2842,
+            "annotation_id": "BU_062"
+        },
+        {
+            "decision": "fluoxetine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2844,
+            "end_offset": 2854,
+            "annotation_id": "BU_063"
+        },
+        {
+            "decision": "prevertebral, posterior paraspinal hematomas",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2943,
+            "end_offset": 2987,
+            "annotation_id": "BU_064"
+        },
+        {
+            "decision": "cervical epidural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2988,
+            "end_offset": 3014,
+            "annotation_id": "BU_065"
+        },
+        {
+            "decision": "s/p cervical laminectomy [**6-10**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3016,
+            "end_offset": 3051,
+            "annotation_id": "BU_066"
+        },
+        {
+            "decision": "C spine fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3052,
+            "end_offset": 3069,
+            "annotation_id": "BU_067"
+        },
+        {
+            "decision": "s/p C4-C7 anterior fusion [**6-14**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3071,
+            "end_offset": 3107,
+            "annotation_id": "BU_068"
+        },
+        {
+            "decision": "T spine fractures (T2,3,11 vert bodies)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3108,
+            "end_offset": 3146,
+            "annotation_id": "BU_069"
+        },
+        {
+            "decision": "Epidural hematoma (C5-T4 cord compression, T6-T12-no compression)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3148,
+            "end_offset": 3212,
+            "annotation_id": "BU_070"
+        },
+        {
+            "decision": "R subclavian hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3214,
+            "end_offset": 3235,
+            "annotation_id": "BU_071"
+        },
+        {
+            "decision": "R retroperitoneal hematoma (psoas/iliacus) (?compression of femoral nerve)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3236,
+            "end_offset": 3309,
+            "annotation_id": "BU_072"
+        },
+        {
+            "decision": "Hairline sacral fx",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3311,
+            "end_offset": 3329,
+            "annotation_id": "BU_073"
+        },
+        {
+            "decision": "respiratory arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3330,
+            "end_offset": 3348,
+            "annotation_id": "BU_074"
+        },
+        {
+            "decision": "A fib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3349,
+            "end_offset": 3354,
+            "annotation_id": "BU_075"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3355,
+            "end_offset": 3358,
+            "annotation_id": "BU_076"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3359,
+            "end_offset": 3363,
+            "annotation_id": "BU_077"
+        },
+        {
+            "decision": "aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3364,
+            "end_offset": 3384,
+            "annotation_id": "BU_078"
+        }
+    ]
+}

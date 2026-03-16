@@ -1,0 +1,1301 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "89040_190532_36516",
+    "annotations": [
+        {
+            "decision": "EMG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 338,
+            "end_offset": 341,
+            "annotation_id": "QJ_000"
+        },
+        {
+            "decision": "coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 445,
+            "end_offset": 468,
+            "annotation_id": "QJ_001"
+        },
+        {
+            "decision": "s/p CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 469,
+            "end_offset": 477,
+            "annotation_id": "QJ_002"
+        },
+        {
+            "decision": "congestive heart failure (EF 30%), ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 479,
+            "end_offset": 510,
+            "annotation_id": "QJ_003"
+        },
+        {
+            "decision": "and COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 514,
+            "end_offset": 522,
+            "annotation_id": "QJ_004"
+        },
+        {
+            "decision": "severe CAD and congestive heart failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 836,
+            "end_offset": 875,
+            "annotation_id": "QJ_005"
+        },
+        {
+            "decision": "transferred to this hospital for neurology consultation ",
+            "category": "Category 1: Contact related",
+            "start_offset": 957,
+            "end_offset": 1012,
+            "annotation_id": "QJ_006"
+        },
+        {
+            "decision": "admitted to the neurology service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1101,
+            "end_offset": 1134,
+            "annotation_id": "QJ_007"
+        },
+        {
+            "decision": "non-contrast CT scan of the abdomen and pelvis which showed no clear etiology of her weakness of weight loss",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1179,
+            "end_offset": 1287,
+            "annotation_id": "QJ_008"
+        },
+        {
+            "decision": "EMG which showed no electrophysiologic evidence for a generalized polyneuropathy (including a demyelinating radiculopolyneuropathy) or for a lumbosacral polyradiculopathy on the right",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1303,
+            "end_offset": 1486,
+            "annotation_id": "QJ_009"
+        },
+        {
+            "decision": "non-contrast CT C-spine which showed multilevel degenerative changes ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1521,
+            "end_offset": 1589,
+            "annotation_id": "QJ_010"
+        },
+        {
+            "decision": "CT of the abdomen with contrast which showed no active malignancy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1603,
+            "end_offset": 1668,
+            "annotation_id": "QJ_011"
+        },
+        {
+            "decision": "IV hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1683,
+            "end_offset": 1695,
+            "annotation_id": "QJ_012"
+        },
+        {
+            "decision": "worsening of her creatinine from 1.1 on admission to 1.4 on [**3-26**] and 2.0 on [**3-27**]. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1750,
+            "end_offset": 1842,
+            "annotation_id": "QJ_013"
+        },
+        {
+            "decision": "IV hydration at 70 cc/hr ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1857,
+            "end_offset": 1881,
+            "annotation_id": "QJ_014"
+        },
+        {
+            "decision": "acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1890,
+            "end_offset": 1909,
+            "annotation_id": "QJ_015"
+        },
+        {
+            "decision": "worsening dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1962,
+            "end_offset": 1979,
+            "annotation_id": "QJ_016"
+        },
+        {
+            "decision": "CXR which showed hyperinflation but no evidence of pneumonia or volume overload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1995,
+            "end_offset": 2074,
+            "annotation_id": "QJ_017"
+        },
+        {
+            "decision": "MICU consult service was called ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2082,
+            "end_offset": 2113,
+            "annotation_id": "QJ_018"
+        },
+        {
+            "decision": "worsening respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2158,
+            "end_offset": 2188,
+            "annotation_id": "QJ_019"
+        },
+        {
+            "decision": "audibly wheezing and was using accessory muscles of respiration. While previously satting well on room air she was noted to be 85% on RA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2217,
+            "end_offset": 2353,
+            "annotation_id": "QJ_020"
+        },
+        {
+            "decision": "non-rebreather",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2374,
+            "end_offset": 2388,
+            "annotation_id": "QJ_021"
+        },
+        {
+            "decision": "10 mg IV lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2424,
+            "end_offset": 2438,
+            "annotation_id": "QJ_022"
+        },
+        {
+            "decision": "previously on torsemide 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 2455,
+            "end_offset": 2490,
+            "annotation_id": "QJ_023"
+        },
+        {
+            "decision": " ABG showed acute respiratory acidosis 7.26/56/124 on a non-rebreather",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2493,
+            "end_offset": 2562,
+            "annotation_id": "QJ_024"
+        },
+        {
+            "decision": "Repeat CXR was concerning for mild worsening of pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2564,
+            "end_offset": 2627,
+            "annotation_id": "QJ_025"
+        },
+        {
+            "decision": "nebulizer therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2664,
+            "end_offset": 2681,
+            "annotation_id": "QJ_026"
+        },
+        {
+            "decision": "transferred to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2691,
+            "end_offset": 2714,
+            "annotation_id": "QJ_027"
+        },
+        {
+            "decision": "respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2719,
+            "end_offset": 2739,
+            "annotation_id": "QJ_028"
+        },
+        {
+            "decision": "BIPAP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2797,
+            "end_offset": 2802,
+            "annotation_id": "QJ_029"
+        },
+        {
+            "decision": "pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2822,
+            "end_offset": 2837,
+            "annotation_id": "QJ_030"
+        },
+        {
+            "decision": "She was somnolent and not responsive to questions. She was continuing to use accessory muscles of respiration. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2839,
+            "end_offset": 2948,
+            "annotation_id": "QJ_031"
+        },
+        {
+            "decision": "Nitro gtt was given for a few hours",
+            "category": "Category 5: Drug related",
+            "start_offset": 2950,
+            "end_offset": 2985,
+            "annotation_id": "QJ_032"
+        },
+        {
+            "decision": "furosemide",
+            "category": "Category 5: Drug related",
+            "start_offset": 3021,
+            "end_offset": 3031,
+            "annotation_id": "QJ_033"
+        },
+        {
+            "decision": "acute renal failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3084,
+            "end_offset": 3103,
+            "annotation_id": "QJ_034"
+        },
+        {
+            "decision": "patient's respiratory status rapidly improved. Her acute renal failure was thought to be from contrast loads.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3033,
+            "end_offset": 3141,
+            "annotation_id": "QJ_035"
+        },
+        {
+            "decision": "patient started to autodiurese",
+            "category": "Category 5: Drug related",
+            "start_offset": 3179,
+            "end_offset": 3209,
+            "annotation_id": "QJ_036"
+        },
+        {
+            "decision": "Coronary Artery Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3236,
+            "end_offset": 3259,
+            "annotation_id": "QJ_037"
+        },
+        {
+            "decision": "s/p CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3260,
+            "end_offset": 3268,
+            "annotation_id": "QJ_038"
+        },
+        {
+            "decision": "inferior myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3277,
+            "end_offset": 3307,
+            "annotation_id": "QJ_039"
+        },
+        {
+            "decision": "Cardiac catheterization in [**2100**] with significant disease not amenable to intervention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3308,
+            "end_offset": 3399,
+            "annotation_id": "QJ_040"
+        },
+        {
+            "decision": "Systolic Heart Failure (EF 30%)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3400,
+            "end_offset": 3429,
+            "annotation_id": "QJ_041"
+        },
+        {
+            "decision": "Atrial Fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3432,
+            "end_offset": 3451,
+            "annotation_id": "QJ_042"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3455,
+            "end_offset": 3463,
+            "annotation_id": "QJ_043"
+        },
+        {
+            "decision": "Sinus bradycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3464,
+            "end_offset": 3481,
+            "annotation_id": "QJ_044"
+        },
+        {
+            "decision": "s/p pacemaker placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3482,
+            "end_offset": 3505,
+            "annotation_id": "QJ_045"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3506,
+            "end_offset": 3518,
+            "annotation_id": "QJ_046"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3519,
+            "end_offset": 3533,
+            "annotation_id": "QJ_047"
+        },
+        {
+            "decision": "Type II Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3534,
+            "end_offset": 3550,
+            "annotation_id": "QJ_048"
+        },
+        {
+            "decision": "History of TIAs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3551,
+            "end_offset": 3566,
+            "annotation_id": "QJ_049"
+        },
+        {
+            "decision": "Peripheral Vascular Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3567,
+            "end_offset": 3594,
+            "annotation_id": "QJ_050"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3595,
+            "end_offset": 3599,
+            "annotation_id": "QJ_051"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3600,
+            "end_offset": 3604,
+            "annotation_id": "QJ_052"
+        },
+        {
+            "decision": "Stage II Chronic Kidney Disease (creatinine 1.2)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3605,
+            "end_offset": 3652,
+            "annotation_id": "QJ_053"
+        },
+        {
+            "decision": "General: elderly woman in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4062,
+            "end_offset": 4091,
+            "annotation_id": "QJ_054"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MM moist, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4092,
+            "end_offset": 4143,
+            "annotation_id": "QJ_055"
+        },
+        {
+            "decision": "Neck: JVP elevated at 12 cm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4144,
+            "end_offset": 4171,
+            "annotation_id": "QJ_056"
+        },
+        {
+            "decision": "Cardiac: Regular rate and rhythm, s1 + s2, no murmura, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4172,
+            "end_offset": 4240,
+            "annotation_id": "QJ_057"
+        },
+        {
+            "decision": "Chest: Khyphotic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4241,
+            "end_offset": 4257,
+            "annotation_id": "QJ_058"
+        },
+        {
+            "decision": "Lungs: Diffuse inspiratory and expiratory wheezes, crackles throughout R side, halfway up on left side, hyperinflation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4258,
+            "end_offset": 4376,
+            "annotation_id": "QJ_059"
+        },
+        {
+            "decision": "GI: soft, non-tender, non-distended, +BS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4377,
+            "end_offset": 4417,
+            "annotation_id": "QJ_060"
+        },
+        {
+            "decision": "Ext: Cool, pulses dopplerable, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4418,
+            "end_offset": 4479,
+            "annotation_id": "QJ_061"
+        },
+        {
+            "decision": "Neurologic: CN II-XII intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4480,
+            "end_offset": 4508,
+            "annotation_id": "QJ_062"
+        },
+        {
+            "decision": "Motor: Symm [**4-12**] U and LE [**Last Name (un) **]: Symm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4509,
+            "end_offset": 4568,
+            "annotation_id": "QJ_063"
+        },
+        {
+            "decision": "Cereb: FNF intact, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4569,
+            "end_offset": 4586,
+            "annotation_id": "QJ_064"
+        },
+        {
+            "decision": ", gait assessment deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 4588,
+            "end_offset": 4612,
+            "annotation_id": "QJ_065"
+        },
+        {
+            "decision": "MS: A+Ox3, speech fluent, TP linear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4613,
+            "end_offset": 4648,
+            "annotation_id": "QJ_066"
+        },
+        {
+            "decision": "[**2112-3-25**] 12:38 pm CSF;SPINAL FLUID      Source: LP TUBE#3.                              **FINAL REPORT [**2112-3-28**]**     GRAM STAIN (Final [**2112-3-25**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.       NO MICROORGANISMS SEEN.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5294,
+            "end_offset": 5534,
+            "annotation_id": "QJ_067"
+        },
+        {
+            "decision": "   FLUID CULTURE (Final [**2112-3-28**]):    NO GROWTH. A1c-7.9* .",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5677,
+            "end_offset": 5738,
+            "annotation_id": "QJ_068"
+        },
+        {
+            "decision": "The left atrium is elongated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5754,
+            "end_offset": 5782,
+            "annotation_id": "QJ_069"
+        },
+        {
+            "decision": "The estimated right atrial pressure is 0-5 mmHg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5784,
+            "end_offset": 5831,
+            "annotation_id": "QJ_070"
+        },
+        {
+            "decision": "Left ventricular wall thicknesses and cavity size are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5833,
+            "end_offset": 5893,
+            "annotation_id": "QJ_071"
+        },
+        {
+            "decision": "There is severe global left ventricular hypokinesis (LVEF = 20 %)",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5895,
+            "end_offset": 5957,
+            "annotation_id": "QJ_072"
+        },
+        {
+            "decision": "The basal anterior wall contracts best, but is also hypokinetic",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5962,
+            "end_offset": 6025,
+            "annotation_id": "QJ_073"
+        },
+        {
+            "decision": "No masses or thrombi are seen in the left ventricle",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6027,
+            "end_offset": 6078,
+            "annotation_id": "QJ_074"
+        },
+        {
+            "decision": "The estimated cardiac index is low (2.1L/min/m2)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6080,
+            "end_offset": 6127,
+            "annotation_id": "QJ_075"
+        },
+        {
+            "decision": "Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6130,
+            "end_offset": 6221,
+            "annotation_id": "QJ_076"
+        },
+        {
+            "decision": "Right ventricular chamber size is normal with mild global free wall hypokinesis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6224,
+            "end_offset": 6303,
+            "annotation_id": "QJ_077"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6305,
+            "end_offset": 6390,
+            "annotation_id": "QJ_078"
+        },
+        {
+            "decision": "but aortic stenosis is not present. There is no aortic valve stenosis. No aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6356,
+            "end_offset": 6458,
+            "annotation_id": "QJ_079"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6460,
+            "end_offset": 6506,
+            "annotation_id": "QJ_080"
+        },
+        {
+            "decision": "Mild to moderate ([**12-11**]+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6508,
+            "end_offset": 6675,
+            "annotation_id": "QJ_081"
+        },
+        {
+            "decision": "Normal left ventricular cavity size with severe global hypokinesis ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6690,
+            "end_offset": 6756,
+            "annotation_id": "QJ_082"
+        },
+        {
+            "decision": "mild right ventricular free wall hypokinesis c/w diffuse process (toxin, metabolic, etc., Cannot exclude multivessel CAD). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6761,
+            "end_offset": 6881,
+            "annotation_id": "QJ_083"
+        },
+        {
+            "decision": "Mild pulmonary artery systolic hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6884,
+            "end_offset": 6927,
+            "annotation_id": "QJ_084"
+        },
+        {
+            "decision": "Mild-moderate mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6929,
+            "end_offset": 6963,
+            "annotation_id": "QJ_085"
+        },
+        {
+            "decision": "CT ABDOMEN W/CONTRAST Study Date of [**2112-3-24**] 8:36 PM . IMPRESSION: 1. Severe atherosclerotic stenosis at the origins of the celiac axis and SMA with post-stenotic dilatation. These findings raise the possibility of intestinal angina, particularly given the patient's history of weight loss.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6986,
+            "end_offset": 7282,
+            "annotation_id": "QJ_086"
+        },
+        {
+            "decision": "There is no CT evidence of acute ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7284,
+            "end_offset": 7325,
+            "annotation_id": "QJ_087"
+        },
+        {
+            "decision": "Enlargement of the adrenal glands bilaterally without focal nodules",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7330,
+            "end_offset": 7397,
+            "annotation_id": "QJ_088"
+        },
+        {
+            "decision": "adrenal hyperplasia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7406,
+            "end_offset": 7425,
+            "annotation_id": "QJ_089"
+        },
+        {
+            "decision": "3.3 cm right adnexal cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7432,
+            "end_offset": 7457,
+            "annotation_id": "QJ_090"
+        },
+        {
+            "decision": "Pelvic ultrasound is recommended for further characterization.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7509,
+            "end_offset": 7570,
+            "annotation_id": "QJ_091"
+        },
+        {
+            "decision": "Two peripherally enhancing hepatic lesions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7575,
+            "end_offset": 7617,
+            "annotation_id": "QJ_092"
+        },
+        {
+            "decision": "hemangiomas",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7634,
+            "end_offset": 7645,
+            "annotation_id": "QJ_093"
+        },
+        {
+            "decision": "Patent aorto-bifem graft",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7650,
+            "end_offset": 7674,
+            "annotation_id": "QJ_094"
+        },
+        {
+            "decision": "3 and 4 mm pulmonary nodules at the lung bases",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7679,
+            "end_offset": 7725,
+            "annotation_id": "QJ_095"
+        },
+        {
+            "decision": "The patient is scheduled to have a dedicated chest CT shortly, at which time the remainder of the chest can be evaluated.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7727,
+            "end_offset": 7847,
+            "annotation_id": "QJ_096"
+        },
+        {
+            "decision": "coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7939,
+            "end_offset": 7962,
+            "annotation_id": "QJ_097"
+        },
+        {
+            "decision": "s/p CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7963,
+            "end_offset": 7971,
+            "annotation_id": "QJ_098"
+        },
+        {
+            "decision": "congestive heart failure (EF 30%), and COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7973,
+            "end_offset": 8016,
+            "annotation_id": "QJ_099"
+        },
+        {
+            "decision": "admitted to the neurology service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8144,
+            "end_offset": 8177,
+            "annotation_id": "QJ_100"
+        },
+        {
+            "decision": "Acute CHF exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8193,
+            "end_offset": 8215,
+            "annotation_id": "QJ_101"
+        },
+        {
+            "decision": "The pt developed respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8217,
+            "end_offset": 8253,
+            "annotation_id": "QJ_102"
+        },
+        {
+            "decision": "IV hydration ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8282,
+            "end_offset": 8294,
+            "annotation_id": "QJ_103"
+        },
+        {
+            "decision": "in the setting of receiving IV hydration (prior to contrast administration)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8254,
+            "end_offset": 8328,
+            "annotation_id": "QJ_104"
+        },
+        {
+            "decision": "Cardiac enzymes were unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8331,
+            "end_offset": 8364,
+            "annotation_id": "QJ_105"
+        },
+        {
+            "decision": "The pt was initially diuresed with IV lasix, and was then changed to her home torsemide regimen when her renal failure began to improve",
+            "category": "Category 5: Drug related",
+            "start_offset": 8366,
+            "end_offset": 8501,
+            "annotation_id": "QJ_106"
+        },
+        {
+            "decision": "when her renal failure began to improve",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8462,
+            "end_offset": 8501,
+            "annotation_id": "QJ_107"
+        },
+        {
+            "decision": "Progressive lower extremity weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8507,
+            "end_offset": 8543,
+            "annotation_id": "QJ_108"
+        },
+        {
+            "decision": "head CT, CT c-spine, and EMG which were largely unremarkable, and did not show evidence of [**First Name9 (NamePattern2) 7816**] [**Location (un) **] Syndrome.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8558,
+            "end_offset": 8716,
+            "annotation_id": "QJ_109"
+        },
+        {
+            "decision": "CT torso with contrast which was unrevealing",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8745,
+            "end_offset": 8789,
+            "annotation_id": "QJ_110"
+        },
+        {
+            "decision": "transfer to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 8794,
+            "end_offset": 8815,
+            "annotation_id": "QJ_111"
+        },
+        {
+            "decision": "CHF exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8830,
+            "end_offset": 8846,
+            "annotation_id": "QJ_112"
+        },
+        {
+            "decision": "physical therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8925,
+            "end_offset": 8941,
+            "annotation_id": "QJ_113"
+        },
+        {
+            "decision": "discharged with plans for home PT",
+            "category": "Category 1: Contact related",
+            "start_offset": 8951,
+            "end_offset": 8984,
+            "annotation_id": "QJ_114"
+        },
+        {
+            "decision": "walker",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9042,
+            "end_offset": 9048,
+            "annotation_id": "QJ_115"
+        },
+        {
+            "decision": "On discharge the pt was able to walk comfortably with a walker.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8986,
+            "end_offset": 9048,
+            "annotation_id": "QJ_116"
+        },
+        {
+            "decision": "Acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9054,
+            "end_offset": 9073,
+            "annotation_id": "QJ_117"
+        },
+        {
+            "decision": "The pt's creatinine rose to 2.6 from baseline of 1.1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9075,
+            "end_offset": 9127,
+            "annotation_id": "QJ_118"
+        },
+        {
+            "decision": "following administration of IV contrast",
+            "category": "Category 5: Drug related",
+            "start_offset": 9128,
+            "end_offset": 9167,
+            "annotation_id": "QJ_119"
+        },
+        {
+            "decision": "The pt's creatinine improved over the rest of admission. The renal failure was likely contrast-induced nephropathy in the setting of two dye loads",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9169,
+            "end_offset": 9315,
+            "annotation_id": "QJ_120"
+        },
+        {
+            "decision": "Urine eosinophils were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9317,
+            "end_offset": 9348,
+            "annotation_id": "QJ_121"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9354,
+            "end_offset": 9377,
+            "annotation_id": "QJ_122"
+        },
+        {
+            "decision": "s/p CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9378,
+            "end_offset": 9386,
+            "annotation_id": "QJ_123"
+        },
+        {
+            "decision": "persistent lesions not amenable to intervention ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9424,
+            "end_offset": 9471,
+            "annotation_id": "QJ_124"
+        },
+        {
+            "decision": "on nitrates and ranolazine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9499,
+            "end_offset": 9525,
+            "annotation_id": "QJ_125"
+        },
+        {
+            "decision": "persistent dyspnea on exertion and angina",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9530,
+            "end_offset": 9571,
+            "annotation_id": "QJ_126"
+        },
+        {
+            "decision": "The pt's home isosorbide mononitrate, simvastatin, metoprolol, and aspirin 325 were continued,",
+            "category": "Category 5: Drug related",
+            "start_offset": 9573,
+            "end_offset": 9666,
+            "annotation_id": "QJ_127"
+        },
+        {
+            "decision": "cardiac enzymes trended down ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9681,
+            "end_offset": 9709,
+            "annotation_id": "QJ_128"
+        },
+        {
+            "decision": "ACE inhibitor",
+            "category": "Category 5: Drug related",
+            "start_offset": 9761,
+            "end_offset": 9774,
+            "annotation_id": "QJ_129"
+        },
+        {
+            "decision": "ACE inhibitor intolerance.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9761,
+            "end_offset": 9786,
+            "annotation_id": "QJ_130"
+        },
+        {
+            "decision": "Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9792,
+            "end_offset": 9811,
+            "annotation_id": "QJ_131"
+        },
+        {
+            "decision": "pacemaker ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9826,
+            "end_offset": 9835,
+            "annotation_id": "QJ_132"
+        },
+        {
+            "decision": "on discharge coumadin was restarted.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9840,
+            "end_offset": 9875,
+            "annotation_id": "QJ_133"
+        },
+        {
+            "decision": "Diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9881,
+            "end_offset": 9898,
+            "annotation_id": "QJ_134"
+        },
+        {
+            "decision": "The pt's home glyburide was changed to glipizide ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9900,
+            "end_offset": 9948,
+            "annotation_id": "QJ_135"
+        },
+        {
+            "decision": "decreased creatinine clearance ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9970,
+            "end_offset": 10000,
+            "annotation_id": "QJ_136"
+        },
+        {
+            "decision": "contrast-induced nephropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10019,
+            "end_offset": 10047,
+            "annotation_id": "QJ_137"
+        },
+        {
+            "decision": "Spironolactone 25mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10077,
+            "end_offset": 10105,
+            "annotation_id": "QJ_138"
+        },
+        {
+            "decision": "Metoprolol 50 PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10106,
+            "end_offset": 10126,
+            "annotation_id": "QJ_139"
+        },
+        {
+            "decision": "Potassium 20 meq daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10127,
+            "end_offset": 10149,
+            "annotation_id": "QJ_140"
+        },
+        {
+            "decision": "Ranexa (ranolazine) 1 g daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10150,
+            "end_offset": 10179,
+            "annotation_id": "QJ_141"
+        },
+        {
+            "decision": "Omeprazole 20 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 10180,
+            "end_offset": 10213,
+            "annotation_id": "QJ_142"
+        },
+        {
+            "decision": "Simvastatin 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10214,
+            "end_offset": 10237,
+            "annotation_id": "QJ_143"
+        },
+        {
+            "decision": "Torsemide 20 mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10238,
+            "end_offset": 10262,
+            "annotation_id": "QJ_144"
+        },
+        {
+            "decision": "Isorbide mononitrate 30 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10263,
+            "end_offset": 10292,
+            "annotation_id": "QJ_145"
+        },
+        {
+            "decision": "Glyburide 2.5 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 10293,
+            "end_offset": 10326,
+            "annotation_id": "QJ_146"
+        },
+        {
+            "decision": "Colchicine 0.6 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10327,
+            "end_offset": 10347,
+            "annotation_id": "QJ_147"
+        },
+        {
+            "decision": "Coumadin 2 mg QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10348,
+            "end_offset": 10364,
+            "annotation_id": "QJ_148"
+        },
+        {
+            "decision": "Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10393,
+            "end_offset": 10453,
+            "annotation_id": "QJ_149"
+        },
+        {
+            "decision": "Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10459,
+            "end_offset": 10522,
+            "annotation_id": "QJ_150"
+        },
+        {
+            "decision": "Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10528,
+            "end_offset": 10647,
+            "annotation_id": "QJ_151"
+        },
+        {
+            "decision": "Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10653,
+            "end_offset": 10713,
+            "annotation_id": "QJ_152"
+        },
+        {
+            "decision": "Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for 24 weeks.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10719,
+            "end_offset": 10849,
+            "annotation_id": "QJ_153"
+        },
+        {
+            "decision": "Torsemide 20 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10854,
+            "end_offset": 10910,
+            "annotation_id": "QJ_154"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11033,
+            "end_offset": 11036,
+            "annotation_id": "QJ_155"
+        },
+        {
+            "decision": "Ranolazine 500 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO Qday () as needed for CAD.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10915,
+            "end_offset": 11036,
+            "annotation_id": "QJ_156"
+        },
+        {
+            "decision": "Please do not restart your Warfarin until you have your INR checked and Dr.[**Name (NI) 82680**] office calls you to tell you to restart your warfarin",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11100,
+            "end_offset": 11250,
+            "annotation_id": "QJ_157"
+        },
+        {
+            "decision": "Warfarin 2 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Please do not restart your Warfarin until you have your INR checked and Dr.[**Name (NI) 82680**] office calls you to tell you to restart your warfarin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11041,
+            "end_offset": 11250,
+            "annotation_id": "QJ_158"
+        },
+        {
+            "decision": "Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11255,
+            "end_offset": 11361,
+            "annotation_id": "QJ_159"
+        },
+        {
+            "decision": "Check INR on [**2112-4-1**]",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 11387,
+            "end_offset": 11414,
+            "annotation_id": "QJ_160"
+        },
+        {
+            "decision": "GlipiZIDE 2.5 mg Tab,Sust Rel Osmotic Push 24hr Sig: One (1) Tab,Sust Rel Osmotic Push 24hr PO BID (2 times a day). Disp:*60 Tab,Sust Rel Osmotic Push 24hr(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 11419,
+            "end_offset": 11590,
+            "annotation_id": "QJ_161"
+        },
+        {
+            "decision": "Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day. Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 11595,
+            "end_offset": 11756,
+            "annotation_id": "QJ_162"
+        },
+        {
+            "decision": "Acute on chronic congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11852,
+            "end_offset": 11893,
+            "annotation_id": "QJ_163"
+        },
+        {
+            "decision": "Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11894,
+            "end_offset": 11902,
+            "annotation_id": "QJ_164"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11903,
+            "end_offset": 11915,
+            "annotation_id": "QJ_165"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11916,
+            "end_offset": 11920,
+            "annotation_id": "QJ_166"
+        },
+        {
+            "decision": "Discharge Condition: Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11923,
+            "end_offset": 11950,
+            "annotation_id": "QJ_167"
+        },
+        {
+            "decision": "you had a muscle test to look at the nerve function in your muscles and this was normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12045,
+            "end_offset": 12132,
+            "annotation_id": "QJ_168"
+        },
+        {
+            "decision": "You had a number of radiology studies to look for anatomical causes of your weakness and there was no evidence of any dangerous abnormality.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12134,
+            "end_offset": 12273,
+            "annotation_id": "QJ_169"
+        },
+        {
+            "decision": "probably caused by the fluids you were given for hydration ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12349,
+            "end_offset": 12407,
+            "annotation_id": "QJ_170"
+        },
+        {
+            "decision": "you developed respiratory distress, which was probably caused by the fluids you were given for hydration prior to a radiology study.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12303,
+            "end_offset": 12434,
+            "annotation_id": "QJ_171"
+        },
+        {
+            "decision": "diuretic medicines ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12458,
+            "end_offset": 12476,
+            "annotation_id": "QJ_172"
+        },
+        {
+            "decision": "physical therapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12562,
+            "end_offset": 12578,
+            "annotation_id": "QJ_173"
+        },
+        {
+            "decision": "your leg weakness resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12583,
+            "end_offset": 12609,
+            "annotation_id": "QJ_174"
+        },
+        {
+            "decision": "Please continue to take your home medications as directed. Some changes have been made to your home medications:",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12660,
+            "end_offset": 12771,
+            "annotation_id": "QJ_175"
+        },
+        {
+            "decision": "Metoprolol has been CHANGED to Toprol XL",
+            "category": "Category 5: Drug related",
+            "start_offset": 12773,
+            "end_offset": 12813,
+            "annotation_id": "QJ_176"
+        },
+        {
+            "decision": "Your Warfarin has been STOPPED. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12815,
+            "end_offset": 12845,
+            "annotation_id": "QJ_177"
+        },
+        {
+            "decision": "Please do not restart your Warfarin until you have your INR checked and Dr.[**Name (NI) 82680**] office calls you to tell you to restart your warfarin",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12847,
+            "end_offset": 12997,
+            "annotation_id": "QJ_178"
+        },
+        {
+            "decision": "Please do not restart your Warfarin until you have your INR checked and Dr.[**Name (NI) 82680**] office calls you to tell you to restart your warfarin",
+            "category": "Category 5: Drug related",
+            "start_offset": 12847,
+            "end_offset": 12997,
+            "annotation_id": "QJ_179"
+        },
+        {
+            "decision": "Your glyburide has been STOPPED.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12999,
+            "end_offset": 13030,
+            "annotation_id": "QJ_180"
+        },
+        {
+            "decision": "You have been STARTED on glipizide",
+            "category": "Category 5: Drug related",
+            "start_offset": 13032,
+            "end_offset": 13066,
+            "annotation_id": "QJ_181"
+        },
+        {
+            "decision": "If you develop any chest pain, shortness of breath, wheezing or any other distressing symptom, please return to the emergency room.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13070,
+            "end_offset": 13200,
+            "annotation_id": "QJ_182"
+        },
+        {
+            "decision": "MD: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8573**] Specialty: Cardiology Date and time: Wednesday [**2112-4-6**] at 2:30 PM Location: [**Hospital 22849**] Medical Center 2 [**Doctor Last Name **] Dr. [**Last Name (STitle) 82681**], MA Phone number: ([**Telephone/Fax (1) 82682**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 13241,
+            "end_offset": 13547,
+            "annotation_id": "QJ_183"
+        },
+        {
+            "decision": "MD: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Specialty: Internal Medicine Date and time: Wednesday [**2112-4-6**] at 3:15 PM Location: [**Hospital 22849**] Medical Center 2 [**Doctor Last Name **] Dr. [**Last Name (STitle) 82681**], MA Phone number: ([**Telephone/Fax (1) 82683**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 13565,
+            "end_offset": 13874,
+            "annotation_id": "QJ_184"
+        }
+    ]
+}

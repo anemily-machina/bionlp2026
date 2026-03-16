@@ -1,0 +1,720 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "84270_175204_38353",
+    "annotations": [
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 274,
+            "end_offset": 285,
+            "annotation_id": "QB_000"
+        },
+        {
+            "decision": "HD line placement and removal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 325,
+            "end_offset": 354,
+            "annotation_id": "QB_001"
+        },
+        {
+            "decision": "history of alcohol abuse, chronic alcoholic pancreatitis, and COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 410,
+            "end_offset": 476,
+            "annotation_id": "QB_002"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] on [**5-20**] from [**Hospital 1562**] Hospital",
+            "category": "Category 1: Contact related",
+            "start_offset": 485,
+            "end_offset": 566,
+            "annotation_id": "QB_003"
+        },
+        {
+            "decision": "worsening alcoholic hepatitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 571,
+            "end_offset": 600,
+            "annotation_id": "QB_004"
+        },
+        {
+            "decision": "transferred to [**Hospital1 1562**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 606,
+            "end_offset": 641,
+            "annotation_id": "QB_005"
+        },
+        {
+            "decision": "etoh detox the previous week for lethargy and dark stools, which had evidently been ongoing for several weeks",
+            "category": "Category 3: Defining problem",
+            "start_offset": 647,
+            "end_offset": 756,
+            "annotation_id": "QB_006"
+        },
+        {
+            "decision": "Exam was significant for encephalopathy, distended abdomen, and heme positive dark stools",
+            "category": "Category 3: Defining problem",
+            "start_offset": 939,
+            "end_offset": 1028,
+            "annotation_id": "QB_007"
+        },
+        {
+            "decision": "heme positive dark stools",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1003,
+            "end_offset": 1028,
+            "annotation_id": "QB_008"
+        },
+        {
+            "decision": "presumed, not confirmed SBP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1121,
+            "end_offset": 1148,
+            "annotation_id": "QB_009"
+        },
+        {
+            "decision": "Patient was treated with octreotide, PPI [**Hospital1 **], lactulose, lasix, rocephin (for presumed, not confirmed SBP) and prednisolone in context of alcoholic hepatitis",
+            "category": "Category 5: Drug related",
+            "start_offset": 1030,
+            "end_offset": 1200,
+            "annotation_id": "QB_010"
+        },
+        {
+            "decision": "in context of alcoholic hepatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1167,
+            "end_offset": 1200,
+            "annotation_id": "QB_011"
+        },
+        {
+            "decision": "unstable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1252,
+            "end_offset": 1260,
+            "annotation_id": "QB_012"
+        },
+        {
+            "decision": "EGD was never performed as patient was deemed too unstable.",
+            "category": "Category 8: Deferment",
+            "start_offset": 1202,
+            "end_offset": 1260,
+            "annotation_id": "QB_013"
+        },
+        {
+            "decision": "Patient continued to decline clinically ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1262,
+            "end_offset": 1301,
+            "annotation_id": "QB_014"
+        },
+        {
+            "decision": "labs were concerning for HRS",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1306,
+            "end_offset": 1334,
+            "annotation_id": "QB_015"
+        },
+        {
+            "decision": "HRS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1331,
+            "end_offset": 1334,
+            "annotation_id": "QB_016"
+        },
+        {
+            "decision": "she was transferred to [**Hospital1 18**] for further work-up.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1345,
+            "end_offset": 1406,
+            "annotation_id": "QB_017"
+        },
+        {
+            "decision": "Cr has rapidly worsened from 1.6 to 6.9 despite midodrine, octreotide and albumin",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1451,
+            "end_offset": 1532,
+            "annotation_id": "QB_018"
+        },
+        {
+            "decision": "despite midodrine, octreotide and albumin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1491,
+            "end_offset": 1532,
+            "annotation_id": "QB_019"
+        },
+        {
+            "decision": "Her renal failure has been attributed to HRS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1534,
+            "end_offset": 1578,
+            "annotation_id": "QB_020"
+        },
+        {
+            "decision": "She was started on vancomycin and zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 1580,
+            "end_offset": 1619,
+            "annotation_id": "QB_021"
+        },
+        {
+            "decision": "presumed HAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1624,
+            "end_offset": 1636,
+            "annotation_id": "QB_022"
+        },
+        {
+            "decision": "Vancomycin was stopped on [**5-25**] but vanco level has been therapeutic since that time given worsening renal function",
+            "category": "Category 5: Drug related",
+            "start_offset": 1660,
+            "end_offset": 1780,
+            "annotation_id": "QB_023"
+        },
+        {
+            "decision": "worsening renal function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1756,
+            "end_offset": 1780,
+            "annotation_id": "QB_024"
+        },
+        {
+            "decision": "Temp HD line was placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1782,
+            "end_offset": 1805,
+            "annotation_id": "QB_025"
+        },
+        {
+            "decision": "hypotensive with an SBP in the 70s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1865,
+            "end_offset": 1899,
+            "annotation_id": "QB_026"
+        },
+        {
+            "decision": "Plan was to initiate HD today, but patient was hypotensive with an SBP in the 70s while at HD just prior to starting HD",
+            "category": "Category 8: Deferment",
+            "start_offset": 1818,
+            "end_offset": 1937,
+            "annotation_id": "QB_027"
+        },
+        {
+            "decision": "CVVH ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2016,
+            "end_offset": 2020,
+            "annotation_id": "QB_028"
+        },
+        {
+            "decision": "transferred to the ICU for closer monitoring and consideration of CVVH initiation",
+            "category": "Category 1: Contact related",
+            "start_offset": 1950,
+            "end_offset": 2031,
+            "annotation_id": "QB_029"
+        },
+        {
+            "decision": "200 ccs of NS ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2064,
+            "end_offset": 2077,
+            "annotation_id": "QB_030"
+        },
+        {
+            "decision": "improved SBP to the 90s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2083,
+            "end_offset": 2106,
+            "annotation_id": "QB_031"
+        },
+        {
+            "decision": "Alcohol abuse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2367,
+            "end_offset": 2380,
+            "annotation_id": "QB_032"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2445,
+            "end_offset": 2449,
+            "annotation_id": "QB_033"
+        },
+        {
+            "decision": "S/p nephrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2452,
+            "end_offset": 2467,
+            "annotation_id": "QB_034"
+        },
+        {
+            "decision": "benign renal nodules",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2472,
+            "end_offset": 2492,
+            "annotation_id": "QB_035"
+        },
+        {
+            "decision": "Chronic alcoholic pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2495,
+            "end_offset": 2525,
+            "annotation_id": "QB_036"
+        },
+        {
+            "decision": "GENERAL: Jaundiced, mumbling, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3243,
+            "end_offset": 3290,
+            "annotation_id": "QB_037"
+        },
+        {
+            "decision": "HEENT: PEARLA, mucous membranes dry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3291,
+            "end_offset": 3326,
+            "annotation_id": "QB_038"
+        },
+        {
+            "decision": "CHEST: Crackles at lower bases bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3327,
+            "end_offset": 3369,
+            "annotation_id": "QB_039"
+        },
+        {
+            "decision": "CARDIAC: Regular rate and rhythm; no murmurs, rubs, or gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3370,
+            "end_offset": 3432,
+            "annotation_id": "QB_040"
+        },
+        {
+            "decision": "ABDOMEN: Obese, +BS, soft, non-tender, no appreciable fluid wave",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3433,
+            "end_offset": 3497,
+            "annotation_id": "QB_041"
+        },
+        {
+            "decision": "EXTREMITIES: Positive peripheral pulses, 1+ edema bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3499,
+            "end_offset": 3560,
+            "annotation_id": "QB_042"
+        },
+        {
+            "decision": "SKIN: Warm, dry, and jaundiced",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3561,
+            "end_offset": 3591,
+            "annotation_id": "QB_043"
+        },
+        {
+            "decision": "URINE  RBC->50 WBC-[**11-1**]* BACTERIA-NONE YEAST-RARE EPI-0-2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4331,
+            "end_offset": 4394,
+            "annotation_id": "QB_044"
+        },
+        {
+            "decision": "URINE  BLOOD-LG NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-TR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4419,
+            "end_offset": 4522,
+            "annotation_id": "QB_045"
+        },
+        {
+            "decision": "COLOR-Amber APPEAR-Hazy SP [**Last Name (un) 155**]-1.010",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4554,
+            "end_offset": 4611,
+            "annotation_id": "QB_046"
+        },
+        {
+            "decision": "URINE  HOURS-RANDOM UREA N-379 CREAT-55 SODIUM-65 POTASSIUM-32 CHLORIDE-114",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4636,
+            "end_offset": 4711,
+            "annotation_id": "QB_047"
+        },
+        {
+            "decision": "Ill-defined opacities bilaterally at the lung bases, improved since [**2148-5-23**], similar to [**2149-5-27**], possibly from aspiration. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4732,
+            "end_offset": 4869,
+            "annotation_id": "QB_048"
+        },
+        {
+            "decision": "atelectasis at the lung bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4902,
+            "end_offset": 4931,
+            "annotation_id": "QB_049"
+        },
+        {
+            "decision": "Bibasilar opacities, likely atelectasis at the lung bases. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4874,
+            "end_offset": 4931,
+            "annotation_id": "QB_050"
+        },
+        {
+            "decision": "Small left pleural effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4936,
+            "end_offset": 4963,
+            "annotation_id": "QB_051"
+        },
+        {
+            "decision": "Stable mild cardiomegaly.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4968,
+            "end_offset": 4992,
+            "annotation_id": "QB_052"
+        },
+        {
+            "decision": "Patchy echogenic hepatic echotexture and reversed flow in the portal veins and splenic vein suggesting the presence of a splenorenal shunt",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5021,
+            "end_offset": 5159,
+            "annotation_id": "QB_053"
+        },
+        {
+            "decision": "The findings are consistent with cirrhosis and portal hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5161,
+            "end_offset": 5227,
+            "annotation_id": "QB_054"
+        },
+        {
+            "decision": "alcohol abuse, chronic pancreatitis, and COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5297,
+            "end_offset": 5342,
+            "annotation_id": "QB_055"
+        },
+        {
+            "decision": "worsening alcoholic hepatitis and likely hepato-renal syndrome.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5396,
+            "end_offset": 5458,
+            "annotation_id": "QB_056"
+        },
+        {
+            "decision": "The [**Hospital 228**] hospital course was complicated by hepatic encephalopathy and progressive renal failure with signficant uremia along with a hospital acquired pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5460,
+            "end_offset": 5634,
+            "annotation_id": "QB_057"
+        },
+        {
+            "decision": "The patient's renal function continued to decline despite treatment for hepato-renal syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5636,
+            "end_offset": 5729,
+            "annotation_id": "QB_058"
+        },
+        {
+            "decision": "A temporary HD line was placed in her right IJ ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5731,
+            "end_offset": 5777,
+            "annotation_id": "QB_059"
+        },
+        {
+            "decision": "the patient went to HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5798,
+            "end_offset": 5820,
+            "annotation_id": "QB_060"
+        },
+        {
+            "decision": "SBPs declined to the 80s with acute worsening of her mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5831,
+            "end_offset": 5897,
+            "annotation_id": "QB_061"
+        },
+        {
+            "decision": "transferred to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 5907,
+            "end_offset": 5930,
+            "annotation_id": "QB_062"
+        },
+        {
+            "decision": "The patient was made CMO",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6164,
+            "end_offset": 6188,
+            "annotation_id": "QB_063"
+        },
+        {
+            "decision": "Her medications were discontinued aside from morphine and zydis",
+            "category": "Category 5: Drug related",
+            "start_offset": 6190,
+            "end_offset": 6253,
+            "annotation_id": "QB_064"
+        },
+        {
+            "decision": "Her HD line was removed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6255,
+            "end_offset": 6278,
+            "annotation_id": "QB_065"
+        },
+        {
+            "decision": "Lidocaine 5% Patch 1 PTCH TD DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 6321,
+            "end_offset": 6355,
+            "annotation_id": "QB_066"
+        },
+        {
+            "decision": "Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB",
+            "category": "Category 5: Drug related",
+            "start_offset": 6358,
+            "end_offset": 6404,
+            "annotation_id": "QB_067"
+        },
+        {
+            "decision": "Midodrine 10 mg PO TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 6407,
+            "end_offset": 6429,
+            "annotation_id": "QB_068"
+        },
+        {
+            "decision": "Miconazole Powder 2% 1 Appl TP QID:PRN irritation",
+            "category": "Category 5: Drug related",
+            "start_offset": 6432,
+            "end_offset": 6481,
+            "annotation_id": "QB_069"
+        },
+        {
+            "decision": "Fluconazole 200 mg IV Q24H day 1 = [**5-25**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6484,
+            "end_offset": 6529,
+            "annotation_id": "QB_070"
+        },
+        {
+            "decision": "Multivitamins 1 TAB PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 6532,
+            "end_offset": 6563,
+            "annotation_id": "QB_071"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol Diskus (250/50) 1 INH IH",
+            "category": "Category 5: Drug related",
+            "start_offset": 6566,
+            "end_offset": 6613,
+            "annotation_id": "QB_072"
+        },
+        {
+            "decision": "Octreotide Acetate 200 mcg SC Q8H",
+            "category": "Category 5: Drug related",
+            "start_offset": 6633,
+            "end_offset": 6666,
+            "annotation_id": "QB_073"
+        },
+        {
+            "decision": "FoLIC Acid 1 mg PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 6669,
+            "end_offset": 6696,
+            "annotation_id": "QB_074"
+        },
+        {
+            "decision": "Ondansetron 4 mg IV Q8H:PRN nausea",
+            "category": "Category 5: Drug related",
+            "start_offset": 6699,
+            "end_offset": 6733,
+            "annotation_id": "QB_075"
+        },
+        {
+            "decision": "Pantoprazole 40 mg PO Q12H",
+            "category": "Category 5: Drug related",
+            "start_offset": 6736,
+            "end_offset": 6762,
+            "annotation_id": "QB_076"
+        },
+        {
+            "decision": "Heparin 5000 UNIT SC TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 6765,
+            "end_offset": 6789,
+            "annotation_id": "QB_077"
+        },
+        {
+            "decision": "Piperacillin-Tazobactam 4.5 g IV Q8H",
+            "category": "Category 5: Drug related",
+            "start_offset": 6792,
+            "end_offset": 6828,
+            "annotation_id": "QB_078"
+        },
+        {
+            "decision": "Insulin SC (per Insulin Flowsheet)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6831,
+            "end_offset": 6864,
+            "annotation_id": "QB_079"
+        },
+        {
+            "decision": "Rifaximin 550 mg PO/NG ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6868,
+            "end_offset": 6890,
+            "annotation_id": "QB_080"
+        },
+        {
+            "decision": "Ipratropium Bromide MDI 2 PUFF IH Q6H:PRN SOB/wheeze",
+            "category": "Category 5: Drug related",
+            "start_offset": 6910,
+            "end_offset": 6962,
+            "annotation_id": "QB_081"
+        },
+        {
+            "decision": "Lactulose 15 mL PO/NG TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 6965,
+            "end_offset": 6990,
+            "annotation_id": "QB_082"
+        },
+        {
+            "decision": "Thiamine 100 mg PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 6993,
+            "end_offset": 7020,
+            "annotation_id": "QB_083"
+        },
+        {
+            "decision": "Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO TID (3 times a day) as needed for agitation: as per hospice protocol. Disp:*45 Tablet, Rapid Dissolve(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7049,
+            "end_offset": 7244,
+            "annotation_id": "QB_084"
+        },
+        {
+            "decision": "Oxygen Please provide patient with 2L continuous oxygen for use while under hospice care.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7314,
+            "end_offset": 7402,
+            "annotation_id": "QB_085"
+        },
+        {
+            "decision": "Morphine Concentrate 20 mg/mL Solution Sig: 5-10 mg PO Q2H (every 2 hours) as needed for pain, shortness of breath: as per hospice protocol. Disp:*500 cc* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7407,
+            "end_offset": 7573,
+            "annotation_id": "QB_086"
+        },
+        {
+            "decision": "Home With Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 7599,
+            "end_offset": 7616,
+            "annotation_id": "QB_087"
+        },
+        {
+            "decision": "Hospice and Palliative Care",
+            "category": "Category 1: Contact related",
+            "start_offset": 7628,
+            "end_offset": 7655,
+            "annotation_id": "QB_088"
+        },
+        {
+            "decision": "Liver Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7678,
+            "end_offset": 7691,
+            "annotation_id": "QB_089"
+        },
+        {
+            "decision": "Renal Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7692,
+            "end_offset": 7705,
+            "annotation_id": "QB_090"
+        },
+        {
+            "decision": "Hospital Acquired Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7706,
+            "end_offset": 7733,
+            "annotation_id": "QB_091"
+        },
+        {
+            "decision": "Mental Status: Confused - always.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7757,
+            "end_offset": 7789,
+            "annotation_id": "QB_092"
+        },
+        {
+            "decision": "Level of Consciousness: Lethargic but arousable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7791,
+            "end_offset": 7838,
+            "annotation_id": "QB_093"
+        },
+        {
+            "decision": "Activity Status: Bedbound.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7840,
+            "end_offset": 7865,
+            "annotation_id": "QB_094"
+        },
+        {
+            "decision": "liver failure and developed kidney failure while in the hospital",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7932,
+            "end_offset": 7996,
+            "annotation_id": "QB_095"
+        },
+        {
+            "decision": "This is all related to your liver losing its ability to function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7998,
+            "end_offset": 8062,
+            "annotation_id": "QB_096"
+        },
+        {
+            "decision": "medications ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8240,
+            "end_offset": 8251,
+            "annotation_id": "QB_097"
+        },
+        {
+            "decision": "your care was transitioned to focus on comfort and you were sent home with medications that will help with your breathing, pain and agitation",
+            "category": "Category 1: Contact related",
+            "start_offset": 8165,
+            "end_offset": 8306,
+            "annotation_id": "QB_098"
+        },
+        {
+            "decision": "visiting hospice nurse in your home",
+            "category": "Category 1: Contact related",
+            "start_offset": 8378,
+            "end_offset": 8413,
+            "annotation_id": "QB_099"
+        },
+        {
+            "decision": "You should contact this agency when you or your family have questions or concerns about how to manage your symptoms while at home.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8415,
+            "end_offset": 8544,
+            "annotation_id": "QB_100"
+        },
+        {
+            "decision": "Please contact your [**Name (NI) 269**]/hospice agency for questions regarding symptom management.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8570,
+            "end_offset": 8667,
+            "annotation_id": "QB_101"
+        }
+    ]
+}

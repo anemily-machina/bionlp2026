@@ -1,0 +1,517 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "19213_151068_52402",
+    "annotations": [
+        {
+            "decision": "insulin dependent diabetes mellitus and multiple admissions for diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 278,
+            "end_offset": 363,
+            "annotation_id": "ER_000"
+        },
+        {
+            "decision": "diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 573,
+            "end_offset": 594,
+            "annotation_id": "ER_001"
+        },
+        {
+            "decision": "coffee ground emesis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 720,
+            "end_offset": 740,
+            "annotation_id": "ER_002"
+        },
+        {
+            "decision": "glucose was found to be greater than 700 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 792,
+            "end_offset": 832,
+            "annotation_id": "ER_003"
+        },
+        {
+            "decision": "and she was started on 150 cc/hour of normal saline after a bolus of one liter of normal saline",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 833,
+            "end_offset": 928,
+            "annotation_id": "ER_004"
+        },
+        {
+            "decision": "12 units of regular insulin and then started on an insulin drip at 10 units per hour",
+            "category": "Category 5: Drug related",
+            "start_offset": 945,
+            "end_offset": 1029,
+            "annotation_id": "ER_005"
+        },
+        {
+            "decision": "Normal saline lavage revealed black clots with subsequent clearing after 250 cc normal saline.  No bright red blood was visualized",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1032,
+            "end_offset": 1162,
+            "annotation_id": "ER_006"
+        },
+        {
+            "decision": "hematocrit was noted to drop from 30.0 to 24.0 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1169,
+            "end_offset": 1215,
+            "annotation_id": "ER_007"
+        },
+        {
+            "decision": "given one unit packed red blood cells in the Emergency Department",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1236,
+            "end_offset": 1301,
+            "annotation_id": "ER_008"
+        },
+        {
+            "decision": "blood pressure fell to 70/40 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1307,
+            "end_offset": 1335,
+            "annotation_id": "ER_009"
+        },
+        {
+            "decision": "right subclavian triple lumen catheter was placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1344,
+            "end_offset": 1393,
+            "annotation_id": "ER_010"
+        },
+        {
+            "decision": "Neo-Synephrine was started at 20 mcg/minute ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1398,
+            "end_offset": 1441,
+            "annotation_id": "ER_011"
+        },
+        {
+            "decision": "blood pressure responding and increasing to 120/70.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1447,
+            "end_offset": 1497,
+            "annotation_id": "ER_012"
+        },
+        {
+            "decision": "transferred to the Medical Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 1521,
+            "end_offset": 1567,
+            "annotation_id": "ER_013"
+        },
+        {
+            "decision": "for further management of diabetic ketoacidosis and cardiovascular status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1568,
+            "end_offset": 1641,
+            "annotation_id": "ER_014"
+        },
+        {
+            "decision": "1.  Insulin dependent diabetes mellitus with multiple admissions for diabetic ketoacidosis and also with triopathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1666,
+            "end_offset": 1780,
+            "annotation_id": "ER_015"
+        },
+        {
+            "decision": "2.  Gastroparesis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1782,
+            "end_offset": 1799,
+            "annotation_id": "ER_016"
+        },
+        {
+            "decision": "3.  Hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1801,
+            "end_offset": 1817,
+            "annotation_id": "ER_017"
+        },
+        {
+            "decision": "4.  History of [**Doctor First Name **]-[**Doctor Last Name **] tears",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1819,
+            "end_offset": 1888,
+            "annotation_id": "ER_018"
+        },
+        {
+            "decision": ".  Asthma-never intubated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1894,
+            "end_offset": 1916,
+            "annotation_id": "ER_019"
+        },
+        {
+            "decision": "6.  High cholesterol.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1918,
+            "end_offset": 1938,
+            "annotation_id": "ER_020"
+        },
+        {
+            "decision": ".  Cesarean section times three.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1944,
+            "end_offset": 1972,
+            "annotation_id": "ER_021"
+        },
+        {
+            "decision": "1.  Lente insulin 24 units in a.m., 16 units in p.m.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2001,
+            "end_offset": 2052,
+            "annotation_id": "ER_022"
+        },
+        {
+            "decision": "2.  Humalog per sliding scale.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2054,
+            "end_offset": 2083,
+            "annotation_id": "ER_023"
+        },
+        {
+            "decision": "3.  Zestril 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2085,
+            "end_offset": 2111,
+            "annotation_id": "ER_024"
+        },
+        {
+            "decision": "4.  Lipitor 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2113,
+            "end_offset": 2139,
+            "annotation_id": "ER_025"
+        },
+        {
+            "decision": ".  [**Doctor First Name **] 60 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2145,
+            "end_offset": 2186,
+            "annotation_id": "ER_026"
+        },
+        {
+            "decision": ".  Zantac 150 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2192,
+            "end_offset": 2216,
+            "annotation_id": "ER_027"
+        },
+        {
+            "decision": "7.  Flonase 50 mcg.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2218,
+            "end_offset": 2236,
+            "annotation_id": "ER_028"
+        },
+        {
+            "decision": "8.  Flovent 220 two puffs b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2238,
+            "end_offset": 2269,
+            "annotation_id": "ER_029"
+        },
+        {
+            "decision": "9.  Reglan 10 mg b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2271,
+            "end_offset": 2293,
+            "annotation_id": "ER_030"
+        },
+        {
+            "decision": "10. Folate.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2295,
+            "end_offset": 2305,
+            "annotation_id": "ER_031"
+        },
+        {
+            "decision": "11. Multivitamin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2307,
+            "end_offset": 2323,
+            "annotation_id": "ER_032"
+        },
+        {
+            "decision": "12. Nitroglycerin sublingual p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2325,
+            "end_offset": 2359,
+            "annotation_id": "ER_033"
+        },
+        {
+            "decision": "In general, a young female with flat affect in no apparent distress ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2798,
+            "end_offset": 2865,
+            "annotation_id": "ER_034"
+        },
+        {
+            "decision": "condition on transfer from Medical Intensive Care Unit to floor)",
+            "category": "Category 1: Contact related",
+            "start_offset": 2867,
+            "end_offset": 2930,
+            "annotation_id": "ER_035"
+        },
+        {
+            "decision": "Head, eyes, ears, nose and throat - Normocephalic and atraumatic.  The pupils are equal, round, and reactive to light and accommodation, 4.0 to 3.5 bilaterally.  Extraocular movements are intact.  The oropharynx is clear. Mucous membranes are moist. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2934,
+            "end_offset": 3182,
+            "annotation_id": "ER_036"
+        },
+        {
+            "decision": "Neck - supple, no jugular venous distention, full range of motion. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3185,
+            "end_offset": 3250,
+            "annotation_id": "ER_037"
+        },
+        {
+            "decision": "Cor - regular rate and rhythm, positive systolic ejection murmur, soft, heard best at left upper sternal border with slight neck radiation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3252,
+            "end_offset": 3390,
+            "annotation_id": "ER_038"
+        },
+        {
+            "decision": "Chest - positive right subclavian triple lumen catheter.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3393,
+            "end_offset": 3448,
+            "annotation_id": "ER_039"
+        },
+        {
+            "decision": "Lungs clear to auscultation throughout.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3451,
+            "end_offset": 3489,
+            "annotation_id": "ER_040"
+        },
+        {
+            "decision": "Abdomen is soft, nontender, nondistended, positive bowel sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3492,
+            "end_offset": 3555,
+            "annotation_id": "ER_041"
+        },
+        {
+            "decision": ".  Extremities no cyanosis, clubbing or edema.  Dorsalis pedis pulses 2+ bilaterally. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3558,
+            "end_offset": 3639,
+            "annotation_id": "ER_042"
+        },
+        {
+            "decision": "Neurologic - on transfer from Medical Intensive Care Unit to floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 3642,
+            "end_offset": 3708,
+            "annotation_id": "ER_043"
+        },
+        {
+            "decision": "alert and oriented times three.  Speech, language and attention intact though the patient with flat affect.  Cranial nerves II through XII are intact.  Strength was [**4-5**] throughout bilaterally.  Decreased sensation to light touch distal lower extremities bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3710,
+            "end_offset": 3981,
+            "annotation_id": "ER_044"
+        },
+        {
+            "decision": "Deep tendon reflexes 1+ bilaterally upper extremities, slight in lower extremities.  Toes are downgoing. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3984,
+            "end_offset": 4087,
+            "annotation_id": "ER_045"
+        },
+        {
+            "decision": "Prothrombin time and partial thromboplastin time within normal limits.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4433,
+            "end_offset": 4502,
+            "annotation_id": "ER_046"
+        },
+        {
+            "decision": "Urinalysis nitrite negative, greater than 300 protein, greater than 1000 glucose, 40 ketone, no white blood cells, 2 red blood cells, no bacteria, less than one epithelial cell.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4505,
+            "end_offset": 4681,
+            "annotation_id": "ER_047"
+        },
+        {
+            "decision": "12 units of regular insulin followed by insulin drip at 10 units insulin per hour",
+            "category": "Category 5: Drug related",
+            "start_offset": 4880,
+            "end_offset": 4961,
+            "annotation_id": "ER_048"
+        },
+        {
+            "decision": "Normal saline lavage revealed black clots with subsequent clearing after 250 cc normal saline.  No bright red blood was visualized.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4964,
+            "end_offset": 5094,
+            "annotation_id": "ER_049"
+        },
+        {
+            "decision": "Hematocrit noted to drop from 30.0 to 24.0 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5097,
+            "end_offset": 5139,
+            "annotation_id": "ER_050"
+        },
+        {
+            "decision": "with subsequent transfusion of one unit of packed red blood cells ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5140,
+            "end_offset": 5205,
+            "annotation_id": "ER_051"
+        },
+        {
+            "decision": "right subclavian triple lumen catheter was placed,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5281,
+            "end_offset": 5330,
+            "annotation_id": "ER_052"
+        },
+        {
+            "decision": "Neo-Synephrine was started at 20 mcg/minute",
+            "category": "Category 5: Drug related",
+            "start_offset": 5336,
+            "end_offset": 5379,
+            "annotation_id": "ER_053"
+        },
+        {
+            "decision": "blood pressure response to 120/70.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5386,
+            "end_offset": 5419,
+            "annotation_id": "ER_054"
+        },
+        {
+            "decision": "transferred to the Medical Intensive Care Unit ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5443,
+            "end_offset": 5489,
+            "annotation_id": "ER_055"
+        },
+        {
+            "decision": "diabetic ketoacidosis and hemodynamic instability.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5516,
+            "end_offset": 5565,
+            "annotation_id": "ER_056"
+        },
+        {
+            "decision": "anion gap which on admission was 36, began to normalize, as did her blood pressure.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5608,
+            "end_offset": 5690,
+            "annotation_id": "ER_057"
+        },
+        {
+            "decision": "insulin drip was slowly weaned and subsequently discontinued on [**2200-9-3**].  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5697,
+            "end_offset": 5775,
+            "annotation_id": "ER_058"
+        },
+        {
+            "decision": "Neo-Synephrine was discontinued ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5778,
+            "end_offset": 5809,
+            "annotation_id": "ER_059"
+        },
+        {
+            "decision": "returned to her baseline hypertensive status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5826,
+            "end_offset": 5870,
+            "annotation_id": "ER_060"
+        },
+        {
+            "decision": "received Hydralazine intravenously times two",
+            "category": "Category 5: Drug related",
+            "start_offset": 5885,
+            "end_offset": 5929,
+            "annotation_id": "ER_061"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5961,
+            "end_offset": 5985,
+            "annotation_id": "ER_062"
+        },
+        {
+            "decision": "diabetic ketoacidosis episode.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6006,
+            "end_offset": 6035,
+            "annotation_id": "ER_063"
+        },
+        {
+            "decision": "normalizing of blood sugar and resumption of normal anion gap",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6078,
+            "end_offset": 6139,
+            "annotation_id": "ER_064"
+        },
+        {
+            "decision": "follow-up with [**Last Name (un) **] Diabetes Center.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6190,
+            "end_offset": 6242,
+            "annotation_id": "ER_065"
+        },
+        {
+            "decision": "follow-up with the [**Last Name (un) **] Diabetes Center and her primary care physician",
+            "category": "Category 1: Contact related",
+            "start_offset": 6626,
+            "end_offset": 6713,
+            "annotation_id": "ER_066"
+        },
+        {
+            "decision": ".  Lente insulin 20 units q.a.m., 12 units q.h.s.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6746,
+            "end_offset": 6791,
+            "annotation_id": "ER_067"
+        },
+        {
+            "decision": "2.  Humalog sliding scale:  if blood sugar less than 150 no units, if blood sugar 151-200 two units, if blood sugar 201-250 three units, if blood sugar 251-300 four units.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6793,
+            "end_offset": 6963,
+            "annotation_id": "ER_068"
+        },
+        {
+            "decision": "3.  Zestril 15 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6965,
+            "end_offset": 6991,
+            "annotation_id": "ER_069"
+        },
+        {
+            "decision": ".  Atenolol 50 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6997,
+            "end_offset": 7020,
+            "annotation_id": "ER_070"
+        },
+        {
+            "decision": "5.  Protonix 40 mg p.o. q.d. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7022,
+            "end_offset": 7049,
+            "annotation_id": "ER_071"
+        },
+        {
+            "decision": "Diabetic ketoacidosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7074,
+            "end_offset": 7095,
+            "annotation_id": "ER_072"
+        }
+    ]
+}

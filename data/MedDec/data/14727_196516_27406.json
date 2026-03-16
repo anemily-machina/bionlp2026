@@ -1,0 +1,1049 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14727_196516_27406",
+    "annotations": [
+        {
+            "decision": "syncope due to VT with ICD firing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 309,
+            "annotation_id": "CO_000"
+        },
+        {
+            "decision": "EP procedure to change pacemaker generator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 350,
+            "end_offset": 392,
+            "annotation_id": "CO_001"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 563,
+            "end_offset": 571,
+            "annotation_id": "CO_002"
+        },
+        {
+            "decision": " PMH of MI, HTN, CHF Ischemic CM (EF 15%), VT/VF s/p AICD in '[**94**], AFib (on Coumadin) who has been more fluid overloaded for 2 weeks ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 483,
+            "end_offset": 619,
+            "annotation_id": "CO_003"
+        },
+        {
+            "decision": "started on Zaroxolyn in addition to her standind Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 637,
+            "end_offset": 691,
+            "annotation_id": "CO_004"
+        },
+        {
+            "decision": "She was brought to [**Hospital3 628**] where she was evaluated by the EP service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 820,
+            "end_offset": 900,
+            "annotation_id": "CO_005"
+        },
+        {
+            "decision": "was found to have been shocked at the time of her fall.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 932,
+            "end_offset": 986,
+            "annotation_id": "CO_006"
+        },
+        {
+            "decision": "had 3 further shocks at the OSH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1007,
+            "end_offset": 1038,
+            "annotation_id": "CO_007"
+        },
+        {
+            "decision": "VT at a rate of 210ms.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1065,
+            "end_offset": 1086,
+            "annotation_id": "CO_008"
+        },
+        {
+            "decision": "An ECHO revealed EF 15-20% with severe global HK with 2+ MR and 3+ TR and moderate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1088,
+            "end_offset": 1170,
+            "annotation_id": "CO_009"
+        },
+        {
+            "decision": "aggressively diuresed",
+            "category": "Category 5: Drug related",
+            "start_offset": 1206,
+            "end_offset": 1227,
+            "annotation_id": "CO_010"
+        },
+        {
+            "decision": "started on Aldactone",
+            "category": "Category 5: Drug related",
+            "start_offset": 1257,
+            "end_offset": 1277,
+            "annotation_id": "CO_011"
+        },
+        {
+            "decision": "she awoke nauseated and vomited",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1306,
+            "end_offset": 1337,
+            "annotation_id": "CO_012"
+        },
+        {
+            "decision": "found unresponsive with agonal breathing and no pulse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1381,
+            "end_offset": 1434,
+            "annotation_id": "CO_013"
+        },
+        {
+            "decision": "She was externally shocked x 1 with 360J",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1436,
+            "end_offset": 1476,
+            "annotation_id": "CO_014"
+        },
+        {
+            "decision": "given Epi and Mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1478,
+            "end_offset": 1494,
+            "annotation_id": "CO_015"
+        },
+        {
+            "decision": "returned to narrow complex tachy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1499,
+            "end_offset": 1531,
+            "annotation_id": "CO_016"
+        },
+        {
+            "decision": "she was subsequently intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1536,
+            "end_offset": 1566,
+            "annotation_id": "CO_017"
+        },
+        {
+            "decision": "transferred to the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1571,
+            "end_offset": 1593,
+            "annotation_id": "CO_018"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1603,
+            "end_offset": 1612,
+            "annotation_id": "CO_019"
+        },
+        {
+            "decision": "remained stable since",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1653,
+            "end_offset": 1674,
+            "annotation_id": "CO_020"
+        },
+        {
+            "decision": "transferred for EP evaluation ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1687,
+            "end_offset": 1716,
+            "annotation_id": "CO_021"
+        },
+        {
+            "decision": "CHF ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1796,
+            "end_offset": 1799,
+            "annotation_id": "CO_022"
+        },
+        {
+            "decision": "CT/VF ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1829,
+            "end_offset": 1834,
+            "annotation_id": "CO_023"
+        },
+        {
+            "decision": "ICD placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1840,
+            "end_offset": 1850,
+            "annotation_id": "CO_024"
+        },
+        {
+            "decision": "MI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1868,
+            "end_offset": 1870,
+            "annotation_id": "CO_025"
+        },
+        {
+            "decision": "MR/TR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1871,
+            "end_offset": 1876,
+            "annotation_id": "CO_026"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1877,
+            "end_offset": 1880,
+            "annotation_id": "CO_027"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1881,
+            "end_offset": 1901,
+            "annotation_id": "CO_028"
+        },
+        {
+            "decision": "AFib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1902,
+            "end_offset": 1906,
+            "annotation_id": "CO_029"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1907,
+            "end_offset": 1921,
+            "annotation_id": "CO_030"
+        },
+        {
+            "decision": "HEENT: Clear OP, MMM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2165,
+            "end_offset": 2185,
+            "annotation_id": "CO_031"
+        },
+        {
+            "decision": "NECK: Supple, No LAD, 12cm JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2186,
+            "end_offset": 2216,
+            "annotation_id": "CO_032"
+        },
+        {
+            "decision": "CV: RR, NL rate. NL S1, S2. [**2-23**] HSM best heard at apex, No rubs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2217,
+            "end_offset": 2287,
+            "annotation_id": "CO_033"
+        },
+        {
+            "decision": "LUNGS: R sided decreased BS to midlung with crackles, soft crackles on left at base, No W/R/C. Pain over left ribs (diffuse)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2316,
+            "end_offset": 2439,
+            "annotation_id": "CO_034"
+        },
+        {
+            "decision": "ABD: Soft, NT, ND. NL BS. No HSM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2441,
+            "end_offset": 2473,
+            "annotation_id": "CO_035"
+        },
+        {
+            "decision": "EXT: No edema, clubing, cyanosis. 2+ DP pulses BL. No bruits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2474,
+            "end_offset": 2534,
+            "annotation_id": "CO_036"
+        },
+        {
+            "decision": "SKIN: Pruned skin on feet. multiple ecchymoses UE b/l",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2536,
+            "end_offset": 2589,
+            "annotation_id": "CO_037"
+        },
+        {
+            "decision": "NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved sensation throughout.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2590,
+            "end_offset": 2671,
+            "annotation_id": "CO_038"
+        },
+        {
+            "decision": "PSYCH: Listens and responds to questions appropriately, pleasant",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2673,
+            "end_offset": 2737,
+            "annotation_id": "CO_039"
+        },
+        {
+            "decision": "ACCESS: RIJ and A Line, L 20g",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2739,
+            "end_offset": 2768,
+            "annotation_id": "CO_040"
+        },
+        {
+            "decision": "Right subclavian central venous catheter tip overlying the right brachiocephalic vein.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3348,
+            "end_offset": 3433,
+            "annotation_id": "CO_041"
+        },
+        {
+            "decision": "No evidence for pacer lead wire fracture, limited exam for evaluation of bony abnormalities.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3438,
+            "end_offset": 3529,
+            "annotation_id": "CO_042"
+        },
+        {
+            "decision": "The bowel gas pattern is nonobstructed and nonspecific with no evidence of free air or pneumatosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3564,
+            "end_offset": 3662,
+            "annotation_id": "CO_043"
+        },
+        {
+            "decision": "Copious stool visualized in the right colon and now extending into the transverse colon. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3664,
+            "end_offset": 3751,
+            "annotation_id": "CO_044"
+        },
+        {
+            "decision": "There are some calcific densities projecting over the right iliac [**Doctor First Name 362**], which could be renal stones or calcified mesenteric lymph nodes.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3753,
+            "end_offset": 3911,
+            "annotation_id": "CO_045"
+        },
+        {
+            "decision": "Renal U/S ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3925,
+            "end_offset": 3934,
+            "annotation_id": "CO_046"
+        },
+        {
+            "decision": "The kidneys are normal in size, echogenicity, and contour. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3945,
+            "end_offset": 4002,
+            "annotation_id": "CO_047"
+        },
+        {
+            "decision": "Right kidney measures 10.1 cm and left kidney 9.1 cm in greatest craniocaudal dimension. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4004,
+            "end_offset": 4091,
+            "annotation_id": "CO_048"
+        },
+        {
+            "decision": "Within the right kidney, there is a 1.8 cm upper pole simple cyst and a slightly exophytic 1.9 cm upper pole simple renal cyst. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4093,
+            "end_offset": 4219,
+            "annotation_id": "CO_049"
+        },
+        {
+            "decision": "There is a focal round hyperechoic lesion within the mid-upper pole, just adjacent to the renal sinus fat that likely represents calcification in the calyceal system possibly a diverticulum; this seems more likely than a cortical calcification.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4221,
+            "end_offset": 4464,
+            "annotation_id": "CO_050"
+        },
+        {
+            "decision": "No concerning mass lesions or hydronephrosis within the right kidney.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4466,
+            "end_offset": 4534,
+            "annotation_id": "CO_051"
+        },
+        {
+            "decision": "Within the left kidney, there is a 2.3 cm simple cyst within the interpolar region and a 2 cm cyst within the upper pole that is also simple in appearance. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4536,
+            "end_offset": 4690,
+            "annotation_id": "CO_052"
+        },
+        {
+            "decision": "Within the upper and the lower poles, there are similar round hyperechoic foci just peripheral to the renal sinus, that again likely represent small calcifications within the collecting system more likely than cortical calcifications.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4692,
+            "end_offset": 4925,
+            "annotation_id": "CO_053"
+        },
+        {
+            "decision": "No hydronephrosis. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4927,
+            "end_offset": 4944,
+            "annotation_id": "CO_054"
+        },
+        {
+            "decision": "The urinary bladder is clutched around a Foley catheter.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4946,
+            "end_offset": 5001,
+            "annotation_id": "CO_055"
+        },
+        {
+            "decision": "Normal sized kidneys without hydronephrosis. A single right and two left calcifications, more likely within caliceal system than cortical calcifications.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5015,
+            "end_offset": 5167,
+            "annotation_id": "CO_056"
+        },
+        {
+            "decision": "AICD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5302,
+            "end_offset": 5306,
+            "annotation_id": "CO_057"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5330,
+            "end_offset": 5338,
+            "annotation_id": "CO_058"
+        },
+        {
+            "decision": "PMH of MI, HTN, CHF Ischemic CM (EF 15%), VT/VF s/p AICD in '[**94**], AFib (on Coumadin)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5250,
+            "end_offset": 5338,
+            "annotation_id": "CO_059"
+        },
+        {
+            "decision": "transferred from OSH for EP evaluation ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5340,
+            "end_offset": 5378,
+            "annotation_id": "CO_060"
+        },
+        {
+            "decision": "VT and generator change to AICD who subsequently developed ARF which resolved prior to discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5382,
+            "end_offset": 5478,
+            "annotation_id": "CO_061"
+        },
+        {
+            "decision": "VT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5506,
+            "end_offset": 5508,
+            "annotation_id": "CO_062"
+        },
+        {
+            "decision": "several episodes of VT with subsequent AICD firing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5518,
+            "end_offset": 5568,
+            "annotation_id": "CO_063"
+        },
+        {
+            "decision": "diuresed her aggressively ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5593,
+            "end_offset": 5618,
+            "annotation_id": "CO_064"
+        },
+        {
+            "decision": "had her AICD generator changed at that time without event",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5689,
+            "end_offset": 5746,
+            "annotation_id": "CO_065"
+        },
+        {
+            "decision": "Amiodarone was started at 400mg PO QD.  She was placed on Keflex for 5 days s/p EP procedure as prophylaxis against infection. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5749,
+            "end_offset": 5874,
+            "annotation_id": "CO_066"
+        },
+        {
+            "decision": "She remained in sinus rhythm with no CP until she had another shock due to VT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5877,
+            "end_offset": 5954,
+            "annotation_id": "CO_067"
+        },
+        {
+            "decision": "treated with 150IV Amio x 1 and PO Amiodarone was increased to 400mg [**Hospital1 **] for planned 7 days total and then should be switched to 400mg PO daily dosing (in 4 days).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5986,
+            "end_offset": 6160,
+            "annotation_id": "CO_068"
+        },
+        {
+            "decision": "AICD was adjusted based on this last shock",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6168,
+            "end_offset": 6210,
+            "annotation_id": "CO_069"
+        },
+        {
+            "decision": "ATP was increased to 10 beats @ 85% CL.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6213,
+            "end_offset": 6251,
+            "annotation_id": "CO_070"
+        },
+        {
+            "decision": "AFib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6257,
+            "end_offset": 6261,
+            "annotation_id": "CO_071"
+        },
+        {
+            "decision": "She remained in sinus rhythm with no CP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6286,
+            "end_offset": 6325,
+            "annotation_id": "CO_072"
+        },
+        {
+            "decision": "She was admitted on her home dose of Coumadin but this was held in anticipation of EP study",
+            "category": "Category 5: Drug related",
+            "start_offset": 6328,
+            "end_offset": 6419,
+            "annotation_id": "CO_073"
+        },
+        {
+            "decision": "She remained well rate controlled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6422,
+            "end_offset": 6455,
+            "annotation_id": "CO_074"
+        },
+        {
+            "decision": "Coumadin was continued but in setting of ARF (see below), this was held for a three days and restarted prior to discharge.  She was bridged with a heparin drip in the meantime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6458,
+            "end_offset": 6633,
+            "annotation_id": "CO_075"
+        },
+        {
+            "decision": "Ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6640,
+            "end_offset": 6648,
+            "annotation_id": "CO_076"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6651,
+            "end_offset": 6654,
+            "annotation_id": "CO_077"
+        },
+        {
+            "decision": "Pt s/p MI in distant past",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6656,
+            "end_offset": 6681,
+            "annotation_id": "CO_078"
+        },
+        {
+            "decision": "Cath ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6688,
+            "end_offset": 6692,
+            "annotation_id": "CO_079"
+        },
+        {
+            "decision": "We continued her Statin, ACE, BB, ASA continued (but ACE was held in setting of ARF and restarted prior to discharge when her renal function improved.)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6732,
+            "end_offset": 6881,
+            "annotation_id": "CO_080"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6896,
+            "end_offset": 6899,
+            "annotation_id": "CO_081"
+        },
+        {
+            "decision": "Long history of CHF with marked fluid overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6901,
+            "end_offset": 6947,
+            "annotation_id": "CO_082"
+        },
+        {
+            "decision": "EF 15% on ECHO",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6950,
+            "end_offset": 6964,
+            "annotation_id": "CO_083"
+        },
+        {
+            "decision": "was diuresed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7017,
+            "end_offset": 7029,
+            "annotation_id": "CO_084"
+        },
+        {
+            "decision": "anticipation of EP lab for AICD generator change",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7033,
+            "end_offset": 7081,
+            "annotation_id": "CO_085"
+        },
+        {
+            "decision": "ACE-I was held in setting of ARF but ACE was restarted prior to discharge. Beta blocker was continued throughout admission.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7083,
+            "end_offset": 7205,
+            "annotation_id": "CO_086"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7212,
+            "end_offset": 7215,
+            "annotation_id": "CO_087"
+        },
+        {
+            "decision": "well controlled ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7227,
+            "end_offset": 7242,
+            "annotation_id": "CO_088"
+        },
+        {
+            "decision": "This was well controlled throughout admission with beta blocker, ace I (except when held- see below). ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7218,
+            "end_offset": 7317,
+            "annotation_id": "CO_089"
+        },
+        {
+            "decision": "She is being discharged on 12.5mg PO BID Metoprolol, 2.5mg PO Daily Lisinopril, Lasix 10mg PO Daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7320,
+            "end_offset": 7419,
+            "annotation_id": "CO_090"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7426,
+            "end_offset": 7446,
+            "annotation_id": "CO_091"
+        },
+        {
+            "decision": "Statin was continued throughout admission as Atorvastatin 20 mg PO DAILY.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7448,
+            "end_offset": 7520,
+            "annotation_id": "CO_092"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7526,
+            "end_offset": 7529,
+            "annotation_id": "CO_093"
+        },
+        {
+            "decision": "developed ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7595,
+            "end_offset": 7608,
+            "annotation_id": "CO_094"
+        },
+        {
+            "decision": "BUN of 44 (peak) and Creatinine of 2.0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7616,
+            "end_offset": 7654,
+            "annotation_id": "CO_095"
+        },
+        {
+            "decision": "she was gently hydrated with resolution of urine output",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7699,
+            "end_offset": 7754,
+            "annotation_id": "CO_096"
+        },
+        {
+            "decision": "creatinine trended down",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7762,
+            "end_offset": 7785,
+            "annotation_id": "CO_097"
+        },
+        {
+            "decision": "found to have a UTI by U/A ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7796,
+            "end_offset": 7822,
+            "annotation_id": "CO_098"
+        },
+        {
+            "decision": "was treated with Ciprofloxacin HCl 250 mg PO Q24H for a planned 7 day total course. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7850,
+            "end_offset": 7932,
+            "annotation_id": "CO_099"
+        },
+        {
+            "decision": "she is trending down in terms of creatinine",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7957,
+            "end_offset": 8000,
+            "annotation_id": "CO_100"
+        },
+        {
+            "decision": "Her urine output is greatly improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8003,
+            "end_offset": 8039,
+            "annotation_id": "CO_101"
+        },
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8157,
+            "end_offset": 8169,
+            "annotation_id": "CO_102"
+        },
+        {
+            "decision": "slight distension of her abdomen ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8178,
+            "end_offset": 8210,
+            "annotation_id": "CO_103"
+        },
+        {
+            "decision": "evaluated by surgery who recommended increasing bowel regimen ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8221,
+            "end_offset": 8282,
+            "annotation_id": "CO_104"
+        },
+        {
+            "decision": "Abdominal films showed no obstruction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8289,
+            "end_offset": 8326,
+            "annotation_id": "CO_105"
+        },
+        {
+            "decision": "She subsequently stooled loosely for 2 days and then returned to baseline.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8329,
+            "end_offset": 8402,
+            "annotation_id": "CO_106"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8408,
+            "end_offset": 8422,
+            "annotation_id": "CO_107"
+        },
+        {
+            "decision": "Levothyroxine continued at home dose throughout admission.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8424,
+            "end_offset": 8481,
+            "annotation_id": "CO_108"
+        },
+        {
+            "decision": "Aggressive repletion of electrolytes, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8506,
+            "end_offset": 8542,
+            "annotation_id": "CO_109"
+        },
+        {
+            "decision": "goal of diuresis of neg 1-2L.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 8558,
+            "end_offset": 8586,
+            "annotation_id": "CO_110"
+        },
+        {
+            "decision": "Heparin gtt, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8597,
+            "end_offset": 8608,
+            "annotation_id": "CO_111"
+        },
+        {
+            "decision": "bowel regimen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8610,
+            "end_offset": 8623,
+            "annotation_id": "CO_112"
+        },
+        {
+            "decision": "ppi",
+            "category": "Category 5: Drug related",
+            "start_offset": 8625,
+            "end_offset": 8628,
+            "annotation_id": "CO_113"
+        },
+        {
+            "decision": "Zaroxolyn 2.5 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8778,
+            "end_offset": 8797,
+            "annotation_id": "CO_114"
+        },
+        {
+            "decision": "Lasix 120 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8798,
+            "end_offset": 8813,
+            "annotation_id": "CO_115"
+        },
+        {
+            "decision": "Coumadin 2mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8814,
+            "end_offset": 8832,
+            "annotation_id": "CO_116"
+        },
+        {
+            "decision": "Atenolol 25mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8833,
+            "end_offset": 8852,
+            "annotation_id": "CO_117"
+        },
+        {
+            "decision": "Lipitor 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8853,
+            "end_offset": 8871,
+            "annotation_id": "CO_118"
+        },
+        {
+            "decision": "Amiodarone 200mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8872,
+            "end_offset": 8894,
+            "annotation_id": "CO_119"
+        },
+        {
+            "decision": "Levoxyl 137mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8895,
+            "end_offset": 8914,
+            "annotation_id": "CO_120"
+        },
+        {
+            "decision": "KCL 10mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8915,
+            "end_offset": 8929,
+            "annotation_id": "CO_121"
+        },
+        {
+            "decision": "Niferex 100mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8930,
+            "end_offset": 8949,
+            "annotation_id": "CO_122"
+        },
+        {
+            "decision": "Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8978,
+            "end_offset": 9039,
+            "annotation_id": "CO_123"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9045,
+            "end_offset": 9146,
+            "annotation_id": "CO_124"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9151,
+            "end_offset": 9223,
+            "annotation_id": "CO_125"
+        },
+        {
+            "decision": "Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9228,
+            "end_offset": 9285,
+            "annotation_id": "CO_126"
+        },
+        {
+            "decision": "Levothyroxine 137 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9291,
+            "end_offset": 9355,
+            "annotation_id": "CO_127"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9361,
+            "end_offset": 9478,
+            "annotation_id": "CO_128"
+        },
+        {
+            "decision": "Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9484,
+            "end_offset": 9566,
+            "annotation_id": "CO_129"
+        },
+        {
+            "decision": "Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9571,
+            "end_offset": 9660,
+            "annotation_id": "CO_130"
+        },
+        {
+            "decision": "Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9665,
+            "end_offset": 9741,
+            "annotation_id": "CO_131"
+        },
+        {
+            "decision": "Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) for 4 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9747,
+            "end_offset": 9825,
+            "annotation_id": "CO_132"
+        },
+        {
+            "decision": "Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day: Start daily dosing after [**Hospital1 **] dosing ends in 4 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9831,
+            "end_offset": 9954,
+            "annotation_id": "CO_133"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9960,
+            "end_offset": 10030,
+            "annotation_id": "CO_134"
+        },
+        {
+            "decision": "Lasix 20 mg Tablet Sig: 0.5 Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10037,
+            "end_offset": 10085,
+            "annotation_id": "CO_135"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10091,
+            "end_offset": 10145,
+            "annotation_id": "CO_136"
+        },
+        {
+            "decision": "Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 4 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10152,
+            "end_offset": 10235,
+            "annotation_id": "CO_137"
+        },
+        {
+            "decision": "Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10241,
+            "end_offset": 10295,
+            "annotation_id": "CO_138"
+        },
+        {
+            "decision": "VT requiring PM generator change",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10420,
+            "end_offset": 10452,
+            "annotation_id": "CO_139"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10453,
+            "end_offset": 10456,
+            "annotation_id": "CO_140"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10457,
+            "end_offset": 10460,
+            "annotation_id": "CO_141"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10461,
+            "end_offset": 10464,
+            "annotation_id": "CO_142"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10465,
+            "end_offset": 10468,
+            "annotation_id": "CO_143"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10492,
+            "end_offset": 10498,
+            "annotation_id": "CO_144"
+        },
+        {
+            "decision": "Please take all medications as advised.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10525,
+            "end_offset": 10563,
+            "annotation_id": "CO_145"
+        },
+        {
+            "decision": "Seek medical attention immediately if you experience new symptoms including shortness of breath, chest pain, palpitations, fainting, dizziness, or any new concerning symptoms.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10566,
+            "end_offset": 10740,
+            "annotation_id": "CO_146"
+        },
+        {
+            "decision": "Take all medications as prescribed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10743,
+            "end_offset": 10777,
+            "annotation_id": "CO_147"
+        },
+        {
+            "decision": "Please call your PCP for an appointment in the coming 2 weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10803,
+            "end_offset": 10864,
+            "annotation_id": "CO_148"
+        }
+    ]
+}

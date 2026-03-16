@@ -1,0 +1,496 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "82043_125090_40361",
+    "annotations": [
+        {
+            "decision": "abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 273,
+            "end_offset": 287,
+            "annotation_id": "PV_000"
+        },
+        {
+            "decision": "retroperitoneal bleed found on CT Abd ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 493,
+            "end_offset": 530,
+            "annotation_id": "PV_001"
+        },
+        {
+            "decision": "pt was playing hockey [**12-22**] when hit by another player ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 533,
+            "end_offset": 593,
+            "annotation_id": "PV_002"
+        },
+        {
+            "decision": "abd pain [**3-15**]                        Timing: Constant                       Quality: Dull                      Severity: Moderate                      Location: abd pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 603,
+            "end_offset": 778,
+            "annotation_id": "PV_003"
+        },
+        {
+            "decision": "Constitutional: Comfortable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 977,
+            "end_offset": 1004,
+            "annotation_id": "PV_004"
+        },
+        {
+            "decision": "HEENT: Normocephalic, atraumatic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1005,
+            "end_offset": 1037,
+            "annotation_id": "PV_005"
+        },
+        {
+            "decision": "Oropharynx within normal limits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1038,
+            "end_offset": 1069,
+            "annotation_id": "PV_006"
+        },
+        {
+            "decision": "Skin: No rash",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1070,
+            "end_offset": 1083,
+            "annotation_id": "PV_007"
+        },
+        {
+            "decision": "Neuro: Speech fluent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1084,
+            "end_offset": 1104,
+            "annotation_id": "PV_008"
+        },
+        {
+            "decision": "Psych: Normal mood",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1105,
+            "end_offset": 1123,
+            "annotation_id": "PV_009"
+        },
+        {
+            "decision": "Heme/[**Last Name (un) **]/[**Last Name (un) **]: No petechiae",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1124,
+            "end_offset": 1186,
+            "annotation_id": "PV_010"
+        },
+        {
+            "decision": "General: Alert and oriented, sitting in chair",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1311,
+            "end_offset": 1356,
+            "annotation_id": "PV_011"
+        },
+        {
+            "decision": "CV:  Ns1, s2, -s,3 -s4, no murmurs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1357,
+            "end_offset": 1391,
+            "annotation_id": "PV_012"
+        },
+        {
+            "decision": "LUNGS:  Clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1392,
+            "end_offset": 1405,
+            "annotation_id": "PV_013"
+        },
+        {
+            "decision": "ABDOMEN: soft, mild right sided tenderness, mild CVA tenderness right side",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1406,
+            "end_offset": 1480,
+            "annotation_id": "PV_014"
+        },
+        {
+            "decision": "EXT:  no pedal edema bil.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1481,
+            "end_offset": 1505,
+            "annotation_id": "PV_015"
+        },
+        {
+            "decision": "GENERAL URINE INFORMATION Type Color Appear Sp [**Last Name (un) **] [**2147-12-23**] 05:30      Yellow Clear >1.050",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2220,
+            "end_offset": 2336,
+            "annotation_id": "PV_016"
+        },
+        {
+            "decision": "DIPSTICK URINALYSIS Blood Nitrite Protein Glucose Ketone Bilirub Urobiln pH Leuks [**2147-12-23**] 05:30    MOD NEG 25 NEG TR NEG NEG 6.5 NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2337,
+            "end_offset": 2478,
+            "annotation_id": "PV_017"
+        },
+        {
+            "decision": "MICROSCOPIC URINE EXAMINATION RBC WBC Bacteri Yeast Epi TransE RenalEp [**2147-12-23**] 05:30    [**12-23**]* 0 FEW NONE 1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2479,
+            "end_offset": 2601,
+            "annotation_id": "PV_018"
+        },
+        {
+            "decision": "perinephric hemorrhage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2660,
+            "end_offset": 2682,
+            "annotation_id": "PV_019"
+        },
+        {
+            "decision": "Right perinephric hemorrhage with extension onto posterior pararenal space and into the pelvis. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2654,
+            "end_offset": 2748,
+            "annotation_id": "PV_020"
+        },
+        {
+            "decision": "edema and hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2754,
+            "end_offset": 2772,
+            "annotation_id": "PV_021"
+        },
+        {
+            "decision": "The edema and hematoma extends to the right adrenal, but is centered posterior to the right kidney. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2750,
+            "end_offset": 2848,
+            "annotation_id": "PV_022"
+        },
+        {
+            "decision": "There is a small apparent right renal lower pole laceration/contusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2850,
+            "end_offset": 2919,
+            "annotation_id": "PV_023"
+        },
+        {
+            "decision": "laceration/contusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2899,
+            "end_offset": 2919,
+            "annotation_id": "PV_024"
+        },
+        {
+            "decision": "No evidence for right renal collecting system injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2985,
+            "end_offset": 3037,
+            "annotation_id": "PV_025"
+        },
+        {
+            "decision": "Small right renal laceration in the lower interpolar region.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3039,
+            "end_offset": 3098,
+            "annotation_id": "PV_026"
+        },
+        {
+            "decision": "Large right perinephric hematoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3104,
+            "end_offset": 3136,
+            "annotation_id": "PV_027"
+        },
+        {
+            "decision": "Large right perinephric hematoma with mass effect on the right kidney, extending into the pelvis, grossly unchanged compared to the CT performed earlier the same day",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3104,
+            "end_offset": 3269,
+            "annotation_id": "PV_028"
+        },
+        {
+            "decision": "MRSA SCREEN (Final [**2147-12-25**]):    No MRSA isolated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3272,
+            "end_offset": 3329,
+            "annotation_id": "PV_029"
+        },
+        {
+            "decision": "admitted to the Acute Care Service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3390,
+            "end_offset": 3424,
+            "annotation_id": "PV_030"
+        },
+        {
+            "decision": "He was initially seen at OSH",
+            "category": "Category 1: Contact related",
+            "start_offset": 3531,
+            "end_offset": 3559,
+            "annotation_id": "PV_031"
+        },
+        {
+            "decision": "a cat scan showed a retroperitonal bleed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3566,
+            "end_offset": 3606,
+            "annotation_id": "PV_032"
+        },
+        {
+            "decision": "Prior to admission to the Trauma Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 3610,
+            "end_offset": 3662,
+            "annotation_id": "PV_033"
+        },
+        {
+            "decision": "intravenous placed for fluids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3694,
+            "end_offset": 3723,
+            "annotation_id": "PV_034"
+        },
+        {
+            "decision": "hematocrit upon admission was 37",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3730,
+            "end_offset": 3762,
+            "annotation_id": "PV_035"
+        },
+        {
+            "decision": "His cat scan films from the OSH were reviewed and findings concluded a small right renal laceration",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3765,
+            "end_offset": 3864,
+            "annotation_id": "PV_036"
+        },
+        {
+            "decision": "small right renal laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3836,
+            "end_offset": 3864,
+            "annotation_id": "PV_037"
+        },
+        {
+            "decision": "hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3926,
+            "end_offset": 3934,
+            "annotation_id": "PV_038"
+        },
+        {
+            "decision": "His cat scan pyelogram showed no change in the size of the hematoma.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3867,
+            "end_offset": 3934,
+            "annotation_id": "PV_039"
+        },
+        {
+            "decision": "His vital signs are stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3975,
+            "end_offset": 4001,
+            "annotation_id": "PV_040"
+        },
+        {
+            "decision": "He has been ambulating and he is tolerating a regular diet.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4004,
+            "end_offset": 4062,
+            "annotation_id": "PV_041"
+        },
+        {
+            "decision": "His pain is controlled with tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 4065,
+            "end_offset": 4100,
+            "annotation_id": "PV_042"
+        },
+        {
+            "decision": "His discharge hematocrit is 32.8.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4103,
+            "end_offset": 4135,
+            "annotation_id": "PV_043"
+        },
+        {
+            "decision": "He has been instructed to avoid contact sports for 6 weeks ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4139,
+            "end_offset": 4197,
+            "annotation_id": "PV_044"
+        },
+        {
+            "decision": "he will follow-up with his Primary care provider for sports clearance prior to initiating sports",
+            "category": "Category 1: Contact related",
+            "start_offset": 4202,
+            "end_offset": 4298,
+            "annotation_id": "PV_045"
+        },
+        {
+            "decision": "acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain ,fever.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4359,
+            "end_offset": 4455,
+            "annotation_id": "PV_046"
+        },
+        {
+            "decision": "Home",
+            "category": "Category 1: Contact related",
+            "start_offset": 4482,
+            "end_offset": 4486,
+            "annotation_id": "PV_047"
+        },
+        {
+            "decision": "Retroperitoneal bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4509,
+            "end_offset": 4530,
+            "annotation_id": "PV_048"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4554,
+            "end_offset": 4587,
+            "annotation_id": "PV_049"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4589,
+            "end_offset": 4634,
+            "annotation_id": "PV_050"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4636,
+            "end_offset": 4677,
+            "annotation_id": "PV_051"
+        },
+        {
+            "decision": "You are being discharged from the hospital after you were admitted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4705,
+            "end_offset": 4771,
+            "annotation_id": "PV_052"
+        },
+        {
+            "decision": "abdominal pain after you were struck by another player while playing hockey",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4776,
+            "end_offset": 4851,
+            "annotation_id": "PV_053"
+        },
+        {
+            "decision": "Your cat scan showed a retroperitoneal bleed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4854,
+            "end_offset": 4898,
+            "annotation_id": "PV_054"
+        },
+        {
+            "decision": "resume your regular diet",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4961,
+            "end_offset": 4985,
+            "annotation_id": "PV_055"
+        },
+        {
+            "decision": "continue with pain medication as directed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4987,
+            "end_offset": 5028,
+            "annotation_id": "PV_056"
+        },
+        {
+            "decision": "avoid driving while you are on pain medication",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5030,
+            "end_offset": 5076,
+            "annotation_id": "PV_057"
+        },
+        {
+            "decision": "you may resume walking, treadmill, mild exercise in 1 week",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5078,
+            "end_offset": 5136,
+            "annotation_id": "PV_058"
+        },
+        {
+            "decision": "no contact sports for 6 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5138,
+            "end_offset": 5167,
+            "annotation_id": "PV_059"
+        },
+        {
+            "decision": "please follow-up with your Primary Care Provider [**Last Name (NamePattern4) **] 6 weeks for sports clearance",
+            "category": "Category 1: Contact related",
+            "start_offset": 5169,
+            "end_offset": 5278,
+            "annotation_id": "PV_060"
+        },
+        {
+            "decision": "Please follow up in the emergency room or with your Primary Care Provider if you experience the following:",
+            "category": "Category 1: Contact related",
+            "start_offset": 5280,
+            "end_offset": 5385,
+            "annotation_id": "PV_061"
+        },
+        {
+            "decision": "weakness",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5389,
+            "end_offset": 5397,
+            "annotation_id": "PV_062"
+        },
+        {
+            "decision": "abdominal pain",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5399,
+            "end_offset": 5413,
+            "annotation_id": "PV_063"
+        },
+        {
+            "decision": "back pain",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5415,
+            "end_offset": 5424,
+            "annotation_id": "PV_064"
+        },
+        {
+            "decision": "difficulty urinating",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5426,
+            "end_offset": 5446,
+            "annotation_id": "PV_065"
+        },
+        {
+            "decision": "bloody urine",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5448,
+            "end_offset": 5460,
+            "annotation_id": "PV_066"
+        },
+        {
+            "decision": "fever",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5462,
+            "end_offset": 5467,
+            "annotation_id": "PV_067"
+        },
+        {
+            "decision": "distended abdomen",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5469,
+            "end_offset": 5486,
+            "annotation_id": "PV_068"
+        },
+        {
+            "decision": "Pleasr follow-up with your Primary Care Provider [**Last Name (NamePattern4) **] 6 weeks for sports clearance",
+            "category": "Category 1: Contact related",
+            "start_offset": 5512,
+            "end_offset": 5621,
+            "annotation_id": "PV_069"
+        }
+    ]
+}

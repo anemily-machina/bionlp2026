@@ -1,0 +1,1504 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "16072_171824_43019",
+    "annotations": [
+        {
+            "decision": "dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 245,
+            "end_offset": 252,
+            "annotation_id": "CZ_000"
+        },
+        {
+            "decision": "Endotracheal intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 292,
+            "end_offset": 315,
+            "annotation_id": "CZ_001"
+        },
+        {
+            "decision": "Tracheostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 316,
+            "end_offset": 328,
+            "annotation_id": "CZ_002"
+        },
+        {
+            "decision": "PEG-tube placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 329,
+            "end_offset": 347,
+            "annotation_id": "CZ_003"
+        },
+        {
+            "decision": "Central line placement x 2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 348,
+            "end_offset": 374,
+            "annotation_id": "CZ_004"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 434,
+            "end_offset": 442,
+            "annotation_id": "CZ_005"
+        },
+        {
+            "decision": "AFib on coumadin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 426,
+            "end_offset": 442,
+            "annotation_id": "CZ_006"
+        },
+        {
+            "decision": ", CHF EF 40%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 444,
+            "end_offset": 453,
+            "annotation_id": "CZ_007"
+        },
+        {
+            "decision": "obesity BMI 62",
+            "category": "Category 3: Defining problem",
+            "start_offset": 456,
+            "end_offset": 470,
+            "annotation_id": "CZ_008"
+        },
+        {
+            "decision": "progressive dyspnea for the last 2 months",
+            "category": "Category 3: Defining problem",
+            "start_offset": 475,
+            "end_offset": 516,
+            "annotation_id": "CZ_009"
+        },
+        {
+            "decision": " influenza ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 553,
+            "end_offset": 562,
+            "annotation_id": "CZ_010"
+        },
+        {
+            "decision": "afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 581,
+            "end_offset": 585,
+            "annotation_id": "CZ_011"
+        },
+        {
+            "decision": "and CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 586,
+            "end_offset": 593,
+            "annotation_id": "CZ_012"
+        },
+        {
+            "decision": "has beeen evaluated by pulmonary and cardiology",
+            "category": "Category 1: Contact related",
+            "start_offset": 626,
+            "end_offset": 673,
+            "annotation_id": "CZ_013"
+        },
+        {
+            "decision": "relieved somewhat by starting Adviar",
+            "category": "Category 5: Drug related",
+            "start_offset": 931,
+            "end_offset": 967,
+            "annotation_id": "CZ_014"
+        },
+        {
+            "decision": "She has not been taking her medications the last few days ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1793,
+            "end_offset": 1850,
+            "annotation_id": "CZ_015"
+        },
+        {
+            "decision": "was placed on NRB",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2019,
+            "end_offset": 2036,
+            "annotation_id": "CZ_016"
+        },
+        {
+            "decision": "She was given Percocet f",
+            "category": "Category 5: Drug related",
+            "start_offset": 2108,
+            "end_offset": 2134,
+            "annotation_id": "CZ_017"
+        },
+        {
+            "decision": "for back pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2131,
+            "end_offset": 2144,
+            "annotation_id": "CZ_018"
+        },
+        {
+            "decision": "ativan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2149,
+            "end_offset": 2155,
+            "annotation_id": "CZ_019"
+        },
+        {
+            "decision": "for anxiety. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2156,
+            "end_offset": 2167,
+            "annotation_id": "CZ_020"
+        },
+        {
+            "decision": ". Ddimer was high ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2169,
+            "end_offset": 2184,
+            "annotation_id": "CZ_021"
+        },
+        {
+            "decision": "she was sent for a CTA that was neg for PE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2189,
+            "end_offset": 2231,
+            "annotation_id": "CZ_022"
+        },
+        {
+            "decision": "PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2229,
+            "end_offset": 2231,
+            "annotation_id": "CZ_023"
+        },
+        {
+            "decision": "She had a UCG that was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2233,
+            "end_offset": 2264,
+            "annotation_id": "CZ_024"
+        },
+        {
+            "decision": "She was given levaquin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2266,
+            "end_offset": 2288,
+            "annotation_id": "CZ_025"
+        },
+        {
+            "decision": "PNA seen on CTA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2293,
+            "end_offset": 2308,
+            "annotation_id": "CZ_026"
+        },
+        {
+            "decision": "She was able to speak in full sentances and was not in resp distress. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2380,
+            "end_offset": 2448,
+            "annotation_id": "CZ_027"
+        },
+        {
+            "decision": "She was given Lasix IV ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2450,
+            "end_offset": 2472,
+            "annotation_id": "CZ_028"
+        },
+        {
+            "decision": "without significant diuresis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2473,
+            "end_offset": 2501,
+            "annotation_id": "CZ_029"
+        },
+        {
+            "decision": "while taking off her O2 ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2584,
+            "end_offset": 2607,
+            "annotation_id": "CZ_030"
+        },
+        {
+            "decision": "increasingly hypoxic while taking off her O2 and was diaphoretic. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2563,
+            "end_offset": 2627,
+            "annotation_id": "CZ_031"
+        },
+        {
+            "decision": "on 4L NC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2649,
+            "end_offset": 2657,
+            "annotation_id": "CZ_032"
+        },
+        {
+            "decision": "She was given a neb,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2659,
+            "end_offset": 2678,
+            "annotation_id": "CZ_033"
+        },
+        {
+            "decision": "Lasix 20 IV, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2680,
+            "end_offset": 2691,
+            "annotation_id": "CZ_034"
+        },
+        {
+            "decision": "and CXR was ordered",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2693,
+            "end_offset": 2712,
+            "annotation_id": "CZ_035"
+        },
+        {
+            "decision": ". MICU transfer was initiated",
+            "category": "Category 1: Contact related",
+            "start_offset": 2714,
+            "end_offset": 2741,
+            "annotation_id": "CZ_036"
+        },
+        {
+            "decision": "+ for nightly nightsweats which her PCP told her was from menopause",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2752,
+            "end_offset": 2817,
+            "annotation_id": "CZ_037"
+        },
+        {
+            "decision": ". + chronic back pain and pain in her feet",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2821,
+            "end_offset": 2859,
+            "annotation_id": "CZ_038"
+        },
+        {
+            "decision": ". + for nausea and vomiting daily for the last 4 days. non-bloody. + diarrhea 4x per day for the last 4 days as well. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2863,
+            "end_offset": 2975,
+            "annotation_id": "CZ_039"
+        },
+        {
+            "decision": "Occ blood streaked stool. no melana. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2977,
+            "end_offset": 3012,
+            "annotation_id": "CZ_040"
+        },
+        {
+            "decision": "No syncope.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3014,
+            "end_offset": 3024,
+            "annotation_id": "CZ_041"
+        },
+        {
+            "decision": ". Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3053,
+            "end_offset": 3065,
+            "annotation_id": "CZ_042"
+        },
+        {
+            "decision": "CHF diagnosed [**3-3**]. EF 40%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3069,
+            "end_offset": 3099,
+            "annotation_id": "CZ_043"
+        },
+        {
+            "decision": " afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3104,
+            "end_offset": 3108,
+            "annotation_id": "CZ_044"
+        },
+        {
+            "decision": "Obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3132,
+            "end_offset": 3139,
+            "annotation_id": "CZ_045"
+        },
+        {
+            "decision": ". insluenza [**3-3**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3143,
+            "end_offset": 3162,
+            "annotation_id": "CZ_046"
+        },
+        {
+            "decision": "Mild pulm HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3166,
+            "end_offset": 3179,
+            "annotation_id": "CZ_047"
+        },
+        {
+            "decision": "2+ TR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3183,
+            "end_offset": 3188,
+            "annotation_id": "CZ_048"
+        },
+        {
+            "decision": "PFTs with a mild restrictive defect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3192,
+            "end_offset": 3227,
+            "annotation_id": "CZ_049"
+        },
+        {
+            "decision": "h/o hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3231,
+            "end_offset": 3248,
+            "annotation_id": "CZ_050"
+        },
+        {
+            "decision": "h/o ETOH abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3253,
+            "end_offset": 3267,
+            "annotation_id": "CZ_051"
+        },
+        {
+            "decision": "w/u for sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3272,
+            "end_offset": 3291,
+            "annotation_id": "CZ_052"
+        },
+        {
+            "decision": "GEN: pleasant, talkive, comfortable, NAD sitting in chair",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3766,
+            "end_offset": 3823,
+            "annotation_id": "CZ_053"
+        },
+        {
+            "decision": "HEENT: PERRL, EOMI, anicteric, MMM, op without lesions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3824,
+            "end_offset": 3878,
+            "annotation_id": "CZ_054"
+        },
+        {
+            "decision": "NECK: no supraclavicular or cervical lymphadenopathy, no jvd though hard to tell with body habitus, no carotid bruits, no thyromegaly or thyroid nodules",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3879,
+            "end_offset": 4031,
+            "annotation_id": "CZ_055"
+        },
+        {
+            "decision": "RESP: RLL crackles with dullness to percussion. No wheezes heard",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4032,
+            "end_offset": 4096,
+            "annotation_id": "CZ_056"
+        },
+        {
+            "decision": "CV: [**Last Name (un) 3526**], [**Last Name (un) 3526**], S1 and S2 wnl, no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4098,
+            "end_offset": 4179,
+            "annotation_id": "CZ_057"
+        },
+        {
+            "decision": "ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly; refused rectal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4180,
+            "end_offset": 4252,
+            "annotation_id": "CZ_058"
+        },
+        {
+            "decision": "EXT: mild non-pitting peripheral edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4253,
+            "end_offset": 4291,
+            "annotation_id": "CZ_059"
+        },
+        {
+            "decision": "SKIN: healed burn wound on back.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4292,
+            "end_offset": 4323,
+            "annotation_id": "CZ_060"
+        },
+        {
+            "decision": "NEURO: AAOx3. Cn II-XII intact. 5/5 strength throughout. No sensory deficits to light touch appreciated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4325,
+            "end_offset": 4428,
+            "annotation_id": "CZ_061"
+        },
+        {
+            "decision": "Enlarging small right pleural effusion with right lower lobe atelectasis versus infiltrate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5944,
+            "end_offset": 6034,
+            "annotation_id": "CZ_062"
+        },
+        {
+            "decision": ". Stable marked cardiomegaly.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6039,
+            "end_offset": 6065,
+            "annotation_id": "CZ_063"
+        },
+        {
+            "decision": "cta chest [**5-23**]: IMPRESSION: 1. Enlarging small right pleural effusion with right lower lobe atelectasis versus infiltrate. 2. Stable marked cardiomegaly. 3. No pulmonary embolus.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5907,
+            "end_offset": 6090,
+            "annotation_id": "CZ_064"
+        },
+        {
+            "decision": ". No pulmonary embolus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6070,
+            "end_offset": 6090,
+            "annotation_id": "CZ_065"
+        },
+        {
+            "decision": "ct neck [**5-31**]: IMPRESSION: 1. Soft tissue stranding and lymphadenopathy in the tissues anterior and contiguous with the thyroid, which is similar to what was seen in [**12-29**], but again suggesting acute inflammation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6094,
+            "end_offset": 6317,
+            "annotation_id": "CZ_066"
+        },
+        {
+            "decision": "what was seen in [**12-29**], but again suggesting acute inflammation. 2. Marked soft tissue swelling involving the entire pharynx, as well as the supraglottic and the upper infraglottic airway.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6248,
+            "end_offset": 6441,
+            "annotation_id": "CZ_067"
+        },
+        {
+            "decision": "2. No organized fluid collection identified or bony involvement.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6443,
+            "end_offset": 6506,
+            "annotation_id": "CZ_068"
+        },
+        {
+            "decision": "pansinusitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6700,
+            "end_offset": 6712,
+            "annotation_id": "CZ_069"
+        },
+        {
+            "decision": "[**5-31**] ct sinus: IMPRESSION: Although endotracheal intubation confounds interpretation, extensive opacification with multiple air-fluid levels among the paranasal sinuses can be seen in pansinusitis. No evidence of associated bony destruction.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6510,
+            "end_offset": 6756,
+            "annotation_id": "CZ_070"
+        },
+        {
+            "decision": "ECHO [**2184-6-15**]: The left atrium is mildly dilated. Left ventricular wall thickness, cavity  size, and systolic function are normal (LVEF>55%). Due to suboptimal technical  quality, a focal wall motion abnormality cannot be fully excluded.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6760,
+            "end_offset": 7003,
+            "annotation_id": "CZ_071"
+        },
+        {
+            "decision": "The aortic  valve leaflets appear structurally normal with good leaflet excursion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7005,
+            "end_offset": 7086,
+            "annotation_id": "CZ_072"
+        },
+        {
+            "decision": "No  aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7088,
+            "end_offset": 7120,
+            "annotation_id": "CZ_073"
+        },
+        {
+            "decision": "There is no mitral valve prolapse. Mild  (1+) mitral regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7202,
+            "end_offset": 7276,
+            "annotation_id": "CZ_074"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7343,
+            "end_offset": 7375,
+            "annotation_id": "CZ_075"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. Mild  (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure  could not be determined. There is no pericardial effusion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7122,
+            "end_offset": 7375,
+            "annotation_id": "CZ_076"
+        },
+        {
+            "decision": "Mild mitral regurgitation with grossly normal valve morphology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7391,
+            "end_offset": 7453,
+            "annotation_id": "CZ_077"
+        },
+        {
+            "decision": "Preserved global biventricular systolic function.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7456,
+            "end_offset": 7504,
+            "annotation_id": "CZ_078"
+        },
+        {
+            "decision": "the severity of  tricuspid regurgitation may be lower ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7574,
+            "end_offset": 7627,
+            "annotation_id": "CZ_079"
+        },
+        {
+            "decision": "The severity of mitral regurgitation is similar.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7680,
+            "end_offset": 7727,
+            "annotation_id": "CZ_080"
+        },
+        {
+            "decision": ". Left ventricular  systolic function was likely underestimated on the prior study",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7729,
+            "end_offset": 7809,
+            "annotation_id": "CZ_081"
+        },
+        {
+            "decision": "morbid obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7860,
+            "end_offset": 7874,
+            "annotation_id": "CZ_082"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7876,
+            "end_offset": 7879,
+            "annotation_id": "CZ_083"
+        },
+        {
+            "decision": "and atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7881,
+            "end_offset": 7904,
+            "annotation_id": "CZ_084"
+        },
+        {
+            "decision": "with progressive SOB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7910,
+            "end_offset": 7930,
+            "annotation_id": "CZ_085"
+        },
+        {
+            "decision": "and ETOH relapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7932,
+            "end_offset": 7948,
+            "annotation_id": "CZ_086"
+        },
+        {
+            "decision": "Dyspnea/hypercarbic respitory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7954,
+            "end_offset": 7991,
+            "annotation_id": "CZ_087"
+        },
+        {
+            "decision": "The patient has poor pulmonary status which is multifactorial from heart failure, obesity induced restrictive disease, and resultant obesity-hypoventilation syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7993,
+            "end_offset": 8158,
+            "annotation_id": "CZ_088"
+        },
+        {
+            "decision": "The patient presented with hypercarbic respiratory failure (osa and hypoventilation from obesity).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8160,
+            "end_offset": 8256,
+            "annotation_id": "CZ_089"
+        },
+        {
+            "decision": "The patient failed non-invasive ventilation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8259,
+            "end_offset": 8302,
+            "annotation_id": "CZ_090"
+        },
+        {
+            "decision": "due to progressive hypercarbia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8304,
+            "end_offset": 8334,
+            "annotation_id": "CZ_091"
+        },
+        {
+            "decision": "required intubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8340,
+            "end_offset": 8359,
+            "annotation_id": "CZ_092"
+        },
+        {
+            "decision": "The patient's baseline obesity hypoventilation, and continued hypercarbia made liberation from the ventilator difficult",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8380,
+            "end_offset": 8499,
+            "annotation_id": "CZ_093"
+        },
+        {
+            "decision": "As fluid overload may have been contributing to her failure to wean from the vent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8573,
+            "end_offset": 8654,
+            "annotation_id": "CZ_094"
+        },
+        {
+            "decision": "wean from the vent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8636,
+            "end_offset": 8654,
+            "annotation_id": "CZ_095"
+        },
+        {
+            "decision": "she was aggressively diuresed with a lasix drip. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8656,
+            "end_offset": 8703,
+            "annotation_id": "CZ_096"
+        },
+        {
+            "decision": "the patient was still unable to come off of the ventilator, s",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8733,
+            "end_offset": 8795,
+            "annotation_id": "CZ_097"
+        },
+        {
+            "decision": "so a tracheostomy tube was placed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8793,
+            "end_offset": 8826,
+            "annotation_id": "CZ_098"
+        },
+        {
+            "decision": ", she continued to be diuresed with IV lasix prn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8859,
+            "end_offset": 8905,
+            "annotation_id": "CZ_099"
+        },
+        {
+            "decision": "with careful observation of her electrolytes",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8906,
+            "end_offset": 8950,
+            "annotation_id": "CZ_100"
+        },
+        {
+            "decision": "history of contraction alkalosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8959,
+            "end_offset": 8991,
+            "annotation_id": "CZ_101"
+        },
+        {
+            "decision": "continued to require pressure support ventilation, initially for 24` a day, then with increasing amounts of time on trach mask.  On [**6-20**] she was weaned from the vent and maintained on trach mask for the entire day. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9024,
+            "end_offset": 9243,
+            "annotation_id": "CZ_102"
+        },
+        {
+            "decision": "She did have 2 episodes of pulling her trach partly out, thought to be in the setting of increased anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9245,
+            "end_offset": 9351,
+            "annotation_id": "CZ_103"
+        },
+        {
+            "decision": "This was replaced and placement confirmed by CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9353,
+            "end_offset": 9401,
+            "annotation_id": "CZ_104"
+        },
+        {
+            "decision": "She should be maintained on PO lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 9403,
+            "end_offset": 9439,
+            "annotation_id": "CZ_105"
+        },
+        {
+            "decision": "and her electrolytes monitored while at rehab.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9440,
+            "end_offset": 9485,
+            "annotation_id": "CZ_106"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9491,
+            "end_offset": 9494,
+            "annotation_id": "CZ_107"
+        },
+        {
+            "decision": "the patient had increased weight, hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9510,
+            "end_offset": 9551,
+            "annotation_id": "CZ_108"
+        },
+        {
+            "decision": "and elevated BNP ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9552,
+            "end_offset": 9568,
+            "annotation_id": "CZ_109"
+        },
+        {
+            "decision": "CHF excerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9586,
+            "end_offset": 9601,
+            "annotation_id": "CZ_110"
+        },
+        {
+            "decision": ". As her fluid status contributed to her respiratory failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9603,
+            "end_offset": 9661,
+            "annotation_id": "CZ_111"
+        },
+        {
+            "decision": "failure she was aggressively diuresed with lasix drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 9654,
+            "end_offset": 9707,
+            "annotation_id": "CZ_112"
+        },
+        {
+            "decision": "Her HCTZ was held ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9709,
+            "end_offset": 9726,
+            "annotation_id": "CZ_113"
+        },
+        {
+            "decision": "was put on a beta [**Month/Year (2) 7005**]. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9735,
+            "end_offset": 9778,
+            "annotation_id": "CZ_114"
+        },
+        {
+            "decision": "An ace was also started for afterload reduction.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9780,
+            "end_offset": 9827,
+            "annotation_id": "CZ_115"
+        },
+        {
+            "decision": "The patient had alkalosis at times, likely related to her diuresis, but this improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9830,
+            "end_offset": 9915,
+            "annotation_id": "CZ_116"
+        },
+        {
+            "decision": "KCL ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9921,
+            "end_offset": 9924,
+            "annotation_id": "CZ_117"
+        },
+        {
+            "decision": "and diamox prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9925,
+            "end_offset": 9939,
+            "annotation_id": "CZ_118"
+        },
+        {
+            "decision": "When her contraction alkalosis worsened ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9941,
+            "end_offset": 9980,
+            "annotation_id": "CZ_119"
+        },
+        {
+            "decision": "her lasix was stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 9981,
+            "end_offset": 10002,
+            "annotation_id": "CZ_120"
+        },
+        {
+            "decision": "An echo this admission showed diastolic dysfunction.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10124,
+            "end_offset": 10175,
+            "annotation_id": "CZ_121"
+        },
+        {
+            "decision": "The patient continued to spike fevers and during her course was noted to have GNR bacteremia (Fusobacterium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10189,
+            "end_offset": 10296,
+            "annotation_id": "CZ_122"
+        },
+        {
+            "decision": "concern for peritonsillar abscess and sinusitis was raised",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10321,
+            "end_offset": 10379,
+            "annotation_id": "CZ_123"
+        },
+        {
+            "decision": "She did not have evidence of peritonsillar abscess, though her infection was attributed to sinusitis given a positive CT head",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10382,
+            "end_offset": 10507,
+            "annotation_id": "CZ_124"
+        },
+        {
+            "decision": "She also likely had a pneumonia given her cxr during her course. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10509,
+            "end_offset": 10572,
+            "annotation_id": "CZ_125"
+        },
+        {
+            "decision": "She recieved vanc ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10574,
+            "end_offset": 10591,
+            "annotation_id": "CZ_126"
+        },
+        {
+            "decision": "and meropenem for 14 d for the fusiform bacteria.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10592,
+            "end_offset": 10640,
+            "annotation_id": "CZ_127"
+        },
+        {
+            "decision": "She was given emperic flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10642,
+            "end_offset": 10670,
+            "annotation_id": "CZ_128"
+        },
+        {
+            "decision": "but spiked fevers while on this. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10671,
+            "end_offset": 10702,
+            "annotation_id": "CZ_129"
+        },
+        {
+            "decision": "Her CVL was changed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10704,
+            "end_offset": 10723,
+            "annotation_id": "CZ_130"
+        },
+        {
+            "decision": "a CT torso showing only a LLL pna,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10795,
+            "end_offset": 10828,
+            "annotation_id": "CZ_131"
+        },
+        {
+            "decision": "she was treated with a second course of broad spectrum antibiotics (vanco and cefepime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10830,
+            "end_offset": 10916,
+            "annotation_id": "CZ_132"
+        },
+        {
+            "decision": "to cover ventilator-associated pna),",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10917,
+            "end_offset": 10951,
+            "annotation_id": "CZ_133"
+        },
+        {
+            "decision": "She had LENI's to exclude DVT as a possible fever source.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11007,
+            "end_offset": 11063,
+            "annotation_id": "CZ_134"
+        },
+        {
+            "decision": "Atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11069,
+            "end_offset": 11088,
+            "annotation_id": "CZ_135"
+        },
+        {
+            "decision": "history of Afib/flutter",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11108,
+            "end_offset": 11131,
+            "annotation_id": "CZ_136"
+        },
+        {
+            "decision": "is on CCB, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11136,
+            "end_offset": 11145,
+            "annotation_id": "CZ_137"
+        },
+        {
+            "decision": "BB ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11147,
+            "end_offset": 11149,
+            "annotation_id": "CZ_138"
+        },
+        {
+            "decision": "and coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11150,
+            "end_offset": 11162,
+            "annotation_id": "CZ_139"
+        },
+        {
+            "decision": "she became modestly hypotensive while on sedation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11178,
+            "end_offset": 11227,
+            "annotation_id": "CZ_140"
+        },
+        {
+            "decision": "her calcium channel [**Month/Year (2) 7005**] was held; ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11232,
+            "end_offset": 11286,
+            "annotation_id": "CZ_141"
+        },
+        {
+            "decision": "she was only treated with metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11288,
+            "end_offset": 11324,
+            "annotation_id": "CZ_142"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11331,
+            "end_offset": 11342,
+            "annotation_id": "CZ_143"
+        },
+        {
+            "decision": "and was intermittently on heparin which was later stopped ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11343,
+            "end_offset": 11400,
+            "annotation_id": "CZ_144"
+        },
+        {
+            "decision": "due to hematuria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11401,
+            "end_offset": 11417,
+            "annotation_id": "CZ_145"
+        },
+        {
+            "decision": ".  She never developed RVR and remained stable on a beta-[**Last Name (LF) 7005**], [**First Name3 (LF) **] ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11420,
+            "end_offset": 11524,
+            "annotation_id": "CZ_146"
+        },
+        {
+            "decision": "beta-[**Last Name (LF) 7005**], [**First Name3 (LF) **] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11469,
+            "end_offset": 11524,
+            "annotation_id": "CZ_147"
+        },
+        {
+            "decision": "**] her calcium channel [**First Name3 (LF) 7005**] was stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 11521,
+            "end_offset": 11584,
+            "annotation_id": "CZ_148"
+        },
+        {
+            "decision": "foley ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11614,
+            "end_offset": 11619,
+            "annotation_id": "CZ_149"
+        },
+        {
+            "decision": "Heamturia resolved (likely foley trauma), ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11587,
+            "end_offset": 11626,
+            "annotation_id": "CZ_150"
+        },
+        {
+            "decision": " and her warfarin was restarted. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11629,
+            "end_offset": 11659,
+            "annotation_id": "CZ_151"
+        },
+        {
+            "decision": "her INR was therapeutic (goal INR [**2-28**]), and should be checked weekly at rehab",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11675,
+            "end_offset": 11759,
+            "annotation_id": "CZ_152"
+        },
+        {
+            "decision": "Alcoholism: The patient has a history of alcohlism and relapsed. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11765,
+            "end_offset": 11828,
+            "annotation_id": "CZ_153"
+        },
+        {
+            "decision": "while on the vent ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11858,
+            "end_offset": 11875,
+            "annotation_id": "CZ_154"
+        },
+        {
+            "decision": "She may have had withdrawal while on the vent because she was agitated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11830,
+            "end_offset": 11900,
+            "annotation_id": "CZ_155"
+        },
+        {
+            "decision": "She responded well with sedation (fentanyl and midazolam)",
+            "category": "Category 5: Drug related",
+            "start_offset": 11902,
+            "end_offset": 11958,
+            "annotation_id": "CZ_156"
+        },
+        {
+            "decision": "and haldol prn, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11960,
+            "end_offset": 11974,
+            "annotation_id": "CZ_157"
+        },
+        {
+            "decision": "responded best to quetiapine.  Quetiapine tid ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11984,
+            "end_offset": 12029,
+            "annotation_id": "CZ_158"
+        },
+        {
+            "decision": "provided excellent control of anxiety and agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12030,
+            "end_offset": 12081,
+            "annotation_id": "CZ_159"
+        },
+        {
+            "decision": "with as needed lorazepam ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12083,
+            "end_offset": 12107,
+            "annotation_id": "CZ_160"
+        },
+        {
+            "decision": "for rare agitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12108,
+            "end_offset": 12126,
+            "annotation_id": "CZ_161"
+        },
+        {
+            "decision": "# Acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12132,
+            "end_offset": 12151,
+            "annotation_id": "CZ_162"
+        },
+        {
+            "decision": "This was likely due to her initial presentation of vomiting and diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12193,
+            "end_offset": 12265,
+            "annotation_id": "CZ_163"
+        },
+        {
+            "decision": ". As she was vented during the majority of her course",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12267,
+            "end_offset": 12318,
+            "annotation_id": "CZ_164"
+        },
+        {
+            "decision": "her ARF resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12319,
+            "end_offset": 12335,
+            "annotation_id": "CZ_165"
+        },
+        {
+            "decision": "lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12370,
+            "end_offset": 12375,
+            "annotation_id": "CZ_166"
+        },
+        {
+            "decision": "atenolol 50 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12422,
+            "end_offset": 12442,
+            "annotation_id": "CZ_167"
+        },
+        {
+            "decision": "aspirin 81 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12443,
+            "end_offset": 12462,
+            "annotation_id": "CZ_168"
+        },
+        {
+            "decision": "diltiazem CD 300 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12463,
+            "end_offset": 12488,
+            "annotation_id": "CZ_169"
+        },
+        {
+            "decision": "HCTZ 50 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12489,
+            "end_offset": 12505,
+            "annotation_id": "CZ_170"
+        },
+        {
+            "decision": "lisinopril 5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12506,
+            "end_offset": 12527,
+            "annotation_id": "CZ_171"
+        },
+        {
+            "decision": "warfarin (which your clinic is regulating)",
+            "category": "Category 5: Drug related",
+            "start_offset": 12528,
+            "end_offset": 12569,
+            "annotation_id": "CZ_172"
+        },
+        {
+            "decision": "remeron 30 qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 12571,
+            "end_offset": 12585,
+            "annotation_id": "CZ_173"
+        },
+        {
+            "decision": "Advair inhaler 100/50",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12586,
+            "end_offset": 12607,
+            "annotation_id": "CZ_174"
+        },
+        {
+            "decision": "occasional albuterol inhaler",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12608,
+            "end_offset": 12636,
+            "annotation_id": "CZ_175"
+        },
+        {
+            "decision": "folic acid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12637,
+            "end_offset": 12647,
+            "annotation_id": "CZ_176"
+        },
+        {
+            "decision": "Tylenol-Codeine #3 30 mg-300 mg--1 -2 tablet(s) by mouth three times a day as needed for cough or pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 12648,
+            "end_offset": 12750,
+            "annotation_id": "CZ_177"
+        },
+        {
+            "decision": "iron",
+            "category": "Category 5: Drug related",
+            "start_offset": 12751,
+            "end_offset": 12755,
+            "annotation_id": "CZ_178"
+        },
+        {
+            "decision": "thiamine",
+            "category": "Category 5: Drug related",
+            "start_offset": 12756,
+            "end_offset": 12764,
+            "annotation_id": "CZ_179"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Chewable [**Month/Day (3) **]: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12793,
+            "end_offset": 12886,
+            "annotation_id": "CZ_180"
+        },
+        {
+            "decision": "Thiamine HCl 100 mg Tablet [**Month/Day (3) **]: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12892,
+            "end_offset": 12971,
+            "annotation_id": "CZ_181"
+        },
+        {
+            "decision": "Trazodone 50 mg Tablet [**Month/Day (3) **]: 0.5 Tablet PO HS (at bedtime) as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12977,
+            "end_offset": 13074,
+            "annotation_id": "CZ_182"
+        },
+        {
+            "decision": "Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13079,
+            "end_offset": 13223,
+            "annotation_id": "CZ_183"
+        },
+        {
+            "decision": "Docusate Sodium 50 mg/5 mL Liquid [**Last Name (STitle) **]: One Hundred (100) mg PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13229,
+            "end_offset": 13332,
+            "annotation_id": "CZ_184"
+        },
+        {
+            "decision": "Iron 325 (65) mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13338,
+            "end_offset": 13417,
+            "annotation_id": "CZ_185"
+        },
+        {
+            "decision": "Cefepime 2 g Recon Soln [**Last Name (STitle) **]: Two (2) gm Injection Q12H (every 12 hours) for 1 days: to end [**6-24**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 13422,
+            "end_offset": 13545,
+            "annotation_id": "CZ_186"
+        },
+        {
+            "decision": "Vancomycin in Dextrose 1 g/200 mL Piggyback [**Month/Day (4) **]: One (1) gm Intravenous Q 12H (Every 12 Hours) for 1 days: to end [**6-24**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 13550,
+            "end_offset": 13691,
+            "annotation_id": "CZ_187"
+        },
+        {
+            "decision": "Quetiapine 25 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13696,
+            "end_offset": 13778,
+            "annotation_id": "CZ_188"
+        },
+        {
+            "decision": "Warfarin 2.5 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13785,
+            "end_offset": 13862,
+            "annotation_id": "CZ_189"
+        },
+        {
+            "decision": "Mirtazapine 30 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13869,
+            "end_offset": 13948,
+            "annotation_id": "CZ_190"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13955,
+            "end_offset": 14028,
+            "annotation_id": "CZ_191"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet [**Month/Day (4) **]: Three (3) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14034,
+            "end_offset": 14119,
+            "annotation_id": "CZ_192"
+        },
+        {
+            "decision": "Lorazepam 1 mg Tablet [**Month/Day (4) **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for anxiety.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14125,
+            "end_offset": 14228,
+            "annotation_id": "CZ_193"
+        },
+        {
+            "decision": "Furosemide 40 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14234,
+            "end_offset": 14310,
+            "annotation_id": "CZ_194"
+        },
+        {
+            "decision": "Hypercarbic respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14414,
+            "end_offset": 14445,
+            "annotation_id": "CZ_195"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14462,
+            "end_offset": 14474,
+            "annotation_id": "CZ_196"
+        },
+        {
+            "decision": "CHF diagnosed [**3-3**]. EF 40%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14478,
+            "end_offset": 14508,
+            "annotation_id": "CZ_197"
+        },
+        {
+            "decision": "afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14513,
+            "end_offset": 14517,
+            "annotation_id": "CZ_198"
+        },
+        {
+            "decision": "Obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14541,
+            "end_offset": 14548,
+            "annotation_id": "CZ_199"
+        },
+        {
+            "decision": " insluenza ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14552,
+            "end_offset": 14561,
+            "annotation_id": "CZ_200"
+        },
+        {
+            "decision": "Mild pulm HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14575,
+            "end_offset": 14588,
+            "annotation_id": "CZ_201"
+        },
+        {
+            "decision": ". 2+ TR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14592,
+            "end_offset": 14597,
+            "annotation_id": "CZ_202"
+        },
+        {
+            "decision": "PFTs with a mild restrictive defect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14601,
+            "end_offset": 14636,
+            "annotation_id": "CZ_203"
+        },
+        {
+            "decision": "h/o hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14640,
+            "end_offset": 14657,
+            "annotation_id": "CZ_204"
+        },
+        {
+            "decision": "h/o ETOH abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14662,
+            "end_offset": 14676,
+            "annotation_id": "CZ_205"
+        },
+        {
+            "decision": "w/u for sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14681,
+            "end_offset": 14700,
+            "annotation_id": "CZ_206"
+        },
+        {
+            "decision": "Good, awake, alert, comfortable, stable and satting well on 40% trach mask",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14724,
+            "end_offset": 14798,
+            "annotation_id": "CZ_207"
+        },
+        {
+            "decision": "progressive hypercarbic respiratory failure felt to be due to obesity-hypoventilation, poor respiratory mechanics, and modest-minimal contribution from CHF.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14845,
+            "end_offset": 15000,
+            "annotation_id": "CZ_208"
+        },
+        {
+            "decision": "Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs. Adhere to 2 gm sodium diet",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15004,
+            "end_offset": 15103,
+            "annotation_id": "CZ_209"
+        },
+        {
+            "decision": "You have an appointment with a lung doctor in the [**Hospital Ward Name 23**] building, [**Location (un) 436**], as below: Provider: [**Name10 (NameIs) 1571**] BREATHING TESTS Phone:[**Telephone/Fax (1) 612**] Date/Time:[**2184-7-26**] 2:10",
+            "category": "Category 1: Contact related",
+            "start_offset": 15149,
+            "end_offset": 15389,
+            "annotation_id": "CZ_210"
+        },
+        {
+            "decision": "Provider: [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 612**] Date/Time:[**2184-7-26**] 2:30",
+            "category": "Category 1: Contact related",
+            "start_offset": 15390,
+            "end_offset": 15563,
+            "annotation_id": "CZ_211"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) 2053**] [**Last Name (NamePattern4) 2761**], MD Phone:[**Telephone/Fax (1) 5003**] Date/Time:[**2184-9-6**] 9:20",
+            "category": "Category 1: Contact related",
+            "start_offset": 15566,
+            "end_offset": 15720,
+            "annotation_id": "CZ_212"
+        },
+        {
+            "decision": "You should see your primary care doctor the week after leaving rehab.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15723,
+            "end_offset": 15791,
+            "annotation_id": "CZ_213"
+        }
+    ]
+}

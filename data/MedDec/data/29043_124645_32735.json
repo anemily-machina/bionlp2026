@@ -1,0 +1,888 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "29043_124645_32735",
+    "annotations": [
+        {
+            "decision": "Tachycardia/Hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 233,
+            "end_offset": 252,
+            "annotation_id": "JL_000"
+        },
+        {
+            "decision": "stable severe COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 372,
+            "end_offset": 390,
+            "annotation_id": "JL_001"
+        },
+        {
+            "decision": "on prednisone 20mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 392,
+            "end_offset": 416,
+            "annotation_id": "JL_002"
+        },
+        {
+            "decision": "nebulizer use at home ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 518,
+            "end_offset": 539,
+            "annotation_id": "JL_003"
+        },
+        {
+            "decision": "given cardizem",
+            "category": "Category 5: Drug related",
+            "start_offset": 626,
+            "end_offset": 640,
+            "annotation_id": "JL_004"
+        },
+        {
+            "decision": "methylprednisolone 125mg IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 741,
+            "end_offset": 771,
+            "annotation_id": "JL_005"
+        },
+        {
+            "decision": "combivent ",
+            "category": "Category 5: Drug related",
+            "start_offset": 773,
+            "end_offset": 782,
+            "annotation_id": "JL_006"
+        },
+        {
+            "decision": "combivent neb x1",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 773,
+            "end_offset": 789,
+            "annotation_id": "JL_007"
+        },
+        {
+            "decision": "levofloxacin 750 PO x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 791,
+            "end_offset": 813,
+            "annotation_id": "JL_008"
+        },
+        {
+            "decision": "ASA 325mg X1",
+            "category": "Category 5: Drug related",
+            "start_offset": 815,
+            "end_offset": 827,
+            "annotation_id": "JL_009"
+        },
+        {
+            "decision": "Tylenol 500mg X1",
+            "category": "Category 5: Drug related",
+            "start_offset": 829,
+            "end_offset": 845,
+            "annotation_id": "JL_010"
+        },
+        {
+            "decision": "Mg sulfate 2g IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 847,
+            "end_offset": 866,
+            "annotation_id": "JL_011"
+        },
+        {
+            "decision": "CXR with no evidence of volume overload, no clear infiltrate, flat diaphragms",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 868,
+            "end_offset": 945,
+            "annotation_id": "JL_012"
+        },
+        {
+            "decision": "placed on CPAP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 955,
+            "end_offset": 969,
+            "annotation_id": "JL_013"
+        },
+        {
+            "decision": "her BP dropped to 69 systolic, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1012,
+            "end_offset": 1041,
+            "annotation_id": "JL_014"
+        },
+        {
+            "decision": "given 2L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1051,
+            "end_offset": 1062,
+            "annotation_id": "JL_015"
+        },
+        {
+            "decision": "placed on Bipap ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1102,
+            "end_offset": 1117,
+            "annotation_id": "JL_016"
+        },
+        {
+            "decision": "with subsequent drop in BP to 80s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1118,
+            "end_offset": 1151,
+            "annotation_id": "JL_017"
+        },
+        {
+            "decision": "r/o for PE ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1164,
+            "end_offset": 1174,
+            "annotation_id": "JL_018"
+        },
+        {
+            "decision": "CTA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1180,
+            "end_offset": 1183,
+            "annotation_id": "JL_019"
+        },
+        {
+            "decision": "Desired to r/o for PE with CTA however she was unable to lie flat, ",
+            "category": "Category 8: Deferment",
+            "start_offset": 1153,
+            "end_offset": 1218,
+            "annotation_id": "JL_020"
+        },
+        {
+            "decision": "heparin gtt was started",
+            "category": "Category 5: Drug related",
+            "start_offset": 1223,
+            "end_offset": 1246,
+            "annotation_id": "JL_021"
+        },
+        {
+            "decision": "Guaiac negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1248,
+            "end_offset": 1263,
+            "annotation_id": "JL_022"
+        },
+        {
+            "decision": "ECG unchanged from prior.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1265,
+            "end_offset": 1289,
+            "annotation_id": "JL_023"
+        },
+        {
+            "decision": "off CPAP.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1356,
+            "end_offset": 1364,
+            "annotation_id": "JL_024"
+        },
+        {
+            "decision": "Received the flu shot this season and pneumovax last year",
+            "category": "Category 5: Drug related",
+            "start_offset": 1791,
+            "end_offset": 1848,
+            "annotation_id": "JL_025"
+        },
+        {
+            "decision": "Prednisone 20mg daily for 4 weeks per Dr. [**Last Name (STitle) 2168**]. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1870,
+            "end_offset": 1941,
+            "annotation_id": "JL_026"
+        },
+        {
+            "decision": "1. COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1967,
+            "end_offset": 1974,
+            "annotation_id": "JL_027"
+        },
+        {
+            "decision": ". Coronary Artery Disease s/p STEMI related to coronary vasospasm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1978,
+            "end_offset": 2041,
+            "annotation_id": "JL_028"
+        },
+        {
+            "decision": ". Congestive Heart Failure - diastolic and systolic heart failure with EF 45%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2045,
+            "end_offset": 2119,
+            "annotation_id": "JL_029"
+        },
+        {
+            "decision": ". Aortic Mural Thrombus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2124,
+            "end_offset": 2145,
+            "annotation_id": "JL_030"
+        },
+        {
+            "decision": "5. h/o Upper Extremity DVT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2146,
+            "end_offset": 2172,
+            "annotation_id": "JL_031"
+        },
+        {
+            "decision": "associated with PICC line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2173,
+            "end_offset": 2198,
+            "annotation_id": "JL_032"
+        },
+        {
+            "decision": "6. Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2199,
+            "end_offset": 2214,
+            "annotation_id": "JL_033"
+        },
+        {
+            "decision": "7. Emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2215,
+            "end_offset": 2227,
+            "annotation_id": "JL_034"
+        },
+        {
+            "decision": "- spirometry on [**2161-2-23**] with severe obstructive ventilatory defect, FEV1/FVC 63% predicted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2230,
+            "end_offset": 2326,
+            "annotation_id": "JL_035"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2350,
+            "annotation_id": "JL_036"
+        },
+        {
+            "decision": "h/o Cdiff colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2354,
+            "end_offset": 2371,
+            "annotation_id": "JL_037"
+        },
+        {
+            "decision": ". Right upper lobe nodule",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2376,
+            "end_offset": 2399,
+            "annotation_id": "JL_038"
+        },
+        {
+            "decision": "Compression Fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2404,
+            "end_offset": 2425,
+            "annotation_id": "JL_039"
+        },
+        {
+            "decision": "s/p cataract surgeries",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2430,
+            "end_offset": 2452,
+            "annotation_id": "JL_040"
+        },
+        {
+            "decision": "General: Alert, oriented, moderate respiratory distress with pursed lip breathing and accessory muscle use. Can almost finish complete sentences",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2919,
+            "end_offset": 3063,
+            "annotation_id": "JL_041"
+        },
+        {
+            "decision": "HEENT: Sclerae anicteric, MM dry, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3064,
+            "end_offset": 3114,
+            "annotation_id": "JL_042"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3115,
+            "end_offset": 3153,
+            "annotation_id": "JL_043"
+        },
+        {
+            "decision": "Lungs: Poor air movement throughout, significantly prolonged expiratory phase with scattered rhonchi, and upper airway congestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3154,
+            "end_offset": 3283,
+            "annotation_id": "JL_044"
+        },
+        {
+            "decision": "CV: tachycardic, normal S1 + S2, distant",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3284,
+            "end_offset": 3324,
+            "annotation_id": "JL_045"
+        },
+        {
+            "decision": "Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3325,
+            "end_offset": 3440,
+            "annotation_id": "JL_046"
+        },
+        {
+            "decision": "Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema; scattered ecchymoses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3441,
+            "end_offset": 3530,
+            "annotation_id": "JL_047"
+        },
+        {
+            "decision": "severe COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4159,
+            "end_offset": 4170,
+            "annotation_id": "JL_048"
+        },
+        {
+            "decision": "COPD exacerbation secondary to RSV bronchiolitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4185,
+            "end_offset": 4233,
+            "annotation_id": "JL_049"
+        },
+        {
+            "decision": "COPD exacerbation/RSV bronchiolitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4238,
+            "end_offset": 4273,
+            "annotation_id": "JL_050"
+        },
+        {
+            "decision": "found to have RSV on nasopharyngeal aspirate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4305,
+            "end_offset": 4349,
+            "annotation_id": "JL_051"
+        },
+        {
+            "decision": "stress dose steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 4385,
+            "end_offset": 4405,
+            "annotation_id": "JL_052"
+        },
+        {
+            "decision": "Bipap and frequent nebulizers.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4407,
+            "end_offset": 4436,
+            "annotation_id": "JL_053"
+        },
+        {
+            "decision": "5 day course of levaquin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4459,
+            "end_offset": 4483,
+            "annotation_id": "JL_054"
+        },
+        {
+            "decision": "for possible secondary pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4484,
+            "end_offset": 4516,
+            "annotation_id": "JL_055"
+        },
+        {
+            "decision": "persistent leukocytosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4528,
+            "end_offset": 4551,
+            "annotation_id": "JL_056"
+        },
+        {
+            "decision": "treated with ceftriaxone for a 5 day course,",
+            "category": "Category 5: Drug related",
+            "start_offset": 4565,
+            "end_offset": 4608,
+            "annotation_id": "JL_057"
+        },
+        {
+            "decision": "Was initiatlly given high does steroids and tapered; however, she continued to require high doses subsequently during her stay",
+            "category": "Category 5: Drug related",
+            "start_offset": 4631,
+            "end_offset": 4757,
+            "annotation_id": "JL_058"
+        },
+        {
+            "decision": "fluxuating respiratory status and thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4762,
+            "end_offset": 4812,
+            "annotation_id": "JL_059"
+        },
+        {
+            "decision": "Inital CT Chest with no clear infilitrate, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4825,
+            "end_offset": 4866,
+            "annotation_id": "JL_060"
+        },
+        {
+            "decision": "c/w severe emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4868,
+            "end_offset": 4888,
+            "annotation_id": "JL_061"
+        },
+        {
+            "decision": "her respiratory status acutely worsened.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4911,
+            "end_offset": 4950,
+            "annotation_id": "JL_062"
+        },
+        {
+            "decision": "CXR showed worsening right infiltrate.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4953,
+            "end_offset": 4990,
+            "annotation_id": "JL_063"
+        },
+        {
+            "decision": "Antibiotics were broadened to zosyn/levo",
+            "category": "Category 5: Drug related",
+            "start_offset": 4993,
+            "end_offset": 5033,
+            "annotation_id": "JL_064"
+        },
+        {
+            "decision": "She required intubation, but she was unable to be ventilated/oxygenated properly.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5036,
+            "end_offset": 5116,
+            "annotation_id": "JL_065"
+        },
+        {
+            "decision": "# bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5167,
+            "end_offset": 5177,
+            "annotation_id": "JL_066"
+        },
+        {
+            "decision": "enterococcus faecium cultured from her blood on [**2162-1-6**].  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5179,
+            "end_offset": 5241,
+            "annotation_id": "JL_067"
+        },
+        {
+            "decision": "Vancomycin was added as per sensitivities",
+            "category": "Category 5: Drug related",
+            "start_offset": 5244,
+            "end_offset": 5285,
+            "annotation_id": "JL_068"
+        },
+        {
+            "decision": "thrombocytopenia:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5291,
+            "end_offset": 5307,
+            "annotation_id": "JL_069"
+        },
+        {
+            "decision": "platelets dropped precipitously on [**2162-1-5**] ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5313,
+            "end_offset": 5362,
+            "annotation_id": "JL_070"
+        },
+        {
+            "decision": "she subsequently became more anemic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5367,
+            "end_offset": 5402,
+            "annotation_id": "JL_071"
+        },
+        {
+            "decision": "Heme/onc consult was initiated. ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5405,
+            "end_offset": 5435,
+            "annotation_id": "JL_072"
+        },
+        {
+            "decision": "HIT vs ITP vs meds vs infection-related drop in platelets",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5459,
+            "end_offset": 5516,
+            "annotation_id": "JL_073"
+        },
+        {
+            "decision": "continued on IV steroids until [**1-11**] when it was changed to 60mg po prednisone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5527,
+            "end_offset": 5610,
+            "annotation_id": "JL_074"
+        },
+        {
+            "decision": "Smears showed little evidence of hemolysis, though her hapto and LDH were consistent with hemolysis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5658,
+            "end_offset": 5757,
+            "annotation_id": "JL_075"
+        },
+        {
+            "decision": "She received platelet and pRBC transfusions as necessary.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5760,
+            "end_offset": 5816,
+            "annotation_id": "JL_076"
+        },
+        {
+            "decision": "CT for RP bleed was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5819,
+            "end_offset": 5847,
+            "annotation_id": "JL_077"
+        },
+        {
+            "decision": "Adamts13 came back slightly low at 61",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5854,
+            "end_offset": 5891,
+            "annotation_id": "JL_078"
+        },
+        {
+            "decision": "underwent plasmaphoresis for several days",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5898,
+            "end_offset": 5939,
+            "annotation_id": "JL_079"
+        },
+        {
+            "decision": "with no improvement in her plts",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5940,
+            "end_offset": 5971,
+            "annotation_id": "JL_080"
+        },
+        {
+            "decision": "# UTI:  Patient with +UTI on UA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5977,
+            "end_offset": 6006,
+            "annotation_id": "JL_081"
+        },
+        {
+            "decision": "urine culture with yeast",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6008,
+            "end_offset": 6032,
+            "annotation_id": "JL_082"
+        },
+        {
+            "decision": "fluconazole for 10 day course. .",
+            "category": "Category 5: Drug related",
+            "start_offset": 6098,
+            "end_offset": 6128,
+            "annotation_id": "JL_083"
+        },
+        {
+            "decision": "Tachycardia ?????? ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6133,
+            "end_offset": 6144,
+            "annotation_id": "JL_084"
+        },
+        {
+            "decision": "Occurred after Zopenex",
+            "category": "Category 5: Drug related",
+            "start_offset": 6152,
+            "end_offset": 6174,
+            "annotation_id": "JL_085"
+        },
+        {
+            "decision": "improved with Metoprolol.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6176,
+            "end_offset": 6200,
+            "annotation_id": "JL_086"
+        },
+        {
+            "decision": "continued on metoprolol 12.5 TID ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6211,
+            "end_offset": 6243,
+            "annotation_id": "JL_087"
+        },
+        {
+            "decision": "and ativan qhs prn.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6244,
+            "end_offset": 6262,
+            "annotation_id": "JL_088"
+        },
+        {
+            "decision": "Coronary Artery Disease s/p STEMI related to coronary vasospasm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6269,
+            "end_offset": 6332,
+            "annotation_id": "JL_089"
+        },
+        {
+            "decision": "continued aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6334,
+            "end_offset": 6351,
+            "annotation_id": "JL_090"
+        },
+        {
+            "decision": "Metoprolol as above",
+            "category": "Category 5: Drug related",
+            "start_offset": 6353,
+            "end_offset": 6372,
+            "annotation_id": "JL_091"
+        },
+        {
+            "decision": "continued acei as tolerated (though was held during while on",
+            "category": "Category 5: Drug related",
+            "start_offset": 6374,
+            "end_offset": 6434,
+            "annotation_id": "JL_092"
+        },
+        {
+            "decision": "plasmaphoresis).",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6435,
+            "end_offset": 6449,
+            "annotation_id": "JL_093"
+        },
+        {
+            "decision": "Alendronate 70 mg Tablet 1 Tablet(s) by mouth weekly",
+            "category": "Category 5: Drug related",
+            "start_offset": 6479,
+            "end_offset": 6531,
+            "annotation_id": "JL_094"
+        },
+        {
+            "decision": "Atorvastatin [Lipitor] 40 mg Tablet 2 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6532,
+            "end_offset": 6594,
+            "annotation_id": "JL_095"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol [Advair Diskus] 500 mcg-50 mcg/Dose Disk with Device 1 puff inh twice a day  [**2161-5-14**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6595,
+            "end_offset": 6710,
+            "annotation_id": "JL_096"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.2 mg/mL (0.02 %) Solution ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6711,
+            "end_offset": 6758,
+            "annotation_id": "JL_097"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.2 mg/mL (0.02 %) Solution 1 neb inhalation once a day",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6711,
+            "end_offset": 6786,
+            "annotation_id": "JL_098"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6787,
+            "end_offset": 6836,
+            "annotation_id": "JL_099"
+        },
+        {
+            "decision": "Montelukast [Singulair] 10 mg Tablet 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6837,
+            "end_offset": 6905,
+            "annotation_id": "JL_100"
+        },
+        {
+            "decision": "Omeprazole 20 mg Capsule, Delayed Release(E.C.) 2 Capsule, Delayed Release(E.C.)(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6906,
+            "end_offset": 7009,
+            "annotation_id": "JL_101"
+        },
+        {
+            "decision": "Prednisone 10 mg Tablet 2 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7010,
+            "end_offset": 7065,
+            "annotation_id": "JL_102"
+        },
+        {
+            "decision": "Tiotropium Bromide [Spiriva with HandiHaler] 18 mcg Capsule, w/Inhalation Device 1 cap(s) inh once a day",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7066,
+            "end_offset": 7170,
+            "annotation_id": "JL_103"
+        },
+        {
+            "decision": "Trimethoprim-Sulfamethoxazole 400 mg-80 mg Tablet 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7171,
+            "end_offset": 7247,
+            "annotation_id": "JL_104"
+        },
+        {
+            "decision": "Verapamil 180 mg Cap,24 hr Sust Release Pellets 1 Cap,24 hr Sust Release Pellets(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7248,
+            "end_offset": 7351,
+            "annotation_id": "JL_105"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7352,
+            "end_offset": 7428,
+            "annotation_id": "JL_106"
+        },
+        {
+            "decision": "Calcium-Cholecalciferol (D3) [Caltrate-600 Plus Vitamin D3] 600 mg-400 unit Tablet 1 Tablet(s) by mouth twice a day ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7429,
+            "end_offset": 7544,
+            "annotation_id": "JL_107"
+        },
+        {
+            "decision": "RSV",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7637,
+            "end_offset": 7640,
+            "annotation_id": "JL_108"
+        },
+        {
+            "decision": "COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7641,
+            "end_offset": 7658,
+            "annotation_id": "JL_109"
+        },
+        {
+            "decision": "thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7659,
+            "end_offset": 7675,
+            "annotation_id": "JL_110"
+        },
+        {
+            "decision": "anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7676,
+            "end_offset": 7682,
+            "annotation_id": "JL_111"
+        },
+        {
+            "decision": "bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7683,
+            "end_offset": 7693,
+            "annotation_id": "JL_112"
+        },
+        {
+            "decision": "1. COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7706,
+            "end_offset": 7713,
+            "annotation_id": "JL_113"
+        },
+        {
+            "decision": "spirometry on [**2161-2-23**] with severe obstructive ventilatory defect, FEV1/FVC 63% predicted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7716,
+            "end_offset": 7812,
+            "annotation_id": "JL_114"
+        },
+        {
+            "decision": "2. Coronary Artery Disease s/p STEMI related to coronary vasospasm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7813,
+            "end_offset": 7879,
+            "annotation_id": "JL_115"
+        },
+        {
+            "decision": "3. Congestive Heart Failure - diastolic and systolic heart failure with EF 45%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7880,
+            "end_offset": 7957,
+            "annotation_id": "JL_116"
+        },
+        {
+            "decision": "4. Aortic Mural Thrombus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7959,
+            "end_offset": 7983,
+            "annotation_id": "JL_117"
+        },
+        {
+            "decision": "5. h/o Upper Extremity DVT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7984,
+            "end_offset": 8010,
+            "annotation_id": "JL_118"
+        },
+        {
+            "decision": "associated with PICC line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8011,
+            "end_offset": 8036,
+            "annotation_id": "JL_119"
+        },
+        {
+            "decision": "6. Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8037,
+            "end_offset": 8052,
+            "annotation_id": "JL_120"
+        },
+        {
+            "decision": "7. Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8053,
+            "end_offset": 8076,
+            "annotation_id": "JL_121"
+        },
+        {
+            "decision": "8. h/o Cdiff colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8077,
+            "end_offset": 8097,
+            "annotation_id": "JL_122"
+        },
+        {
+            "decision": "9. Right upper lobe nodule",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8098,
+            "end_offset": 8124,
+            "annotation_id": "JL_123"
+        },
+        {
+            "decision": "10. Compression Fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8125,
+            "end_offset": 8150,
+            "annotation_id": "JL_124"
+        },
+        {
+            "decision": "11. s/p cataract surgeries",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8151,
+            "end_offset": 8177,
+            "annotation_id": "JL_125"
+        }
+    ]
+}

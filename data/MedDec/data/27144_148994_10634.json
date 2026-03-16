@@ -1,0 +1,748 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "27144_148994_10634",
+    "annotations": [
+        {
+            "decision": "hematemesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 287,
+            "annotation_id": "IM_000"
+        },
+        {
+            "decision": "EGD with variceal banding",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 327,
+            "end_offset": 352,
+            "annotation_id": "IM_001"
+        },
+        {
+            "decision": "ETOH abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 417,
+            "end_offset": 427,
+            "annotation_id": "IM_002"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 429,
+            "end_offset": 432,
+            "annotation_id": "IM_003"
+        },
+        {
+            "decision": "depression ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 438,
+            "end_offset": 448,
+            "annotation_id": "IM_004"
+        },
+        {
+            "decision": "c/o bloody emesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 467,
+            "end_offset": 484,
+            "annotation_id": "IM_005"
+        },
+        {
+            "decision": "Aleve 3 times a week",
+            "category": "Category 5: Drug related",
+            "start_offset": 924,
+            "end_offset": 944,
+            "annotation_id": "IM_006"
+        },
+        {
+            "decision": "500 cc of bright red blood from an NGT that was placed, melena which turned into BRBPR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1527,
+            "end_offset": 1613,
+            "annotation_id": "IM_007"
+        },
+        {
+            "decision": "received 2 units of PRBC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1618,
+            "end_offset": 1642,
+            "annotation_id": "IM_008"
+        },
+        {
+            "decision": "4 L of NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1644,
+            "end_offset": 1653,
+            "annotation_id": "IM_009"
+        },
+        {
+            "decision": "1 unit of FFP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1659,
+            "end_offset": 1672,
+            "annotation_id": "IM_010"
+        },
+        {
+            "decision": "received Protonix 40 mg IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1682,
+            "end_offset": 1711,
+            "annotation_id": "IM_011"
+        },
+        {
+            "decision": "Cipro 400 mg IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1713,
+            "end_offset": 1731,
+            "annotation_id": "IM_012"
+        },
+        {
+            "decision": "octreotide 100 mcg bolus and then 25 mcg/hr",
+            "category": "Category 5: Drug related",
+            "start_offset": 1733,
+            "end_offset": 1776,
+            "annotation_id": "IM_013"
+        },
+        {
+            "decision": "zofran 4 mg IVx1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1782,
+            "end_offset": 1798,
+            "annotation_id": "IM_014"
+        },
+        {
+            "decision": "the pt admits to SOB with walking up 2 flights of stairs over the past several months",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1810,
+            "end_offset": 1895,
+            "annotation_id": "IM_015"
+        },
+        {
+            "decision": "EGD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1941,
+            "end_offset": 1944,
+            "annotation_id": "IM_016"
+        },
+        {
+            "decision": "Grade II non-bleeding varices were visuallized, and a clot in the antrum was visualized. He had no evidence of active bleeding, and 4 varices were banded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1951,
+            "end_offset": 2104,
+            "annotation_id": "IM_017"
+        },
+        {
+            "decision": "Recent motor vehicle accident",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2130,
+            "end_offset": 2159,
+            "annotation_id": "IM_018"
+        },
+        {
+            "decision": "History of ethanol abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2161,
+            "end_offset": 2185,
+            "annotation_id": "IM_019"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2187,
+            "end_offset": 2199,
+            "annotation_id": "IM_020"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2201,
+            "end_offset": 2211,
+            "annotation_id": "IM_021"
+        },
+        {
+            "decision": "GEN: pleasant, pale, fatigued, mildly yellow skin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2715,
+            "end_offset": 2764,
+            "annotation_id": "IM_022"
+        },
+        {
+            "decision": "HEENT: PERRL, EOMI, +icteric sclerae, dry MM, op without lesions ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2765,
+            "end_offset": 2829,
+            "annotation_id": "IM_023"
+        },
+        {
+            "decision": "NECK: no supraclavicular or cervical lymphadenopathy, no jvd, no carotid bruits, no thyromegaly or thyroid nodules",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2831,
+            "end_offset": 2945,
+            "annotation_id": "IM_024"
+        },
+        {
+            "decision": "RESP: CTA b/l with good air movement throughout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2946,
+            "end_offset": 2993,
+            "annotation_id": "IM_025"
+        },
+        {
+            "decision": "CV: RR, S1 and S2 wnl, no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2994,
+            "end_offset": 3025,
+            "annotation_id": "IM_026"
+        },
+        {
+            "decision": "ABD: nd, hypoactive BS, soft, nontender, liver percussed at 5 cm below costal margin, no splenomegaly on exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3026,
+            "end_offset": 3135,
+            "annotation_id": "IM_027"
+        },
+        {
+            "decision": "EXT: no c/c/e, warm, good pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3136,
+            "end_offset": 3168,
+            "annotation_id": "IM_028"
+        },
+        {
+            "decision": "SKIN: no rashes, mild jaundice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3169,
+            "end_offset": 3199,
+            "annotation_id": "IM_029"
+        },
+        {
+            "decision": "NEURO: oriented x3, no asterixis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3200,
+            "end_offset": 3232,
+            "annotation_id": "IM_030"
+        },
+        {
+            "decision": "Rectal: Red blood in ED",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3234,
+            "end_offset": 3257,
+            "annotation_id": "IM_031"
+        },
+        {
+            "decision": "BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4837,
+            "end_offset": 4887,
+            "annotation_id": "IM_032"
+        },
+        {
+            "decision": "BLOOD HCV Ab-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4950,
+            "end_offset": 4971,
+            "annotation_id": "IM_033"
+        },
+        {
+            "decision": "BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5001,
+            "end_offset": 5074,
+            "annotation_id": "IM_034"
+        },
+        {
+            "decision": "ECG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5076,
+            "end_offset": 5079,
+            "annotation_id": "IM_035"
+        },
+        {
+            "decision": "NSR (92), left axis (-24), nl intervals, no ST abnormalities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5081,
+            "end_offset": 5141,
+            "annotation_id": "IM_036"
+        },
+        {
+            "decision": "EGD ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5145,
+            "end_offset": 5148,
+            "annotation_id": "IM_037"
+        },
+        {
+            "decision": "Varices at the distal esophagus, band ligation was successfully performed Blood clot in the gastric fundus No active source of bleeding was noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5165,
+            "end_offset": 5310,
+            "annotation_id": "IM_038"
+        },
+        {
+            "decision": "CXR ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5313,
+            "end_offset": 5316,
+            "annotation_id": "IM_039"
+        },
+        {
+            "decision": "there is little overall change. Again there is somewhat low lung volumes with bibasilar atelectatic change. The possibility of a more focal consolidation at the base cannot be excluded.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5373,
+            "end_offset": 5557,
+            "annotation_id": "IM_040"
+        },
+        {
+            "decision": "RUQ US",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5561,
+            "end_offset": 5567,
+            "annotation_id": "IM_041"
+        },
+        {
+            "decision": "The liver shows no textural or focal abnormality. Small amount of ascites is present",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5583,
+            "end_offset": 5667,
+            "annotation_id": "IM_042"
+        },
+        {
+            "decision": "Gallbladder contains sludge and stones. No evidence of acute cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5672,
+            "end_offset": 5746,
+            "annotation_id": "IM_043"
+        },
+        {
+            "decision": "TTE ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5750,
+            "end_offset": 5753,
+            "annotation_id": "IM_044"
+        },
+        {
+            "decision": "The left atrium is mildly dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5766,
+            "end_offset": 6015,
+            "annotation_id": "IM_045"
+        },
+        {
+            "decision": "There is no left ventricular outflow obstruction at rest or with Valsalva. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6018,
+            "end_offset": 6194,
+            "annotation_id": "IM_046"
+        },
+        {
+            "decision": "The ascending aorta is mildly dilated. The aortic arch is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6196,
+            "end_offset": 6391,
+            "annotation_id": "IM_047"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is an anterior space which most likely represents a fat pad.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6393,
+            "end_offset": 6635,
+            "annotation_id": "IM_048"
+        },
+        {
+            "decision": "CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6639,
+            "end_offset": 6642,
+            "annotation_id": "IM_049"
+        },
+        {
+            "decision": "bibasilar atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6644,
+            "end_offset": 6665,
+            "annotation_id": "IM_050"
+        },
+        {
+            "decision": "VARICEAL BLEED",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6690,
+            "end_offset": 6704,
+            "annotation_id": "IM_051"
+        },
+        {
+            "decision": "transfussed 2uPRBC's",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6723,
+            "end_offset": 6743,
+            "annotation_id": "IM_052"
+        },
+        {
+            "decision": "1 uFFP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6745,
+            "end_offset": 6751,
+            "annotation_id": "IM_053"
+        },
+        {
+            "decision": "4L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6763,
+            "end_offset": 6768,
+            "annotation_id": "IM_054"
+        },
+        {
+            "decision": "started on octreotide ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6777,
+            "end_offset": 6798,
+            "annotation_id": "IM_055"
+        },
+        {
+            "decision": "iv PPI",
+            "category": "Category 5: Drug related",
+            "start_offset": 6803,
+            "end_offset": 6809,
+            "annotation_id": "IM_056"
+        },
+        {
+            "decision": "NGT placement with 500cc bloody return and melena->BRBPR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6818,
+            "end_offset": 6874,
+            "annotation_id": "IM_057"
+        },
+        {
+            "decision": "transferred to MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 6888,
+            "end_offset": 6907,
+            "annotation_id": "IM_058"
+        },
+        {
+            "decision": "EGD ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6912,
+            "end_offset": 6915,
+            "annotation_id": "IM_059"
+        },
+        {
+            "decision": "showed Grade II non-bleeding varices, clot in stomach, and had 4 varices banded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6922,
+            "end_offset": 7001,
+            "annotation_id": "IM_060"
+        },
+        {
+            "decision": "octreotide drip was stopped",
+            "category": "Category 5: Drug related",
+            "start_offset": 7109,
+            "end_offset": 7136,
+            "annotation_id": "IM_061"
+        },
+        {
+            "decision": "He will need to return for repeat banding procedure by EGD on [**2116-3-5**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7139,
+            "end_offset": 7215,
+            "annotation_id": "IM_062"
+        },
+        {
+            "decision": "nadolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7234,
+            "end_offset": 7241,
+            "annotation_id": "IM_063"
+        },
+        {
+            "decision": "levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7285,
+            "end_offset": 7297,
+            "annotation_id": "IM_064"
+        },
+        {
+            "decision": "carafate ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7302,
+            "end_offset": 7310,
+            "annotation_id": "IM_065"
+        },
+        {
+            "decision": "CIRRHOSIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7358,
+            "end_offset": 7367,
+            "annotation_id": "IM_066"
+        },
+        {
+            "decision": "follow-up with a hepatologist, Dr. [**Name (STitle) 31990**], here at [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 7393,
+            "end_offset": 7481,
+            "annotation_id": "IM_067"
+        },
+        {
+            "decision": "FEVERS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7539,
+            "end_offset": 7545,
+            "annotation_id": "IM_068"
+        },
+        {
+            "decision": "transferred to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 7583,
+            "end_offset": 7607,
+            "annotation_id": "IM_069"
+        },
+        {
+            "decision": "Cultures of urine and blood were negative for growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7609,
+            "end_offset": 7661,
+            "annotation_id": "IM_070"
+        },
+        {
+            "decision": "cxr showed atelectasis but no infiltrate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7667,
+            "end_offset": 7707,
+            "annotation_id": "IM_071"
+        },
+        {
+            "decision": "ciprofloxacin initially with the GIB",
+            "category": "Category 5: Drug related",
+            "start_offset": 7729,
+            "end_offset": 7765,
+            "annotation_id": "IM_072"
+        },
+        {
+            "decision": "switched to levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 7779,
+            "end_offset": 7803,
+            "annotation_id": "IM_073"
+        },
+        {
+            "decision": "fevers are presumed to be due to atelectasis as all cultures remain negative and his only localizing symptom is a cough",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7853,
+            "end_offset": 7972,
+            "annotation_id": "IM_074"
+        },
+        {
+            "decision": "ACUTE RENAL FAILURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7975,
+            "end_offset": 7994,
+            "annotation_id": "IM_075"
+        },
+        {
+            "decision": "pre-renal azotemia as Cr improved to 0.8",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8016,
+            "end_offset": 8056,
+            "annotation_id": "IM_076"
+        },
+        {
+            "decision": "THROMBOCYTOPENIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8072,
+            "end_offset": 8088,
+            "annotation_id": "IM_077"
+        },
+        {
+            "decision": "dropped his platelet count ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8101,
+            "end_offset": 8127,
+            "annotation_id": "IM_078"
+        },
+        {
+            "decision": "ALCOHOL ABUSE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8190,
+            "end_offset": 8203,
+            "annotation_id": "IM_079"
+        },
+        {
+            "decision": "Aleve 3 times/week for arthritis",
+            "category": "Category 5: Drug related",
+            "start_offset": 8353,
+            "end_offset": 8385,
+            "annotation_id": "IM_080"
+        },
+        {
+            "decision": "Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times a day) for 6 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8436,
+            "end_offset": 8514,
+            "annotation_id": "IM_081"
+        },
+        {
+            "decision": "Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed: Limit = 2gm/day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8519,
+            "end_offset": 8616,
+            "annotation_id": "IM_082"
+        },
+        {
+            "decision": "Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8621,
+            "end_offset": 8679,
+            "annotation_id": "IM_083"
+        },
+        {
+            "decision": "Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8686,
+            "end_offset": 8748,
+            "annotation_id": "IM_084"
+        },
+        {
+            "decision": "Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8754,
+            "end_offset": 8809,
+            "annotation_id": "IM_085"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8815,
+            "end_offset": 8932,
+            "annotation_id": "IM_086"
+        },
+        {
+            "decision": "Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8938,
+            "end_offset": 9003,
+            "annotation_id": "IM_087"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9009,
+            "end_offset": 9110,
+            "annotation_id": "IM_088"
+        },
+        {
+            "decision": "Nadolol 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9115,
+            "end_offset": 9171,
+            "annotation_id": "IM_089"
+        },
+        {
+            "decision": "Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 5 days. Tablet(s) ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9178,
+            "end_offset": 9270,
+            "annotation_id": "IM_090"
+        },
+        {
+            "decision": "ESOPHAGEAL VARICEAL BLEEDING",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9407,
+            "end_offset": 9435,
+            "annotation_id": "IM_091"
+        },
+        {
+            "decision": "PORTAL HYPERTENSION",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9446,
+            "end_offset": 9465,
+            "annotation_id": "IM_092"
+        },
+        {
+            "decision": "CIRRHOSIS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9478,
+            "end_offset": 9487,
+            "annotation_id": "IM_093"
+        },
+        {
+            "decision": "ACUTE RENAL FAILURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9499,
+            "end_offset": 9518,
+            "annotation_id": "IM_094"
+        },
+        {
+            "decision": "Hemodynamically stable, pain free",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9542,
+            "end_offset": 9575,
+            "annotation_id": "IM_095"
+        },
+        {
+            "decision": "upper GI bleed caused by varices, enlarged veins around the esophagus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9628,
+            "end_offset": 9697,
+            "annotation_id": "IM_096"
+        },
+        {
+            "decision": "transfused blood, and treated with a banding procedure",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9708,
+            "end_offset": 9762,
+            "annotation_id": "IM_097"
+        },
+        {
+            "decision": "You will need to return for this procedure again",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9764,
+            "end_offset": 9812,
+            "annotation_id": "IM_098"
+        },
+        {
+            "decision": "bleed is a result of cirrhosis, a scarring condition of the liver caused by excessive alcohol use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9820,
+            "end_offset": 9917,
+            "annotation_id": "IM_099"
+        },
+        {
+            "decision": "you must never drink alcohol again.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9928,
+            "end_offset": 9962,
+            "annotation_id": "IM_100"
+        },
+        {
+            "decision": "You were placed on several medicines to manage your cirrhosis, as well as several vitamins. Please continue taking these as prescribed. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9965,
+            "end_offset": 10099,
+            "annotation_id": "IM_101"
+        },
+        {
+            "decision": "Please call your PCP or return to the nearest ER if you have fever >101, chills, shortness of breath, worsening cough, vomiting blood, nausea, vomiting, black stools >1 week, abdominal pain, or any other worrisome symptoms.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10102,
+            "end_offset": 10324,
+            "annotation_id": "IM_102"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) 1382**] [**Name11 (NameIs) 1383**], MD Phone:[**Telephone/Fax (1) 2422**] Date/Time:[**2116-3-5**] 12:30 Provider: [**Name10 (NameIs) **] WEST,ROOM ONE GI ROOMS Date/Time:[**2116-3-5**] 12:30",
+            "category": "Category 1: Contact related",
+            "start_offset": 10361,
+            "end_offset": 10581,
+            "annotation_id": "IM_103"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) 2437**],[**Name11 (NameIs) **]  [**Telephone/Fax (1) 612**]  Call to schedule appointment ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10716,
+            "end_offset": 10834,
+            "annotation_id": "IM_104"
+        },
+        {
+            "decision": "Please also follow-up with your PCP upon discharge as your fingersticks (glucose level) have been elevated during your admission. You may have diabetes and this ought to be addressed by your PCP.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10836,
+            "end_offset": 11030,
+            "annotation_id": "IM_105"
+        }
+    ]
+}

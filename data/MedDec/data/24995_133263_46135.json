@@ -1,0 +1,1224 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "24995_133263_46135",
+    "annotations": [
+        {
+            "decision": "Found unresponsive at home",
+            "category": "Category 3: Defining problem",
+            "start_offset": 228,
+            "end_offset": 254,
+            "annotation_id": "HT_000"
+        },
+        {
+            "decision": "Endotracheal intubation [**2171-7-1**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 294,
+            "end_offset": 332,
+            "annotation_id": "HT_001"
+        },
+        {
+            "decision": "Central venous line placement [**2171-7-1**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 333,
+            "end_offset": 377,
+            "annotation_id": "HT_002"
+        },
+        {
+            "decision": "DM type 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 470,
+            "end_offset": 479,
+            "annotation_id": "HT_003"
+        },
+        {
+            "decision": "neuropathy, nephropathy and retinopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 506,
+            "end_offset": 545,
+            "annotation_id": "HT_004"
+        },
+        {
+            "decision": "DKA and hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 572,
+            "end_offset": 592,
+            "annotation_id": "HT_005"
+        },
+        {
+            "decision": "was unresponsive, sugar 500, BP 90/50, HR 110, regular and RR 24, Sat 100% on NRB.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 822,
+            "end_offset": 903,
+            "annotation_id": "HT_006"
+        },
+        {
+            "decision": "responsive to pain, saying \"no\"",
+            "category": "Category 3: Defining problem",
+            "start_offset": 931,
+            "end_offset": 961,
+            "annotation_id": "HT_007"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 972,
+            "end_offset": 981,
+            "annotation_id": "HT_008"
+        },
+        {
+            "decision": "Post-intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1054,
+            "end_offset": 1069,
+            "annotation_id": "HT_009"
+        },
+        {
+            "decision": "BP dropped to 72/33",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1075,
+            "end_offset": 1094,
+            "annotation_id": "HT_010"
+        },
+        {
+            "decision": "femoral line was attempted but resulted in a femoral stick",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1098,
+            "end_offset": 1156,
+            "annotation_id": "HT_011"
+        },
+        {
+            "decision": "right IJ was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1160,
+            "end_offset": 1179,
+            "annotation_id": "HT_012"
+        },
+        {
+            "decision": "Levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1185,
+            "end_offset": 1193,
+            "annotation_id": "HT_013"
+        },
+        {
+            "decision": "calcium gluconate, Levofloxacin, Flagyl, Vancomycin, Ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 1237,
+            "end_offset": 1301,
+            "annotation_id": "HT_014"
+        },
+        {
+            "decision": "DM type 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1329,
+            "end_offset": 1338,
+            "annotation_id": "HT_015"
+        },
+        {
+            "decision": "DKA ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1375,
+            "end_offset": 1378,
+            "annotation_id": "HT_016"
+        },
+        {
+            "decision": "hypoglycemic episodes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1383,
+            "end_offset": 1404,
+            "annotation_id": "HT_017"
+        },
+        {
+            "decision": "DM ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1410,
+            "end_offset": 1412,
+            "annotation_id": "HT_018"
+        },
+        {
+            "decision": "peripheral neuropathy, proliferative retinopathy (left eye blindness), and nephropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1431,
+            "end_offset": 1517,
+            "annotation_id": "HT_019"
+        },
+        {
+            "decision": "Followed at [**Last Name (un) **].",
+            "category": "Category 1: Contact related",
+            "start_offset": 1519,
+            "end_offset": 1552,
+            "annotation_id": "HT_020"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1557,
+            "end_offset": 1569,
+            "annotation_id": "HT_021"
+        },
+        {
+            "decision": "History of osteomyelitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1573,
+            "end_offset": 1597,
+            "annotation_id": "HT_022"
+        },
+        {
+            "decision": "transmetatarsal amputation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1616,
+            "end_offset": 1642,
+            "annotation_id": "HT_023"
+        },
+        {
+            "decision": "History of herpes zoster of left chest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1647,
+            "end_offset": 1685,
+            "annotation_id": "HT_024"
+        },
+        {
+            "decision": "Bezoar",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1704,
+            "end_offset": 1710,
+            "annotation_id": "HT_025"
+        },
+        {
+            "decision": "No documented CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1754,
+            "end_offset": 1771,
+            "annotation_id": "HT_026"
+        },
+        {
+            "decision": "Nuclear stress test [**4-21**]: P-MIBI, without fixed or reversible defects, normal wall motion. EF 61%.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1773,
+            "end_offset": 1875,
+            "annotation_id": "HT_027"
+        },
+        {
+            "decision": "Sedated, intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2252,
+            "end_offset": 2270,
+            "annotation_id": "HT_028"
+        },
+        {
+            "decision": "Levophed",
+            "category": "Category 5: Drug related",
+            "start_offset": 2275,
+            "end_offset": 2283,
+            "annotation_id": "HT_029"
+        },
+        {
+            "decision": "MM dry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2292,
+            "end_offset": 2298,
+            "annotation_id": "HT_030"
+        },
+        {
+            "decision": "ET in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2300,
+            "end_offset": 2311,
+            "annotation_id": "HT_031"
+        },
+        {
+            "decision": "Supple",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2319,
+            "end_offset": 2325,
+            "annotation_id": "HT_032"
+        },
+        {
+            "decision": "right IJ in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2327,
+            "end_offset": 2344,
+            "annotation_id": "HT_033"
+        },
+        {
+            "decision": "CTAB anteriorly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2353,
+            "end_offset": 2368,
+            "annotation_id": "HT_034"
+        },
+        {
+            "decision": "Tachy, regular. No murmur, or rub",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2374,
+            "end_offset": 2407,
+            "annotation_id": "HT_035"
+        },
+        {
+            "decision": "Soft, no grimacing.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2413,
+            "end_offset": 2431,
+            "annotation_id": "HT_036"
+        },
+        {
+            "decision": "No edema. Left stump, well-healed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2438,
+            "end_offset": 2471,
+            "annotation_id": "HT_037"
+        },
+        {
+            "decision": "Sedated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2480,
+            "end_offset": 2487,
+            "annotation_id": "HT_038"
+        },
+        {
+            "decision": "arousable to pain. Right pupil reactive. Surgical eye.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2489,
+            "end_offset": 2542,
+            "annotation_id": "HT_039"
+        },
+        {
+            "decision": "Levophed",
+            "category": "Category 5: Drug related",
+            "start_offset": 2637,
+            "end_offset": 2645,
+            "annotation_id": "HT_040"
+        },
+        {
+            "decision": "GEN: In NAD. Conversant.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2680,
+            "end_offset": 2703,
+            "annotation_id": "HT_041"
+        },
+        {
+            "decision": "HEENT: Right pupil reactive, left surgical eye.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2705,
+            "end_offset": 2751,
+            "annotation_id": "HT_042"
+        },
+        {
+            "decision": "NECK: Supple",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2753,
+            "end_offset": 2765,
+            "annotation_id": "HT_043"
+        },
+        {
+            "decision": "right IJ still in place.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2767,
+            "end_offset": 2790,
+            "annotation_id": "HT_044"
+        },
+        {
+            "decision": "RESP: Early fine bibasilar crackles, no bronchial breathing.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2792,
+            "end_offset": 2851,
+            "annotation_id": "HT_045"
+        },
+        {
+            "decision": "CVS: RRR. Normal S1, S2. No S3, S4. No murmur or rub.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2853,
+            "end_offset": 2905,
+            "annotation_id": "HT_046"
+        },
+        {
+            "decision": "GI: BS NA. Abdomen soft and non-tender.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2907,
+            "end_offset": 2945,
+            "annotation_id": "HT_047"
+        },
+        {
+            "decision": "EXT: Without edema. No ulcer. Let foot stump well-healed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2947,
+            "end_offset": 3003,
+            "annotation_id": "HT_048"
+        },
+        {
+            "decision": "NEURO: Oriented to time, place and name. Moves all 4 extremities.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3005,
+            "end_offset": 3069,
+            "annotation_id": "HT_049"
+        },
+        {
+            "decision": "COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.019 BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-1000 KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3890,
+            "end_offset": 4048,
+            "annotation_id": "HT_050"
+        },
+        {
+            "decision": "Urine and serum tox negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4050,
+            "end_offset": 4078,
+            "annotation_id": "HT_051"
+        },
+        {
+            "decision": "An endotracheal tube is seen, a few centimeters above the carina, which should be repositioned",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4123,
+            "end_offset": 4217,
+            "annotation_id": "HT_052"
+        },
+        {
+            "decision": "A [**Last Name (un) **]/orogastric tube is seen coursing below the diaphragm.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4219,
+            "end_offset": 4295,
+            "annotation_id": "HT_053"
+        },
+        {
+            "decision": "Cardiac, mediastinal, and hilar contours are unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4297,
+            "end_offset": 4354,
+            "annotation_id": "HT_054"
+        },
+        {
+            "decision": "The lungs themselves are clear;",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4356,
+            "end_offset": 4386,
+            "annotation_id": "HT_055"
+        },
+        {
+            "decision": "a nodular density over the right mid/lower lung field is probably a nipple shadow",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4388,
+            "end_offset": 4469,
+            "annotation_id": "HT_056"
+        },
+        {
+            "decision": "Osseous structures are unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4471,
+            "end_offset": 4506,
+            "annotation_id": "HT_057"
+        },
+        {
+            "decision": "Successful placement of endotracheal tube, which should be retracted a few centimeters.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4520,
+            "end_offset": 4606,
+            "annotation_id": "HT_058"
+        },
+        {
+            "decision": "CT HEAD: There is no intracranial hemorrhage, mass lesion, hydrocephalus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4624,
+            "end_offset": 4696,
+            "annotation_id": "HT_059"
+        },
+        {
+            "decision": "shift of normally midline structures, minor or major vascular territorial infarct",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4698,
+            "end_offset": 4779,
+            "annotation_id": "HT_060"
+        },
+        {
+            "decision": "The density values of the brain parenchyma are within normal limits",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4781,
+            "end_offset": 4848,
+            "annotation_id": "HT_061"
+        },
+        {
+            "decision": "Note is made of dystrophic calcifications in the lentiform nuclei",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4850,
+            "end_offset": 4915,
+            "annotation_id": "HT_062"
+        },
+        {
+            "decision": "There are extensive atherosclerotic calcifications of the carotid arteries",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4917,
+            "end_offset": 4991,
+            "annotation_id": "HT_063"
+        },
+        {
+            "decision": "Note is made of a left phthsis bulbi",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4993,
+            "end_offset": 5029,
+            "annotation_id": "HT_064"
+        },
+        {
+            "decision": "Surrounding osseous and soft tissue structures are otherwise unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5031,
+            "end_offset": 5104,
+            "annotation_id": "HT_065"
+        },
+        {
+            "decision": "No acute intracranial pathology, including no sign of intracranial hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5118,
+            "end_offset": 5195,
+            "annotation_id": "HT_066"
+        },
+        {
+            "decision": "V/Q scan: Low likelihood ratio for recent pulmonary embolism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5231,
+            "end_offset": 5291,
+            "annotation_id": "HT_067"
+        },
+        {
+            "decision": "Matched asymmetry as described likely due to differences in airflow with decrease on the right relative to the left.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5293,
+            "end_offset": 5408,
+            "annotation_id": "HT_068"
+        },
+        {
+            "decision": "It may be secondary to mucous plugging versus effects from mechanical ventilation. /nkg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5410,
+            "end_offset": 5497,
+            "annotation_id": "HT_069"
+        },
+        {
+            "decision": "Blood cultures X 4 NGTD Urine cultures X 2 negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5515,
+            "end_offset": 5566,
+            "annotation_id": "HT_070"
+        },
+        {
+            "decision": "DM type 1 with triopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5623,
+            "end_offset": 5647,
+            "annotation_id": "HT_071"
+        },
+        {
+            "decision": "DKA of unclear precipitant and profound metabolic dissaray.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5663,
+            "end_offset": 5721,
+            "annotation_id": "HT_072"
+        },
+        {
+            "decision": "DKA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5727,
+            "end_offset": 5730,
+            "annotation_id": "HT_073"
+        },
+        {
+            "decision": "profound metabolic dissaray",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5789,
+            "end_offset": 5816,
+            "annotation_id": "HT_074"
+        },
+        {
+            "decision": "regular insulin drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 5839,
+            "end_offset": 5859,
+            "annotation_id": "HT_075"
+        },
+        {
+            "decision": "aggressively hydrated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5905,
+            "end_offset": 5926,
+            "annotation_id": "HT_076"
+        },
+        {
+            "decision": "subcutaneous insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6029,
+            "end_offset": 6049,
+            "annotation_id": "HT_077"
+        },
+        {
+            "decision": "NPH",
+            "category": "Category 5: Drug related",
+            "start_offset": 6068,
+            "end_offset": 6071,
+            "annotation_id": "HT_078"
+        },
+        {
+            "decision": "Lantus ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6078,
+            "end_offset": 6084,
+            "annotation_id": "HT_079"
+        },
+        {
+            "decision": "Novolog sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 6110,
+            "end_offset": 6131,
+            "annotation_id": "HT_080"
+        },
+        {
+            "decision": "Lantus ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6142,
+            "end_offset": 6148,
+            "annotation_id": "HT_081"
+        },
+        {
+            "decision": "Novolog sliding scale ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6244,
+            "end_offset": 6265,
+            "annotation_id": "HT_082"
+        },
+        {
+            "decision": "good glycemic control",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6281,
+            "end_offset": 6302,
+            "annotation_id": "HT_083"
+        },
+        {
+            "decision": "Lantus ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6304,
+            "end_offset": 6310,
+            "annotation_id": "HT_084"
+        },
+        {
+            "decision": "elevated WBC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6660,
+            "end_offset": 6672,
+            "annotation_id": "HT_085"
+        },
+        {
+            "decision": "an infectious work-up was negative, including U/A, urine culture, blood cultures, and CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6710,
+            "end_offset": 6799,
+            "annotation_id": "HT_086"
+        },
+        {
+            "decision": "Levo/Vanco and Flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 6815,
+            "end_offset": 6836,
+            "annotation_id": "HT_087"
+        },
+        {
+            "decision": "CT head was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6877,
+            "end_offset": 6897,
+            "annotation_id": "HT_088"
+        },
+        {
+            "decision": "mild troponin leak, but with flat MB",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6914,
+            "end_offset": 6950,
+            "annotation_id": "HT_089"
+        },
+        {
+            "decision": "not felt to be an acute coronary syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6965,
+            "end_offset": 7006,
+            "annotation_id": "HT_090"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7088,
+            "end_offset": 7099,
+            "annotation_id": "HT_091"
+        },
+        {
+            "decision": "blood pressure dropped ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7121,
+            "end_offset": 7143,
+            "annotation_id": "HT_092"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7164,
+            "end_offset": 7174,
+            "annotation_id": "HT_093"
+        },
+        {
+            "decision": "Levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7199,
+            "end_offset": 7207,
+            "annotation_id": "HT_094"
+        },
+        {
+            "decision": "remained hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7281,
+            "end_offset": 7312,
+            "annotation_id": "HT_095"
+        },
+        {
+            "decision": "sedative medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 7385,
+            "end_offset": 7405,
+            "annotation_id": "HT_096"
+        },
+        {
+            "decision": "peri-intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7406,
+            "end_offset": 7421,
+            "annotation_id": "HT_097"
+        },
+        {
+            "decision": "hypotension was most likely [**2-20**] hypovolemia, exacerbated by sedative medications peri-intubation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7318,
+            "end_offset": 7421,
+            "annotation_id": "HT_098"
+        },
+        {
+            "decision": "mild troponin leak",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7443,
+            "end_offset": 7461,
+            "annotation_id": "HT_099"
+        },
+        {
+            "decision": "PE ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7519,
+            "end_offset": 7521,
+            "annotation_id": "HT_100"
+        },
+        {
+            "decision": "Infectious work-up on admission negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7537,
+            "end_offset": 7577,
+            "annotation_id": "HT_101"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7583,
+            "end_offset": 7586,
+            "annotation_id": "HT_102"
+        },
+        {
+            "decision": "EKG on admission showed lateral ST depressions in the setting of tachycardia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7588,
+            "end_offset": 7664,
+            "annotation_id": "HT_103"
+        },
+        {
+            "decision": "Cardiac enzymes also revealed a mild troponin leak with peak troponin 0.19 but flat MB",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7666,
+            "end_offset": 7752,
+            "annotation_id": "HT_104"
+        },
+        {
+            "decision": "acute renal failure and tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7772,
+            "end_offset": 7807,
+            "annotation_id": "HT_105"
+        },
+        {
+            "decision": "P-MIBI in [**2169**] without reversible defects, normal EF",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7856,
+            "end_offset": 7914,
+            "annotation_id": "HT_106"
+        },
+        {
+            "decision": "repeat EKG on hospital day #2 showed resolution of the changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7918,
+            "end_offset": 7980,
+            "annotation_id": "HT_107"
+        },
+        {
+            "decision": "ASA, Metoprolol and statin, then Nifedipine",
+            "category": "Category 5: Drug related",
+            "start_offset": 8052,
+            "end_offset": 8095,
+            "annotation_id": "HT_108"
+        },
+        {
+            "decision": "Diovan ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8097,
+            "end_offset": 8103,
+            "annotation_id": "HT_109"
+        },
+        {
+            "decision": "renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8136,
+            "end_offset": 8155,
+            "annotation_id": "HT_110"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8221,
+            "end_offset": 8230,
+            "annotation_id": "HT_111"
+        },
+        {
+            "decision": "V/Q scan was obtained and returned as low probability for PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8320,
+            "end_offset": 8380,
+            "annotation_id": "HT_112"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8402,
+            "end_offset": 8411,
+            "annotation_id": "HT_113"
+        },
+        {
+            "decision": "ARF on CRI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8469,
+            "end_offset": 8479,
+            "annotation_id": "HT_114"
+        },
+        {
+            "decision": "creatinine peaked at 4.5",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8512,
+            "end_offset": 8536,
+            "annotation_id": "HT_115"
+        },
+        {
+            "decision": "hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8570,
+            "end_offset": 8579,
+            "annotation_id": "HT_116"
+        },
+        {
+            "decision": "Sediment was unremarkable on U/A.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8581,
+            "end_offset": 8613,
+            "annotation_id": "HT_117"
+        },
+        {
+            "decision": "Urine lytes were sent on [**7-3**], and were suggestive of superimposed ATN with FeNa 5.2%.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8615,
+            "end_offset": 8704,
+            "annotation_id": "HT_118"
+        },
+        {
+            "decision": "hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8748,
+            "end_offset": 8757,
+            "annotation_id": "HT_119"
+        },
+        {
+            "decision": "creatinine continued to improve with hydration, down to baseline at the time of discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8711,
+            "end_offset": 8800,
+            "annotation_id": "HT_120"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8806,
+            "end_offset": 8812,
+            "annotation_id": "HT_121"
+        },
+        {
+            "decision": "hematocrit dropped to 28",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8818,
+            "end_offset": 8842,
+            "annotation_id": "HT_122"
+        },
+        {
+            "decision": "fluid rescuscitation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8889,
+            "end_offset": 8909,
+            "annotation_id": "HT_123"
+        },
+        {
+            "decision": "transfused 1 unit of PRBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8919,
+            "end_offset": 8945,
+            "annotation_id": "HT_124"
+        },
+        {
+            "decision": "Protonix",
+            "category": "Category 5: Drug related",
+            "start_offset": 8992,
+            "end_offset": 9000,
+            "annotation_id": "HT_125"
+        },
+        {
+            "decision": "baseline hematocrit in the high 20s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9053,
+            "end_offset": 9088,
+            "annotation_id": "HT_126"
+        },
+        {
+            "decision": "hematocrit subsequently remained stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9094,
+            "end_offset": 9133,
+            "annotation_id": "HT_127"
+        },
+        {
+            "decision": "Protonix",
+            "category": "Category 5: Drug related",
+            "start_offset": 9199,
+            "end_offset": 9207,
+            "annotation_id": "HT_128"
+        },
+        {
+            "decision": "Elevated amylase",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9213,
+            "end_offset": 9229,
+            "annotation_id": "HT_129"
+        },
+        {
+            "decision": "amylase peaked at 1730",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9235,
+            "end_offset": 9257,
+            "annotation_id": "HT_130"
+        },
+        {
+            "decision": "mildly elevated lipase with peak at 92",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9269,
+            "end_offset": 9307,
+            "annotation_id": "HT_131"
+        },
+        {
+            "decision": "abdominal examination was benign throughout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9313,
+            "end_offset": 9356,
+            "annotation_id": "HT_132"
+        },
+        {
+            "decision": "amylase trended down",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9362,
+            "end_offset": 9382,
+            "annotation_id": "HT_133"
+        },
+        {
+            "decision": "hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9388,
+            "end_offset": 9397,
+            "annotation_id": "HT_134"
+        },
+        {
+            "decision": "Amylasemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9399,
+            "end_offset": 9409,
+            "annotation_id": "HT_135"
+        },
+        {
+            "decision": "DKA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9446,
+            "end_offset": 9449,
+            "annotation_id": "HT_136"
+        },
+        {
+            "decision": "Hypernatremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9455,
+            "end_offset": 9468,
+            "annotation_id": "HT_137"
+        },
+        {
+            "decision": "DKA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9523,
+            "end_offset": 9526,
+            "annotation_id": "HT_138"
+        },
+        {
+            "decision": "aggressively hydrated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9557,
+            "end_offset": 9578,
+            "annotation_id": "HT_139"
+        },
+        {
+            "decision": "normalization of her sodium",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9585,
+            "end_offset": 9612,
+            "annotation_id": "HT_140"
+        },
+        {
+            "decision": "initial infectious work-up was unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9641,
+            "end_offset": 9684,
+            "annotation_id": "HT_141"
+        },
+        {
+            "decision": "she developed a new fever in the hospital on hospital day #3 to 101.2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9695,
+            "end_offset": 9764,
+            "annotation_id": "HT_142"
+        },
+        {
+            "decision": "repeat infectious work-up was performed, with negative CXR, U/A with few WBC but + epithelial cells (foley removed), and cultures all negative to date",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9768,
+            "end_offset": 9918,
+            "annotation_id": "HT_143"
+        },
+        {
+            "decision": "central line was kept in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9924,
+            "end_offset": 9954,
+            "annotation_id": "HT_144"
+        },
+        {
+            "decision": "diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10055,
+            "end_offset": 10063,
+            "annotation_id": "HT_145"
+        },
+        {
+            "decision": "Atenolol 12.5 mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10405,
+            "end_offset": 10427,
+            "annotation_id": "HT_146"
+        },
+        {
+            "decision": "ASA 325 mg Po QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10428,
+            "end_offset": 10444,
+            "annotation_id": "HT_147"
+        },
+        {
+            "decision": "Nifedipine 60 mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10445,
+            "end_offset": 10467,
+            "annotation_id": "HT_148"
+        },
+        {
+            "decision": "Protonix 40 mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10468,
+            "end_offset": 10488,
+            "annotation_id": "HT_149"
+        },
+        {
+            "decision": "Diovan 80 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10489,
+            "end_offset": 10508,
+            "annotation_id": "HT_150"
+        },
+        {
+            "decision": "Lumigan 0.03% 1 drop OD QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10509,
+            "end_offset": 10535,
+            "annotation_id": "HT_151"
+        },
+        {
+            "decision": "Timolol 0.5% 1 drop OD QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 10536,
+            "end_offset": 10561,
+            "annotation_id": "HT_152"
+        },
+        {
+            "decision": "Lantus 12 units QHS with Novolog sliding scale.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10562,
+            "end_offset": 10608,
+            "annotation_id": "HT_153"
+        },
+        {
+            "decision": "1. Atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10634,
+            "end_offset": 10690,
+            "annotation_id": "HT_154"
+        },
+        {
+            "decision": "2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10693,
+            "end_offset": 10753,
+            "annotation_id": "HT_155"
+        },
+        {
+            "decision": "3. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10756,
+            "end_offset": 10854,
+            "annotation_id": "HT_156"
+        },
+        {
+            "decision": "4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10857,
+            "end_offset": 10984,
+            "annotation_id": "HT_157"
+        },
+        {
+            "decision": "5. Valsartan 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10988,
+            "end_offset": 11055,
+            "annotation_id": "HT_158"
+        },
+        {
+            "decision": "6. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 11058,
+            "end_offset": 11130,
+            "annotation_id": "HT_159"
+        },
+        {
+            "decision": "7. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 11133,
+            "end_offset": 11205,
+            "annotation_id": "HT_160"
+        },
+        {
+            "decision": "8. Lumigan 0.03 % Drops Sig: One (1) drop OD Ophthalmic  once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11208,
+            "end_offset": 11275,
+            "annotation_id": "HT_161"
+        },
+        {
+            "decision": "9. Lantus 12 units SC QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 11277,
+            "end_offset": 11302,
+            "annotation_id": "HT_162"
+        },
+        {
+            "decision": "10. Novolog insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 11303,
+            "end_offset": 11336,
+            "annotation_id": "HT_163"
+        },
+        {
+            "decision": "Diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11552,
+            "end_offset": 11573,
+            "annotation_id": "HT_164"
+        },
+        {
+            "decision": "Probable viral syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11574,
+            "end_offset": 11597,
+            "annotation_id": "HT_165"
+        },
+        {
+            "decision": "Diabetes mellitus type 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11598,
+            "end_offset": 11622,
+            "annotation_id": "HT_166"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11645,
+            "end_offset": 11657,
+            "annotation_id": "HT_167"
+        },
+        {
+            "decision": "stable condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11708,
+            "end_offset": 11724,
+            "annotation_id": "HT_168"
+        },
+        {
+            "decision": "Please call your PCP or return to the ED if your blood sugars are greater than 400 or less than 50.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11751,
+            "end_offset": 11849,
+            "annotation_id": "HT_169"
+        },
+        {
+            "decision": "Please take all medications as prescribed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11852,
+            "end_offset": 11893,
+            "annotation_id": "HT_170"
+        },
+        {
+            "decision": "1) You have a scheduled appointment with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 3029**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 11919,
+            "end_offset": 12031,
+            "annotation_id": "HT_171"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) 674**] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. Where: [**Hospital6 29**] [**Hospital **] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2171-7-12**] 11:50",
+            "category": "Category 1: Contact related",
+            "start_offset": 12125,
+            "end_offset": 12349,
+            "annotation_id": "HT_172"
+        },
+        {
+            "decision": "You also have a scheduled appointment with Dr. [**Last Name (STitle) **] at the [**Last Name (un) **] Diabetes Center ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12354,
+            "end_offset": 12471,
+            "annotation_id": "HT_173"
+        }
+    ]
+}

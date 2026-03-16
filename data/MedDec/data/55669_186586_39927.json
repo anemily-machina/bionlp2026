@@ -1,0 +1,1028 @@
+{
+    "annotator_id": "JVANAR",
+    "discharge_summary_id": "55669_186586_39927",
+    "annotations": [
+        {
+            "decision": "Angina",
+            "category": "Category 3: Defining problem",
+            "start_offset": 270,
+            "end_offset": 276,
+            "annotation_id": "NE_000"
+        },
+        {
+            "decision": "Urgent coronary artery bypass graft x3:  Saphenous vein     grafts to left anterior descending artery, obtuse     marginal and right coronary arteries.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 336,
+            "end_offset": 486,
+            "annotation_id": "NE_001"
+        },
+        {
+            "decision": "Endoscopic harvesting of the long saphenous vein.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 491,
+            "end_offset": 539,
+            "annotation_id": "NE_002"
+        },
+        {
+            "decision": "cardiac risk factors of obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 595,
+            "end_offset": 626,
+            "annotation_id": "NE_003"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 628,
+            "end_offset": 640,
+            "annotation_id": "NE_004"
+        },
+        {
+            "decision": "dyslipidemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 642,
+            "end_offset": 654,
+            "annotation_id": "NE_005"
+        },
+        {
+            "decision": "diabetes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 659,
+            "end_offset": 667,
+            "annotation_id": "NE_006"
+        },
+        {
+            "decision": "echo stress test on [**2126-12-30**] that was negative in the setting of very low work load.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 790,
+            "end_offset": 881,
+            "annotation_id": "NE_007"
+        },
+        {
+            "decision": "three vessel disease ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1389,
+            "end_offset": 1409,
+            "annotation_id": "NE_008"
+        },
+        {
+            "decision": "referred to cardiac surgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 1421,
+            "end_offset": 1448,
+            "annotation_id": "NE_009"
+        },
+        {
+            "decision": "revascularization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1453,
+            "end_offset": 1470,
+            "annotation_id": "NE_010"
+        },
+        {
+            "decision": "Cardiac Catheterization: Date:[**2127-6-18**]     Place:[**Hospital1 18**] LMCA: 20% proximal-mid LAD: Severe 80% focal mid LAD stenosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1473,
+            "end_offset": 1609,
+            "annotation_id": "NE_011"
+        },
+        {
+            "decision": "LCX: severely and diffusely diseased system with CTO off the AV groove LCX and serial severe focal disease in hte single OM branch. Some of the LCX distribution vesels fill late via mostly Right to left collaterals and fewer left to right collaterals",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1610,
+            "end_offset": 1860,
+            "annotation_id": "NE_012"
+        },
+        {
+            "decision": "RCA: 80% ostial disease with reasonable proximal-mid and distal vessel. The RPDA and PLV have serial focal tight lesions. RA=15 PCW=19 PA=35/13",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1861,
+            "end_offset": 2004,
+            "annotation_id": "NE_013"
+        },
+        {
+            "decision": "Cardiac Echocardiogram: Stress echo on [**2126-12-30**] Normal LV wall thickness and function. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2005,
+            "end_offset": 2098,
+            "annotation_id": "NE_014"
+        },
+        {
+            "decision": "no AS, no AR, no MR and no TR.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2100,
+            "end_offset": 2129,
+            "annotation_id": "NE_015"
+        },
+        {
+            "decision": " Showed limited functional exercise capacity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2131,
+            "end_offset": 2174,
+            "annotation_id": "NE_016"
+        },
+        {
+            "decision": ". No EKG of 2D echo evidence of inducible ischemia to achieved low workload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2176,
+            "end_offset": 2249,
+            "annotation_id": "NE_017"
+        },
+        {
+            "decision": "Normal hemodynamic response to exercise. LVEF is >=60%",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2251,
+            "end_offset": 2304,
+            "annotation_id": "NE_018"
+        },
+        {
+            "decision": "Atypical chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2349,
+            "annotation_id": "NE_019"
+        },
+        {
+            "decision": "Possible prior IMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2350,
+            "end_offset": 2368,
+            "annotation_id": "NE_020"
+        },
+        {
+            "decision": "Diabetes type 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2369,
+            "end_offset": 2384,
+            "annotation_id": "NE_021"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2385,
+            "end_offset": 2399,
+            "annotation_id": "NE_022"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2400,
+            "end_offset": 2412,
+            "annotation_id": "NE_023"
+        },
+        {
+            "decision": "CVA [**2113**] with right sided residual weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2413,
+            "end_offset": 2462,
+            "annotation_id": "NE_024"
+        },
+        {
+            "decision": "TIA x 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2463,
+            "end_offset": 2470,
+            "annotation_id": "NE_025"
+        },
+        {
+            "decision": "Kidney stone",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2471,
+            "end_offset": 2483,
+            "annotation_id": "NE_026"
+        },
+        {
+            "decision": "Skin: Dry [+] intact [+]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2940,
+            "end_offset": 2960,
+            "annotation_id": "NE_027"
+        },
+        {
+            "decision": "HEENT: PERRLA [+] EOMI [+]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2965,
+            "end_offset": 2987,
+            "annotation_id": "NE_028"
+        },
+        {
+            "decision": "Neck:  Supple [+] Full ROM [+]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2992,
+            "end_offset": 3018,
+            "annotation_id": "NE_029"
+        },
+        {
+            "decision": "Chest: Lungs clear bilaterally [+]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3023,
+            "end_offset": 3053,
+            "annotation_id": "NE_030"
+        },
+        {
+            "decision": "Heart: RRR [+]  Irregular []  Murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3058,
+            "end_offset": 3094,
+            "annotation_id": "NE_031"
+        },
+        {
+            "decision": "Abdomen: Soft [+] non-distended [+] non-tender [+]  bowel sounds + [+] small umbilical hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3095,
+            "end_offset": 3188,
+            "annotation_id": "NE_032"
+        },
+        {
+            "decision": "Extremities: Warm [+], well-perfused [+]  Edema +1 Varicosities: None [+]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3189,
+            "end_offset": 3258,
+            "annotation_id": "NE_033"
+        },
+        {
+            "decision": "Neuro: Grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3263,
+            "end_offset": 3284,
+            "annotation_id": "NE_034"
+        },
+        {
+            "decision": "Pulses: Femoral      Right: +2  Left: cath site DP           Right: +!  Left: +1 PT           [**Name (NI) 167**]: +!  Left: +1 Radial       Right:  +2 Left: +2  Carotid Bruit        Right: 0   Left: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3285,
+            "end_offset": 3486,
+            "annotation_id": "NE_035"
+        },
+        {
+            "decision": "General: 74 year-old [**Location 7972**] speaking female in no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3559,
+            "end_offset": 3639,
+            "annotation_id": "NE_036"
+        },
+        {
+            "decision": "HEENT: normocephalic, mucus membranes moist",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3640,
+            "end_offset": 3683,
+            "annotation_id": "NE_037"
+        },
+        {
+            "decision": "Neck; supple no lymphadenopathy, L IJ line in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3684,
+            "end_offset": 3735,
+            "annotation_id": "NE_038"
+        },
+        {
+            "decision": "Card: RRR normal S1,S2 no murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3736,
+            "end_offset": 3768,
+            "annotation_id": "NE_039"
+        },
+        {
+            "decision": "Resp: decreased breath sounds 1/4 up no crackles or wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3769,
+            "end_offset": 3828,
+            "annotation_id": "NE_040"
+        },
+        {
+            "decision": "GI: obese, benign",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3829,
+            "end_offset": 3846,
+            "annotation_id": "NE_041"
+        },
+        {
+            "decision": "Extr: warm no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3847,
+            "end_offset": 3866,
+            "annotation_id": "NE_042"
+        },
+        {
+            "decision": "Incision: sternal and LLE clean dry, intact. no erythema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3867,
+            "end_offset": 3923,
+            "annotation_id": "NE_043"
+        },
+        {
+            "decision": "Neuro: awake, alert, walks with a rolling walker",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3924,
+            "end_offset": 3972,
+            "annotation_id": "NE_044"
+        },
+        {
+            "decision": "[**2127-6-23**]: PRE-BYPASS:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4560,
+            "end_offset": 4587,
+            "annotation_id": "NE_045"
+        },
+        {
+            "decision": "No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4589,
+            "end_offset": 4745,
+            "annotation_id": "NE_046"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4747,
+            "end_offset": 4801,
+            "annotation_id": "NE_047"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4803,
+            "end_offset": 4855,
+            "annotation_id": "NE_048"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4803,
+            "end_offset": 4992,
+            "annotation_id": "NE_049"
+        },
+        {
+            "decision": "There are focal calcifications in the aortic arch. There are complex (>4mm) atheroma in the descending thoracic aorta.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4994,
+            "end_offset": 5111,
+            "annotation_id": "NE_050"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5113,
+            "end_offset": 5234,
+            "annotation_id": "NE_051"
+        },
+        {
+            "decision": "aortic stenosis is not present. Trace aortic regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5168,
+            "end_offset": 5234,
+            "annotation_id": "NE_052"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5236,
+            "end_offset": 5282,
+            "annotation_id": "NE_053"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen. There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5284,
+            "end_offset": 5354,
+            "annotation_id": "NE_054"
+        },
+        {
+            "decision": "POST-BYPASS: Preserved biventricular systolic function. LVEF 55%.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5356,
+            "end_offset": 5419,
+            "annotation_id": "NE_055"
+        },
+        {
+            "decision": "Intact thoracic aorta. No new valvular findings.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5422,
+            "end_offset": 5469,
+            "annotation_id": "NE_056"
+        },
+        {
+            "decision": "CXR: [**2127-6-27**]: Post-operative mediastinal widening has resolved.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5472,
+            "end_offset": 5542,
+            "annotation_id": "NE_057"
+        },
+        {
+            "decision": "Small bilateral pleural effusions are new with newly apparent and bibasilar atelectasis left greater than right has not cleared. There is no pulmonary edema. No pneumothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5544,
+            "end_offset": 5717,
+            "annotation_id": "NE_058"
+        },
+        {
+            "decision": "[**2127-6-18**]: Low lung volumes result in bronchovascular crowding.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5719,
+            "end_offset": 5787,
+            "annotation_id": "NE_059"
+        },
+        {
+            "decision": "Eventration of the right hemidiaphragm is unchanged. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5789,
+            "end_offset": 5840,
+            "annotation_id": "NE_060"
+        },
+        {
+            "decision": "The lungs are clear without focal consolidation. The cardiac silhouette is moderately enlarged. The aorta is mildly tortuous. Hilar contours are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5842,
+            "end_offset": 5993,
+            "annotation_id": "NE_061"
+        },
+        {
+            "decision": "No pleural effusion or pneumothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5995,
+            "end_offset": 6030,
+            "annotation_id": "NE_062"
+        },
+        {
+            "decision": "brought to the operating room on [**2127-6-23**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6102,
+            "end_offset": 6150,
+            "annotation_id": "NE_063"
+        },
+        {
+            "decision": "coronary artery bypass graft x3:  Saphenous vein grafts to left anterior descending artery, obtuse marginal and right coronary arteries. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6189,
+            "end_offset": 6324,
+            "annotation_id": "NE_064"
+        },
+        {
+            "decision": "transferred to the CVICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6437,
+            "end_offset": 6461,
+            "annotation_id": "NE_065"
+        },
+        {
+            "decision": "in stable condition ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6462,
+            "end_offset": 6481,
+            "annotation_id": "NE_066"
+        },
+        {
+            "decision": "extubated, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6544,
+            "end_offset": 6553,
+            "annotation_id": "NE_067"
+        },
+        {
+            "decision": ", alert and oriented and breathing comfortably. The patient was neurologically intact and hemodynamically stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6555,
+            "end_offset": 6665,
+            "annotation_id": "NE_068"
+        },
+        {
+            "decision": "on no inotropic or vasopressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 6666,
+            "end_offset": 6704,
+            "annotation_id": "NE_069"
+        },
+        {
+            "decision": "Beta blocker was initiated and the patient was gently diuresed toward the preoperative weight",
+            "category": "Category 5: Drug related",
+            "start_offset": 6706,
+            "end_offset": 6799,
+            "annotation_id": "NE_070"
+        },
+        {
+            "decision": "Both beta blocker and Lasix were both titrated",
+            "category": "Category 5: Drug related",
+            "start_offset": 6801,
+            "end_offset": 6847,
+            "annotation_id": "NE_071"
+        },
+        {
+            "decision": "She was confused with Percocet was changed to Ultram with no further confusion.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6850,
+            "end_offset": 6928,
+            "annotation_id": "NE_072"
+        },
+        {
+            "decision": "transferred to the telemetry floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6945,
+            "end_offset": 6979,
+            "annotation_id": "NE_073"
+        },
+        {
+            "decision": "Chest tubes and pacing wires were discontinued without complication.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7002,
+            "end_offset": 7069,
+            "annotation_id": "NE_074"
+        },
+        {
+            "decision": "aggressive pulmonary toilet, nebs, incentive spirometer and diuresis her oxygen requirements ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7085,
+            "end_offset": 7177,
+            "annotation_id": "NE_075"
+        },
+        {
+            "decision": "hemodynamically stable sinus rhythm 70-90's without ectopy.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7232,
+            "end_offset": 7290,
+            "annotation_id": "NE_076"
+        },
+        {
+            "decision": "Blood pressure 100-120 stable. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7293,
+            "end_offset": 7322,
+            "annotation_id": "NE_077"
+        },
+        {
+            "decision": "ASA and statin were continued. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7324,
+            "end_offset": 7353,
+            "annotation_id": "NE_078"
+        },
+        {
+            "decision": "ACE will be restarted ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7355,
+            "end_offset": 7376,
+            "annotation_id": "NE_079"
+        },
+        {
+            "decision": "PPI",
+            "category": "Category 5: Drug related",
+            "start_offset": 7434,
+            "end_offset": 7437,
+            "annotation_id": "NE_080"
+        },
+        {
+            "decision": "bowel regime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7439,
+            "end_offset": 7451,
+            "annotation_id": "NE_081"
+        },
+        {
+            "decision": "She tolerated a diabetic diet.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7471,
+            "end_offset": 7500,
+            "annotation_id": "NE_082"
+        },
+        {
+            "decision": "CRI baseline 1.5-18. Renal function remained stable with good urine output.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7510,
+            "end_offset": 7584,
+            "annotation_id": "NE_083"
+        },
+        {
+            "decision": "Diuresis continued ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7586,
+            "end_offset": 7604,
+            "annotation_id": "NE_084"
+        },
+        {
+            "decision": "Electrolytes were replete as needed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7643,
+            "end_offset": 7678,
+            "annotation_id": "NE_085"
+        },
+        {
+            "decision": "Electrolytes were replete as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7643,
+            "end_offset": 7678,
+            "annotation_id": "NE_086"
+        },
+        {
+            "decision": "Blood sugars well control 95-130's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7692,
+            "end_offset": 7726,
+            "annotation_id": "NE_087"
+        },
+        {
+            "decision": "Metformin XL 500 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7730,
+            "end_offset": 7755,
+            "annotation_id": "NE_088"
+        },
+        {
+            "decision": "regular insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 7760,
+            "end_offset": 7789,
+            "annotation_id": "NE_089"
+        },
+        {
+            "decision": "leukocytosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7804,
+            "end_offset": 7816,
+            "annotation_id": "NE_090"
+        },
+        {
+            "decision": "pan-cultures were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7823,
+            "end_offset": 7849,
+            "annotation_id": "NE_091"
+        },
+        {
+            "decision": ", no fevers,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7851,
+            "end_offset": 7860,
+            "annotation_id": "NE_092"
+        },
+        {
+            "decision": "awake alert oriented. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7889,
+            "end_offset": 7909,
+            "annotation_id": "NE_093"
+        },
+        {
+            "decision": "acetaminophen and Ultram 50 prn.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7934,
+            "end_offset": 7965,
+            "annotation_id": "NE_094"
+        },
+        {
+            "decision": "followed by physical therapy",
+            "category": "Category 1: Contact related",
+            "start_offset": 7989,
+            "end_offset": 8017,
+            "annotation_id": "NE_095"
+        },
+        {
+            "decision": "ambulated with a rolling walker",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8019,
+            "end_offset": 8050,
+            "annotation_id": "NE_096"
+        },
+        {
+            "decision": "She will follow-up with her PCP and Dr. [**First Name (STitle) **] as an outpatient.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8193,
+            "end_offset": 8276,
+            "annotation_id": "NE_097"
+        },
+        {
+            "decision": "CLOTRIMAZOLE - 1 % Cream - pply to itchy area twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 8306,
+            "end_offset": 8363,
+            "annotation_id": "NE_098"
+        },
+        {
+            "decision": "ISOSORBIDE MONONITRATE - 30 mg Tablet Extended Release 24 hr - 1 (One) Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 8364,
+            "end_offset": 8464,
+            "annotation_id": "NE_099"
+        },
+        {
+            "decision": "LISINOPRIL-HYDROCHLOROTHIAZIDE - 20 mg-12.5 mg Tablet - 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8588,
+            "end_offset": 8670,
+            "annotation_id": "NE_100"
+        },
+        {
+            "decision": "METFORMIN - 500 mg Tablet - 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8671,
+            "end_offset": 8725,
+            "annotation_id": "NE_101"
+        },
+        {
+            "decision": "METOPROLOL SUCCINATE - 50 mg Tablet Extended Release 24 hr - 1 (One) Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 8726,
+            "end_offset": 8824,
+            "annotation_id": "NE_102"
+        },
+        {
+            "decision": "OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 8825,
+            "end_offset": 8909,
+            "annotation_id": "NE_103"
+        },
+        {
+            "decision": "SHOWER CHAIR -   - use when showering always when showering",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8910,
+            "end_offset": 8969,
+            "annotation_id": "NE_104"
+        },
+        {
+            "decision": "SIMVASTATIN - 20 mg Tablet - 1 Tablet(s) by mouth at bedtime Medications - OTC",
+            "category": "Category 5: Drug related",
+            "start_offset": 8970,
+            "end_offset": 9048,
+            "annotation_id": "NE_105"
+        },
+        {
+            "decision": "ACETAMINOPHEN - 325 mg Tablet - 3 Tablet(s) by mouth 3- 4 x/day as needed for pain no more than 3 times per week if using more than a week.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9049,
+            "end_offset": 9187,
+            "annotation_id": "NE_106"
+        },
+        {
+            "decision": "ASPIRIN - 81 mg Tablet, Delayed Release (E.C.) - 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9189,
+            "end_offset": 9264,
+            "annotation_id": "NE_107"
+        },
+        {
+            "decision": "BLOOD SUGAR DIAGNOSTIC [FREESTYLE LITE STRIPS] -   Strip - use as directed with Freedom Lite meter before meals or two hours after meals",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9265,
+            "end_offset": 9401,
+            "annotation_id": "NE_108"
+        },
+        {
+            "decision": "LANOLIN-MINERAL OIL -   Lotion - use left heel [**2-6**] x/day use also right heel",
+            "category": "Category 5: Drug related",
+            "start_offset": 9402,
+            "end_offset": 9484,
+            "annotation_id": "NE_109"
+        },
+        {
+            "decision": "1. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9510,
+            "end_offset": 9571,
+            "annotation_id": "NE_110"
+        },
+        {
+            "decision": "2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9573,
+            "end_offset": 9680,
+            "annotation_id": "NE_111"
+        },
+        {
+            "decision": "3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain, fever.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9683,
+            "end_offset": 9782,
+            "annotation_id": "NE_112"
+        },
+        {
+            "decision": "4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9784,
+            "end_offset": 9860,
+            "annotation_id": "NE_113"
+        },
+        {
+            "decision": "5. metformin 500 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9863,
+            "end_offset": 9971,
+            "annotation_id": "NE_114"
+        },
+        {
+            "decision": "6. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9974,
+            "end_offset": 10060,
+            "annotation_id": "NE_115"
+        },
+        {
+            "decision": "7. Regular Insulin Sliding Scale 71-119   mg/dL 0   Units 0   Units 0   Units 0   Units 120-159   mg/dL 2   Units 2   Units 2   Units 0   Units 160-199   mg/dL 4   Units 4   Units 4   Units 2   Units 200-239   mg/dL 6   Units 6   Units 6   Units 4   Units 240-280   mg/dL 8   Units 8   Units 8   Units 6   Units",
+            "category": "Category 5: Drug related",
+            "start_offset": 10062,
+            "end_offset": 10373,
+            "annotation_id": "NE_116"
+        },
+        {
+            "decision": "8. potassium chloride 10 mEq Tablet Extended Release Sig: Two (2) Tablet Extended Release PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10375,
+            "end_offset": 10478,
+            "annotation_id": "NE_117"
+        },
+        {
+            "decision": "9. white petrolatum-mineral oil     Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for dry skin .",
+            "category": "Category 5: Drug related",
+            "start_offset": 10480,
+            "end_offset": 10603,
+            "annotation_id": "NE_118"
+        },
+        {
+            "decision": "10. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day: Daily weights adjust as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10606,
+            "end_offset": 10699,
+            "annotation_id": "NE_119"
+        },
+        {
+            "decision": "Daily weights adjust as needed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10669,
+            "end_offset": 10699,
+            "annotation_id": "NE_120"
+        },
+        {
+            "decision": "11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10701,
+            "end_offset": 10766,
+            "annotation_id": "NE_121"
+        },
+        {
+            "decision": "12. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10769,
+            "end_offset": 10871,
+            "annotation_id": "NE_122"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10966,
+            "end_offset": 10978,
+            "annotation_id": "NE_123"
+        },
+        {
+            "decision": "13. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10874,
+            "end_offset": 10978,
+            "annotation_id": "NE_124"
+        },
+        {
+            "decision": "14. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10980,
+            "end_offset": 11098,
+            "annotation_id": "NE_125"
+        },
+        {
+            "decision": "Coronary Artery Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11229,
+            "end_offset": 11252,
+            "annotation_id": "NE_126"
+        },
+        {
+            "decision": "Diabetes Mellitus Type 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11253,
+            "end_offset": 11277,
+            "annotation_id": "NE_127"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11278,
+            "end_offset": 11292,
+            "annotation_id": "NE_128"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11293,
+            "end_offset": 11305,
+            "annotation_id": "NE_129"
+        },
+        {
+            "decision": "CVA [**2113**] with right sided residual weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11306,
+            "end_offset": 11355,
+            "annotation_id": "NE_130"
+        },
+        {
+            "decision": "TIA x 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11356,
+            "end_offset": 11363,
+            "annotation_id": "NE_131"
+        },
+        {
+            "decision": "Kidney Stone",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11364,
+            "end_offset": 11376,
+            "annotation_id": "NE_132"
+        },
+        {
+            "decision": "Discharge Condition: Alert and oriented x3 nonfocal Ambulating with steady gait",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11379,
+            "end_offset": 11458,
+            "annotation_id": "NE_133"
+        },
+        {
+            "decision": "Sternal - healing well, no erythema or drainage Leg Right/Left - healing well, no erythema or drainage. Edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11499,
+            "end_offset": 11608,
+            "annotation_id": "NE_134"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon. Look at your incisions daily for redness or drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11636,
+            "end_offset": 11806,
+            "annotation_id": "NE_135"
+        },
+        {
+            "decision": "Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11807,
+            "end_offset": 11994,
+            "annotation_id": "NE_136"
+        },
+        {
+            "decision": "No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11996,
+            "end_offset": 12149,
+            "annotation_id": "NE_137"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12150,
+            "end_offset": 12193,
+            "annotation_id": "NE_138"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12194,
+            "end_offset": 12264,
+            "annotation_id": "NE_139"
+        },
+        {
+            "decision": "Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12265,
+            "end_offset": 12348,
+            "annotation_id": "NE_140"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12349,
+            "end_offset": 12510,
+            "annotation_id": "NE_141"
+        },
+        {
+            "decision": "You are scheduled for the following appointments Surgeon: Dr. [**First Name (STitle) **] on [**7-28**] at 1:00pm [**Last Name (un) 2577**] Building [**Last Name (NamePattern1) 10357**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 12536,
+            "end_offset": 12720,
+            "annotation_id": "NE_142"
+        },
+        {
+            "decision": "Cards: Dr. [**First Name (STitle) **] [**Name (STitle) **] on [**7-24**] at 11:20am",
+            "category": "Category 1: Contact related",
+            "start_offset": 12722,
+            "end_offset": 12805,
+            "annotation_id": "NE_143"
+        },
+        {
+            "decision": "Please call to schedule appointments with your Primary Care Dr. [**First Name (STitle) **] in [**4-8**] weeks [**Telephone/Fax (1) 7976**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12807,
+            "end_offset": 12945,
+            "annotation_id": "NE_144"
+        },
+        {
+            "decision": "**Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call person during off hours**",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12947,
+            "end_offset": 13108,
+            "annotation_id": "NE_145"
+        }
+    ]
+}

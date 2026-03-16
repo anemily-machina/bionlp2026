@@ -1,0 +1,664 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "23150_155910_52173",
+    "annotations": [
+        {
+            "decision": "increasing white count to 16,000, a drop in his systolic blood pressure to the 60s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 319,
+            "end_offset": 401,
+            "annotation_id": "GV_000"
+        },
+        {
+            "decision": "sent to the medical center for evaluation of his abdomen. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 475,
+            "end_offset": 531,
+            "annotation_id": "GV_001"
+        },
+        {
+            "decision": "right partial nephrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 908,
+            "end_offset": 933,
+            "annotation_id": "GV_002"
+        },
+        {
+            "decision": "a right kidney mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 938,
+            "end_offset": 957,
+            "annotation_id": "GV_003"
+        },
+        {
+            "decision": "complicated by a myocardial infarction,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1186,
+            "end_offset": 1224,
+            "annotation_id": "GV_004"
+        },
+        {
+            "decision": "pneumonia caused by MRSA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1226,
+            "end_offset": 1250,
+            "annotation_id": "GV_005"
+        },
+        {
+            "decision": "a failed swallow study requiring the placement of a PEG tube.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1252,
+            "end_offset": 1312,
+            "annotation_id": "GV_006"
+        },
+        {
+            "decision": "status post partial nephrectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1363,
+            "end_offset": 1394,
+            "annotation_id": "GV_007"
+        },
+        {
+            "decision": "Renal cell carcinoma, status post partial nephrectomy in [**12-22**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1341,
+            "end_offset": 1409,
+            "annotation_id": "GV_008"
+        },
+        {
+            "decision": ".  IDM.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1415,
+            "end_offset": 1418,
+            "annotation_id": "GV_009"
+        },
+        {
+            "decision": ".  Hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1424,
+            "end_offset": 1436,
+            "annotation_id": "GV_010"
+        },
+        {
+            "decision": "Neuropathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1442,
+            "end_offset": 1452,
+            "annotation_id": "GV_011"
+        },
+        {
+            "decision": "MRSA positive.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1458,
+            "end_offset": 1471,
+            "annotation_id": "GV_012"
+        },
+        {
+            "decision": "Prostate cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1477,
+            "end_offset": 1492,
+            "annotation_id": "GV_013"
+        },
+        {
+            "decision": "Lantus 46 units.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1522,
+            "end_offset": 1537,
+            "annotation_id": "GV_014"
+        },
+        {
+            "decision": "Zocor 20 mg per day",
+            "category": "Category 5: Drug related",
+            "start_offset": 1543,
+            "end_offset": 1562,
+            "annotation_id": "GV_015"
+        },
+        {
+            "decision": "Lopressor 37.5 mg b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1568,
+            "end_offset": 1591,
+            "annotation_id": "GV_016"
+        },
+        {
+            "decision": "Zestril 10 mg q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1597,
+            "end_offset": 1614,
+            "annotation_id": "GV_017"
+        },
+        {
+            "decision": ".  Aspirin 81 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1620,
+            "end_offset": 1642,
+            "annotation_id": "GV_018"
+        },
+        {
+            "decision": "Protonix 40 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1648,
+            "end_offset": 1671,
+            "annotation_id": "GV_019"
+        },
+        {
+            "decision": "Neurontin 300 mg p.o. q.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1677,
+            "end_offset": 1704,
+            "annotation_id": "GV_020"
+        },
+        {
+            "decision": "Paxil 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1710,
+            "end_offset": 1730,
+            "annotation_id": "GV_021"
+        },
+        {
+            "decision": "Ativan.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1736,
+            "end_offset": 1742,
+            "annotation_id": "GV_022"
+        },
+        {
+            "decision": ". Loperamide. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1748,
+            "end_offset": 1758,
+            "annotation_id": "GV_023"
+        },
+        {
+            "decision": "The patient appeared in no apparent distress with a flattened affect. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2176,
+            "end_offset": 2244,
+            "annotation_id": "GV_024"
+        },
+        {
+            "decision": "The physical examination was notable for a tense and distended abdomen which was tender to moderate palpation throughout. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2247,
+            "end_offset": 2367,
+            "annotation_id": "GV_025"
+        },
+        {
+            "decision": "  The patient was noted to have an area of gangrenous skin on the dorsum of his right scrotum with bilateral scrotal erythema and edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2370,
+            "end_offset": 2503,
+            "annotation_id": "GV_026"
+        },
+        {
+            "decision": "His coagulation studies were normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2752,
+            "end_offset": 2787,
+            "annotation_id": "GV_027"
+        },
+        {
+            "decision": "evaluated by the Emergency Department as well as the General Surgery Team",
+            "category": "Category 1: Contact related",
+            "start_offset": 2864,
+            "end_offset": 2937,
+            "annotation_id": "GV_028"
+        },
+        {
+            "decision": "CAT scan of his abdomen revealed pancolitis without evidence of perforation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2942,
+            "end_offset": 3017,
+            "annotation_id": "GV_029"
+        },
+        {
+            "decision": "pancolitis without evidence of perforation.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2975,
+            "end_offset": 3017,
+            "annotation_id": "GV_030"
+        },
+        {
+            "decision": "-ray of the abdomen which revealed no free air under his diaphragm with a paucity of bowel gas, particularly distally",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3040,
+            "end_offset": 3157,
+            "annotation_id": "GV_031"
+        },
+        {
+            "decision": "ultrasound of the scrotum revealed that his right epididymis looked thickened while his left epididymis was within normal limits.  The patient had a right-sided hydrocele.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3162,
+            "end_offset": 3332,
+            "annotation_id": "GV_032"
+        },
+        {
+            "decision": "The patient had a right-sided hydrocele. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3293,
+            "end_offset": 3332,
+            "annotation_id": "GV_033"
+        },
+        {
+            "decision": "started on broad spectrum antibiotic coverage with vancomycin, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3351,
+            "end_offset": 3412,
+            "annotation_id": "GV_034"
+        },
+        {
+            "decision": "Levaquin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3414,
+            "end_offset": 3422,
+            "annotation_id": "GV_035"
+        },
+        {
+            "decision": ", and Flagyl.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3424,
+            "end_offset": 3434,
+            "annotation_id": "GV_036"
+        },
+        {
+            "decision": "  Blood cultures were drawn and stool was sent for testing for Clostridium difficile toxin as well as ova and parasites.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 3437,
+            "end_offset": 3554,
+            "annotation_id": "GV_037"
+        },
+        {
+            "decision": "evaluated by the Urology Service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3613,
+            "end_offset": 3645,
+            "annotation_id": "GV_038"
+        },
+        {
+            "decision": "to rule out the possibility of Fournier's gangrene.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3646,
+            "end_offset": 3696,
+            "annotation_id": "GV_039"
+        },
+        {
+            "decision": "admitted to the MICU for further management",
+            "category": "Category 1: Contact related",
+            "start_offset": 3861,
+            "end_offset": 3904,
+            "annotation_id": "GV_040"
+        },
+        {
+            "decision": "patient was evaluated by the General Surgery and Gastroenterology Services.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3939,
+            "end_offset": 4013,
+            "annotation_id": "GV_041"
+        },
+        {
+            "decision": "Gastroenterology Service was in the view that the patient would benefit from a colonoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4077,
+            "end_offset": 4167,
+            "annotation_id": "GV_042"
+        },
+        {
+            "decision": "white cell count by [**2167-2-8**] had increased to 30",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4174,
+            "end_offset": 4228,
+            "annotation_id": "GV_043"
+        },
+        {
+            "decision": "with Clostridium difficile pseudomembranous colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4397,
+            "end_offset": 4448,
+            "annotation_id": "GV_044"
+        },
+        {
+            "decision": "Findings on flexible sigmoidoscopy to 25 cm revealed that the patient had numerous pseudomembranes and relatively normal intervening mucosa which were all consistent with Clostridium difficile pseudomembranous colitis. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4231,
+            "end_offset": 4448,
+            "annotation_id": "GV_045"
+        },
+        {
+            "decision": "vancomycin by mouth be added to the patient's treatment regimen.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4481,
+            "end_offset": 4544,
+            "annotation_id": "GV_046"
+        },
+        {
+            "decision": "white count elevated to 34",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4649,
+            "end_offset": 4675,
+            "annotation_id": "GV_047"
+        },
+        {
+            "decision": "increasing abdominal distention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4685,
+            "end_offset": 4716,
+            "annotation_id": "GV_048"
+        },
+        {
+            "decision": "needed an emergent colectomy with ileostomy for fulminant Clostridium difficile colitis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4791,
+            "end_offset": 4878,
+            "annotation_id": "GV_049"
+        },
+        {
+            "decision": "fulminant Clostridium difficile colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4839,
+            "end_offset": 4878,
+            "annotation_id": "GV_050"
+        },
+        {
+            "decision": "underwent a total abdominal colectomy without complication",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5038,
+            "end_offset": 5096,
+            "annotation_id": "GV_051"
+        },
+        {
+            "decision": "hemodynamic instability ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5159,
+            "end_offset": 5182,
+            "annotation_id": "GV_052"
+        },
+        {
+            "decision": "requiring massive volume resuscitation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5183,
+            "end_offset": 5221,
+            "annotation_id": "GV_053"
+        },
+        {
+            "decision": "Levophed supplementation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5226,
+            "end_offset": 5250,
+            "annotation_id": "GV_054"
+        },
+        {
+            "decision": "multiple ventilator changes to maintain adequate oxygenation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5262,
+            "end_offset": 5322,
+            "annotation_id": "GV_055"
+        },
+        {
+            "decision": "significantly fluid overloaded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5384,
+            "end_offset": 5414,
+            "annotation_id": "GV_056"
+        },
+        {
+            "decision": "required paracentesis, during which approximately 3,400 milliliters of peritoneal fluid was drained as well as the placement of a chest tube on [**2167-2-13**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5420,
+            "end_offset": 5579,
+            "annotation_id": "GV_057"
+        },
+        {
+            "decision": "The patient was ultimately extubated on [**2167-2-12**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5582,
+            "end_offset": 5637,
+            "annotation_id": "GV_058"
+        },
+        {
+            "decision": "Tube feeds were started",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5640,
+            "end_offset": 5663,
+            "annotation_id": "GV_059"
+        },
+        {
+            "decision": "slowly diuresed",
+            "category": "Category 5: Drug related",
+            "start_offset": 5723,
+            "end_offset": 5738,
+            "annotation_id": "GV_060"
+        },
+        {
+            "decision": "He remained extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5741,
+            "end_offset": 5762,
+            "annotation_id": "GV_061"
+        },
+        {
+            "decision": "was followed by the Urology Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 5768,
+            "end_offset": 5803,
+            "annotation_id": "GV_062"
+        },
+        {
+            "decision": "with no worsening in his scrotal lesions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5804,
+            "end_offset": 5844,
+            "annotation_id": "GV_063"
+        },
+        {
+            "decision": "The patient's tube feeds by NG tube were advanced to goal.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5846,
+            "end_offset": 5903,
+            "annotation_id": "GV_064"
+        },
+        {
+            "decision": "His ostomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5905,
+            "end_offset": 5915,
+            "annotation_id": "GV_065"
+        },
+        {
+            "decision": "began to produce stool.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5916,
+            "end_offset": 5938,
+            "annotation_id": "GV_066"
+        },
+        {
+            "decision": "small portion of the patient's incision was opened distal to the umbilicus to allow for the patient's diagnostic and therapeutic peritoneal lavage",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5952,
+            "end_offset": 6098,
+            "annotation_id": "GV_067"
+        },
+        {
+            "decision": "Following transfer to the floor, ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 6175,
+            "end_offset": 6206,
+            "annotation_id": "GV_068"
+        },
+        {
+            "decision": ", the patient was seen by the Speech and Swallow service",
+            "category": "Category 1: Contact related",
+            "start_offset": 6208,
+            "end_offset": 6262,
+            "annotation_id": "GV_069"
+        },
+        {
+            "decision": "video swallow study performed on [**2167-2-19**].  The patient was noted to aspirate on thin liquids but tolerated thick liquids and his diet, therefore, was advanced.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6267,
+            "end_offset": 6433,
+            "annotation_id": "GV_070"
+        },
+        {
+            "decision": "The patient's midline abdominal incision appeared to be healing well, although as previously noted there was a small portion distal to the umbilicus which continued to be packed and dressed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6467,
+            "end_offset": 6656,
+            "annotation_id": "GV_071"
+        },
+        {
+            "decision": "Plans are to initiate a diet of nectar-thick liquids with ground solids",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6754,
+            "end_offset": 6825,
+            "annotation_id": "GV_072"
+        },
+        {
+            "decision": "Basic aspiration precautions will be maintained.  The patient will be kept bolt upright for all meals.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6828,
+            "end_offset": 6929,
+            "annotation_id": "GV_073"
+        },
+        {
+            "decision": "DISCHARGE CONDITION:  Stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6932,
+            "end_offset": 6960,
+            "annotation_id": "GV_074"
+        },
+        {
+            "decision": "Lansoprazole 30 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 6990,
+            "end_offset": 7017,
+            "annotation_id": "GV_075"
+        },
+        {
+            "decision": "Loperamide 2 mg p.o. q.i.d. p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7023,
+            "end_offset": 7056,
+            "annotation_id": "GV_076"
+        },
+        {
+            "decision": "Aspirin 81 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7062,
+            "end_offset": 7084,
+            "annotation_id": "GV_077"
+        },
+        {
+            "decision": "Lisinopril 10 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7090,
+            "end_offset": 7115,
+            "annotation_id": "GV_078"
+        },
+        {
+            "decision": "Simvastatin 20 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7121,
+            "end_offset": 7147,
+            "annotation_id": "GV_079"
+        },
+        {
+            "decision": "Insulin by sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 7153,
+            "end_offset": 7177,
+            "annotation_id": "GV_080"
+        },
+        {
+            "decision": ".  Miconazole powder t.p. p.r.n",
+            "category": "Category 5: Drug related",
+            "start_offset": 7183,
+            "end_offset": 7211,
+            "annotation_id": "GV_081"
+        },
+        {
+            "decision": "8.  Artificial tears p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7213,
+            "end_offset": 7239,
+            "annotation_id": "GV_082"
+        },
+        {
+            "decision": "nebulizer ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7255,
+            "end_offset": 7264,
+            "annotation_id": "GV_083"
+        },
+        {
+            "decision": ".  Albuterol nebulizer q. six p.r.n",
+            "category": "Category 5: Drug related",
+            "start_offset": 7245,
+            "end_offset": 7277,
+            "annotation_id": "GV_084"
+        },
+        {
+            "decision": "Ipratropium bromide q. six p.r.n",
+            "category": "Category 5: Drug related",
+            "start_offset": 7283,
+            "end_offset": 7315,
+            "annotation_id": "GV_085"
+        },
+        {
+            "decision": "Metoprolol 7.5 mg p.o. b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7321,
+            "end_offset": 7349,
+            "annotation_id": "GV_086"
+        },
+        {
+            "decision": "Heparin 5,000 units subcutaneously b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7355,
+            "end_offset": 7395,
+            "annotation_id": "GV_087"
+        },
+        {
+            "decision": "Gabapentin 300 mg p.o. q.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7401,
+            "end_offset": 7429,
+            "annotation_id": "GV_088"
+        },
+        {
+            "decision": ". Paroxetine 10 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7435,
+            "end_offset": 7460,
+            "annotation_id": "GV_089"
+        },
+        {
+            "decision": ". NPH insulin 20 units at breakfast and dinner. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7466,
+            "end_offset": 7510,
+            "annotation_id": "GV_090"
+        },
+        {
+            "decision": ":  The patient is to follow-up with Dr. [**Last Name (STitle) **] following discharge.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7525,
+            "end_offset": 7607,
+            "annotation_id": "GV_091"
+        },
+        {
+            "decision": "The patient is also to follow-up with his cardiologist as well as his primary care physician for coordination of further care.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7610,
+            "end_offset": 7735,
+            "annotation_id": "GV_092"
+        },
+        {
+            "decision": "Fulminant Clostridium difficile colitis.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7760,
+            "end_offset": 7799,
+            "annotation_id": "GV_093"
+        }
+    ]
+}

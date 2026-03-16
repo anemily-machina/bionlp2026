@@ -1,0 +1,1525 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "46382_179631_6168",
+    "annotations": [
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 241,
+            "end_offset": 260,
+            "annotation_id": "LV_000"
+        },
+        {
+            "decision": "Right internal jugular central access line placed [**5-15**] and removed [**5-19**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 301,
+            "end_offset": 384,
+            "annotation_id": "LV_001"
+        },
+        {
+            "decision": "Peripheral arterial line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 386,
+            "end_offset": 420,
+            "annotation_id": "LV_002"
+        },
+        {
+            "decision": "history of pulmonary sarcoidosis, obstructive sleep apnea and asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 511,
+            "end_offset": 579,
+            "annotation_id": "LV_003"
+        },
+        {
+            "decision": "community acquired pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 758,
+            "end_offset": 786,
+            "annotation_id": "LV_004"
+        },
+        {
+            "decision": "azithromycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 830,
+            "end_offset": 842,
+            "annotation_id": "LV_005"
+        },
+        {
+            "decision": "He had a chest CT with contrast which showed no pulmonary embolism but showed a severe right middle and right lower lobe pneumonia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1754,
+            "end_offset": 1884,
+            "annotation_id": "LV_006"
+        },
+        {
+            "decision": "severe right middle and right lower lobe pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1834,
+            "end_offset": 1884,
+            "annotation_id": "LV_007"
+        },
+        {
+            "decision": "5 liters of normal saline",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1898,
+            "end_offset": 1923,
+            "annotation_id": "LV_008"
+        },
+        {
+            "decision": "right sided sepsis catheter ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2006,
+            "end_offset": 2033,
+            "annotation_id": "LV_009"
+        },
+        {
+            "decision": "levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2060,
+            "end_offset": 2068,
+            "annotation_id": "LV_010"
+        },
+        {
+            "decision": "levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2105,
+            "end_offset": 2117,
+            "annotation_id": "LV_011"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2119,
+            "end_offset": 2129,
+            "annotation_id": "LV_012"
+        },
+        {
+            "decision": "aspirin 325 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2131,
+            "end_offset": 2145,
+            "annotation_id": "LV_013"
+        },
+        {
+            "decision": "morphine 4 mg IV x 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 2150,
+            "end_offset": 2170,
+            "annotation_id": "LV_014"
+        },
+        {
+            "decision": "tylenol 1000 mg PO x 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 2172,
+            "end_offset": 2194,
+            "annotation_id": "LV_015"
+        },
+        {
+            "decision": "He had an EKG which showed sinus tachycardia, normal axis, normal intervals, isolated 1 mm STE in lead III which resolved on subsequent EKGs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2196,
+            "end_offset": 2336,
+            "annotation_id": "LV_016"
+        },
+        {
+            "decision": "Sarcoidosis complicated by uveitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2415,
+            "end_offset": 2449,
+            "annotation_id": "LV_017"
+        },
+        {
+            "decision": "Hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2450,
+            "end_offset": 2463,
+            "annotation_id": "LV_018"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2464,
+            "end_offset": 2484,
+            "annotation_id": "LV_019"
+        },
+        {
+            "decision": "Obstructive Sleep Apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2485,
+            "end_offset": 2508,
+            "annotation_id": "LV_020"
+        },
+        {
+            "decision": "Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2509,
+            "end_offset": 2516,
+            "annotation_id": "LV_021"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2517,
+            "end_offset": 2527,
+            "annotation_id": "LV_022"
+        },
+        {
+            "decision": "Benign Prostatic Hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2528,
+            "end_offset": 2556,
+            "annotation_id": "LV_023"
+        },
+        {
+            "decision": "Exercise Induced Asthma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2557,
+            "end_offset": 2580,
+            "annotation_id": "LV_024"
+        },
+        {
+            "decision": "Alert, oriented, tachypneic, not using accessory muscles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2943,
+            "end_offset": 2999,
+            "annotation_id": "LV_025"
+        },
+        {
+            "decision": "Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3007,
+            "end_offset": 3046,
+            "annotation_id": "LV_026"
+        },
+        {
+            "decision": "supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3053,
+            "end_offset": 3085,
+            "annotation_id": "LV_027"
+        },
+        {
+            "decision": "Left side with coarse breath sounds, right with inspiratory and expiratory ronchi, dullness to percussion on the right, egophony on the right",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3093,
+            "end_offset": 3234,
+            "annotation_id": "LV_028"
+        },
+        {
+            "decision": "Tachycardic, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3239,
+            "end_offset": 3293,
+            "annotation_id": "LV_029"
+        },
+        {
+            "decision": "soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3303,
+            "end_offset": 3408,
+            "annotation_id": "LV_030"
+        },
+        {
+            "decision": "no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3413,
+            "end_offset": 3421,
+            "annotation_id": "LV_031"
+        },
+        {
+            "decision": "warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3427,
+            "end_offset": 3489,
+            "annotation_id": "LV_032"
+        },
+        {
+            "decision": "Alert and oriented x 3, strength 5/5 throughout, sensation intact to light touch across all dermatomes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3502,
+            "end_offset": 3604,
+            "annotation_id": "LV_033"
+        },
+        {
+            "decision": "Alert & oriented x3, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3785,
+            "end_offset": 3823,
+            "annotation_id": "LV_034"
+        },
+        {
+            "decision": "Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3831,
+            "end_offset": 3870,
+            "annotation_id": "LV_035"
+        },
+        {
+            "decision": "supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3877,
+            "end_offset": 3909,
+            "annotation_id": "LV_036"
+        },
+        {
+            "decision": "Right sided basilat decreased breath sounds and rhonchi with expiration/inspiration, left side with decreased aeroation at bases.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3917,
+            "end_offset": 4045,
+            "annotation_id": "LV_037"
+        },
+        {
+            "decision": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4051,
+            "end_offset": 4117,
+            "annotation_id": "LV_038"
+        },
+        {
+            "decision": "soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4128,
+            "end_offset": 4233,
+            "annotation_id": "LV_039"
+        },
+        {
+            "decision": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis. Trace edema bilaterally noted (R=L)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4239,
+            "end_offset": 4328,
+            "annotation_id": "LV_040"
+        },
+        {
+            "decision": "CNs [**3-10**] grossly in tact, PERRLA, EOMI, no focal deficits. Gait assessment deferred",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4337,
+            "end_offset": 4426,
+            "annotation_id": "LV_041"
+        },
+        {
+            "decision": "HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5139,
+            "end_offset": 5229,
+            "annotation_id": "LV_042"
+        },
+        {
+            "decision": "PLT SMR-NORMAL PLT COUNT-183",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5256,
+            "end_offset": 5284,
+            "annotation_id": "LV_043"
+        },
+        {
+            "decision": "URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.024",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5690,
+            "end_offset": 5756,
+            "annotation_id": "LV_044"
+        },
+        {
+            "decision": "URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5781,
+            "end_offset": 5888,
+            "annotation_id": "LV_045"
+        },
+        {
+            "decision": "PORTABLE CXR ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5924,
+            "end_offset": 5936,
+            "annotation_id": "LV_046"
+        },
+        {
+            "decision": "Findings consistent with right lower lobe atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5938,
+            "end_offset": 5991,
+            "annotation_id": "LV_047"
+        },
+        {
+            "decision": "Superimposed infection cannot be excluded",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5992,
+            "end_offset": 6033,
+            "annotation_id": "LV_048"
+        },
+        {
+            "decision": "Document resolution upon treatment to exclude an underlying obstructive process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6035,
+            "end_offset": 6114,
+            "annotation_id": "LV_049"
+        },
+        {
+            "decision": "CTA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6134,
+            "end_offset": 6137,
+            "annotation_id": "LV_050"
+        },
+        {
+            "decision": "Severe right middle lobe pneumonia with involvement of portions of the right lower lobe, right upper lobe and lingula. No evidence of aortic dissection or pulmonary embolism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6142,
+            "end_offset": 6315,
+            "annotation_id": "LV_051"
+        },
+        {
+            "decision": "Unchanged sequelae of known underlying sarcoidosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6320,
+            "end_offset": 6370,
+            "annotation_id": "LV_052"
+        },
+        {
+            "decision": "Unchanged non-obstructive left renal calculi",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6375,
+            "end_offset": 6419,
+            "annotation_id": "LV_053"
+        },
+        {
+            "decision": "CHEST XRAY, PA AND LATERAL",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6439,
+            "end_offset": 6465,
+            "annotation_id": "LV_054"
+        },
+        {
+            "decision": "consolidation in the right middle and lower lobes is improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6485,
+            "end_offset": 6546,
+            "annotation_id": "LV_055"
+        },
+        {
+            "decision": "Moderate-to-severe left mid and upper pulmonary edema is unchanged",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6548,
+            "end_offset": 6614,
+            "annotation_id": "LV_056"
+        },
+        {
+            "decision": "Left-sided pleural effusion is slightly increased from [**2185-5-17**]. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6616,
+            "end_offset": 6686,
+            "annotation_id": "LV_057"
+        },
+        {
+            "decision": "Atelectatsis in the right lower lobe is stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6688,
+            "end_offset": 6734,
+            "annotation_id": "LV_058"
+        },
+        {
+            "decision": "The right central line has been removed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6736,
+            "end_offset": 6775,
+            "annotation_id": "LV_059"
+        },
+        {
+            "decision": "Improving pneumonia in the right middle and lower lobes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6832,
+            "end_offset": 6887,
+            "annotation_id": "LV_060"
+        },
+        {
+            "decision": "Persistent moderate edema, despite decreased central venous pressure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6892,
+            "end_offset": 6960,
+            "annotation_id": "LV_061"
+        },
+        {
+            "decision": "Slight increase in left side pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6965,
+            "end_offset": 7010,
+            "annotation_id": "LV_062"
+        },
+        {
+            "decision": "Blood Culture, Routine (Final [**2185-5-21**]): NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7044,
+            "end_offset": 7101,
+            "annotation_id": "LV_063"
+        },
+        {
+            "decision": "GRAM STAIN (Final [**2185-5-16**]):       >25 PMNs and <10 epithelial cells/100X field.       3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI.                                     IN PAIRS AND CHAINS.       2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7184,
+            "end_offset": 7441,
+            "annotation_id": "LV_064"
+        },
+        {
+            "decision": "RESPIRATORY CULTURE (Final [**2185-5-18**]):       SPARSE GROWTH OROPHARYNGEAL FLORA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7447,
+            "end_offset": 7531,
+            "annotation_id": "LV_065"
+        },
+        {
+            "decision": "Legionella Urinary Antigen  (Final [**2185-5-16**]): NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7613,
+            "end_offset": 7709,
+            "annotation_id": "LV_066"
+        },
+        {
+            "decision": "EKGs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7713,
+            "end_offset": 7717,
+            "annotation_id": "LV_067"
+        },
+        {
+            "decision": "Sinus tachycardia, normal axis, normal intervals, isolated 1 mm STE in lead III which resolved on subsequent EKGs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7752,
+            "end_offset": 7865,
+            "annotation_id": "LV_068"
+        },
+        {
+            "decision": "sarcoidosis, OSA, anxiety/depression, and hyperlipidemia who presented with shortness of breath, right sided chest pain and fevers ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7953,
+            "end_offset": 8083,
+            "annotation_id": "LV_069"
+        },
+        {
+            "decision": "he was found to have multifocal right sided PNA per chest CT imaging",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8088,
+            "end_offset": 8156,
+            "annotation_id": "LV_070"
+        },
+        {
+            "decision": "sepsis concerns in setting of hypotension to systolic range in 70s with mild tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8178,
+            "end_offset": 8266,
+            "annotation_id": "LV_071"
+        },
+        {
+            "decision": "Resuscitated with generous IVFs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8268,
+            "end_offset": 8299,
+            "annotation_id": "LV_072"
+        },
+        {
+            "decision": "IV antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 8310,
+            "end_offset": 8324,
+            "annotation_id": "LV_073"
+        },
+        {
+            "decision": "supportive oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8326,
+            "end_offset": 8343,
+            "annotation_id": "LV_074"
+        },
+        {
+            "decision": "Levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8359,
+            "end_offset": 8367,
+            "annotation_id": "LV_075"
+        },
+        {
+            "decision": "hemodynamically stabilized",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8410,
+            "end_offset": 8436,
+            "annotation_id": "LV_076"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8493,
+            "end_offset": 8503,
+            "annotation_id": "LV_077"
+        },
+        {
+            "decision": "He was transferred to general medical floor on [**2185-5-19**]. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8505,
+            "end_offset": 8567,
+            "annotation_id": "LV_078"
+        },
+        {
+            "decision": "Multifocal PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8624,
+            "end_offset": 8638,
+            "annotation_id": "LV_079"
+        },
+        {
+            "decision": "septic shock as he became tachycardic to 120s range and hypotensive to systolic 70s ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8690,
+            "end_offset": 8773,
+            "annotation_id": "LV_080"
+        },
+        {
+            "decision": "Blood pressures improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8816,
+            "end_offset": 8840,
+            "annotation_id": "LV_081"
+        },
+        {
+            "decision": "generous IVFs ",
+            "category": "Category 11: Other",
+            "start_offset": 8846,
+            "end_offset": 8859,
+            "annotation_id": "LV_082"
+        },
+        {
+            "decision": "pressor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8887,
+            "end_offset": 8894,
+            "annotation_id": "LV_083"
+        },
+        {
+            "decision": "Levophed",
+            "category": "Category 5: Drug related",
+            "start_offset": 8908,
+            "end_offset": 8916,
+            "annotation_id": "LV_084"
+        },
+        {
+            "decision": "CTA chest done at admission on [**2185-5-15**] showed right sided multi-focal PNA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8918,
+            "end_offset": 8999,
+            "annotation_id": "LV_085"
+        },
+        {
+            "decision": "pre-existing poor pulmonary reserve at baseline ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9045,
+            "end_offset": 9092,
+            "annotation_id": "LV_086"
+        },
+        {
+            "decision": "sarcoidosis and asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9102,
+            "end_offset": 9124,
+            "annotation_id": "LV_087"
+        },
+        {
+            "decision": "2 previous bouts of pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9142,
+            "end_offset": 9171,
+            "annotation_id": "LV_088"
+        },
+        {
+            "decision": "Levaquin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9251,
+            "end_offset": 9259,
+            "annotation_id": "LV_089"
+        },
+        {
+            "decision": "IV Vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9265,
+            "end_offset": 9278,
+            "annotation_id": "LV_090"
+        },
+        {
+            "decision": "Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9281,
+            "end_offset": 9286,
+            "annotation_id": "LV_091"
+        },
+        {
+            "decision": "IV Ceftriaxone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9362,
+            "end_offset": 9376,
+            "annotation_id": "LV_092"
+        },
+        {
+            "decision": "Levaquin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9397,
+            "end_offset": 9405,
+            "annotation_id": "LV_093"
+        },
+        {
+            "decision": "labored breathing ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9487,
+            "end_offset": 9504,
+            "annotation_id": "LV_094"
+        },
+        {
+            "decision": "repeat CXR done",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9533,
+            "end_offset": 9548,
+            "annotation_id": "LV_095"
+        },
+        {
+            "decision": "Vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9597,
+            "end_offset": 9607,
+            "annotation_id": "LV_096"
+        },
+        {
+            "decision": "Zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9612,
+            "end_offset": 9617,
+            "annotation_id": "LV_097"
+        },
+        {
+            "decision": "CTX ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9630,
+            "end_offset": 9633,
+            "annotation_id": "LV_098"
+        },
+        {
+            "decision": "Levaquin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9638,
+            "end_offset": 9646,
+            "annotation_id": "LV_099"
+        },
+        {
+            "decision": "The CXR done [**2185-5-19**] showed mild effusions but overall improving pneumonia in the right middle and lower lobes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9666,
+            "end_offset": 9784,
+            "annotation_id": "LV_100"
+        },
+        {
+            "decision": "shortness of breath and decreasing oxygen requirements and his cough was persistent but phlegm production lessened",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9816,
+            "end_offset": 9930,
+            "annotation_id": "LV_101"
+        },
+        {
+            "decision": "Fevers gradually defervesced",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9932,
+            "end_offset": 9960,
+            "annotation_id": "LV_102"
+        },
+        {
+            "decision": "Initial blood cultures were negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9962,
+            "end_offset": 9998,
+            "annotation_id": "LV_103"
+        },
+        {
+            "decision": "Sputum gram stain showed >25 PMNs and 3+ gram positive cocci in pairs and chains and 2+ gram negative rods also identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10000,
+            "end_offset": 10122,
+            "annotation_id": "LV_104"
+        },
+        {
+            "decision": "Sputum culture only showed sparse growth of oropharyngeal flora",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10124,
+            "end_offset": 10187,
+            "annotation_id": "LV_105"
+        },
+        {
+            "decision": "rash, leukocytosis and eosinophilia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10212,
+            "end_offset": 10247,
+            "annotation_id": "LV_106"
+        },
+        {
+            "decision": "Zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10249,
+            "end_offset": 10254,
+            "annotation_id": "LV_107"
+        },
+        {
+            "decision": "PO levoquin high-dose",
+            "category": "Category 5: Drug related",
+            "start_offset": 10287,
+            "end_offset": 10308,
+            "annotation_id": "LV_108"
+        },
+        {
+            "decision": "follow-up as an outpatient with his pulmonologist, Dr. [**Last Name (STitle) **], over the next few weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 10355,
+            "end_offset": 10460,
+            "annotation_id": "LV_109"
+        },
+        {
+            "decision": "Sarcoidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10465,
+            "end_offset": 10476,
+            "annotation_id": "LV_110"
+        },
+        {
+            "decision": "pulmonary sarcoidosis and extrapulmonary manifestations of sarcoid in the form of prior uveitis flare-ups",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10518,
+            "end_offset": 10623,
+            "annotation_id": "LV_111"
+        },
+        {
+            "decision": "home oral steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 10656,
+            "end_offset": 10674,
+            "annotation_id": "LV_112"
+        },
+        {
+            "decision": "sarcoid ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10703,
+            "end_offset": 10710,
+            "annotation_id": "LV_113"
+        },
+        {
+            "decision": "chest CT on this admission his sarcoid disease appeared to be stable as compared with prior films",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10718,
+            "end_offset": 10815,
+            "annotation_id": "LV_114"
+        },
+        {
+            "decision": "acute infection ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10827,
+            "end_offset": 10842,
+            "annotation_id": "LV_115"
+        },
+        {
+            "decision": "steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10880,
+            "end_offset": 10888,
+            "annotation_id": "LV_116"
+        },
+        {
+            "decision": "dyspnea and respiratory congestion ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10922,
+            "end_offset": 10956,
+            "annotation_id": "LV_117"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10988,
+            "end_offset": 10999,
+            "annotation_id": "LV_118"
+        },
+        {
+            "decision": "supportive oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11004,
+            "end_offset": 11021,
+            "annotation_id": "LV_119"
+        },
+        {
+            "decision": "inhaled steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11070,
+            "end_offset": 11086,
+            "annotation_id": "LV_120"
+        },
+        {
+            "decision": "Advair ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11100,
+            "end_offset": 11106,
+            "annotation_id": "LV_121"
+        },
+        {
+            "decision": "Albuterol nebulizers",
+            "category": "Category 5: Drug related",
+            "start_offset": 11111,
+            "end_offset": 11131,
+            "annotation_id": "LV_122"
+        },
+        {
+            "decision": "Obstructive Sleep Apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11136,
+            "end_offset": 11159,
+            "annotation_id": "LV_123"
+        },
+        {
+            "decision": "CPAP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11204,
+            "end_offset": 11208,
+            "annotation_id": "LV_124"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11237,
+            "end_offset": 11257,
+            "annotation_id": "LV_125"
+        },
+        {
+            "decision": "Daily cholestyramine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11259,
+            "end_offset": 11279,
+            "annotation_id": "LV_126"
+        },
+        {
+            "decision": "statin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11432,
+            "end_offset": 11438,
+            "annotation_id": "LV_127"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11503,
+            "end_offset": 11513,
+            "annotation_id": "LV_128"
+        },
+        {
+            "decision": "occasional apparent depressed moods at times ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11549,
+            "end_offset": 11593,
+            "annotation_id": "LV_129"
+        },
+        {
+            "decision": "denied any suicidal ideation and he maintained an appropriate affect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11598,
+            "end_offset": 11666,
+            "annotation_id": "LV_130"
+        },
+        {
+            "decision": "he was transferred to the general medical floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 11673,
+            "end_offset": 11720,
+            "annotation_id": "LV_131"
+        },
+        {
+            "decision": "Effexor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11752,
+            "end_offset": 11759,
+            "annotation_id": "LV_132"
+        },
+        {
+            "decision": "clonazepam ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11770,
+            "end_offset": 11780,
+            "annotation_id": "LV_133"
+        },
+        {
+            "decision": "concomitant anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11803,
+            "end_offset": 11822,
+            "annotation_id": "LV_134"
+        },
+        {
+            "decision": "Benign Prostatic Hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11827,
+            "end_offset": 11855,
+            "annotation_id": "LV_135"
+        },
+        {
+            "decision": "finasteride therapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11885,
+            "end_offset": 11904,
+            "annotation_id": "LV_136"
+        },
+        {
+            "decision": "Flomax ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11958,
+            "end_offset": 11964,
+            "annotation_id": "LV_137"
+        },
+        {
+            "decision": "Exercise Induced Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12046,
+            "end_offset": 12069,
+            "annotation_id": "LV_138"
+        },
+        {
+            "decision": "Advair ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12107,
+            "end_offset": 12113,
+            "annotation_id": "LV_139"
+        },
+        {
+            "decision": "monteleukast",
+            "category": "Category 5: Drug related",
+            "start_offset": 12118,
+            "end_offset": 12130,
+            "annotation_id": "LV_140"
+        },
+        {
+            "decision": "PRN albuterol inhaler",
+            "category": "Category 5: Drug related",
+            "start_offset": 12148,
+            "end_offset": 12169,
+            "annotation_id": "LV_141"
+        },
+        {
+            "decision": "nebulizer treatments on an as-need basis q4-6 hours. .",
+            "category": "Category 5: Drug related",
+            "start_offset": 12183,
+            "end_offset": 12235,
+            "annotation_id": "LV_142"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12239,
+            "end_offset": 12243,
+            "annotation_id": "LV_143"
+        },
+        {
+            "decision": "PPI ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12267,
+            "end_offset": 12270,
+            "annotation_id": "LV_144"
+        },
+        {
+            "decision": "severe GERD history.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12287,
+            "end_offset": 12306,
+            "annotation_id": "LV_145"
+        },
+        {
+            "decision": "Hyperglycemia / Pre-diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12311,
+            "end_offset": 12339,
+            "annotation_id": "LV_146"
+        },
+        {
+            "decision": "mild to moderate hyperglycemic tendency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12398,
+            "end_offset": 12437,
+            "annotation_id": "LV_147"
+        },
+        {
+            "decision": "He had QID fingersticks ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12439,
+            "end_offset": 12462,
+            "annotation_id": "LV_148"
+        },
+        {
+            "decision": "sliding scale insulin regimen with meals and QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 12469,
+            "end_offset": 12517,
+            "annotation_id": "LV_149"
+        },
+        {
+            "decision": "Fasting and post-prandial glucose levels were predominantly normal to borderline normal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12519,
+            "end_offset": 12606,
+            "annotation_id": "LV_150"
+        },
+        {
+            "decision": "No additional standing insulin or oral medications were added to his medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 12628,
+            "end_offset": 12708,
+            "annotation_id": "LV_151"
+        },
+        {
+            "decision": "He had several liters of IVFs over the initial 48 hours of his hospital stay and then once he had good PO intake IVFs were tapered",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12750,
+            "end_offset": 12880,
+            "annotation_id": "LV_152"
+        },
+        {
+            "decision": "Electrolytes were monitored and repleted ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12882,
+            "end_offset": 12922,
+            "annotation_id": "LV_153"
+        },
+        {
+            "decision": "regular diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12959,
+            "end_offset": 12971,
+            "annotation_id": "LV_154"
+        },
+        {
+            "decision": "Subcutaneous heparin was given TID ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12990,
+            "end_offset": 13024,
+            "annotation_id": "LV_155"
+        },
+        {
+            "decision": "DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13029,
+            "end_offset": 13032,
+            "annotation_id": "LV_156"
+        },
+        {
+            "decision": "PPI ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13045,
+            "end_offset": 13048,
+            "annotation_id": "LV_157"
+        },
+        {
+            "decision": "GERD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13053,
+            "end_offset": 13057,
+            "annotation_id": "LV_158"
+        },
+        {
+            "decision": "Colace ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13093,
+            "end_offset": 13099,
+            "annotation_id": "LV_159"
+        },
+        {
+            "decision": "Senna ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13104,
+            "end_offset": 13109,
+            "annotation_id": "LV_160"
+        },
+        {
+            "decision": "Albuterol 90 mcg 1-2 puffs q4-6H:PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 13276,
+            "end_offset": 13312,
+            "annotation_id": "LV_161"
+        },
+        {
+            "decision": "Cholestyramine-Aspartame 2 grams daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13313,
+            "end_offset": 13351,
+            "annotation_id": "LV_162"
+        },
+        {
+            "decision": "Clonazepam 0.5 mg PO daily:PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 13352,
+            "end_offset": 13382,
+            "annotation_id": "LV_163"
+        },
+        {
+            "decision": "Fexofenadine 60 mg Tablet [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13383,
+            "end_offset": 13425,
+            "annotation_id": "LV_164"
+        },
+        {
+            "decision": "Finasteride 5 mg PO daily [Proscar]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13426,
+            "end_offset": 13460,
+            "annotation_id": "LV_165"
+        },
+        {
+            "decision": "Flomax 0.4 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13462,
+            "end_offset": 13481,
+            "annotation_id": "LV_166"
+        },
+        {
+            "decision": "Fluticasone nasal 50 mcg 2 sprays daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13482,
+            "end_offset": 13521,
+            "annotation_id": "LV_167"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol 500 mcg-50 mcg 1 puff [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13522,
+            "end_offset": 13583,
+            "annotation_id": "LV_168"
+        },
+        {
+            "decision": "Montelukast 10 mg PO QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 13584,
+            "end_offset": 13608,
+            "annotation_id": "LV_169"
+        },
+        {
+            "decision": "Omeprazole 40 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13609,
+            "end_offset": 13642,
+            "annotation_id": "LV_170"
+        },
+        {
+            "decision": "Ranitidine HCl 300 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 13643,
+            "end_offset": 13670,
+            "annotation_id": "LV_171"
+        },
+        {
+            "decision": "Venlafaxine 100 mg TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 13671,
+            "end_offset": 13693,
+            "annotation_id": "LV_172"
+        },
+        {
+            "decision": "Aspirin 81 mg q 3 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 13694,
+            "end_offset": 13716,
+            "annotation_id": "LV_173"
+        },
+        {
+            "decision": "Bismuth Subsalicylate [Pepto-Bismol] 1 tablet QID:PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 13717,
+            "end_offset": 13770,
+            "annotation_id": "LV_174"
+        },
+        {
+            "decision": "Albuterol 90 mcg/Actuation Aerosol Sig: [**1-28**]  Inhalation every 4-6 hours as needed for shortness of breath or wheezing",
+            "category": "Category 5: Drug related",
+            "start_offset": 13798,
+            "end_offset": 13922,
+            "annotation_id": "LV_175"
+        },
+        {
+            "decision": "Cholestyramine-Sucrose 4 gram Packet Sig: 0.5 Packet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13927,
+            "end_offset": 13995,
+            "annotation_id": "LV_176"
+        },
+        {
+            "decision": "Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)) as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 14001,
+            "end_offset": 14088,
+            "annotation_id": "LV_177"
+        },
+        {
+            "decision": "Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14093,
+            "end_offset": 14160,
+            "annotation_id": "LV_178"
+        },
+        {
+            "decision": "Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14166,
+            "end_offset": 14225,
+            "annotation_id": "LV_179"
+        },
+        {
+            "decision": "Flomax 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 14232,
+            "end_offset": 14330,
+            "annotation_id": "LV_180"
+        },
+        {
+            "decision": "Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) Spray Nasal DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14335,
+            "end_offset": 14419,
+            "annotation_id": "LV_181"
+        },
+        {
+            "decision": "Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig: One (1)  Inhalation twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14425,
+            "end_offset": 14517,
+            "annotation_id": "LV_182"
+        },
+        {
+            "decision": "Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14522,
+            "end_offset": 14582,
+            "annotation_id": "LV_183"
+        },
+        {
+            "decision": "Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) Capsule, Delayed Release(E.C.) PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14589,
+            "end_offset": 14702,
+            "annotation_id": "LV_184"
+        },
+        {
+            "decision": "Ranitidine HCl 300 mg Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14709,
+            "end_offset": 14773,
+            "annotation_id": "LV_185"
+        },
+        {
+            "decision": "Venlafaxine 100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14779,
+            "end_offset": 14846,
+            "annotation_id": "LV_186"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QMOWEFR (Monday -Wednesday-Friday).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14853,
+            "end_offset": 14950,
+            "annotation_id": "LV_187"
+        },
+        {
+            "decision": "Bismuth Subsalicylate 262 mg Tablet, Chewable Sig: One (1) Tablet PO QID (4 times a day) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14957,
+            "end_offset": 15055,
+            "annotation_id": "LV_188"
+        },
+        {
+            "decision": "Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q24H (every 24 hours) for 6 days. Disp:*18 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 15061,
+            "end_offset": 15178,
+            "annotation_id": "LV_189"
+        },
+        {
+            "decision": "Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) as needed for Itch for 7 days: Do not drive as this is a sedating medication. Disp:*30 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 15183,
+            "end_offset": 15371,
+            "annotation_id": "LV_190"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15434,
+            "end_offset": 15443,
+            "annotation_id": "LV_191"
+        },
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15445,
+            "end_offset": 15465,
+            "annotation_id": "LV_192"
+        },
+        {
+            "decision": "Sarcoidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15480,
+            "end_offset": 15491,
+            "annotation_id": "LV_193"
+        },
+        {
+            "decision": "Hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15493,
+            "end_offset": 15506,
+            "annotation_id": "LV_194"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15508,
+            "end_offset": 15528,
+            "annotation_id": "LV_195"
+        },
+        {
+            "decision": "Obstructive Sleep Apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15530,
+            "end_offset": 15553,
+            "annotation_id": "LV_196"
+        },
+        {
+            "decision": "Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15555,
+            "end_offset": 15562,
+            "annotation_id": "LV_197"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15564,
+            "end_offset": 15574,
+            "annotation_id": "LV_198"
+        },
+        {
+            "decision": "Benign Prostatic Hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15576,
+            "end_offset": 15604,
+            "annotation_id": "LV_199"
+        },
+        {
+            "decision": "Exercise Induced Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15606,
+            "end_offset": 15629,
+            "annotation_id": "LV_200"
+        },
+        {
+            "decision": "Clinically stable. No apparent distress and normal vital signs at time of discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15653,
+            "end_offset": 15736,
+            "annotation_id": "LV_201"
+        },
+        {
+            "decision": "You were admitted with fevers, a cough and shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15830,
+            "end_offset": 15892,
+            "annotation_id": "LV_202"
+        },
+        {
+            "decision": "Additional imaging studies revealed that you had a right sided pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15894,
+            "end_offset": 15966,
+            "annotation_id": "LV_203"
+        },
+        {
+            "decision": "You were initially taken care of in the intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 15968,
+            "end_offset": 16027,
+            "annotation_id": "LV_204"
+        },
+        {
+            "decision": "IV antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 16049,
+            "end_offset": 16063,
+            "annotation_id": "LV_205"
+        },
+        {
+            "decision": "IV fluids ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16065,
+            "end_offset": 16074,
+            "annotation_id": "LV_206"
+        },
+        {
+            "decision": "supportive oxygen therapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16079,
+            "end_offset": 16104,
+            "annotation_id": "LV_207"
+        },
+        {
+            "decision": "Once you had clinically stabilized and your symptoms improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16136,
+            "end_offset": 16197,
+            "annotation_id": "LV_208"
+        },
+        {
+            "decision": "you were transferred to the general medical wards. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 16198,
+            "end_offset": 16247,
+            "annotation_id": "LV_209"
+        },
+        {
+            "decision": "You were continued on supportive oxygen which was slowly weaned",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16249,
+            "end_offset": 16312,
+            "annotation_id": "LV_210"
+        },
+        {
+            "decision": "and antibiotics were continued. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16313,
+            "end_offset": 16343,
+            "annotation_id": "LV_211"
+        },
+        {
+            "decision": "Chest physical therapy was also provided to help you recuperate faster.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16345,
+            "end_offset": 16415,
+            "annotation_id": "LV_212"
+        },
+        {
+            "decision": "It is very important that you follow-up with your appointments as listed below. Also, please continue to take all of your listed medications as prescribed and outlined below",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16419,
+            "end_offset": 16592,
+            "annotation_id": "LV_213"
+        },
+        {
+            "decision": "If you experience any new fevers, chills, bloody sputum, worse cough, worse shortness of breath, dizziness, lightheadedness, chest pains, heart palpitations or any other concerning symptoms then please return to the emergency room or call your primary care physician",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16596,
+            "end_offset": 16862,
+            "annotation_id": "LV_214"
+        },
+        {
+            "decision": "Please follow-up with your primary care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) **] on [**6-8**] at 8:45am. Phone:[**Telephone/Fax (1) 9347**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 16891,
+            "end_offset": 17103,
+            "annotation_id": "LV_215"
+        },
+        {
+            "decision": "Please call #[**Telephone/Fax (1) 612**] to set up a follow-up appointment with your pulmonologist, Dr. [**Last Name (STitle) **] over the next 1-2 weeks time.",
+            "category": "Category 1: Contact related",
+            "start_offset": 17109,
+            "end_offset": 17267,
+            "annotation_id": "LV_216"
+        }
+    ]
+}

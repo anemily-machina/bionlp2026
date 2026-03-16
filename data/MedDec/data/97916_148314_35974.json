@@ -1,0 +1,951 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "97916_148314_35974",
+    "annotations": [
+        {
+            "decision": "Chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 275,
+            "end_offset": 285,
+            "annotation_id": "RD_000"
+        },
+        {
+            "decision": "2units prbcs transfused ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 325,
+            "end_offset": 348,
+            "annotation_id": "RD_001"
+        },
+        {
+            "decision": "history of CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 408,
+            "end_offset": 422,
+            "annotation_id": "RD_002"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 424,
+            "end_offset": 427,
+            "annotation_id": "RD_003"
+        },
+        {
+            "decision": "?GIB ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 430,
+            "end_offset": 433,
+            "annotation_id": "RD_004"
+        },
+        {
+            "decision": "transferred from [**Hospital3 4107**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 450,
+            "end_offset": 487,
+            "annotation_id": "RD_005"
+        },
+        {
+            "decision": "referred to the [**Name (NI) **] [**1-31**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 870,
+            "end_offset": 913,
+            "annotation_id": "RD_006"
+        },
+        {
+            "decision": " ECG changes ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 914,
+            "end_offset": 925,
+            "annotation_id": "RD_007"
+        },
+        {
+            "decision": "concern for ACS.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 930,
+            "end_offset": 945,
+            "annotation_id": "RD_008"
+        },
+        {
+            "decision": "and concern for ACS.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 926,
+            "end_offset": 945,
+            "annotation_id": "RD_009"
+        },
+        {
+            "decision": "guaiac positive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1187,
+            "end_offset": 1202,
+            "annotation_id": "RD_010"
+        },
+        {
+            "decision": "hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1234,
+            "end_offset": 1256,
+            "annotation_id": "RD_011"
+        },
+        {
+            "decision": "ECG showed ST depressions II, III, aVF, V3-V5, ST elevation aVR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1304,
+            "end_offset": 1367,
+            "annotation_id": "RD_012"
+        },
+        {
+            "decision": "given Lopressor",
+            "category": "Category 5: Drug related",
+            "start_offset": 1381,
+            "end_offset": 1396,
+            "annotation_id": "RD_013"
+        },
+        {
+            "decision": "1uPRBC,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1398,
+            "end_offset": 1404,
+            "annotation_id": "RD_014"
+        },
+        {
+            "decision": "Tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1406,
+            "end_offset": 1413,
+            "annotation_id": "RD_015"
+        },
+        {
+            "decision": "Lasix 40mg x 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1415,
+            "end_offset": 1429,
+            "annotation_id": "RD_016"
+        },
+        {
+            "decision": " CXR showed small right pleural effusion with minimal basilar atelectasis.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1432,
+            "end_offset": 1504,
+            "annotation_id": "RD_017"
+        },
+        {
+            "decision": "She was transferred to [**Hospital1 18**] CCU for further management. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1507,
+            "end_offset": 1575,
+            "annotation_id": "RD_018"
+        },
+        {
+            "decision": "On arrival here, the patient was asymptomatic.  She denied any chest pain, SOB, N/V, diarrhea, abd pain.  last BM was this morning.  No fevers, chills.  +dry cough for the past few days.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1578,
+            "end_offset": 1763,
+            "annotation_id": "RD_019"
+        },
+        {
+            "decision": "CAD s/p MI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1789,
+            "end_offset": 1799,
+            "annotation_id": "RD_020"
+        },
+        {
+            "decision": "and CABG in [**2162**] at [**Hospital1 112**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1800,
+            "end_offset": 1845,
+            "annotation_id": "RD_021"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1846,
+            "end_offset": 1858,
+            "annotation_id": "RD_022"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1859,
+            "end_offset": 1873,
+            "annotation_id": "RD_023"
+        },
+        {
+            "decision": "Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1874,
+            "end_offset": 1881,
+            "annotation_id": "RD_024"
+        },
+        {
+            "decision": ": HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1905,
+            "end_offset": 1908,
+            "annotation_id": "RD_025"
+        },
+        {
+            "decision": "CABG:  [**2162**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1974,
+            "end_offset": 1991,
+            "annotation_id": "RD_026"
+        },
+        {
+            "decision": "-PERCUTANEOUS CORONARY INTERVENTIONS:  [**12-5**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1992,
+            "end_offset": 2041,
+            "annotation_id": "RD_027"
+        },
+        {
+            "decision": "GENERAL: NAD, lying comfortably in bed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2248,
+            "end_offset": 2286,
+            "annotation_id": "RD_028"
+        },
+        {
+            "decision": "HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink. OP clear, MMM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2287,
+            "end_offset": 2367,
+            "annotation_id": "RD_029"
+        },
+        {
+            "decision": "NECK: Supple with JVP of 10 cm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2368,
+            "end_offset": 2398,
+            "annotation_id": "RD_030"
+        },
+        {
+            "decision": "CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2400,
+            "end_offset": 2468,
+            "annotation_id": "RD_031"
+        },
+        {
+            "decision": "LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2470,
+            "end_offset": 2610,
+            "annotation_id": "RD_032"
+        },
+        {
+            "decision": "ABDOMEN: Soft, Non-tender, non-distended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2612,
+            "end_offset": 2652,
+            "annotation_id": "RD_033"
+        },
+        {
+            "decision": "EXTREMITIES: No c/c/e",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2653,
+            "end_offset": 2674,
+            "annotation_id": "RD_034"
+        },
+        {
+            "decision": "Rectal: normal tone, minimal black specks of stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2675,
+            "end_offset": 2725,
+            "annotation_id": "RD_035"
+        },
+        {
+            "decision": "guaiac positive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2727,
+            "end_offset": 2742,
+            "annotation_id": "RD_036"
+        },
+        {
+            "decision": "ECG:  NSR, 1mm ST depressions I, II, V2-V5, <1mm STD V6, 1mm ST elevation aVR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3509,
+            "end_offset": 3586,
+            "annotation_id": "RD_037"
+        },
+        {
+            "decision": "# NSTEMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3634,
+            "end_offset": 3640,
+            "annotation_id": "RD_038"
+        },
+        {
+            "decision": "diffuse ECG changes and troponin leak",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3673,
+            "end_offset": 3710,
+            "annotation_id": "RD_039"
+        },
+        {
+            "decision": "melena and UGIB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3729,
+            "end_offset": 3744,
+            "annotation_id": "RD_040"
+        },
+        {
+            "decision": "Global ECG changes and troponin leak were consistent with demand ischemia in the setting of her UGIB. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3747,
+            "end_offset": 3847,
+            "annotation_id": "RD_041"
+        },
+        {
+            "decision": ".  Enzymes trended down ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3850,
+            "end_offset": 3870,
+            "annotation_id": "RD_042"
+        },
+        {
+            "decision": "held her ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 3945,
+            "end_offset": 3957,
+            "annotation_id": "RD_043"
+        },
+        {
+            "decision": "Plavix,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3959,
+            "end_offset": 3965,
+            "annotation_id": "RD_044"
+        },
+        {
+            "decision": "Metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 3967,
+            "end_offset": 3977,
+            "annotation_id": "RD_045"
+        },
+        {
+            "decision": " Lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3979,
+            "end_offset": 3984,
+            "annotation_id": "RD_046"
+        },
+        {
+            "decision": "started on a statin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4014,
+            "end_offset": 4033,
+            "annotation_id": "RD_047"
+        },
+        {
+            "decision": "history of severe CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4044,
+            "end_offset": 4065,
+            "annotation_id": "RD_048"
+        },
+        {
+            "decision": "statins.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4123,
+            "end_offset": 4130,
+            "annotation_id": "RD_049"
+        },
+        {
+            "decision": "stent was placed >1 month ago and was bare metal ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4139,
+            "end_offset": 4187,
+            "annotation_id": "RD_050"
+        },
+        {
+            "decision": "plavix was stopped, not to be restarted. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4192,
+            "end_offset": 4231,
+            "annotation_id": "RD_051"
+        },
+        {
+            "decision": "continued on 81mg aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4241,
+            "end_offset": 4266,
+            "annotation_id": "RD_052"
+        },
+        {
+            "decision": "for stent restenosis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4267,
+            "end_offset": 4287,
+            "annotation_id": "RD_053"
+        },
+        {
+            "decision": "Metoprolol was restarted ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4289,
+            "end_offset": 4313,
+            "annotation_id": "RD_054"
+        },
+        {
+            "decision": "taking lasix as an outpatient for unclear reasons, thus this was not restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 4434,
+            "end_offset": 4512,
+            "annotation_id": "RD_055"
+        },
+        {
+            "decision": "instructed to follow up with her primary cardiologist, Dr. [**Last Name (STitle) 10543**], ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4530,
+            "end_offset": 4619,
+            "annotation_id": "RD_056"
+        },
+        {
+            "decision": "for evaluation of possible diagnostic cardiac catheterization ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4641,
+            "end_offset": 4702,
+            "annotation_id": "RD_057"
+        },
+        {
+            "decision": "The patient was instructed to follow up with her primary cardiologist, Dr. [**Last Name (STitle) 10543**], in [**Hospital1 **] for evaluation of possible diagnostic cardiac catheterization given her ischemic event in the setting of a GI bleed.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4514,
+            "end_offset": 4756,
+            "annotation_id": "RD_058"
+        },
+        {
+            "decision": "At this follow up visit, she should discuss the future need for lasix. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4759,
+            "end_offset": 4828,
+            "annotation_id": "RD_059"
+        },
+        {
+            "decision": "# UGIB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4833,
+            "end_offset": 4837,
+            "annotation_id": "RD_060"
+        },
+        {
+            "decision": "history of GAVE syndrome ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4858,
+            "end_offset": 4882,
+            "annotation_id": "RD_061"
+        },
+        {
+            "decision": "HCT of 26 which was down from 31",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5041,
+            "end_offset": 5073,
+            "annotation_id": "RD_062"
+        },
+        {
+            "decision": "On transfer to [**Hospital1",
+            "category": "Category 1: Contact related",
+            "start_offset": 5115,
+            "end_offset": 5142,
+            "annotation_id": "RD_063"
+        },
+        {
+            "decision": "2 large bore IVs were placed and she was started on her first unit of PRBCs. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5150,
+            "end_offset": 5225,
+            "annotation_id": "RD_064"
+        },
+        {
+            "decision": "serial hcts were monitored and remained stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5251,
+            "end_offset": 5297,
+            "annotation_id": "RD_065"
+        },
+        {
+            "decision": "after transfusion of 4 units of prbcs total",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5298,
+            "end_offset": 5341,
+            "annotation_id": "RD_066"
+        },
+        {
+            "decision": "initially on PPI IV BID and then switched to oral once daily (40mg). ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5351,
+            "end_offset": 5417,
+            "annotation_id": "RD_067"
+        },
+        {
+            "decision": "GI was consulted ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5436,
+            "end_offset": 5452,
+            "annotation_id": "RD_068"
+        },
+        {
+            "decision": "no need for emergent EGD",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5509,
+            "end_offset": 5533,
+            "annotation_id": "RD_069"
+        },
+        {
+            "decision": "She should follow up with her primary gastroenterologist for outpatient EGD in the next 2-4 weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5536,
+            "end_offset": 5633,
+            "annotation_id": "RD_070"
+        },
+        {
+            "decision": "Prior to discharge she was restarted on her iron and sucralfate.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5635,
+            "end_offset": 5698,
+            "annotation_id": "RD_071"
+        },
+        {
+            "decision": "# HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5703,
+            "end_offset": 5706,
+            "annotation_id": "RD_072"
+        },
+        {
+            "decision": "held metoprolol, lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5718,
+            "end_offset": 5740,
+            "annotation_id": "RD_073"
+        },
+        {
+            "decision": "Metoprolol was restarted prior to discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 5762,
+            "end_offset": 5805,
+            "annotation_id": "RD_074"
+        },
+        {
+            "decision": "however lasix was held given not clear reason for lasix use.  B",
+            "category": "Category 5: Drug related",
+            "start_offset": 5807,
+            "end_offset": 5874,
+            "annotation_id": "RD_075"
+        },
+        {
+            "decision": "Blood pressures were well controlled on Metoprolol only. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5869,
+            "end_offset": 5924,
+            "annotation_id": "RD_076"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5929,
+            "end_offset": 5943,
+            "annotation_id": "RD_077"
+        },
+        {
+            "decision": "Continued levoxyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 5945,
+            "end_offset": 5962,
+            "annotation_id": "RD_078"
+        },
+        {
+            "decision": "# Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5966,
+            "end_offset": 5973,
+            "annotation_id": "RD_079"
+        },
+        {
+            "decision": "held lorazepam at first but then restarted when patient was started back on POs",
+            "category": "Category 5: Drug related",
+            "start_offset": 5975,
+            "end_offset": 6054,
+            "annotation_id": "RD_080"
+        },
+        {
+            "decision": "Decreased breath sounds on RLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6059,
+            "end_offset": 6089,
+            "annotation_id": "RD_081"
+        },
+        {
+            "decision": "CXR was initially ordered to evaluate this finding on physical exam.  ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6092,
+            "end_offset": 6159,
+            "annotation_id": "RD_082"
+        },
+        {
+            "decision": "  A CT scan was recommended for follow up.  CT scan showed pleural thickening on the right, either indicative of fat or fluid however not evidence of infection.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6162,
+            "end_offset": 6319,
+            "annotation_id": "RD_083"
+        },
+        {
+            "decision": " A small 2mm pulmonary nodule was noted on her CT scan.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6407,
+            "end_offset": 6460,
+            "annotation_id": "RD_084"
+        },
+        {
+            "decision": "# ACCESS: 2 large bore PIVs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6572,
+            "end_offset": 6597,
+            "annotation_id": "RD_085"
+        },
+        {
+            "decision": "# PROPHYLAXIS: PPI as above, hold home colace",
+            "category": "Category 5: Drug related",
+            "start_offset": 6600,
+            "end_offset": 6643,
+            "annotation_id": "RD_086"
+        },
+        {
+            "decision": "Aspirin 81 mg DAILY (took this morning",
+            "category": "Category 5: Drug related",
+            "start_offset": 6819,
+            "end_offset": 6857,
+            "annotation_id": "RD_087"
+        },
+        {
+            "decision": "Lorazepam 0.5 mg Q8H PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 6859,
+            "end_offset": 6883,
+            "annotation_id": "RD_088"
+        },
+        {
+            "decision": "Colace 100 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 6884,
+            "end_offset": 6904,
+            "annotation_id": "RD_089"
+        },
+        {
+            "decision": "Levothyroxine 175 mcg DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 6905,
+            "end_offset": 6932,
+            "annotation_id": "RD_090"
+        },
+        {
+            "decision": "Omeprazole 20 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6933,
+            "end_offset": 6966,
+            "annotation_id": "RD_091"
+        },
+        {
+            "decision": "Clopidogrel 75 mg DAILY (took this morning)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6967,
+            "end_offset": 7009,
+            "annotation_id": "RD_092"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 7011,
+            "end_offset": 7053,
+            "annotation_id": "RD_093"
+        },
+        {
+            "decision": "Nitroglycerin 0.3 mg PRN Chest Pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 7054,
+            "end_offset": 7089,
+            "annotation_id": "RD_094"
+        },
+        {
+            "decision": "Lasix 40mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7090,
+            "end_offset": 7106,
+            "annotation_id": "RD_095"
+        },
+        {
+            "decision": "KCL 20 meq P0 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7107,
+            "end_offset": 7126,
+            "annotation_id": "RD_096"
+        },
+        {
+            "decision": "Hydromorphone 2mg (one) tab TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 7127,
+            "end_offset": 7158,
+            "annotation_id": "RD_097"
+        },
+        {
+            "decision": "Sucralfate QID",
+            "category": "Category 5: Drug related",
+            "start_offset": 7159,
+            "end_offset": 7173,
+            "annotation_id": "RD_098"
+        },
+        {
+            "decision": "Ferrous Sulfate daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7174,
+            "end_offset": 7195,
+            "annotation_id": "RD_099"
+        },
+        {
+            "decision": "1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). Disp:*30 Tablet, Chewable(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7220,
+            "end_offset": 7343,
+            "annotation_id": "RD_100"
+        },
+        {
+            "decision": "2. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for foot cramps",
+            "category": "Category 5: Drug related",
+            "start_offset": 7344,
+            "end_offset": 7439,
+            "annotation_id": "RD_101"
+        },
+        {
+            "decision": "for foot cramps",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7424,
+            "end_offset": 7439,
+            "annotation_id": "RD_102"
+        },
+        {
+            "decision": "3. Levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7441,
+            "end_offset": 7508,
+            "annotation_id": "RD_103"
+        },
+        {
+            "decision": "4. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7511,
+            "end_offset": 7584,
+            "annotation_id": "RD_104"
+        },
+        {
+            "decision": "5. Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7587,
+            "end_offset": 7673,
+            "annotation_id": "RD_105"
+        },
+        {
+            "decision": "6. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO four times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7675,
+            "end_offset": 7742,
+            "annotation_id": "RD_106"
+        },
+        {
+            "decision": "7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7744,
+            "end_offset": 7853,
+            "annotation_id": "RD_107"
+        },
+        {
+            "decision": "8. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7855,
+            "end_offset": 7950,
+            "annotation_id": "RD_108"
+        },
+        {
+            "decision": "GAVE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8067,
+            "end_offset": 8071,
+            "annotation_id": "RD_109"
+        },
+        {
+            "decision": "Upper GIB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8072,
+            "end_offset": 8081,
+            "annotation_id": "RD_110"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8082,
+            "end_offset": 8088,
+            "annotation_id": "RD_111"
+        },
+        {
+            "decision": "NSTEMI in the setting of UGIB ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8089,
+            "end_offset": 8118,
+            "annotation_id": "RD_112"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8141,
+            "end_offset": 8144,
+            "annotation_id": "RD_113"
+        },
+        {
+            "decision": "Discharge Condition: The patient was afebrile and hemodynamically stable without chest pain prior to discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8147,
+            "end_offset": 8257,
+            "annotation_id": "RD_114"
+        },
+        {
+            "decision": "You had low blood counts because you were bleeding from your stomach",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8336,
+            "end_offset": 8404,
+            "annotation_id": "RD_115"
+        },
+        {
+            "decision": "You were given a blood transfusion ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8481,
+            "end_offset": 8515,
+            "annotation_id": "RD_116"
+        },
+        {
+            "decision": "The GI doctors here [**Name5 (PTitle) **] not feel that you need to have another procedure to look at your stomach because you have had several that have all showed the same thing.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8540,
+            "end_offset": 8719,
+            "annotation_id": "RD_117"
+        },
+        {
+            "decision": "The GI doctors here [**Name5 (PTitle) **] not feel that you need to have another procedure to look at your stomach because you have had several that have all showed the same thing.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8540,
+            "end_offset": 8719,
+            "annotation_id": "RD_118"
+        },
+        {
+            "decision": "These medications were discontinued, DO NOT restart these medications on discharge: -  Plavix -  Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 8742,
+            "end_offset": 8844,
+            "annotation_id": "RD_119"
+        },
+        {
+            "decision": "These medications were started, please take them as prescribed on discharge:  -  Atorvastatin 80mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8847,
+            "end_offset": 8951,
+            "annotation_id": "RD_120"
+        },
+        {
+            "decision": "-  Aspirin 81mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9023,
+            "end_offset": 9041,
+            "annotation_id": "RD_121"
+        },
+        {
+            "decision": "-  Iron",
+            "category": "Category 5: Drug related",
+            "start_offset": 9045,
+            "end_offset": 9049,
+            "annotation_id": "RD_122"
+        },
+        {
+            "decision": "-  Sucralfate",
+            "category": "Category 5: Drug related",
+            "start_offset": 9053,
+            "end_offset": 9063,
+            "annotation_id": "RD_123"
+        },
+        {
+            "decision": "-  Levothyroxine",
+            "category": "Category 5: Drug related",
+            "start_offset": 9067,
+            "end_offset": 9080,
+            "annotation_id": "RD_124"
+        },
+        {
+            "decision": "-  Lorazepam",
+            "category": "Category 5: Drug related",
+            "start_offset": 9084,
+            "end_offset": 9093,
+            "annotation_id": "RD_125"
+        },
+        {
+            "decision": "-  Omeprazole to 20mg two times daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9097,
+            "end_offset": 9131,
+            "annotation_id": "RD_126"
+        },
+        {
+            "decision": "These medications were continued, please take them as prescribed: -  Aspirin 81mg daily -  Iron -  Sucralfate -  Levothyroxine -  Lorazepam -  Omeprazole to 20mg two times daily",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8954,
+            "end_offset": 9131,
+            "annotation_id": "RD_127"
+        },
+        {
+            "decision": "Please come back to the hospital or call your primary care physician if you have fainting or near-fainting, dizziness, light-headedness, shortness of breath, chest pain, jaw pain, arm pain, abdominal pain, nausea, blood in your stools, black tarry stools, leg swelling, or any other concerning symptoms. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9134,
+            "end_offset": 9436,
+            "annotation_id": "RD_128"
+        },
+        {
+            "decision": "Please follow up with Dr. [**Last Name (STitle) 10543**] in the next 2-4 weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9462,
+            "end_offset": 9540,
+            "annotation_id": "RD_129"
+        },
+        {
+            "decision": "Please follow up with Dr. [**First Name (STitle) 15532**] in [**2-2**] weeks to schedule outpatient upper endoscopy.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9543,
+            "end_offset": 9658,
+            "annotation_id": "RD_130"
+        },
+        {
+            "decision": "outpatient upper endoscopy.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9632,
+            "end_offset": 9658,
+            "annotation_id": "RD_131"
+        },
+        {
+            "decision": "He will check your liver tests ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9735,
+            "end_offset": 9765,
+            "annotation_id": "RD_132"
+        },
+        {
+            "decision": "Please follow up with Dr. [**Last Name (STitle) 1005**] in about 4 weeks. He will check your liver tests to make sure you can take the high doses of the statin we gave you.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9661,
+            "end_offset": 9832,
+            "annotation_id": "RD_133"
+        },
+        {
+            "decision": "to make sure you can take the high doses of the statin we gave you.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9766,
+            "end_offset": 9832,
+            "annotation_id": "RD_134"
+        }
+    ]
+}

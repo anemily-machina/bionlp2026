@@ -1,0 +1,1112 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "17239_128561_26467",
+    "annotations": [
+        {
+            "decision": "Shortness of breath & bradycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 226,
+            "end_offset": 259,
+            "annotation_id": "DQ_000"
+        },
+        {
+            "decision": "h/o COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 350,
+            "end_offset": 358,
+            "annotation_id": "DQ_001"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 360,
+            "end_offset": 363,
+            "annotation_id": "DQ_002"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 365,
+            "end_offset": 368,
+            "annotation_id": "DQ_003"
+        },
+        {
+            "decision": "admitted to CCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 374,
+            "end_offset": 389,
+            "annotation_id": "DQ_004"
+        },
+        {
+            "decision": "with bradycardia in the setting of hyperkalemia and ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 390,
+            "end_offset": 445,
+            "annotation_id": "DQ_005"
+        },
+        {
+            "decision": "stop taking his lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 690,
+            "end_offset": 711,
+            "annotation_id": "DQ_006"
+        },
+        {
+            "decision": "and to take his digoxin only every other day",
+            "category": "Category 5: Drug related",
+            "start_offset": 712,
+            "end_offset": 756,
+            "annotation_id": "DQ_007"
+        },
+        {
+            "decision": "since stopping the lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1184,
+            "end_offset": 1208,
+            "annotation_id": "DQ_008"
+        },
+        {
+            "decision": "K was elevated at 6.5 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1514,
+            "end_offset": 1535,
+            "annotation_id": "DQ_009"
+        },
+        {
+            "decision": "digitalis level was elevated at 2.4. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1540,
+            "end_offset": 1575,
+            "annotation_id": "DQ_010"
+        },
+        {
+            "decision": "given 30 po kayexalate",
+            "category": "Category 5: Drug related",
+            "start_offset": 1584,
+            "end_offset": 1606,
+            "annotation_id": "DQ_011"
+        },
+        {
+            "decision": "1 amp D50",
+            "category": "Category 5: Drug related",
+            "start_offset": 1608,
+            "end_offset": 1617,
+            "annotation_id": "DQ_012"
+        },
+        {
+            "decision": "10 units insulin IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 1619,
+            "end_offset": 1638,
+            "annotation_id": "DQ_013"
+        },
+        {
+            "decision": "1 amp bicarb",
+            "category": "Category 5: Drug related",
+            "start_offset": 1640,
+            "end_offset": 1652,
+            "annotation_id": "DQ_014"
+        },
+        {
+            "decision": "nebs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1664,
+            "end_offset": 1668,
+            "annotation_id": "DQ_015"
+        },
+        {
+            "decision": "albuterol nebs x 2",
+            "category": "Category 5: Drug related",
+            "start_offset": 1654,
+            "end_offset": 1672,
+            "annotation_id": "DQ_016"
+        },
+        {
+            "decision": "1mg atropine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1678,
+            "end_offset": 1690,
+            "annotation_id": "DQ_017"
+        },
+        {
+            "decision": "HR improved to the 30's and sBP remained stable in the 120's ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1692,
+            "end_offset": 1752,
+            "annotation_id": "DQ_018"
+        },
+        {
+            "decision": "transferred to the CCU.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1764,
+            "end_offset": 1786,
+            "annotation_id": "DQ_019"
+        },
+        {
+            "decision": "Cor poulmonale, chronic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1814,
+            "end_offset": 1837,
+            "annotation_id": "DQ_020"
+        },
+        {
+            "decision": "CHF (diastolic dysfxn) EF >55%.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1841,
+            "end_offset": 1870,
+            "annotation_id": "DQ_021"
+        },
+        {
+            "decision": "COPD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1876,
+            "end_offset": 1880,
+            "annotation_id": "DQ_022"
+        },
+        {
+            "decision": "on 2L home O2 at all times",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1881,
+            "end_offset": 1907,
+            "annotation_id": "DQ_023"
+        },
+        {
+            "decision": "OSA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1912,
+            "end_offset": 1915,
+            "annotation_id": "DQ_024"
+        },
+        {
+            "decision": "on Bipap 17/11 at night.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1916,
+            "end_offset": 1939,
+            "annotation_id": "DQ_025"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1944,
+            "end_offset": 1947,
+            "annotation_id": "DQ_026"
+        },
+        {
+            "decision": "obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1951,
+            "end_offset": 1958,
+            "annotation_id": "DQ_027"
+        },
+        {
+            "decision": "pulm HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1962,
+            "end_offset": 1970,
+            "annotation_id": "DQ_028"
+        },
+        {
+            "decision": "CRI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1974,
+            "end_offset": 1977,
+            "annotation_id": "DQ_029"
+        },
+        {
+            "decision": "Gen: in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2283,
+            "end_offset": 2294,
+            "annotation_id": "DQ_030"
+        },
+        {
+            "decision": "HEENT: PERRLA, eomi, OP very dry with white patches on inner cheeks.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2295,
+            "end_offset": 2362,
+            "annotation_id": "DQ_031"
+        },
+        {
+            "decision": "CV: brady, no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2364,
+            "end_offset": 2383,
+            "annotation_id": "DQ_032"
+        },
+        {
+            "decision": "Abd: obese, s/nt. +bs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2384,
+            "end_offset": 2405,
+            "annotation_id": "DQ_033"
+        },
+        {
+            "decision": "Lungs: + crackles at bases bilaterally. no wheezes or rhonchi",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2407,
+            "end_offset": 2468,
+            "annotation_id": "DQ_034"
+        },
+        {
+            "decision": "Ext: 2+ pitting edema with chronic venous stasis changes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2469,
+            "end_offset": 2525,
+            "annotation_id": "DQ_035"
+        },
+        {
+            "decision": "Neuro: A&Ox3. Non-focal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2527,
+            "end_offset": 2550,
+            "annotation_id": "DQ_036"
+        },
+        {
+            "decision": "RENAL U/S [**2131-8-7**]: 1.  No hydronephrosis bilaterally.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2572,
+            "end_offset": 2631,
+            "annotation_id": "DQ_037"
+        },
+        {
+            "decision": "Renal cortical thinning bilaterally - clinical correlation is recommended.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2634,
+            "end_offset": 2707,
+            "annotation_id": "DQ_038"
+        },
+        {
+            "decision": "Small ascites within lower abdomen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2714,
+            "end_offset": 2748,
+            "annotation_id": "DQ_039"
+        },
+        {
+            "decision": "Cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2754,
+            "end_offset": 2768,
+            "annotation_id": "DQ_040"
+        },
+        {
+            "decision": "Splenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2774,
+            "end_offset": 2786,
+            "annotation_id": "DQ_041"
+        },
+        {
+            "decision": "TTE [**2131-8-8**]: The left atrium is moderately dilated. The inferior vena cava is dilated (>2.5 cm). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2790,
+            "end_offset": 2891,
+            "annotation_id": "DQ_042"
+        },
+        {
+            "decision": "). Left ventricular wall thicknesses and cavity size are normal. Left ventricular systolic function is normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2894,
+            "end_offset": 3000,
+            "annotation_id": "DQ_043"
+        },
+        {
+            "decision": "The right ventricular cavity is markedly dilated. Right ventricular systolic function appears depressed. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3002,
+            "end_offset": 3206,
+            "annotation_id": "DQ_044"
+        },
+        {
+            "decision": "with right ventricular pressure/volume overload. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3159,
+            "end_offset": 3206,
+            "annotation_id": "DQ_045"
+        },
+        {
+            "decision": "The aortic root is mildly dilated. The ascending aorta is mildly dilated. The aortic valve leaflets are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3208,
+            "end_offset": 3328,
+            "annotation_id": "DQ_046"
+        },
+        {
+            "decision": "Mild (1+) aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3330,
+            "end_offset": 3368,
+            "annotation_id": "DQ_047"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3370,
+            "end_offset": 3414,
+            "annotation_id": "DQ_048"
+        },
+        {
+            "decision": "with mild mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3415,
+            "end_offset": 3445,
+            "annotation_id": "DQ_049"
+        },
+        {
+            "decision": "Moderate to severe [3+] tricuspid regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3447,
+            "end_offset": 3502,
+            "annotation_id": "DQ_050"
+        },
+        {
+            "decision": "There is severe pulmonary artery systolic hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3504,
+            "end_offset": 3558,
+            "annotation_id": "DQ_051"
+        },
+        {
+            "decision": "Significant pulmonic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3560,
+            "end_offset": 3602,
+            "annotation_id": "DQ_052"
+        },
+        {
+            "decision": "There is a trivial/physiologic pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3604,
+            "end_offset": 3655,
+            "annotation_id": "DQ_053"
+        },
+        {
+            "decision": " tricuspid regurgitation is now much more prominent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3725,
+            "end_offset": 3775,
+            "annotation_id": "DQ_054"
+        },
+        {
+            "decision": "Compared with the prior study (images reviewed) of [**2131-3-22**], tricuspid regurgitation is now much more prominent (although views suboptimal in the prior study). The right ventricle was similarly dilated previously (dilitation was underestimated in prior study). Estimated pulmonary artery systolic pressure is now much higher (however may have been underestimated in the prior study).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3657,
+            "end_offset": 4045,
+            "annotation_id": "DQ_055"
+        },
+        {
+            "decision": "CXR [**2131-8-9**]: cardiomegaly and stable moderate pulmonary edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4050,
+            "end_offset": 4118,
+            "annotation_id": "DQ_056"
+        },
+        {
+            "decision": "Possible anterior mediastinal mass vs. unusual LUL atelectasis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4120,
+            "end_offset": 4182,
+            "annotation_id": "DQ_057"
+        },
+        {
+            "decision": "CT CHEST [**2131-8-9**]: Minimal edema.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4187,
+            "end_offset": 4225,
+            "annotation_id": "DQ_058"
+        },
+        {
+            "decision": "Moderately severe emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4228,
+            "end_offset": 4255,
+            "annotation_id": "DQ_059"
+        },
+        {
+            "decision": "Probable pulmonary arterial hypertension, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4257,
+            "end_offset": 4297,
+            "annotation_id": "DQ_060"
+        },
+        {
+            "decision": ", global cardiomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4299,
+            "end_offset": 4318,
+            "annotation_id": "DQ_061"
+        },
+        {
+            "decision": "Tiny right pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4320,
+            "end_offset": 4347,
+            "annotation_id": "DQ_062"
+        },
+        {
+            "decision": "Small-to-moderate volume of ascites. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4350,
+            "end_offset": 4385,
+            "annotation_id": "DQ_063"
+        },
+        {
+            "decision": ".  Severe splenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4388,
+            "end_offset": 4407,
+            "annotation_id": "DQ_064"
+        },
+        {
+            "decision": ".  Calcific cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4410,
+            "end_offset": 4433,
+            "annotation_id": "DQ_065"
+        },
+        {
+            "decision": "BLOOD Digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4862,
+            "end_offset": 4875,
+            "annotation_id": "DQ_066"
+        },
+        {
+            "decision": "BLOOD Digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4905,
+            "end_offset": 4918,
+            "annotation_id": "DQ_067"
+        },
+        {
+            "decision": "h/o CRI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4961,
+            "end_offset": 4968,
+            "annotation_id": "DQ_068"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4970,
+            "end_offset": 4973,
+            "annotation_id": "DQ_069"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4975,
+            "end_offset": 4978,
+            "annotation_id": "DQ_070"
+        },
+        {
+            "decision": "now with ARF with hyperkalemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4980,
+            "end_offset": 5010,
+            "annotation_id": "DQ_071"
+        },
+        {
+            "decision": "dig ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5015,
+            "end_offset": 5018,
+            "annotation_id": "DQ_072"
+        },
+        {
+            "decision": "dig toxicity with bradycardia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5015,
+            "end_offset": 5044,
+            "annotation_id": "DQ_073"
+        },
+        {
+            "decision": "digoxin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5063,
+            "end_offset": 5070,
+            "annotation_id": "DQ_074"
+        },
+        {
+            "decision": "Bradycardia/digoxin toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5051,
+            "end_offset": 5079,
+            "annotation_id": "DQ_075"
+        },
+        {
+            "decision": "AV block from digoxin toxicity ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5198,
+            "end_offset": 5228,
+            "annotation_id": "DQ_076"
+        },
+        {
+            "decision": "EKG showed a heart rate in the low 30's with changes consistent with AV block from digoxin toxicity with fixed, coupled VPC's of different morphologies. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5129,
+            "end_offset": 5280,
+            "annotation_id": "DQ_077"
+        },
+        {
+            "decision": "continued to receive kayexalate and aggressive diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 5286,
+            "end_offset": 5340,
+            "annotation_id": "DQ_078"
+        },
+        {
+            "decision": "potassium level was lowered into our target range of 4.7 - 5.2.  ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 5351,
+            "end_offset": 5413,
+            "annotation_id": "DQ_079"
+        },
+        {
+            "decision": "He remained bradycardic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5416,
+            "end_offset": 5439,
+            "annotation_id": "DQ_080"
+        },
+        {
+            "decision": "non-sustained run of ventricular tachycardia.  His ectopy subsequently progressed to intermittent ventricular bigeminy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5523,
+            "end_offset": 5641,
+            "annotation_id": "DQ_081"
+        },
+        {
+            "decision": "had a heart rate in the 50's with a rhythm consistent with atrial bradycardia and decreased incidence of ectopy.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5672,
+            "end_offset": 5783,
+            "annotation_id": "DQ_082"
+        },
+        {
+            "decision": "His rhythm was evaluated by EP Cardiology consultation, and he was deemed not to be a candidate for a pacer as long as the arrhythmia was considered to be related to a reversible drug toxicity. ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5786,
+            "end_offset": 5978,
+            "annotation_id": "DQ_083"
+        },
+        {
+            "decision": "beta-blocker regimen was discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 5985,
+            "end_offset": 6022,
+            "annotation_id": "DQ_084"
+        },
+        {
+            "decision": "profound bradycardia.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6041,
+            "end_offset": 6061,
+            "annotation_id": "DQ_085"
+        },
+        {
+            "decision": "Digibind was not given to reverse the digitalis toxicity, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6064,
+            "end_offset": 6120,
+            "annotation_id": "DQ_086"
+        },
+        {
+            "decision": "the toxicity was considered to be chronic and the patient remained stable throughout the hospital cours",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6125,
+            "end_offset": 6229,
+            "annotation_id": "DQ_087"
+        },
+        {
+            "decision": "Hyperkalemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6236,
+            "end_offset": 6248,
+            "annotation_id": "DQ_088"
+        },
+        {
+            "decision": ":  We followed his potassium levels serially throughout hospitalization with a goal to keep levels in the range of 4.7-5.2, ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 6251,
+            "end_offset": 6370,
+            "annotation_id": "DQ_089"
+        },
+        {
+            "decision": "was repleted with oral KCL as necessary",
+            "category": "Category 5: Drug related",
+            "start_offset": 6473,
+            "end_offset": 6512,
+            "annotation_id": "DQ_090"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6575,
+            "end_offset": 6578,
+            "annotation_id": "DQ_091"
+        },
+        {
+            "decision": "Creatinine level trended down throughout his hospitalization ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6580,
+            "end_offset": 6640,
+            "annotation_id": "DQ_092"
+        },
+        {
+            "decision": " acute renal failure was likely precipitated by acute on chronic CHF, after his Lasix was discontinued ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6721,
+            "end_offset": 6822,
+            "annotation_id": "DQ_093"
+        },
+        {
+            "decision": "after his Lasix was discontinued ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6790,
+            "end_offset": 6822,
+            "annotation_id": "DQ_094"
+        },
+        {
+            "decision": "Possibly worsening CHF lead to decreased perfusion of kidneys.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6841,
+            "end_offset": 6902,
+            "annotation_id": "DQ_095"
+        },
+        {
+            "decision": "Renal ultrasound showed no hydronephrosis, ruling out post-renal obstruction.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6904,
+            "end_offset": 6980,
+            "annotation_id": "DQ_096"
+        },
+        {
+            "decision": "Urine electrolytes showed prerenal physiology and his urine sediment was bland.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6983,
+            "end_offset": 7061,
+            "annotation_id": "DQ_097"
+        },
+        {
+            "decision": "he underwent aggressive diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 7096,
+            "end_offset": 7128,
+            "annotation_id": "DQ_098"
+        },
+        {
+            "decision": "with a goal of negative 2-3 liters per day",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7129,
+            "end_offset": 7171,
+            "annotation_id": "DQ_099"
+        },
+        {
+            "decision": "Renagel ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7327,
+            "end_offset": 7334,
+            "annotation_id": "DQ_100"
+        },
+        {
+            "decision": "hyperphosphatemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7339,
+            "end_offset": 7356,
+            "annotation_id": "DQ_101"
+        },
+        {
+            "decision": "Hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7422,
+            "end_offset": 7429,
+            "annotation_id": "DQ_102"
+        },
+        {
+            "decision": "pulmonary edema on chest xray, consistent with cor pulmonale, which resolved gradually",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7454,
+            "end_offset": 7540,
+            "annotation_id": "DQ_103"
+        },
+        {
+            "decision": "with diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 7541,
+            "end_offset": 7554,
+            "annotation_id": "DQ_104"
+        },
+        {
+            "decision": "COPD secondary to a long history of tobacco abuse ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7582,
+            "end_offset": 7631,
+            "annotation_id": "DQ_105"
+        },
+        {
+            "decision": "is maintained on 24 hour oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7636,
+            "end_offset": 7667,
+            "annotation_id": "DQ_106"
+        },
+        {
+            "decision": "history of obstructive sleep apnea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7701,
+            "end_offset": 7735,
+            "annotation_id": "DQ_107"
+        },
+        {
+            "decision": "has used BiPap for the past two years (home settings 17,11) which he enjoys and tolerates well.  His overnight requirement on BiPap is 12L ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7740,
+            "end_offset": 7878,
+            "annotation_id": "DQ_108"
+        },
+        {
+            "decision": "most likely due to combined cor pulmonale, COPD, and sleep apnea picture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7879,
+            "end_offset": 7951,
+            "annotation_id": "DQ_109"
+        },
+        {
+            "decision": "for 3L NC O2 during the day and 4L BiPAP 17/11 ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8067,
+            "end_offset": 8113,
+            "annotation_id": "DQ_110"
+        },
+        {
+            "decision": "a goal to maintain SpO2 >85%.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 8119,
+            "end_offset": 8146,
+            "annotation_id": "DQ_111"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8154,
+            "end_offset": 8157,
+            "annotation_id": "DQ_112"
+        },
+        {
+            "decision": "BP remained stable throughout hospitalization",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8159,
+            "end_offset": 8204,
+            "annotation_id": "DQ_113"
+        },
+        {
+            "decision": "bradycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8284,
+            "end_offset": 8295,
+            "annotation_id": "DQ_114"
+        },
+        {
+            "decision": "previous dose of Atenolol 150 mg q day was discontinued in the setting of bradycardia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8211,
+            "end_offset": 8295,
+            "annotation_id": "DQ_115"
+        },
+        {
+            "decision": "underwent aggressive diuresis with Diuril and lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8315,
+            "end_offset": 8366,
+            "annotation_id": "DQ_116"
+        },
+        {
+            "decision": "maintenance regimen of Lasix 80 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8419,
+            "end_offset": 8453,
+            "annotation_id": "DQ_117"
+        },
+        {
+            "decision": "to have his electrolytes check ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8524,
+            "end_offset": 8554,
+            "annotation_id": "DQ_118"
+        },
+        {
+            "decision": "to follow-up with his PCP to have his electrolytes check in the week following discharge",
+            "category": "Category 1: Contact related",
+            "start_offset": 8498,
+            "end_offset": 8586,
+            "annotation_id": "DQ_119"
+        },
+        {
+            "decision": "Instructed to continue a low sodium cardiac diet.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8589,
+            "end_offset": 8637,
+            "annotation_id": "DQ_120"
+        },
+        {
+            "decision": "lasix 80mg [**Hospital1 **] (has been held for last 4 days)",
+            "category": "Category 5: Drug related",
+            "start_offset": 8667,
+            "end_offset": 8725,
+            "annotation_id": "DQ_121"
+        },
+        {
+            "decision": "nasonex 50 mcg/act suspension - one sniff to each nostril daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8730,
+            "end_offset": 8793,
+            "annotation_id": "DQ_122"
+        },
+        {
+            "decision": "flovent 220mcg/act 2 puffs ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8797,
+            "end_offset": 8823,
+            "annotation_id": "DQ_123"
+        },
+        {
+            "decision": "atenolol 150mg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 8844,
+            "end_offset": 8867,
+            "annotation_id": "DQ_124"
+        },
+        {
+            "decision": "digoxin 0.05mg every other day",
+            "category": "Category 5: Drug related",
+            "start_offset": 8871,
+            "end_offset": 8901,
+            "annotation_id": "DQ_125"
+        },
+        {
+            "decision": "spiriva 18mcg caps",
+            "category": "Category 5: Drug related",
+            "start_offset": 8905,
+            "end_offset": 8923,
+            "annotation_id": "DQ_126"
+        },
+        {
+            "decision": "home O2 - 2L at all times",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8927,
+            "end_offset": 8952,
+            "annotation_id": "DQ_127"
+        },
+        {
+            "decision": "ativan 0.5mg po prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8956,
+            "end_offset": 8975,
+            "annotation_id": "DQ_128"
+        },
+        {
+            "decision": "silver centrum MVI",
+            "category": "Category 5: Drug related",
+            "start_offset": 8979,
+            "end_offset": 8997,
+            "annotation_id": "DQ_129"
+        },
+        {
+            "decision": "albtuterol inhaler prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9001,
+            "end_offset": 9023,
+            "annotation_id": "DQ_130"
+        },
+        {
+            "decision": "iron 1 pill/day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9028,
+            "end_offset": 9043,
+            "annotation_id": "DQ_131"
+        },
+        {
+            "decision": "Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day). Disp:*1 bottle* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9071,
+            "end_offset": 9199,
+            "annotation_id": "DQ_132"
+        },
+        {
+            "decision": "Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9203,
+            "end_offset": 9302,
+            "annotation_id": "DQ_133"
+        },
+        {
+            "decision": "Nasonex 50 mcg/Actuation Spray, Non-Aerosol Sig: Two (2) sprays per nostil Nasal once a day. Disp:*1 bottle* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9306,
+            "end_offset": 9426,
+            "annotation_id": "DQ_134"
+        },
+        {
+            "decision": "Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation every four (4) hours. Disp:*1 MDI* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9430,
+            "end_offset": 9541,
+            "annotation_id": "DQ_135"
+        },
+        {
+            "decision": "Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation four times a day. Disp:*1 inhaler* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9545,
+            "end_offset": 9666,
+            "annotation_id": "DQ_136"
+        },
+        {
+            "decision": "Digoxin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9722,
+            "end_offset": 9729,
+            "annotation_id": "DQ_137"
+        },
+        {
+            "decision": "Digoxin toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9722,
+            "end_offset": 9738,
+            "annotation_id": "DQ_138"
+        },
+        {
+            "decision": "Hyperkalemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9742,
+            "end_offset": 9754,
+            "annotation_id": "DQ_139"
+        },
+        {
+            "decision": "Bradycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9758,
+            "end_offset": 9769,
+            "annotation_id": "DQ_140"
+        },
+        {
+            "decision": "Heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9773,
+            "end_offset": 9786,
+            "annotation_id": "DQ_141"
+        },
+        {
+            "decision": "Pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9790,
+            "end_offset": 9812,
+            "annotation_id": "DQ_142"
+        },
+        {
+            "decision": "Cor pulmonale",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9816,
+            "end_offset": 9829,
+            "annotation_id": "DQ_143"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9833,
+            "end_offset": 9837,
+            "annotation_id": "DQ_144"
+        },
+        {
+            "decision": "Obstructive sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9841,
+            "end_offset": 9864,
+            "annotation_id": "DQ_145"
+        },
+        {
+            "decision": "Obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9868,
+            "end_offset": 9875,
+            "annotation_id": "DQ_146"
+        },
+        {
+            "decision": "Discharge Condition: Fair.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9878,
+            "end_offset": 9903,
+            "annotation_id": "DQ_147"
+        },
+        {
+            "decision": "You will need to remain on home oxygen for your chronic lung disease 24 hours per day..  You should aim to keep your oxygenation level at least above 85%.  In the hospital, you have required 3L nasal cannula oxygen and 4L on BiPap.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9934,
+            "end_offset": 10164,
+            "annotation_id": "DQ_148"
+        },
+        {
+            "decision": "Your digoxin has been discontinued due to the toxic levels in your body.  You should never restart this medication without consulting a cardiologist.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10171,
+            "end_offset": 10319,
+            "annotation_id": "DQ_149"
+        },
+        {
+            "decision": "You should never restart this medication without consulting a cardiologist.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10245,
+            "end_offset": 10319,
+            "annotation_id": "DQ_150"
+        },
+        {
+            "decision": " discontinued the Atenolol you were on for your blood pressure.  This medication is called a beta-blocker and functions to slow the heart rate",
+            "category": "Category 5: Drug related",
+            "start_offset": 10335,
+            "end_offset": 10476,
+            "annotation_id": "DQ_151"
+        },
+        {
+            "decision": "heart rate is already too slow in the setting of the digoxin toxicity, and this could be further complicated by the Atenolol.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10484,
+            "end_offset": 10608,
+            "annotation_id": "DQ_152"
+        },
+        {
+            "decision": "You should return to ER if you have worsening shortness of breath, chest pain, palpitations, or dizziness.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10615,
+            "end_offset": 10720,
+            "annotation_id": "DQ_153"
+        },
+        {
+            "decision": "You should follow-up with your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 4922**], next week following your discharge.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10746,
+            "end_offset": 10880,
+            "annotation_id": "DQ_154"
+        },
+        {
+            "decision": "You will need to have your electrolytes and kidney function checked.   ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10883,
+            "end_offset": 10950,
+            "annotation_id": "DQ_155"
+        },
+        {
+            "decision": "You need to be seen by a Pulmonology specialist.  You should call to set up this appointment on Monday following your discharge.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10986,
+            "end_offset": 11113,
+            "annotation_id": "DQ_156"
+        },
+        {
+            "decision": "You should ask your new pulmonologist to consider a CTA of your chest in the setting of high pulmonary artery pressure to rule out chronic pulmonary emboli as a cause.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11204,
+            "end_offset": 11370,
+            "annotation_id": "DQ_157"
+        }
+    ]
+}

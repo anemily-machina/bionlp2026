@@ -1,0 +1,1112 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "22581_126305_11198",
+    "annotations": [
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 274,
+            "end_offset": 295,
+            "annotation_id": "GK_000"
+        },
+        {
+            "decision": "Lumbar puncture",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 335,
+            "end_offset": 350,
+            "annotation_id": "GK_001"
+        },
+        {
+            "decision": "Left subclavian central line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 351,
+            "end_offset": 389,
+            "annotation_id": "GK_002"
+        },
+        {
+            "decision": "h/o Lymphoma dx 2 yrs ago ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 428,
+            "end_offset": 453,
+            "annotation_id": "GK_003"
+        },
+        {
+            "decision": "s/p splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 454,
+            "end_offset": 469,
+            "annotation_id": "GK_004"
+        },
+        {
+            "decision": "recent CVA [**12-5**], DM, HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 471,
+            "end_offset": 501,
+            "annotation_id": "GK_005"
+        },
+        {
+            "decision": "change in mental status x 2 days, rigors, and weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 576,
+            "end_offset": 630,
+            "annotation_id": "GK_006"
+        },
+        {
+            "decision": "Repeat CXR was read as \"bibasilar airspace dz, no CHF.\"",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1193,
+            "end_offset": 1246,
+            "annotation_id": "GK_007"
+        },
+        {
+            "decision": "Flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1249,
+            "end_offset": 1255,
+            "annotation_id": "GK_008"
+        },
+        {
+            "decision": "aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1279,
+            "end_offset": 1289,
+            "annotation_id": "GK_009"
+        },
+        {
+            "decision": "Blood cultures collected in the ED grew strep pneumo.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1291,
+            "end_offset": 1343,
+            "annotation_id": "GK_010"
+        },
+        {
+            "decision": "Vanc ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1345,
+            "end_offset": 1349,
+            "annotation_id": "GK_011"
+        },
+        {
+            "decision": "azithro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1364,
+            "end_offset": 1371,
+            "annotation_id": "GK_012"
+        },
+        {
+            "decision": "mental status worsened and pt become unresponsive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1379,
+            "end_offset": 1428,
+            "annotation_id": "GK_013"
+        },
+        {
+            "decision": "MRI was negative for new infarct",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1430,
+            "end_offset": 1462,
+            "annotation_id": "GK_014"
+        },
+        {
+            "decision": "LP was attempted on [**6-11**] unsuccessfully due to body habitus",
+            "category": "Category 8: Deferment",
+            "start_offset": 1464,
+            "end_offset": 1529,
+            "annotation_id": "GK_015"
+        },
+        {
+            "decision": "Leukopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1557,
+            "end_offset": 1567,
+            "annotation_id": "GK_016"
+        },
+        {
+            "decision": "Splenic Marginal Zone Lymphoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1571,
+            "end_offset": 1601,
+            "annotation_id": "GK_017"
+        },
+        {
+            "decision": "s/p splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1603,
+            "end_offset": 1618,
+            "annotation_id": "GK_018"
+        },
+        {
+            "decision": "he developed a cough, and then in [**12-2**] when he developed dyspnea and weight loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1658,
+            "end_offset": 1744,
+            "annotation_id": "GK_019"
+        },
+        {
+            "decision": "A pleural effusion was found and drained.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1746,
+            "end_offset": 1786,
+            "annotation_id": "GK_020"
+        },
+        {
+            "decision": "Pathology showed malignant cells consistent with B-cell clonal lymphoproliferative disorder",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1789,
+            "end_offset": 1880,
+            "annotation_id": "GK_021"
+        },
+        {
+            "decision": "CT showed splenomegaly;",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1882,
+            "end_offset": 1904,
+            "annotation_id": "GK_022"
+        },
+        {
+            "decision": "bone scan apparently showed diffuse uptake in sternum, pelvis and lumbar vertebral bodies, suggestive of diffuse bone marrow involvement",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1906,
+            "end_offset": 2042,
+            "annotation_id": "GK_023"
+        },
+        {
+            "decision": "splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2062,
+            "end_offset": 2073,
+            "annotation_id": "GK_024"
+        },
+        {
+            "decision": "marginal zone lymphoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2113,
+            "end_offset": 2135,
+            "annotation_id": "GK_025"
+        },
+        {
+            "decision": "He has elected for no further treatment after discussion with primary oncologist Dr. [**Last Name (STitle) 28049**] at [**Hospital3 328**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 2137,
+            "end_offset": 2275,
+            "annotation_id": "GK_026"
+        },
+        {
+            "decision": "Abnormal/lymphoma cells comprise 65% of total gated events",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2304,
+            "end_offset": 2362,
+            "annotation_id": "GK_027"
+        },
+        {
+            "decision": "B cells demonstrate a monoclonal kappa light chain restricted population",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2364,
+            "end_offset": 2436,
+            "annotation_id": "GK_028"
+        },
+        {
+            "decision": "They co-express pan-B markers CD19, 20, 22 along with FMC7.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2438,
+            "end_offset": 2496,
+            "annotation_id": "GK_029"
+        },
+        {
+            "decision": "A subset of cells appear to express CD23",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2498,
+            "end_offset": 2538,
+            "annotation_id": "GK_030"
+        },
+        {
+            "decision": "CVA [**12-5**] likely watershed infarct from hypotension during sepsis of unclear source",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2620,
+            "end_offset": 2708,
+            "annotation_id": "GK_031"
+        },
+        {
+            "decision": "TTE neg, Carotid U/S neg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2711,
+            "end_offset": 2735,
+            "annotation_id": "GK_032"
+        },
+        {
+            "decision": "DM II",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2740,
+            "end_offset": 2745,
+            "annotation_id": "GK_033"
+        },
+        {
+            "decision": "insulin requiring",
+            "category": "Category 5: Drug related",
+            "start_offset": 2747,
+            "end_offset": 2764,
+            "annotation_id": "GK_034"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2768,
+            "end_offset": 2771,
+            "annotation_id": "GK_035"
+        },
+        {
+            "decision": "CRI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2775,
+            "end_offset": 2778,
+            "annotation_id": "GK_036"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2782,
+            "end_offset": 2786,
+            "annotation_id": "GK_037"
+        },
+        {
+            "decision": "anticardiolipin Ab",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2790,
+            "end_offset": 2808,
+            "annotation_id": "GK_038"
+        },
+        {
+            "decision": "ill appearing, sedated, not arousable to voice",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3151,
+            "end_offset": 3197,
+            "annotation_id": "GK_039"
+        },
+        {
+            "decision": "sclera non-icteric. PERRLA. membranes dry",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3205,
+            "end_offset": 3246,
+            "annotation_id": "GK_040"
+        },
+        {
+            "decision": "stiff",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3253,
+            "end_offset": 3258,
+            "annotation_id": "GK_041"
+        },
+        {
+            "decision": "decreased BS b/l bases with crackles at RLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3265,
+            "end_offset": 3308,
+            "annotation_id": "GK_042"
+        },
+        {
+            "decision": "RRR. normal S1/S2. no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3313,
+            "end_offset": 3340,
+            "annotation_id": "GK_043"
+        },
+        {
+            "decision": "Soft, NT/ND. well-healed mid-epigastric scar",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3346,
+            "end_offset": 3390,
+            "annotation_id": "GK_044"
+        },
+        {
+            "decision": "No C/C/E. L knee tenderness to palpation w/ effusion. no erythema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3396,
+            "end_offset": 3461,
+            "annotation_id": "GK_045"
+        },
+        {
+            "decision": "withdrawsgrimaces to painful stimuli. non-communicative. no spontaneous motor movements. L arm flexed. down-going toes b/l.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3469,
+            "end_offset": 3591,
+            "annotation_id": "GK_046"
+        },
+        {
+            "decision": "JOINT FLUID Crystal-NONE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4242,
+            "end_offset": 4266,
+            "annotation_id": "GK_047"
+        },
+        {
+            "decision": "JOINT FLUID Crystal-NONE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4291,
+            "end_offset": 4315,
+            "annotation_id": "GK_048"
+        },
+        {
+            "decision": "OTHER BODY FLUID CD45-DONE Kappa-DONE CD19-DONE Lamba-DONE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4340,
+            "end_offset": 4398,
+            "annotation_id": "GK_049"
+        },
+        {
+            "decision": "HEAD MRI ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4400,
+            "end_offset": 4408,
+            "annotation_id": "GK_050"
+        },
+        {
+            "decision": "Several foci of increased T1 signal abnormality within the cerebellum and right frontal lobe, which likely represents sequelae from old ischemia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4428,
+            "end_offset": 4572,
+            "annotation_id": "GK_051"
+        },
+        {
+            "decision": "No acute ischemia is identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4574,
+            "end_offset": 4605,
+            "annotation_id": "GK_052"
+        },
+        {
+            "decision": "There is no meningeal enhancement or focal abscesses identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4607,
+            "end_offset": 4670,
+            "annotation_id": "GK_053"
+        },
+        {
+            "decision": "ABDOMEN/PELVIS CT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4673,
+            "end_offset": 4690,
+            "annotation_id": "GK_054"
+        },
+        {
+            "decision": "Small-bowel obstruction with dilated, edematous proximal small bowel loops",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4713,
+            "end_offset": 4787,
+            "annotation_id": "GK_055"
+        },
+        {
+            "decision": "Distal small bowel and colon are collapsed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4789,
+            "end_offset": 4831,
+            "annotation_id": "GK_056"
+        },
+        {
+            "decision": "Transition point is probably in the right lower quadrant",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4833,
+            "end_offset": 4889,
+            "annotation_id": "GK_057"
+        },
+        {
+            "decision": "This was discussed with Dr. [**Last Name (STitle) 9768**] in person at approximately 5 o'clock a.m., [**2200-6-24**]. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4891,
+            "end_offset": 5007,
+            "annotation_id": "GK_058"
+        },
+        {
+            "decision": "Bilateral pleural effusions, right greater than left, with compressive atelectasis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5013,
+            "end_offset": 5095,
+            "annotation_id": "GK_059"
+        },
+        {
+            "decision": "the patient had an LP that showed 600 WBC and 60% polys",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5159,
+            "end_offset": 5214,
+            "annotation_id": "GK_060"
+        },
+        {
+            "decision": "dexamethasone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5259,
+            "end_offset": 5272,
+            "annotation_id": "GK_061"
+        },
+        {
+            "decision": "presumed pneumococcal meningitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5277,
+            "end_offset": 5309,
+            "annotation_id": "GK_062"
+        },
+        {
+            "decision": "The patient was also noted to have swelling of his knees R > L.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5311,
+            "end_offset": 5373,
+            "annotation_id": "GK_063"
+        },
+        {
+            "decision": "suspicion for septic joints ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5382,
+            "end_offset": 5409,
+            "annotation_id": "GK_064"
+        },
+        {
+            "decision": "arthrocentesis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5436,
+            "end_offset": 5450,
+            "annotation_id": "GK_065"
+        },
+        {
+            "decision": "septic arthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5482,
+            "end_offset": 5498,
+            "annotation_id": "GK_066"
+        },
+        {
+            "decision": "The patient's strep pneumo was found to be pan-sensitive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5500,
+            "end_offset": 5556,
+            "annotation_id": "GK_067"
+        },
+        {
+            "decision": "ceftriaxone for a 14 day course",
+            "category": "Category 5: Drug related",
+            "start_offset": 5612,
+            "end_offset": 5643,
+            "annotation_id": "GK_068"
+        },
+        {
+            "decision": "the patient was transferred to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 5658,
+            "end_offset": 5698,
+            "annotation_id": "GK_069"
+        },
+        {
+            "decision": "MRI head ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5703,
+            "end_offset": 5711,
+            "annotation_id": "GK_070"
+        },
+        {
+            "decision": "lethargy and slow movement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5744,
+            "end_offset": 5770,
+            "annotation_id": "GK_071"
+        },
+        {
+            "decision": "The study showed evidence of old emboli but no acute changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5772,
+            "end_offset": 5832,
+            "annotation_id": "GK_072"
+        },
+        {
+            "decision": "The patients mental status improved and he eventually passed a video swallow to transition from TF to po thin liquids and ground solids.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5834,
+            "end_offset": 5969,
+            "annotation_id": "GK_073"
+        },
+        {
+            "decision": "ENT consult ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5982,
+            "end_offset": 5993,
+            "annotation_id": "GK_074"
+        },
+        {
+            "decision": "ENT saw evidence of bowing of the cords w/ phonation as well as evidence of larygopharyngeal reflux",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6087,
+            "end_offset": 6186,
+            "annotation_id": "GK_075"
+        },
+        {
+            "decision": "PPI",
+            "category": "Category 5: Drug related",
+            "start_offset": 6208,
+            "end_offset": 6211,
+            "annotation_id": "GK_076"
+        },
+        {
+            "decision": "PICC line placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6242,
+            "end_offset": 6258,
+            "annotation_id": "GK_077"
+        },
+        {
+            "decision": "His urine also grew enterococcus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6268,
+            "end_offset": 6300,
+            "annotation_id": "GK_078"
+        },
+        {
+            "decision": "the patient spiked a fever to 100.8. [**6-23**] pt spiked a fever to 100.1 and also had three bouts of emesis after eating lunch.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6313,
+            "end_offset": 6441,
+            "annotation_id": "GK_079"
+        },
+        {
+            "decision": "Abd plain film showed dilated loops of bowel",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6443,
+            "end_offset": 6487,
+            "annotation_id": "GK_080"
+        },
+        {
+            "decision": "CT abd showed SBO vs. partial SBO",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6489,
+            "end_offset": 6522,
+            "annotation_id": "GK_081"
+        },
+        {
+            "decision": "Surgery consult was called ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6524,
+            "end_offset": 6550,
+            "annotation_id": "GK_082"
+        },
+        {
+            "decision": "NGT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6584,
+            "end_offset": 6587,
+            "annotation_id": "GK_083"
+        },
+        {
+            "decision": "transferred to the [**Hospital Ward Name **] ",
+            "category": "Category 11: Other",
+            "start_offset": 6647,
+            "end_offset": 6691,
+            "annotation_id": "GK_084"
+        },
+        {
+            "decision": "ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6795,
+            "end_offset": 6806,
+            "annotation_id": "GK_085"
+        },
+        {
+            "decision": "pneumococcal meningitis/bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6811,
+            "end_offset": 6845,
+            "annotation_id": "GK_086"
+        },
+        {
+            "decision": "remained NPO for ~ 3 days and was fed via TPN",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6893,
+            "end_offset": 6938,
+            "annotation_id": "GK_087"
+        },
+        {
+            "decision": "He eventually began to pass gas and stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6941,
+            "end_offset": 6982,
+            "annotation_id": "GK_088"
+        },
+        {
+            "decision": "He diet was slowly advanced and eventually the patient was tolerating po's well ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6985,
+            "end_offset": 7064,
+            "annotation_id": "GK_089"
+        },
+        {
+            "decision": "was taking good po and having good bowel movement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7112,
+            "end_offset": 7161,
+            "annotation_id": "GK_090"
+        },
+        {
+            "decision": "pneumovax ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7191,
+            "end_offset": 7200,
+            "annotation_id": "GK_091"
+        },
+        {
+            "decision": "bootster shot which was admisistered on [**6-17**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 7289,
+            "end_offset": 7339,
+            "annotation_id": "GK_092"
+        },
+        {
+            "decision": "L knee pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7345,
+            "end_offset": 7356,
+            "annotation_id": "GK_093"
+        },
+        {
+            "decision": "Felt to be secondary to trauma of the left knee",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7358,
+            "end_offset": 7405,
+            "annotation_id": "GK_094"
+        },
+        {
+            "decision": "Arthrocentesis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7407,
+            "end_offset": 7421,
+            "annotation_id": "GK_095"
+        },
+        {
+            "decision": "inflammatory joint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7438,
+            "end_offset": 7456,
+            "annotation_id": "GK_096"
+        },
+        {
+            "decision": "No evidence of septic joint or crystal deposition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7458,
+            "end_offset": 7507,
+            "annotation_id": "GK_097"
+        },
+        {
+            "decision": "Plain film negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7509,
+            "end_offset": 7528,
+            "annotation_id": "GK_098"
+        },
+        {
+            "decision": "Pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7530,
+            "end_offset": 7534,
+            "annotation_id": "GK_099"
+        },
+        {
+            "decision": "tylenol prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 7555,
+            "end_offset": 7566,
+            "annotation_id": "GK_100"
+        },
+        {
+            "decision": "L arm weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7572,
+            "end_offset": 7586,
+            "annotation_id": "GK_101"
+        },
+        {
+            "decision": "physical therapy for continued rehabilitation. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7641,
+            "end_offset": 7686,
+            "annotation_id": "GK_102"
+        },
+        {
+            "decision": "Anemia and hyperbilirubinemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7692,
+            "end_offset": 7721,
+            "annotation_id": "GK_103"
+        },
+        {
+            "decision": "however T bili was down-trending and hapto/LDH were within normal limits suggesting against ongoing hemolysis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7783,
+            "end_offset": 7892,
+            "annotation_id": "GK_104"
+        },
+        {
+            "decision": "Direct coombs was also negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7894,
+            "end_offset": 7925,
+            "annotation_id": "GK_105"
+        },
+        {
+            "decision": "He was transfused 2 units pRBCs with subsequently stable hct",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7927,
+            "end_offset": 7987,
+            "annotation_id": "GK_106"
+        },
+        {
+            "decision": "Iron studies were consistent with AOCD + retic count low suggestive of hypoproliferative state (likely secondary to underlying MZL).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7989,
+            "end_offset": 8119,
+            "annotation_id": "GK_107"
+        },
+        {
+            "decision": "splenic MZL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8169,
+            "end_offset": 8180,
+            "annotation_id": "GK_108"
+        },
+        {
+            "decision": "s/p splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8182,
+            "end_offset": 8197,
+            "annotation_id": "GK_109"
+        },
+        {
+            "decision": "Previously followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 28049**] at [**Hospital3 328**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8199,
+            "end_offset": 8319,
+            "annotation_id": "GK_110"
+        },
+        {
+            "decision": "splenectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8406,
+            "end_offset": 8417,
+            "annotation_id": "GK_111"
+        },
+        {
+            "decision": "His coags were persistently elevated consistent with his history of IgM antiphospholipid antibody",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8449,
+            "end_offset": 8546,
+            "annotation_id": "GK_112"
+        },
+        {
+            "decision": "heparin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8563,
+            "end_offset": 8570,
+            "annotation_id": "GK_113"
+        },
+        {
+            "decision": "DVT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8571,
+            "end_offset": 8574,
+            "annotation_id": "GK_114"
+        },
+        {
+            "decision": "DMII",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8592,
+            "end_offset": 8596,
+            "annotation_id": "GK_115"
+        },
+        {
+            "decision": "Insulin gtt ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8608,
+            "end_offset": 8619,
+            "annotation_id": "GK_116"
+        },
+        {
+            "decision": "TF's/Dex",
+            "category": "Category 5: Drug related",
+            "start_offset": 8629,
+            "end_offset": 8637,
+            "annotation_id": "GK_117"
+        },
+        {
+            "decision": "NPH 40qam/15 qhs ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8650,
+            "end_offset": 8666,
+            "annotation_id": "GK_118"
+        },
+        {
+            "decision": "glycemic control ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8671,
+            "end_offset": 8687,
+            "annotation_id": "GK_119"
+        },
+        {
+            "decision": "15 U NPH qam/qpm ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8722,
+            "end_offset": 8738,
+            "annotation_id": "GK_120"
+        },
+        {
+            "decision": "dobhoff tube was placed at bedside and he was started on tubefeeds",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8813,
+            "end_offset": 8879,
+            "annotation_id": "GK_121"
+        },
+        {
+            "decision": "He had a persistently hoarse voice and was evaluated by ENT who felt that he had some reflux",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8946,
+            "end_offset": 9038,
+            "annotation_id": "GK_122"
+        },
+        {
+            "decision": "protonix",
+            "category": "Category 5: Drug related",
+            "start_offset": 9061,
+            "end_offset": 9069,
+            "annotation_id": "GK_123"
+        },
+        {
+            "decision": "vancomycin 1g IV Q12",
+            "category": "Category 5: Drug related",
+            "start_offset": 9116,
+            "end_offset": 9136,
+            "annotation_id": "GK_124"
+        },
+        {
+            "decision": "ceftriaxone 2g IV Q12",
+            "category": "Category 5: Drug related",
+            "start_offset": 9137,
+            "end_offset": 9158,
+            "annotation_id": "GK_125"
+        },
+        {
+            "decision": "Flagyl 500mg IV Q8H",
+            "category": "Category 5: Drug related",
+            "start_offset": 9159,
+            "end_offset": 9178,
+            "annotation_id": "GK_126"
+        },
+        {
+            "decision": "NPH 15 units SC bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 9179,
+            "end_offset": 9198,
+            "annotation_id": "GK_127"
+        },
+        {
+            "decision": "Hep 5000 SC TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 9199,
+            "end_offset": 9214,
+            "annotation_id": "GK_128"
+        },
+        {
+            "decision": "Protonix 40 mg po QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 9215,
+            "end_offset": 9235,
+            "annotation_id": "GK_129"
+        },
+        {
+            "decision": "Lopressor 50mg po BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 9236,
+            "end_offset": 9257,
+            "annotation_id": "GK_130"
+        },
+        {
+            "decision": "Trazadone 50mg po qHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 9258,
+            "end_offset": 9279,
+            "annotation_id": "GK_131"
+        },
+        {
+            "decision": "MVI one tab po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9280,
+            "end_offset": 9300,
+            "annotation_id": "GK_132"
+        },
+        {
+            "decision": "Baclofen 20mg po TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 9301,
+            "end_offset": 9321,
+            "annotation_id": "GK_133"
+        },
+        {
+            "decision": "Albuterol nebs prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9322,
+            "end_offset": 9340,
+            "annotation_id": "GK_134"
+        },
+        {
+            "decision": "Atrovent nebs prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9341,
+            "end_offset": 9358,
+            "annotation_id": "GK_135"
+        },
+        {
+            "decision": "Tylenol prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9359,
+            "end_offset": 9370,
+            "annotation_id": "GK_136"
+        },
+        {
+            "decision": "RISS",
+            "category": "Category 5: Drug related",
+            "start_offset": 9371,
+            "end_offset": 9375,
+            "annotation_id": "GK_137"
+        },
+        {
+            "decision": "Abreva 10 % Cream Sig: One (1)  Topical  5 times/day () as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9403,
+            "end_offset": 9468,
+            "annotation_id": "GK_138"
+        },
+        {
+            "decision": "Insulin Regular Human 100 unit/mL Solution Sig: per sliding scale  Injection ASDIR (AS DIRECTED).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9473,
+            "end_offset": 9568,
+            "annotation_id": "GK_139"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9574,
+            "end_offset": 9648,
+            "annotation_id": "GK_140"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9654,
+            "end_offset": 9712,
+            "annotation_id": "GK_141"
+        },
+        {
+            "decision": "Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9719,
+            "end_offset": 9843,
+            "annotation_id": "GK_142"
+        },
+        {
+            "decision": "[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 9897,
+            "end_offset": 9949,
+            "annotation_id": "GK_143"
+        },
+        {
+            "decision": "pneumococcal meningitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9972,
+            "end_offset": 9995,
+            "annotation_id": "GK_144"
+        },
+        {
+            "decision": "hypretension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9996,
+            "end_offset": 10008,
+            "annotation_id": "GK_145"
+        },
+        {
+            "decision": "left knee arthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10009,
+            "end_offset": 10028,
+            "annotation_id": "GK_146"
+        },
+        {
+            "decision": "anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10029,
+            "end_offset": 10035,
+            "annotation_id": "GK_147"
+        },
+        {
+            "decision": "status post tranfusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10036,
+            "end_offset": 10058,
+            "annotation_id": "GK_148"
+        },
+        {
+            "decision": "postitive anticardiolipin antibody",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10059,
+            "end_offset": 10093,
+            "annotation_id": "GK_149"
+        },
+        {
+            "decision": "type 2 diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10094,
+            "end_offset": 10118,
+            "annotation_id": "GK_150"
+        },
+        {
+            "decision": "impaired swallow reflex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10119,
+            "end_offset": 10142,
+            "annotation_id": "GK_151"
+        },
+        {
+            "decision": "patient was speaking softly, oriented x 3, afebrile and improving daily",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10166,
+            "end_offset": 10237,
+            "annotation_id": "GK_152"
+        },
+        {
+            "decision": "Please continue all medications as outlined below",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10263,
+            "end_offset": 10312,
+            "annotation_id": "GK_153"
+        },
+        {
+            "decision": "If you have changes in mental status, fever, chills, neck stiffness, or other concerns, please return to the ED or call your PCP.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10315,
+            "end_offset": 10443,
+            "annotation_id": "GK_154"
+        },
+        {
+            "decision": "With Dr. [**Last Name (STitle) **],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 15825**] in [**2-2**] weeks",
+            "category": "Category 1: Contact related",
+            "start_offset": 10469,
+            "end_offset": 10618,
+            "annotation_id": "GK_155"
+        },
+        {
+            "decision": "Dr. [**First Name (STitle) **] [**Doctor Last Name 36022**] Disease at [**Hospital1 18**] -([**Telephone/Fax (1) 10**]-[**2200-7-7**] at 10:30AM",
+            "category": "Category 1: Contact related",
+            "start_offset": 10620,
+            "end_offset": 10764,
+            "annotation_id": "GK_156"
+        },
+        {
+            "decision": "Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]- ENT-[**Telephone/Fax (1) 41**]-[**2200-7-10**]- 3:15 PM",
+            "category": "Category 1: Contact related",
+            "start_offset": 10766,
+            "end_offset": 10892,
+            "annotation_id": "GK_157"
+        }
+    ]
+}

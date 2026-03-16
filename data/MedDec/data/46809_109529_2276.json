@@ -1,0 +1,1224 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "46809_109529_2276",
+    "annotations": [
+        {
+            "decision": "anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 252,
+            "end_offset": 258,
+            "annotation_id": "LX_000"
+        },
+        {
+            "decision": "EGD [**2-9**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 300,
+            "end_offset": 313,
+            "annotation_id": "LX_001"
+        },
+        {
+            "decision": "EGD [**2-13**] with APC of GAVE tissue",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 316,
+            "end_offset": 354,
+            "annotation_id": "LX_002"
+        },
+        {
+            "decision": "w/ hx of CAD s/p MI, chronic cardiomyopathy (EF 30% IN [**2167**]), afib (on warfarin), vtach (s/p pacer/ICD), HTN and DMII presenting after a CBC blood draw by clinic that demonstrated a precipitous drop (last in 9/[**2164**]).  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 402,
+            "end_offset": 628,
+            "annotation_id": "LX_003"
+        },
+        {
+            "decision": "He was advised to come to walk-in today by the on call doctor",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 896,
+            "end_offset": 957,
+            "annotation_id": "LX_004"
+        },
+        {
+            "decision": "NG lavage ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1482,
+            "end_offset": 1491,
+            "annotation_id": "LX_005"
+        },
+        {
+            "decision": "Rectal exam demonstrated brown, guaiac negative stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1528,
+            "end_offset": 1581,
+            "annotation_id": "LX_006"
+        },
+        {
+            "decision": "GI was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1583,
+            "end_offset": 1599,
+            "annotation_id": "LX_007"
+        },
+        {
+            "decision": "protonix bolus + gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 1641,
+            "end_offset": 1661,
+            "annotation_id": "LX_008"
+        },
+        {
+            "decision": "Vitamin K 10 mg IV once",
+            "category": "Category 5: Drug related",
+            "start_offset": 1672,
+            "end_offset": 1695,
+            "annotation_id": "LX_009"
+        },
+        {
+            "decision": "afebrile 82  15  124/77 100% 2L",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1857,
+            "end_offset": 1888,
+            "annotation_id": "LX_010"
+        },
+        {
+            "decision": "Patient in no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1890,
+            "end_offset": 1918,
+            "annotation_id": "LX_011"
+        },
+        {
+            "decision": "Communicating clearly and coherently.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1921,
+            "end_offset": 1957,
+            "annotation_id": "LX_012"
+        },
+        {
+            "decision": "(-) Denies fever, chills, night sweats, recent weight loss or gain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1996,
+            "end_offset": 2058,
+            "annotation_id": "LX_013"
+        },
+        {
+            "decision": "Denies headache, sinus tenderness, rhinorrhea or congestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2060,
+            "end_offset": 2119,
+            "annotation_id": "LX_014"
+        },
+        {
+            "decision": "Denies cough, or wheezing. Denies chest pain, chest pressure, palpitations, or weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2121,
+            "end_offset": 2208,
+            "annotation_id": "LX_015"
+        },
+        {
+            "decision": "Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2210,
+            "end_offset": 2301,
+            "annotation_id": "LX_016"
+        },
+        {
+            "decision": "Denies dysuria, frequency, or urgency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2303,
+            "end_offset": 2340,
+            "annotation_id": "LX_017"
+        },
+        {
+            "decision": "Denies arthralgias or myalgias",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2342,
+            "end_offset": 2372,
+            "annotation_id": "LX_018"
+        },
+        {
+            "decision": "Denies rashes or skin changes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2374,
+            "end_offset": 2403,
+            "annotation_id": "LX_019"
+        },
+        {
+            "decision": "Myocardial infarction, coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2432,
+            "end_offset": 2478,
+            "annotation_id": "LX_020"
+        },
+        {
+            "decision": "Chronic cardiomyopathy with LVEF of 30%.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2484,
+            "end_offset": 2522,
+            "annotation_id": "LX_021"
+        },
+        {
+            "decision": "Moderate mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2529,
+            "end_offset": 2558,
+            "annotation_id": "LX_022"
+        },
+        {
+            "decision": "Atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2564,
+            "end_offset": 2583,
+            "annotation_id": "LX_023"
+        },
+        {
+            "decision": "warfarin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2588,
+            "end_offset": 2596,
+            "annotation_id": "LX_024"
+        },
+        {
+            "decision": "Nonsustained VT, status post ICD -- last device interrogation [**11/2169**], w/ e/o atrial tachycardia up to atrial rate of 300",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2602,
+            "end_offset": 2729,
+            "annotation_id": "LX_025"
+        },
+        {
+            "decision": "Atrial tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2734,
+            "end_offset": 2752,
+            "annotation_id": "LX_026"
+        },
+        {
+            "decision": "Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2758,
+            "end_offset": 2766,
+            "annotation_id": "LX_027"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2772,
+            "end_offset": 2784,
+            "annotation_id": "LX_028"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2790,
+            "end_offset": 2794,
+            "annotation_id": "LX_029"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2801,
+            "end_offset": 2815,
+            "annotation_id": "LX_030"
+        },
+        {
+            "decision": "Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2822,
+            "end_offset": 2829,
+            "annotation_id": "LX_031"
+        },
+        {
+            "decision": "afebrile 82  15  124/77  100% 2L",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3123,
+            "end_offset": 3155,
+            "annotation_id": "LX_032"
+        },
+        {
+            "decision": "Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3165,
+            "end_offset": 3199,
+            "annotation_id": "LX_033"
+        },
+        {
+            "decision": "Sclera anicteric, MMM, oropharynx clear  (Mallampati 2)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3207,
+            "end_offset": 3261,
+            "annotation_id": "LX_034"
+        },
+        {
+            "decision": "supple, JVP 7cm H2O, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3269,
+            "end_offset": 3296,
+            "annotation_id": "LX_035"
+        },
+        {
+            "decision": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3304,
+            "end_offset": 3365,
+            "annotation_id": "LX_036"
+        },
+        {
+            "decision": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3370,
+            "end_offset": 3436,
+            "annotation_id": "LX_037"
+        },
+        {
+            "decision": "soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3446,
+            "end_offset": 3551,
+            "annotation_id": "LX_038"
+        },
+        {
+            "decision": "no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3556,
+            "end_offset": 3564,
+            "annotation_id": "LX_039"
+        },
+        {
+            "decision": "warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3570,
+            "end_offset": 3632,
+            "annotation_id": "LX_040"
+        },
+        {
+            "decision": "Alert, oriented, no acute distress, pale",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3702,
+            "end_offset": 3742,
+            "annotation_id": "LX_041"
+        },
+        {
+            "decision": "Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3750,
+            "end_offset": 3789,
+            "annotation_id": "LX_042"
+        },
+        {
+            "decision": "supple, NO JVP, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3796,
+            "end_offset": 3818,
+            "annotation_id": "LX_043"
+        },
+        {
+            "decision": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3826,
+            "end_offset": 3887,
+            "annotation_id": "LX_044"
+        },
+        {
+            "decision": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3892,
+            "end_offset": 3958,
+            "annotation_id": "LX_045"
+        },
+        {
+            "decision": "soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3968,
+            "end_offset": 4073,
+            "annotation_id": "LX_046"
+        },
+        {
+            "decision": "no foley",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4078,
+            "end_offset": 4086,
+            "annotation_id": "LX_047"
+        },
+        {
+            "decision": "warm, well perfused, 2+ pulses, no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4092,
+            "end_offset": 4132,
+            "annotation_id": "LX_048"
+        },
+        {
+            "decision": "CXR ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6134,
+            "end_offset": 6137,
+            "annotation_id": "LX_049"
+        },
+        {
+            "decision": "A dual-lead pacemaker/ICD device appears unchanged with leads again terminating in the right atrium and ventricle, respectively",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6156,
+            "end_offset": 6283,
+            "annotation_id": "LX_050"
+        },
+        {
+            "decision": "The heart is mildly enlarged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6285,
+            "end_offset": 6313,
+            "annotation_id": "LX_051"
+        },
+        {
+            "decision": "The mediastinal and hilar contours appear unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6315,
+            "end_offset": 6366,
+            "annotation_id": "LX_052"
+        },
+        {
+            "decision": "A calcified nodule in the right upper lobe suggesting a granuloma appears unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6368,
+            "end_offset": 6451,
+            "annotation_id": "LX_053"
+        },
+        {
+            "decision": "the lungs remain clear",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6464,
+            "end_offset": 6486,
+            "annotation_id": "LX_054"
+        },
+        {
+            "decision": "There is no pleural effusion or pneumothorax",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6488,
+            "end_offset": 6532,
+            "annotation_id": "LX_055"
+        },
+        {
+            "decision": "Small osteophytes are noted along the mid-to-lower thoracic spine",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6534,
+            "end_offset": 6599,
+            "annotation_id": "LX_056"
+        },
+        {
+            "decision": "No evidence of acute disease. .",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6613,
+            "end_offset": 6642,
+            "annotation_id": "LX_057"
+        },
+        {
+            "decision": "ABDOMINAL ULTRASOUND",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6645,
+            "end_offset": 6665,
+            "annotation_id": "LX_058"
+        },
+        {
+            "decision": "Normal abdominal ultrasound. Normal liver",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6667,
+            "end_offset": 6708,
+            "annotation_id": "LX_059"
+        },
+        {
+            "decision": "EGD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6712,
+            "end_offset": 6715,
+            "annotation_id": "LX_060"
+        },
+        {
+            "decision": "Normal esophagus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6750,
+            "end_offset": 6766,
+            "annotation_id": "LX_061"
+        },
+        {
+            "decision": "Flat Lesions Many non-bleeding localized angioectasias were seen in the stomach antrum. The lesions were distributed in a watermelon-stomach pattern, consistent with GAVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6777,
+            "end_offset": 6947,
+            "annotation_id": "LX_062"
+        },
+        {
+            "decision": "Normal duodenum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6959,
+            "end_offset": 6974,
+            "annotation_id": "LX_063"
+        },
+        {
+            "decision": "Angioectasias in the stomach antrum, watermelon stomach consistent with GAVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6988,
+            "end_offset": 7064,
+            "annotation_id": "LX_064"
+        },
+        {
+            "decision": "Otherwise normal EGD to third part of the duodenum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7065,
+            "end_offset": 7115,
+            "annotation_id": "LX_065"
+        },
+        {
+            "decision": "endoscopy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7210,
+            "end_offset": 7219,
+            "annotation_id": "LX_066"
+        },
+        {
+            "decision": "elevated INR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7227,
+            "end_offset": 7239,
+            "annotation_id": "LX_067"
+        },
+        {
+            "decision": "EGD with APC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7243,
+            "end_offset": 7255,
+            "annotation_id": "LX_068"
+        },
+        {
+            "decision": "Normal mucosa in the esophagus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7270,
+            "end_offset": 7300,
+            "annotation_id": "LX_069"
+        },
+        {
+            "decision": "Angioectasias in the antrum ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7301,
+            "end_offset": 7328,
+            "annotation_id": "LX_070"
+        },
+        {
+            "decision": "thermal therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7330,
+            "end_offset": 7345,
+            "annotation_id": "LX_071"
+        },
+        {
+            "decision": "Normal mucosa in the duodenum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7347,
+            "end_offset": 7376,
+            "annotation_id": "LX_072"
+        },
+        {
+            "decision": "Otherwise normal EGD to third part of the duodenum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7377,
+            "end_offset": 7427,
+            "annotation_id": "LX_073"
+        },
+        {
+            "decision": "Repeat endoscopy in [**3-30**] weeks for repeat APC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7445,
+            "end_offset": 7496,
+            "annotation_id": "LX_074"
+        },
+        {
+            "decision": "w/ CAD s/p MI, sCHF, AFIB, HTN and DMII presented with four days of dark stools and several weeks of progressive fatigue.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7569,
+            "end_offset": 7689,
+            "annotation_id": "LX_075"
+        },
+        {
+            "decision": "iron-deficiency anemia likely secondary to chronic bleeding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7712,
+            "end_offset": 7771,
+            "annotation_id": "LX_076"
+        },
+        {
+            "decision": "EGD/APC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7794,
+            "end_offset": 7801,
+            "annotation_id": "LX_077"
+        },
+        {
+            "decision": "Anemia / GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7821,
+            "end_offset": 7838,
+            "annotation_id": "LX_078"
+        },
+        {
+            "decision": "His anemia is likely secondary to both acute bleeding (dark stools) and slow chronic loss ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7912,
+            "end_offset": 8001,
+            "annotation_id": "LX_079"
+        },
+        {
+            "decision": "IV iron",
+            "category": "Category 5: Drug related",
+            "start_offset": 8048,
+            "end_offset": 8055,
+            "annotation_id": "LX_080"
+        },
+        {
+            "decision": "PO BID iron ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8099,
+            "end_offset": 8110,
+            "annotation_id": "LX_081"
+        },
+        {
+            "decision": "EGD/APC (cautery) ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8204,
+            "end_offset": 8220,
+            "annotation_id": "LX_082"
+        },
+        {
+            "decision": "repeat EGD/APC.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8269,
+            "end_offset": 8283,
+            "annotation_id": "LX_083"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8333,
+            "end_offset": 8341,
+            "annotation_id": "LX_084"
+        },
+        {
+            "decision": "Chronic Systolic CHF  Last EF 30% ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8396,
+            "end_offset": 8428,
+            "annotation_id": "LX_085"
+        },
+        {
+            "decision": "followed by Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**] at [**Hospital1 18**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8445,
+            "end_offset": 8554,
+            "annotation_id": "LX_086"
+        },
+        {
+            "decision": "valsartan",
+            "category": "Category 5: Drug related",
+            "start_offset": 8613,
+            "end_offset": 8622,
+            "annotation_id": "LX_087"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 8624,
+            "end_offset": 8629,
+            "annotation_id": "LX_088"
+        },
+        {
+            "decision": "spironolactone",
+            "category": "Category 5: Drug related",
+            "start_offset": 8631,
+            "end_offset": 8645,
+            "annotation_id": "LX_089"
+        },
+        {
+            "decision": "carvedilol",
+            "category": "Category 5: Drug related",
+            "start_offset": 8647,
+            "end_offset": 8657,
+            "annotation_id": "LX_090"
+        },
+        {
+            "decision": "He remained euvolemic during this admission.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8705,
+            "end_offset": 8748,
+            "annotation_id": "LX_091"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8754,
+            "end_offset": 8757,
+            "annotation_id": "LX_092"
+        },
+        {
+            "decision": "aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8811,
+            "end_offset": 8818,
+            "annotation_id": "LX_093"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8823,
+            "end_offset": 8826,
+            "annotation_id": "LX_094"
+        },
+        {
+            "decision": "gastric bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8913,
+            "end_offset": 8926,
+            "annotation_id": "LX_095"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8963,
+            "end_offset": 8971,
+            "annotation_id": "LX_096"
+        },
+        {
+            "decision": "EGD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9002,
+            "end_offset": 9005,
+            "annotation_id": "LX_097"
+        },
+        {
+            "decision": "Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9033,
+            "end_offset": 9052,
+            "annotation_id": "LX_098"
+        },
+        {
+            "decision": "CHADS2 score is 3",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9054,
+            "end_offset": 9071,
+            "annotation_id": "LX_099"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9174,
+            "end_offset": 9182,
+            "annotation_id": "LX_100"
+        },
+        {
+            "decision": "repeat APC and colonoscopy.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9199,
+            "end_offset": 9225,
+            "annotation_id": "LX_101"
+        },
+        {
+            "decision": "DMII",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9256,
+            "end_offset": 9260,
+            "annotation_id": "LX_102"
+        },
+        {
+            "decision": "metformin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9272,
+            "end_offset": 9281,
+            "annotation_id": "LX_103"
+        },
+        {
+            "decision": "Chronic Renal Insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9327,
+            "end_offset": 9354,
+            "annotation_id": "LX_104"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9428,
+            "end_offset": 9432,
+            "annotation_id": "LX_105"
+        },
+        {
+            "decision": "colchicine",
+            "category": "Category 5: Drug related",
+            "start_offset": 9452,
+            "end_offset": 9462,
+            "annotation_id": "LX_106"
+        },
+        {
+            "decision": "Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9465,
+            "end_offset": 9472,
+            "annotation_id": "LX_107"
+        },
+        {
+            "decision": "klonopin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9484,
+            "end_offset": 9492,
+            "annotation_id": "LX_108"
+        },
+        {
+            "decision": "AMMONIUM LACTATE - 12 % Cream - apply to feet twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9522,
+            "end_offset": 9579,
+            "annotation_id": "LX_109"
+        },
+        {
+            "decision": "ATORVASTATIN [LIPITOR] - 40 mg Tablet - 1 Tablet(s) by mouth once a day for cholesterol",
+            "category": "Category 5: Drug related",
+            "start_offset": 9580,
+            "end_offset": 9667,
+            "annotation_id": "LX_110"
+        },
+        {
+            "decision": "BENZONATATE - 200 mg Capsule - 1 Capsule(s) by mouth four times a day as needed for c ough",
+            "category": "Category 5: Drug related",
+            "start_offset": 9668,
+            "end_offset": 9757,
+            "annotation_id": "LX_111"
+        },
+        {
+            "decision": "CARVEDILOL - 25 mg Tablet - 1 (One) Tablet(s) by mouth twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9758,
+            "end_offset": 9824,
+            "annotation_id": "LX_112"
+        },
+        {
+            "decision": "CLONAZEPAM [KLONOPIN] - 0.5 mg Tablet - 1 Tablet(s) by mouth one in am, one i pm and 2 qhs as needed for anxiety",
+            "category": "Category 5: Drug related",
+            "start_offset": 9825,
+            "end_offset": 9937,
+            "annotation_id": "LX_113"
+        },
+        {
+            "decision": "COLCHICINE - 0.6 mg Tablet - 1 Tablet(s) by mouth as needed up to twice a day prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9938,
+            "end_offset": 10019,
+            "annotation_id": "LX_114"
+        },
+        {
+            "decision": "DOFETILIDE - 500 mcg Capsule - 1 Capsule(s) by mouth q 12 h",
+            "category": "Category 5: Drug related",
+            "start_offset": 10020,
+            "end_offset": 10079,
+            "annotation_id": "LX_115"
+        },
+        {
+            "decision": "ECONAZOLE - 1 % Cream - apply [**Hospital1 **] to rash on back and chest  x 6 weeks disp at least 60gram tube",
+            "category": "Category 5: Drug related",
+            "start_offset": 10080,
+            "end_offset": 10189,
+            "annotation_id": "LX_116"
+        },
+        {
+            "decision": "FLUTICASONE [FLONASE] - 50 mcg Spray, Suspension - 1 puff each nostril once a day for allergies/running nose",
+            "category": "Category 5: Drug related",
+            "start_offset": 10190,
+            "end_offset": 10298,
+            "annotation_id": "LX_117"
+        },
+        {
+            "decision": "FUROSEMIDE [LASIX] - 40 mg Tablet - 1 Tablet(s) by mouth once a day for swelling and blood pressure",
+            "category": "Category 5: Drug related",
+            "start_offset": 10299,
+            "end_offset": 10398,
+            "annotation_id": "LX_118"
+        },
+        {
+            "decision": "METFORMIN - 500 mg Tablet - 1 Tablet(s) by mouth twice a day for diabetes (also called GLUCOPHAGE)",
+            "category": "Category 5: Drug related",
+            "start_offset": 10399,
+            "end_offset": 10496,
+            "annotation_id": "LX_119"
+        },
+        {
+            "decision": "PANTOPRAZOLE [PROTONIX] - 40 mg Tablet, Delayed Release (E.C.) - 1 (One) Tablet(s) by mouth once a day brand name only",
+            "category": "Category 5: Drug related",
+            "start_offset": 10498,
+            "end_offset": 10616,
+            "annotation_id": "LX_120"
+        },
+        {
+            "decision": "SPIRONOLACTONE - 25 mg Tablet - 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 10617,
+            "end_offset": 10680,
+            "annotation_id": "LX_121"
+        },
+        {
+            "decision": "TRIAMCINOLONE ACETONIDE - 0.1 % Ointment - Apply twice daily to affected areas for up to 2 weeks/month max twice a day as needed for AVOID face and folds",
+            "category": "Category 5: Drug related",
+            "start_offset": 10681,
+            "end_offset": 10834,
+            "annotation_id": "LX_122"
+        },
+        {
+            "decision": "VALSARTAN [DIOVAN] - 80 mg Tablet - 1 Tablet(s) by mouth twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 10835,
+            "end_offset": 10903,
+            "annotation_id": "LX_123"
+        },
+        {
+            "decision": "WARFARIN - 2 mg Tablet - 1 Tablet(s) by mouth as directed blood thinner Medications - OTC",
+            "category": "Category 5: Drug related",
+            "start_offset": 10904,
+            "end_offset": 10993,
+            "annotation_id": "LX_124"
+        },
+        {
+            "decision": "BLOOD SUGAR DIAGNOSTIC [ONE TOUCH ULTRA TEST] -   Strip - test twice a day",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10994,
+            "end_offset": 11068,
+            "annotation_id": "LX_125"
+        },
+        {
+            "decision": "MULTIVITAMIN -     Tablet - 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11069,
+            "end_offset": 11128,
+            "annotation_id": "LX_126"
+        },
+        {
+            "decision": "PEG 400-PROPYLENE GLYCOL [LUBRICANT EYE (PEG-PEG 400)] - 0.3 %-0.4 % Drops - 1 drop(s) each eye three times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11129,
+            "end_offset": 11242,
+            "annotation_id": "LX_127"
+        },
+        {
+            "decision": "SENNOSIDES-DOCUSATE SODIUM - 8.6 mg-50 mg Tablet - 1 OR 2 Tablet(s) by mouth at bedtime as needed for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 11243,
+            "end_offset": 11357,
+            "annotation_id": "LX_128"
+        },
+        {
+            "decision": "Lipitor 40 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11385,
+            "end_offset": 11439,
+            "annotation_id": "LX_129"
+        },
+        {
+            "decision": "benzonatate 200 mg Capsule Sig: One (1) Capsule PO four times a day as needed for cough",
+            "category": "Category 5: Drug related",
+            "start_offset": 11444,
+            "end_offset": 11531,
+            "annotation_id": "LX_130"
+        },
+        {
+            "decision": "Coreg 25 mg Tablet Sig: One (1) Tablet PO twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11536,
+            "end_offset": 11589,
+            "annotation_id": "LX_131"
+        },
+        {
+            "decision": "Klonopin 0.5 mg Tablet Sig: 1-2 Tablets PO twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11594,
+            "end_offset": 11648,
+            "annotation_id": "LX_132"
+        },
+        {
+            "decision": "colchicine 0.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for gout",
+            "category": "Category 5: Drug related",
+            "start_offset": 11653,
+            "end_offset": 11731,
+            "annotation_id": "LX_133"
+        },
+        {
+            "decision": "dofetilide 500 mcg Capsule Sig: One (1) Capsule PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11736,
+            "end_offset": 11798,
+            "annotation_id": "LX_134"
+        },
+        {
+            "decision": "Flonase 50 mcg/actuation Spray, Suspension Sig: One (1) Nasal once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11803,
+            "end_offset": 11875,
+            "annotation_id": "LX_135"
+        },
+        {
+            "decision": "Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 11880,
+            "end_offset": 11932,
+            "annotation_id": "LX_136"
+        },
+        {
+            "decision": "metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11937,
+            "end_offset": 11995,
+            "annotation_id": "LX_137"
+        },
+        {
+            "decision": "pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12001,
+            "end_offset": 12166,
+            "annotation_id": "LX_138"
+        },
+        {
+            "decision": "spironolactone 25 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12171,
+            "end_offset": 12232,
+            "annotation_id": "LX_139"
+        },
+        {
+            "decision": "valsartan 80 mg Tablet Sig: One (1) Tablet PO twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 12238,
+            "end_offset": 12295,
+            "annotation_id": "LX_140"
+        },
+        {
+            "decision": "multivitamin  Oral",
+            "category": "Category 5: Drug related",
+            "start_offset": 12301,
+            "end_offset": 12319,
+            "annotation_id": "LX_141"
+        },
+        {
+            "decision": "peg 400-propylene glycol 0.4-0.3 % Drops Sig: One (1) Ophthalmic three times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 12324,
+            "end_offset": 12406,
+            "annotation_id": "LX_142"
+        },
+        {
+            "decision": "senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12412,
+            "end_offset": 12466,
+            "annotation_id": "LX_143"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12472,
+            "end_offset": 12538,
+            "annotation_id": "LX_144"
+        },
+        {
+            "decision": "iron 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO twice a day. Disp:*60 Tablet(s)* Refills:*2* ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12544,
+            "end_offset": 12643,
+            "annotation_id": "LX_145"
+        },
+        {
+            "decision": "UPPER GI BLEED secondary to GAVE SYNDROME (Gastric Antral Vascular Ectasia)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12698,
+            "end_offset": 12772,
+            "annotation_id": "LX_146"
+        },
+        {
+            "decision": "IRON DEFICIENCY ANEMIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12776,
+            "end_offset": 12798,
+            "annotation_id": "LX_147"
+        },
+        {
+            "decision": "CHRONIC SYSTOLIC HEART FAILURE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12801,
+            "end_offset": 12831,
+            "annotation_id": "LX_148"
+        },
+        {
+            "decision": "DIABETES TYPE 2 CONTROLLED, COMPLICATED",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12834,
+            "end_offset": 12873,
+            "annotation_id": "LX_149"
+        },
+        {
+            "decision": "CORONARY ARTERY DISEASE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12876,
+            "end_offset": 12899,
+            "annotation_id": "LX_150"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12923,
+            "end_offset": 12956,
+            "annotation_id": "LX_151"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12958,
+            "end_offset": 13003,
+            "annotation_id": "LX_152"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13005,
+            "end_offset": 13046,
+            "annotation_id": "LX_153"
+        },
+        {
+            "decision": "severe anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13146,
+            "end_offset": 13159,
+            "annotation_id": "LX_154"
+        },
+        {
+            "decision": "abnormal tissue in your stomach ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13195,
+            "end_offset": 13226,
+            "annotation_id": "LX_155"
+        },
+        {
+            "decision": "endoscopy and cautery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13250,
+            "end_offset": 13271,
+            "annotation_id": "LX_156"
+        },
+        {
+            "decision": "intravenous iron",
+            "category": "Category 5: Drug related",
+            "start_offset": 13289,
+            "end_offset": 13305,
+            "annotation_id": "LX_157"
+        },
+        {
+            "decision": "severe iron deficiency anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13322,
+            "end_offset": 13351,
+            "annotation_id": "LX_158"
+        },
+        {
+            "decision": "You have received a prescription for oral iron twice daily which you should take until your primary care doctor tells you to stop.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13354,
+            "end_offset": 13483,
+            "annotation_id": "LX_159"
+        },
+        {
+            "decision": "Pantoprazole ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13486,
+            "end_offset": 13498,
+            "annotation_id": "LX_160"
+        },
+        {
+            "decision": "Pantoprazole has been increased to 40mg twice daily--you have received a prescription for this.  You should take this increased dose for at least 4-6 weeks and can discuss the ultimate duration with your PCP",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13486,
+            "end_offset": 13693,
+            "annotation_id": "LX_161"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13724,
+            "end_offset": 13732,
+            "annotation_id": "LX_162"
+        },
+        {
+            "decision": "EGD/colonoscopy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13783,
+            "end_offset": 13798,
+            "annotation_id": "LX_163"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13861,
+            "end_offset": 13869,
+            "annotation_id": "LX_164"
+        },
+        {
+            "decision": "You should continue to hold coumadin until your PCP tells you to restart it after your EGD/colonoscopy (which is scheduled in two weeks).  As we discussed, you take coumadin to lower your risk of stroke from atrial fibrillation.  The risk of anticoagulating you with the degree of anemia you already have and because we cannot transfuse you (for religious reasons) is too high currently.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13696,
+            "end_offset": 14082,
+            "annotation_id": "LX_165"
+        },
+        {
+            "decision": "Aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14102,
+            "end_offset": 14109,
+            "annotation_id": "LX_166"
+        },
+        {
+            "decision": "You should be on Aspirin for your coronary disease and diabetes. Now is not the time to start given the very recent bleeding, but you should discuss starting this eventually with your PCP",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14085,
+            "end_offset": 14272,
+            "annotation_id": "LX_167"
+        },
+        {
+            "decision": "Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14275,
+            "end_offset": 14362,
+            "annotation_id": "LX_168"
+        },
+        {
+            "decision": "STOP COUMADIN until Dr. [**Last Name (STitle) 8499**] tells you to re-start",
+            "category": "Category 5: Drug related",
+            "start_offset": 14398,
+            "end_offset": 14473,
+            "annotation_id": "LX_169"
+        },
+        {
+            "decision": "INCREASE PANTOPRAZOLE TO TWICE DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 14476,
+            "end_offset": 14512,
+            "annotation_id": "LX_170"
+        },
+        {
+            "decision": "START IRON TWICE DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 14515,
+            "end_offset": 14537,
+            "annotation_id": "LX_171"
+        },
+        {
+            "decision": "Department: [**Hospital1 7975**] INTERNAL MEDICINE When: THURSDAY [**2170-2-22**] at 3:45 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10134**], MD [**Telephone/Fax (1) 7976**] Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **] Campus: OFF CAMPUS Best Parking: Free Parking on Site",
+            "category": "Category 1: Contact related",
+            "start_offset": 14620,
+            "end_offset": 14960,
+            "annotation_id": "LX_172"
+        },
+        {
+            "decision": "WEDNESDAY [**2170-2-28**] with Dr. [**First Name8 (NamePattern2) 1586**] [**Name (STitle) 2161**] at 1:00pm in the [**Hospital1 18**] [**Hospital Ward Name **]. You will be contact[**Name (NI) **] regarding preparation for the procedure.",
+            "category": "Category 1: Contact related",
+            "start_offset": 15014,
+            "end_offset": 15250,
+            "annotation_id": "LX_173"
+        }
+    ]
+}

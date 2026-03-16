@@ -1,0 +1,1007 @@
+{
+    "annotator_id": "CALML",
+    "discharge_summary_id": "29569_169655_11943",
+    "annotations": [
+        {
+            "decision": "Chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 242,
+            "end_offset": 252,
+            "annotation_id": "JY_000"
+        },
+        {
+            "decision": "Intubation and line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 303,
+            "end_offset": 332,
+            "annotation_id": "JY_001"
+        },
+        {
+            "decision": "Mitral Valve Repair (28mm Physio ring)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 344,
+            "end_offset": 381,
+            "annotation_id": "JY_002"
+        },
+        {
+            "decision": "history of myocardial bridge with progressively worsening chest pain and dyspnea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 435,
+            "end_offset": 515,
+            "annotation_id": "JY_003"
+        },
+        {
+            "decision": "Elevated cholesterol",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 562,
+            "end_offset": 582,
+            "annotation_id": "JY_004"
+        },
+        {
+            "decision": "Sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 583,
+            "end_offset": 594,
+            "annotation_id": "JY_005"
+        },
+        {
+            "decision": "Mitral valve prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 595,
+            "end_offset": 616,
+            "annotation_id": "JY_006"
+        },
+        {
+            "decision": "Mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 617,
+            "end_offset": 637,
+            "annotation_id": "JY_007"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 638,
+            "end_offset": 648,
+            "annotation_id": "JY_008"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 649,
+            "end_offset": 656,
+            "annotation_id": "JY_009"
+        },
+        {
+            "decision": "lipoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 657,
+            "end_offset": 663,
+            "annotation_id": "JY_010"
+        },
+        {
+            "decision": "celiac sprue",
+            "category": "Category 3: Defining problem",
+            "start_offset": 664,
+            "end_offset": 676,
+            "annotation_id": "JY_011"
+        },
+        {
+            "decision": "Skin unremarkable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 850,
+            "end_offset": 867,
+            "annotation_id": "JY_012"
+        },
+        {
+            "decision": "HEENT unremarkable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 868,
+            "end_offset": 886,
+            "annotation_id": "JY_013"
+        },
+        {
+            "decision": "Neck supple full ROM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 887,
+            "end_offset": 907,
+            "annotation_id": "JY_014"
+        },
+        {
+            "decision": "Chest CTA bilat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 908,
+            "end_offset": 923,
+            "annotation_id": "JY_015"
+        },
+        {
+            "decision": "Heart RRR 3/6 SEM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 924,
+            "end_offset": 941,
+            "annotation_id": "JY_016"
+        },
+        {
+            "decision": "Abd soft, NT, ND",
+            "category": "Category 3: Defining problem",
+            "start_offset": 942,
+            "end_offset": 958,
+            "annotation_id": "JY_017"
+        },
+        {
+            "decision": "Extremeties warm well perfused no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 959,
+            "end_offset": 998,
+            "annotation_id": "JY_018"
+        },
+        {
+            "decision": "Varicosities none",
+            "category": "Category 3: Defining problem",
+            "start_offset": 999,
+            "end_offset": 1016,
+            "annotation_id": "JY_019"
+        },
+        {
+            "decision": "neuro grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1017,
+            "end_offset": 1037,
+            "annotation_id": "JY_020"
+        },
+        {
+            "decision": "s/p mv repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2018,
+            "end_offset": 2031,
+            "annotation_id": "JY_021"
+        },
+        {
+            "decision": "Mitral valve repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2119,
+            "end_offset": 2138,
+            "annotation_id": "JY_022"
+        },
+        {
+            "decision": "pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2149,
+            "end_offset": 2161,
+            "annotation_id": "JY_023"
+        },
+        {
+            "decision": "PA and lateral chest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2176,
+            "end_offset": 2196,
+            "annotation_id": "JY_024"
+        },
+        {
+            "decision": "Small right pneumothorax ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2228,
+            "end_offset": 2252,
+            "annotation_id": "JY_025"
+        },
+        {
+            "decision": "Small right pneumothorax with apical and anterior components has decreased minimally since [**3-2**]. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2228,
+            "end_offset": 2328,
+            "annotation_id": "JY_026"
+        },
+        {
+            "decision": "Small bilateral pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2363,
+            "annotation_id": "JY_027"
+        },
+        {
+            "decision": "Small bilateral pleural effusions, right greater than left, have also decreased slightly.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2330,
+            "end_offset": 2418,
+            "annotation_id": "JY_028"
+        },
+        {
+            "decision": "Postoperative cardiomediastinal silhouette is mildly enlarged but unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2420,
+            "end_offset": 2495,
+            "annotation_id": "JY_029"
+        },
+        {
+            "decision": "Aside from mild bibasilar atelectasis, lungs are clear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2497,
+            "end_offset": 2551,
+            "annotation_id": "JY_030"
+        },
+        {
+            "decision": "There is no pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2553,
+            "end_offset": 2580,
+            "annotation_id": "JY_031"
+        },
+        {
+            "decision": "DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 2583,
+            "end_offset": 2688,
+            "annotation_id": "JY_032"
+        },
+        {
+            "decision": "ECHOCARDIOGRAPHY REPORT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2709,
+            "end_offset": 2732,
+            "annotation_id": "JY_033"
+        },
+        {
+            "decision": "Referring Physician     [**Name9 (PRE) **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2893,
+            "end_offset": 2935,
+            "annotation_id": "JY_034"
+        },
+        {
+            "decision": "Intraoperative TEE for mitral valve repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3204,
+            "end_offset": 3246,
+            "annotation_id": "JY_035"
+        },
+        {
+            "decision": "TEE ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3428,
+            "end_offset": 3431,
+            "annotation_id": "JY_036"
+        },
+        {
+            "decision": "Results  Measurements  Normal Range",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3700,
+            "end_offset": 3735,
+            "annotation_id": "JY_037"
+        },
+        {
+            "decision": "LEFT ATRIUM: Moderate LA enlargement. Elongated LA. Mild spontaneous echo contrast in the body of the LA. No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4197,
+            "end_offset": 4388,
+            "annotation_id": "JY_038"
+        },
+        {
+            "decision": "RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the RA and extending into the RV. No ASD by 2D or color Doppler.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4391,
+            "end_offset": 4524,
+            "annotation_id": "JY_039"
+        },
+        {
+            "decision": "LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images. Normal LV wall thickness, cavity size, and global systolic function (LVEF>55%).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4527,
+            "end_offset": 4686,
+            "annotation_id": "JY_040"
+        },
+        {
+            "decision": "RIGHT VENTRICLE: Normal RV chamber size and free wall motion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4691,
+            "end_offset": 4751,
+            "annotation_id": "JY_041"
+        },
+        {
+            "decision": "AORTA: Normal aortic diameter at the sinus level. Focal calcifications in aortic root. Normal ascending aorta diameter. Simple atheroma in aortic arch. Normal descending aorta diameter. Simple atheroma in descending aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4754,
+            "end_offset": 4975,
+            "annotation_id": "JY_042"
+        },
+        {
+            "decision": "AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4978,
+            "end_offset": 5041,
+            "annotation_id": "JY_043"
+        },
+        {
+            "decision": "MITRAL VALVE: Mildly thickened mitral valve leaflets. Partial mitral leaflet flail. Mild mitral annular calcification. Eccentric MR jet. Moderate to severe (3+) MR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5045,
+            "end_offset": 5208,
+            "annotation_id": "JY_044"
+        },
+        {
+            "decision": "TRICUSPID VALVE: Tricuspid valve not well visualized. Physiologic TR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5211,
+            "end_offset": 5279,
+            "annotation_id": "JY_045"
+        },
+        {
+            "decision": "PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5282,
+            "end_offset": 5343,
+            "annotation_id": "JY_046"
+        },
+        {
+            "decision": "PERICARDIUM: Trivial/physiologic pericardial effusion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5346,
+            "end_offset": 5399,
+            "annotation_id": "JY_047"
+        },
+        {
+            "decision": "A TEE was performed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5420,
+            "end_offset": 5439,
+            "annotation_id": "JY_048"
+        },
+        {
+            "decision": "general anesthesia",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5553,
+            "end_offset": 5571,
+            "annotation_id": "JY_049"
+        },
+        {
+            "decision": "TEE ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5601,
+            "end_offset": 5604,
+            "annotation_id": "JY_050"
+        },
+        {
+            "decision": "No TEE related complications",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5598,
+            "end_offset": 5626,
+            "annotation_id": "JY_051"
+        },
+        {
+            "decision": "The patient appears to be in sinus rhythm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5628,
+            "end_offset": 5669,
+            "annotation_id": "JY_052"
+        },
+        {
+            "decision": "The left atrium is moderately dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5760,
+            "end_offset": 5797,
+            "annotation_id": "JY_053"
+        },
+        {
+            "decision": "The left atrium is elongated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5799,
+            "end_offset": 5827,
+            "annotation_id": "JY_054"
+        },
+        {
+            "decision": "Mild spontaneous echo contrast is seen in the body of the left atrium",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5829,
+            "end_offset": 5898,
+            "annotation_id": "JY_055"
+        },
+        {
+            "decision": "No mass/thrombus is seen in the left atrium or left atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5900,
+            "end_offset": 5968,
+            "annotation_id": "JY_056"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5970,
+            "end_offset": 6024,
+            "annotation_id": "JY_057"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6026,
+            "end_offset": 6120,
+            "annotation_id": "JY_058"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6124,
+            "end_offset": 6186,
+            "annotation_id": "JY_059"
+        },
+        {
+            "decision": "There are simple atheroma in the aortic arch. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6188,
+            "end_offset": 6232,
+            "annotation_id": "JY_060"
+        },
+        {
+            "decision": "There are simple atheroma in the descending thoracic aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6234,
+            "end_offset": 6292,
+            "annotation_id": "JY_061"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6294,
+            "end_offset": 6344,
+            "annotation_id": "JY_062"
+        },
+        {
+            "decision": "No aortic regurgitation is seen. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6346,
+            "end_offset": 6377,
+            "annotation_id": "JY_063"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickene",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6379,
+            "end_offset": 6425,
+            "annotation_id": "JY_064"
+        },
+        {
+            "decision": "There is partial mitral leaflet flail involving the P2 scallop is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6427,
+            "end_offset": 6497,
+            "annotation_id": "JY_065"
+        },
+        {
+            "decision": "An eccentric, anteriorly directed jet of moderate to severe (3+) mitral regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6499,
+            "end_offset": 6592,
+            "annotation_id": "JY_066"
+        },
+        {
+            "decision": "There is a trivial/physiologic pericardial effusion. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6594,
+            "end_offset": 6645,
+            "annotation_id": "JY_067"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) 914**] was notified in person of the results in the operating room at the time of the study",
+            "category": "Category 1: Contact related",
+            "start_offset": 6647,
+            "end_offset": 6764,
+            "annotation_id": "JY_068"
+        },
+        {
+            "decision": "Normal biventricular systolic function",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6776,
+            "end_offset": 6814,
+            "annotation_id": "JY_069"
+        },
+        {
+            "decision": ". A mitral valve annuloplasty ring is in situ. It appears well seated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6816,
+            "end_offset": 6883,
+            "annotation_id": "JY_070"
+        },
+        {
+            "decision": "No mitral regurgitation is appreciated. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6885,
+            "end_offset": 6923,
+            "annotation_id": "JY_071"
+        },
+        {
+            "decision": "The mean pressure gradient across the mitral valve is 8 mm Hg with a maximum pressure of 13 mm Hg at a time when the cardiac output was about 7.5 liters/min. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6925,
+            "end_offset": 7081,
+            "annotation_id": "JY_072"
+        },
+        {
+            "decision": "No other changes from the pre-CPB study.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7083,
+            "end_offset": 7122,
+            "annotation_id": "JY_073"
+        },
+        {
+            "decision": "went to operating room ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7426,
+            "end_offset": 7448,
+            "annotation_id": "JY_074"
+        },
+        {
+            "decision": "minimally invasive valve repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7453,
+            "end_offset": 7484,
+            "annotation_id": "JY_075"
+        },
+        {
+            "decision": "After lines were placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7487,
+            "end_offset": 7510,
+            "annotation_id": "JY_076"
+        },
+        {
+            "decision": "he received heparin bolus ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7511,
+            "end_offset": 7536,
+            "annotation_id": "JY_077"
+        },
+        {
+            "decision": "found to have hematoma at line site in right neck",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7545,
+            "end_offset": 7594,
+            "annotation_id": "JY_078"
+        },
+        {
+            "decision": "Surgery was cancelled",
+            "category": "Category 8: Deferment",
+            "start_offset": 7597,
+            "end_offset": 7618,
+            "annotation_id": "JY_079"
+        },
+        {
+            "decision": "he remained intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7620,
+            "end_offset": 7641,
+            "annotation_id": "JY_080"
+        },
+        {
+            "decision": "vascular surgery was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7643,
+            "end_offset": 7673,
+            "annotation_id": "JY_081"
+        },
+        {
+            "decision": "transferred to the intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 7686,
+            "end_offset": 7724,
+            "annotation_id": "JY_082"
+        },
+        {
+            "decision": "treated with irrigation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7771,
+            "end_offset": 7794,
+            "annotation_id": "JY_083"
+        },
+        {
+            "decision": "noted to have hematuria that was treated with irrigation and resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7738,
+            "end_offset": 7807,
+            "annotation_id": "JY_084"
+        },
+        {
+            "decision": "underwent CTA of neck that showed no bleeding or fistulas.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7813,
+            "end_offset": 7870,
+            "annotation_id": "JY_085"
+        },
+        {
+            "decision": "remained intubated over night",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7876,
+            "end_offset": 7905,
+            "annotation_id": "JY_086"
+        },
+        {
+            "decision": "his neck was ecchymotic but soft",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7922,
+            "end_offset": 7954,
+            "annotation_id": "JY_087"
+        },
+        {
+            "decision": "He was weaned from sedation",
+            "category": "Category 5: Drug related",
+            "start_offset": 7957,
+            "end_offset": 7984,
+            "annotation_id": "JY_088"
+        },
+        {
+            "decision": "awoke neurologically intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7986,
+            "end_offset": 8013,
+            "annotation_id": "JY_089"
+        },
+        {
+            "decision": "extubated without complication",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8023,
+            "end_offset": 8054,
+            "annotation_id": "JY_090"
+        },
+        {
+            "decision": "discussion with Dr [**Last Name (STitle) 914**], ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8063,
+            "end_offset": 8110,
+            "annotation_id": "JY_091"
+        },
+        {
+            "decision": "conventional mitral valve repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8133,
+            "end_offset": 8165,
+            "annotation_id": "JY_092"
+        },
+        {
+            "decision": "went to the operating room",
+            "category": "Category 1: Contact related",
+            "start_offset": 8185,
+            "end_offset": 8211,
+            "annotation_id": "JY_093"
+        },
+        {
+            "decision": "underwent mitral valve repair via sternotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8216,
+            "end_offset": 8260,
+            "annotation_id": "JY_094"
+        },
+        {
+            "decision": "He was transferred to the intensive care unit for hemodynamic monitoring",
+            "category": "Category 1: Contact related",
+            "start_offset": 8306,
+            "end_offset": 8378,
+            "annotation_id": "JY_095"
+        },
+        {
+            "decision": "he was weaned from sedation",
+            "category": "Category 5: Drug related",
+            "start_offset": 8403,
+            "end_offset": 8430,
+            "annotation_id": "JY_096"
+        },
+        {
+            "decision": "awoke neurologically intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8432,
+            "end_offset": 8459,
+            "annotation_id": "JY_097"
+        },
+        {
+            "decision": "extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8469,
+            "end_offset": 8478,
+            "annotation_id": "JY_098"
+        },
+        {
+            "decision": "Physical therapy worked with him for strength and mobility",
+            "category": "Category 1: Contact related",
+            "start_offset": 8581,
+            "end_offset": 8639,
+            "annotation_id": "JY_099"
+        },
+        {
+            "decision": "He continued to progress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8641,
+            "end_offset": 8665,
+            "annotation_id": "JY_100"
+        },
+        {
+            "decision": "his narcotics were discontinued due to confusion",
+            "category": "Category 5: Drug related",
+            "start_offset": 8667,
+            "end_offset": 8715,
+            "annotation_id": "JY_101"
+        },
+        {
+            "decision": "confusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8706,
+            "end_offset": 8715,
+            "annotation_id": "JY_102"
+        },
+        {
+            "decision": "chest xray the revealed a pneumothorax that was monitored by serial CXR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8727,
+            "end_offset": 8798,
+            "annotation_id": "JY_103"
+        },
+        {
+            "decision": "The pneumothorax remained stable and was decreasing.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8801,
+            "end_offset": 8852,
+            "annotation_id": "JY_104"
+        },
+        {
+            "decision": "his confusion resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8867,
+            "end_offset": 8889,
+            "annotation_id": "JY_105"
+        },
+        {
+            "decision": "Plan for follow up visit with Dr [**Last Name (STitle) 914**] in 2 weeks with CXR prior to office visit.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8942,
+            "end_offset": 9045,
+            "annotation_id": "JY_106"
+        },
+        {
+            "decision": "Celexa 10 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 9075,
+            "end_offset": 9090,
+            "annotation_id": "JY_107"
+        },
+        {
+            "decision": "Volaran 50",
+            "category": "Category 5: Drug related",
+            "start_offset": 9091,
+            "end_offset": 9101,
+            "annotation_id": "JY_108"
+        },
+        {
+            "decision": "Centrum silver",
+            "category": "Category 5: Drug related",
+            "start_offset": 9102,
+            "end_offset": 9116,
+            "annotation_id": "JY_109"
+        },
+        {
+            "decision": "ASA 81",
+            "category": "Category 5: Drug related",
+            "start_offset": 9117,
+            "end_offset": 9123,
+            "annotation_id": "JY_110"
+        },
+        {
+            "decision": "Cialis prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9124,
+            "end_offset": 9134,
+            "annotation_id": "JY_111"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9162,
+            "end_offset": 9324,
+            "annotation_id": "JY_112"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9328,
+            "end_offset": 9436,
+            "annotation_id": "JY_113"
+        },
+        {
+            "decision": "Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9440,
+            "end_offset": 9538,
+            "annotation_id": "JY_114"
+        },
+        {
+            "decision": "Citalopram 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9542,
+            "end_offset": 9632,
+            "annotation_id": "JY_115"
+        },
+        {
+            "decision": "Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9636,
+            "end_offset": 9755,
+            "annotation_id": "JY_116"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9759,
+            "end_offset": 9867,
+            "annotation_id": "JY_117"
+        },
+        {
+            "decision": "Norvasc 5 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9871,
+            "end_offset": 9957,
+            "annotation_id": "JY_118"
+        },
+        {
+            "decision": "CXR - clinical center building [**Location (un) 10043**] please get xray 1 hour prior to office visit",
+            "category": "Category 1: Contact related",
+            "start_offset": 9971,
+            "end_offset": 10072,
+            "annotation_id": "JY_119"
+        },
+        {
+            "decision": "[**Hospital6 486**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10127,
+            "end_offset": 10146,
+            "annotation_id": "JY_120"
+        },
+        {
+            "decision": "Mitral valve prolapse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10169,
+            "end_offset": 10190,
+            "annotation_id": "JY_121"
+        },
+        {
+            "decision": "s/p MV repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10191,
+            "end_offset": 10204,
+            "annotation_id": "JY_122"
+        },
+        {
+            "decision": "Mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10205,
+            "end_offset": 10225,
+            "annotation_id": "JY_123"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10226,
+            "end_offset": 10236,
+            "annotation_id": "JY_124"
+        },
+        {
+            "decision": "anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10237,
+            "end_offset": 10244,
+            "annotation_id": "JY_125"
+        },
+        {
+            "decision": "lipoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10245,
+            "end_offset": 10251,
+            "annotation_id": "JY_126"
+        },
+        {
+            "decision": "Elevated cholesterol",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10252,
+            "end_offset": 10272,
+            "annotation_id": "JY_127"
+        },
+        {
+            "decision": "Sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10273,
+            "end_offset": 10284,
+            "annotation_id": "JY_128"
+        },
+        {
+            "decision": "Celiac spruce",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10285,
+            "end_offset": 10298,
+            "annotation_id": "JY_129"
+        },
+        {
+            "decision": "hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10303,
+            "end_offset": 10309,
+            "annotation_id": "JY_130"
+        },
+        {
+            "decision": "s/p hernia repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10299,
+            "end_offset": 10316,
+            "annotation_id": "JY_131"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10340,
+            "end_offset": 10344,
+            "annotation_id": "JY_132"
+        },
+        {
+            "decision": "Please shower daily including washing incisions, no baths or swimming",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10371,
+            "end_offset": 10440,
+            "annotation_id": "JY_133"
+        },
+        {
+            "decision": "Monitor wounds for infection - redness, drainage, or increased pain",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10441,
+            "end_offset": 10508,
+            "annotation_id": "JY_134"
+        },
+        {
+            "decision": "Report any fever greater than 101",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10509,
+            "end_offset": 10542,
+            "annotation_id": "JY_135"
+        },
+        {
+            "decision": "Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10543,
+            "end_offset": 10624,
+            "annotation_id": "JY_136"
+        },
+        {
+            "decision": "No creams, lotions, powders, or ointments to incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10625,
+            "end_offset": 10679,
+            "annotation_id": "JY_137"
+        },
+        {
+            "decision": "No driving for approximately one month",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10680,
+            "end_offset": 10718,
+            "annotation_id": "JY_138"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10719,
+            "end_offset": 10762,
+            "annotation_id": "JY_139"
+        },
+        {
+            "decision": "Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10763,
+            "end_offset": 10833,
+            "annotation_id": "JY_140"
+        },
+        {
+            "decision": "Dr [**Last Name (STitle) 914**] tuesday [**3-16**] at 130pm  [**Hospital Unit Name **]  [**Hospital Unit Name **]([**Telephone/Fax (1) 170**]) Please get CXR prior to office visit at clinical center building",
+            "category": "Category 1: Contact related",
+            "start_offset": 10859,
+            "end_offset": 11066,
+            "annotation_id": "JY_141"
+        },
+        {
+            "decision": "Dr [**Last Name (STitle) 1007**] in 1 week ([**Telephone/Fax (1) 10492**]) please call for appointment Wound check appointment [**Hospital Ward Name 121**] 2 as instructed by nurse ([**Telephone/Fax (1) 3633**])",
+            "category": "Category 1: Contact related",
+            "start_offset": 11068,
+            "end_offset": 11278,
+            "annotation_id": "JY_142"
+        }
+    ]
+}

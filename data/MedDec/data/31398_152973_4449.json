@@ -1,0 +1,776 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "31398_152973_4449",
+    "annotations": [
+        {
+            "decision": "chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 284,
+            "end_offset": 294,
+            "annotation_id": "KP_000"
+        },
+        {
+            "decision": "OPCABx1(svg-RCA)[**11-17**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 334,
+            "end_offset": 361,
+            "annotation_id": "KP_001"
+        },
+        {
+            "decision": "ureteral calculi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 468,
+            "annotation_id": "KP_002"
+        },
+        {
+            "decision": "Cath showed aberrant origin of RCA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 588,
+            "end_offset": 622,
+            "annotation_id": "KP_003"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 647,
+            "end_offset": 650,
+            "annotation_id": "KP_004"
+        },
+        {
+            "decision": "thyroid cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 651,
+            "end_offset": 665,
+            "annotation_id": "KP_005"
+        },
+        {
+            "decision": "renal calculi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 666,
+            "end_offset": 679,
+            "annotation_id": "KP_006"
+        },
+        {
+            "decision": "total thyroidectomy [**2194**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 680,
+            "end_offset": 710,
+            "annotation_id": "KP_007"
+        },
+        {
+            "decision": "tonsillectomy as child",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 711,
+            "end_offset": 733,
+            "annotation_id": "KP_008"
+        },
+        {
+            "decision": "nose hematoma s/p trauma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 746,
+            "end_offset": 770,
+            "annotation_id": "KP_009"
+        },
+        {
+            "decision": "surgery for nose hematoma s/p trauma [**2189**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 734,
+            "end_offset": 781,
+            "annotation_id": "KP_010"
+        },
+        {
+            "decision": "WDWN M in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1053,
+            "end_offset": 1066,
+            "annotation_id": "KP_011"
+        },
+        {
+            "decision": "Lungs CTAB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1067,
+            "end_offset": 1077,
+            "annotation_id": "KP_012"
+        },
+        {
+            "decision": "Heart RRR, no M/R/G",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1078,
+            "end_offset": 1097,
+            "annotation_id": "KP_013"
+        },
+        {
+            "decision": "Abdomen Obese, soft, NT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1098,
+            "end_offset": 1121,
+            "annotation_id": "KP_014"
+        },
+        {
+            "decision": "Extrem warm, no edema No varicosities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1122,
+            "end_offset": 1159,
+            "annotation_id": "KP_015"
+        },
+        {
+            "decision": "Neuro grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1160,
+            "end_offset": 1180,
+            "annotation_id": "KP_016"
+        },
+        {
+            "decision": "post chest tube removal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1901,
+            "end_offset": 1924,
+            "annotation_id": "KP_017"
+        },
+        {
+            "decision": "removal of chest tube.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2026,
+            "end_offset": 2047,
+            "annotation_id": "KP_018"
+        },
+        {
+            "decision": "PORTABLE AP CHEST RADIOGRAPH COMPARED TO [**2196-11-17**].  The patient was extubated in the meantime interval with removal of the NG tube, Swan-Ganz catheter, chest tube and mediastinal drains. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2050,
+            "end_offset": 2243,
+            "annotation_id": "KP_019"
+        },
+        {
+            "decision": "slightly increased bibasilar atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2322,
+            "end_offset": 2362,
+            "annotation_id": "KP_020"
+        },
+        {
+            "decision": "cardiomediastinal silhouette is stable. The lung volumes remain low with slightly increased bibasilar atelectasis most likely related to termination of mechanical ventilation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2249,
+            "end_offset": 2423,
+            "annotation_id": "KP_021"
+        },
+        {
+            "decision": "termination of mechanical ventilation.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2386,
+            "end_offset": 2423,
+            "annotation_id": "KP_022"
+        },
+        {
+            "decision": "There is no pneumothorax or increased pleural effusions. There is no evidence of congestive heart failure.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2425,
+            "end_offset": 2530,
+            "annotation_id": "KP_023"
+        },
+        {
+            "decision": "ECHOCARDIOGRAPHY ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2552,
+            "end_offset": 2568,
+            "annotation_id": "KP_024"
+        },
+        {
+            "decision": "Left Ventricle - Ejection Fraction:  >= 60%  >= 55%",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4075,
+            "end_offset": 4125,
+            "annotation_id": "KP_025"
+        },
+        {
+            "decision": "LEFT ATRIUM: Moderate LA enlargement.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4535,
+            "end_offset": 4571,
+            "annotation_id": "KP_026"
+        },
+        {
+            "decision": "RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. No ASD or PFO by 2D, color Doppler or saline contrast with maneuvers.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4574,
+            "end_offset": 4698,
+            "annotation_id": "KP_027"
+        },
+        {
+            "decision": "LEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global systolic function (LVEF >55%). No resting LVOT gradient.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4701,
+            "end_offset": 4830,
+            "annotation_id": "KP_028"
+        },
+        {
+            "decision": "RIGHT VENTRICLE: Normal RV chamber size and free wall motion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4833,
+            "end_offset": 4893,
+            "annotation_id": "KP_029"
+        },
+        {
+            "decision": "AORTA: Normal aortic diameter at the sinus level. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4896,
+            "end_offset": 4944,
+            "annotation_id": "KP_030"
+        },
+        {
+            "decision": "Mildly dilated aortic arch. No 2D or Doppler evidence of distal arch coarctation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4946,
+            "end_offset": 5026,
+            "annotation_id": "KP_031"
+        },
+        {
+            "decision": "AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5029,
+            "end_offset": 5092,
+            "annotation_id": "KP_032"
+        },
+        {
+            "decision": "No AS. Trace AR.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5077,
+            "end_offset": 5092,
+            "annotation_id": "KP_033"
+        },
+        {
+            "decision": "MITRAL VALVE: Normal mitral valve leaflets with trivial MR. No MVP.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5096,
+            "end_offset": 5162,
+            "annotation_id": "KP_034"
+        },
+        {
+            "decision": "trivial MR. No MVP.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5144,
+            "end_offset": 5162,
+            "annotation_id": "KP_035"
+        },
+        {
+            "decision": "TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR. Borderline PA systolic hypertension.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5165,
+            "end_offset": 5264,
+            "annotation_id": "KP_036"
+        },
+        {
+            "decision": "Mild [1+] TR. Borderline PA systolic hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5215,
+            "end_offset": 5264,
+            "annotation_id": "KP_037"
+        },
+        {
+            "decision": "PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5267,
+            "end_offset": 5350,
+            "annotation_id": "KP_038"
+        },
+        {
+            "decision": "PERICARDIUM: Trivial/physiologic pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5353,
+            "end_offset": 5406,
+            "annotation_id": "KP_039"
+        },
+        {
+            "decision": "The left and right atrium are moderately dilated. No atrial septal defect or patent foramen ovale is seen ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5573,
+            "end_offset": 5678,
+            "annotation_id": "KP_040"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%) Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5735,
+            "end_offset": 5903,
+            "annotation_id": "KP_041"
+        },
+        {
+            "decision": ". The aortic arch is mildly dilated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5905,
+            "end_offset": 5938,
+            "annotation_id": "KP_042"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5940,
+            "end_offset": 6024,
+            "annotation_id": "KP_043"
+        },
+        {
+            "decision": "Trace aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6026,
+            "end_offset": 6060,
+            "annotation_id": "KP_044"
+        },
+        {
+            "decision": "mitral valve appears structurally normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6066,
+            "end_offset": 6106,
+            "annotation_id": "KP_045"
+        },
+        {
+            "decision": "with trivial mitral regurgitation. There is no mitral valve prolapse. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6107,
+            "end_offset": 6175,
+            "annotation_id": "KP_046"
+        },
+        {
+            "decision": "There is borderline pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6177,
+            "end_offset": 6288,
+            "annotation_id": "KP_047"
+        },
+        {
+            "decision": "Preserved global and regional biventricular systolic function. Dilated aortic arch. No definite structural cardiac source of embolism identified",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6303,
+            "end_offset": 6447,
+            "annotation_id": "KP_048"
+        },
+        {
+            "decision": "Based on [**2196**] AHA endocarditis prophylaxis recommendations, the echo findings indicate prophylaxis is NOT recommended. Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6472,
+            "end_offset": 6705,
+            "annotation_id": "KP_049"
+        },
+        {
+            "decision": "VISUAL DEFICIT ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6792,
+            "end_offset": 6806,
+            "annotation_id": "KP_050"
+        },
+        {
+            "decision": "POST CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6807,
+            "end_offset": 6816,
+            "annotation_id": "KP_051"
+        },
+        {
+            "decision": "s/p off pump CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6871,
+            "end_offset": 6888,
+            "annotation_id": "KP_052"
+        },
+        {
+            "decision": "w/visual deficit post-op",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6889,
+            "end_offset": 6913,
+            "annotation_id": "KP_053"
+        },
+        {
+            "decision": "Visual deficit ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7004,
+            "end_offset": 7018,
+            "annotation_id": "KP_054"
+        },
+        {
+            "decision": "status post CABG.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7019,
+            "end_offset": 7035,
+            "annotation_id": "KP_055"
+        },
+        {
+            "decision": "There is no significant plaque seen bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7111,
+            "end_offset": 7158,
+            "annotation_id": "KP_056"
+        },
+        {
+            "decision": "On the right, peak velocities are 53, 76 and 76 cm/sec in the ICA, CCA and ECA respectively. This is consistent with no stenosis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7161,
+            "end_offset": 7289,
+            "annotation_id": "KP_057"
+        },
+        {
+            "decision": "This is consistent with no stenosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7254,
+            "end_offset": 7289,
+            "annotation_id": "KP_058"
+        },
+        {
+            "decision": "On the left, peak velocities are 60, 70 and 61 cm/sec in the ICA, CCA and ECA respectively. This is consistent with no stenosis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7292,
+            "end_offset": 7419,
+            "annotation_id": "KP_059"
+        },
+        {
+            "decision": "This is consistent with no stenosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7384,
+            "end_offset": 7419,
+            "annotation_id": "KP_060"
+        },
+        {
+            "decision": "There is antegrade vertebral flow bilaterally.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7422,
+            "end_offset": 7467,
+            "annotation_id": "KP_061"
+        },
+        {
+            "decision": "Normal carotid study.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7482,
+            "end_offset": 7502,
+            "annotation_id": "KP_062"
+        },
+        {
+            "decision": "focal fov defecit",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7617,
+            "end_offset": 7634,
+            "annotation_id": "KP_063"
+        },
+        {
+            "decision": "s/p CABG [**11-17**] ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7689,
+            "end_offset": 7709,
+            "annotation_id": "KP_064"
+        },
+        {
+            "decision": "with R superior hemianopsia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7714,
+            "end_offset": 7741,
+            "annotation_id": "KP_065"
+        },
+        {
+            "decision": "focal fov defecit",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7781,
+            "end_offset": 7798,
+            "annotation_id": "KP_066"
+        },
+        {
+            "decision": "status post CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7870,
+            "end_offset": 7886,
+            "annotation_id": "KP_067"
+        },
+        {
+            "decision": "right superior hemianopsia, to evaluate for focal deficit.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7912,
+            "end_offset": 7969,
+            "annotation_id": "KP_068"
+        },
+        {
+            "decision": "thyroidectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8074,
+            "end_offset": 8087,
+            "annotation_id": "KP_069"
+        },
+        {
+            "decision": "CA thyroid ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8092,
+            "end_offset": 8102,
+            "annotation_id": "KP_070"
+        },
+        {
+            "decision": "MRI OF THE HEAD: On the axial FLAIR sequence, there are multiple FLAIR hyperintense foci, predominantly in the frontal and the parietal white matter, centrum semiovale.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8319,
+            "end_offset": 8486,
+            "annotation_id": "KP_071"
+        },
+        {
+            "decision": "There is cavum septum pellucidum et vergae. The ventricles and the extra- axial CSF spaces are unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8489,
+            "end_offset": 8596,
+            "annotation_id": "KP_072"
+        },
+        {
+            "decision": "There are no foci of abnormal susceptibility or restricted diffusion. The visualized portions of the paranasal sinuses are unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8599,
+            "end_offset": 8734,
+            "annotation_id": "KP_073"
+        },
+        {
+            "decision": "3D TOF MR ANGIOGRAM OF THE HEAD: The intracranial internal carotid arteries, including the petrous, cavernous, and the supraclinoid segments are patent. The anterior and the middle cerebral arteries and anterior communicating arteries are patent. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8737,
+            "end_offset": 8982,
+            "annotation_id": "KP_074"
+        },
+        {
+            "decision": " The A1 segment of the left anterior cerebral artery is narrowed in caliber and likely hypoplastic, which is a normal variant.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8984,
+            "end_offset": 9108,
+            "annotation_id": "KP_075"
+        },
+        {
+            "decision": "The right vertebral artery is dominant. The left vertebral artery is not well visualized in the intracranial portion (V4 segment); apparently, there is effective PICA termination. The basilar and the posterior cerebral arteries are patent.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9111,
+            "end_offset": 9349,
+            "annotation_id": "KP_076"
+        },
+        {
+            "decision": "There is no focal flow-limiting stenosis, occlusion, or aneurysm more than 3 mm, within resolution of the MR angiogram.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9352,
+            "end_offset": 9470,
+            "annotation_id": "KP_077"
+        },
+        {
+            "decision": "Multiple small FLAIR hyperintense foci in bilateral frontal and parietal cerebral white matter, which are nonspecific in appearance and can be due to post-inflammatory, demyelinating, vasculitis-related, or sequelae of chronic small vessel occlusive disease. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9488,
+            "end_offset": 9745,
+            "annotation_id": "KP_078"
+        },
+        {
+            "decision": "risk factors for atherosclerotic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9794,
+            "end_offset": 9834,
+            "annotation_id": "KP_079"
+        },
+        {
+            "decision": "Patent major intracranial arteries in the head on the MR angiogram. No focal flow-limiting stenosis, occlusion, or aneurysm more than 3 mm, within the resolution of the MR angiogram.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9858,
+            "end_offset": 10039,
+            "annotation_id": "KP_080"
+        },
+        {
+            "decision": "Hypoplastic A1 segment of the left anterior cerebral artery, cavum septum pellucidum et verge, which are normal variants.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10045,
+            "end_offset": 10165,
+            "annotation_id": "KP_081"
+        },
+        {
+            "decision": "taken to the operating room on [**2196-11-17**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10226,
+            "end_offset": 10273,
+            "annotation_id": "KP_082"
+        },
+        {
+            "decision": "off pump CABG x 1",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10296,
+            "end_offset": 10313,
+            "annotation_id": "KP_083"
+        },
+        {
+            "decision": "transferred to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10322,
+            "end_offset": 10344,
+            "annotation_id": "KP_084"
+        },
+        {
+            "decision": "in stable condition.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10345,
+            "end_offset": 10364,
+            "annotation_id": "KP_085"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10373,
+            "end_offset": 10382,
+            "annotation_id": "KP_086"
+        },
+        {
+            "decision": "transferred to the floor on POD #1",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 10411,
+            "end_offset": 10445,
+            "annotation_id": "KP_087"
+        },
+        {
+            "decision": "seen by neurology and opthamology for ",
+            "category": "Category 1: Contact related",
+            "start_offset": 10454,
+            "end_offset": 10491,
+            "annotation_id": "KP_088"
+        },
+        {
+            "decision": "right eye visual loss post op",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10492,
+            "end_offset": 10521,
+            "annotation_id": "KP_089"
+        },
+        {
+            "decision": "have retinal detachment ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10539,
+            "end_offset": 10562,
+            "annotation_id": "KP_090"
+        },
+        {
+            "decision": "repair on [**11-21**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10581,
+            "end_offset": 10602,
+            "annotation_id": "KP_091"
+        },
+        {
+            "decision": "Atenolol 100A/50P",
+            "category": "Category 5: Drug related",
+            "start_offset": 10713,
+            "end_offset": 10730,
+            "annotation_id": "KP_092"
+        },
+        {
+            "decision": "HCTZ 25'",
+            "category": "Category 5: Drug related",
+            "start_offset": 10732,
+            "end_offset": 10739,
+            "annotation_id": "KP_093"
+        },
+        {
+            "decision": "Levothyroid 175",
+            "category": "Category 5: Drug related",
+            "start_offset": 10742,
+            "end_offset": 10757,
+            "annotation_id": "KP_094"
+        },
+        {
+            "decision": "Zestril 5'",
+            "category": "Category 5: Drug related",
+            "start_offset": 10759,
+            "end_offset": 10768,
+            "annotation_id": "KP_095"
+        },
+        {
+            "decision": "CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10889,
+            "end_offset": 10892,
+            "annotation_id": "KP_096"
+        },
+        {
+            "decision": "now s/p CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10893,
+            "end_offset": 10905,
+            "annotation_id": "KP_097"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10906,
+            "end_offset": 10909,
+            "annotation_id": "KP_098"
+        },
+        {
+            "decision": "Thyroid CA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10911,
+            "end_offset": 10921,
+            "annotation_id": "KP_099"
+        },
+        {
+            "decision": "s/p thyroidectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10922,
+            "end_offset": 10939,
+            "annotation_id": "KP_100"
+        },
+        {
+            "decision": "Renal calculi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10941,
+            "end_offset": 10954,
+            "annotation_id": "KP_101"
+        },
+        {
+            "decision": "tonsillectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10956,
+            "end_offset": 10969,
+            "annotation_id": "KP_102"
+        },
+        {
+            "decision": "Discharge Condition: Good.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10974,
+            "end_offset": 10999,
+            "annotation_id": "KP_103"
+        },
+        {
+            "decision": "Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week,",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11027,
+            "end_offset": 11142,
+            "annotation_id": "KP_104"
+        },
+        {
+            "decision": "Shower, no baths, no lotions, creams or powders to incisions. No lifting more than 10 pounds or driving until follow up with surgeon.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11144,
+            "end_offset": 11276,
+            "annotation_id": "KP_105"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) 19091**] 2 weeks Dr. [**Last Name (STitle) 11553**] 2 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11302,
+            "end_offset": 11387,
+            "annotation_id": "KP_106"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] 4 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11388,
+            "end_offset": 11425,
+            "annotation_id": "KP_107"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) 354**] [**Last Name (NamePattern4) 3013**], M.D. Date/Time:[**2196-11-30**] 8:30 Provider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 13645**], M.D. Phone:[**Telephone/Fax (1) 1803**] Date/Time:[**2196-12-22**] 1:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 11458,
+            "end_offset": 11767,
+            "annotation_id": "KP_108"
+        },
+        {
+            "decision": "Provider: [**Last Name (NamePattern5) 7224**], [**MD Number(3) 1240**]:[**Telephone/Fax (1) 62**] Date/Time:[**2197-1-19**] 1:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 11768,
+            "end_offset": 11896,
+            "annotation_id": "KP_109"
+        }
+    ]
+}

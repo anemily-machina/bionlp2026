@@ -1,0 +1,1462 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "19375_119260_6231",
+    "annotations": [
+        {
+            "decision": "abd pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 273,
+            "annotation_id": "EU_000"
+        },
+        {
+            "decision": "Hemicolectomy with diverting colostomy [**10-15**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 313,
+            "end_offset": 363,
+            "annotation_id": "EU_001"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 448,
+            "end_offset": 451,
+            "annotation_id": "EU_002"
+        },
+        {
+            "decision": "CAD,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 453,
+            "end_offset": 456,
+            "annotation_id": "EU_003"
+        },
+        {
+            "decision": "Diastolic Dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 458,
+            "end_offset": 479,
+            "annotation_id": "EU_004"
+        },
+        {
+            "decision": "and chronic pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 481,
+            "end_offset": 497,
+            "annotation_id": "EU_005"
+        },
+        {
+            "decision": "LLQ abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 562,
+            "end_offset": 580,
+            "annotation_id": "EU_006"
+        },
+        {
+            "decision": "CT scan did not identify a likely etiology of her LLQ pain",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 686,
+            "end_offset": 744,
+            "annotation_id": "EU_007"
+        },
+        {
+            "decision": "Abdominal plain films demonstrated no air-fluid levels, no free air",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 746,
+            "end_offset": 813,
+            "annotation_id": "EU_008"
+        },
+        {
+            "decision": "tarted empirically on Cipro and Flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1112,
+            "end_offset": 1151,
+            "annotation_id": "EU_009"
+        },
+        {
+            "decision": "for presumed diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1152,
+            "end_offset": 1179,
+            "annotation_id": "EU_010"
+        },
+        {
+            "decision": "encarcerated hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1201,
+            "end_offset": 1220,
+            "annotation_id": "EU_011"
+        },
+        {
+            "decision": ". Surgery recommended serial abdominal exams and to rescan in 48 hours if she is not improved",
+            "category": "Category 1: Contact related",
+            "start_offset": 1293,
+            "end_offset": 1384,
+            "annotation_id": "EU_012"
+        },
+        {
+            "decision": "She was seen by her [**Month/Day (2) 3390**] [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1007**] in the ED, ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1388,
+            "end_offset": 1545,
+            "annotation_id": "EU_013"
+        },
+        {
+            "decision": "continued conservative management with IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1563,
+            "end_offset": 1605,
+            "annotation_id": "EU_014"
+        },
+        {
+            "decision": "bowel rest",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1607,
+            "end_offset": 1617,
+            "annotation_id": "EU_015"
+        },
+        {
+            "decision": "antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1623,
+            "end_offset": 1634,
+            "annotation_id": "EU_016"
+        },
+        {
+            "decision": "# Cor pulmonale",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1664,
+            "end_offset": 1677,
+            "annotation_id": "EU_017"
+        },
+        {
+            "decision": "- Echo [**7-20**]: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1680,
+            "end_offset": 1695,
+            "annotation_id": "EU_018"
+        },
+        {
+            "decision": "LV EF 65%, 1+ TR, PA systolic",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1697,
+            "end_offset": 1726,
+            "annotation_id": "EU_019"
+        },
+        {
+            "decision": "# HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1729,
+            "end_offset": 1732,
+            "annotation_id": "EU_020"
+        },
+        {
+            "decision": "# CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1735,
+            "end_offset": 1738,
+            "annotation_id": "EU_021"
+        },
+        {
+            "decision": "cath in [**9-17**] w/ 50% stenosis in LAD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1741,
+            "end_offset": 1782,
+            "annotation_id": "EU_022"
+        },
+        {
+            "decision": "# Atypical Chest Pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1785,
+            "end_offset": 1804,
+            "annotation_id": "EU_023"
+        },
+        {
+            "decision": "# Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1807,
+            "end_offset": 1827,
+            "annotation_id": "EU_024"
+        },
+        {
+            "decision": "# OSA (does not use CPAP)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1830,
+            "end_offset": 1852,
+            "annotation_id": "EU_025"
+        },
+        {
+            "decision": "# HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1856,
+            "end_offset": 1859,
+            "annotation_id": "EU_026"
+        },
+        {
+            "decision": "# DJD, OA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1862,
+            "end_offset": 1869,
+            "annotation_id": "EU_027"
+        },
+        {
+            "decision": "# Spinal Stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1872,
+            "end_offset": 1887,
+            "annotation_id": "EU_028"
+        },
+        {
+            "decision": "# Cervical Spondylosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1890,
+            "end_offset": 1910,
+            "annotation_id": "EU_029"
+        },
+        {
+            "decision": "# diverticulosis with numerous previous episodes of diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1913,
+            "end_offset": 1977,
+            "annotation_id": "EU_030"
+        },
+        {
+            "decision": "# hx of strangulated hernia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1980,
+            "end_offset": 2005,
+            "annotation_id": "EU_031"
+        },
+        {
+            "decision": "- s/p partial bowel resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2008,
+            "end_offset": 2035,
+            "annotation_id": "EU_032"
+        },
+        {
+            "decision": "# s/p CCY",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2038,
+            "end_offset": 2045,
+            "annotation_id": "EU_033"
+        },
+        {
+            "decision": "# h/o recurrent LE cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2048,
+            "end_offset": 2075,
+            "annotation_id": "EU_034"
+        },
+        {
+            "decision": "# Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2078,
+            "end_offset": 2082,
+            "annotation_id": "EU_035"
+        },
+        {
+            "decision": "# PE ([**2-17**]) ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2085,
+            "end_offset": 2099,
+            "annotation_id": "EU_036"
+        },
+        {
+            "decision": "was on coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2103,
+            "end_offset": 2118,
+            "annotation_id": "EU_037"
+        },
+        {
+            "decision": "# Hemorrhoids - internal and external ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2121,
+            "end_offset": 2156,
+            "annotation_id": "EU_038"
+        },
+        {
+            "decision": "documented via colonscopy in [**2099**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2159,
+            "end_offset": 2198,
+            "annotation_id": "EU_039"
+        },
+        {
+            "decision": "# Benign colonic admenoma [**2099**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2201,
+            "end_offset": 2235,
+            "annotation_id": "EU_040"
+        },
+        {
+            "decision": "# Neuropathy (w/ postural lightheadedness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2238,
+            "end_offset": 2277,
+            "annotation_id": "EU_041"
+        },
+        {
+            "decision": "# Glaucoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2281,
+            "end_offset": 2289,
+            "annotation_id": "EU_042"
+        },
+        {
+            "decision": "# Endometrial mass, not undergone further work-up yet",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2292,
+            "end_offset": 2343,
+            "annotation_id": "EU_043"
+        },
+        {
+            "decision": "# Polymyalgia Rheumatica",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2346,
+            "end_offset": 2368,
+            "annotation_id": "EU_044"
+        },
+        {
+            "decision": "# NIDDM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2371,
+            "end_offset": 2376,
+            "annotation_id": "EU_045"
+        },
+        {
+            "decision": "Gen: ill appearing, uncomfortable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3002,
+            "end_offset": 3035,
+            "annotation_id": "EU_046"
+        },
+        {
+            "decision": "HEENT: PERRL, EOMI. MMM. Conjunctiva well pigmented.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3036,
+            "end_offset": 3087,
+            "annotation_id": "EU_047"
+        },
+        {
+            "decision": "Neck: Supple, without adenopathy or JVD. No tenderness with palpation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3089,
+            "end_offset": 3158,
+            "annotation_id": "EU_048"
+        },
+        {
+            "decision": "Chest: CTAB anterior and alterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3160,
+            "end_offset": 3194,
+            "annotation_id": "EU_049"
+        },
+        {
+            "decision": "Cor: Normal S1, S2. RRR. No murmurs appreciated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3195,
+            "end_offset": 3242,
+            "annotation_id": "EU_050"
+        },
+        {
+            "decision": "Abdomen: Soft, some moderate distention. Marked tenderness to palpation in LLQ. She tolerates my hand there with pressure after some time, howeger, and has no rebound.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3244,
+            "end_offset": 3410,
+            "annotation_id": "EU_051"
+        },
+        {
+            "decision": "Extremity: Warm, edema bialterally, erythema and warms as well. 1+ DP pulses bilat. .",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3412,
+            "end_offset": 3495,
+            "annotation_id": "EU_052"
+        },
+        {
+            "decision": "[**2103-10-13**] 06:20PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.011 [**2103-10-13**] 06:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2103-10-13**] 06:20PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE EPI-0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3537,
+            "end_offset": 3835,
+            "annotation_id": "EU_053"
+        },
+        {
+            "decision": " Microbiology: [**2103-10-13**] Blood cx: No growth [**2103-10-21**] Blood cx: No growth [**2103-10-16**] MRSA screening: No MRSA isolated [**2103-10-21**] Urine cx: contamination",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4765,
+            "end_offset": 4943,
+            "annotation_id": "EU_054"
+        },
+        {
+            "decision": "[**2103-10-12**] CXR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4957,
+            "end_offset": 4977,
+            "annotation_id": "EU_055"
+        },
+        {
+            "decision": "No acute cardiopulmonary process identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4979,
+            "end_offset": 5022,
+            "annotation_id": "EU_056"
+        },
+        {
+            "decision": "[**10-12**] Bilateral LE Ultrasound",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5026,
+            "end_offset": 5061,
+            "annotation_id": "EU_057"
+        },
+        {
+            "decision": "No evidence of lower extremity DVT bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5063,
+            "end_offset": 5109,
+            "annotation_id": "EU_058"
+        },
+        {
+            "decision": "[**2103-10-13**] CT Abd and pelvis w/o contrast:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5113,
+            "end_offset": 5160,
+            "annotation_id": "EU_059"
+        },
+        {
+            "decision": "1. Colonic diverticulosis but no evidence of acute diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5162,
+            "end_offset": 5227,
+            "annotation_id": "EU_060"
+        },
+        {
+            "decision": "Unchanged prominence of the extra- and intra-hepatic biliary tree in this patient ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5232,
+            "end_offset": 5313,
+            "annotation_id": "EU_061"
+        },
+        {
+            "decision": "status post cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5314,
+            "end_offset": 5341,
+            "annotation_id": "EU_062"
+        },
+        {
+            "decision": "Stable hyperdense exophytic right renal lesion, incompletely characterized without contrast.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5343,
+            "end_offset": 5434,
+            "annotation_id": "EU_063"
+        },
+        {
+            "decision": "If not further worked up, this can be attempted to be better defined with a dedicated MRI or ultrasound.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5436,
+            "end_offset": 5539,
+            "annotation_id": "EU_064"
+        },
+        {
+            "decision": "3. Unchanged appearance of suspicious endometrial lesion better described on previous vaginal ultrasound and continues to be suspicious for underlying malignancy.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5541,
+            "end_offset": 5702,
+            "annotation_id": "EU_065"
+        },
+        {
+            "decision": "suspicious for underlying malignancy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5666,
+            "end_offset": 5702,
+            "annotation_id": "EU_066"
+        },
+        {
+            "decision": "4. Mild tree in [**Male First Name (un) 239**] opacities in the right lower lobe representing an infectious bronchiolitis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5704,
+            "end_offset": 5825,
+            "annotation_id": "EU_067"
+        },
+        {
+            "decision": "infectious bronchiolitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5801,
+            "end_offset": 5825,
+            "annotation_id": "EU_068"
+        },
+        {
+            "decision": "[**2103-10-13**] AXR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5829,
+            "end_offset": 5849,
+            "annotation_id": "EU_069"
+        },
+        {
+            "decision": "No free intraperitoneal air",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5851,
+            "end_offset": 5878,
+            "annotation_id": "EU_070"
+        },
+        {
+            "decision": ". Nonspecific bowel gas pattern, without evidence for obstruction.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5880,
+            "end_offset": 5943,
+            "annotation_id": "EU_071"
+        },
+        {
+            "decision": "[**2103-10-14**] RUQ US:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5947,
+            "end_offset": 5970,
+            "annotation_id": "EU_072"
+        },
+        {
+            "decision": "1. No evidence of choledocholithiasis in the visualized portion of the common bile duct; however, most distal aspect is not visualized",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5972,
+            "end_offset": 6106,
+            "annotation_id": "EU_073"
+        },
+        {
+            "decision": "2. Chronic biliary ductal dilatation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6108,
+            "end_offset": 6144,
+            "annotation_id": "EU_074"
+        },
+        {
+            "decision": "[**2103-10-14**] CT abd and pelvis w/o contrast:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6148,
+            "end_offset": 6195,
+            "annotation_id": "EU_075"
+        },
+        {
+            "decision": "1. Interval development of acute diverticulitis with perforation in the mid descending [**Month/Day/Year 499**] and intra-abdominal free air.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6197,
+            "end_offset": 6337,
+            "annotation_id": "EU_076"
+        },
+        {
+            "decision": "2. No fluid collection or abscess.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6339,
+            "end_offset": 6372,
+            "annotation_id": "EU_077"
+        },
+        {
+            "decision": ". Unchanged prominence of the extra and intrahepatic biliary system.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6377,
+            "end_offset": 6442,
+            "annotation_id": "EU_078"
+        },
+        {
+            "decision": "4. Stable hyperdense exophytic left renal lesion, for which workup was previously recommended",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6444,
+            "end_offset": 6537,
+            "annotation_id": "EU_079"
+        },
+        {
+            "decision": "5. Unchanged appearance of suspicious endometrial lesion for which workup was previously recommended",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6539,
+            "end_offset": 6639,
+            "annotation_id": "EU_080"
+        },
+        {
+            "decision": "These findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (medicine) and Dr. [**Last Name (STitle) **] (surgery) early morning [**2103-10-15**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 6641,
+            "end_offset": 6831,
+            "annotation_id": "EU_081"
+        },
+        {
+            "decision": "[**2103-10-16**] CXR: In comparison with study of [**10-15**], ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6835,
+            "end_offset": 6896,
+            "annotation_id": "EU_082"
+        },
+        {
+            "decision": "some atelectatic changes persist at the bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6898,
+            "end_offset": 6943,
+            "annotation_id": "EU_083"
+        },
+        {
+            "decision": "No evidence of acute focal pneumonia. The various tubes remain in place.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6945,
+            "end_offset": 7016,
+            "annotation_id": "EU_084"
+        },
+        {
+            "decision": "Free air cannot be identified or unequivocally excluded on this image. This would require CT or a lateral view",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7018,
+            "end_offset": 7128,
+            "annotation_id": "EU_085"
+        },
+        {
+            "decision": "[**2103-10-17**] CXR: In comparison with study of [**10-16**], ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7132,
+            "end_offset": 7193,
+            "annotation_id": "EU_086"
+        },
+        {
+            "decision": "there is slightly more prominence of opacification at the bases consistent with some combination of atelectasis and effusion. Tubes remain in place.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7195,
+            "end_offset": 7342,
+            "annotation_id": "EU_087"
+        },
+        {
+            "decision": "[**2103-10-21**] CXR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7346,
+            "end_offset": 7366,
+            "annotation_id": "EU_088"
+        },
+        {
+            "decision": "Worsening volume loss and consolidation/effusion in the left lower lobe.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7368,
+            "end_offset": 7439,
+            "annotation_id": "EU_089"
+        },
+        {
+            "decision": "[**2103-10-24**] Bilateral LE Ultrasound: No evidence of right or left lower extremity DVT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7443,
+            "end_offset": 7533,
+            "annotation_id": "EU_090"
+        },
+        {
+            "decision": "Diverticulitis with perforation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7562,
+            "end_offset": 7593,
+            "annotation_id": "EU_091"
+        },
+        {
+            "decision": "underwent a series of imaging ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7691,
+            "end_offset": 7720,
+            "annotation_id": "EU_092"
+        },
+        {
+            "decision": "initially revealed no etiology for her symptoms",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7726,
+            "end_offset": 7773,
+            "annotation_id": "EU_093"
+        },
+        {
+            "decision": "started on ciprofloxacin and flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7784,
+            "end_offset": 7819,
+            "annotation_id": "EU_094"
+        },
+        {
+            "decision": "for suspected diverticulitis.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7820,
+            "end_offset": 7848,
+            "annotation_id": "EU_095"
+        },
+        {
+            "decision": "repeat imaging was performed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7918,
+            "end_offset": 7946,
+            "annotation_id": "EU_096"
+        },
+        {
+            "decision": "CT scan of abdomen and pelvis performed on [**2103-10-15**",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7960,
+            "end_offset": 8018,
+            "annotation_id": "EU_097"
+        },
+        {
+            "decision": "revealed perforated diverticulitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8020,
+            "end_offset": 8054,
+            "annotation_id": "EU_098"
+        },
+        {
+            "decision": "taken to the operating room ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8063,
+            "end_offset": 8090,
+            "annotation_id": "EU_099"
+        },
+        {
+            "decision": "where a hemicolectomy with diverting colostomy was performed without complication",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8091,
+            "end_offset": 8172,
+            "annotation_id": "EU_100"
+        },
+        {
+            "decision": "transferred to the ICU after the surgery ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8182,
+            "end_offset": 8222,
+            "annotation_id": "EU_101"
+        },
+        {
+            "decision": "where she remained intubated until [**2103-10-17**] when she was safely extubated and placed on supplemental oxygen. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8223,
+            "end_offset": 8338,
+            "annotation_id": "EU_102"
+        },
+        {
+            "decision": "transferred to the floor on [**2103-10-18**].",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 8359,
+            "end_offset": 8403,
+            "annotation_id": "EU_103"
+        },
+        {
+            "decision": "She completed her course of antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 8407,
+            "end_offset": 8446,
+            "annotation_id": "EU_104"
+        },
+        {
+            "decision": "weaned off of her supplemental oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8463,
+            "end_offset": 8500,
+            "annotation_id": "EU_105"
+        },
+        {
+            "decision": "Her diet was slowly advanced to regular diet which she tolerated well",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8503,
+            "end_offset": 8572,
+            "annotation_id": "EU_106"
+        },
+        {
+            "decision": "seen by physical therapy and should continue physical therapy as an outpatient until she reaches her baseline mobility",
+            "category": "Category 1: Contact related",
+            "start_offset": 8583,
+            "end_offset": 8701,
+            "annotation_id": "EU_107"
+        },
+        {
+            "decision": "of tylenol and percocet",
+            "category": "Category 5: Drug related",
+            "start_offset": 8746,
+            "end_offset": 8769,
+            "annotation_id": "EU_108"
+        },
+        {
+            "decision": "followed by the surgery team who monitored her ostomy output and instructed her to return to clinic on [**2103-11-1**] for follow up and removal of her staples.",
+            "category": "Category 1: Contact related",
+            "start_offset": 8779,
+            "end_offset": 8938,
+            "annotation_id": "EU_109"
+        },
+        {
+            "decision": ") DMt2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8945,
+            "end_offset": 8949,
+            "annotation_id": "EU_110"
+        },
+        {
+            "decision": "on glipizide 2.5mg po bid at home",
+            "category": "Category 5: Drug related",
+            "start_offset": 8962,
+            "end_offset": 8995,
+            "annotation_id": "EU_111"
+        },
+        {
+            "decision": "she was switched to sliding scale insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 9010,
+            "end_offset": 9051,
+            "annotation_id": "EU_112"
+        },
+        {
+            "decision": "surgery and perforated diverticulitis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9062,
+            "end_offset": 9099,
+            "annotation_id": "EU_113"
+        },
+        {
+            "decision": "glucose was well controlled. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9100,
+            "end_offset": 9127,
+            "annotation_id": "EU_114"
+        },
+        {
+            "decision": "on sliding scale insulin and qid fsbs",
+            "category": "Category 5: Drug related",
+            "start_offset": 9196,
+            "end_offset": 9233,
+            "annotation_id": "EU_115"
+        },
+        {
+            "decision": "recommended that once her diet and glucose levels are stable that she be restarted on her home medication.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9242,
+            "end_offset": 9347,
+            "annotation_id": "EU_116"
+        },
+        {
+            "decision": "#) Atypical Chest Pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9354,
+            "end_offset": 9373,
+            "annotation_id": "EU_117"
+        },
+        {
+            "decision": "had one episode of chest pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9378,
+            "end_offset": 9407,
+            "annotation_id": "EU_118"
+        },
+        {
+            "decision": "EKGs were performed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9541,
+            "end_offset": 9560,
+            "annotation_id": "EU_119"
+        },
+        {
+            "decision": "that showed no ischemic changes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9561,
+            "end_offset": 9592,
+            "annotation_id": "EU_120"
+        },
+        {
+            "decision": "sublingual nitroglycerin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9609,
+            "end_offset": 9633,
+            "annotation_id": "EU_121"
+        },
+        {
+            "decision": "provide nitroglycerin in pain recurs",
+            "category": "Category 5: Drug related",
+            "start_offset": 9673,
+            "end_offset": 9709,
+            "annotation_id": "EU_122"
+        },
+        {
+            "decision": "lateral calf pain that improves with elevation of her legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9852,
+            "end_offset": 9910,
+            "annotation_id": "EU_123"
+        },
+        {
+            "decision": "Tylenol and oxycodone were administered but provided minimal relief",
+            "category": "Category 5: Drug related",
+            "start_offset": 9912,
+            "end_offset": 9979,
+            "annotation_id": "EU_124"
+        },
+        {
+            "decision": "lower extremity DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10037,
+            "end_offset": 10056,
+            "annotation_id": "EU_125"
+        },
+        {
+            "decision": "subcutaneous heparin prophyllaxis",
+            "category": "Category 5: Drug related",
+            "start_offset": 10123,
+            "end_offset": 10156,
+            "annotation_id": "EU_126"
+        },
+        {
+            "decision": ").  Lower extremity ultrasound was performed on [**10-24**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10160,
+            "end_offset": 10215,
+            "annotation_id": "EU_127"
+        },
+        {
+            "decision": "revealed no evidence of DVT.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10220,
+            "end_offset": 10247,
+            "annotation_id": "EU_128"
+        },
+        {
+            "decision": "pain recurred with more characteristics of neuropathic pain (burning sensation, sensitive to light touch)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10269,
+            "end_offset": 10373,
+            "annotation_id": "EU_129"
+        },
+        {
+            "decision": "restarted on her gabapentin 300mg [**Hospital1 **] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10384,
+            "end_offset": 10434,
+            "annotation_id": "EU_130"
+        },
+        {
+            "decision": "gabapentin on [**2103-10-25**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 10546,
+            "end_offset": 10576,
+            "annotation_id": "EU_131"
+        },
+        {
+            "decision": "Chronic diastolic CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10583,
+            "end_offset": 10604,
+            "annotation_id": "EU_132"
+        },
+        {
+            "decision": "diffuse edema and crackles at the bases of her lungs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10629,
+            "end_offset": 10681,
+            "annotation_id": "EU_133"
+        },
+        {
+            "decision": "Fluid retention thought to be largely due to third spacing from surgery and the large quantities of fluid administered in the setting of perforated diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10684,
+            "end_offset": 10846,
+            "annotation_id": "EU_134"
+        },
+        {
+            "decision": "Lasix was held on admission and was started at low dose after her surgery",
+            "category": "Category 5: Drug related",
+            "start_offset": 10849,
+            "end_offset": 10922,
+            "annotation_id": "EU_135"
+        },
+        {
+            "decision": "on lasix 80mg po daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10968,
+            "end_offset": 10990,
+            "annotation_id": "EU_136"
+        },
+        {
+            "decision": "increasing her lasix to her home dose of lasix 80mg po tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 11074,
+            "end_offset": 11132,
+            "annotation_id": "EU_137"
+        },
+        {
+            "decision": "Recommend monitoring blood pressure an urine output while adjusting lasix dose",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11135,
+            "end_offset": 11213,
+            "annotation_id": "EU_138"
+        },
+        {
+            "decision": "Please consider adding an ACEI in the following weeks if blood pressure permits",
+            "category": "Category 5: Drug related",
+            "start_offset": 11215,
+            "end_offset": 11294,
+            "annotation_id": "EU_139"
+        },
+        {
+            "decision": "#) CAD: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11301,
+            "end_offset": 11304,
+            "annotation_id": "EU_140"
+        },
+        {
+            "decision": "patient continued on metoprolol and aspirin during her admission.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11314,
+            "end_offset": 11378,
+            "annotation_id": "EU_141"
+        },
+        {
+            "decision": "#) HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11385,
+            "end_offset": 11388,
+            "annotation_id": "EU_142"
+        },
+        {
+            "decision": "; patient continued on metoprolol and decreased dose of lasix during admission",
+            "category": "Category 5: Drug related",
+            "start_offset": 11413,
+            "end_offset": 11489,
+            "annotation_id": "EU_143"
+        },
+        {
+            "decision": "Please consider adding an ACEI in the following weeks if blood pressure permits",
+            "category": "Category 5: Drug related",
+            "start_offset": 11492,
+            "end_offset": 11571,
+            "annotation_id": "EU_144"
+        },
+        {
+            "decision": "# Polymyalgia rheumatica",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11578,
+            "end_offset": 11600,
+            "annotation_id": "EU_145"
+        },
+        {
+            "decision": "to IV hydrocoritsone perioperatively.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11626,
+            "end_offset": 11662,
+            "annotation_id": "EU_146"
+        },
+        {
+            "decision": "On transfer to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 11665,
+            "end_offset": 11689,
+            "annotation_id": "EU_147"
+        },
+        {
+            "decision": "pt was restarted on equivalent dose of prednisone 5mg po daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11690,
+            "end_offset": 11752,
+            "annotation_id": "EU_148"
+        },
+        {
+            "decision": "DNR DNI confirmed w patient",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 11772,
+            "end_offset": 11799,
+            "annotation_id": "EU_149"
+        },
+        {
+            "decision": "Latanoprost 0.005 % one gtt qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 11944,
+            "end_offset": 11975,
+            "annotation_id": "EU_150"
+        },
+        {
+            "decision": "Atorvastatin 40 mg qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 11976,
+            "end_offset": 11998,
+            "annotation_id": "EU_151"
+        },
+        {
+            "decision": "Omeprazole 20 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 11999,
+            "end_offset": 12021,
+            "annotation_id": "EU_152"
+        },
+        {
+            "decision": "Prednisone 5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12022,
+            "end_offset": 12043,
+            "annotation_id": "EU_153"
+        },
+        {
+            "decision": "Calcium Carbonate (Tums) 500mg po TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12044,
+            "end_offset": 12081,
+            "annotation_id": "EU_154"
+        },
+        {
+            "decision": "Docusate Sodium 100mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12082,
+            "end_offset": 12110,
+            "annotation_id": "EU_155"
+        },
+        {
+            "decision": "Senna 8.6mg po daily prn constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 12111,
+            "end_offset": 12148,
+            "annotation_id": "EU_156"
+        },
+        {
+            "decision": "Potassium Chloride 10meq tablet",
+            "category": "Category 5: Drug related",
+            "start_offset": 12149,
+            "end_offset": 12180,
+            "annotation_id": "EU_157"
+        },
+        {
+            "decision": "Cholecalciferol 400 units daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12181,
+            "end_offset": 12212,
+            "annotation_id": "EU_158"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg [**2-14**] q6H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12213,
+            "end_offset": 12260,
+            "annotation_id": "EU_159"
+        },
+        {
+            "decision": "Gabapentin 300 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12261,
+            "end_offset": 12295,
+            "annotation_id": "EU_160"
+        },
+        {
+            "decision": "Aspirin EC 81 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12296,
+            "end_offset": 12318,
+            "annotation_id": "EU_161"
+        },
+        {
+            "decision": "Metoprolol Succinate 25 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12319,
+            "end_offset": 12351,
+            "annotation_id": "EU_162"
+        },
+        {
+            "decision": "Furosemide 80mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12352,
+            "end_offset": 12384,
+            "annotation_id": "EU_163"
+        },
+        {
+            "decision": "Nitroglycerin 0.4mg SL prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12385,
+            "end_offset": 12411,
+            "annotation_id": "EU_164"
+        },
+        {
+            "decision": "Glipizide 2.5mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12412,
+            "end_offset": 12434,
+            "annotation_id": "EU_165"
+        },
+        {
+            "decision": "Gabapentin 300mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12435,
+            "end_offset": 12458,
+            "annotation_id": "EU_166"
+        },
+        {
+            "decision": "1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12483,
+            "end_offset": 12555,
+            "annotation_id": "EU_167"
+        },
+        {
+            "decision": "2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12558,
+            "end_offset": 12678,
+            "annotation_id": "EU_168"
+        },
+        {
+            "decision": ". Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 12684,
+            "end_offset": 12789,
+            "annotation_id": "EU_169"
+        },
+        {
+            "decision": "4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12791,
+            "end_offset": 12855,
+            "annotation_id": "EU_170"
+        },
+        {
+            "decision": "5. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12858,
+            "end_offset": 12946,
+            "annotation_id": "EU_171"
+        },
+        {
+            "decision": "6. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12948,
+            "end_offset": 13009,
+            "annotation_id": "EU_172"
+        },
+        {
+            "decision": "7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13013,
+            "end_offset": 13092,
+            "annotation_id": "EU_173"
+        },
+        {
+            "decision": "8. Furosemide 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13095,
+            "end_offset": 13157,
+            "annotation_id": "EU_174"
+        },
+        {
+            "decision": "9. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13161,
+            "end_offset": 13232,
+            "annotation_id": "EU_175"
+        },
+        {
+            "decision": "10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H PRN (): Please do not exceed 4 grams of acetaminophen per day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13235,
+            "end_offset": 13366,
+            "annotation_id": "EU_176"
+        },
+        {
+            "decision": "11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed: Please do not exceed 4 grams of acetaminophen per day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13368,
+            "end_offset": 13504,
+            "annotation_id": "EU_177"
+        },
+        {
+            "decision": "12. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: 1-2 tablets Sublingual once a day as needed for chest pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13506,
+            "end_offset": 13613,
+            "annotation_id": "EU_178"
+        },
+        {
+            "decision": "13. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) Tablet PO three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13615,
+            "end_offset": 13702,
+            "annotation_id": "EU_179"
+        },
+        {
+            "decision": "14. Furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 13704,
+            "end_offset": 13765,
+            "annotation_id": "EU_180"
+        },
+        {
+            "decision": "15. Potassium Chloride 10 mEq Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13767,
+            "end_offset": 13873,
+            "annotation_id": "EU_181"
+        },
+        {
+            "decision": "Perforated diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14000,
+            "end_offset": 14025,
+            "annotation_id": "EU_182"
+        },
+        {
+            "decision": "Noninsulin dependent diabetes mellitis type 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14037,
+            "end_offset": 14082,
+            "annotation_id": "EU_183"
+        },
+        {
+            "decision": "controlled hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14083,
+            "end_offset": 14106,
+            "annotation_id": "EU_184"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14107,
+            "end_offset": 14130,
+            "annotation_id": "EU_185"
+        },
+        {
+            "decision": "chronic diastolic congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14131,
+            "end_offset": 14173,
+            "annotation_id": "EU_186"
+        },
+        {
+            "decision": "PMR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14174,
+            "end_offset": 14177,
+            "annotation_id": "EU_187"
+        },
+        {
+            "decision": "Stable;",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14201,
+            "end_offset": 14207,
+            "annotation_id": "EU_188"
+        },
+        {
+            "decision": "pt does not require supplemental oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14209,
+            "end_offset": 14248,
+            "annotation_id": "EU_189"
+        },
+        {
+            "decision": "is tolerating regular diet and po medications; pt is currently unable to ambulate due to deconditioning.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14253,
+            "end_offset": 14356,
+            "annotation_id": "EU_190"
+        },
+        {
+            "decision": "After being started on antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 14445,
+            "end_offset": 14479,
+            "annotation_id": "EU_191"
+        },
+        {
+            "decision": "nd undergoing several imaging studies",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14480,
+            "end_offset": 14518,
+            "annotation_id": "EU_192"
+        },
+        {
+            "decision": "found to have perforated diverticulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14528,
+            "end_offset": 14567,
+            "annotation_id": "EU_193"
+        },
+        {
+            "decision": "You immediately underwent surgery in which the affected portion of your [**Location (un) 499**] was removed and a colostomy was placed without complications",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14570,
+            "end_offset": 14726,
+            "annotation_id": "EU_194"
+        },
+        {
+            "decision": "recovered well from the surgery. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14733,
+            "end_offset": 14764,
+            "annotation_id": "EU_195"
+        },
+        {
+            "decision": "The physical therapist worked with you and recommend continuing physical therapy after leaving the hospital",
+            "category": "Category 1: Contact related",
+            "start_offset": 14869,
+            "end_offset": 14976,
+            "annotation_id": "EU_196"
+        },
+        {
+            "decision": ". You were followed by the surgery team for the remainder of your hospitalization and will follow up with them as an outpatient.",
+            "category": "Category 1: Contact related",
+            "start_offset": 14978,
+            "end_offset": 15103,
+            "annotation_id": "EU_197"
+        },
+        {
+            "decision": "The following changes were made to your medications: 1) Your glipizide was stopped while in the hosptial.  You are on sliding scale insulin to maintain you blood sugars",
+            "category": "Category 5: Drug related",
+            "start_offset": 15107,
+            "end_offset": 15275,
+            "annotation_id": "EU_198"
+        },
+        {
+            "decision": "Once your diet is stable and your glucose is stable you can discontinue the insulin and resume your glipizide.  Please discuss with your physician before making any changes.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15278,
+            "end_offset": 15450,
+            "annotation_id": "EU_199"
+        },
+        {
+            "decision": "2) Your furosemide dose was decreased to 80mg po daily.  Once you have adequate po intake you can increase your furosemide to your home dose",
+            "category": "Category 5: Drug related",
+            "start_offset": 15452,
+            "end_offset": 15592,
+            "annotation_id": "EU_200"
+        },
+        {
+            "decision": "Please discuss with your physician before making any changes.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15594,
+            "end_offset": 15654,
+            "annotation_id": "EU_201"
+        },
+        {
+            "decision": "Please continue taking all other medications as previously prescribed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15718,
+            "end_offset": 15787,
+            "annotation_id": "EU_202"
+        },
+        {
+            "decision": "Please notify your physician or return to the emergency room if you experience severe abdominal pain, significantly decreased ostomy output, vomiting, fever, difficulty breathing, increased chest pain or any other symptom that is concerning to you.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15791,
+            "end_offset": 16038,
+            "annotation_id": "EU_203"
+        },
+        {
+            "decision": "Please follow up with your surgeon Dr. [**Last Name (STitle) **] on [**11-1**] at 9:15am at [**Street Address(2) 1126**]. Phone [**Telephone/Fax (1) 8792**]. .",
+            "category": "Category 1: Contact related",
+            "start_offset": 16064,
+            "end_offset": 16220,
+            "annotation_id": "EU_204"
+        },
+        {
+            "decision": "Please see your primary care physician within one week of discharge.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16224,
+            "end_offset": 16291,
+            "annotation_id": "EU_205"
+        },
+        {
+            "decision": "Provider: [**Name Initial (NameIs) 11595**] (RHEUM LMOB) [**Doctor Last Name 11596**] Phone:[**Telephone/Fax (1) 2226**] Date/Time:[**2103-11-15**] 12:30",
+            "category": "Category 1: Contact related",
+            "start_offset": 16295,
+            "end_offset": 16448,
+            "annotation_id": "EU_206"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 1401**], M.D. Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2104-1-24**] 10:40",
+            "category": "Category 1: Contact related",
+            "start_offset": 16451,
+            "end_offset": 16590,
+            "annotation_id": "EU_207"
+        }
+    ]
+}

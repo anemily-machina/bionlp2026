@@ -1,0 +1,1168 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "68127_188165_41546",
+    "annotations": [
+        {
+            "decision": "chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 256,
+            "end_offset": 266,
+            "annotation_id": "ON_000"
+        },
+        {
+            "decision": "PCI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 306,
+            "end_offset": 309,
+            "annotation_id": "ON_001"
+        },
+        {
+            "decision": "Hemodialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 310,
+            "end_offset": 322,
+            "annotation_id": "ON_002"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 357,
+            "end_offset": 361,
+            "annotation_id": "ON_003"
+        },
+        {
+            "decision": "on HD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 362,
+            "end_offset": 367,
+            "annotation_id": "ON_004"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 368,
+            "end_offset": 371,
+            "annotation_id": "ON_005"
+        },
+        {
+            "decision": " DM ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 372,
+            "end_offset": 374,
+            "annotation_id": "ON_006"
+        },
+        {
+            "decision": "HL ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 375,
+            "end_offset": 377,
+            "annotation_id": "ON_007"
+        },
+        {
+            "decision": "s/p CABG [**5-/2155**] (3vd, 5-CABG with LIMA to LAD double touchdown with endarterectomy from D1 to apex; SVG1 to OM1 and jump to OM2; and SVG2 to PDA; ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 378,
+            "end_offset": 529,
+            "annotation_id": "ON_008"
+        },
+        {
+            "decision": "stress echo in [**Month (only) 359**] showing small apical scar with some peri-apical ischemia and a preserved EF (50%) felt [**3-17**] diffusely diseased LAD) ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 570,
+            "end_offset": 728,
+            "annotation_id": "ON_009"
+        },
+        {
+            "decision": "s/p VF arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 743,
+            "end_offset": 756,
+            "annotation_id": "ON_010"
+        },
+        {
+            "decision": "VF arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1530,
+            "end_offset": 1539,
+            "annotation_id": "ON_011"
+        },
+        {
+            "decision": "promptly resucitated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1548,
+            "end_offset": 1568,
+            "annotation_id": "ON_012"
+        },
+        {
+            "decision": "metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1599,
+            "end_offset": 1609,
+            "annotation_id": "ON_013"
+        },
+        {
+            "decision": "EKG at [**Hospital6 33**] showed new downsloping in leads aVF II III V3-V6",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1669,
+            "end_offset": 1743,
+            "annotation_id": "ON_014"
+        },
+        {
+            "decision": "nitroglycerin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1768,
+            "end_offset": 1781,
+            "annotation_id": "ON_015"
+        },
+        {
+            "decision": "heparin and integrilin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1801,
+            "end_offset": 1823,
+            "annotation_id": "ON_016"
+        },
+        {
+            "decision": "for cardiac catheterization.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1855,
+            "end_offset": 1882,
+            "annotation_id": "ON_017"
+        },
+        {
+            "decision": "cardiac cath (Attending: Dr. [**Last Name (STitle) 33746**] showed patent grafts to the PDA and LIMA to LAD but an occluded graft to OM1. Flow to territority through native circumflex.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1890,
+            "end_offset": 2073,
+            "annotation_id": "ON_018"
+        },
+        {
+            "decision": "left main stenosis as well as 80% proximal left circumflex stenosis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2087,
+            "end_offset": 2154,
+            "annotation_id": "ON_019"
+        },
+        {
+            "decision": "two long drug eluting stents (a Promus 3.5mm x 23 mm and a Promus 3.5mm x 18mm) were placed in the left main and left circumflex respectively. Entry sites were closed with an 8F RFA AngioSeal in right groin and 5F RFA sheath pull in left",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2155,
+            "end_offset": 2392,
+            "annotation_id": "ON_020"
+        },
+        {
+            "decision": "his blood pressure dropped to systolics in the 60s during both baloon inflations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2402,
+            "end_offset": 2482,
+            "annotation_id": "ON_021"
+        },
+        {
+            "decision": "No EKG changes of hyperkalemia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2602,
+            "end_offset": 2632,
+            "annotation_id": "ON_022"
+        },
+        {
+            "decision": "10 units of insulin, D50 and 2gm of calcium gluconate",
+            "category": "Category 5: Drug related",
+            "start_offset": 2643,
+            "end_offset": 2696,
+            "annotation_id": "ON_023"
+        },
+        {
+            "decision": "received some D5W ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2729,
+            "end_offset": 2746,
+            "annotation_id": "ON_024"
+        },
+        {
+            "decision": "NPH ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2804,
+            "end_offset": 2807,
+            "annotation_id": "ON_025"
+        },
+        {
+            "decision": "he was comfortable and in NAD. All of his prior symptoms had resolved and he had no current complaints.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2859,
+            "end_offset": 2961,
+            "annotation_id": "ON_026"
+        },
+        {
+            "decision": ": Diabetes, Dyslipidemia, Hypertension, Tobacco use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3012,
+            "end_offset": 3061,
+            "annotation_id": "ON_027"
+        },
+        {
+            "decision": "CABG: [**2155-12-9**] CABG x 5, PTCA to 6th.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3084,
+            "end_offset": 3127,
+            "annotation_id": "ON_028"
+        },
+        {
+            "decision": "PERCUTANEOUS CORONARY INTERVENTIONS: [**2156-9-3**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3131,
+            "end_offset": 3182,
+            "annotation_id": "ON_029"
+        },
+        {
+            "decision": "Diabetes mellitus with renal complications, and neuropathy,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3234,
+            "end_offset": 3292,
+            "annotation_id": "ON_030"
+        },
+        {
+            "decision": "retinopathy. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3295,
+            "end_offset": 3306,
+            "annotation_id": "ON_031"
+        },
+        {
+            "decision": "Obstructive Sleep Apnea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3383,
+            "end_offset": 3406,
+            "annotation_id": "ON_032"
+        },
+        {
+            "decision": "(previously on CPAP, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3408,
+            "end_offset": 3426,
+            "annotation_id": "ON_033"
+        },
+        {
+            "decision": "now resolved after weight loss)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3428,
+            "end_offset": 3458,
+            "annotation_id": "ON_034"
+        },
+        {
+            "decision": "Hypertension, Essential",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3461,
+            "end_offset": 3484,
+            "annotation_id": "ON_035"
+        },
+        {
+            "decision": "Cataract",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3486,
+            "end_offset": 3494,
+            "annotation_id": "ON_036"
+        },
+        {
+            "decision": "Charcot foot due to diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3496,
+            "end_offset": 3533,
+            "annotation_id": "ON_037"
+        },
+        {
+            "decision": "History of tobacco use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3535,
+            "end_offset": 3557,
+            "annotation_id": "ON_038"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3559,
+            "end_offset": 3573,
+            "annotation_id": "ON_039"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3575,
+            "end_offset": 3589,
+            "annotation_id": "ON_040"
+        },
+        {
+            "decision": "Obesity s/p Lap Band ([**2154**])",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3591,
+            "end_offset": 3623,
+            "annotation_id": "ON_041"
+        },
+        {
+            "decision": " s/p Lap Band ([**2154**])",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3599,
+            "end_offset": 3623,
+            "annotation_id": "ON_042"
+        },
+        {
+            "decision": "Hyperparathyroidism [**3-17**] renal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3626,
+            "end_offset": 3662,
+            "annotation_id": "ON_043"
+        },
+        {
+            "decision": "Renal osteodystrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3664,
+            "end_offset": 3684,
+            "annotation_id": "ON_044"
+        },
+        {
+            "decision": "Pulmonary Nodule (Solitary)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3686,
+            "end_offset": 3712,
+            "annotation_id": "ON_045"
+        },
+        {
+            "decision": "History of Colonic Adenoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3715,
+            "end_offset": 3741,
+            "annotation_id": "ON_046"
+        },
+        {
+            "decision": "General: Alert, oriented, no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4108,
+            "end_offset": 4151,
+            "annotation_id": "ON_047"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4152,
+            "end_offset": 4198,
+            "annotation_id": "ON_048"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4199,
+            "end_offset": 4237,
+            "annotation_id": "ON_049"
+        },
+        {
+            "decision": "Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4238,
+            "end_offset": 4305,
+            "annotation_id": "ON_050"
+        },
+        {
+            "decision": "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4306,
+            "end_offset": 4376,
+            "annotation_id": "ON_051"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4377,
+            "end_offset": 4491,
+            "annotation_id": "ON_052"
+        },
+        {
+            "decision": "Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis. 1+ edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4492,
+            "end_offset": 4560,
+            "annotation_id": "ON_053"
+        },
+        {
+            "decision": "Access: left forearm AVF + thrill/bruit ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4561,
+            "end_offset": 4600,
+            "annotation_id": "ON_054"
+        },
+        {
+            "decision": "GEN: AOX3, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4657,
+            "end_offset": 4671,
+            "annotation_id": "ON_055"
+        },
+        {
+            "decision": "HEENT: anicteric sclera, MMM, PERRL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4672,
+            "end_offset": 4707,
+            "annotation_id": "ON_056"
+        },
+        {
+            "decision": "NECK: JVP not elevated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4708,
+            "end_offset": 4730,
+            "annotation_id": "ON_057"
+        },
+        {
+            "decision": "HEART: RRR, grade 2 systolic murmur heard best at LSB/2ICS, no radiation to neck or axilla",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4731,
+            "end_offset": 4821,
+            "annotation_id": "ON_058"
+        },
+        {
+            "decision": "LUNG: CTA bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4822,
+            "end_offset": 4843,
+            "annotation_id": "ON_059"
+        },
+        {
+            "decision": "ABD: soft, NT/ND, +BS, no hepatosplenomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4844,
+            "end_offset": 4888,
+            "annotation_id": "ON_060"
+        },
+        {
+            "decision": "EXT: nonpitting edema to ankle bilaterally, peripheral pulse 2+ in LE bilaterally, fistula with thrills over left forearm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4889,
+            "end_offset": 5010,
+            "annotation_id": "ON_061"
+        },
+        {
+            "decision": "ECHO The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6129,
+            "end_offset": 6249,
+            "annotation_id": "ON_062"
+        },
+        {
+            "decision": "mild regional left ventricular systolic dysfunction with mild hypokinesis of the inferolateral wall and basal inferior segment",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6260,
+            "end_offset": 6386,
+            "annotation_id": "ON_063"
+        },
+        {
+            "decision": "no ventricular septal defect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6397,
+            "end_offset": 6425,
+            "annotation_id": "ON_064"
+        },
+        {
+            "decision": "The right ventricular cavity is mildly dilated with borderline-normal free wall contractility",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6427,
+            "end_offset": 6520,
+            "annotation_id": "ON_065"
+        },
+        {
+            "decision": "aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6526,
+            "end_offset": 6607,
+            "annotation_id": "ON_066"
+        },
+        {
+            "decision": "but aortic stenosis is not present",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6573,
+            "end_offset": 6607,
+            "annotation_id": "ON_067"
+        },
+        {
+            "decision": "No aortic regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6609,
+            "end_offset": 6640,
+            "annotation_id": "ON_068"
+        },
+        {
+            "decision": "mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6646,
+            "end_offset": 6688,
+            "annotation_id": "ON_069"
+        },
+        {
+            "decision": "no mitral valve prolapse. Trivial mitral regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6699,
+            "end_offset": 6761,
+            "annotation_id": "ON_070"
+        },
+        {
+            "decision": "pulmonary artery systolic pressure could not be determined.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6767,
+            "end_offset": 6825,
+            "annotation_id": "ON_071"
+        },
+        {
+            "decision": "There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6827,
+            "end_offset": 6859,
+            "annotation_id": "ON_072"
+        },
+        {
+            "decision": "Mild focal left ventricular systolic dysfunction. Mildly dilated right ventricle with borderline normal systolic function. No significant valvular abnormality seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6874,
+            "end_offset": 7037,
+            "annotation_id": "ON_073"
+        },
+        {
+            "decision": "cardiac catheterization 1. Severe left main and 3 vessel native CAD. 4 patent grafts out of 5.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7052,
+            "end_offset": 7145,
+            "annotation_id": "ON_074"
+        },
+        {
+            "decision": "Successful PTCA/stenting of left main and LCx using DES",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7150,
+            "end_offset": 7205,
+            "annotation_id": "ON_075"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7235,
+            "end_offset": 7239,
+            "annotation_id": "ON_076"
+        },
+        {
+            "decision": "on HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7240,
+            "end_offset": 7245,
+            "annotation_id": "ON_077"
+        },
+        {
+            "decision": ", HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7247,
+            "end_offset": 7250,
+            "annotation_id": "ON_078"
+        },
+        {
+            "decision": ", DM, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7252,
+            "end_offset": 7254,
+            "annotation_id": "ON_079"
+        },
+        {
+            "decision": " HL ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7256,
+            "end_offset": 7258,
+            "annotation_id": "ON_080"
+        },
+        {
+            "decision": "s/p CABG [**5-/2155**] (3vd, 5-CABG with LIMA to LAD double touchdown with endarterectomy from D1 to apex; SVG1 to OM1 and jump to OM2; and SVG2 to PDA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7259,
+            "end_offset": 7410,
+            "annotation_id": "ON_081"
+        },
+        {
+            "decision": "stress echo in [**Month (only) 359**] showing small apical scar with some peri-apical ischemia and a preserved EF (50%) felt [**3-17**] diffusely diseased LAD) ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7451,
+            "end_offset": 7609,
+            "annotation_id": "ON_082"
+        },
+        {
+            "decision": "NSTEMI s/p VF arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7624,
+            "end_offset": 7644,
+            "annotation_id": "ON_083"
+        },
+        {
+            "decision": "and underwent stenting in LCA and LCx.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7645,
+            "end_offset": 7682,
+            "annotation_id": "ON_084"
+        },
+        {
+            "decision": "CAD s/p VF Arrest",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7703,
+            "end_offset": 7720,
+            "annotation_id": "ON_085"
+        },
+        {
+            "decision": "s/p 5-CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7733,
+            "end_offset": 7743,
+            "annotation_id": "ON_086"
+        },
+        {
+            "decision": "Cardiac cath this admission showed severe left main and 3v native CAD with 4 out of 5 grafts patent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7759,
+            "end_offset": 7858,
+            "annotation_id": "ON_087"
+        },
+        {
+            "decision": "2x DES placed in left main and left circumflex.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7864,
+            "end_offset": 7910,
+            "annotation_id": "ON_088"
+        },
+        {
+            "decision": "Continued on aspirin and plavix.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7912,
+            "end_offset": 7943,
+            "annotation_id": "ON_089"
+        },
+        {
+            "decision": " Integrilin stopped in cath lab.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7945,
+            "end_offset": 7975,
+            "annotation_id": "ON_090"
+        },
+        {
+            "decision": "echo showed no change in LVEF",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7984,
+            "end_offset": 8013,
+            "annotation_id": "ON_091"
+        },
+        {
+            "decision": "CHF:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8019,
+            "end_offset": 8022,
+            "annotation_id": "ON_092"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8037,
+            "end_offset": 8041,
+            "annotation_id": "ON_093"
+        },
+        {
+            "decision": "but normal EF ~50% on prior echo.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8042,
+            "end_offset": 8074,
+            "annotation_id": "ON_094"
+        },
+        {
+            "decision": "fluid overload which improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8101,
+            "end_offset": 8130,
+            "annotation_id": "ON_095"
+        },
+        {
+            "decision": "HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8136,
+            "end_offset": 8138,
+            "annotation_id": "ON_096"
+        },
+        {
+            "decision": "echo which showed no change in his EF",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8156,
+            "end_offset": 8193,
+            "annotation_id": "ON_097"
+        },
+        {
+            "decision": "No indications for ICD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8195,
+            "end_offset": 8217,
+            "annotation_id": "ON_098"
+        },
+        {
+            "decision": "low salt diet.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8272,
+            "end_offset": 8285,
+            "annotation_id": "ON_099"
+        },
+        {
+            "decision": ". ESRD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8291,
+            "end_offset": 8295,
+            "annotation_id": "ON_100"
+        },
+        {
+            "decision": "Dialyzed immediately post cath ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8297,
+            "end_offset": 8327,
+            "annotation_id": "ON_101"
+        },
+        {
+            "decision": "HD session ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8391,
+            "end_offset": 8401,
+            "annotation_id": "ON_102"
+        },
+        {
+            "decision": "HD session was not completed due to asymptomatic hypotension with MAPs down to 42",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8391,
+            "end_offset": 8472,
+            "annotation_id": "ON_103"
+        },
+        {
+            "decision": "additional HD on hospital day #3 (day of discharge) and removed ~4L. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8484,
+            "end_offset": 8551,
+            "annotation_id": "ON_104"
+        },
+        {
+            "decision": "asymptomatic hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8565,
+            "end_offset": 8589,
+            "annotation_id": "ON_105"
+        },
+        {
+            "decision": "Hyperkalemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8711,
+            "end_offset": 8723,
+            "annotation_id": "ON_106"
+        },
+        {
+            "decision": "no hyperkalemic EKG changes, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8745,
+            "end_offset": 8772,
+            "annotation_id": "ON_107"
+        },
+        {
+            "decision": "insulin and D5 and calc gluc",
+            "category": "Category 5: Drug related",
+            "start_offset": 8780,
+            "end_offset": 8808,
+            "annotation_id": "ON_108"
+        },
+        {
+            "decision": "HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8824,
+            "end_offset": 8826,
+            "annotation_id": "ON_109"
+        },
+        {
+            "decision": ". DM, Type II",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8967,
+            "end_offset": 8978,
+            "annotation_id": "ON_110"
+        },
+        {
+            "decision": "insulin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9018,
+            "end_offset": 9025,
+            "annotation_id": "ON_111"
+        },
+        {
+            "decision": "Managed on HISS inhouse, restarted home regimen of Aspart/NPH on discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 9134,
+            "end_offset": 9208,
+            "annotation_id": "ON_112"
+        },
+        {
+            "decision": " HLD: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9214,
+            "end_offset": 9217,
+            "annotation_id": "ON_113"
+        },
+        {
+            "decision": "simvastatin 40mg daily which was switched to atorvastatin 80mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9233,
+            "end_offset": 9295,
+            "annotation_id": "ON_114"
+        },
+        {
+            "decision": "acute MI.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9317,
+            "end_offset": 9325,
+            "annotation_id": "ON_115"
+        },
+        {
+            "decision": "history of hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9361,
+            "end_offset": 9386,
+            "annotation_id": "ON_116"
+        },
+        {
+            "decision": "Home dose levothyroxine was continued.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9389,
+            "end_offset": 9426,
+            "annotation_id": "ON_117"
+        },
+        {
+            "decision": "FoLIC Acid 1 mg PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9601,
+            "end_offset": 9628,
+            "annotation_id": "ON_118"
+        },
+        {
+            "decision": "Heparin 5000 UNIT SC TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 9632,
+            "end_offset": 9656,
+            "annotation_id": "ON_119"
+        },
+        {
+            "decision": "Insulin SC (per Insulin Flowsheet",
+            "category": "Category 5: Drug related",
+            "start_offset": 9660,
+            "end_offset": 9693,
+            "annotation_id": "ON_120"
+        },
+        {
+            "decision": "Aspirin EC 325 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9698,
+            "end_offset": 9724,
+            "annotation_id": "ON_121"
+        },
+        {
+            "decision": "Levothyroxine Sodium 300 mcg PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9728,
+            "end_offset": 9768,
+            "annotation_id": "ON_122"
+        },
+        {
+            "decision": "Acetaminophen 325-650 mg PO/NG Q6H:PRN pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 9772,
+            "end_offset": 9815,
+            "annotation_id": "ON_123"
+        },
+        {
+            "decision": "Mupirocin Cream 2% 1 Appl TP [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 9819,
+            "end_offset": 9864,
+            "annotation_id": "ON_124"
+        },
+        {
+            "decision": "Atorvastatin 80 mg PO/NG DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9868,
+            "end_offset": 9898,
+            "annotation_id": "ON_125"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg PO/NG [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 9902,
+            "end_offset": 9950,
+            "annotation_id": "ON_126"
+        },
+        {
+            "decision": "Clopidogrel 75 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9955,
+            "end_offset": 9981,
+            "annotation_id": "ON_127"
+        },
+        {
+            "decision": "Nephrocaps 1 CAP PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 9986,
+            "end_offset": 10011,
+            "annotation_id": "ON_128"
+        },
+        {
+            "decision": "Clopidogrel 300 mg PO/NG ONCE",
+            "category": "Category 5: Drug related",
+            "start_offset": 10016,
+            "end_offset": 10045,
+            "annotation_id": "ON_129"
+        },
+        {
+            "decision": "Senna 1 TAB PO/NG [**Hospital1 **]:PRN constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 10050,
+            "end_offset": 10101,
+            "annotation_id": "ON_130"
+        },
+        {
+            "decision": "sevelamer CARBONATE 1600 mg PO TID W/MEALS",
+            "category": "Category 5: Drug related",
+            "start_offset": 10106,
+            "end_offset": 10148,
+            "annotation_id": "ON_131"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 10153,
+            "end_offset": 10182,
+            "annotation_id": "ON_132"
+        },
+        {
+            "decision": "clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10211,
+            "end_offset": 10271,
+            "annotation_id": "ON_133"
+        },
+        {
+            "decision": "levothyroxine 100 mcg Tablet Sig: Three (3) Tablet PO DAILY (Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 10277,
+            "end_offset": 10343,
+            "annotation_id": "ON_134"
+        },
+        {
+            "decision": "aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10349,
+            "end_offset": 10454,
+            "annotation_id": "ON_135"
+        },
+        {
+            "decision": "atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 10460,
+            "end_offset": 10555,
+            "annotation_id": "ON_136"
+        },
+        {
+            "decision": "B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10559,
+            "end_offset": 10635,
+            "annotation_id": "ON_137"
+        },
+        {
+            "decision": "sevelamer carbonate 2.4 gram Powder in Packet Sig: Two (2) envelopes PO three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10641,
+            "end_offset": 10730,
+            "annotation_id": "ON_138"
+        },
+        {
+            "decision": "folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10735,
+            "end_offset": 10791,
+            "annotation_id": "ON_139"
+        },
+        {
+            "decision": "insulin aspart 100 unit/mL Solution Sig: 0-20 units per sliding scale units Subcutaneous three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10796,
+            "end_offset": 10902,
+            "annotation_id": "ON_140"
+        },
+        {
+            "decision": "NPH insulin human recomb 100 unit/mL (3 mL) Insulin Pen Sig: 10-20 units daily as directed units Subcutaneous once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10907,
+            "end_offset": 11027,
+            "annotation_id": "ON_141"
+        },
+        {
+            "decision": "mupirocin 2 % Ointment Topical",
+            "category": "Category 5: Drug related",
+            "start_offset": 11033,
+            "end_offset": 11063,
+            "annotation_id": "ON_142"
+        },
+        {
+            "decision": "epoetin alfa 2,000 unit/mL Solution Sig: 3.5 ml Injection three times a week with dialysis for 1 doses.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11068,
+            "end_offset": 11170,
+            "annotation_id": "ON_143"
+        },
+        {
+            "decision": "paricalcitol 2 mcg/mL Solution Sig: Two (2) ml Intravenous three times a week with dialysis.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11176,
+            "end_offset": 11267,
+            "annotation_id": "ON_144"
+        },
+        {
+            "decision": "metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO twice a day: Please hold morning dose on the day of dialysis.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11273,
+            "end_offset": 11436,
+            "annotation_id": "ON_145"
+        },
+        {
+            "decision": "Please hold morning dose on the day of dialysis.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11389,
+            "end_offset": 11436,
+            "annotation_id": "ON_146"
+        },
+        {
+            "decision": "non ST elevation myocardial infartion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11502,
+            "end_offset": 11539,
+            "annotation_id": "ON_147"
+        },
+        {
+            "decision": " congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11543,
+            "end_offset": 11567,
+            "annotation_id": "ON_148"
+        },
+        {
+            "decision": "chronic kidney disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11583,
+            "end_offset": 11605,
+            "annotation_id": "ON_149"
+        },
+        {
+            "decision": "Discharge Condition: Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11608,
+            "end_offset": 11662,
+            "annotation_id": "ON_150"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11664,
+            "end_offset": 11709,
+            "annotation_id": "ON_151"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11711,
+            "end_offset": 11752,
+            "annotation_id": "ON_152"
+        },
+        {
+            "decision": "heart attack",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11880,
+            "end_offset": 11892,
+            "annotation_id": "ON_153"
+        },
+        {
+            "decision": "dangerous heart rhythm ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11905,
+            "end_offset": 11927,
+            "annotation_id": "ON_154"
+        },
+        {
+            "decision": "catheterization of your heart",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12041,
+            "end_offset": 12070,
+            "annotation_id": "ON_155"
+        },
+        {
+            "decision": "Two stents were placed to open up your occluded coronary vessels.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12073,
+            "end_offset": 12137,
+            "annotation_id": "ON_156"
+        },
+        {
+            "decision": "hemodialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12155,
+            "end_offset": 12167,
+            "annotation_id": "ON_157"
+        },
+        {
+            "decision": "You recovered well from your heart attack",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12225,
+            "end_offset": 12266,
+            "annotation_id": "ON_158"
+        },
+        {
+            "decision": "Please note that the following medications have been changed:",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12330,
+            "end_offset": 12390,
+            "annotation_id": "ON_159"
+        },
+        {
+            "decision": "Please STOP taking simvastatin",
+            "category": "Category 5: Drug related",
+            "start_offset": 12394,
+            "end_offset": 12424,
+            "annotation_id": "ON_160"
+        },
+        {
+            "decision": "Please START taking atorvastatin 80 mg by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12427,
+            "end_offset": 12480,
+            "annotation_id": "ON_161"
+        },
+        {
+            "decision": "You have a followup appointment with your new cardiologist Dr. [**Last Name (STitle) 66687**] at [**Hospital1 392**] center at 4 pm on Tuesday ([**9-7**]). ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12482,
+            "end_offset": 12635,
+            "annotation_id": "ON_162"
+        },
+        {
+            "decision": "Please also be sure to have your labs checked ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 12639,
+            "end_offset": 12684,
+            "annotation_id": "ON_163"
+        },
+        {
+            "decision": "Please also be sure to have your labs checked either at your cardiology appointment on Tuesday ([**9-7**]) or Wednesday ([**9-8**]) at dialysis",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12639,
+            "end_offset": 12782,
+            "annotation_id": "ON_164"
+        },
+        {
+            "decision": "Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 66687**], [**First Name3 (LF) **], Cardiology [**Hospital1 **], [**First Name4 (NamePattern1) 392**] [**Last Name (NamePattern1) **] TIME: Tuesday ([**9-7**]) at 4 pm LOCATION: [**Location (un) **], [**Hospital1 392**], [**Numeric Identifier 10727**] CONTACT: ([**Telephone/Fax (1) 90366**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12917,
+            "end_offset": 13273,
+            "annotation_id": "ON_165"
+        }
+    ]
+}

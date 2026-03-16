@@ -1,0 +1,636 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "19778_151043_24849",
+    "annotations": [
+        {
+            "decision": "chest pressure and arm pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 233,
+            "end_offset": 260,
+            "annotation_id": "FA_000"
+        },
+        {
+            "decision": "Cardiac Catheterization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 300,
+            "end_offset": 323,
+            "annotation_id": "FA_001"
+        },
+        {
+            "decision": "Percutaneous Coronary Transluminal Angioplasty with Stenting",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 324,
+            "end_offset": 384,
+            "annotation_id": "FA_002"
+        },
+        {
+            "decision": "HTN and Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 443,
+            "end_offset": 471,
+            "annotation_id": "FA_003"
+        },
+        {
+            "decision": "new onset of bilateral arm pain associated with chest tightness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 487,
+            "end_offset": 550,
+            "annotation_id": "FA_004"
+        },
+        {
+            "decision": "Received four baby aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 552,
+            "end_offset": 578,
+            "annotation_id": "FA_005"
+        },
+        {
+            "decision": "from EMS and taken to [**Hospital3 62540**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 579,
+            "end_offset": 622,
+            "annotation_id": "FA_006"
+        },
+        {
+            "decision": "Had full thrombolysis with TKNase ",
+            "category": "Category 5: Drug related",
+            "start_offset": 624,
+            "end_offset": 657,
+            "annotation_id": "FA_007"
+        },
+        {
+            "decision": "taken to [**Hospital1 18**] via ambulance ",
+            "category": "Category 1: Contact related",
+            "start_offset": 761,
+            "end_offset": 802,
+            "annotation_id": "FA_008"
+        },
+        {
+            "decision": "still with chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 820,
+            "end_offset": 841,
+            "annotation_id": "FA_009"
+        },
+        {
+            "decision": "taken emergently to the cath lab ",
+            "category": "Category 1: Contact related",
+            "start_offset": 845,
+            "end_offset": 877,
+            "annotation_id": "FA_010"
+        },
+        {
+            "decision": "he had cath and PCI to RCA.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 884,
+            "end_offset": 910,
+            "annotation_id": "FA_011"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 935,
+            "end_offset": 939,
+            "annotation_id": "FA_012"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 940,
+            "end_offset": 943,
+            "annotation_id": "FA_013"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 944,
+            "end_offset": 964,
+            "annotation_id": "FA_014"
+        },
+        {
+            "decision": "Retinal detachments s/p multiple retinal surgeries",
+            "category": "Category 3: Defining problem",
+            "start_offset": 965,
+            "end_offset": 1015,
+            "annotation_id": "FA_015"
+        },
+        {
+            "decision": "s/p multiple retinal surgeries",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 985,
+            "end_offset": 1015,
+            "annotation_id": "FA_016"
+        },
+        {
+            "decision": "GENERAL:  well developed male in  NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1278,
+            "end_offset": 1315,
+            "annotation_id": "FA_017"
+        },
+        {
+            "decision": "SKIN: no rashes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1316,
+            "end_offset": 1331,
+            "annotation_id": "FA_018"
+        },
+        {
+            "decision": "HEAD: NC/AT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1332,
+            "end_offset": 1343,
+            "annotation_id": "FA_019"
+        },
+        {
+            "decision": "EYES: EOMI, Anicteric, R pupil located laterally on [**Doctor First Name 2281**], L pupil dyssymetric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1344,
+            "end_offset": 1445,
+            "annotation_id": "FA_020"
+        },
+        {
+            "decision": "THROAT: No erythema, no tonsillar enlargement, tongue midline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1446,
+            "end_offset": 1507,
+            "annotation_id": "FA_021"
+        },
+        {
+            "decision": "NECK: No stiffness, No masses, No LAD, Palpable carotid pulses, no bruits, no JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1508,
+            "end_offset": 1589,
+            "annotation_id": "FA_022"
+        },
+        {
+            "decision": "CHEST: no supraclavicular or axillary LAD, Lungs Clear to Asculation, No Wheezes/Rhonchi/Crackles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1590,
+            "end_offset": 1687,
+            "annotation_id": "FA_023"
+        },
+        {
+            "decision": "HEART: normal PMI, RRR, No Murmurs/Gallops/Rubs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1688,
+            "end_offset": 1735,
+            "annotation_id": "FA_024"
+        },
+        {
+            "decision": "BACK: No CVA Tenderness, No spinal tenderness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1736,
+            "end_offset": 1781,
+            "annotation_id": "FA_025"
+        },
+        {
+            "decision": "ABDOMEN: Flat, NABS, Soft, No organomegaly, No masses, No guarding, No rebound",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1782,
+            "end_offset": 1860,
+            "annotation_id": "FA_026"
+        },
+        {
+            "decision": "EXT: No clubbing/cyanosis/edema. Good Pulses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1861,
+            "end_offset": 1905,
+            "annotation_id": "FA_027"
+        },
+        {
+            "decision": "NEURO: oriented to person, place, time ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1907,
+            "end_offset": 1945,
+            "annotation_id": "FA_028"
+        },
+        {
+            "decision": "Cath:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2951,
+            "end_offset": 2955,
+            "annotation_id": "FA_029"
+        },
+        {
+            "decision": "Selective coronary angiography of this right dominant sytem revealed single vessel CAD. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2960,
+            "end_offset": 3046,
+            "annotation_id": "FA_030"
+        },
+        {
+            "decision": ". The RCA was a dominant vessel and was 95% occluded in the mid vessel with thrombus. The RCA gave rise to a large PDA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3048,
+            "end_offset": 3164,
+            "annotation_id": "FA_031"
+        },
+        {
+            "decision": "The LMCA was without angiographic evidence of flow limiting stenosis. teh LAD had no angiographically apparent flow limiting stenosis and gave rise to a large D1.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3166,
+            "end_offset": 3327,
+            "annotation_id": "FA_032"
+        },
+        {
+            "decision": "The LCX had no angiographically visible flow limiting lesions and gave rise to a large OM branch",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3329,
+            "end_offset": 3425,
+            "annotation_id": "FA_033"
+        },
+        {
+            "decision": "Limited resting hmeodynamics revealed mildy elevated systemic  pressures.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3430,
+            "end_offset": 3502,
+            "annotation_id": "FA_034"
+        },
+        {
+            "decision": "Left ventriculography was deferred.",
+            "category": "Category 8: Deferment",
+            "start_offset": 3507,
+            "end_offset": 3541,
+            "annotation_id": "FA_035"
+        },
+        {
+            "decision": "Successful PCI of the proximal and mid RCA with two Cypher DES (non-overlapping 3.5 x 18 mm), both post-dilated with a 4.5 mm balloon.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3546,
+            "end_offset": 3679,
+            "annotation_id": "FA_036"
+        },
+        {
+            "decision": "Successful closure of the RFA arteriotomy site with a 6 French Angioseal device.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3684,
+            "end_offset": 3763,
+            "annotation_id": "FA_037"
+        },
+        {
+            "decision": "Angiographic evidence of single vessel coronary artery disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3786,
+            "end_offset": 3848,
+            "annotation_id": "FA_038"
+        },
+        {
+            "decision": "Mildly elevated systemic pressures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3853,
+            "end_offset": 3887,
+            "annotation_id": "FA_039"
+        },
+        {
+            "decision": "Successful rescue PCI with stenting of the proximal and mid-RCA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3892,
+            "end_offset": 3955,
+            "annotation_id": "FA_040"
+        },
+        {
+            "decision": "for failed fibrinolytic therapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3956,
+            "end_offset": 3987,
+            "annotation_id": "FA_041"
+        },
+        {
+            "decision": "for acute inferior myocardial infarction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3988,
+            "end_offset": 4028,
+            "annotation_id": "FA_042"
+        },
+        {
+            "decision": "single vessel CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4109,
+            "end_offset": 4126,
+            "annotation_id": "FA_043"
+        },
+        {
+            "decision": "Selective coronary angiography of this right dominant sytem revealed single vessel CAD. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4040,
+            "end_offset": 4126,
+            "annotation_id": "FA_044"
+        },
+        {
+            "decision": "The RCA was a dominant vessel and was 95% occluded in the mid vessel with thrombus. The RCA gave rise to a large PDA.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4128,
+            "end_offset": 4244,
+            "annotation_id": "FA_045"
+        },
+        {
+            "decision": "The LMCA was without angiographic evidence of flow limiting stenosis. teh LAD had no angiographically apparent flow limiting stenosis and gave rise to a large D1.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4246,
+            "end_offset": 4407,
+            "annotation_id": "FA_046"
+        },
+        {
+            "decision": "The LCX had no angiographically visible flow limiting lesions and gave rise to a large OM branch.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4409,
+            "end_offset": 4505,
+            "annotation_id": "FA_047"
+        },
+        {
+            "decision": "Limited resting hmeodynamics revealed mildy elevated systemic  pressures.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4510,
+            "end_offset": 4582,
+            "annotation_id": "FA_048"
+        },
+        {
+            "decision": "Left ventriculography was deferred.",
+            "category": "Category 8: Deferment",
+            "start_offset": 4587,
+            "end_offset": 4621,
+            "annotation_id": "FA_049"
+        },
+        {
+            "decision": "Successful PCI of the proximal and mid RCA with two Cypher DES (non-overlapping 3.5 x 18 mm), both post-dilated with a 4.5 mm balloon.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4626,
+            "end_offset": 4759,
+            "annotation_id": "FA_050"
+        },
+        {
+            "decision": "Successful closure of the RFA arteriotomy site with a 6 French Angioseal device.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4764,
+            "end_offset": 4843,
+            "annotation_id": "FA_051"
+        },
+        {
+            "decision": "Angiographic evidence of single vessel coronary artery disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4867,
+            "end_offset": 4929,
+            "annotation_id": "FA_052"
+        },
+        {
+            "decision": "Mildly elevated systemic pressures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4934,
+            "end_offset": 4968,
+            "annotation_id": "FA_053"
+        },
+        {
+            "decision": "Successful rescue PCI with stenting of the proximal and mid-RCA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4973,
+            "end_offset": 5036,
+            "annotation_id": "FA_054"
+        },
+        {
+            "decision": "for failed fibrinolytic therapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5037,
+            "end_offset": 5068,
+            "annotation_id": "FA_055"
+        },
+        {
+            "decision": "for acute inferior myocardial infarction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5069,
+            "end_offset": 5109,
+            "annotation_id": "FA_056"
+        },
+        {
+            "decision": "Sinus bradycardia. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5131,
+            "end_offset": 5148,
+            "annotation_id": "FA_057"
+        },
+        {
+            "decision": "consistent with possible inferior ischemia/infarction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5226,
+            "end_offset": 5279,
+            "annotation_id": "FA_058"
+        },
+        {
+            "decision": "EKG on Admission: Sinus bradycardia. RSR' pattern in leads V1-V2. ST segment elevations in leads II, III and aVF consistent with possible inferior ischemia/infarction.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5113,
+            "end_offset": 5279,
+            "annotation_id": "FA_059"
+        },
+        {
+            "decision": "Follow Up EKG: Normal sinus rhythm. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5283,
+            "end_offset": 5317,
+            "annotation_id": "FA_060"
+        },
+        {
+            "decision": "Right bundle-branch block. Left anterior fascicular block. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5319,
+            "end_offset": 5376,
+            "annotation_id": "FA_061"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2144-8-17**] the right bundle-branch block is new",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5378,
+            "end_offset": 5466,
+            "annotation_id": "FA_062"
+        },
+        {
+            "decision": "There are also prominent T wave inversions in leads III and aVF with deep Q waves",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5468,
+            "end_offset": 5549,
+            "annotation_id": "FA_063"
+        },
+        {
+            "decision": "suggestive of inferior infarction/ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5550,
+            "end_offset": 5592,
+            "annotation_id": "FA_064"
+        },
+        {
+            "decision": "transferred from OSH with IMI",
+            "category": "Category 1: Contact related",
+            "start_offset": 5629,
+            "end_offset": 5658,
+            "annotation_id": "FA_065"
+        },
+        {
+            "decision": "with IMI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5650,
+            "end_offset": 5658,
+            "annotation_id": "FA_066"
+        },
+        {
+            "decision": "Lysed with full dose TNK,",
+            "category": "Category 5: Drug related",
+            "start_offset": 5660,
+            "end_offset": 5684,
+            "annotation_id": "FA_067"
+        },
+        {
+            "decision": "incompletely reperfused and still with pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5686,
+            "end_offset": 5729,
+            "annotation_id": "FA_068"
+        },
+        {
+            "decision": "taken to cath lab",
+            "category": "Category 1: Contact related",
+            "start_offset": 5764,
+            "end_offset": 5781,
+            "annotation_id": "FA_069"
+        },
+        {
+            "decision": "had 95% RCA lesion ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5783,
+            "end_offset": 5801,
+            "annotation_id": "FA_070"
+        },
+        {
+            "decision": "stented with cyphers x 2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5812,
+            "end_offset": 5836,
+            "annotation_id": "FA_071"
+        },
+        {
+            "decision": "uncomplicated recovery and was discharged pain free",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5848,
+            "end_offset": 5899,
+            "annotation_id": "FA_072"
+        },
+        {
+            "decision": "on Toprol [**Last Name (LF) 8864**], [**First Name3 (LF) **], lisinopril, and plavix.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5917,
+            "end_offset": 6001,
+            "annotation_id": "FA_073"
+        },
+        {
+            "decision": "Atenolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 6030,
+            "end_offset": 6038,
+            "annotation_id": "FA_074"
+        },
+        {
+            "decision": "Niacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6039,
+            "end_offset": 6045,
+            "annotation_id": "FA_075"
+        },
+        {
+            "decision": "Prilosec",
+            "category": "Category 5: Drug related",
+            "start_offset": 6046,
+            "end_offset": 6054,
+            "annotation_id": "FA_076"
+        },
+        {
+            "decision": "Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6082,
+            "end_offset": 6245,
+            "annotation_id": "FA_077"
+        },
+        {
+            "decision": "Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6249,
+            "end_offset": 6343,
+            "annotation_id": "FA_078"
+        },
+        {
+            "decision": "Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6347,
+            "end_offset": 6442,
+            "annotation_id": "FA_079"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6446,
+            "end_offset": 6538,
+            "annotation_id": "FA_080"
+        },
+        {
+            "decision": "Toprol XL 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day. Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6542,
+            "end_offset": 6700,
+            "annotation_id": "FA_081"
+        },
+        {
+            "decision": "Coronary Artery Disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6753,
+            "end_offset": 6776,
+            "annotation_id": "FA_082"
+        },
+        {
+            "decision": "Acute ST Segment Elevation Myocardial Infarction ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6777,
+            "end_offset": 6825,
+            "annotation_id": "FA_083"
+        },
+        {
+            "decision": "Stable, without chest pain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6848,
+            "end_offset": 6874,
+            "annotation_id": "FA_084"
+        },
+        {
+            "decision": "Please call your doctor or go to the emergency room if you experience any chest pressure/pain or any symptomes concerning for a heart attack",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6901,
+            "end_offset": 7041,
+            "annotation_id": "FA_085"
+        },
+        {
+            "decision": "Please make an appointment with your primary care doctor in the next week.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7044,
+            "end_offset": 7117,
+            "annotation_id": "FA_086"
+        },
+        {
+            "decision": "Please follow up with your cardiologist",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7120,
+            "end_offset": 7159,
+            "annotation_id": "FA_087"
+        },
+        {
+            "decision": "Please follow up with your primary care doctor and cardiologist.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7185,
+            "end_offset": 7248,
+            "annotation_id": "FA_088"
+        },
+        {
+            "decision": "Cardiac rehabilitation.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7251,
+            "end_offset": 7273,
+            "annotation_id": "FA_089"
+        }
+    ]
+}

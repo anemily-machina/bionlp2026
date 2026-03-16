@@ -1,0 +1,874 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "25515_122674_28280",
+    "annotations": [
+        {
+            "decision": "hypoxia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 277,
+            "end_offset": 284,
+            "annotation_id": "HV_000"
+        },
+        {
+            "decision": "Bronchoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 324,
+            "end_offset": 336,
+            "annotation_id": "HV_001"
+        },
+        {
+            "decision": "PICC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 337,
+            "end_offset": 341,
+            "annotation_id": "HV_002"
+        },
+        {
+            "decision": "COPD, LLL lung adenocarcinoma, chronic respiratory failure, PE ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 425,
+            "end_offset": 487,
+            "annotation_id": "HV_003"
+        },
+        {
+            "decision": "IVC filter",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 492,
+            "end_offset": 502,
+            "annotation_id": "HV_004"
+        },
+        {
+            "decision": "CHF, VAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 504,
+            "end_offset": 512,
+            "annotation_id": "HV_005"
+        },
+        {
+            "decision": "trach tube was foundto be loose and falling out today associated with high airway pressures of 60s-70s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 596,
+            "end_offset": 698,
+            "annotation_id": "HV_006"
+        },
+        {
+            "decision": "was seen by respiratory therapy",
+            "category": "Category 1: Contact related",
+            "start_offset": 767,
+            "end_offset": 798,
+            "annotation_id": "HV_007"
+        },
+        {
+            "decision": "pushed his trach tube back into place with immediately resolution of airway pressures to the 20s.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 803,
+            "end_offset": 899,
+            "annotation_id": "HV_008"
+        },
+        {
+            "decision": "hypotensive to 60s systolic with HR 97.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 940,
+            "end_offset": 978,
+            "annotation_id": "HV_009"
+        },
+        {
+            "decision": "2L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 993,
+            "end_offset": 998,
+            "annotation_id": "HV_010"
+        },
+        {
+            "decision": "responded with return of his BP to the 110s.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1011,
+            "end_offset": 1054,
+            "annotation_id": "HV_011"
+        },
+        {
+            "decision": "total of 4L NS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1091,
+            "end_offset": 1105,
+            "annotation_id": "HV_012"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1154,
+            "end_offset": 1164,
+            "annotation_id": "HV_013"
+        },
+        {
+            "decision": "bronch by interventional pulmonology ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1216,
+            "end_offset": 1252,
+            "annotation_id": "HV_014"
+        },
+        {
+            "decision": "trach tube had been changed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1365,
+            "end_offset": 1392,
+            "annotation_id": "HV_015"
+        },
+        {
+            "decision": "Pseudomonal pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1460,
+            "end_offset": 1481,
+            "annotation_id": "HV_016"
+        },
+        {
+            "decision": "vanco, cefepime, Flagyl,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1515,
+            "end_offset": 1538,
+            "annotation_id": "HV_017"
+        },
+        {
+            "decision": "pt unable to answer specific questions to this effect at this time",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1829,
+            "end_offset": 1895,
+            "annotation_id": "HV_018"
+        },
+        {
+            "decision": "1) Lung adenocarcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1922,
+            "end_offset": 1944,
+            "annotation_id": "HV_019"
+        },
+        {
+            "decision": "2) Tracheostomy, chronically ventilator dependent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1945,
+            "end_offset": 1994,
+            "annotation_id": "HV_020"
+        },
+        {
+            "decision": "3) Post obstructive pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1995,
+            "end_offset": 2024,
+            "annotation_id": "HV_021"
+        },
+        {
+            "decision": "4) History of VRE and MRSA infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2025,
+            "end_offset": 2061,
+            "annotation_id": "HV_022"
+        },
+        {
+            "decision": "5) S/p G-tube placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2062,
+            "end_offset": 2085,
+            "annotation_id": "HV_023"
+        },
+        {
+            "decision": "4) History of pulmonary embolism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2086,
+            "end_offset": 2118,
+            "annotation_id": "HV_024"
+        },
+        {
+            "decision": "5) History of retroperitoneal bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2143,
+            "end_offset": 2178,
+            "annotation_id": "HV_025"
+        },
+        {
+            "decision": "6) COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2179,
+            "end_offset": 2186,
+            "annotation_id": "HV_026"
+        },
+        {
+            "decision": "7) Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2187,
+            "end_offset": 2202,
+            "annotation_id": "HV_027"
+        },
+        {
+            "decision": "8) Diabetes type II.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2203,
+            "end_offset": 2222,
+            "annotation_id": "HV_028"
+        },
+        {
+            "decision": "9) Urethral tear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2224,
+            "end_offset": 2240,
+            "annotation_id": "HV_029"
+        },
+        {
+            "decision": "10) recent pseudomonal pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2241,
+            "end_offset": 2273,
+            "annotation_id": "HV_030"
+        },
+        {
+            "decision": "11) recent change of trach tube ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2322,
+            "end_offset": 2353,
+            "annotation_id": "HV_031"
+        },
+        {
+            "decision": "PEEP 5 FiO2 100%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2689,
+            "end_offset": 2704,
+            "annotation_id": "HV_032"
+        },
+        {
+            "decision": "Gen: pt attempts to talk and answer questions, seems confused but pleasant, unable to write (writes letters that do not make comprehensible words), NAD, denies pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2706,
+            "end_offset": 2870,
+            "annotation_id": "HV_033"
+        },
+        {
+            "decision": "HEENT: oral thrush on tongue, PERRL, MM moist",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2871,
+            "end_offset": 2916,
+            "annotation_id": "HV_034"
+        },
+        {
+            "decision": "Neck: trach tube in place and secured, no NVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2917,
+            "end_offset": 2962,
+            "annotation_id": "HV_035"
+        },
+        {
+            "decision": "Cor: RRR, no R/G/M",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2963,
+            "end_offset": 2981,
+            "annotation_id": "HV_036"
+        },
+        {
+            "decision": "Pulm: diffuse coarse transmitted bronchial breath sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2982,
+            "end_offset": 3038,
+            "annotation_id": "HV_037"
+        },
+        {
+            "decision": "Abd; soft, NT, ND, decreased BS, Gtube in place and nonerythematous",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3039,
+            "end_offset": 3106,
+            "annotation_id": "HV_038"
+        },
+        {
+            "decision": "Ext: no edema, bilateral skin changes of venous stasis, barely palpable PT pulses bilaterally, legs well perfused",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3107,
+            "end_offset": 3220,
+            "annotation_id": "HV_039"
+        },
+        {
+            "decision": "Neuro: unable to perform full neuro exam given MS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3221,
+            "end_offset": 3270,
+            "annotation_id": "HV_040"
+        },
+        {
+            "decision": "skin; no rashes, venousstasis changes as above",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3271,
+            "end_offset": 3317,
+            "annotation_id": "HV_041"
+        },
+        {
+            "decision": "Tracheotomy tube tip just at the thoracic inlet, approximately 8 cm from the carina, similar in position compared to prior study from [**2159-9-10**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3792,
+            "end_offset": 3941,
+            "annotation_id": "HV_042"
+        },
+        {
+            "decision": "Similar sized left lung mass",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3946,
+            "end_offset": 3974,
+            "annotation_id": "HV_043"
+        },
+        {
+            "decision": "Similar appearing left retrocardiac opacification consistent with atelectasis and/or consolidation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3979,
+            "end_offset": 4077,
+            "annotation_id": "HV_044"
+        },
+        {
+            "decision": "cOPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4125,
+            "end_offset": 4129,
+            "annotation_id": "HV_045"
+        },
+        {
+            "decision": "pseudomonal pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4138,
+            "end_offset": 4159,
+            "annotation_id": "HV_046"
+        },
+        {
+            "decision": "longstanding trach on ventilation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4161,
+            "end_offset": 4194,
+            "annotation_id": "HV_047"
+        },
+        {
+            "decision": "dislodged trach tube, high peak airway pressures which resolved with manipulation of tube",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4209,
+            "end_offset": 4298,
+            "annotation_id": "HV_048"
+        },
+        {
+            "decision": "elevated white count",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4303,
+            "end_offset": 4323,
+            "annotation_id": "HV_049"
+        },
+        {
+            "decision": "transient hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4335,
+            "end_offset": 4356,
+            "annotation_id": "HV_050"
+        },
+        {
+            "decision": "Respiratory failure: likely secondary to dislodged trach tube. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4374,
+            "end_offset": 4435,
+            "annotation_id": "HV_051"
+        },
+        {
+            "decision": "physical resetting of the trach tube",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4477,
+            "end_offset": 4513,
+            "annotation_id": "HV_052"
+        },
+        {
+            "decision": "Bronchoscopy was done later",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4556,
+            "end_offset": 4583,
+            "annotation_id": "HV_053"
+        },
+        {
+            "decision": "Bronchoscopy was done later and the trach tube was advance to a better position.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4556,
+            "end_offset": 4635,
+            "annotation_id": "HV_054"
+        },
+        {
+            "decision": "vent settings during this hospitalization was: assisted control with fiO2 of 40%, 550mL x 22, PEEP 5.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4843,
+            "end_offset": 4943,
+            "annotation_id": "HV_055"
+        },
+        {
+            "decision": "ipratropium and albuterol inhalers",
+            "category": "Category 5: Drug related",
+            "start_offset": 5041,
+            "end_offset": 5075,
+            "annotation_id": "HV_056"
+        },
+        {
+            "decision": "copd",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5097,
+            "end_offset": 5101,
+            "annotation_id": "HV_057"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5148,
+            "end_offset": 5152,
+            "annotation_id": "HV_058"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5159,
+            "end_offset": 5170,
+            "annotation_id": "HV_059"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5202,
+            "end_offset": 5213,
+            "annotation_id": "HV_060"
+        },
+        {
+            "decision": "trach tube was position",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5267,
+            "end_offset": 5290,
+            "annotation_id": "HV_061"
+        },
+        {
+            "decision": "fluid rescucitation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5338,
+            "end_offset": 5357,
+            "annotation_id": "HV_062"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5400,
+            "end_offset": 5411,
+            "annotation_id": "HV_063"
+        },
+        {
+            "decision": "sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5441,
+            "end_offset": 5447,
+            "annotation_id": "HV_064"
+        },
+        {
+            "decision": "Urine cultures and blood cultures were sent and were still pending at time of discharge",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5518,
+            "end_offset": 5605,
+            "annotation_id": "HV_065"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 5628,
+            "end_offset": 5639,
+            "annotation_id": "HV_066"
+        },
+        {
+            "decision": "sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5656,
+            "end_offset": 5662,
+            "annotation_id": "HV_067"
+        },
+        {
+            "decision": "vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5664,
+            "end_offset": 5674,
+            "annotation_id": "HV_068"
+        },
+        {
+            "decision": "zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5688,
+            "end_offset": 5693,
+            "annotation_id": "HV_069"
+        },
+        {
+            "decision": "vancomycin, and zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 5867,
+            "end_offset": 5888,
+            "annotation_id": "HV_070"
+        },
+        {
+            "decision": "UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5935,
+            "end_offset": 5938,
+            "annotation_id": "HV_071"
+        },
+        {
+            "decision": "positive UA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5948,
+            "end_offset": 5959,
+            "annotation_id": "HV_072"
+        },
+        {
+            "decision": "zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6004,
+            "end_offset": 6009,
+            "annotation_id": "HV_073"
+        },
+        {
+            "decision": "DMII",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6091,
+            "end_offset": 6095,
+            "annotation_id": "HV_074"
+        },
+        {
+            "decision": "insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 6138,
+            "end_offset": 6159,
+            "annotation_id": "HV_075"
+        },
+        {
+            "decision": "oral thrush",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6187,
+            "end_offset": 6198,
+            "annotation_id": "HV_076"
+        },
+        {
+            "decision": "nystatin swish and spit ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6200,
+            "end_offset": 6223,
+            "annotation_id": "HV_077"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6234,
+            "end_offset": 6237,
+            "annotation_id": "HV_078"
+        },
+        {
+            "decision": "metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6267,
+            "end_offset": 6277,
+            "annotation_id": "HV_079"
+        },
+        {
+            "decision": "per nutrition consult",
+            "category": "Category 1: Contact related",
+            "start_offset": 6307,
+            "end_offset": 6328,
+            "annotation_id": "HV_080"
+        },
+        {
+            "decision": "Probalance Full strength with Beneprotein 35 gm/day at goal of 60ml/hr. Residual were checked q4h and held for residual >= :100 ml. Flushed w/ 150 ml water q6h",
+            "category": "Category 5: Drug related",
+            "start_offset": 6343,
+            "end_offset": 6502,
+            "annotation_id": "HV_081"
+        },
+        {
+            "decision": "lansoprazole, heparin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6514,
+            "end_offset": 6535,
+            "annotation_id": "HV_082"
+        },
+        {
+            "decision": "h/o PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6545,
+            "end_offset": 6551,
+            "annotation_id": "HV_083"
+        },
+        {
+            "decision": "pneumoboots",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6553,
+            "end_offset": 6564,
+            "annotation_id": "HV_084"
+        },
+        {
+            "decision": "metoprolol 50mg per Gtube [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6783,
+            "end_offset": 6825,
+            "annotation_id": "HV_085"
+        },
+        {
+            "decision": "colace 100 per Gtube [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 6826,
+            "end_offset": 6863,
+            "annotation_id": "HV_086"
+        },
+        {
+            "decision": "senna 1 tab per Gtube qday",
+            "category": "Category 5: Drug related",
+            "start_offset": 6864,
+            "end_offset": 6890,
+            "annotation_id": "HV_087"
+        },
+        {
+            "decision": "ipratropium 2 puffs qid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6891,
+            "end_offset": 6914,
+            "annotation_id": "HV_088"
+        },
+        {
+            "decision": "combivent inhaler 1-2 puffs q6 prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 6915,
+            "end_offset": 6949,
+            "annotation_id": "HV_089"
+        },
+        {
+            "decision": "nystatin swish and spit qid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6950,
+            "end_offset": 6977,
+            "annotation_id": "HV_090"
+        },
+        {
+            "decision": "regular insulin slide scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 6978,
+            "end_offset": 7005,
+            "annotation_id": "HV_091"
+        },
+        {
+            "decision": "heparin subQ tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 7006,
+            "end_offset": 7022,
+            "annotation_id": "HV_092"
+        },
+        {
+            "decision": "lansoprazole 30mg per G tube qday",
+            "category": "Category 5: Drug related",
+            "start_offset": 7023,
+            "end_offset": 7056,
+            "annotation_id": "HV_093"
+        },
+        {
+            "decision": "1. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7082,
+            "end_offset": 7156,
+            "annotation_id": "HV_094"
+        },
+        {
+            "decision": "2. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID W/MEALS (3 TIMES A DAY WITH MEALS).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7159,
+            "end_offset": 7254,
+            "annotation_id": "HV_095"
+        },
+        {
+            "decision": "3. Senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7257,
+            "end_offset": 7321,
+            "annotation_id": "HV_096"
+        },
+        {
+            "decision": "4. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty (30) mg PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7324,
+            "end_offset": 7412,
+            "annotation_id": "HV_097"
+        },
+        {
+            "decision": "5. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1) AS PER SLIDING SCALE Subcutaneous ASDIR (AS DIRECTED). AS PER SLIDING SCALE",
+            "category": "Category 5: Drug related",
+            "start_offset": 7415,
+            "end_offset": 7550,
+            "annotation_id": "HV_098"
+        },
+        {
+            "decision": "6. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7551,
+            "end_offset": 7646,
+            "annotation_id": "HV_099"
+        },
+        {
+            "decision": "7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7649,
+            "end_offset": 7742,
+            "annotation_id": "HV_100"
+        },
+        {
+            "decision": "8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7744,
+            "end_offset": 7840,
+            "annotation_id": "HV_101"
+        },
+        {
+            "decision": "9. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7842,
+            "end_offset": 7919,
+            "annotation_id": "HV_102"
+        },
+        {
+            "decision": "10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7922,
+            "end_offset": 8000,
+            "annotation_id": "HV_103"
+        },
+        {
+            "decision": "11. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8003,
+            "end_offset": 8099,
+            "annotation_id": "HV_104"
+        },
+        {
+            "decision": "12. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN Peripheral IV - Inspect site every shift",
+            "category": "Category 5: Drug related",
+            "start_offset": 8102,
+            "end_offset": 8192,
+            "annotation_id": "HV_105"
+        },
+        {
+            "decision": "13. Vancomycin HCl 1000 mg IV Q 12H Start: In am",
+            "category": "Category 5: Drug related",
+            "start_offset": 8193,
+            "end_offset": 8241,
+            "annotation_id": "HV_106"
+        },
+        {
+            "decision": "14. Piperacillin-Tazobactam Na 4.5 gm IV Q8H",
+            "category": "Category 5: Drug related",
+            "start_offset": 8242,
+            "end_offset": 8286,
+            "annotation_id": "HV_107"
+        },
+        {
+            "decision": "Respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8388,
+            "end_offset": 8407,
+            "annotation_id": "HV_108"
+        },
+        {
+            "decision": "UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8408,
+            "end_offset": 8411,
+            "annotation_id": "HV_109"
+        },
+        {
+            "decision": "Lung adenocarcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8412,
+            "end_offset": 8431,
+            "annotation_id": "HV_110"
+        },
+        {
+            "decision": "Tracheostomy, chronically ventilator dependent",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8432,
+            "end_offset": 8478,
+            "annotation_id": "HV_111"
+        },
+        {
+            "decision": "Post obstructive pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8479,
+            "end_offset": 8505,
+            "annotation_id": "HV_112"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8506,
+            "end_offset": 8510,
+            "annotation_id": "HV_113"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8511,
+            "end_offset": 8523,
+            "annotation_id": "HV_114"
+        },
+        {
+            "decision": "Diabetes type II.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8524,
+            "end_offset": 8540,
+            "annotation_id": "HV_115"
+        },
+        {
+            "decision": "Hemodynamically stable, afebrile.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8565,
+            "end_offset": 8597,
+            "annotation_id": "HV_116"
+        },
+        {
+            "decision": "Please take all medications as prescribed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8625,
+            "end_offset": 8666,
+            "annotation_id": "HV_117"
+        },
+        {
+            "decision": "Please keep all appointment with your doctors",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8669,
+            "end_offset": 8714,
+            "annotation_id": "HV_118"
+        },
+        {
+            "decision": "Follow up with your primary care physician as soon as possible about your recent hospital stay",
+            "category": "Category 1: Contact related",
+            "start_offset": 8717,
+            "end_offset": 8811,
+            "annotation_id": "HV_119"
+        },
+        {
+            "decision": "If you have chest pain or shortness of breath, please seek medical attention immediately.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8813,
+            "end_offset": 8901,
+            "annotation_id": "HV_120"
+        },
+        {
+            "decision": "Please remember not to tamper with your tracheostomy and tubing",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8904,
+            "end_offset": 8967,
+            "annotation_id": "HV_121"
+        },
+        {
+            "decision": "In general, please call your doctor or go to the emergency room if you have any medical concerns or questions.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8970,
+            "end_offset": 9079,
+            "annotation_id": "HV_122"
+        },
+        {
+            "decision": "Please follow up with your PCP as soon as possible",
+            "category": "Category 1: Contact related",
+            "start_offset": 9105,
+            "end_offset": 9155,
+            "annotation_id": "HV_123"
+        }
+    ]
+}

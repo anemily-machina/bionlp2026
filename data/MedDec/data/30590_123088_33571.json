@@ -1,0 +1,531 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30590_123088_33571",
+    "annotations": [
+        {
+            "decision": "cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 311,
+            "end_offset": 324,
+            "annotation_id": "KG_000"
+        },
+        {
+            "decision": "Percutaneous Cholecystotomy tube",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 447,
+            "end_offset": 479,
+            "annotation_id": "KG_001"
+        },
+        {
+            "decision": "admitted from [**Location (un) 14468**] Nursing and rehabilitation center ",
+            "category": "Category 1: Contact related",
+            "start_offset": 554,
+            "end_offset": 627,
+            "annotation_id": "KG_002"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 741,
+            "end_offset": 753,
+            "annotation_id": "KG_003"
+        },
+        {
+            "decision": "Cholelithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 754,
+            "end_offset": 768,
+            "annotation_id": "KG_004"
+        },
+        {
+            "decision": "T11-L1 osteomyelitis (s. epi, [**Female First Name (un) **]) c/b sepsis,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 770,
+            "end_offset": 841,
+            "annotation_id": "KG_005"
+        },
+        {
+            "decision": "breast ca,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 843,
+            "end_offset": 852,
+            "annotation_id": "KG_006"
+        },
+        {
+            "decision": "rotator calf injury R,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 854,
+            "end_offset": 875,
+            "annotation_id": "KG_007"
+        },
+        {
+            "decision": "status post Bilateral total hip",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 900,
+            "end_offset": 931,
+            "annotation_id": "KG_008"
+        },
+        {
+            "decision": "replacement THR,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 932,
+            "end_offset": 947,
+            "annotation_id": "KG_009"
+        },
+        {
+            "decision": "status post L mastectomy,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 949,
+            "end_offset": 973,
+            "annotation_id": "KG_010"
+        },
+        {
+            "decision": "status post L ankle repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 975,
+            "end_offset": 1001,
+            "annotation_id": "KG_011"
+        },
+        {
+            "decision": "cardiovascular: rate fast, rhythm regular",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1164,
+            "end_offset": 1205,
+            "annotation_id": "KG_012"
+        },
+        {
+            "decision": "Respiratory; Bilateral breath sounds clear, decreased breath sounds at bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1206,
+            "end_offset": 1282,
+            "annotation_id": "KG_013"
+        },
+        {
+            "decision": "Abdomen: obese, tender to palpation in right upper quadrant.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1283,
+            "end_offset": 1342,
+            "annotation_id": "KG_014"
+        },
+        {
+            "decision": "Distended gallbladder with wall thickening and multiple intraluminal stones with stone within the neck, consistent with acute cholecystitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2125,
+            "end_offset": 2264,
+            "annotation_id": "KG_015"
+        },
+        {
+            "decision": "Intra- and extrahepatic biliary dilatation. No choledocholithiasis identified on this study.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2269,
+            "end_offset": 2360,
+            "annotation_id": "KG_016"
+        },
+        {
+            "decision": "2.0 cm hypoechoic lesion within the left lobe of the liver,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2365,
+            "end_offset": 2423,
+            "annotation_id": "KG_017"
+        },
+        {
+            "decision": "chronic cholecystitis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2630,
+            "end_offset": 2651,
+            "annotation_id": "KG_018"
+        },
+        {
+            "decision": "Ultrasound ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2748,
+            "end_offset": 2758,
+            "annotation_id": "KG_019"
+        },
+        {
+            "decision": "revealed distended gallbladder with wall thickening and multiple intraluminal stones with stone within the neck, consistent with acute cholecystitis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2759,
+            "end_offset": 2907,
+            "annotation_id": "KG_020"
+        },
+        {
+            "decision": "[**2112-4-25**] cholecystostomy tube placement ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2912,
+            "end_offset": 2958,
+            "annotation_id": "KG_021"
+        },
+        {
+            "decision": "Central line placed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2974,
+            "end_offset": 2993,
+            "annotation_id": "KG_022"
+        },
+        {
+            "decision": "intravenous antibiotics given. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2998,
+            "end_offset": 3027,
+            "annotation_id": "KG_023"
+        },
+        {
+            "decision": "Infectious disease consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3029,
+            "end_offset": 3057,
+            "annotation_id": "KG_024"
+        },
+        {
+            "decision": "best antibiotic to use in conjunction with the fluconazole ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3068,
+            "end_offset": 3126,
+            "annotation_id": "KG_025"
+        },
+        {
+            "decision": "chronic spine infection. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3150,
+            "end_offset": 3173,
+            "annotation_id": "KG_026"
+        },
+        {
+            "decision": "recommended augmentin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3185,
+            "end_offset": 3206,
+            "annotation_id": "KG_027"
+        },
+        {
+            "decision": "vital signs are stable and she is afebrile",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3222,
+            "end_offset": 3264,
+            "annotation_id": "KG_028"
+        },
+        {
+            "decision": "transfer her back to her nursing home ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3274,
+            "end_offset": 3311,
+            "annotation_id": "KG_029"
+        },
+        {
+            "decision": "oral antibiotics for 2 weeks ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3315,
+            "end_offset": 3343,
+            "annotation_id": "KG_030"
+        },
+        {
+            "decision": "have her follow up with Dr. [**Last Name (STitle) **] in 3 weeks.",
+            "category": "Category 1: Contact related",
+            "start_offset": 3348,
+            "end_offset": 3412,
+            "annotation_id": "KG_031"
+        },
+        {
+            "decision": "Plan is for cholecystectomy in 4- 6 weeks.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 3414,
+            "end_offset": 3455,
+            "annotation_id": "KG_032"
+        },
+        {
+            "decision": "Cholecystitis - percutaneous chole",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3477,
+            "end_offset": 3511,
+            "annotation_id": "KG_033"
+        },
+        {
+            "decision": "tube in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3513,
+            "end_offset": 3526,
+            "annotation_id": "KG_034"
+        },
+        {
+            "decision": "oral antibiotics for 2 weeks",
+            "category": "Category 5: Drug related",
+            "start_offset": 3533,
+            "end_offset": 3561,
+            "annotation_id": "KG_035"
+        },
+        {
+            "decision": "Labwork weekly",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3563,
+            "end_offset": 3577,
+            "annotation_id": "KG_036"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 3587,
+            "end_offset": 3598,
+            "annotation_id": "KG_037"
+        },
+        {
+            "decision": "Follow up with Dr. [**First Name4 (NamePattern1) 7568**] [**Last Name (NamePattern1) 79**] regarding her infectious disease issues and Dr. [**Last Name (STitle) **] for possible cholecystectomy.",
+            "category": "Category 1: Contact related",
+            "start_offset": 3600,
+            "end_offset": 3793,
+            "annotation_id": "KG_038"
+        },
+        {
+            "decision": "for possible cholecystectomy.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 3765,
+            "end_offset": 3793,
+            "annotation_id": "KG_039"
+        },
+        {
+            "decision": "atenolol 25mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 3824,
+            "end_offset": 3843,
+            "annotation_id": "KG_040"
+        },
+        {
+            "decision": "fluconazole 200 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 3844,
+            "end_offset": 3868,
+            "annotation_id": "KG_041"
+        },
+        {
+            "decision": "lexapro 20mg daily,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3869,
+            "end_offset": 3887,
+            "annotation_id": "KG_042"
+        },
+        {
+            "decision": "protonix,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3889,
+            "end_offset": 3897,
+            "annotation_id": "KG_043"
+        },
+        {
+            "decision": "percocet,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3899,
+            "end_offset": 3907,
+            "annotation_id": "KG_044"
+        },
+        {
+            "decision": "methadone 12.5\",",
+            "category": "Category 5: Drug related",
+            "start_offset": 3909,
+            "end_offset": 3923,
+            "annotation_id": "KG_045"
+        },
+        {
+            "decision": "tylenol,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3926,
+            "end_offset": 3933,
+            "annotation_id": "KG_046"
+        },
+        {
+            "decision": "colace,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3935,
+            "end_offset": 3941,
+            "annotation_id": "KG_047"
+        },
+        {
+            "decision": "senna,",
+            "category": "Category 5: Drug related",
+            "start_offset": 3943,
+            "end_offset": 3948,
+            "annotation_id": "KG_048"
+        },
+        {
+            "decision": "Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4006,
+            "end_offset": 4091,
+            "annotation_id": "KG_049"
+        },
+        {
+            "decision": "Methadone 5 mg Tablet Sig: 2.5 Tablets PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4097,
+            "end_offset": 4157,
+            "annotation_id": "KG_050"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4163,
+            "end_offset": 4233,
+            "annotation_id": "KG_051"
+        },
+        {
+            "decision": "Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4239,
+            "end_offset": 4310,
+            "annotation_id": "KG_052"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4315,
+            "end_offset": 4432,
+            "annotation_id": "KG_053"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4438,
+            "end_offset": 4511,
+            "annotation_id": "KG_054"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4517,
+            "end_offset": 4589,
+            "annotation_id": "KG_055"
+        },
+        {
+            "decision": "Escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4594,
+            "end_offset": 4655,
+            "annotation_id": "KG_056"
+        },
+        {
+            "decision": "Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4661,
+            "end_offset": 4741,
+            "annotation_id": "KG_057"
+        },
+        {
+            "decision": "Fluconazole 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4747,
+            "end_offset": 4808,
+            "annotation_id": "KG_058"
+        },
+        {
+            "decision": "Augmentin XR 1,000-62.5 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO twice a day: for 2 weeks.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4815,
+            "end_offset": 4944,
+            "annotation_id": "KG_059"
+        },
+        {
+            "decision": "While on antibiotics patient needs to have weekly labs done",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4970,
+            "end_offset": 5029,
+            "annotation_id": "KG_060"
+        },
+        {
+            "decision": "Please check the following: CBC with diff. Creatinine, AST and ALT Report to Dr. [**Last Name (STitle) 79**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5031,
+            "end_offset": 5139,
+            "annotation_id": "KG_061"
+        },
+        {
+            "decision": "[**Location (un) 14468**] Nursing & Rehabilitation Center - [**Location (un) 1456**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 5190,
+            "end_offset": 5274,
+            "annotation_id": "KG_062"
+        },
+        {
+            "decision": "Chronic Cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5297,
+            "end_offset": 5318,
+            "annotation_id": "KG_063"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5319,
+            "end_offset": 5331,
+            "annotation_id": "KG_064"
+        },
+        {
+            "decision": "cholelithiasis,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5332,
+            "end_offset": 5346,
+            "annotation_id": "KG_065"
+        },
+        {
+            "decision": "T11-L1 osteomyelitis (s. epi, [**Female First Name (un) **]) c/b sepsis,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5348,
+            "end_offset": 5419,
+            "annotation_id": "KG_066"
+        },
+        {
+            "decision": "breast ca,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5421,
+            "end_offset": 5430,
+            "annotation_id": "KG_067"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5455,
+            "end_offset": 5461,
+            "annotation_id": "KG_068"
+        },
+        {
+            "decision": "Please call your doctor or return to the emergency room if you have any of the following:   * You experience new chest pain, pressure, squeezing or  tightness.  * New or worsening cough or wheezing.  * If you are vomiting and cannot keep in fluids or your  medications.  * You are getting dehydrated due to continued vomiting,  diarrhea or other reasons. Signs of dehydration include dry  mouth, rapid heartbeat or feeling dizzy or faint when standing.  * You see blood or dark/black material when you vomit or have a  bowel movement.   * You have shaking chills, or a fever greater than 101.5 (F)  degrees or 38(C) degrees.  * Any serious change in your symptoms, or any new symptoms that  concern you.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5489,
+            "end_offset": 6191,
+            "annotation_id": "KG_069"
+        },
+        {
+            "decision": "Please resume all regular home medications and take any new Meds  as ordered.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6196,
+            "end_offset": 6272,
+            "annotation_id": "KG_070"
+        },
+        {
+            "decision": "No heavy lifting of items [**11-9**] pounds for 6 weeks. You may resume moderate exercise at your discretion, no abdominal exercises.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6285,
+            "end_offset": 6417,
+            "annotation_id": "KG_071"
+        },
+        {
+            "decision": "You may shower, no tub baths or swimming. If there is clear drainage from your incisions, cover with clean, dry gauze. Your steri-strips will fall off on their own. Please remove any remaining strips 7-10 days after surgery. Please call the doctor if you have increased pain, swelling, redness, or drainage from the incision sites.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6432,
+            "end_offset": 6762,
+            "annotation_id": "KG_072"
+        },
+        {
+            "decision": "Please follow up with Dr. [**Last Name (STitle) **] [**Name (STitle) 23**] building [**Location (un) 470**] on Friday [**6-10**] @ 1:30.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6789,
+            "end_offset": 6924,
+            "annotation_id": "KG_073"
+        },
+        {
+            "decision": "Please call and make an appointment to have her infectious disease physician [**Name Initial (PRE) 788**]. Dr. [**First Name4 (NamePattern1) 7568**] [**Last Name (NamePattern1) 79**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 6927,
+            "end_offset": 7109,
+            "annotation_id": "KG_074"
+        }
+    ]
+}

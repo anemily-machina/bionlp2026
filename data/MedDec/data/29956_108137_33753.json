@@ -1,0 +1,622 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29956_108137_33753",
+    "annotations": [
+        {
+            "decision": "oligohydramnios and pregnancy induced hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 326,
+            "end_offset": 376,
+            "annotation_id": "KC_000"
+        },
+        {
+            "decision": "intrauterine growth restriction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 400,
+            "end_offset": 431,
+            "annotation_id": "KC_001"
+        },
+        {
+            "decision": "proteinuria at 13 weeks and progressive elevations of blood pressure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 477,
+            "end_offset": 545,
+            "annotation_id": "KC_002"
+        },
+        {
+            "decision": "decreased fetal growth during 22-26 weeks of fetal life",
+            "category": "Category 3: Defining problem",
+            "start_offset": 563,
+            "end_offset": 618,
+            "annotation_id": "KC_003"
+        },
+        {
+            "decision": "magnesium sulfate ",
+            "category": "Category 5: Drug related",
+            "start_offset": 675,
+            "end_offset": 692,
+            "annotation_id": "KC_004"
+        },
+        {
+            "decision": "preeclampsia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 707,
+            "end_offset": 719,
+            "annotation_id": "KC_005"
+        },
+        {
+            "decision": "betamethasone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 740,
+            "end_offset": 753,
+            "annotation_id": "KC_006"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 758,
+            "end_offset": 769,
+            "annotation_id": "KC_007"
+        },
+        {
+            "decision": "premature preterm rupture of membranes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 785,
+            "end_offset": 823,
+            "annotation_id": "KC_008"
+        },
+        {
+            "decision": "C section ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 852,
+            "end_offset": 861,
+            "annotation_id": "KC_009"
+        },
+        {
+            "decision": "nonreassuring fetal heart tracing and because of worsening preeclampsia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 873,
+            "end_offset": 944,
+            "annotation_id": "KC_010"
+        },
+        {
+            "decision": "emerged limp and apneic with a low heart rate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 972,
+            "end_offset": 1017,
+            "annotation_id": "KC_011"
+        },
+        {
+            "decision": "bag and mask ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1036,
+            "end_offset": 1060,
+            "annotation_id": "KC_012"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1078,
+            "end_offset": 1087,
+            "annotation_id": "KC_013"
+        },
+        {
+            "decision": "patient was brought to the NICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1141,
+            "end_offset": 1172,
+            "annotation_id": "KC_014"
+        },
+        {
+            "decision": "Generally the patient was well appearing and alert",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1441,
+            "end_offset": 1491,
+            "annotation_id": "KC_015"
+        },
+        {
+            "decision": "HEENT is significant for anterior fontanel open, soft and flat. Ears are normal set. There are no clefts. The patient has no dysmorphic facies. The patient has a supple neck",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1493,
+            "end_offset": 1666,
+            "annotation_id": "KC_016"
+        },
+        {
+            "decision": "Lungs sounds are clear bilaterally. There is good aeration. Cardiovascular: The patient has a normal S1, S2. No murmur was appreciated upon discharge. The patient intermittently has a mottled color. This mottling has been present for multiple weeks in the hospital. The mottling is believe to be the patient's baseline. The patient has equal femoral pulses bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1668,
+            "end_offset": 2036,
+            "annotation_id": "KC_017"
+        },
+        {
+            "decision": "The patient's abdominal exam is consistent for normal active bowel sounds. The abdomen is soft, nondistended and nontender with no palpable masses. A small umbilical hernia is present which is soft and easily reducible",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2038,
+            "end_offset": 2256,
+            "annotation_id": "KC_018"
+        },
+        {
+            "decision": "GU exam is consistent with normal female genitalia with no hernias noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2258,
+            "end_offset": 2330,
+            "annotation_id": "KC_019"
+        },
+        {
+            "decision": "The patient's extremities are warm and well perfused. Neurologically, this patient has a normal such and Moro reflex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2332,
+            "end_offset": 2448,
+            "annotation_id": "KC_020"
+        },
+        {
+            "decision": "The patient has normal tone for her gestational age. The patient has obvious sensation to stimulation by examiner. The patient has no hip clunks or clicks",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2450,
+            "end_offset": 2604,
+            "annotation_id": "KC_021"
+        },
+        {
+            "decision": "The patient has a patent anus and no sacral [**Hospital1 **] or dimples were noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2606,
+            "end_offset": 2688,
+            "annotation_id": "KC_022"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2751,
+            "end_offset": 2760,
+            "annotation_id": "KC_023"
+        },
+        {
+            "decision": "conventional ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2776,
+            "end_offset": 2800,
+            "annotation_id": "KC_024"
+        },
+        {
+            "decision": "surfactant x 1 ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2827,
+            "end_offset": 2841,
+            "annotation_id": "KC_025"
+        },
+        {
+            "decision": "extubated to CPAP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2879,
+            "end_offset": 2896,
+            "annotation_id": "KC_026"
+        },
+        {
+            "decision": "CPAP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2944,
+            "end_offset": 2948,
+            "annotation_id": "KC_027"
+        },
+        {
+            "decision": "nasal cannula ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3065,
+            "end_offset": 3078,
+            "annotation_id": "KC_028"
+        },
+        {
+            "decision": "patient     remained stable in room air",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3146,
+            "end_offset": 3185,
+            "annotation_id": "KC_029"
+        },
+        {
+            "decision": "patient did have apnea     of prematurity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3191,
+            "end_offset": 3232,
+            "annotation_id": "KC_030"
+        },
+        {
+            "decision": "caffeine",
+            "category": "Category 5: Drug related",
+            "start_offset": 3274,
+            "end_offset": 3282,
+            "annotation_id": "KC_031"
+        },
+        {
+            "decision": "The patient     has not had spells since [**2189-4-24**]. The patient has     had no concerning signs of apnea of prematurity for     approximately a week prior to discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3377,
+            "end_offset": 3550,
+            "annotation_id": "KC_032"
+        },
+        {
+            "decision": "This patient has had no appreciable     murmur in the first week of life",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3571,
+            "end_offset": 3643,
+            "annotation_id": "KC_033"
+        },
+        {
+            "decision": "indomethacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3746,
+            "end_offset": 3758,
+            "annotation_id": "KC_034"
+        },
+        {
+            "decision": "Other than a baseline     mottled appearance, this patient has had no other     concerning factors in the cardiovascular portion of her     hospital course.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3797,
+            "end_offset": 3952,
+            "annotation_id": "KC_035"
+        },
+        {
+            "decision": "total parenteral     nutrition",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4104,
+            "end_offset": 4134,
+            "annotation_id": "KC_036"
+        },
+        {
+            "decision": "Feedings were started on day of life 4 with     breast milk.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4136,
+            "end_offset": 4195,
+            "annotation_id": "KC_037"
+        },
+        {
+            "decision": "The patient was advanced on feedings until     the patient received a maximum of 130 cc per kilo per     day of breast milk fortified with 32 kcal per ounce",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4256,
+            "end_offset": 4412,
+            "annotation_id": "KC_038"
+        },
+        {
+            "decision": "breast milk 26 kcal per     ounce",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4515,
+            "end_offset": 4548,
+            "annotation_id": "KC_039"
+        },
+        {
+            "decision": "breast milk is fortified with EnfaCare powder",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4555,
+            "end_offset": 4600,
+            "annotation_id": "KC_040"
+        },
+        {
+            "decision": "supplemented iron     and multivitamin.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4646,
+            "end_offset": 4684,
+            "annotation_id": "KC_041"
+        },
+        {
+            "decision": "phototherapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4714,
+            "end_offset": 4726,
+            "annotation_id": "KC_042"
+        },
+        {
+            "decision": "an elevated     indirect bilirubin (for infant's size).  Peak level was     5.4/0.3.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4731,
+            "end_offset": 4814,
+            "annotation_id": "KC_043"
+        },
+        {
+            "decision": "infant's growth restriction was likely due to     mom's persistent pregnancy induced hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4906,
+            "end_offset": 5003,
+            "annotation_id": "KC_044"
+        },
+        {
+            "decision": "newborn screen for toxoplasma     was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5043,
+            "end_offset": 5089,
+            "annotation_id": "KC_045"
+        },
+        {
+            "decision": "Mom had no history of Herpes lesions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5091,
+            "end_offset": 5127,
+            "annotation_id": "KC_046"
+        },
+        {
+            "decision": "urine CMV was sent and was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5135,
+            "end_offset": 5170,
+            "annotation_id": "KC_047"
+        },
+        {
+            "decision": "TORCH infection as     a possible etiology for the intrauterine growth     retardation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5235,
+            "end_offset": 5321,
+            "annotation_id": "KC_048"
+        },
+        {
+            "decision": "ampicillin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5422,
+            "end_offset": 5432,
+            "annotation_id": "KC_049"
+        },
+        {
+            "decision": "gentamicin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5441,
+            "end_offset": 5451,
+            "annotation_id": "KC_050"
+        },
+        {
+            "decision": "sepsis workup related to preterm     labor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5465,
+            "end_offset": 5507,
+            "annotation_id": "KC_051"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5576,
+            "end_offset": 5587,
+            "annotation_id": "KC_052"
+        },
+        {
+            "decision": "iron at 4 mg/kilo/day of     elemental iron",
+            "category": "Category 5: Drug related",
+            "start_offset": 5824,
+            "end_offset": 5867,
+            "annotation_id": "KC_053"
+        },
+        {
+            "decision": "anemia of prematurity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5872,
+            "end_offset": 5893,
+            "annotation_id": "KC_054"
+        },
+        {
+            "decision": "ampicillin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5969,
+            "end_offset": 5979,
+            "annotation_id": "KC_055"
+        },
+        {
+            "decision": "gentamicin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5984,
+            "end_offset": 5994,
+            "annotation_id": "KC_056"
+        },
+        {
+            "decision": "birth related to preterm birth and     labor.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6030,
+            "end_offset": 6074,
+            "annotation_id": "KC_057"
+        },
+        {
+            "decision": "Head     ultrasound was performed on [**3-11**], [**4-1**], and     [**2189-5-4**] which were all normal and showed no     significant intracranial hemorrhages or PVL.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6174,
+            "end_offset": 6340,
+            "annotation_id": "KC_058"
+        },
+        {
+            "decision": "This patient passed her hearing screen prior     to discharge",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6354,
+            "end_offset": 6415,
+            "annotation_id": "KC_059"
+        },
+        {
+            "decision": "This patient has been followed by     ophthalmology",
+            "category": "Category 1: Contact related",
+            "start_offset": 6417,
+            "end_offset": 6468,
+            "annotation_id": "KC_060"
+        },
+        {
+            "decision": "retinopathy of prematurity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6473,
+            "end_offset": 6499,
+            "annotation_id": "KC_061"
+        },
+        {
+            "decision": "patient had immature retina in zone 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6570,
+            "end_offset": 6607,
+            "annotation_id": "KC_062"
+        },
+        {
+            "decision": "immature retina now in zone 3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6650,
+            "end_offset": 6679,
+            "annotation_id": "KC_063"
+        },
+        {
+            "decision": "This patient will     need to have an outpatient ophthalmology eye exam to     follow for retinopathy of prematurity in mid-[**Month (only) 547**]. Our     next scheduled date was [**2189-5-11**]. We have asked the     parents to make this followup appointment",
+            "category": "Category 1: Contact related",
+            "start_offset": 6727,
+            "end_offset": 6987,
+            "annotation_id": "KC_064"
+        },
+        {
+            "decision": "PRIMARY CARE PEDIATRICIAN:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 60051**] of [**Hospital 620**] Pediatrics. The address of [**Hospital 620**] Pediatrics is [**Last Name (NamePattern1) 76136**], [**Location (un) 620**], [**Numeric Identifier **]. Phone number of [**Hospital 620**] Pediatrics is [**Telephone/Fax (1) 37814**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 7191,
+            "end_offset": 7544,
+            "annotation_id": "KC_065"
+        },
+        {
+            "decision": "Breast milk 26 k-calorie/ounce made     with EnfaCare formula.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7600,
+            "end_offset": 7661,
+            "annotation_id": "KC_066"
+        },
+        {
+            "decision": "Ferrous Sulfate 0.4 mL PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7680,
+            "end_offset": 7711,
+            "annotation_id": "KC_067"
+        },
+        {
+            "decision": "Goldline multivitamin 1.0 ml p.o. daily.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7779,
+            "end_offset": 7818,
+            "annotation_id": "KC_068"
+        },
+        {
+            "decision": "Iron supplementation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7857,
+            "end_offset": 7877,
+            "annotation_id": "KC_069"
+        },
+        {
+            "decision": "vitamin D supplementation at 200 International Units",
+            "category": "Category 5: Drug related",
+            "start_offset": 8024,
+            "end_offset": 8076,
+            "annotation_id": "KC_070"
+        },
+        {
+            "decision": "Newborn state screens have been performed during her     hospitalization on [**2189-3-7**], [**2189-3-18**], and [**2189-4-15**]. The     last screen was without any abnormal results.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8251,
+            "end_offset": 8433,
+            "annotation_id": "KC_071"
+        },
+        {
+            "decision": "Pediarix",
+            "category": "Category 5: Drug related",
+            "start_offset": 8499,
+            "end_offset": 8507,
+            "annotation_id": "KC_072"
+        },
+        {
+            "decision": "HIB",
+            "category": "Category 5: Drug related",
+            "start_offset": 8509,
+            "end_offset": 8512,
+            "annotation_id": "KC_073"
+        },
+        {
+            "decision": "Pneumococcal 7-valent Conjugate vaccine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8514,
+            "end_offset": 8553,
+            "annotation_id": "KC_074"
+        },
+        {
+            "decision": "Synagis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8562,
+            "end_offset": 8569,
+            "annotation_id": "KC_075"
+        },
+        {
+            "decision": "Synagis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8615,
+            "end_offset": 8622,
+            "annotation_id": "KC_076"
+        },
+        {
+            "decision": "Primary care pediatrician follow up 1- 2 days following     discharge to follow weight",
+            "category": "Category 1: Contact related",
+            "start_offset": 9734,
+            "end_offset": 9820,
+            "annotation_id": "KC_077"
+        },
+        {
+            "decision": "Pediatric ophthalmology followup for retinopathy of     prematurity",
+            "category": "Category 1: Contact related",
+            "start_offset": 9826,
+            "end_offset": 9893,
+            "annotation_id": "KC_078"
+        },
+        {
+            "decision": "Referral made to the infant followup clinic and Early     Intervention.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9930,
+            "end_offset": 10000,
+            "annotation_id": "KC_079"
+        },
+        {
+            "decision": "Premature birth at 28 weeks.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10027,
+            "end_offset": 10054,
+            "annotation_id": "KC_080"
+        },
+        {
+            "decision": "Intrauterine growth restriction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10059,
+            "end_offset": 10090,
+            "annotation_id": "KC_081"
+        },
+        {
+            "decision": "Respiratory distress syndrome, resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10095,
+            "end_offset": 10134,
+            "annotation_id": "KC_082"
+        },
+        {
+            "decision": "Apnea of prematurity, resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10139,
+            "end_offset": 10169,
+            "annotation_id": "KC_083"
+        },
+        {
+            "decision": "Rule-out sepsis, ruled-out.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10174,
+            "end_offset": 10200,
+            "annotation_id": "KC_084"
+        },
+        {
+            "decision": "Anemia of prematurity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10205,
+            "end_offset": 10226,
+            "annotation_id": "KC_085"
+        },
+        {
+            "decision": "Hyperbilirubinemia, resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10231,
+            "end_offset": 10259,
+            "annotation_id": "KC_086"
+        },
+        {
+            "decision": "Small umbilical hernia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10264,
+            "end_offset": 10286,
+            "annotation_id": "KC_087"
+        }
+    ]
+}

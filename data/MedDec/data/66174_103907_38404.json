@@ -1,0 +1,356 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "66174_103907_38404",
+    "annotations": [
+        {
+            "decision": "chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 281,
+            "end_offset": 291,
+            "annotation_id": "OG_000"
+        },
+        {
+            "decision": "Coronary artery bypass grafting x4 [**2145-6-10**] with the left internal mammary artery to the second diagonal artery and reverse saphenous vein grafts to the posterior descending artery, left anterior descending artery, and the first obtuse marginal artery.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 331,
+            "end_offset": 589,
+            "annotation_id": "OG_001"
+        },
+        {
+            "decision": "chest and back pain associated with indigestion and diaphoresis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 659,
+            "end_offset": 722,
+            "annotation_id": "OG_002"
+        },
+        {
+            "decision": "three vessel coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 871,
+            "end_offset": 907,
+            "annotation_id": "OG_003"
+        },
+        {
+            "decision": "General: NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1327,
+            "end_offset": 1339,
+            "annotation_id": "OG_004"
+        },
+        {
+            "decision": "Skin: Dry [x] intact [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1340,
+            "end_offset": 1363,
+            "annotation_id": "OG_005"
+        },
+        {
+            "decision": "HEENT: PERRLA [x] EOMI [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1365,
+            "end_offset": 1390,
+            "annotation_id": "OG_006"
+        },
+        {
+            "decision": "Neck:  Supple [x] Full ROM [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1392,
+            "end_offset": 1421,
+            "annotation_id": "OG_007"
+        },
+        {
+            "decision": "Chest: Lungs clear bilaterally [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1423,
+            "end_offset": 1456,
+            "annotation_id": "OG_008"
+        },
+        {
+            "decision": "Heart: RRR [x]  Irregular []  Murmur",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1458,
+            "end_offset": 1494,
+            "annotation_id": "OG_009"
+        },
+        {
+            "decision": "Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1495,
+            "end_offset": 1564,
+            "annotation_id": "OG_010"
+        },
+        {
+            "decision": "Extremities: Warm [x], well-perfused [x]  Edema: none",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1566,
+            "end_offset": 1619,
+            "annotation_id": "OG_011"
+        },
+        {
+            "decision": "Varicosities: None [x]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1620,
+            "end_offset": 1641,
+            "annotation_id": "OG_012"
+        },
+        {
+            "decision": "Neuro: Grossly intact, nonfocal exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1643,
+            "end_offset": 1679,
+            "annotation_id": "OG_013"
+        },
+        {
+            "decision": "Pulses: Femoral      Right: cath site  Left: 2+ DP           Right: -  Left: 1+ PT           [**Name (NI) 167**]: 1+ Left: 1+ Radial       Right: 2+  Left: 2+ ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1680,
+            "end_offset": 1838,
+            "annotation_id": "OG_014"
+        },
+        {
+            "decision": "Carotid Bruit  no      Right:    Left:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1840,
+            "end_offset": 1877,
+            "annotation_id": "OG_015"
+        },
+        {
+            "decision": "intraop ECHO",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1900,
+            "end_offset": 1912,
+            "annotation_id": "OG_016"
+        },
+        {
+            "decision": "PRE BYPASS",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1913,
+            "end_offset": 1923,
+            "annotation_id": "OG_017"
+        },
+        {
+            "decision": "No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thicknesses and cavity size are normal. There is mild to moderate regional left ventricular systolic dysfunction with severe apical, mid and distal anterior, and distal anteroseptal and anterolateral hypokinesis. Left ventricular ejection fraction is in the 40 to 45% range",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1924,
+            "end_offset": 2433,
+            "annotation_id": "OG_018"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. There are simple atheroma in the ascending aorta. There are simple atheroma in the aortic arch. There are simple atheroma in the descending thoracic aorta. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Physiologic mitral regurgitation is seen (within normal limits)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2435,
+            "end_offset": 2942,
+            "annotation_id": "OG_019"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] was notified in person of the results in the operating room at the time of the study. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2945,
+            "end_offset": 3059,
+            "annotation_id": "OG_020"
+        },
+        {
+            "decision": "Post bypass",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3062,
+            "end_offset": 3073,
+            "annotation_id": "OG_021"
+        },
+        {
+            "decision": "infusion of phenylephrine",
+            "category": "Category 5: Drug related",
+            "start_offset": 3111,
+            "end_offset": 3136,
+            "annotation_id": "OG_022"
+        },
+        {
+            "decision": "Biventricular systolic function is unchanged. Aorta is intact post decannulation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3138,
+            "end_offset": 3218,
+            "annotation_id": "OG_023"
+        },
+        {
+            "decision": "Coronary artery bypass grafting x4 with the left internal mammary artery to the second diagonal artery and reverse saphenous vein grafts to the posterior descending artery, left anterior descending artery, and the first obtuse marginal artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3581,
+            "end_offset": 3823,
+            "annotation_id": "OG_024"
+        },
+        {
+            "decision": "tolerated the procedure well ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3862,
+            "end_offset": 3890,
+            "annotation_id": "OG_025"
+        },
+        {
+            "decision": "transferred to the CVICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3916,
+            "end_offset": 3940,
+            "annotation_id": "OG_026"
+        },
+        {
+            "decision": "stable condition for recovery and invasive monitoring",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3944,
+            "end_offset": 3997,
+            "annotation_id": "OG_027"
+        },
+        {
+            "decision": "hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4125,
+            "end_offset": 4147,
+            "annotation_id": "OG_028"
+        },
+        {
+            "decision": "no inotropic or vasopressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 4151,
+            "end_offset": 4186,
+            "annotation_id": "OG_029"
+        },
+        {
+            "decision": "Beta blocker was initiated ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4188,
+            "end_offset": 4214,
+            "annotation_id": "OG_030"
+        },
+        {
+            "decision": "transferred to the telemetry floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 4300,
+            "end_offset": 4334,
+            "annotation_id": "OG_031"
+        },
+        {
+            "decision": "Chest tubes and pacing wires were discontinued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4358,
+            "end_offset": 4404,
+            "annotation_id": "OG_032"
+        },
+        {
+            "decision": "POD #4 the patient was ambulating freely, the wound was healing and pain was controlled ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4558,
+            "end_offset": 4645,
+            "annotation_id": "OG_033"
+        },
+        {
+            "decision": "oral analgesics",
+            "category": "Category 5: Drug related",
+            "start_offset": 4651,
+            "end_offset": 4666,
+            "annotation_id": "OG_034"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 4819,
+            "end_offset": 4892,
+            "annotation_id": "OG_035"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 4898,
+            "end_offset": 5006,
+            "annotation_id": "OG_036"
+        },
+        {
+            "decision": "Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5010,
+            "end_offset": 5104,
+            "annotation_id": "OG_037"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5108,
+            "end_offset": 5270,
+            "annotation_id": "OG_038"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*65 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5274,
+            "end_offset": 5405,
+            "annotation_id": "OG_039"
+        },
+        {
+            "decision": "Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 5 days. Disp:*10 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5409,
+            "end_offset": 5506,
+            "annotation_id": "OG_040"
+        },
+        {
+            "decision": "Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours) for 5 days. Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5510,
+            "end_offset": 5703,
+            "annotation_id": "OG_041"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5817,
+            "end_offset": 5840,
+            "annotation_id": "OG_042"
+        },
+        {
+            "decision": "Coronary artery bypass grafting x4 [**2145-6-10**] with the left internal mammary artery to the second diagonal artery and reverse saphenous vein grafts to the posterior descending artery, left anterior descending artery, and the first obtuse marginal artery. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5841,
+            "end_offset": 6099,
+            "annotation_id": "OG_043"
+        },
+        {
+            "decision": "Alert and oriented x3 nonfocal Ambulating, gait steady Sternal pain managed with oral analgesics",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6124,
+            "end_offset": 6220,
+            "annotation_id": "OG_044"
+        },
+        {
+            "decision": "Please shower daily including washing incisions gently with mild soap, no baths or swimming, and look at your incisions Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart No driving for approximately one month until follow up with surgeon",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6247,
+            "end_offset": 6622,
+            "annotation_id": "OG_045"
+        },
+        {
+            "decision": "No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6623,
+            "end_offset": 6737,
+            "annotation_id": "OG_046"
+        },
+        {
+            "decision": "You have a follow up appointment with your surgeon Dr.[**Last Name (STitle) **] [**2145-7-28**] at 1:00pm  [**Telephone/Fax (1) 170**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 6763,
+            "end_offset": 6897,
+            "annotation_id": "OG_047"
+        },
+        {
+            "decision": "Please call to schedule appointments Primary Care Dr. [**First Name (STitle) **] [**Last Name (NamePattern4) 85529**] [**Telephone/Fax (1) 43460**] in [**1-2**] weeks Cardiologist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5874**] [**Telephone/Fax (1) 3658**]  in [**1-2**] weeks ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6899,
+            "end_offset": 7201,
+            "annotation_id": "OG_048"
+        },
+        {
+            "decision": "Please call cardiac surgery if need arises for evaluation or readmission to hospital [**Telephone/Fax (1) 170**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7203,
+            "end_offset": 7315,
+            "annotation_id": "OG_049"
+        }
+    ]
+}

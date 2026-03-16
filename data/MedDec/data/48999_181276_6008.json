@@ -1,0 +1,916 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "48999_181276_6008",
+    "annotations": [
+        {
+            "decision": "abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 263,
+            "end_offset": 277,
+            "annotation_id": "MI_000"
+        },
+        {
+            "decision": "Percutaneous cholecystostomy tube",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 317,
+            "end_offset": 350,
+            "annotation_id": "MI_001"
+        },
+        {
+            "decision": "Abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 385,
+            "end_offset": 399,
+            "annotation_id": "MI_002"
+        },
+        {
+            "decision": "transferred from [**Hospital1 **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 437,
+            "end_offset": 470,
+            "annotation_id": "MI_003"
+        },
+        {
+            "decision": "acute onset of abdominal pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 517,
+            "end_offset": 546,
+            "annotation_id": "MI_004"
+        },
+        {
+            "decision": "Pain came on suddenly and located in epigastrium and RUQ. + chills",
+            "category": "Category 3: Defining problem",
+            "start_offset": 580,
+            "end_offset": 646,
+            "annotation_id": "MI_005"
+        },
+        {
+            "decision": "He denies fevers, nausea, vomiting, shortness of breath, or chest pain. He also denies constipation, diarrhea, or any urinary symptoms. Pain unrelated to eating.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 648,
+            "end_offset": 808,
+            "annotation_id": "MI_006"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 836,
+            "end_offset": 859,
+            "annotation_id": "MI_007"
+        },
+        {
+            "decision": "s/p multiple PCI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 863,
+            "end_offset": 879,
+            "annotation_id": "MI_008"
+        },
+        {
+            "decision": "s/p MI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 935,
+            "end_offset": 941,
+            "annotation_id": "MI_009"
+        },
+        {
+            "decision": "with stent placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 956,
+            "end_offset": 976,
+            "annotation_id": "MI_010"
+        },
+        {
+            "decision": "Dilated Cardiomyopathy -- LVEF of 20-25%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 979,
+            "end_offset": 1018,
+            "annotation_id": "MI_011"
+        },
+        {
+            "decision": "s/p PPM/ICD placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1023,
+            "end_offset": 1044,
+            "annotation_id": "MI_012"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1047,
+            "end_offset": 1059,
+            "annotation_id": "MI_013"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1062,
+            "end_offset": 1076,
+            "annotation_id": "MI_014"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1079,
+            "end_offset": 1093,
+            "annotation_id": "MI_015"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1096,
+            "end_offset": 1106,
+            "annotation_id": "MI_016"
+        },
+        {
+            "decision": "ICH -- while on Coumadin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1109,
+            "end_offset": 1133,
+            "annotation_id": "MI_017"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1125,
+            "end_offset": 1133,
+            "annotation_id": "MI_018"
+        },
+        {
+            "decision": "Benign Prostatic Hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1136,
+            "end_offset": 1164,
+            "annotation_id": "MI_019"
+        },
+        {
+            "decision": "Bilateral Hydrocel",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1167,
+            "end_offset": 1187,
+            "annotation_id": "MI_020"
+        },
+        {
+            "decision": "Colonic polyps",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1190,
+            "end_offset": 1204,
+            "annotation_id": "MI_021"
+        },
+        {
+            "decision": "Hand osteomyelitis history",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1207,
+            "end_offset": 1233,
+            "annotation_id": "MI_022"
+        },
+        {
+            "decision": "Babesiosis history",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1236,
+            "end_offset": 1254,
+            "annotation_id": "MI_023"
+        },
+        {
+            "decision": "SCC -- left 4th finger and penis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1257,
+            "end_offset": 1289,
+            "annotation_id": "MI_024"
+        },
+        {
+            "decision": "Appendectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1292,
+            "end_offset": 1304,
+            "annotation_id": "MI_025"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1307,
+            "end_offset": 1311,
+            "annotation_id": "MI_026"
+        },
+        {
+            "decision": "Constitutional: Comfortable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1950,
+            "end_offset": 1977,
+            "annotation_id": "MI_027"
+        },
+        {
+            "decision": "HEENT: Pupils equal, round and reactive to light, Extraocular muscles intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1978,
+            "end_offset": 2054,
+            "annotation_id": "MI_028"
+        },
+        {
+            "decision": "Chest: Clear to auscultation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2055,
+            "end_offset": 2083,
+            "annotation_id": "MI_029"
+        },
+        {
+            "decision": "Cardiovascular: Regular Rate and Rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2084,
+            "end_offset": 2123,
+            "annotation_id": "MI_030"
+        },
+        {
+            "decision": "Abdominal: Tender right upper quadrant epigastric area, good bowel sounds, no palpable masses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2124,
+            "end_offset": 2217,
+            "annotation_id": "MI_031"
+        },
+        {
+            "decision": "GU/Flank: No costovertebral angle tenderness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2218,
+            "end_offset": 2262,
+            "annotation_id": "MI_032"
+        },
+        {
+            "decision": "Extr/Back: No cyanosis, clubbing or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2263,
+            "end_offset": 2304,
+            "annotation_id": "MI_033"
+        },
+        {
+            "decision": "Sinus rhythm with atrial sensed and ventricular paced rhythm and short A-V interval. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4007,
+            "end_offset": 4090,
+            "annotation_id": "MI_034"
+        },
+        {
+            "decision": "There is occasional fusion. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4092,
+            "end_offset": 4118,
+            "annotation_id": "MI_035"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2133-7-11**] no diagnostic interim change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4120,
+            "end_offset": 4200,
+            "annotation_id": "MI_036"
+        },
+        {
+            "decision": "Prominent gallbladder, with mild gallbladder wall thickening and a small mobile stone",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4275,
+            "end_offset": 4360,
+            "annotation_id": "MI_037"
+        },
+        {
+            "decision": "common bile duct dilatation and mild intrahepatic biliary ductal dilatation. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4385,
+            "end_offset": 4460,
+            "annotation_id": "MI_038"
+        },
+        {
+            "decision": "The patient is experiencing no pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4462,
+            "end_offset": 4497,
+            "annotation_id": "MI_039"
+        },
+        {
+            "decision": "These findings are suggestive, but not diagnostic of cholecystitis, or possibly choledocholithiasis, though no obstructive CBD stone is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4499,
+            "end_offset": 4639,
+            "annotation_id": "MI_040"
+        },
+        {
+            "decision": "Sinus rhythm. Left atrial abnormality. Atrial sensed and ventricular paced rhythm. Occasional fusion. The rate has slowed. Otherwise, no diagnostic interim change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4736,
+            "end_offset": 4898,
+            "annotation_id": "MI_041"
+        },
+        {
+            "decision": "Suboptimal study secondary to lack of patient cooperation. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4961,
+            "end_offset": 5018,
+            "annotation_id": "MI_042"
+        },
+        {
+            "decision": "There is probably normal hepatocellular function with questionable faint visualization of the gallbladder. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5020,
+            "end_offset": 5125,
+            "annotation_id": "MI_043"
+        },
+        {
+            "decision": "At 3.5 hours, there is no obvious tracer in the gallbladder, suggesting at least a partial obstruction to bile flow through the cystic duct.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5127,
+            "end_offset": 5266,
+            "annotation_id": "MI_044"
+        },
+        {
+            "decision": "abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5335,
+            "end_offset": 5349,
+            "annotation_id": "MI_045"
+        },
+        {
+            "decision": "given intravenous fluids ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5385,
+            "end_offset": 5409,
+            "annotation_id": "MI_046"
+        },
+        {
+            "decision": "underwent radiographic imaging of his abdomen which showed a prominent gallbladder, with mild gallbladder wall thickening and  a small mobile stone",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5414,
+            "end_offset": 5561,
+            "annotation_id": "MI_047"
+        },
+        {
+            "decision": "underwent a HIDA scan which showed a partial obstruction to bile flow through the cystic duct",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5602,
+            "end_offset": 5695,
+            "annotation_id": "MI_048"
+        },
+        {
+            "decision": "Intraveous antibiotics were initiated.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5697,
+            "end_offset": 5734,
+            "annotation_id": "MI_049"
+        },
+        {
+            "decision": "developed hypotension, ventricular ectopy, and chest pain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5803,
+            "end_offset": 5860,
+            "annotation_id": "MI_050"
+        },
+        {
+            "decision": "extensive cardiac history ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5877,
+            "end_offset": 5902,
+            "annotation_id": "MI_051"
+        },
+        {
+            "decision": "transferred to the intensive care unit for further monitoring",
+            "category": "Category 1: Contact related",
+            "start_offset": 5910,
+            "end_offset": 5971,
+            "annotation_id": "MI_052"
+        },
+        {
+            "decision": "received additional intravenous fluids ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5976,
+            "end_offset": 6014,
+            "annotation_id": "MI_053"
+        },
+        {
+            "decision": "His cardiac enzymes were cycled and were indeterminant.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6054,
+            "end_offset": 6108,
+            "annotation_id": "MI_054"
+        },
+        {
+            "decision": "transferred again to the surgical floor ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6117,
+            "end_offset": 6156,
+            "annotation_id": "MI_055"
+        },
+        {
+            "decision": "clear liquid diet with progression to a regular diet. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6188,
+            "end_offset": 6240,
+            "annotation_id": "MI_056"
+        },
+        {
+            "decision": "reported to have episodes of deliurium notable at bedtime, resolving during the day",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6250,
+            "end_offset": 6333,
+            "annotation_id": "MI_057"
+        },
+        {
+            "decision": "His home medications were resumed and his analgesics were reviewed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6336,
+            "end_offset": 6402,
+            "annotation_id": "MI_058"
+        },
+        {
+            "decision": "Psychiatry was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6405,
+            "end_offset": 6429,
+            "annotation_id": "MI_059"
+        },
+        {
+            "decision": "delirium and insomnia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6444,
+            "end_offset": 6465,
+            "annotation_id": "MI_060"
+        },
+        {
+            "decision": "His vital signs are stable and he is afebrile",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6522,
+            "end_offset": 6567,
+            "annotation_id": "MI_061"
+        },
+        {
+            "decision": "tolerating a regular diet.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6576,
+            "end_offset": 6601,
+            "annotation_id": "MI_062"
+        },
+        {
+            "decision": "His white blood cell count is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6604,
+            "end_offset": 6640,
+            "annotation_id": "MI_063"
+        },
+        {
+            "decision": "His liver function tests are normalizing.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6642,
+            "end_offset": 6682,
+            "annotation_id": "MI_064"
+        },
+        {
+            "decision": "He is preparing for discharge home with VNA services to monitor the drain output",
+            "category": "Category 1: Contact related",
+            "start_offset": 6684,
+            "end_offset": 6764,
+            "annotation_id": "MI_065"
+        },
+        {
+            "decision": "He will follow-up with the acute care service in 2 weeks. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6767,
+            "end_offset": 6823,
+            "annotation_id": "MI_066"
+        },
+        {
+            "decision": "He has been instructed to follow-up with his primary care provider [**Last Name (NamePattern4) **] 1 week",
+            "category": "Category 1: Contact related",
+            "start_offset": 6826,
+            "end_offset": 6931,
+            "annotation_id": "MI_067"
+        },
+        {
+            "decision": "ASA 81",
+            "category": "Category 5: Drug related",
+            "start_offset": 6987,
+            "end_offset": 6993,
+            "annotation_id": "MI_068"
+        },
+        {
+            "decision": "plavix 7",
+            "category": "Category 5: Drug related",
+            "start_offset": 6995,
+            "end_offset": 7004,
+            "annotation_id": "MI_069"
+        },
+        {
+            "decision": "effexor 225'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7007,
+            "end_offset": 7018,
+            "annotation_id": "MI_070"
+        },
+        {
+            "decision": "ativan 0.5\",",
+            "category": "Category 5: Drug related",
+            "start_offset": 7021,
+            "end_offset": 7031,
+            "annotation_id": "MI_071"
+        },
+        {
+            "decision": "allopurinol300'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7034,
+            "end_offset": 7048,
+            "annotation_id": "MI_072"
+        },
+        {
+            "decision": "coreg 12.5'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7051,
+            "end_offset": 7061,
+            "annotation_id": "MI_073"
+        },
+        {
+            "decision": "digoxin 0.125'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7064,
+            "end_offset": 7077,
+            "annotation_id": "MI_074"
+        },
+        {
+            "decision": "spironolactone 25',",
+            "category": "Category 5: Drug related",
+            "start_offset": 7080,
+            "end_offset": 7097,
+            "annotation_id": "MI_075"
+        },
+        {
+            "decision": "flomax 0.4'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7100,
+            "end_offset": 7110,
+            "annotation_id": "MI_076"
+        },
+        {
+            "decision": "finasteride 5'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7113,
+            "end_offset": 7126,
+            "annotation_id": "MI_077"
+        },
+        {
+            "decision": "lisinopril 20'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7129,
+            "end_offset": 7142,
+            "annotation_id": "MI_078"
+        },
+        {
+            "decision": "synthroid 125'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7145,
+            "end_offset": 7158,
+            "annotation_id": "MI_079"
+        },
+        {
+            "decision": "lipitor 80'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7161,
+            "end_offset": 7171,
+            "annotation_id": "MI_080"
+        },
+        {
+            "decision": "tricor 145'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7174,
+            "end_offset": 7184,
+            "annotation_id": "MI_081"
+        },
+        {
+            "decision": "colace 100'",
+            "category": "Category 5: Drug related",
+            "start_offset": 7187,
+            "end_offset": 7197,
+            "annotation_id": "MI_082"
+        },
+        {
+            "decision": "NTG prn, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7200,
+            "end_offset": 7207,
+            "annotation_id": "MI_083"
+        },
+        {
+            "decision": "ambien 5 QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 7209,
+            "end_offset": 7221,
+            "annotation_id": "MI_084"
+        },
+        {
+            "decision": "carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7250,
+            "end_offset": 7317,
+            "annotation_id": "MI_085"
+        },
+        {
+            "decision": "digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7323,
+            "end_offset": 7381,
+            "annotation_id": "MI_086"
+        },
+        {
+            "decision": "acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7388,
+            "end_offset": 7477,
+            "annotation_id": "MI_087"
+        },
+        {
+            "decision": "lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7482,
+            "end_offset": 7595,
+            "annotation_id": "MI_088"
+        },
+        {
+            "decision": "methyl salicylate-menthol     Ointment Sig: One (1) Appl Topical PRN (as needed) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7601,
+            "end_offset": 7700,
+            "annotation_id": "MI_089"
+        },
+        {
+            "decision": "aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7705,
+            "end_offset": 7781,
+            "annotation_id": "MI_090"
+        },
+        {
+            "decision": "famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7787,
+            "end_offset": 7854,
+            "annotation_id": "MI_091"
+        },
+        {
+            "decision": "allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7860,
+            "end_offset": 7921,
+            "annotation_id": "MI_092"
+        },
+        {
+            "decision": "spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7927,
+            "end_offset": 7990,
+            "annotation_id": "MI_093"
+        },
+        {
+            "decision": "tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime). 11. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7997,
+            "end_offset": 8165,
+            "annotation_id": "MI_094"
+        },
+        {
+            "decision": "levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8172,
+            "end_offset": 8236,
+            "annotation_id": "MI_095"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): hold for loose stool.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8243,
+            "end_offset": 8339,
+            "annotation_id": "MI_096"
+        },
+        {
+            "decision": "venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: Three (3) Capsule, Ext Release 24 hr PO DAILY (Daily). 15. lorazepam 0.5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8345,
+            "end_offset": 8515,
+            "annotation_id": "MI_097"
+        },
+        {
+            "decision": "amoxicillin-pot clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 4 days. Disp:*12 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8522,
+            "end_offset": 8654,
+            "annotation_id": "MI_098"
+        },
+        {
+            "decision": "bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8659,
+            "end_offset": 8792,
+            "annotation_id": "MI_099"
+        },
+        {
+            "decision": "Seroquel 25 mg Tablet Sig: One (1) Tablet PO at bedtime for 7 days: as needed for insomnia. Disp:*7 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8798,
+            "end_offset": 8920,
+            "annotation_id": "MI_100"
+        },
+        {
+            "decision": "Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8925,
+            "end_offset": 8978,
+            "annotation_id": "MI_101"
+        },
+        {
+            "decision": "cholecystitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9100,
+            "end_offset": 9113,
+            "annotation_id": "MI_102"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9137,
+            "end_offset": 9170,
+            "annotation_id": "MI_103"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9172,
+            "end_offset": 9217,
+            "annotation_id": "MI_104"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9219,
+            "end_offset": 9260,
+            "annotation_id": "MI_105"
+        },
+        {
+            "decision": "abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9327,
+            "end_offset": 9341,
+            "annotation_id": "MI_106"
+        },
+        {
+            "decision": "underwent a ultrasound of the abdomen which showed gallbladder thickening",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9348,
+            "end_offset": 9421,
+            "annotation_id": "MI_107"
+        },
+        {
+            "decision": "You had a tube placed into your gallbladder",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9424,
+            "end_offset": 9467,
+            "annotation_id": "MI_108"
+        },
+        {
+            "decision": "abdominal pain and resovled ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9475,
+            "end_offset": 9502,
+            "annotation_id": "MI_109"
+        },
+        {
+            "decision": "discharged with the drain in place ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9594,
+            "end_offset": 9628,
+            "annotation_id": "MI_110"
+        },
+        {
+            "decision": "Please look at the site every day for signs of infection (increased redness or pain, swelling, odor, yellow or bloody discharge, warm to touch, fever).",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9685,
+            "end_offset": 9834,
+            "annotation_id": "MI_111"
+        },
+        {
+            "decision": "If the drain is connected to a collection container, please note color, consistency, and amount of fluid in the drain. Call the doctor, nurse practitioner, or VNA nurse if the amount increases significantly or changes in character. Be sure to empty the drain frequently. Record the output, if instructed to do so.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9839,
+            "end_offset": 10151,
+            "annotation_id": "MI_112"
+        },
+        {
+            "decision": "Wash the area gently with warm, soapy water",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10155,
+            "end_offset": 10198,
+            "annotation_id": "MI_113"
+        },
+        {
+            "decision": "Keep the insertion site clean and dry otherwise",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10202,
+            "end_offset": 10249,
+            "annotation_id": "MI_114"
+        },
+        {
+            "decision": "Avoid swimming, baths, hot tubs; do not submerge yourself in water.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10253,
+            "end_offset": 10319,
+            "annotation_id": "MI_115"
+        },
+        {
+            "decision": "Make sure to keep the drain attached securely to your body to prevent pulling or dislocation",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10323,
+            "end_offset": 10415,
+            "annotation_id": "MI_116"
+        },
+        {
+            "decision": "Please call your doctor or return to the emergency room if you have any of the following:",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10417,
+            "end_offset": 10505,
+            "annotation_id": "MI_117"
+        },
+        {
+            "decision": "You experience new chest pain, pressure, squeezing or  tightness.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10512,
+            "end_offset": 10576,
+            "annotation_id": "MI_118"
+        },
+        {
+            "decision": "New or worsening cough or wheezing.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10581,
+            "end_offset": 10615,
+            "annotation_id": "MI_119"
+        },
+        {
+            "decision": "If you are vomiting and cannot keep in fluids or your  medications.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10620,
+            "end_offset": 10686,
+            "annotation_id": "MI_120"
+        },
+        {
+            "decision": "You are getting dehydrated due to continued vomiting,  diarrhea or other reasons. Signs of dehydration include dry  mouth, rapid heartbeat or feeling dizzy or faint when standing.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10691,
+            "end_offset": 10869,
+            "annotation_id": "MI_121"
+        },
+        {
+            "decision": "You see blood or dark/black material when you vomit or have a  bowel movement.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10874,
+            "end_offset": 10951,
+            "annotation_id": "MI_122"
+        },
+        {
+            "decision": "You have shaking chills, or a fever greater than 101.5 (F)  degrees or 38(C) degrees.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10957,
+            "end_offset": 11041,
+            "annotation_id": "MI_123"
+        },
+        {
+            "decision": "Any serious change in your symptoms, or any new symptoms that  concern you.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11046,
+            "end_offset": 11120,
+            "annotation_id": "MI_124"
+        },
+        {
+            "decision": "Please resume all regular home medications and take any new meds  as ordered.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11125,
+            "end_offset": 11201,
+            "annotation_id": "MI_125"
+        },
+        {
+            "decision": "No heavy lifting of items [**11-14**] pounds for 6 weeks. You may resume moderate exercise at your discretion, no abdominal exercises",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11214,
+            "end_offset": 11347,
+            "annotation_id": "MI_126"
+        },
+        {
+            "decision": "Please follow-up with the acute care service in 2 weeks.  You can schedule your appointment by calling # [**Telephone/Fax (1) 600**].  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11373,
+            "end_offset": 11505,
+            "annotation_id": "MI_127"
+        },
+        {
+            "decision": "Please record drain output and bring record on your visit",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11508,
+            "end_offset": 11565,
+            "annotation_id": "MI_128"
+        },
+        {
+            "decision": "Please follow-up with your primary care provider [**Last Name (NamePattern4) **] 1 week.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11568,
+            "end_offset": 11655,
+            "annotation_id": "MI_129"
+        }
+    ]
+}

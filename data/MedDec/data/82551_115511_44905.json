@@ -1,0 +1,937 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "82551_115511_44905",
+    "annotations": [
+        {
+            "decision": "speech difficulty",
+            "category": "Category 3: Defining problem",
+            "start_offset": 243,
+            "end_offset": 260,
+            "annotation_id": "PZ_000"
+        },
+        {
+            "decision": "paroxysmal atrial fibrillation, not on anticoagulation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 659,
+            "end_offset": 713,
+            "annotation_id": "PZ_001"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 715,
+            "end_offset": 727,
+            "annotation_id": "PZ_002"
+        },
+        {
+            "decision": "hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 729,
+            "end_offset": 749,
+            "annotation_id": "PZ_003"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 751,
+            "end_offset": 765,
+            "annotation_id": "PZ_004"
+        },
+        {
+            "decision": "low back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 767,
+            "end_offset": 780,
+            "annotation_id": "PZ_005"
+        },
+        {
+            "decision": "depression/anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 782,
+            "end_offset": 800,
+            "annotation_id": "PZ_006"
+        },
+        {
+            "decision": "history of basal cell carcinoma ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 802,
+            "end_offset": 833,
+            "annotation_id": "PZ_007"
+        },
+        {
+            "decision": "removed from left cheek",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 834,
+            "end_offset": 857,
+            "annotation_id": "PZ_008"
+        },
+        {
+            "decision": "history of multiple skeletal fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 859,
+            "end_offset": 897,
+            "annotation_id": "PZ_009"
+        },
+        {
+            "decision": "history of left hip fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 899,
+            "end_offset": 927,
+            "annotation_id": "PZ_010"
+        },
+        {
+            "decision": "status post left ORIF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 929,
+            "end_offset": 950,
+            "annotation_id": "PZ_011"
+        },
+        {
+            "decision": "Level of Consciousness: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1243,
+            "end_offset": 1268,
+            "annotation_id": "PZ_012"
+        },
+        {
+            "decision": "LOC questions: 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1273,
+            "end_offset": 1289,
+            "annotation_id": "PZ_013"
+        },
+        {
+            "decision": "LOC commands: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1294,
+            "end_offset": 1309,
+            "annotation_id": "PZ_014"
+        },
+        {
+            "decision": "Best gaze: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1313,
+            "end_offset": 1325,
+            "annotation_id": "PZ_015"
+        },
+        {
+            "decision": "Visual: 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1329,
+            "end_offset": 1338,
+            "annotation_id": "PZ_016"
+        },
+        {
+            "decision": "Facial palsy: 3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1342,
+            "end_offset": 1357,
+            "annotation_id": "PZ_017"
+        },
+        {
+            "decision": "Motor arm, left: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1362,
+            "end_offset": 1380,
+            "annotation_id": "PZ_018"
+        },
+        {
+            "decision": "Motor arm, right: 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1385,
+            "end_offset": 1404,
+            "annotation_id": "PZ_019"
+        },
+        {
+            "decision": "Motor leg, left: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1409,
+            "end_offset": 1427,
+            "annotation_id": "PZ_020"
+        },
+        {
+            "decision": "Motor leg, right: 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1432,
+            "end_offset": 1451,
+            "annotation_id": "PZ_021"
+        },
+        {
+            "decision": "Limb ataxia: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1455,
+            "end_offset": 1469,
+            "annotation_id": "PZ_022"
+        },
+        {
+            "decision": "Sensory: 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1473,
+            "end_offset": 1483,
+            "annotation_id": "PZ_023"
+        },
+        {
+            "decision": "Best language: 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1487,
+            "end_offset": 1503,
+            "annotation_id": "PZ_024"
+        },
+        {
+            "decision": "Dysarthria: 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1508,
+            "end_offset": 1521,
+            "annotation_id": "PZ_025"
+        },
+        {
+            "decision": "Extinction and inattention: 1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1526,
+            "end_offset": 1555,
+            "annotation_id": "PZ_026"
+        },
+        {
+            "decision": "total score: 13",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1557,
+            "end_offset": 1572,
+            "annotation_id": "PZ_027"
+        },
+        {
+            "decision": "General: no obvious bruises",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1624,
+            "end_offset": 1651,
+            "annotation_id": "PZ_028"
+        },
+        {
+            "decision": "CVS: PSM in the mitral area, no carotid bruits, no peripheral edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1652,
+            "end_offset": 1719,
+            "annotation_id": "PZ_029"
+        },
+        {
+            "decision": "Resp: Lung bases are clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1720,
+            "end_offset": 1746,
+            "annotation_id": "PZ_030"
+        },
+        {
+            "decision": "GI: soft, non-tender, normal bowel sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1747,
+            "end_offset": 1788,
+            "annotation_id": "PZ_031"
+        },
+        {
+            "decision": "Mental status: Awake and alert, cooperative with exam.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1814,
+            "end_offset": 1867,
+            "annotation_id": "PZ_032"
+        },
+        {
+            "decision": "Completely aphasic, could not read, neglects things on her right",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1869,
+            "end_offset": 1933,
+            "annotation_id": "PZ_033"
+        },
+        {
+            "decision": "Cranial Nerves: Fundoscopic examination reveals sharp disc margins. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1936,
+            "end_offset": 2002,
+            "annotation_id": "PZ_034"
+        },
+        {
+            "decision": "Pupils equally round and reactive to light, 4 to 2 mm bilaterally. Visual fields - right inferior temporal field cut. Extraocular movements intact bilaterally without nystagmus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2004,
+            "end_offset": 2180,
+            "annotation_id": "PZ_035"
+        },
+        {
+            "decision": "Sensation intact V1-V3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2182,
+            "end_offset": 2204,
+            "annotation_id": "PZ_036"
+        },
+        {
+            "decision": "Profound right facial droop",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2206,
+            "end_offset": 2233,
+            "annotation_id": "PZ_037"
+        },
+        {
+            "decision": "Hearing intact to finger rub bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2235,
+            "end_offset": 2275,
+            "annotation_id": "PZ_038"
+        },
+        {
+            "decision": "Palate elevation symmetric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2277,
+            "end_offset": 2303,
+            "annotation_id": "PZ_039"
+        },
+        {
+            "decision": "Sternocleidomastoid and trapezius full strength bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2305,
+            "end_offset": 2364,
+            "annotation_id": "PZ_040"
+        },
+        {
+            "decision": "Tongue midline (compensating for the facial droop), movements intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2366,
+            "end_offset": 2434,
+            "annotation_id": "PZ_041"
+        },
+        {
+            "decision": "Motor: Normal bulk and tone bilaterally. No observed myoclonus, asterixis, or tremor. right pronator drift.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2437,
+            "end_offset": 2543,
+            "annotation_id": "PZ_042"
+        },
+        {
+            "decision": "Sensation: Intact to light touch, pinprick. Extinction to DSS on the right.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2708,
+            "end_offset": 2782,
+            "annotation_id": "PZ_043"
+        },
+        {
+            "decision": "Reflexes: 2+ on the right, and 2 on the left. Right-Babinski.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2785,
+            "end_offset": 2845,
+            "annotation_id": "PZ_044"
+        },
+        {
+            "decision": "Coordination: finger-nose-finger, heel to shin ataxic on the right.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2848,
+            "end_offset": 2914,
+            "annotation_id": "PZ_045"
+        },
+        {
+            "decision": "Gait:could not assess",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2917,
+            "end_offset": 2938,
+            "annotation_id": "PZ_046"
+        },
+        {
+            "decision": "BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4514,
+            "end_offset": 4587,
+            "annotation_id": "PZ_047"
+        },
+        {
+            "decision": "Large acute left middle cerebral artery distribution infarct",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4917,
+            "end_offset": 4977,
+            "annotation_id": "PZ_048"
+        },
+        {
+            "decision": "Thrombotic or embolic occlusion of the left middle cerebral artery with reconstitution of flow distally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4983,
+            "end_offset": 5086,
+            "annotation_id": "PZ_049"
+        },
+        {
+            "decision": "Anterior communicating artery aneurysm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5091,
+            "end_offset": 5129,
+            "annotation_id": "PZ_050"
+        },
+        {
+            "decision": "Possible cavitary lesion in right upper lobe, requiring more extensive assessment",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5134,
+            "end_offset": 5215,
+            "annotation_id": "PZ_051"
+        },
+        {
+            "decision": "No intracranial hemorrhage or significant edema status post TPA administration.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5241,
+            "end_offset": 5319,
+            "annotation_id": "PZ_052"
+        },
+        {
+            "decision": "Hyperdense clot noted within the left M1 segment appears resolving when compared to pre-treatment scan on [**2106-1-9**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5321,
+            "end_offset": 5441,
+            "annotation_id": "PZ_053"
+        },
+        {
+            "decision": "could be  inflammatory, scar or lung cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5537,
+            "end_offset": 5580,
+            "annotation_id": "PZ_054"
+        },
+        {
+            "decision": "9 mm right upper lobe nodule with fissural traction, could be  inflammatory, scar or lung cancer, should be followed shortly in three months.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5484,
+            "end_offset": 5624,
+            "annotation_id": "PZ_055"
+        },
+        {
+            "decision": "atelectasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5731,
+            "end_offset": 5742,
+            "annotation_id": "PZ_056"
+        },
+        {
+            "decision": "Scattered 6 mm and less lung nodules, should also be followed. 9 x 3 left lower lobe nodule could be atelectasis, could be evaluated by supplemented prone images on next follow up",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5630,
+            "end_offset": 5809,
+            "annotation_id": "PZ_057"
+        },
+        {
+            "decision": "Almost complete resolution of septal thickening, likely due to resolving interstitial edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5815,
+            "end_offset": 5906,
+            "annotation_id": "PZ_058"
+        },
+        {
+            "decision": "resolving interstitial edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5878,
+            "end_offset": 5906,
+            "annotation_id": "PZ_059"
+        },
+        {
+            "decision": "Upper lobe predominant centrilobular nodules, could be due to respiratory bronchiolitis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5912,
+            "end_offset": 5999,
+            "annotation_id": "PZ_060"
+        },
+        {
+            "decision": "respiratory bronchiolitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5974,
+            "end_offset": 5999,
+            "annotation_id": "PZ_061"
+        },
+        {
+            "decision": "amiodarone",
+            "category": "Category 5: Drug related",
+            "start_offset": 6039,
+            "end_offset": 6049,
+            "annotation_id": "PZ_062"
+        },
+        {
+            "decision": "cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6125,
+            "end_offset": 6129,
+            "annotation_id": "PZ_063"
+        },
+        {
+            "decision": "Hyperdense liver, could be due to amiodarone use or iron loading. Liver hypodensity too small to characterize, likely a cyst.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6005,
+            "end_offset": 6129,
+            "annotation_id": "PZ_064"
+        },
+        {
+            "decision": "L1 compression fracture, unchanged since [**2103**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6135,
+            "end_offset": 6186,
+            "annotation_id": "PZ_065"
+        },
+        {
+            "decision": "Right breast macrocalcification, likely benign, should be correlated with regular mammogram",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6192,
+            "end_offset": 6283,
+            "annotation_id": "PZ_066"
+        },
+        {
+            "decision": "The left atrium is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6307,
+            "end_offset": 6340,
+            "annotation_id": "PZ_067"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6342,
+            "end_offset": 6601,
+            "annotation_id": "PZ_068"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6603,
+            "end_offset": 6721,
+            "annotation_id": "PZ_069"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. Mild to moderate ([**2-11**]+) mitral regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6723,
+            "end_offset": 6830,
+            "annotation_id": "PZ_070"
+        },
+        {
+            "decision": "Moderate [2+] tricuspid regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6832,
+            "end_offset": 6877,
+            "annotation_id": "PZ_071"
+        },
+        {
+            "decision": "There is mild pulmonary artery systolic hypertension.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6879,
+            "end_offset": 6931,
+            "annotation_id": "PZ_072"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6933,
+            "end_offset": 6965,
+            "annotation_id": "PZ_073"
+        },
+        {
+            "decision": "acute aphasia as a code stroke and was found to qualify for thrombolyis with IV tPa",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7027,
+            "end_offset": 7110,
+            "annotation_id": "PZ_074"
+        },
+        {
+            "decision": "thrombolyis with IV tPa",
+            "category": "Category 5: Drug related",
+            "start_offset": 7087,
+            "end_offset": 7110,
+            "annotation_id": "PZ_075"
+        },
+        {
+            "decision": "Her CT and CTA confirmed the presence of acute Lt MCA clot and partial occlusion, most likely cardioembolic given HX of Afib without anticoagulation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7112,
+            "end_offset": 7260,
+            "annotation_id": "PZ_076"
+        },
+        {
+            "decision": "Her deficit was mild and improving after the scan",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7262,
+            "end_offset": 7311,
+            "annotation_id": "PZ_077"
+        },
+        {
+            "decision": "tPA",
+            "category": "Category 5: Drug related",
+            "start_offset": 7344,
+            "end_offset": 7347,
+            "annotation_id": "PZ_078"
+        },
+        {
+            "decision": "She continued to improve after tPA, and she was able to name , read repeat with only mild paraphasic error",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7313,
+            "end_offset": 7419,
+            "annotation_id": "PZ_079"
+        },
+        {
+            "decision": "Weakness improved as well (facial weakness and mild drift but no extremities weakness)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7421,
+            "end_offset": 7506,
+            "annotation_id": "PZ_080"
+        },
+        {
+            "decision": "She was started on Coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7509,
+            "end_offset": 7536,
+            "annotation_id": "PZ_081"
+        },
+        {
+            "decision": "instructed to follow up with her PCP for measurement of her INR",
+            "category": "Category 1: Contact related",
+            "start_offset": 7541,
+            "end_offset": 7604,
+            "annotation_id": "PZ_082"
+        },
+        {
+            "decision": "Her lipids were elevated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7606,
+            "end_offset": 7630,
+            "annotation_id": "PZ_083"
+        },
+        {
+            "decision": "she was started on zetia 10 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7682,
+            "end_offset": 7718,
+            "annotation_id": "PZ_084"
+        },
+        {
+            "decision": "Her echo showed no evidence of PFO, thrombus, or atheroma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7720,
+            "end_offset": 7777,
+            "annotation_id": "PZ_085"
+        },
+        {
+            "decision": "cardioembolic source was suspected in her case",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7794,
+            "end_offset": 7840,
+            "annotation_id": "PZ_086"
+        },
+        {
+            "decision": "As part of her initial CTA neck, there was an incidental finding of a potential lung lesion and therefore a CT chest was pursued which showed some scattered nonspecific nodules ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7842,
+            "end_offset": 8018,
+            "annotation_id": "PZ_087"
+        },
+        {
+            "decision": "she was instructed to have followed with another CT in 3 months",
+            "category": "Category 1: Contact related",
+            "start_offset": 8025,
+            "end_offset": 8088,
+            "annotation_id": "PZ_088"
+        },
+        {
+            "decision": "breast calcifications present ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8106,
+            "end_offset": 8135,
+            "annotation_id": "PZ_089"
+        },
+        {
+            "decision": "for which she was set up with an appt for a mammogram",
+            "category": "Category 1: Contact related",
+            "start_offset": 8136,
+            "end_offset": 8189,
+            "annotation_id": "PZ_090"
+        },
+        {
+            "decision": "On discharge her neurological exam was significant for mild right upper motor neuron facial weakness and mild right pronator drift",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8191,
+            "end_offset": 8321,
+            "annotation_id": "PZ_091"
+        },
+        {
+            "decision": "L-thyroxine 75 mcg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8351,
+            "end_offset": 8369,
+            "annotation_id": "PZ_092"
+        },
+        {
+            "decision": "Rhythmol SR 325 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8370,
+            "end_offset": 8388,
+            "annotation_id": "PZ_093"
+        },
+        {
+            "decision": "Metoprolol 100 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8406,
+            "end_offset": 8423,
+            "annotation_id": "PZ_094"
+        },
+        {
+            "decision": "Quinapril 20 mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8441,
+            "end_offset": 8456,
+            "annotation_id": "PZ_095"
+        },
+        {
+            "decision": "Coumadin (not been taking the medication)",
+            "category": "Category 5: Drug related",
+            "start_offset": 8474,
+            "end_offset": 8514,
+            "annotation_id": "PZ_096"
+        },
+        {
+            "decision": "Paroxetine",
+            "category": "Category 5: Drug related",
+            "start_offset": 8516,
+            "end_offset": 8526,
+            "annotation_id": "PZ_097"
+        },
+        {
+            "decision": "Omega 3",
+            "category": "Category 5: Drug related",
+            "start_offset": 8527,
+            "end_offset": 8534,
+            "annotation_id": "PZ_098"
+        },
+        {
+            "decision": "vitamin D",
+            "category": "Category 5: Drug related",
+            "start_offset": 8535,
+            "end_offset": 8544,
+            "annotation_id": "PZ_099"
+        },
+        {
+            "decision": "ASA 81 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8545,
+            "end_offset": 8554,
+            "annotation_id": "PZ_100"
+        },
+        {
+            "decision": "Centrum silver",
+            "category": "Category 5: Drug related",
+            "start_offset": 8555,
+            "end_offset": 8569,
+            "annotation_id": "PZ_101"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8597,
+            "end_offset": 8671,
+            "annotation_id": "PZ_102"
+        },
+        {
+            "decision": "Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8677,
+            "end_offset": 8740,
+            "annotation_id": "PZ_103"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO HS (at bedtime): Should be discontinued once INR>2.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8746,
+            "end_offset": 8888,
+            "annotation_id": "PZ_104"
+        },
+        {
+            "decision": "Propafenone 225 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). [**Hospital1 **]:*90 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8893,
+            "end_offset": 9006,
+            "annotation_id": "PZ_105"
+        },
+        {
+            "decision": "Quinapril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Hospital1 **]:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9010,
+            "end_offset": 9114,
+            "annotation_id": "PZ_106"
+        },
+        {
+            "decision": "Warfarin 2 mg Tablet Sig: Two (2) Tablet PO at bedtime: Take 2 tabs at bedtime on [**1-12**].  Then on [**1-13**] and thereafter take only 1 tab at bedtime until instructed otherwise by your PCP. [**Name Initial (NameIs) **]:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9118,
+            "end_offset": 9369,
+            "annotation_id": "PZ_107"
+        },
+        {
+            "decision": "Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Name Initial (NameIs) **]:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9373,
+            "end_offset": 9489,
+            "annotation_id": "PZ_108"
+        },
+        {
+            "decision": "Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9493,
+            "end_offset": 9556,
+            "annotation_id": "PZ_109"
+        },
+        {
+            "decision": "Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 9562,
+            "end_offset": 9642,
+            "annotation_id": "PZ_110"
+        },
+        {
+            "decision": "Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9649,
+            "end_offset": 9709,
+            "annotation_id": "PZ_111"
+        },
+        {
+            "decision": "Home With Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 9736,
+            "end_offset": 9753,
+            "annotation_id": "PZ_112"
+        },
+        {
+            "decision": "[**Hospital 119**] Homecare",
+            "category": "Category 1: Contact related",
+            "start_offset": 9765,
+            "end_offset": 9792,
+            "annotation_id": "PZ_113"
+        },
+        {
+            "decision": "Cerebral Infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9834,
+            "end_offset": 9853,
+            "annotation_id": "PZ_114"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9854,
+            "end_offset": 9873,
+            "annotation_id": "PZ_115"
+        },
+        {
+            "decision": "hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9896,
+            "end_offset": 9916,
+            "annotation_id": "PZ_116"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9917,
+            "end_offset": 9929,
+            "annotation_id": "PZ_117"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9930,
+            "end_offset": 9944,
+            "annotation_id": "PZ_118"
+        },
+        {
+            "decision": "chronic low back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9945,
+            "end_offset": 9966,
+            "annotation_id": "PZ_119"
+        },
+        {
+            "decision": "Stable. Mild right upper motor neuron facial weakness and mild right pronator drift.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9990,
+            "end_offset": 10073,
+            "annotation_id": "PZ_120"
+        },
+        {
+            "decision": "You have been restarted on Warfarin, a blood thinning medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 10101,
+            "end_offset": 10165,
+            "annotation_id": "PZ_121"
+        },
+        {
+            "decision": "at risk for future cardioembolic strokes with your atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10181,
+            "end_offset": 10251,
+            "annotation_id": "PZ_122"
+        },
+        {
+            "decision": "You need to have your blood checked frequently (at least twice a week) at your PCP's office with your goal INR is 2 to 3.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10254,
+            "end_offset": 10374,
+            "annotation_id": "PZ_123"
+        },
+        {
+            "decision": "You should make sure when starting any new medications that the prescribing physician is aware that you are on Warfarin to avoid any drug-drug interations",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10377,
+            "end_offset": 10531,
+            "annotation_id": "PZ_124"
+        },
+        {
+            "decision": "They should also touch base with your primary care physician [**Name Initial (PRE) 96060**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 10534,
+            "end_offset": 10625,
+            "annotation_id": "PZ_125"
+        },
+        {
+            "decision": "Since you have not tolerated taking a statin in the past, we have instead started you on a cholesterol lowering medication called Zetia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10628,
+            "end_offset": 10763,
+            "annotation_id": "PZ_126"
+        },
+        {
+            "decision": "Please take medications as prescribed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10766,
+            "end_offset": 10803,
+            "annotation_id": "PZ_127"
+        },
+        {
+            "decision": "Provider: [**First Name8 (NamePattern2) 11595**] [**Last Name (NamePattern1) **], [**Name Initial (NameIs) **].D. Phone: [**Telephone/Fax (1) 19196**] Date/Time:[**2106-1-15**] 9:00AM You should have your blood drawn at this visit to check your INR level and have your Warfarin dose adjusted as needed.  Goal INR [**3-15**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 10871,
+            "end_offset": 11194,
+            "annotation_id": "PZ_128"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) 900**] [**Name8 (MD) 901**], M.D. Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2106-3-9**] 11:40",
+            "category": "Category 1: Contact related",
+            "start_offset": 11197,
+            "end_offset": 11323,
+            "annotation_id": "PZ_129"
+        },
+        {
+            "decision": "Provider: [**First Name8 (NamePattern2) 4267**] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D. Phone: [**Telephone/Fax (1) 2574**] Date/Time: [**2106-2-16**] 2:00PM",
+            "category": "Category 1: Contact related",
+            "start_offset": 11325,
+            "end_offset": 11498,
+            "annotation_id": "PZ_130"
+        },
+        {
+            "decision": "Imaging: Chest CT without contrast Phone: [**Telephone/Fax (1) 327**] Date: [**2106-4-11**] Please call to schedule a follow-up image during the month of [**Month (only) 958**] to follow-up pulmonary nodules that were incidentally seen on your chest CT from this admission.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11500,
+            "end_offset": 11772,
+            "annotation_id": "PZ_131"
+        },
+        {
+            "decision": "Imaging: Mammogram Phone: [**Telephone/Fax (1) 327**] Please call to schedule a mammogram within 2 weeks of discharge to follow-up microcalcifications that were incidentally noted on your chest CT.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11775,
+            "end_offset": 11971,
+            "annotation_id": "PZ_132"
+        }
+    ]
+}

@@ -1,0 +1,972 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "90122_149949_46288",
+    "annotations": [
+        {
+            "decision": "Wet gangrene of the right foot, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 264,
+            "end_offset": 294,
+            "annotation_id": "QM_000"
+        },
+        {
+            "decision": " hyponatremia, acute renal failure, sepsis, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 296,
+            "end_offset": 337,
+            "annotation_id": "QM_001"
+        },
+        {
+            "decision": "DKA, metabolic acidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 339,
+            "end_offset": 362,
+            "annotation_id": "QM_002"
+        },
+        {
+            "decision": "Right below the knee amputation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 403,
+            "end_offset": 434,
+            "annotation_id": "QM_003"
+        },
+        {
+            "decision": "diabetes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 523,
+            "end_offset": 531,
+            "annotation_id": "QM_004"
+        },
+        {
+            "decision": "gangrene of her right foot",
+            "category": "Category 3: Defining problem",
+            "start_offset": 625,
+            "end_offset": 651,
+            "annotation_id": "QM_005"
+        },
+        {
+            "decision": "progressively worsening symptoms of bilateral claudication ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 855,
+            "end_offset": 913,
+            "annotation_id": "QM_006"
+        },
+        {
+            "decision": "has not been complaint with her home insulin regimen and has not taken her NPH in 1 month",
+            "category": "Category 5: Drug related",
+            "start_offset": 1006,
+            "end_offset": 1095,
+            "annotation_id": "QM_007"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1120,
+            "end_offset": 1132,
+            "annotation_id": "QM_008"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1133,
+            "end_offset": 1147,
+            "annotation_id": "QM_009"
+        },
+        {
+            "decision": "Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1148,
+            "end_offset": 1156,
+            "annotation_id": "QM_010"
+        },
+        {
+            "decision": "Diabetic nephropathy and neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1157,
+            "end_offset": 1192,
+            "annotation_id": "QM_011"
+        },
+        {
+            "decision": "thyroid nodules, benign",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1193,
+            "end_offset": 1216,
+            "annotation_id": "QM_012"
+        },
+        {
+            "decision": "transient diplopia and left leg weakness ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1217,
+            "end_offset": 1257,
+            "annotation_id": "QM_013"
+        },
+        {
+            "decision": "negative MRI ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1263,
+            "end_offset": 1275,
+            "annotation_id": "QM_014"
+        },
+        {
+            "decision": "Father died at 76yo from MI, mother died [**Age over 90 **]yo, sister and maternal grandfather with DM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1454,
+            "end_offset": 1556,
+            "annotation_id": "QM_015"
+        },
+        {
+            "decision": "Gen: NAD, AOX3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1573,
+            "end_offset": 1587,
+            "annotation_id": "QM_016"
+        },
+        {
+            "decision": "CVS: RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1588,
+            "end_offset": 1596,
+            "annotation_id": "QM_017"
+        },
+        {
+            "decision": "Pulm: CTAB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1597,
+            "end_offset": 1607,
+            "annotation_id": "QM_018"
+        },
+        {
+            "decision": "Abd: soft, NT/ND",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1608,
+            "end_offset": 1624,
+            "annotation_id": "QM_019"
+        },
+        {
+            "decision": "Ext: RLE s/p BKA, skin staples in place, dressing c/d/i.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1625,
+            "end_offset": 1680,
+            "annotation_id": "QM_020"
+        },
+        {
+            "decision": "LLE:Femoral: P. Popiteal: P. DP: D. PT: D.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1682,
+            "end_offset": 1723,
+            "annotation_id": "QM_021"
+        },
+        {
+            "decision": "BLOOD Vanco-24.6*",
+            "category": "Category 5: Drug related",
+            "start_offset": 2248,
+            "end_offset": 2265,
+            "annotation_id": "QM_022"
+        },
+        {
+            "decision": "Chest XRAY: FINDINGS: In comparison with study of [**2-26**], the Swan-Ganz catheter has been removed. Right subclavian PICC line extends to the mid to lower portion of the SVC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2555,
+            "end_offset": 2731,
+            "annotation_id": "QM_023"
+        },
+        {
+            "decision": "No evidence of acute cardiopulmonary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2733,
+            "end_offset": 2777,
+            "annotation_id": "QM_024"
+        },
+        {
+            "decision": "Enlargement of the cardiac silhouette persist.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2779,
+            "end_offset": 2824,
+            "annotation_id": "QM_025"
+        },
+        {
+            "decision": "wet gangrene of the right foot, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2925,
+            "end_offset": 2955,
+            "annotation_id": "QM_026"
+        },
+        {
+            "decision": ", hyponatremia, acute renal failure,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2957,
+            "end_offset": 2990,
+            "annotation_id": "QM_027"
+        },
+        {
+            "decision": ", sepsis, DKA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2992,
+            "end_offset": 3003,
+            "annotation_id": "QM_028"
+        },
+        {
+            "decision": "She was admitted to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3005,
+            "end_offset": 3033,
+            "annotation_id": "QM_029"
+        },
+        {
+            "decision": "aggressive fluid resuscitation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3038,
+            "end_offset": 3068,
+            "annotation_id": "QM_030"
+        },
+        {
+            "decision": "DKA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3083,
+            "end_offset": 3086,
+            "annotation_id": "QM_031"
+        },
+        {
+            "decision": "insulin drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 3095,
+            "end_offset": 3107,
+            "annotation_id": "QM_032"
+        },
+        {
+            "decision": "emergent amputation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3116,
+            "end_offset": 3135,
+            "annotation_id": "QM_033"
+        },
+        {
+            "decision": "She underwent a below the knee amputation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3151,
+            "end_offset": 3192,
+            "annotation_id": "QM_034"
+        },
+        {
+            "decision": "was transferred to the Intensive Care Unit for postoperative care.",
+            "category": "Category 1: Contact related",
+            "start_offset": 3256,
+            "end_offset": 3321,
+            "annotation_id": "QM_035"
+        },
+        {
+            "decision": "Percocet ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3352,
+            "end_offset": 3360,
+            "annotation_id": "QM_036"
+        },
+        {
+            "decision": "Neurontin was added ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3401,
+            "end_offset": 3420,
+            "annotation_id": "QM_037"
+        },
+        {
+            "decision": "stable from a cardiovascular standpoint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3491,
+            "end_offset": 3530,
+            "annotation_id": "QM_038"
+        },
+        {
+            "decision": "received aspirin 325",
+            "category": "Category 5: Drug related",
+            "start_offset": 3574,
+            "end_offset": 3594,
+            "annotation_id": "QM_039"
+        },
+        {
+            "decision": "metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 3596,
+            "end_offset": 3606,
+            "annotation_id": "QM_040"
+        },
+        {
+            "decision": "simvastatin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3608,
+            "end_offset": 3619,
+            "annotation_id": "QM_041"
+        },
+        {
+            "decision": "PA catheter was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3626,
+            "end_offset": 3648,
+            "annotation_id": "QM_042"
+        },
+        {
+            "decision": "PA catheter was discontinued on POD3.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3704,
+            "end_offset": 3740,
+            "annotation_id": "QM_043"
+        },
+        {
+            "decision": "stable from a pulmonary standpoint",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3775,
+            "end_offset": 3809,
+            "annotation_id": "QM_044"
+        },
+        {
+            "decision": "Good pulmonary toilet and incentive spirrometry were encouraged throughout her hospitalization.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3849,
+            "end_offset": 3943,
+            "annotation_id": "QM_045"
+        },
+        {
+            "decision": "Post-operatively, the patient was made NPO with IV fluids and a foley catheter was left in place. Diet was advanced when appropriate, which was well tolerated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3957,
+            "end_offset": 4115,
+            "annotation_id": "QM_046"
+        },
+        {
+            "decision": "IV fluid boluses were administered in the early postoperative period to ensure adequate resuscitation and correction of metabolic imbalance",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4174,
+            "end_offset": 4313,
+            "annotation_id": "QM_047"
+        },
+        {
+            "decision": "metabolic imbalance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4294,
+            "end_offset": 4313,
+            "annotation_id": "QM_048"
+        },
+        {
+            "decision": "BUN and Scr were trended and Scr improved from 1.7 on the day of admission down to 1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4382,
+            "end_offset": 4466,
+            "annotation_id": "QM_049"
+        },
+        {
+            "decision": "The foley was discontinued on POD 3 ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4468,
+            "end_offset": 4503,
+            "annotation_id": "QM_050"
+        },
+        {
+            "decision": "and the patient was able to void without problems.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4504,
+            "end_offset": 4553,
+            "annotation_id": "QM_051"
+        },
+        {
+            "decision": "was started on IV antibiotics on admission ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4637,
+            "end_offset": 4679,
+            "annotation_id": "QM_052"
+        },
+        {
+            "decision": "Vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4681,
+            "end_offset": 4691,
+            "annotation_id": "QM_053"
+        },
+        {
+            "decision": "Zosyn",
+            "category": "Category 5: Drug related",
+            "start_offset": 4693,
+            "end_offset": 4698,
+            "annotation_id": "QM_054"
+        },
+        {
+            "decision": "Cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 4700,
+            "end_offset": 4705,
+            "annotation_id": "QM_055"
+        },
+        {
+            "decision": "Flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 4707,
+            "end_offset": 4713,
+            "annotation_id": "QM_056"
+        },
+        {
+            "decision": "WBC improved from 40 on the day of admissionn to 11 upon discharge",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4723,
+            "end_offset": 4789,
+            "annotation_id": "QM_057"
+        },
+        {
+            "decision": "vancomycin IV 750 mg q24hours (as adjusted per troughs),",
+            "category": "Category 5: Drug related",
+            "start_offset": 4816,
+            "end_offset": 4870,
+            "annotation_id": "QM_058"
+        },
+        {
+            "decision": "cipro PO",
+            "category": "Category 5: Drug related",
+            "start_offset": 4873,
+            "end_offset": 4881,
+            "annotation_id": "QM_059"
+        },
+        {
+            "decision": "flagyl PO",
+            "category": "Category 5: Drug related",
+            "start_offset": 4887,
+            "end_offset": 4896,
+            "annotation_id": "QM_060"
+        },
+        {
+            "decision": "These should continue for a total of 2 weeks from the time of amputation, which will complete on [**2104-3-10**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 4899,
+            "end_offset": 5011,
+            "annotation_id": "QM_061"
+        },
+        {
+            "decision": "Insulin drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5117,
+            "end_offset": 5129,
+            "annotation_id": "QM_062"
+        },
+        {
+            "decision": "hyperglycemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5145,
+            "end_offset": 5158,
+            "annotation_id": "QM_063"
+        },
+        {
+            "decision": "resolution of DKA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5164,
+            "end_offset": 5181,
+            "annotation_id": "QM_064"
+        },
+        {
+            "decision": "[**Last Name (un) **] was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 5183,
+            "end_offset": 5218,
+            "annotation_id": "QM_065"
+        },
+        {
+            "decision": "Insulin sliding scale ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5226,
+            "end_offset": 5247,
+            "annotation_id": "QM_066"
+        },
+        {
+            "decision": "lantus 18units qHS ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5259,
+            "end_offset": 5277,
+            "annotation_id": "QM_067"
+        },
+        {
+            "decision": "was able to transition from the Insulin drip to SC",
+            "category": "Category 5: Drug related",
+            "start_offset": 5345,
+            "end_offset": 5395,
+            "annotation_id": "QM_068"
+        },
+        {
+            "decision": "received 1U PRBC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5422,
+            "end_offset": 5438,
+            "annotation_id": "QM_069"
+        },
+        {
+            "decision": "Hct of 26 and remained stable thereafter.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5453,
+            "end_offset": 5493,
+            "annotation_id": "QM_070"
+        },
+        {
+            "decision": "received subcutaneous heparin and H2 blockers.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5521,
+            "end_offset": 5566,
+            "annotation_id": "QM_071"
+        },
+        {
+            "decision": "The patient was transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 5569,
+            "end_offset": 5609,
+            "annotation_id": "QM_072"
+        },
+        {
+            "decision": "Physical and Occupational therapy were consulted.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5619,
+            "end_offset": 5667,
+            "annotation_id": "QM_073"
+        },
+        {
+            "decision": "was afebrile, vital signs were stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5714,
+            "end_offset": 5751,
+            "annotation_id": "QM_074"
+        },
+        {
+            "decision": "regular/diabetic diet",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5774,
+            "end_offset": 5795,
+            "annotation_id": "QM_075"
+        },
+        {
+            "decision": "blood glucose leves were well controlled",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5804,
+            "end_offset": 5844,
+            "annotation_id": "QM_076"
+        },
+        {
+            "decision": "She was voiding regularly and was able to get out of bed to the chair with assistance.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5846,
+            "end_offset": 5931,
+            "annotation_id": "QM_077"
+        },
+        {
+            "decision": "She will follow-up with Dr. [**Last Name (STitle) **] in 2 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6061,
+            "end_offset": 6125,
+            "annotation_id": "QM_078"
+        },
+        {
+            "decision": "Lisinopril 10 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6156,
+            "end_offset": 6178,
+            "annotation_id": "QM_079"
+        },
+        {
+            "decision": "simvastatin 40 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6180,
+            "end_offset": 6203,
+            "annotation_id": "QM_080"
+        },
+        {
+            "decision": "aspirin 325 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6205,
+            "end_offset": 6225,
+            "annotation_id": "QM_081"
+        },
+        {
+            "decision": "HUMULIN N 25u daily (not compliant)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6227,
+            "end_offset": 6261,
+            "annotation_id": "QM_082"
+        },
+        {
+            "decision": "aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6291,
+            "end_offset": 6348,
+            "annotation_id": "QM_083"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6354,
+            "end_offset": 6427,
+            "annotation_id": "QM_084"
+        },
+        {
+            "decision": "oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 6433,
+            "end_offset": 6531,
+            "annotation_id": "QM_085"
+        },
+        {
+            "decision": "simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6536,
+            "end_offset": 6596,
+            "annotation_id": "QM_086"
+        },
+        {
+            "decision": "ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6602,
+            "end_offset": 6666,
+            "annotation_id": "QM_087"
+        },
+        {
+            "decision": "metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6672,
+            "end_offset": 6746,
+            "annotation_id": "QM_088"
+        },
+        {
+            "decision": "valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6752,
+            "end_offset": 6810,
+            "annotation_id": "QM_089"
+        },
+        {
+            "decision": "gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6817,
+            "end_offset": 6885,
+            "annotation_id": "QM_090"
+        },
+        {
+            "decision": "ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6891,
+            "end_offset": 6962,
+            "annotation_id": "QM_091"
+        },
+        {
+            "decision": "metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6969,
+            "end_offset": 7038,
+            "annotation_id": "QM_092"
+        },
+        {
+            "decision": "senna 8.6 mg Tablet Sig: 1-2 Tablets PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7045,
+            "end_offset": 7097,
+            "annotation_id": "QM_093"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7225,
+            "end_offset": 7237,
+            "annotation_id": "QM_094"
+        },
+        {
+            "decision": "bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7104,
+            "end_offset": 7237,
+            "annotation_id": "QM_095"
+        },
+        {
+            "decision": "Vancomycin 750 mg IV Q 24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 7243,
+            "end_offset": 7269,
+            "annotation_id": "QM_096"
+        },
+        {
+            "decision": "Wet gangrene of the right foot",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7386,
+            "end_offset": 7416,
+            "annotation_id": "QM_097"
+        },
+        {
+            "decision": "hyponatremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7417,
+            "end_offset": 7429,
+            "annotation_id": "QM_098"
+        },
+        {
+            "decision": "acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7430,
+            "end_offset": 7449,
+            "annotation_id": "QM_099"
+        },
+        {
+            "decision": "sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7450,
+            "end_offset": 7456,
+            "annotation_id": "QM_100"
+        },
+        {
+            "decision": "diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7457,
+            "end_offset": 7478,
+            "annotation_id": "QM_101"
+        },
+        {
+            "decision": "stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7501,
+            "end_offset": 7507,
+            "annotation_id": "QM_102"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7508,
+            "end_offset": 7553,
+            "annotation_id": "QM_103"
+        },
+        {
+            "decision": "Mental Status: Confused - sometimes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7555,
+            "end_offset": 7590,
+            "annotation_id": "QM_104"
+        },
+        {
+            "decision": "Activity Status: Out of Bed with assistance to chair or wheelchair",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7592,
+            "end_offset": 7658,
+            "annotation_id": "QM_105"
+        },
+        {
+            "decision": "PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:  .  Redness in or drainage from your leg wound(s).  .  New pain, numbness or discoloration of your foot or toes.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7686,
+            "end_offset": 7859,
+            "annotation_id": "QM_106"
+        },
+        {
+            "decision": "Watch for signs and symptoms of infection. These are: a fever greater than 101 degrees, chills, increased redness, or pus draining from the incision site. If you experience any of these or bleeding at the incision site, CALL THE DOCTOR",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7865,
+            "end_offset": 8100,
+            "annotation_id": "QM_107"
+        },
+        {
+            "decision": "Limit strenuous activity for 6 weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8120,
+            "end_offset": 8156,
+            "annotation_id": "QM_108"
+        },
+        {
+            "decision": "Try to keep leg elevated when able",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8162,
+            "end_offset": 8196,
+            "annotation_id": "QM_109"
+        },
+        {
+            "decision": "You may shower immediately upon coming home. No bathing. A dressing may cover you??????re amputation site and this should be left in place for three (3) days. Remove it after this time and wash your incision(s) gently with soap and water. You will have sutures, which are usually removed in 4 weeks. This will be done by the Surgeon on your follow-up appointment",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8225,
+            "end_offset": 8587,
+            "annotation_id": "QM_110"
+        },
+        {
+            "decision": "You will have sutures, which are usually removed in 4 weeks. This will be done by the Surgeon on your follow-up appointment.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8464,
+            "end_offset": 8587,
+            "annotation_id": "QM_111"
+        },
+        {
+            "decision": "Sutures / Staples may be removed before discharge. If they are not, an appointment will be made for you to return for staple removal.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8609,
+            "end_offset": 8741,
+            "annotation_id": "QM_112"
+        },
+        {
+            "decision": "Sutures / Staples may be removed before discharge. If they are not, an appointment will be made for you to return for staple removal.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8609,
+            "end_offset": 8741,
+            "annotation_id": "QM_113"
+        },
+        {
+            "decision": "When the sutures are removed the doctor may or may not place pieces of tape called steri-strips over the incision. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8747,
+            "end_offset": 8860,
+            "annotation_id": "QM_114"
+        },
+        {
+            "decision": "When the sutures are removed the doctor may or may not place pieces of tape called steri-strips over the incision. These will stay on about a week and you may shower with them on. If these do not fall off after 10 days, you may peel them off with warm water and soap in the shower",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8747,
+            "end_offset": 9027,
+            "annotation_id": "QM_115"
+        },
+        {
+            "decision": "Avoid taking a tub bath, swimming, or soaking in a hot tub for four weeks after surgery",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9033,
+            "end_offset": 9120,
+            "annotation_id": "QM_116"
+        },
+        {
+            "decision": "Unless told otherwise you should resume taking all of the medications you were taking before surgery. You will be given a new prescription for pain medication, which can be taken every three (3) to four (4) hours only if necessary",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9143,
+            "end_offset": 9373,
+            "annotation_id": "QM_117"
+        },
+        {
+            "decision": "Unless told otherwise you should resume taking all of the medications you were taking before surgery. You will be given a new prescription for pain medication, which can be taken every three (3) to four (4) hours only if necessary",
+            "category": "Category 5: Drug related",
+            "start_offset": 9143,
+            "end_offset": 9373,
+            "annotation_id": "QM_118"
+        },
+        {
+            "decision": "Remember that narcotic pain meds can be constipating ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9379,
+            "end_offset": 9431,
+            "annotation_id": "QM_119"
+        },
+        {
+            "decision": "You may use over the counter Metamucil or Milk of Magnesia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9622,
+            "end_offset": 9680,
+            "annotation_id": "QM_120"
+        },
+        {
+            "decision": "Remember that narcotic pain meds can be constipating and you should increase the fluid and bulk foods in your diet. (Check with your physician if you have fluid restrictions.) If you feel that you are constipated, do not strain at the toilet. You may use over the counter Metamucil or Milk of Magnesia. Appetite suppression may occur; this will improve with time. Eat small balanced meals throughout the day",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9379,
+            "end_offset": 9786,
+            "annotation_id": "QM_121"
+        },
+        {
+            "decision": "NO SMOKING! We know you've heard this before, but it really is an important step to your recovery. Smoking causes narrowing of your blood vessels which in turn decreases circulation. If you smoke you will need to stop as soon as possible. Ask your nurse or doctor for information on smoking cessation",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9803,
+            "end_offset": 10103,
+            "annotation_id": "QM_122"
+        },
+        {
+            "decision": "Avoid pressure to your amputation site",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10109,
+            "end_offset": 10147,
+            "annotation_id": "QM_123"
+        },
+        {
+            "decision": "No strenuous activity for 6 weeks after surgery",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10153,
+            "end_offset": 10200,
+            "annotation_id": "QM_124"
+        },
+        {
+            "decision": "There are no special restrictions on your diet postoperatively. Poor appetite is expected for several weeks and small, frequent meals may be preferred",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10216,
+            "end_offset": 10366,
+            "annotation_id": "QM_125"
+        },
+        {
+            "decision": "For people with vascular problems we would recommend a cholesterol lowering diet: Follow a diet low in total fat and low in saturated fat and in cholesterol to improve lipid profile in your blood.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10372,
+            "end_offset": 10567,
+            "annotation_id": "QM_126"
+        },
+        {
+            "decision": " Additionally, some people see a reduction in serum cholesterol by reducing dietary cholesterol. Since a reduction in dietary cholesterol is not harmful, we suggest that most people reduce dietary fat, saturated fat and cholesterol to decrease total cholesterol and LDL (Low Density Lipoprotein-the bad cholesterol). ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10569,
+            "end_offset": 10882,
+            "annotation_id": "QM_127"
+        },
+        {
+            "decision": "For people with vascular problems we would recommend a cholesterol lowering diet: Follow a diet low in total fat and low in saturated fat and in cholesterol to improve lipid profile in your blood. Additionally, some people see a reduction in serum cholesterol by reducing dietary cholesterol. Since a reduction in dietary cholesterol is not harmful, we suggest that most people reduce dietary fat, saturated fat and cholesterol to decrease total cholesterol and LDL (Low Density Lipoprotein-the bad cholesterol). Exercise will increase your HDL (High Density Lipoprotein-the good cholesterol) and with your doctor's permission, is typically recommended. You may be self-referred or get a referral from your doctor",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10372,
+            "end_offset": 11085,
+            "annotation_id": "QM_128"
+        },
+        {
+            "decision": "If you are overweight, you need to think about starting a weight management program. Your health and its improvement depend on it. We know that making changes in your lifestyle will not be easy, and it will require a whole new set of habits and a new attitude. If interested you can may be self-referred or can get a referral from your doctor",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11091,
+            "end_offset": 11433,
+            "annotation_id": "QM_129"
+        },
+        {
+            "decision": "diabetes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11451,
+            "end_offset": 11459,
+            "annotation_id": "QM_130"
+        },
+        {
+            "decision": "If you have diabetes and would like additional guidance, you may request a referral from your doctor",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11439,
+            "end_offset": 11539,
+            "annotation_id": "QM_131"
+        },
+        {
+            "decision": "Be sure to keep your medical appointments. The key to your improving health will be to keep a tight reign on any of the chronic medical conditions that you have. Things like high blood pressure, diabetes, and high cholesterol are major villains to the blood vessels. Don't let them go untreated",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11569,
+            "end_offset": 11863,
+            "annotation_id": "QM_132"
+        },
+        {
+            "decision": "Please call the office on the first working day after your discharge from the hospital to schedule a follow-up visit. This should be scheduled on the calendar for seven to fourteen days after discharge. Normal office hours are 8:30-5:30 Monday through Friday",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11869,
+            "end_offset": 12127,
+            "annotation_id": "QM_133"
+        },
+        {
+            "decision": "PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR QUESTIONS THAT MIGHT ARISE",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12133,
+            "end_offset": 12222,
+            "annotation_id": "QM_134"
+        },
+        {
+            "decision": "Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2104-4-8**] 1:45",
+            "category": "Category 1: Contact related",
+            "start_offset": 12248,
+            "end_offset": 12391,
+            "annotation_id": "QM_135"
+        },
+        {
+            "decision": "Please call the office to schedule an appointment with Dr. [**Last Name (STitle) **] in 2 weeks, ([**Telephone/Fax (1) 8343**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12393,
+            "end_offset": 12519,
+            "annotation_id": "QM_136"
+        },
+        {
+            "decision": "Follow up with your PCP [**Last Name (NamePattern4) **] [**2-14**] weeks after discharge to have your medications reviewed as they have changed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12521,
+            "end_offset": 12664,
+            "annotation_id": "QM_137"
+        }
+    ]
+}

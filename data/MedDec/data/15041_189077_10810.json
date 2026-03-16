@@ -1,0 +1,713 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "15041_189077_10810",
+    "annotations": [
+        {
+            "decision": "Pelvic mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 289,
+            "end_offset": 300,
+            "annotation_id": "CT_000"
+        },
+        {
+            "decision": "Exploratory laparotomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 340,
+            "end_offset": 362,
+            "annotation_id": "CT_001"
+        },
+        {
+            "decision": "radical resection of pelvic mass",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 364,
+            "end_offset": 396,
+            "annotation_id": "CT_002"
+        },
+        {
+            "decision": "supracervical hysterectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 398,
+            "end_offset": 424,
+            "annotation_id": "CT_003"
+        },
+        {
+            "decision": "bilateral salpingo-oophorectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 426,
+            "end_offset": 457,
+            "annotation_id": "CT_004"
+        },
+        {
+            "decision": "ileocecectomy with ileal ascending colostomy anastomosis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 459,
+            "end_offset": 515,
+            "annotation_id": "CT_005"
+        },
+        {
+            "decision": "rectal resection with end sigmoid colostomy and Hartmann pouch",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 517,
+            "end_offset": 579,
+            "annotation_id": "CT_006"
+        },
+        {
+            "decision": "infracolic omentectomy, extensive tumor debulking",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 581,
+            "end_offset": 630,
+            "annotation_id": "CT_007"
+        },
+        {
+            "decision": "LUQ discomfort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 764,
+            "end_offset": 778,
+            "annotation_id": "CT_008"
+        },
+        {
+            "decision": "h/o nephrolithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 792,
+            "end_offset": 811,
+            "annotation_id": "CT_009"
+        },
+        {
+            "decision": "CT urogram was done on [**8-11**] which showed non-obstructing stones and a bulky heterogenous uterus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 815,
+            "end_offset": 916,
+            "annotation_id": "CT_010"
+        },
+        {
+            "decision": "consistent with fibroids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 917,
+            "end_offset": 941,
+            "annotation_id": "CT_011"
+        },
+        {
+            "decision": "gradual onset of pelvic discomfort, constipation, and bloating",
+            "category": "Category 3: Defining problem",
+            "start_offset": 955,
+            "end_offset": 1017,
+            "annotation_id": "CT_012"
+        },
+        {
+            "decision": "Pelvic ultrasound on [**10-16**] showed a large complex vascular left adnexal mass.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1019,
+            "end_offset": 1101,
+            "annotation_id": "CT_013"
+        },
+        {
+            "decision": "PMH: Brain aneurysm, nephrolithiasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1126,
+            "end_offset": 1162,
+            "annotation_id": "CT_014"
+        },
+        {
+            "decision": "brain aneurysm ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1179,
+            "end_offset": 1193,
+            "annotation_id": "CT_015"
+        },
+        {
+            "decision": "PSH: Coiling of brain aneurysm in [**2170**], lithotripsy [**2173**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1163,
+            "end_offset": 1231,
+            "annotation_id": "CT_016"
+        },
+        {
+            "decision": "Vaginal delivery x1.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1244,
+            "end_offset": 1263,
+            "annotation_id": "CT_017"
+        },
+        {
+            "decision": "Last Pap smear and mammogram were both recently normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1278,
+            "end_offset": 1332,
+            "annotation_id": "CT_018"
+        },
+        {
+            "decision": "GENERAL APPEARANCE:  Well developed, well nourished",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1488,
+            "end_offset": 1539,
+            "annotation_id": "CT_019"
+        },
+        {
+            "decision": "HEENT:  Sclerae anicteric.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1541,
+            "end_offset": 1566,
+            "annotation_id": "CT_020"
+        },
+        {
+            "decision": "LYMPHATICS:  Lymph node survey was negative.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1568,
+            "end_offset": 1611,
+            "annotation_id": "CT_021"
+        },
+        {
+            "decision": "LUNGS:  Clear to auscultation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1613,
+            "end_offset": 1642,
+            "annotation_id": "CT_022"
+        },
+        {
+            "decision": "HEART:  Regular without murmurs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1644,
+            "end_offset": 1675,
+            "annotation_id": "CT_023"
+        },
+        {
+            "decision": "BREASTS:  Without masses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1677,
+            "end_offset": 1701,
+            "annotation_id": "CT_024"
+        },
+        {
+            "decision": "ABDOMEN:  Soft and distended with a palpable mass extending from the left lower quadrant to the left upper quadrant.  This mass was nontender.  It felt quite firm.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1703,
+            "end_offset": 1865,
+            "annotation_id": "CT_025"
+        },
+        {
+            "decision": "There was also a palpable mass in the mid lower abdomen, which was also quite firm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1868,
+            "end_offset": 1950,
+            "annotation_id": "CT_026"
+        },
+        {
+            "decision": "EXTREMITIES:  Without edema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1952,
+            "end_offset": 1979,
+            "annotation_id": "CT_027"
+        },
+        {
+            "decision": "The vulva and vagina were normal",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1990,
+            "end_offset": 2022,
+            "annotation_id": "CT_028"
+        },
+        {
+            "decision": "Bimanual and rectovaginal examination revealed that the cervix was small and displaced anteriorly.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2057,
+            "end_offset": 2154,
+            "annotation_id": "CT_029"
+        },
+        {
+            "decision": "There was a large smooth mass that was palpable both through the anterior vaginal wall and through the posterior fornix. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2157,
+            "end_offset": 2276,
+            "annotation_id": "CT_030"
+        },
+        {
+            "decision": "By rectal examination, the posterior mass was filling the cul-de-sac.  The rectal was intrinsically normal.  Bimanual examination revealed that the mass seemed to be contiguous with the mass in the left upper quadrant. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2279,
+            "end_offset": 2496,
+            "annotation_id": "CT_031"
+        },
+        {
+            "decision": "There was no parametrial disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2499,
+            "end_offset": 2531,
+            "annotation_id": "CT_032"
+        },
+        {
+            "decision": "Intubat-INTUBATED",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3082,
+            "end_offset": 3099,
+            "annotation_id": "CT_033"
+        },
+        {
+            "decision": "coumadin held",
+            "category": "Category 5: Drug related",
+            "start_offset": 3391,
+            "end_offset": 3404,
+            "annotation_id": "CT_034"
+        },
+        {
+            "decision": "Sinus tachycardia. Delayed R wave transition. No previous tracing available for comparison.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3428,
+            "end_offset": 3518,
+            "annotation_id": "CT_035"
+        },
+        {
+            "decision": "As compared to the previous radiograph, the lung volumes have markedly decreased. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3588,
+            "end_offset": 3668,
+            "annotation_id": "CT_036"
+        },
+        {
+            "decision": "There is a marked retrocardiac atelectasis, associated with a small left-sided pleural effusion. Small areas of atelectasis are also seen at the right lung base. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3670,
+            "end_offset": 3830,
+            "annotation_id": "CT_037"
+        },
+        {
+            "decision": "The size of the cardiac silhouette has mildly increased.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3832,
+            "end_offset": 3887,
+            "annotation_id": "CT_038"
+        },
+        {
+            "decision": "There are no features suggesting pulmonary edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3889,
+            "end_offset": 3937,
+            "annotation_id": "CT_039"
+        },
+        {
+            "decision": "No evidence of pneumothorax.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3939,
+            "end_offset": 3966,
+            "annotation_id": "CT_040"
+        },
+        {
+            "decision": "Acute pulmonary emboli, right upper lobe pulmonary artery and segmental divisions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4046,
+            "end_offset": 4127,
+            "annotation_id": "CT_041"
+        },
+        {
+            "decision": "Severe bibasilar atelectasis and small airways obstruction probably also contributory to respiratory insufficiency.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4132,
+            "end_offset": 4246,
+            "annotation_id": "CT_042"
+        },
+        {
+            "decision": "Small bilateral pleural effusions reflect recent abdominal surgery. No evidence of intrathoracic malignancy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4251,
+            "end_offset": 4358,
+            "annotation_id": "CT_043"
+        },
+        {
+            "decision": "Pelvic mass, biopsy (A-G):  Poorly differentiated carcinoma consistent with papillary serous carcinoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4416,
+            "end_offset": 4518,
+            "annotation_id": "CT_044"
+        },
+        {
+            "decision": "Pelvic tumor, resection (C-G):  Papillary serous carcinoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4525,
+            "end_offset": 4583,
+            "annotation_id": "CT_045"
+        },
+        {
+            "decision": "Ovary\", left (H-Q):  Papillary serous carcinoma, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4591,
+            "end_offset": 4638,
+            "annotation_id": "CT_046"
+        },
+        {
+            "decision": "Uterus, right ovary and tube, left ovary and tube, small intestine, large intestine and rectum:  Papillary serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4666,
+            "end_offset": 4789,
+            "annotation_id": "CT_047"
+        },
+        {
+            "decision": "Uterine serosal implant of serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4878,
+            "end_offset": 4921,
+            "annotation_id": "CT_048"
+        },
+        {
+            "decision": "Resected supracervical margin is negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4924,
+            "end_offset": 4965,
+            "annotation_id": "CT_049"
+        },
+        {
+            "decision": "Ovaries (left and right) with serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4968,
+            "end_offset": 5014,
+            "annotation_id": "CT_050"
+        },
+        {
+            "decision": "Right fallopian tube free of tumor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5017,
+            "end_offset": 5051,
+            "annotation_id": "CT_051"
+        },
+        {
+            "decision": "-No left fallopian tube recognized.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5053,
+            "end_offset": 5087,
+            "annotation_id": "CT_052"
+        },
+        {
+            "decision": "Small intestine (R-U): Multiple serosal implants of serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5094,
+            "end_offset": 5162,
+            "annotation_id": "CT_053"
+        },
+        {
+            "decision": "Large intestine and rectum, partial resection (V-Z): Diffusely encased with serous carcinoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5167,
+            "end_offset": 5259,
+            "annotation_id": "CT_054"
+        },
+        {
+            "decision": "Cecum (AJ-AK):  No malignancy identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5265,
+            "end_offset": 5305,
+            "annotation_id": "CT_055"
+        },
+        {
+            "decision": "Sigmoid tumor ([**Doctor Last Name **]-AP):  Papillary serous carcinoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5311,
+            "end_offset": 5382,
+            "annotation_id": "CT_056"
+        },
+        {
+            "decision": "Left colon tumor  (AQ):  Papillary serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5388,
+            "end_offset": 5439,
+            "annotation_id": "CT_057"
+        },
+        {
+            "decision": "Omentum (AR-AU):  Papillary serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5445,
+            "end_offset": 5489,
+            "annotation_id": "CT_058"
+        },
+        {
+            "decision": "Abdominal wall (AV-AX):  Papillary serous carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5495,
+            "end_offset": 5546,
+            "annotation_id": "CT_059"
+        },
+        {
+            "decision": "Primary Tumor TNM (FIGO):  pT3c and/or N1 (IIIC):  Peritoneal metastasis beyond pelvis more than 2 cm in greatest dimension and/or regional lymph node metastasis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5567,
+            "end_offset": 5728,
+            "annotation_id": "CT_060"
+        },
+        {
+            "decision": "Venous/lymphatic vessel invasion (V/L):  Present.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5860,
+            "end_offset": 5908,
+            "annotation_id": "CT_061"
+        },
+        {
+            "decision": "admitted to the gyn oncology service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5944,
+            "end_offset": 5980,
+            "annotation_id": "CT_062"
+        },
+        {
+            "decision": "suboptimal cytoreductive surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5985,
+            "end_offset": 6017,
+            "annotation_id": "CT_063"
+        },
+        {
+            "decision": "advanced ovarian cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6022,
+            "end_offset": 6045,
+            "annotation_id": "CT_064"
+        },
+        {
+            "decision": "exploratory laparotomy, SCH/BSO, small bowel resection and re-anastimosis, and sigmoid rection with colostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6059,
+            "end_offset": 6168,
+            "annotation_id": "CT_065"
+        },
+        {
+            "decision": "transferred to the regular floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 6324,
+            "end_offset": 6356,
+            "annotation_id": "CT_066"
+        },
+        {
+            "decision": "Pulmonary embolus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6457,
+            "end_offset": 6474,
+            "annotation_id": "CT_067"
+        },
+        {
+            "decision": "shortness of breath, tachycardia, and tachypnea.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6494,
+            "end_offset": 6541,
+            "annotation_id": "CT_068"
+        },
+        {
+            "decision": "A CTA was performed which showed a right upper lobe PE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6544,
+            "end_offset": 6598,
+            "annotation_id": "CT_069"
+        },
+        {
+            "decision": "Heparin drip was started for anticoagulation and she was transitioned to Coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6601,
+            "end_offset": 6682,
+            "annotation_id": "CT_070"
+        },
+        {
+            "decision": "She was given Coumadin 5 mg PO QHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 6716,
+            "end_offset": 6750,
+            "annotation_id": "CT_071"
+        },
+        {
+            "decision": "INR was supra-therapeutic at 4.7 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6784,
+            "end_offset": 6816,
+            "annotation_id": "CT_072"
+        },
+        {
+            "decision": "Coumadin was held that night",
+            "category": "Category 5: Drug related",
+            "start_offset": 6834,
+            "end_offset": 6862,
+            "annotation_id": "CT_073"
+        },
+        {
+            "decision": "stable for discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6911,
+            "end_offset": 6931,
+            "annotation_id": "CT_074"
+        },
+        {
+            "decision": "she was discharged home ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6946,
+            "end_offset": 6969,
+            "annotation_id": "CT_075"
+        },
+        {
+            "decision": "her Coumadin adjusted by her PCP",
+            "category": "Category 1: Contact related",
+            "start_offset": 7039,
+            "end_offset": 7071,
+            "annotation_id": "CT_076"
+        },
+        {
+            "decision": "Blood loss anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7143,
+            "end_offset": 7160,
+            "annotation_id": "CT_077"
+        },
+        {
+            "decision": "She received 1 U PRBC intra-op and another 2 U PRBC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7208,
+            "end_offset": 7259,
+            "annotation_id": "CT_078"
+        },
+        {
+            "decision": "Her hct was stable at 26-27 for many days prior to discharge.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7276,
+            "end_offset": 7336,
+            "annotation_id": "CT_079"
+        },
+        {
+            "decision": "Chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7343,
+            "end_offset": 7353,
+            "annotation_id": "CT_080"
+        },
+        {
+            "decision": "She had one episode of chest pain on POD 2 which resolved spontaneously",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7355,
+            "end_offset": 7426,
+            "annotation_id": "CT_081"
+        },
+        {
+            "decision": "Her EKG showed sinus tachycardia and her cardiac enzymes were cycled for 3 sets and found to be normal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7429,
+            "end_offset": 7531,
+            "annotation_id": "CT_082"
+        },
+        {
+            "decision": "Colostomy: Her ostomy started functioning on POD3.  She was seen by the ostomy nurse and learned to independently care for her ostomy.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7538,
+            "end_offset": 7671,
+            "annotation_id": "CT_083"
+        },
+        {
+            "decision": "good condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7708,
+            "end_offset": 7722,
+            "annotation_id": "CT_084"
+        },
+        {
+            "decision": "She was ambulating, voiding, and tolerating a full diet without problems. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7725,
+            "end_offset": 7797,
+            "annotation_id": "CT_085"
+        },
+        {
+            "decision": "[**Name (NI) 269**] was arranged for stoma care and to check her INRs.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7800,
+            "end_offset": 7869,
+            "annotation_id": "CT_086"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7931,
+            "end_offset": 8053,
+            "annotation_id": "CT_087"
+        },
+        {
+            "decision": "Motrin 600 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8057,
+            "end_offset": 8172,
+            "annotation_id": "CT_088"
+        },
+        {
+            "decision": "Please draw INR every morning and report results to patient's primary Care: Dr. [**Last Name (STitle) 35275**]  - Office [**Telephone/Fax (1) 35276**]  - Pager [**Telephone/Fax (1) 35277**] (#[**Numeric Identifier 35278**])  - Cell [**Telephone/Fax (1) 35279**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8196,
+            "end_offset": 8457,
+            "annotation_id": "CT_089"
+        },
+        {
+            "decision": "Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO at bedtime: As instructed by Dr. [**Last Name (STitle) 35275**]. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8461,
+            "end_offset": 8603,
+            "annotation_id": "CT_090"
+        },
+        {
+            "decision": "Ovarian cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8699,
+            "end_offset": 8713,
+            "annotation_id": "CT_091"
+        },
+        {
+            "decision": "Pulmonary embolus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8714,
+            "end_offset": 8731,
+            "annotation_id": "CT_092"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8755,
+            "end_offset": 8759,
+            "annotation_id": "CT_093"
+        },
+        {
+            "decision": "No heavy lifting or strenuos activity for 6 weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8786,
+            "end_offset": 8835,
+            "annotation_id": "CT_094"
+        },
+        {
+            "decision": "No driving while taking the Percocet.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8837,
+            "end_offset": 8873,
+            "annotation_id": "CT_095"
+        },
+        {
+            "decision": "Take care of your ostomy as instructed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8875,
+            "end_offset": 8913,
+            "annotation_id": "CT_096"
+        },
+        {
+            "decision": "You will need your INR checked every day and your Coumadin dose will be adjusted by Dr. [**Last Name (STitle) 35275**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 8915,
+            "end_offset": 9033,
+            "annotation_id": "CT_097"
+        },
+        {
+            "decision": "Call if you have increasing pain, nausea or vomiting, redness or drainage from your incision, chest pain, shortness of breath, or any other problems.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9035,
+            "end_offset": 9183,
+            "annotation_id": "CT_098"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 7613**], MD Phone:[**Telephone/Fax (1) 5777**] Date/Time:[**2177-12-11**] 1:00 . The medical oncologist will call you to arrange an appointment.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9209,
+            "end_offset": 9413,
+            "annotation_id": "CT_099"
+        },
+        {
+            "decision": "Please call Dr.[**Name (NI) 35280**] office to schedule an appointment.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9417,
+            "end_offset": 9487,
+            "annotation_id": "CT_100"
+        }
+    ]
+}

@@ -1,0 +1,916 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "24571_112621_14140",
+    "annotations": [
+        {
+            "decision": "shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 172,
+            "end_offset": 191,
+            "annotation_id": "HK_000"
+        },
+        {
+            "decision": "Endotracheal intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 231,
+            "end_offset": 254,
+            "annotation_id": "HK_001"
+        },
+        {
+            "decision": "Diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 255,
+            "end_offset": 263,
+            "annotation_id": "HK_002"
+        },
+        {
+            "decision": "CAD, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 325,
+            "end_offset": 328,
+            "annotation_id": "HK_003"
+        },
+        {
+            "decision": "CHF,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 330,
+            "end_offset": 333,
+            "annotation_id": "HK_004"
+        },
+        {
+            "decision": "severe MR, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 335,
+            "end_offset": 344,
+            "annotation_id": "HK_005"
+        },
+        {
+            "decision": "and mild AS ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 346,
+            "end_offset": 357,
+            "annotation_id": "HK_006"
+        },
+        {
+            "decision": "po",
+            "category": "Category 5: Drug related",
+            "start_offset": 577,
+            "end_offset": 579,
+            "annotation_id": "HK_007"
+        },
+        {
+            "decision": "given Lasix 60 mg po,  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 559,
+            "end_offset": 579,
+            "annotation_id": "HK_008"
+        },
+        {
+            "decision": "and morphine",
+            "category": "Category 5: Drug related",
+            "start_offset": 593,
+            "end_offset": 605,
+            "annotation_id": "HK_009"
+        },
+        {
+            "decision": "transferred to the [**Hospital1 18**] ER",
+            "category": "Category 1: Contact related",
+            "start_offset": 615,
+            "end_offset": 655,
+            "annotation_id": "HK_010"
+        },
+        {
+            "decision": "cyanotic, unresponsive, and saturating 80% on a NRB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 677,
+            "end_offset": 728,
+            "annotation_id": "HK_011"
+        },
+        {
+            "decision": "urgently intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 739,
+            "end_offset": 757,
+            "annotation_id": "HK_012"
+        },
+        {
+            "decision": "given lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 762,
+            "end_offset": 773,
+            "annotation_id": "HK_013"
+        },
+        {
+            "decision": "admitted to the CCU",
+            "category": "Category 1: Contact related",
+            "start_offset": 779,
+            "end_offset": 798,
+            "annotation_id": "HK_014"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 826,
+            "end_offset": 829,
+            "annotation_id": "HK_015"
+        },
+        {
+            "decision": "3VD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 831,
+            "end_offset": 834,
+            "annotation_id": "HK_016"
+        },
+        {
+            "decision": "cath [**2128**] with 99% LAD, 90% LCx, 100% RCA stenoses.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 836,
+            "end_offset": 892,
+            "annotation_id": "HK_017"
+        },
+        {
+            "decision": "Refused CABG.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 895,
+            "end_offset": 907,
+            "annotation_id": "HK_018"
+        },
+        {
+            "decision": "NSTEMI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 910,
+            "end_offset": 916,
+            "annotation_id": "HK_019"
+        },
+        {
+            "decision": "complicated by cardiogenic shock",
+            "category": "Category 3: Defining problem",
+            "start_offset": 945,
+            "end_offset": 977,
+            "annotation_id": "HK_020"
+        },
+        {
+            "decision": "pressors ",
+            "category": "Category 5: Drug related",
+            "start_offset": 988,
+            "end_offset": 996,
+            "annotation_id": "HK_021"
+        },
+        {
+            "decision": "intubation ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1001,
+            "end_offset": 1011,
+            "annotation_id": "HK_022"
+        },
+        {
+            "decision": "NSVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1016,
+            "end_offset": 1020,
+            "annotation_id": "HK_023"
+        },
+        {
+            "decision": "Ischemic cardiomyopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1025,
+            "end_offset": 1048,
+            "annotation_id": "HK_024"
+        },
+        {
+            "decision": "TTE-[**9-11**] EF 20 %, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1051,
+            "end_offset": 1071,
+            "annotation_id": "HK_025"
+        },
+        {
+            "decision": "3+MR, 1+TR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1075,
+            "end_offset": 1085,
+            "annotation_id": "HK_026"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1089,
+            "end_offset": 1092,
+            "annotation_id": "HK_027"
+        },
+        {
+            "decision": "Baseline 2 pillow orthopnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1094,
+            "end_offset": 1121,
+            "annotation_id": "HK_028"
+        },
+        {
+            "decision": "chronic intermittent LE edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1123,
+            "end_offset": 1152,
+            "annotation_id": "HK_029"
+        },
+        {
+            "decision": "Numerous admissions ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1155,
+            "end_offset": 1174,
+            "annotation_id": "HK_030"
+        },
+        {
+            "decision": "for flash pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1175,
+            "end_offset": 1200,
+            "annotation_id": "HK_031"
+        },
+        {
+            "decision": "DM type II",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1205,
+            "end_offset": 1215,
+            "annotation_id": "HK_032"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1219,
+            "end_offset": 1222,
+            "annotation_id": "HK_033"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1226,
+            "end_offset": 1240,
+            "annotation_id": "HK_034"
+        },
+        {
+            "decision": "Gen: awake, alert, and oriented, in no apparent distress.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1516,
+            "end_offset": 1572,
+            "annotation_id": "HK_035"
+        },
+        {
+            "decision": "Lungs: Decreased breath sounds at both bases, R>L, with rales [**2-10**] way up bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1574,
+            "end_offset": 1665,
+            "annotation_id": "HK_036"
+        },
+        {
+            "decision": "CV: RRR, I/VI HSM at apex.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1667,
+            "end_offset": 1692,
+            "annotation_id": "HK_037"
+        },
+        {
+            "decision": "Abd: soft, nontender, nondistended, with normoactive bowel sounds.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1694,
+            "end_offset": 1759,
+            "annotation_id": "HK_038"
+        },
+        {
+            "decision": "Ext: trace LE edema, which is chronic per pt.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1761,
+            "end_offset": 1805,
+            "annotation_id": "HK_039"
+        },
+        {
+            "decision": "EKG from admission: Sinus rhythm",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3011,
+            "end_offset": 3043,
+            "annotation_id": "HK_040"
+        },
+        {
+            "decision": "Left atrial abnormality",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3045,
+            "end_offset": 3068,
+            "annotation_id": "HK_041"
+        },
+        {
+            "decision": "Old inferior wall myocardial infarction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3070,
+            "end_offset": 3109,
+            "annotation_id": "HK_042"
+        },
+        {
+            "decision": "Old anterior wall myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3111,
+            "end_offset": 3150,
+            "annotation_id": "HK_043"
+        },
+        {
+            "decision": "Non-specific ST-T wave changes.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3152,
+            "end_offset": 3182,
+            "annotation_id": "HK_044"
+        },
+        {
+            "decision": "Compared to the previous tracing no significant change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3184,
+            "end_offset": 3238,
+            "annotation_id": "HK_045"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3268,
+            "end_offset": 3271,
+            "annotation_id": "HK_046"
+        },
+        {
+            "decision": "consistent with the patient's prior admissions for pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3304,
+            "end_offset": 3370,
+            "annotation_id": "HK_047"
+        },
+        {
+            "decision": "CXR on admission c/w frank congestive heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3379,
+            "end_offset": 3430,
+            "annotation_id": "HK_048"
+        },
+        {
+            "decision": "diuresed",
+            "category": "Category 5: Drug related",
+            "start_offset": 3441,
+            "end_offset": 3449,
+            "annotation_id": "HK_049"
+        },
+        {
+            "decision": "extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3613,
+            "end_offset": 3622,
+            "annotation_id": "HK_050"
+        },
+        {
+            "decision": "slightly hypotensive after that (systolics in the 80s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3633,
+            "end_offset": 3686,
+            "annotation_id": "HK_051"
+        },
+        {
+            "decision": "placed on dopamine for a day ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3696,
+            "end_offset": 3724,
+            "annotation_id": "HK_052"
+        },
+        {
+            "decision": "the hypotension was felt to be secondary to aggressive diuresis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3726,
+            "end_offset": 3789,
+            "annotation_id": "HK_053"
+        },
+        {
+            "decision": "diuresis",
+            "category": "Category 5: Drug related",
+            "start_offset": 3781,
+            "end_offset": 3789,
+            "annotation_id": "HK_054"
+        },
+        {
+            "decision": "dopamine was discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 3802,
+            "end_offset": 3827,
+            "annotation_id": "HK_055"
+        },
+        {
+            "decision": "regular medications were slowly restarted",
+            "category": "Category 5: Drug related",
+            "start_offset": 3833,
+            "end_offset": 3874,
+            "annotation_id": "HK_056"
+        },
+        {
+            "decision": "placed back on her lisinopril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3884,
+            "end_offset": 3913,
+            "annotation_id": "HK_057"
+        },
+        {
+            "decision": "restarted on her carvedilol",
+            "category": "Category 5: Drug related",
+            "start_offset": 3918,
+            "end_offset": 3945,
+            "annotation_id": "HK_058"
+        },
+        {
+            "decision": "continued with Lasix prn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3956,
+            "end_offset": 3980,
+            "annotation_id": "HK_059"
+        },
+        {
+            "decision": "goal 500 to 1000 cc negative per day ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 3987,
+            "end_offset": 4023,
+            "annotation_id": "HK_060"
+        },
+        {
+            "decision": "she usually responded to lasix 40 mg IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 4025,
+            "end_offset": 4064,
+            "annotation_id": "HK_061"
+        },
+        {
+            "decision": "acutely short of breath, tachypneic to 34 and with O2 sat 92% on room air",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4111,
+            "end_offset": 4184,
+            "annotation_id": "HK_062"
+        },
+        {
+            "decision": "wheezing on exam, CXR c/w pulm edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4241,
+            "end_offset": 4277,
+            "annotation_id": "HK_063"
+        },
+        {
+            "decision": "neb",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4308,
+            "end_offset": 4311,
+            "annotation_id": "HK_064"
+        },
+        {
+            "decision": "given an ipratropium neb and Lasix 40 IV",
+            "category": "Category 5: Drug related",
+            "start_offset": 4287,
+            "end_offset": 4327,
+            "annotation_id": "HK_065"
+        },
+        {
+            "decision": "She responded well to this",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4330,
+            "end_offset": 4356,
+            "annotation_id": "HK_066"
+        },
+        {
+            "decision": "severe mitral regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4374,
+            "end_offset": 4401,
+            "annotation_id": "HK_067"
+        },
+        {
+            "decision": "also begun on a nitrate, Imdur 30 mg po qd, which should be given at night because her ACE should be given in the morning",
+            "category": "Category 5: Drug related",
+            "start_offset": 4411,
+            "end_offset": 4532,
+            "annotation_id": "HK_068"
+        },
+        {
+            "decision": "She tolerated the addition of these medications wel",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4535,
+            "end_offset": 4587,
+            "annotation_id": "HK_069"
+        },
+        {
+            "decision": "was also changed to twice daily dosing of her Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 4594,
+            "end_offset": 4645,
+            "annotation_id": "HK_070"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4733,
+            "end_offset": 4736,
+            "annotation_id": "HK_071"
+        },
+        {
+            "decision": "Her troponin was mildly elevated on admission, but was not as high as it has been in the past",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4739,
+            "end_offset": 4832,
+            "annotation_id": "HK_072"
+        },
+        {
+            "decision": "no worrisome EKG changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4846,
+            "end_offset": 4870,
+            "annotation_id": "HK_073"
+        },
+        {
+            "decision": "She has refused CABG in the past",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4873,
+            "end_offset": 4905,
+            "annotation_id": "HK_074"
+        },
+        {
+            "decision": "It was not felt that her episodes of pulmonary edema are related to ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4908,
+            "end_offset": 4984,
+            "annotation_id": "HK_075"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4990,
+            "end_offset": 4999,
+            "annotation_id": "HK_076"
+        },
+        {
+            "decision": "febrile to 101 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5010,
+            "end_offset": 5024,
+            "annotation_id": "HK_077"
+        },
+        {
+            "decision": "pan-cultured.  ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5060,
+            "end_offset": 5072,
+            "annotation_id": "HK_078"
+        },
+        {
+            "decision": " Her UA was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5075,
+            "end_offset": 5094,
+            "annotation_id": "HK_079"
+        },
+        {
+            "decision": "Her CXR showed a retrocardiac opacity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5097,
+            "end_offset": 5134,
+            "annotation_id": "HK_080"
+        },
+        {
+            "decision": "begun on Levaquin for a 7 day course (renally dosed at 250 mg daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5148,
+            "end_offset": 5215,
+            "annotation_id": "HK_081"
+        },
+        {
+            "decision": "creatinine was elevated to 1.8 on admission, and had come down to 1.1 by discharge ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5234,
+            "end_offset": 5316,
+            "annotation_id": "HK_082"
+        },
+        {
+            "decision": "Her platelets were very high at over 1,000 on admission, and came down to the 600s by discharge, which is around her baseline.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5348,
+            "end_offset": 5473,
+            "annotation_id": "HK_083"
+        },
+        {
+            "decision": "Her hematocrit was 37 on admission and dropped 9 points that day,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5476,
+            "end_offset": 5540,
+            "annotation_id": "HK_084"
+        },
+        {
+            "decision": "received 2 units of PRBCs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5667,
+            "end_offset": 5692,
+            "annotation_id": "HK_085"
+        },
+        {
+            "decision": "hematocrit was stable at 31 by discharge.  Her baseline is in the high 20s to low 30s per our records.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5722,
+            "end_offset": 5823,
+            "annotation_id": "HK_086"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6127,
+            "end_offset": 6136,
+            "annotation_id": "HK_087"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6197,
+            "end_offset": 6206,
+            "annotation_id": "HK_088"
+        },
+        {
+            "decision": "significant CHF and MR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6370,
+            "end_offset": 6392,
+            "annotation_id": "HK_089"
+        },
+        {
+            "decision": "Lipitor 80",
+            "category": "Category 5: Drug related",
+            "start_offset": 6771,
+            "end_offset": 6781,
+            "annotation_id": "HK_090"
+        },
+        {
+            "decision": "Coreg 3.125 ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6782,
+            "end_offset": 6793,
+            "annotation_id": "HK_091"
+        },
+        {
+            "decision": "ASA 325",
+            "category": "Category 5: Drug related",
+            "start_offset": 6811,
+            "end_offset": 6818,
+            "annotation_id": "HK_092"
+        },
+        {
+            "decision": "Lisinopril 2.5",
+            "category": "Category 5: Drug related",
+            "start_offset": 6819,
+            "end_offset": 6833,
+            "annotation_id": "HK_093"
+        },
+        {
+            "decision": "Ticlopidine 250 ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6834,
+            "end_offset": 6849,
+            "annotation_id": "HK_094"
+        },
+        {
+            "decision": "Lansoprazole 30 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6867,
+            "end_offset": 6891,
+            "annotation_id": "HK_095"
+        },
+        {
+            "decision": "Ipratropium",
+            "category": "Category 5: Drug related",
+            "start_offset": 6892,
+            "end_offset": 6903,
+            "annotation_id": "HK_096"
+        },
+        {
+            "decision": "Lasix 60 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6904,
+            "end_offset": 6921,
+            "annotation_id": "HK_097"
+        },
+        {
+            "decision": "Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily): Hold for SBP<100. PLEASE give in AM. Tablet(s",
+            "category": "Category 5: Drug related",
+            "start_offset": 6949,
+            "end_offset": 7051,
+            "annotation_id": "HK_098"
+        },
+        {
+            "decision": "Ticlopidine HCl 250 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7056,
+            "end_offset": 7127,
+            "annotation_id": "HK_099"
+        },
+        {
+            "decision": "Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7133,
+            "end_offset": 7202,
+            "annotation_id": "HK_100"
+        },
+        {
+            "decision": "Lansoprazole 30 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7208,
+            "end_offset": 7232,
+            "annotation_id": "HK_101"
+        },
+        {
+            "decision": "Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7236,
+            "end_offset": 7341,
+            "annotation_id": "HK_102"
+        },
+        {
+            "decision": "Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO at bedtime: Hold for SBP<100.  Please give at night.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7347,
+            "end_offset": 7503,
+            "annotation_id": "HK_103"
+        },
+        {
+            "decision": "Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7508,
+            "end_offset": 7600,
+            "annotation_id": "HK_104"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7606,
+            "end_offset": 7679,
+            "annotation_id": "HK_105"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulized treatment Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7685,
+            "end_offset": 7830,
+            "annotation_id": "HK_106"
+        },
+        {
+            "decision": "Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: [**6-17**] MLs PO Q6H (every 6 hours) as needed for Cough.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7836,
+            "end_offset": 7948,
+            "annotation_id": "HK_107"
+        },
+        {
+            "decision": "Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Hold for SBP <100, pulse <60.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7954,
+            "end_offset": 8053,
+            "annotation_id": "HK_108"
+        },
+        {
+            "decision": "Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 7 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8059,
+            "end_offset": 8141,
+            "annotation_id": "HK_109"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8147,
+            "end_offset": 8214,
+            "annotation_id": "HK_110"
+        },
+        {
+            "decision": "CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8336,
+            "end_offset": 8339,
+            "annotation_id": "HK_111"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8340,
+            "end_offset": 8343,
+            "annotation_id": "HK_112"
+        },
+        {
+            "decision": "Mitral Regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8344,
+            "end_offset": 8364,
+            "annotation_id": "HK_113"
+        },
+        {
+            "decision": "Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8365,
+            "end_offset": 8374,
+            "annotation_id": "HK_114"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8397,
+            "end_offset": 8403,
+            "annotation_id": "HK_115"
+        },
+        {
+            "decision": "We have changed around some of your medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 8429,
+            "end_offset": 8476,
+            "annotation_id": "HK_116"
+        },
+        {
+            "decision": "You are still on carvedilol, and we have added another medication for your blood pressure called Imdur",
+            "category": "Category 5: Drug related",
+            "start_offset": 8479,
+            "end_offset": 8581,
+            "annotation_id": "HK_117"
+        },
+        {
+            "decision": "which you should take at night",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8583,
+            "end_offset": 8613,
+            "annotation_id": "HK_118"
+        },
+        {
+            "decision": "We have increased the dose of your Lasix and changed the dosing ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8616,
+            "end_offset": 8679,
+            "annotation_id": "HK_119"
+        },
+        {
+            "decision": "take it twice a day instead of once a day",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8692,
+            "end_offset": 8733,
+            "annotation_id": "HK_120"
+        },
+        {
+            "decision": "It is very important that you are weighed on a daily basis, and that if your weight goes up 2 pounds you should speak with your doctor about increasing your Lasix",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8735,
+            "end_offset": 8897,
+            "annotation_id": "HK_121"
+        },
+        {
+            "decision": "increasing your Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 8876,
+            "end_offset": 8897,
+            "annotation_id": "HK_122"
+        },
+        {
+            "decision": "to 2 gm sodium diet,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8918,
+            "end_offset": 8937,
+            "annotation_id": "HK_123"
+        },
+        {
+            "decision": "You should adhere to 2 gm sodium diet, and not add any salt to your food.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8900,
+            "end_offset": 8972,
+            "annotation_id": "HK_124"
+        },
+        {
+            "decision": "Fluid Restriction: 1500 ml.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8975,
+            "end_offset": 9001,
+            "annotation_id": "HK_125"
+        },
+        {
+            "decision": "If you become short of breath again, your doctor should give you Lasix 60 mg IV as this will work faster than po, and you respond very well to this medication and dose.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9003,
+            "end_offset": 9170,
+            "annotation_id": "HK_126"
+        },
+        {
+            "decision": "Please resume taking your regular diabetes medication (you were on insulin while you were here.)",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9172,
+            "end_offset": 9266,
+            "annotation_id": "HK_127"
+        },
+        {
+            "decision": "Please follow-up with your doctors [**First Name (Titles) **] [**Last Name (Titles) 100**] Rehab very closely, and have them monitor your renal function while you are on an ACE inhibitor.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9293,
+            "end_offset": 9479,
+            "annotation_id": "HK_128"
+        },
+        {
+            "decision": "ACE inhibitor.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9466,
+            "end_offset": 9479,
+            "annotation_id": "HK_129"
+        }
+    ]
+}

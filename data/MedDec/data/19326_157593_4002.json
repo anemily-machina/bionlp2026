@@ -1,0 +1,433 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "19326_157593_4002",
+    "annotations": [
+        {
+            "decision": "coronary artery disease and diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 228,
+            "end_offset": 264,
+            "annotation_id": "ET_000"
+        },
+        {
+            "decision": "beta-blockers and antacids",
+            "category": "Category 5: Drug related",
+            "start_offset": 334,
+            "end_offset": 360,
+            "annotation_id": "ET_001"
+        },
+        {
+            "decision": "transferred to an outside hospital ",
+            "category": "Category 1: Contact related",
+            "start_offset": 552,
+            "end_offset": 586,
+            "annotation_id": "ET_002"
+        },
+        {
+            "decision": "no electrocardiogram changes were noted; ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 593,
+            "end_offset": 632,
+            "annotation_id": "ET_003"
+        },
+        {
+            "decision": "troponin levels were noted to be elevated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 657,
+            "end_offset": 698,
+            "annotation_id": "ET_004"
+        },
+        {
+            "decision": "transferred to [**Hospital6 256**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 726,
+            "end_offset": 760,
+            "annotation_id": "ET_005"
+        },
+        {
+            "decision": "for cardiac catheterization on [**4-17**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 761,
+            "end_offset": 802,
+            "annotation_id": "ET_006"
+        },
+        {
+            "decision": "On cardiac catheterization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 805,
+            "end_offset": 831,
+            "annotation_id": "ET_007"
+        },
+        {
+            "decision": "distal LMCA was 90%, and left anterior descending was noted to fill from LIMA but left circumflex also supplies right coronary artery, so LMCA threatens left circumflex and right coronary artery.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 833,
+            "end_offset": 1027,
+            "annotation_id": "ET_008"
+        },
+        {
+            "decision": ", IADP was placed ",
+            "category": "Category 11: Other",
+            "start_offset": 1069,
+            "end_offset": 1084,
+            "annotation_id": "ET_009"
+        },
+        {
+            "decision": "with planned coronary artery bypass grafting for Tuesday, [**4-21**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1085,
+            "end_offset": 1153,
+            "annotation_id": "ET_010"
+        },
+        {
+            "decision": ".  Diabetes mellitus.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1183,
+            "end_offset": 1200,
+            "annotation_id": "ET_011"
+        },
+        {
+            "decision": " End-stage renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1207,
+            "end_offset": 1230,
+            "annotation_id": "ET_012"
+        },
+        {
+            "decision": "on hemodialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1231,
+            "end_offset": 1246,
+            "annotation_id": "ET_013"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1253,
+            "end_offset": 1276,
+            "annotation_id": "ET_014"
+        },
+        {
+            "decision": "status post coronary artery bypass grafting in [**2104**] with LIMA to left anterior descending",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1277,
+            "end_offset": 1372,
+            "annotation_id": "ET_015"
+        },
+        {
+            "decision": "Percutaneous transluminal coronary angioplasty with stent to right coronary artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1379,
+            "end_offset": 1461,
+            "annotation_id": "ET_016"
+        },
+        {
+            "decision": "HCU",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1467,
+            "end_offset": 1470,
+            "annotation_id": "ET_017"
+        },
+        {
+            "decision": ".  Gastric stapling",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1477,
+            "end_offset": 1493,
+            "annotation_id": "ET_018"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1500,
+            "end_offset": 1504,
+            "annotation_id": "ET_019"
+        },
+        {
+            "decision": "Obstructive sleep apnea.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1511,
+            "end_offset": 1534,
+            "annotation_id": "ET_020"
+        },
+        {
+            "decision": "Lopressor 50 mg p.o. b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 1658,
+            "end_offset": 1684,
+            "annotation_id": "ET_021"
+        },
+        {
+            "decision": "Lipitor 20 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1687,
+            "end_offset": 1709,
+            "annotation_id": "ET_022"
+        },
+        {
+            "decision": "Allopurinol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1712,
+            "end_offset": 1723,
+            "annotation_id": "ET_023"
+        },
+        {
+            "decision": "Aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1725,
+            "end_offset": 1732,
+            "annotation_id": "ET_024"
+        },
+        {
+            "decision": "PhosLo",
+            "category": "Category 5: Drug related",
+            "start_offset": 1734,
+            "end_offset": 1740,
+            "annotation_id": "ET_025"
+        },
+        {
+            "decision": "Nitroglycerin p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1742,
+            "end_offset": 1761,
+            "annotation_id": "ET_026"
+        },
+        {
+            "decision": "General:  The patient was a moderately male in no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1892,
+            "end_offset": 1959,
+            "annotation_id": "ET_027"
+        },
+        {
+            "decision": "HEENT:  Cranial nerves II-XII intact.  Scleral anicteric.  Moist mucous membranes.  No evidence of oral ulcers.  No cervical lymphadenopathy noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1962,
+            "end_offset": 2108,
+            "annotation_id": "ET_028"
+        },
+        {
+            "decision": "Chest:  Clear to auscultation bilaterally.  Sternotomy incision with no evidence of erythema or discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2111,
+            "end_offset": 2216,
+            "annotation_id": "ET_029"
+        },
+        {
+            "decision": "Cardiovascular:  Regular, rate and rhythm.  No evidence of murmur.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2219,
+            "end_offset": 2284,
+            "annotation_id": "ET_030"
+        },
+        {
+            "decision": "Abdomen:  Soft, nontender, nondistended.  Positive bowel sounds.  No hepatosplenomegaly.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2287,
+            "end_offset": 2374,
+            "annotation_id": "ET_031"
+        },
+        {
+            "decision": "Extremities:  Mild 1+ edema noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2377,
+            "end_offset": 2410,
+            "annotation_id": "ET_032"
+        },
+        {
+            "decision": "status post coronary artery bypass grafting in [**2104**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2689,
+            "end_offset": 2746,
+            "annotation_id": "ET_033"
+        },
+        {
+            "decision": "with LIMA to left anterior descending graft who presented with distal LMCA occlusion at 90%.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2747,
+            "end_offset": 2837,
+            "annotation_id": "ET_034"
+        },
+        {
+            "decision": "underwent an uncomplicated two-vessel coronary artery bypass grafting with saphenous vein graft to left anterior descending, saphenous vein graft to OM.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2873,
+            "end_offset": 3024,
+            "annotation_id": "ET_035"
+        },
+        {
+            "decision": "taken to the CSRU",
+            "category": "Category 1: Contact related",
+            "start_offset": 3059,
+            "end_offset": 3076,
+            "annotation_id": "ET_036"
+        },
+        {
+            "decision": "received hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3094,
+            "end_offset": 3115,
+            "annotation_id": "ET_037"
+        },
+        {
+            "decision": "Vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3218,
+            "end_offset": 3228,
+            "annotation_id": "ET_038"
+        },
+        {
+            "decision": "underwent multiple hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3243,
+            "end_offset": 3274,
+            "annotation_id": "ET_039"
+        },
+        {
+            "decision": "initial hyperkalemia ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3312,
+            "end_offset": 3332,
+            "annotation_id": "ET_040"
+        },
+        {
+            "decision": "Chest tubes, pacing wires, as well as his Foley were removed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3354,
+            "end_offset": 3414,
+            "annotation_id": "ET_041"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 3433,
+            "end_offset": 3457,
+            "annotation_id": "ET_042"
+        },
+        {
+            "decision": "the patient was continuously dialyzed for a goal removal of approximately 2.5 kg daily.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 3592,
+            "end_offset": 3678,
+            "annotation_id": "ET_043"
+        },
+        {
+            "decision": "approximately 1.2 kg above the patient's preoperative weight and maintained good exercise tolerance, maintaining level V per Physical Therapy evaluation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3722,
+            "end_offset": 3874,
+            "annotation_id": "ET_044"
+        },
+        {
+            "decision": "with follow-up visit with Dr. [**Last Name (STitle) 17691**] in [**4-1**] days for better control of diabetes.",
+            "category": "Category 1: Contact related",
+            "start_offset": 3946,
+            "end_offset": 4055,
+            "annotation_id": "ET_045"
+        },
+        {
+            "decision": "Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4083,
+            "end_offset": 4087,
+            "annotation_id": "ET_046"
+        },
+        {
+            "decision": ".  Status post coronary artery bypass grafting times two with saphenous vein graft to left anterior descending and saphenous vein graft to obtuse marginal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4144,
+            "end_offset": 4295,
+            "annotation_id": "ET_047"
+        },
+        {
+            "decision": "2.  Status post multiple dialysis for removal of perioperative volume.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4297,
+            "end_offset": 4366,
+            "annotation_id": "ET_048"
+        },
+        {
+            "decision": "was instructed to go to Dialysis Center as planned previously, three times weekly, for expected maintenance of electrolyte balance, as well as fluid balance.",
+            "category": "TBD",
+            "start_offset": 4406,
+            "end_offset": 4562,
+            "annotation_id": "ET_049"
+        },
+        {
+            "decision": "was instructed to go to Dialysis Center as planned previously, three times weekly, for expected maintenance of electrolyte balance, as well as fluid balance. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4406,
+            "end_offset": 4562,
+            "annotation_id": "ET_050"
+        },
+        {
+            "decision": "Lopressor 25 mg p.o. b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4589,
+            "end_offset": 4615,
+            "annotation_id": "ET_051"
+        },
+        {
+            "decision": "ECASA 325 mg p.o. q.d.,",
+            "category": "Category 5: Drug related",
+            "start_offset": 4618,
+            "end_offset": 4640,
+            "annotation_id": "ET_052"
+        },
+        {
+            "decision": "Percocet 5/325 [**11-27**] tab p.o. q.4-6 hours p.r.n. pain, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4642,
+            "end_offset": 4701,
+            "annotation_id": "ET_053"
+        },
+        {
+            "decision": "Allopurinol 100 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4703,
+            "end_offset": 4730,
+            "annotation_id": "ET_054"
+        },
+        {
+            "decision": "Lipitor 20 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4733,
+            "end_offset": 4755,
+            "annotation_id": "ET_055"
+        },
+        {
+            "decision": "Protonix 40 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4758,
+            "end_offset": 4781,
+            "annotation_id": "ET_056"
+        },
+        {
+            "decision": "Remegel 800 mg p.o. t.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4784,
+            "end_offset": 4809,
+            "annotation_id": "ET_057"
+        },
+        {
+            "decision": "Calcium Acetate 200 mg p.o. t.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4812,
+            "end_offset": 4845,
+            "annotation_id": "ET_058"
+        },
+        {
+            "decision": "Colace 100 mg p.o. b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 4848,
+            "end_offset": 4872,
+            "annotation_id": "ET_059"
+        },
+        {
+            "decision": "The patient was instructed to follow-up with Dr. [**Last Name (STitle) 17691**] in [**4-1**] days for control of his diabetes and Dr. [**Last Name (STitle) 1537**] in four weeks. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4887,
+            "end_offset": 5064,
+            "annotation_id": "ET_060"
+        }
+    ]
+}

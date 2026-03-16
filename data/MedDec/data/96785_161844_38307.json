@@ -1,0 +1,706 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "96785_161844_38307",
+    "annotations": [
+        {
+            "decision": "intacranial hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 232,
+            "end_offset": 254,
+            "annotation_id": "RA_000"
+        },
+        {
+            "decision": "intubated [**2151-6-21**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 295,
+            "end_offset": 320,
+            "annotation_id": "RA_001"
+        },
+        {
+            "decision": "atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 367,
+            "end_offset": 386,
+            "annotation_id": "RA_002"
+        },
+        {
+            "decision": "on coumadin and aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 387,
+            "end_offset": 410,
+            "annotation_id": "RA_003"
+        },
+        {
+            "decision": "HTN,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 412,
+            "end_offset": 415,
+            "annotation_id": "RA_004"
+        },
+        {
+            "decision": "dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 417,
+            "end_offset": 425,
+            "annotation_id": "RA_005"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 427,
+            "end_offset": 441,
+            "annotation_id": "RA_006"
+        },
+        {
+            "decision": "and tremors ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 443,
+            "end_offset": 454,
+            "annotation_id": "RA_007"
+        },
+        {
+            "decision": "L sided weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 698,
+            "end_offset": 714,
+            "annotation_id": "RA_008"
+        },
+        {
+            "decision": "head CT showed a 3.2x2.0.3.5cm R frontal hemorrhage and 4mm hemorrhage in R thalamus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 721,
+            "end_offset": 805,
+            "annotation_id": "RA_009"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 831,
+            "end_offset": 834,
+            "annotation_id": "RA_010"
+        },
+        {
+            "decision": "Afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 835,
+            "end_offset": 839,
+            "annotation_id": "RA_011"
+        },
+        {
+            "decision": "dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 840,
+            "end_offset": 848,
+            "annotation_id": "RA_012"
+        },
+        {
+            "decision": "hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 973,
+            "end_offset": 987,
+            "annotation_id": "RA_013"
+        },
+        {
+            "decision": "tremors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 988,
+            "end_offset": 995,
+            "annotation_id": "RA_014"
+        },
+        {
+            "decision": "frequent UTIs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 996,
+            "end_offset": 1009,
+            "annotation_id": "RA_015"
+        },
+        {
+            "decision": "Infected tooth recently may need root canal ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1010,
+            "end_offset": 1053,
+            "annotation_id": "RA_016"
+        },
+        {
+            "decision": "just after intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1369,
+            "end_offset": 1390,
+            "annotation_id": "RA_017"
+        },
+        {
+            "decision": "got succinycholine)",
+            "category": "Category 5: Drug related",
+            "start_offset": 1392,
+            "end_offset": 1410,
+            "annotation_id": "RA_018"
+        },
+        {
+            "decision": "on 2L, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1452,
+            "end_offset": 1457,
+            "annotation_id": "RA_019"
+        },
+        {
+            "decision": "then  with propofol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1480,
+            "end_offset": 1499,
+            "annotation_id": "RA_020"
+        },
+        {
+            "decision": "BP low as SBPs 80s, HR down to 90s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1500,
+            "end_offset": 1534,
+            "annotation_id": "RA_021"
+        },
+        {
+            "decision": "Gen - intubated,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1535,
+            "end_offset": 1550,
+            "annotation_id": "RA_022"
+        },
+        {
+            "decision": "sedated on propofol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1552,
+            "end_offset": 1571,
+            "annotation_id": "RA_023"
+        },
+        {
+            "decision": "HEENT - no obvious trauma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1572,
+            "end_offset": 1597,
+            "annotation_id": "RA_024"
+        },
+        {
+            "decision": "Neck - no clear spinal tenderness ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1598,
+            "end_offset": 1631,
+            "annotation_id": "RA_025"
+        },
+        {
+            "decision": "getting neck  CT",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1668,
+            "end_offset": 1684,
+            "annotation_id": "RA_026"
+        },
+        {
+            "decision": "Skin - no rashes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1685,
+            "end_offset": 1701,
+            "annotation_id": "RA_027"
+        },
+        {
+            "decision": "Neurologic exam -   MS - Grimaces and withdraws to pain.  Does not follow commands",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1702,
+            "end_offset": 1784,
+            "annotation_id": "RA_028"
+        },
+        {
+            "decision": "with ETT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1911,
+            "end_offset": 1919,
+            "annotation_id": "RA_029"
+        },
+        {
+            "decision": "  CN - Pupils R 4-->2, L 4-->3; Unable to assess EOMs due to concerns about c-spine, difficult to assess for facial asymmetry with ETT but possible L facial droop",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1787,
+            "end_offset": 1947,
+            "annotation_id": "RA_030"
+        },
+        {
+            "decision": "Motor - low tone throughout, withdraws all ext slightly to pain, DTRs 2+ symmetric [**Hospital1 **], tri, bracheoradialis, knees. Toes upgoing bilat.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1950,
+            "end_offset": 2098,
+            "annotation_id": "RA_031"
+        },
+        {
+            "decision": "  Sensory - withdraws to pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2102,
+            "end_offset": 2129,
+            "annotation_id": "RA_032"
+        },
+        {
+            "decision": "CT head in am at OSH - 3.2x2.0.3.5cm R frontal hemorrhage and 4mm hemorrhage in R thalamus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2131,
+            "end_offset": 2221,
+            "annotation_id": "RA_033"
+        },
+        {
+            "decision": "CT head here unchanged 4pm - 31 x 21 mm acute right frontal lobe intraparenchymal hemorrhage with mild effacement of the right frontal lobe sulci, unchanged compared to OSH CT 6 hours earlier. No midline shift. No new hemorrhage. Mild left parietal soft tissue subgaleal hematoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2223,
+            "end_offset": 2502,
+            "annotation_id": "RA_034"
+        },
+        {
+            "decision": "CTA no aneurysm or vascular malformation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2505,
+            "end_offset": 2545,
+            "annotation_id": "RA_035"
+        },
+        {
+            "decision": "CT c-spine - 1. No fracture or subluxation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2547,
+            "end_offset": 2589,
+            "annotation_id": "RA_036"
+        },
+        {
+            "decision": "2. Biapical lung opacities, right greater than left, might represent pulmonary edema superimposed on an infectious process",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2591,
+            "end_offset": 2713,
+            "annotation_id": "RA_037"
+        },
+        {
+            "decision": "pulmonary edema superimposed on an infectious process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2660,
+            "end_offset": 2713,
+            "annotation_id": "RA_038"
+        },
+        {
+            "decision": "3. Moderate cervical spondylosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2715,
+            "end_offset": 2747,
+            "annotation_id": "RA_039"
+        },
+        {
+            "decision": "CXR - L sided effusion, diffuse airway haziness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2750,
+            "end_offset": 2797,
+            "annotation_id": "RA_040"
+        },
+        {
+            "decision": "EKG - ST depressions II, II, aVF and V4-6, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2798,
+            "end_offset": 2839,
+            "annotation_id": "RA_041"
+        },
+        {
+            "decision": "atrial fibrillation with rate 128.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2841,
+            "end_offset": 2874,
+            "annotation_id": "RA_042"
+        },
+        {
+            "decision": "INR 2.7 at OSH, down to 1.4 here",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2877,
+            "end_offset": 2909,
+            "annotation_id": "RA_043"
+        },
+        {
+            "decision": "[**2151-6-21**] 04:00PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-150 GLUCOSE-100 KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3150,
+            "end_offset": 3280,
+            "annotation_id": "RA_044"
+        },
+        {
+            "decision": "CT: FINDINGS: A 28 x 20 mm right frontal parenchymal hemorrhage with surrounding vasogenic edema and minimal effacement of the right frontal lobe sulci is unchanged. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3356,
+            "end_offset": 3520,
+            "annotation_id": "RA_045"
+        },
+        {
+            "decision": "There is no shift of normally midline structures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3522,
+            "end_offset": 3570,
+            "annotation_id": "RA_046"
+        },
+        {
+            "decision": "No evidence of acute major vascular territory infarction is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3572,
+            "end_offset": 3636,
+            "annotation_id": "RA_047"
+        },
+        {
+            "decision": "The [**Doctor Last Name 352**]-white matter differentiation is preserved.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3638,
+            "end_offset": 3710,
+            "annotation_id": "RA_048"
+        },
+        {
+            "decision": "A small focus of hyperdensity (2:14) is not seen on the prior examination, unclear if this represents artifact or new area of hemorrhage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3713,
+            "end_offset": 3849,
+            "annotation_id": "RA_049"
+        },
+        {
+            "decision": "Again noted are chronic changes including periventricular and subcortical white matter hypodensities consistent with chronic microvascular ischemic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3852,
+            "end_offset": 4007,
+            "annotation_id": "RA_050"
+        },
+        {
+            "decision": "chronic microvascular ischemic disease. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3969,
+            "end_offset": 4007,
+            "annotation_id": "RA_051"
+        },
+        {
+            "decision": "The ventricles and sulci are prominent, not out of proportion to the patient's age",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4009,
+            "end_offset": 4091,
+            "annotation_id": "RA_052"
+        },
+        {
+            "decision": "The patient has had bilateral replacement of the ocular lenses.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4093,
+            "end_offset": 4155,
+            "annotation_id": "RA_053"
+        },
+        {
+            "decision": ". Mucosal thickening and fluid within the ethmoid air cells, sphenoid sinuses and right maxillary sinus appear similar",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4157,
+            "end_offset": 4273,
+            "annotation_id": "RA_054"
+        },
+        {
+            "decision": "Vascular calcifications of the carotid siphons are present.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4275,
+            "end_offset": 4333,
+            "annotation_id": "RA_055"
+        },
+        {
+            "decision": ". No fracture is identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4335,
+            "end_offset": 4360,
+            "annotation_id": "RA_056"
+        },
+        {
+            "decision": "1. No significant change in right frontal parenchymal hemorrhage with surrounding vasogenic edema as compared to the examination of [**2151-6-23**].",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4375,
+            "end_offset": 4522,
+            "annotation_id": "RA_057"
+        },
+        {
+            "decision": "2. Small focus of hyperdensity not seen on the prior examination, unclear if this represents artifact or new area of hemorrhage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4525,
+            "end_offset": 4652,
+            "annotation_id": "RA_058"
+        },
+        {
+            "decision": "MR: FINDINGS: A right medial frontal lobar hematoma is again seen, with hyperintense blood products on the precontrast T1 weighted images. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4699,
+            "end_offset": 4836,
+            "annotation_id": "RA_059"
+        },
+        {
+            "decision": "There is no evidence of nodular contrast enhancement outside of the blood products to suggest an underlying mass",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4838,
+            "end_offset": 4950,
+            "annotation_id": "RA_060"
+        },
+        {
+            "decision": "Vasogenic edema surrounding the right frontal hematoma is stable in extent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4952,
+            "end_offset": 5026,
+            "annotation_id": "RA_061"
+        },
+        {
+            "decision": "There are innumerable foci of increased susceptibility artifact on the gradient echo images, throughout the brain, the vast majority of which are located superficially, but also with some deep lesion, including in the thalami, left pons, and the left cerebellar hemisphere",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5029,
+            "end_offset": 5301,
+            "annotation_id": "RA_062"
+        },
+        {
+            "decision": "These chronic blood products are most likely secondary to amyloid angiopathy, given the patient's age. Hypertensive hemorrhages and multiple cavernomas are less likely. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5303,
+            "end_offset": 5470,
+            "annotation_id": "RA_063"
+        },
+        {
+            "decision": "The lesion within the right thalamus shows no surrounding vasogenic edema to suggest recent hemorrhage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5472,
+            "end_offset": 5574,
+            "annotation_id": "RA_064"
+        },
+        {
+            "decision": "Its hyperdensity on the preceding CT scan is likely related to calcification",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5576,
+            "end_offset": 5652,
+            "annotation_id": "RA_065"
+        },
+        {
+            "decision": "Periventricular and subcortical white matter T2 hyperintensities are most likely secondary to chronic small vessel ischemic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5655,
+            "end_offset": 5786,
+            "annotation_id": "RA_066"
+        },
+        {
+            "decision": "likely secondary to chronic small vessel ischemic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5729,
+            "end_offset": 5786,
+            "annotation_id": "RA_067"
+        },
+        {
+            "decision": "The ventricles and sulci are enlarged secondary to age-related brain atrophy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5788,
+            "end_offset": 5864,
+            "annotation_id": "RA_068"
+        },
+        {
+            "decision": "Fluid levels in the paranasal sinuses are likely related to endotracheal intubation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5867,
+            "end_offset": 5950,
+            "annotation_id": "RA_069"
+        },
+        {
+            "decision": "related to endotracheal intubation.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5916,
+            "end_offset": 5950,
+            "annotation_id": "RA_070"
+        },
+        {
+            "decision": "Stable appearance of the subacute right frontal parasagittal hematoma with mild local mass effect. No evidence of an associated mass. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5966,
+            "end_offset": 6098,
+            "annotation_id": "RA_071"
+        },
+        {
+            "decision": "In the setting of innumerable chronic hemorrhages throughout the brain, the subacute hematoma is most likely secondary to amyloid angiopathy, given the patient's age. Hypertensive hemorrhages and multiple cavernomas are less likely.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6100,
+            "end_offset": 6331,
+            "annotation_id": "RA_072"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6376,
+            "end_offset": 6379,
+            "annotation_id": "RA_073"
+        },
+        {
+            "decision": "atrial fibrillation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6381,
+            "end_offset": 6400,
+            "annotation_id": "RA_074"
+        },
+        {
+            "decision": "on coumadin and aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6401,
+            "end_offset": 6424,
+            "annotation_id": "RA_075"
+        },
+        {
+            "decision": "dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6426,
+            "end_offset": 6434,
+            "annotation_id": "RA_076"
+        },
+        {
+            "decision": "hypothyroidism, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6436,
+            "end_offset": 6450,
+            "annotation_id": "RA_077"
+        },
+        {
+            "decision": "tremors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6452,
+            "end_offset": 6459,
+            "annotation_id": "RA_078"
+        },
+        {
+            "decision": "L sided weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6500,
+            "end_offset": 6516,
+            "annotation_id": "RA_079"
+        },
+        {
+            "decision": "R frontal intraparenchymal hemorrhage ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6518,
+            "end_offset": 6555,
+            "annotation_id": "RA_080"
+        },
+        {
+            "decision": "and small thalamic hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6556,
+            "end_offset": 6585,
+            "annotation_id": "RA_081"
+        },
+        {
+            "decision": "Most likely amyoid angiopathy vs hypertensive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6589,
+            "end_offset": 6634,
+            "annotation_id": "RA_082"
+        },
+        {
+            "decision": "required intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6649,
+            "end_offset": 6668,
+            "annotation_id": "RA_083"
+        },
+        {
+            "decision": "On MRI scan the patient was noted to have mulitple microbleeds consistent with amyloid.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6671,
+            "end_offset": 6757,
+            "annotation_id": "RA_084"
+        },
+        {
+            "decision": "Her alertness improved but she did not follow commands.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6760,
+            "end_offset": 6814,
+            "annotation_id": "RA_085"
+        },
+        {
+            "decision": "developed gram negative rods in the lungs ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6826,
+            "end_offset": 6867,
+            "annotation_id": "RA_086"
+        },
+        {
+            "decision": "and started on on antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6868,
+            "end_offset": 6897,
+            "annotation_id": "RA_087"
+        },
+        {
+            "decision": "progressive dementia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6964,
+            "end_offset": 6984,
+            "annotation_id": "RA_088"
+        },
+        {
+            "decision": "not to pursue trach",
+            "category": "Category 8: Deferment",
+            "start_offset": 7001,
+            "end_offset": 7020,
+            "annotation_id": "RA_089"
+        },
+        {
+            "decision": "not to pursue trach and the patient was made comfort care and extubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7001,
+            "end_offset": 7072,
+            "annotation_id": "RA_090"
+        },
+        {
+            "decision": "ASA 81 qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7134,
+            "end_offset": 7143,
+            "annotation_id": "RA_091"
+        },
+        {
+            "decision": "Warfarin 2mg qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7144,
+            "end_offset": 7159,
+            "annotation_id": "RA_092"
+        },
+        {
+            "decision": "Synthroid 112mch",
+            "category": "Category 5: Drug related",
+            "start_offset": 7160,
+            "end_offset": 7176,
+            "annotation_id": "RA_093"
+        },
+        {
+            "decision": "Metoprolol 25mg qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7177,
+            "end_offset": 7195,
+            "annotation_id": "RA_094"
+        },
+        {
+            "decision": "Digoxin 125mcg qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7196,
+            "end_offset": 7213,
+            "annotation_id": "RA_095"
+        },
+        {
+            "decision": "Multivitamin qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7214,
+            "end_offset": 7229,
+            "annotation_id": "RA_096"
+        },
+        {
+            "decision": "Vitamin C 500mg qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7230,
+            "end_offset": 7248,
+            "annotation_id": "RA_097"
+        },
+        {
+            "decision": "Xalatan 0.005% eye gtt on drop in each eye",
+            "category": "Category 5: Drug related",
+            "start_offset": 7249,
+            "end_offset": 7291,
+            "annotation_id": "RA_098"
+        },
+        {
+            "decision": "R intra parenchymal bleed, due to amyloid",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7376,
+            "end_offset": 7417,
+            "annotation_id": "RA_099"
+        }
+    ]
+}

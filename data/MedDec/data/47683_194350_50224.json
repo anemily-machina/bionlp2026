@@ -1,0 +1,664 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "47683_194350_50224",
+    "annotations": [
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 222,
+            "end_offset": 242,
+            "annotation_id": "MA_000"
+        },
+        {
+            "decision": "class IV CHF, severe mitral regurgitation, pulmonary hypertension, HTN, HLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 325,
+            "end_offset": 400,
+            "annotation_id": "MA_001"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 405,
+            "end_offset": 413,
+            "annotation_id": "MA_002"
+        },
+        {
+            "decision": "h/o A fib and DVTs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 415,
+            "end_offset": 433,
+            "annotation_id": "MA_003"
+        },
+        {
+            "decision": "torsemide TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 687,
+            "end_offset": 700,
+            "annotation_id": "MA_004"
+        },
+        {
+            "decision": "his lower extremity edema is much improved from prior",
+            "category": "Category 3: Defining problem",
+            "start_offset": 702,
+            "end_offset": 755,
+            "annotation_id": "MA_005"
+        },
+        {
+            "decision": "dose of flexeril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 999,
+            "end_offset": 1015,
+            "annotation_id": "MA_006"
+        },
+        {
+            "decision": "Per report he appeared tachypneic, retracting, looking generally unwell",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1117,
+            "end_offset": 1188,
+            "annotation_id": "MA_007"
+        },
+        {
+            "decision": "Had epigastric pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1284,
+            "end_offset": 1303,
+            "annotation_id": "MA_008"
+        },
+        {
+            "decision": "CT Abdomen pelvis was done that showed: Unchanged large bilat pleural effusions Stable renal cysts w/ thin calc septations. Trace simple FF in pelvis + SQ edema- prob vol overload. No RP hematoma. Mult compression fx.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1308,
+            "end_offset": 1524,
+            "annotation_id": "MA_009"
+        },
+        {
+            "decision": "EKG was unchanged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1526,
+            "end_offset": 1543,
+            "annotation_id": "MA_010"
+        },
+        {
+            "decision": "Patient was given aspirin, lasix 40 IV and cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 1545,
+            "end_offset": 1593,
+            "annotation_id": "MA_011"
+        },
+        {
+            "decision": "He felt better after lasix, put out about 100cc urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1595,
+            "end_offset": 1648,
+            "annotation_id": "MA_012"
+        },
+        {
+            "decision": "He was breathing around 30 time per minute with obvious retractions and accessory muscle use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1794,
+            "end_offset": 1886,
+            "annotation_id": "MA_013"
+        },
+        {
+            "decision": "He was unable to speak more than single words and was clearly tiring",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1888,
+            "end_offset": 1956,
+            "annotation_id": "MA_014"
+        },
+        {
+            "decision": "CCU team evaluated him",
+            "category": "Category 1: Contact related",
+            "start_offset": 1987,
+            "end_offset": 2009,
+            "annotation_id": "MA_015"
+        },
+        {
+            "decision": "He was given Lasix 80mg IV x1, 2 inches of NTG paste, and given nebs of albuterol and atrovent",
+            "category": "Category 5: Drug related",
+            "start_offset": 2061,
+            "end_offset": 2155,
+            "annotation_id": "MA_016"
+        },
+        {
+            "decision": "His initial exam was notable for a RA sat in the 70s, escalating tachypnea,virtually no air movement, JVD to the angle of the jaw, and bilateral 2+ LE edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2157,
+            "end_offset": 2313,
+            "annotation_id": "MA_017"
+        },
+        {
+            "decision": "His CXR showed diffuse pulmonary edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2315,
+            "end_offset": 2353,
+            "annotation_id": "MA_018"
+        },
+        {
+            "decision": "He was started on a nitroglycerin drip, a Lasix drip, and pulsed with solumedrol plus levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2355,
+            "end_offset": 2453,
+            "annotation_id": "MA_019"
+        },
+        {
+            "decision": "transfered to the CVICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 2458,
+            "end_offset": 2481,
+            "annotation_id": "MA_020"
+        },
+        {
+            "decision": "altered mental status but was obtainable overnight by nightfloat.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2554,
+            "end_offset": 2618,
+            "annotation_id": "MA_021"
+        },
+        {
+            "decision": "Severe MV regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2647,
+            "end_offset": 2670,
+            "annotation_id": "MA_022"
+        },
+        {
+            "decision": "Multiple myeloma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2674,
+            "end_offset": 2690,
+            "annotation_id": "MA_023"
+        },
+        {
+            "decision": "Benign prostatic hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2722,
+            "end_offset": 2750,
+            "annotation_id": "MA_024"
+        },
+        {
+            "decision": "History of thrombophlebitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2755,
+            "end_offset": 2782,
+            "annotation_id": "MA_025"
+        },
+        {
+            "decision": "Class IV CHF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2787,
+            "end_offset": 2799,
+            "annotation_id": "MA_026"
+        },
+        {
+            "decision": "Pulmonary Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2803,
+            "end_offset": 2825,
+            "annotation_id": "MA_027"
+        },
+        {
+            "decision": "History of Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2829,
+            "end_offset": 2859,
+            "annotation_id": "MA_028"
+        },
+        {
+            "decision": "Chronic Low Back PAin, felt [**2-19**] DDD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2863,
+            "end_offset": 2905,
+            "annotation_id": "MA_029"
+        },
+        {
+            "decision": "s/p steroid injections [**10/2159**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2906,
+            "end_offset": 2942,
+            "annotation_id": "MA_030"
+        },
+        {
+            "decision": "also with vertebral compression fractures with kyphoplasty in the past [**2156**] at [**Hospital1 112**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2943,
+            "end_offset": 3047,
+            "annotation_id": "MA_031"
+        },
+        {
+            "decision": "DVT x2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3052,
+            "end_offset": 3058,
+            "annotation_id": "MA_032"
+        },
+        {
+            "decision": "Appendectomy and tonsillectomy as a child",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3062,
+            "end_offset": 3103,
+            "annotation_id": "MA_033"
+        },
+        {
+            "decision": "Nephrolithiasis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3107,
+            "end_offset": 3122,
+            "annotation_id": "MA_034"
+        },
+        {
+            "decision": "s/p stone removal ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3123,
+            "end_offset": 3140,
+            "annotation_id": "MA_035"
+        },
+        {
+            "decision": "Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 986**] in [**2146**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 3144,
+            "end_offset": 3230,
+            "annotation_id": "MA_036"
+        },
+        {
+            "decision": "cholecystectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3234,
+            "end_offset": 3249,
+            "annotation_id": "MA_037"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **] in [**2153-9-17**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 3253,
+            "end_offset": 3301,
+            "annotation_id": "MA_038"
+        },
+        {
+            "decision": "Kyphoplasty ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3305,
+            "end_offset": 3316,
+            "annotation_id": "MA_039"
+        },
+        {
+            "decision": "Elderly man in obvious respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3829,
+            "end_offset": 3872,
+            "annotation_id": "MA_040"
+        },
+        {
+            "decision": "Dry MM, no obvous OP lesions, neck is supple, JVP to angle of the jaw when upright",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3880,
+            "end_offset": 3962,
+            "annotation_id": "MA_041"
+        },
+        {
+            "decision": "Tachy, RR, NL S1S2, notable III/VI systolic murmur loudest at the apex without carotid radiation, PMI located in 5th intercostal space, midclavicular line",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3972,
+            "end_offset": 4126,
+            "annotation_id": "MA_042"
+        },
+        {
+            "decision": "No chest wall deformities, scoliosis or kyphosis. Breaths are labored with accessory muscles, bare air movement, scattered crackles and wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4134,
+            "end_offset": 4277,
+            "annotation_id": "MA_043"
+        },
+        {
+            "decision": "BS+, Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4287,
+            "end_offset": 4383,
+            "annotation_id": "MA_044"
+        },
+        {
+            "decision": "No c/c/e. No femoral bruits. 2+ bilat LE edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4398,
+            "end_offset": 4444,
+            "annotation_id": "MA_045"
+        },
+        {
+            "decision": "Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4453,
+            "end_offset": 4559,
+            "annotation_id": "MA_046"
+        },
+        {
+            "decision": "CHEST X-RAY Pulmary edema and pulmonary effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5218,
+            "end_offset": 5267,
+            "annotation_id": "MA_047"
+        },
+        {
+            "decision": "CTAbdomen/Pelvis: (wetread) Unchanged large bilat pleural effusions Stable renal cysts w/ thin calc septations. Trace simple FF in pelvis + SQ edema- prob vol overload. No RP hematoma. Mult compression fx",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5270,
+            "end_offset": 5474,
+            "annotation_id": "MA_048"
+        },
+        {
+            "decision": "CHF NYHA stage IV, MR, chronic renal insufficiency, MM, recurrent DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5510,
+            "end_offset": 5579,
+            "annotation_id": "MA_049"
+        },
+        {
+            "decision": "warfarin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5583,
+            "end_offset": 5591,
+            "annotation_id": "MA_050"
+        },
+        {
+            "decision": "was found to be having a CHF excerbation, acute on chronic kidney injury, and a UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5630,
+            "end_offset": 5713,
+            "annotation_id": "MA_051"
+        },
+        {
+            "decision": "His pulmonary infiltrates and SOB could also represent a pneumonic process or inflammatory / obstructive process",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5715,
+            "end_offset": 5827,
+            "annotation_id": "MA_052"
+        },
+        {
+            "decision": "confirmed DNR DNI, made comfort care",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 5836,
+            "end_offset": 5872,
+            "annotation_id": "MA_053"
+        },
+        {
+            "decision": "Shortness of breath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5945,
+            "end_offset": 5964,
+            "annotation_id": "MA_054"
+        },
+        {
+            "decision": "There was a component of CHF with diffuse pulmonary infiltrates",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5966,
+            "end_offset": 6029,
+            "annotation_id": "MA_055"
+        },
+        {
+            "decision": "elevated JVD",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6031,
+            "end_offset": 6043,
+            "annotation_id": "MA_056"
+        },
+        {
+            "decision": "responsiveness to Lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 6045,
+            "end_offset": 6068,
+            "annotation_id": "MA_057"
+        },
+        {
+            "decision": "history of recurrent CHF exacerbations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6086,
+            "end_offset": 6124,
+            "annotation_id": "MA_058"
+        },
+        {
+            "decision": "Was wheezy on exam as well which could be cardiac or COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6126,
+            "end_offset": 6183,
+            "annotation_id": "MA_059"
+        },
+        {
+            "decision": "furosemide drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6248,
+            "end_offset": 6263,
+            "annotation_id": "MA_060"
+        },
+        {
+            "decision": "diuresis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6268,
+            "end_offset": 6276,
+            "annotation_id": "MA_061"
+        },
+        {
+            "decision": "nitroglycerin drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 6278,
+            "end_offset": 6296,
+            "annotation_id": "MA_062"
+        },
+        {
+            "decision": "afterload reduction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6301,
+            "end_offset": 6320,
+            "annotation_id": "MA_063"
+        },
+        {
+            "decision": "morphine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6343,
+            "end_offset": 6351,
+            "annotation_id": "MA_064"
+        },
+        {
+            "decision": "tachypnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6356,
+            "end_offset": 6365,
+            "annotation_id": "MA_065"
+        },
+        {
+            "decision": "He was treated with solumedrol, prednisone, and levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6368,
+            "end_offset": 6428,
+            "annotation_id": "MA_066"
+        },
+        {
+            "decision": "possible COPD exacerbation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6433,
+            "end_offset": 6459,
+            "annotation_id": "MA_067"
+        },
+        {
+            "decision": "The patient was placed on BiPAP intermittently for the first day, but this was D/C'ed after the patient was changed to comfort care",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6462,
+            "end_offset": 6593,
+            "annotation_id": "MA_068"
+        },
+        {
+            "decision": "Acute on chronic kidney injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6599,
+            "end_offset": 6629,
+            "annotation_id": "MA_069"
+        },
+        {
+            "decision": "furosemide drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 6731,
+            "end_offset": 6746,
+            "annotation_id": "MA_070"
+        },
+        {
+            "decision": "Urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6752,
+            "end_offset": 6775,
+            "annotation_id": "MA_071"
+        },
+        {
+            "decision": "Positive UA was treated, however U Cx was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6777,
+            "end_offset": 6827,
+            "annotation_id": "MA_072"
+        },
+        {
+            "decision": "Abx were D/C'ed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6830,
+            "end_offset": 6845,
+            "annotation_id": "MA_073"
+        },
+        {
+            "decision": "Comfort care",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 6863,
+            "end_offset": 6875,
+            "annotation_id": "MA_074"
+        },
+        {
+            "decision": "ACETAMINOPHEN-CODEINE 300mg-30 mg Tablet three times a day as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6909,
+            "end_offset": 6977,
+            "annotation_id": "MA_075"
+        },
+        {
+            "decision": "ACETIC ACID - 2 % Solution - half cc in ears twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6980,
+            "end_offset": 7036,
+            "annotation_id": "MA_076"
+        },
+        {
+            "decision": "ECONAZOLE - 1 % Cream - apply to groin rash up to three times a day as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 7039,
+            "end_offset": 7116,
+            "annotation_id": "MA_077"
+        },
+        {
+            "decision": "FAMOTIDINE - 20 mg Tablet - 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7119,
+            "end_offset": 7178,
+            "annotation_id": "MA_078"
+        },
+        {
+            "decision": "FOLIC ACID - 1 mg Tablet - 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7181,
+            "end_offset": 7239,
+            "annotation_id": "MA_079"
+        },
+        {
+            "decision": "LISINOPRIL - 2.5 mg Tablet - one Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7242,
+            "end_offset": 7299,
+            "annotation_id": "MA_080"
+        },
+        {
+            "decision": "POTASSIUM CHLORIDE - 10 mEq Tablet Sustained Release - 2 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7302,
+            "end_offset": 7388,
+            "annotation_id": "MA_081"
+        },
+        {
+            "decision": "TORSEMIDE - 30mg po TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 7391,
+            "end_offset": 7414,
+            "annotation_id": "MA_082"
+        },
+        {
+            "decision": "VENLAFAXINE - 37.5 mg Tablet - 1 Tablet(s) by mouth with breakfast and with lunch",
+            "category": "Category 5: Drug related",
+            "start_offset": 7417,
+            "end_offset": 7498,
+            "annotation_id": "MA_083"
+        },
+        {
+            "decision": "WARFARIN [COUMADIN] - (Prescribed by Other Provider) - 4 mg Tablet - 1 Tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7501,
+            "end_offset": 7601,
+            "annotation_id": "MA_084"
+        },
+        {
+            "decision": "ACETAMINOPHEN",
+            "category": "Category 5: Drug related",
+            "start_offset": 7604,
+            "end_offset": 7617,
+            "annotation_id": "MA_085"
+        },
+        {
+            "decision": "ASPIRIN - 81 mg Tablet - 1 Tablet(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7620,
+            "end_offset": 7671,
+            "annotation_id": "MA_086"
+        },
+        {
+            "decision": "B COMPLEX VITAMINS 1 Capsule(s) by mouth daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7674,
+            "end_offset": 7720,
+            "annotation_id": "MA_087"
+        },
+        {
+            "decision": "CALCIUM CARBONATE-VITAMIN D3 [CALCIUM+D]",
+            "category": "Category 5: Drug related",
+            "start_offset": 7723,
+            "end_offset": 7762,
+            "annotation_id": "MA_088"
+        },
+        {
+            "decision": "CHLORHEXIDINE GLUCONATE - 2 % Liquid - mouth wash twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7766,
+            "end_offset": 7827,
+            "annotation_id": "MA_089"
+        },
+        {
+            "decision": "DOCUSATE SODIUM 100 mg Capsule - 1 (One) Capsule(s) three times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7831,
+            "end_offset": 7900,
+            "annotation_id": "MA_090"
+        },
+        {
+            "decision": "GUAR GUM [BENEFIBER (GUAR GUM)]",
+            "category": "Category 5: Drug related",
+            "start_offset": 7903,
+            "end_offset": 7932,
+            "annotation_id": "MA_091"
+        },
+        {
+            "decision": "MULTIVITAMINS WITH MINERALS [MULTI-VITAMIN W/MINERALS] -",
+            "category": "Category 5: Drug related",
+            "start_offset": 7937,
+            "end_offset": 7990,
+            "annotation_id": "MA_092"
+        },
+        {
+            "decision": "SENNA - (OTC) - 8.6 mg Tablet - 1 (One) Tablet(s) by mouth three",
+            "category": "Category 5: Drug related",
+            "start_offset": 7996,
+            "end_offset": 8060,
+            "annotation_id": "MA_093"
+        }
+    ]
+}

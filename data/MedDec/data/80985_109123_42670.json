@@ -1,0 +1,671 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "80985_109123_42670",
+    "annotations": [
+        {
+            "decision": "tylenol and paxil overdose",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 291,
+            "annotation_id": "PR_000"
+        },
+        {
+            "decision": "Right IJ Placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 332,
+            "end_offset": 350,
+            "annotation_id": "PR_001"
+        },
+        {
+            "decision": "Transplant Surgery ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 448,
+            "end_offset": 470,
+            "annotation_id": "PR_002"
+        },
+        {
+            "decision": "for tylenol overdose",
+            "category": "Category 5: Drug related",
+            "start_offset": 471,
+            "end_offset": 491,
+            "annotation_id": "PR_003"
+        },
+        {
+            "decision": "80-100 tablets of tylenol PM along with ten tabs (30 mg) of Paxil",
+            "category": "Category 5: Drug related",
+            "start_offset": 610,
+            "end_offset": 675,
+            "annotation_id": "PR_004"
+        },
+        {
+            "decision": "bolused with loading dose of NAC (8200 mg IV, 150 mg/kg) and recieved 1 L of NS.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1028,
+            "end_offset": 1107,
+            "annotation_id": "PR_005"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] for further treatment",
+            "category": "Category 1: Contact related",
+            "start_offset": 1118,
+            "end_offset": 1173,
+            "annotation_id": "PR_006"
+        },
+        {
+            "decision": "panic attacks/anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1399,
+            "end_offset": 1420,
+            "annotation_id": "PR_007"
+        },
+        {
+            "decision": "c-section",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1427,
+            "end_offset": 1436,
+            "annotation_id": "PR_008"
+        },
+        {
+            "decision": "Gen: NAD, AOx3 with occasional innappropriate responses and attention loss, but easily re-oriented",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1876,
+            "end_offset": 1974,
+            "annotation_id": "PR_009"
+        },
+        {
+            "decision": "CVS: sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1975,
+            "end_offset": 1997,
+            "annotation_id": "PR_010"
+        },
+        {
+            "decision": "Pulm: CTA-B, no respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1998,
+            "end_offset": 2034,
+            "annotation_id": "PR_011"
+        },
+        {
+            "decision": "Abd: S/NT/ND no rebound, no guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2035,
+            "end_offset": 2071,
+            "annotation_id": "PR_012"
+        },
+        {
+            "decision": "Ext: no LLE, no track marks on arms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2072,
+            "end_offset": 2107,
+            "annotation_id": "PR_013"
+        },
+        {
+            "decision": "GENERAL: Well appearing 24yo M/F who appears stated age. Comfortable, appropriate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2110,
+            "end_offset": 2191,
+            "annotation_id": "PR_014"
+        },
+        {
+            "decision": "HEENT: Sclera icteric. PERRL, EOMI.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2193,
+            "end_offset": 2227,
+            "annotation_id": "PR_015"
+        },
+        {
+            "decision": "NECK: Supple with low JVP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2229,
+            "end_offset": 2254,
+            "annotation_id": "PR_016"
+        },
+        {
+            "decision": "CARDIAC: S1 S2 clear. No MRG noted. Difficult to appreciate for S3 or S4 given tachycardia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2255,
+            "end_offset": 2345,
+            "annotation_id": "PR_017"
+        },
+        {
+            "decision": "LUNGS: Nonlabored with no accessory muscle use, moving air well and symmetrically. CTAB, no crackles, wheezes or rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2347,
+            "end_offset": 2467,
+            "annotation_id": "PR_018"
+        },
+        {
+            "decision": "ABDOMEN: Thin, with small amount of redundant skin. NABS. Soft, nontender and nodistended. No HSM noted.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2469,
+            "end_offset": 2572,
+            "annotation_id": "PR_019"
+        },
+        {
+            "decision": "EXTREMITIES: Warm and well perfused, no clubbing or cyanosis. 2+ [**Location (un) **] bilaterally to knees.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2574,
+            "end_offset": 2680,
+            "annotation_id": "PR_020"
+        },
+        {
+            "decision": "NEURO: AAOx3. CNII-XII grossly intact. Strength 5/5 throughout. No gross sensory loss. Cerebellar fxn intact to FTN.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2682,
+            "end_offset": 2797,
+            "annotation_id": "PR_021"
+        },
+        {
+            "decision": "[**2127-1-8**] 08:19PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE HAV Ab-NEGATIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3776,
+            "end_offset": 3899,
+            "annotation_id": "PR_022"
+        },
+        {
+            "decision": "[**2127-1-8**] 08:19PM BLOOD HCG-<5 [**2127-1-8**] 08:19PM BLOOD AMA-NEGATIVE Smooth-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3900,
+            "end_offset": 3993,
+            "annotation_id": "PR_023"
+        },
+        {
+            "decision": "[**2127-1-8**] 08:19PM BLOOD [**Doctor First Name **]-NEGATIVE [**2127-1-8**] 08:19PM BLOOD CEA-<1.0 AFP-1.2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3994,
+            "end_offset": 4102,
+            "annotation_id": "PR_024"
+        },
+        {
+            "decision": "[**2127-1-8**] 08:19PM BLOOD IgG-1049 IgA-179 IgM-80 [**2127-1-8**] 08:19PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-119* Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4103,
+            "end_offset": 4253,
+            "annotation_id": "PR_025"
+        },
+        {
+            "decision": "[**2127-1-8**] Right Upper Quadrant",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4298,
+            "end_offset": 4333,
+            "annotation_id": "PR_026"
+        },
+        {
+            "decision": "1. Normal liver echotexture without discrete lesions.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4347,
+            "end_offset": 4399,
+            "annotation_id": "PR_027"
+        },
+        {
+            "decision": "2. Gallbladder wall edema, most likely related to acute hepatitis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4401,
+            "end_offset": 4466,
+            "annotation_id": "PR_028"
+        },
+        {
+            "decision": "3. An incompletely imaged left renal cystic lesion with internal focus of increased echogenicity, may represent calcification within a calyceal diverticulum",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4468,
+            "end_offset": 4624,
+            "annotation_id": "PR_029"
+        },
+        {
+            "decision": "Follow up dedicated renal ultrasound exam when the patient's condition stabilizes is recommended for further evaluation. .",
+            "category": "Category 11: Other - Further laboratory work-up recommended",
+            "start_offset": 4626,
+            "end_offset": 4746,
+            "annotation_id": "PR_030"
+        },
+        {
+            "decision": "[**2127-1-8**] CXR: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4749,
+            "end_offset": 4767,
+            "annotation_id": "PR_031"
+        },
+        {
+            "decision": "FINDINGS: Normal size of the cardiac silhouette. Normal hilar and mediastinal contours",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4769,
+            "end_offset": 4855,
+            "annotation_id": "PR_032"
+        },
+        {
+            "decision": "No pleural effusions. No pneumothorax, no pneumonia, no pulmonary edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4857,
+            "end_offset": 4928,
+            "annotation_id": "PR_033"
+        },
+        {
+            "decision": "Unremarkable morphology in the upper abdomen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4930,
+            "end_offset": 4974,
+            "annotation_id": "PR_034"
+        },
+        {
+            "decision": "[**2127-1-9**] Echo:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4977,
+            "end_offset": 4996,
+            "annotation_id": "PR_035"
+        },
+        {
+            "decision": "The left atrium and right atrium are normal in cavity size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5010,
+            "end_offset": 5173,
+            "annotation_id": "PR_036"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5177,
+            "end_offset": 5239,
+            "annotation_id": "PR_037"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5241,
+            "end_offset": 5372,
+            "annotation_id": "PR_038"
+        },
+        {
+            "decision": "The mitral valve appears structurally normal with trivial mitral regurgitation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5374,
+            "end_offset": 5452,
+            "annotation_id": "PR_039"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5454,
+            "end_offset": 5546,
+            "annotation_id": "PR_040"
+        },
+        {
+            "decision": "IMPRESSION: Normal global and regional biventricular systolic function.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5548,
+            "end_offset": 5618,
+            "annotation_id": "PR_041"
+        },
+        {
+            "decision": "No pulmonary hypertension or clinically-significant valvular disease seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5620,
+            "end_offset": 5693,
+            "annotation_id": "PR_042"
+        },
+        {
+            "decision": "depression/anxiety ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5786,
+            "end_offset": 5804,
+            "annotation_id": "PR_043"
+        },
+        {
+            "decision": "acute liver failure after suicide attempt",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5824,
+            "end_offset": 5865,
+            "annotation_id": "PR_044"
+        },
+        {
+            "decision": "by tylenol/paxil ingestion",
+            "category": "Category 5: Drug related",
+            "start_offset": 5866,
+            "end_offset": 5892,
+            "annotation_id": "PR_045"
+        },
+        {
+            "decision": "Acute Liver Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5899,
+            "end_offset": 5918,
+            "annotation_id": "PR_046"
+        },
+        {
+            "decision": "Transplant evaulation was initiated with psych, social work and hepatology consultation.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6067,
+            "end_offset": 6154,
+            "annotation_id": "PR_047"
+        },
+        {
+            "decision": "N-Acetylcysteine was continued per fulminant liver failure pathway",
+            "category": "Category 5: Drug related",
+            "start_offset": 6156,
+            "end_offset": 6222,
+            "annotation_id": "PR_048"
+        },
+        {
+            "decision": "NR climbed and peaked at 6.2 prior to trending down. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6234,
+            "end_offset": 6286,
+            "annotation_id": "PR_049"
+        },
+        {
+            "decision": "Bilirubin trended up to 6.1 prior to returning to normal range",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6288,
+            "end_offset": 6350,
+            "annotation_id": "PR_050"
+        },
+        {
+            "decision": "develop mild encephelopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6408,
+            "end_offset": 6435,
+            "annotation_id": "PR_051"
+        },
+        {
+            "decision": "Depression/Anxiety: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6569,
+            "end_offset": 6587,
+            "annotation_id": "PR_052"
+        },
+        {
+            "decision": "Psychiatry was consulted and recommended section 12 and 1:1 sitter",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6615,
+            "end_offset": 6681,
+            "annotation_id": "PR_053"
+        },
+        {
+            "decision": "followed by psychiatry and transfered to an inpatient facility.",
+            "category": "Category 1: Contact related",
+            "start_offset": 6695,
+            "end_offset": 6757,
+            "annotation_id": "PR_054"
+        },
+        {
+            "decision": "Per psychiatry recommendations patient's paxil was held.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6759,
+            "end_offset": 6814,
+            "annotation_id": "PR_055"
+        },
+        {
+            "decision": "Tachycardi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6821,
+            "end_offset": 6832,
+            "annotation_id": "PR_056"
+        },
+        {
+            "decision": "EKG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6834,
+            "end_offset": 6837,
+            "annotation_id": "PR_057"
+        },
+        {
+            "decision": "revealed sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6838,
+            "end_offset": 6864,
+            "annotation_id": "PR_058"
+        },
+        {
+            "decision": "TSH was checked and <0.02. T3 and T4 were within normal range.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6866,
+            "end_offset": 6927,
+            "annotation_id": "PR_059"
+        },
+        {
+            "decision": "Endocrinology was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6929,
+            "end_offset": 6956,
+            "annotation_id": "PR_060"
+        },
+        {
+            "decision": "and recommended T3 uptake scan which will be completed during the psychiatric admission",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6957,
+            "end_offset": 7044,
+            "annotation_id": "PR_061"
+        },
+        {
+            "decision": "Endocrinology will continue to follow the patient.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7046,
+            "end_offset": 7095,
+            "annotation_id": "PR_062"
+        },
+        {
+            "decision": "Propanolol was started ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7097,
+            "end_offset": 7119,
+            "annotation_id": "PR_063"
+        },
+        {
+            "decision": "#. Urinary Tract Infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7171,
+            "end_offset": 7194,
+            "annotation_id": "PR_064"
+        },
+        {
+            "decision": "foley catheter placement.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7222,
+            "end_offset": 7246,
+            "annotation_id": "PR_065"
+        },
+        {
+            "decision": "7 day course of Ciprofloxacin for treatment.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7268,
+            "end_offset": 7311,
+            "annotation_id": "PR_066"
+        },
+        {
+            "decision": "1. Ciprofloxacin should be continued for 4 more days to complete 7 day course for complicated UTI",
+            "category": "Category 5: Drug related",
+            "start_offset": 7346,
+            "end_offset": 7443,
+            "annotation_id": "PR_067"
+        },
+        {
+            "decision": ". Patient should have Thyroid uptake scan on [**2128-1-15**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7447,
+            "end_offset": 7505,
+            "annotation_id": "PR_068"
+        },
+        {
+            "decision": "Endocrinology is follow patient and will make further recommendations.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7507,
+            "end_offset": 7576,
+            "annotation_id": "PR_069"
+        },
+        {
+            "decision": "3. Appreciate endocrinology recommendations.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7578,
+            "end_offset": 7621,
+            "annotation_id": "PR_070"
+        },
+        {
+            "decision": "paxil 30 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 7650,
+            "end_offset": 7667,
+            "annotation_id": "PR_071"
+        },
+        {
+            "decision": "1. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7693,
+            "end_offset": 7778,
+            "annotation_id": "PR_072"
+        },
+        {
+            "decision": "2. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 4 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7781,
+            "end_offset": 7867,
+            "annotation_id": "PR_073"
+        },
+        {
+            "decision": "3. propranolol 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7869,
+            "end_offset": 7938,
+            "annotation_id": "PR_074"
+        },
+        {
+            "decision": "Depression/Anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8011,
+            "end_offset": 8029,
+            "annotation_id": "PR_075"
+        },
+        {
+            "decision": "Hyperthyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8030,
+            "end_offset": 8045,
+            "annotation_id": "PR_076"
+        },
+        {
+            "decision": "Tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8046,
+            "end_offset": 8057,
+            "annotation_id": "PR_077"
+        },
+        {
+            "decision": "Liver Failure secondary to tylenol toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8058,
+            "end_offset": 8101,
+            "annotation_id": "PR_078"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8125,
+            "end_offset": 8158,
+            "annotation_id": "PR_079"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8160,
+            "end_offset": 8205,
+            "annotation_id": "PR_080"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8207,
+            "end_offset": 8248,
+            "annotation_id": "PR_081"
+        },
+        {
+            "decision": "concern for liver failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8470,
+            "end_offset": 8495,
+            "annotation_id": "PR_082"
+        },
+        {
+            "decision": "secondary to tylenol overdose",
+            "category": "Category 5: Drug related",
+            "start_offset": 8496,
+            "end_offset": 8525,
+            "annotation_id": "PR_083"
+        },
+        {
+            "decision": "With N-Acetylcysteine (a medication which protects the liver against tylenol) your liver function improved.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8527,
+            "end_offset": 8633,
+            "annotation_id": "PR_084"
+        },
+        {
+            "decision": "thyroid hormone was found to be elevated ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8708,
+            "end_offset": 8748,
+            "annotation_id": "PR_085"
+        },
+        {
+            "decision": "hyperthyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8770,
+            "end_offset": 8785,
+            "annotation_id": "PR_086"
+        },
+        {
+            "decision": "evaluated by the psychiatric team ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8798,
+            "end_offset": 8831,
+            "annotation_id": "PR_087"
+        },
+        {
+            "decision": "recommended inpatient psychiatric evaluation given your suicide attempt",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 8858,
+            "end_offset": 8929,
+            "annotation_id": "PR_088"
+        },
+        {
+            "decision": "-- STOP Paxil",
+            "category": "Category 5: Drug related",
+            "start_offset": 8988,
+            "end_offset": 8998,
+            "annotation_id": "PR_089"
+        },
+        {
+            "decision": "-- START Ciprofloxacin 500mg Twice Daily for 4 more days (for UTI",
+            "category": "Category 5: Drug related",
+            "start_offset": 9002,
+            "end_offset": 9064,
+            "annotation_id": "PR_090"
+        },
+        {
+            "decision": "-- START Propanolol 10mg TID for fast heart rate",
+            "category": "Category 5: Drug related",
+            "start_offset": 9069,
+            "end_offset": 9114,
+            "annotation_id": "PR_091"
+        },
+        {
+            "decision": "-- START Nicotine Patch",
+            "category": "Category 5: Drug related",
+            "start_offset": 9118,
+            "end_offset": 9138,
+            "annotation_id": "PR_092"
+        },
+        {
+            "decision": "Please follow up with your primary care physician after discharge from the psychiatric unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 9140,
+            "end_offset": 9231,
+            "annotation_id": "PR_093"
+        },
+        {
+            "decision": "After discharge from the psychiatric facility you should follow up with your primary care physician.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9257,
+            "end_offset": 9356,
+            "annotation_id": "PR_094"
+        }
+    ]
+}

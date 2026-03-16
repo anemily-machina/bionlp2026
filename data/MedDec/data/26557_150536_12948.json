@@ -1,0 +1,699 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "26557_150536_12948",
+    "annotations": [
+        {
+            "decision": "Chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 274,
+            "end_offset": 284,
+            "annotation_id": "IF_000"
+        },
+        {
+            "decision": "Cardiac catheterization [**2101-2-4**]:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 324,
+            "end_offset": 362,
+            "annotation_id": "IF_001"
+        },
+        {
+            "decision": "Cypher stent to left main coronary artery Bare metal stent to left anterior descending artery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 365,
+            "end_offset": 458,
+            "annotation_id": "IF_002"
+        },
+        {
+            "decision": "CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 545,
+            "end_offset": 548,
+            "annotation_id": "IF_003"
+        },
+        {
+            "decision": "CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 562,
+            "end_offset": 566,
+            "annotation_id": "IF_004"
+        },
+        {
+            "decision": "exercise stress test ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1274,
+            "end_offset": 1294,
+            "annotation_id": "IF_005"
+        },
+        {
+            "decision": "exercise stress test 3 weeks ago at [**Hospital1 **] which was reportedly negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1274,
+            "end_offset": 1356,
+            "annotation_id": "IF_006"
+        },
+        {
+            "decision": "EKG which showed new ST elevations",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1418,
+            "end_offset": 1452,
+            "annotation_id": "IF_007"
+        },
+        {
+            "decision": "transferred immediately to [**Hospital1 **] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1466,
+            "end_offset": 1509,
+            "annotation_id": "IF_008"
+        },
+        {
+            "decision": "EKG showed 3-[**Street Address(2) 1755**] elevations in V1-V5 with TWI in V5-V6, I and avL with [**Street Address(2) 4793**] depressions in II, III and avF.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1520,
+            "end_offset": 1675,
+            "annotation_id": "IF_009"
+        },
+        {
+            "decision": "transferred from [**Hospital3 4107**] to [**Hospital1 18**] ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1763,
+            "end_offset": 1822,
+            "annotation_id": "IF_010"
+        },
+        {
+            "decision": "cath ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1827,
+            "end_offset": 1831,
+            "annotation_id": "IF_011"
+        },
+        {
+            "decision": "right-dominant system",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1861,
+            "end_offset": 1882,
+            "annotation_id": "IF_012"
+        },
+        {
+            "decision": "LMCA 90% ostial lesion, heavily calcified LAD 90% proximal-mid after high diagonal Moderate ramus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1884,
+            "end_offset": 1981,
+            "annotation_id": "IF_013"
+        },
+        {
+            "decision": "LCX totally occluded RCA totally occluded mid lesion, collaterals to ramus SVG -> RCA patent, OM patent LIMA->LAD occluded, very small vessel distally and LAD not visualized through LIMA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1982,
+            "end_offset": 2168,
+            "annotation_id": "IF_014"
+        },
+        {
+            "decision": "LVEDP 16",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2170,
+            "end_offset": 2178,
+            "annotation_id": "IF_015"
+        },
+        {
+            "decision": "Cypher to left main, unable to deploy Taxus to LAD with resulting major dissection and thus bare metal stent to the LAD to cover the dissection",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2180,
+            "end_offset": 2323,
+            "annotation_id": "IF_016"
+        },
+        {
+            "decision": "Positive for shortness of breath with chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2378,
+            "annotation_id": "IF_017"
+        },
+        {
+            "decision": "able to exercise up 2 flights of stairs without difficulty",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2380,
+            "end_offset": 2438,
+            "annotation_id": "IF_018"
+        },
+        {
+            "decision": "no orthopnea, lower extremity edema or recent weight gain or loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2440,
+            "end_offset": 2505,
+            "annotation_id": "IF_019"
+        },
+        {
+            "decision": "Denies any blood in stool/urine.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2507,
+            "end_offset": 2538,
+            "annotation_id": "IF_020"
+        },
+        {
+            "decision": "CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2563,
+            "end_offset": 2566,
+            "annotation_id": "IF_021"
+        },
+        {
+            "decision": "emergent CABG ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2571,
+            "end_offset": 2584,
+            "annotation_id": "IF_022"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2628,
+            "end_offset": 2642,
+            "annotation_id": "IF_023"
+        },
+        {
+            "decision": "Heavy EtOH use ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2643,
+            "end_offset": 2657,
+            "annotation_id": "IF_024"
+        },
+        {
+            "decision": "Heavy tobacco use ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2689,
+            "end_offset": 2706,
+            "annotation_id": "IF_025"
+        },
+        {
+            "decision": "Gen - NAD, AOX3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3352,
+            "end_offset": 3367,
+            "annotation_id": "IF_026"
+        },
+        {
+            "decision": "HEENT - PERLA, no JVD, no carotid bruits bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3368,
+            "end_offset": 3420,
+            "annotation_id": "IF_027"
+        },
+        {
+            "decision": "Heart - Holosystolic murmur best heard at left upper sternal border not radiating to carotids, regular rate and rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3421,
+            "end_offset": 3539,
+            "annotation_id": "IF_028"
+        },
+        {
+            "decision": "Lungs - CTAB (anteriorly)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3540,
+            "end_offset": 3564,
+            "annotation_id": "IF_029"
+        },
+        {
+            "decision": "Abdomen - Soft, NT, ND + BS no bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3566,
+            "end_offset": 3603,
+            "annotation_id": "IF_030"
+        },
+        {
+            "decision": "Ext - no C/C/E, right groin no hematoma/bruits, +2 d. pedis bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3604,
+            "end_offset": 3675,
+            "annotation_id": "IF_031"
+        },
+        {
+            "decision": "Left Ventricle - Ejection Fraction: 30% to 35% (nl >=55%)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3732,
+            "end_offset": 3787,
+            "annotation_id": "IF_032"
+        },
+        {
+            "decision": "The left atrium is normal in size",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3806,
+            "end_offset": 3839,
+            "annotation_id": "IF_033"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3843,
+            "end_offset": 3895,
+            "annotation_id": "IF_034"
+        },
+        {
+            "decision": "The left ventricular cavity size is normal. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3897,
+            "end_offset": 3939,
+            "annotation_id": "IF_035"
+        },
+        {
+            "decision": "Overall left ventricular systolic function is moderately depressed",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3941,
+            "end_offset": 4007,
+            "annotation_id": "IF_036"
+        },
+        {
+            "decision": "Resting regional wall motion abnormalities include apical, distal [**11-29**] of the LV, and mid-septal akinesis with mid anterior wall hypokinesis..",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4009,
+            "end_offset": 4158,
+            "annotation_id": "IF_037"
+        },
+        {
+            "decision": "Right ventricular chamber size is normal. Right ventricular systolic function is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4162,
+            "end_offset": 4249,
+            "annotation_id": "IF_038"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4253,
+            "end_offset": 4336,
+            "annotation_id": "IF_039"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. At least moderate (2+) mitral regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4340,
+            "end_offset": 4439,
+            "annotation_id": "IF_040"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4443,
+            "end_offset": 4475,
+            "annotation_id": "IF_041"
+        },
+        {
+            "decision": "Sinus rhythm",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4543,
+            "end_offset": 4555,
+            "annotation_id": "IF_042"
+        },
+        {
+            "decision": "Since the previous tracing of [**2101-2-4**] the ST segment elevations in leads V1-V3 are less apparent and T wave inversions are less prominent",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4557,
+            "end_offset": 4701,
+            "annotation_id": "IF_043"
+        },
+        {
+            "decision": "suggesting evolution of anterior myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4702,
+            "end_offset": 4756,
+            "annotation_id": "IF_044"
+        },
+        {
+            "decision": "Selective native coronary angiography",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4809,
+            "end_offset": 4846,
+            "annotation_id": "IF_045"
+        },
+        {
+            "decision": "revealed left main and severe three vessel CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4877,
+            "end_offset": 4923,
+            "annotation_id": "IF_046"
+        },
+        {
+            "decision": "The LMCA was heavily calcified with a  90% ostial stenosis. The LAD was diffusely diseased in it proximal-to-mid segment up to 90% until the takeoff of the first high diagonal branch. It too was heavily calcified. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4925,
+            "end_offset": 5137,
+            "annotation_id": "IF_047"
+        },
+        {
+            "decision": "The LCx was occluded proximally. There was a medium caliber ramus intermedius branch that had moderate diffuse disease up to 70% in the mid-portion of the vessel.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5139,
+            "end_offset": 5300,
+            "annotation_id": "IF_048"
+        },
+        {
+            "decision": "The RCA was a dominant vessel that had proximal diffuse disease and was occluded in its mid-portion. Distal competitive filling via the SVG was seen distally.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5302,
+            "end_offset": 5459,
+            "annotation_id": "IF_049"
+        },
+        {
+            "decision": "Graft and conduit angiography",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5464,
+            "end_offset": 5493,
+            "annotation_id": "IF_050"
+        },
+        {
+            "decision": "revealed a patent SVG-OM, with retrograde filling of a small portion of the circumflex and a second obtuse marginal branch. The SVG-dRCA was likewise patent and supplied a mildly diffusely diseased PDA and PL branch. The LIMA-LAD was distally atretic, and appeared to be occluded at the anastamotic site",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5494,
+            "end_offset": 5797,
+            "annotation_id": "IF_051"
+        },
+        {
+            "decision": "Limited resting hemodynamic measurements revealed normal systemic arterial pressures, with normal left sided filling pressures (LVEDP was 16-18 mm Hg).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5802,
+            "end_offset": 5951,
+            "annotation_id": "IF_052"
+        },
+        {
+            "decision": "Left ventriculography and left ventricular pullback was not performed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5954,
+            "end_offset": 6023,
+            "annotation_id": "IF_053"
+        },
+        {
+            "decision": "Successful PTCA/stenting of the LMCA with a 3.5x13mm Cypher [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 7930**] with a 4.0mm balloon",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6028,
+            "end_offset": 6170,
+            "annotation_id": "IF_054"
+        },
+        {
+            "decision": "PTCA/stenting of the proximal/mid LAD with a with a 2.25mmx18mm Pixel bare metal stent.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6183,
+            "end_offset": 6269,
+            "annotation_id": "IF_055"
+        },
+        {
+            "decision": "angiography",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6277,
+            "end_offset": 6288,
+            "annotation_id": "IF_056"
+        },
+        {
+            "decision": "Final angiography revealed a 20% residual stenosis in the LMCA, none in the LAD stent but residual diffuse disease proximal and distal to the stent up to 30%, TIMI-3 flow ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6271,
+            "end_offset": 6441,
+            "annotation_id": "IF_057"
+        },
+        {
+            "decision": "Severe three vessel and left main coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6484,
+            "end_offset": 6541,
+            "annotation_id": "IF_058"
+        },
+        {
+            "decision": "Patent SVG-OM, SVG-dRCA, and occluded LIMA-LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6546,
+            "end_offset": 6592,
+            "annotation_id": "IF_059"
+        },
+        {
+            "decision": "PCI of the LMCA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6597,
+            "end_offset": 6612,
+            "annotation_id": "IF_060"
+        },
+        {
+            "decision": "PCI of the LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6617,
+            "end_offset": 6631,
+            "annotation_id": "IF_061"
+        },
+        {
+            "decision": "severe 3 vessel disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6740,
+            "end_offset": 6763,
+            "annotation_id": "IF_062"
+        },
+        {
+            "decision": "s/p emergent CABG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6764,
+            "end_offset": 6781,
+            "annotation_id": "IF_063"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6942,
+            "end_offset": 6945,
+            "annotation_id": "IF_064"
+        },
+        {
+            "decision": "Cypher placed to the left main",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6966,
+            "end_offset": 6996,
+            "annotation_id": "IF_065"
+        },
+        {
+            "decision": "Taxus stent to his LAD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7023,
+            "end_offset": 7045,
+            "annotation_id": "IF_066"
+        },
+        {
+            "decision": "complicated by a coronary dissection ameliorated with a bare metal stent ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7056,
+            "end_offset": 7128,
+            "annotation_id": "IF_067"
+        },
+        {
+            "decision": "Lopressor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7177,
+            "end_offset": 7186,
+            "annotation_id": "IF_068"
+        },
+        {
+            "decision": "aspirin and lipitor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7209,
+            "end_offset": 7228,
+            "annotation_id": "IF_069"
+        },
+        {
+            "decision": "lipitor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7253,
+            "end_offset": 7260,
+            "annotation_id": "IF_070"
+        },
+        {
+            "decision": "Lopressor ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7282,
+            "end_offset": 7291,
+            "annotation_id": "IF_071"
+        },
+        {
+            "decision": "Toprol XL ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7321,
+            "end_offset": 7330,
+            "annotation_id": "IF_072"
+        },
+        {
+            "decision": "aspirin and plavix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7355,
+            "end_offset": 7373,
+            "annotation_id": "IF_073"
+        },
+        {
+            "decision": "Captopril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7397,
+            "end_offset": 7406,
+            "annotation_id": "IF_074"
+        },
+        {
+            "decision": "Lisinopril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7460,
+            "end_offset": 7470,
+            "annotation_id": "IF_075"
+        },
+        {
+            "decision": "acute MI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7497,
+            "end_offset": 7505,
+            "annotation_id": "IF_076"
+        },
+        {
+            "decision": "LFTs were within normal range",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7569,
+            "end_offset": 7598,
+            "annotation_id": "IF_077"
+        },
+        {
+            "decision": "echocardiogram on [**2101-2-7**] which showed an EF of 30-35% with apical, distal [**11-29**] of the LV, and mid-septal akinesis with mid anterior wall hypokinesis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7621,
+            "end_offset": 7784,
+            "annotation_id": "IF_078"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7901,
+            "end_offset": 7909,
+            "annotation_id": "IF_079"
+        },
+        {
+            "decision": "Heavy EtOH Use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8008,
+            "end_offset": 8022,
+            "annotation_id": "IF_080"
+        },
+        {
+            "decision": "Heavy tobacco use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8406,
+            "end_offset": 8423,
+            "annotation_id": "IF_081"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8696,
+            "end_offset": 8708,
+            "annotation_id": "IF_082"
+        },
+        {
+            "decision": "Toprol XL 50 mg and Lisinopril ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8739,
+            "end_offset": 8769,
+            "annotation_id": "IF_083"
+        },
+        {
+            "decision": "Atorvastatin 10 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8823,
+            "end_offset": 8841,
+            "annotation_id": "IF_084"
+        },
+        {
+            "decision": "Aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8842,
+            "end_offset": 8849,
+            "annotation_id": "IF_085"
+        },
+        {
+            "decision": "Lopressor 50 mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 8850,
+            "end_offset": 8871,
+            "annotation_id": "IF_086"
+        },
+        {
+            "decision": "1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8897,
+            "end_offset": 9005,
+            "annotation_id": "IF_087"
+        },
+        {
+            "decision": "2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*9*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9008,
+            "end_offset": 9115,
+            "annotation_id": "IF_088"
+        },
+        {
+            "decision": "3. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9116,
+            "end_offset": 9222,
+            "annotation_id": "IF_089"
+        },
+        {
+            "decision": "4. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9223,
+            "end_offset": 9318,
+            "annotation_id": "IF_090"
+        },
+        {
+            "decision": "5. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily). Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9319,
+            "end_offset": 9494,
+            "annotation_id": "IF_091"
+        },
+        {
+            "decision": "6. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Sublingual as needed as needed for chest pain: Place one tablet under the tongue as needed for chest pain up to three doses 5 minutes apart. If your chest pain persists, please call 911. Disp:*30 30* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 9495,
+            "end_offset": 9762,
+            "annotation_id": "IF_092"
+        },
+        {
+            "decision": "ST elevation myocardial infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9815,
+            "end_offset": 9849,
+            "annotation_id": "IF_093"
+        },
+        {
+            "decision": "Stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9873,
+            "end_offset": 9879,
+            "annotation_id": "IF_094"
+        },
+        {
+            "decision": "Please return to the ER or call 911 if you experience any recurrent chest pain.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9906,
+            "end_offset": 9984,
+            "annotation_id": "IF_095"
+        },
+        {
+            "decision": "You MUST take your plavix every day for the next 9 months.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9987,
+            "end_offset": 10044,
+            "annotation_id": "IF_096"
+        },
+        {
+            "decision": "Provider: [**Name10 (NameIs) **],[**First Name3 (LF) 251**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10137,
+            "end_offset": 10196,
+            "annotation_id": "IF_097"
+        },
+        {
+            "decision": "Please follow up with your cardiologist at [**Hospital1 **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 10271,
+            "end_offset": 10330,
+            "annotation_id": "IF_098"
+        }
+    ]
+}

@@ -1,0 +1,1357 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30707_161993_31324",
+    "annotations": [
+        {
+            "decision": "hypertensive urgency, altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 259,
+            "end_offset": 302,
+            "annotation_id": "KJ_000"
+        },
+        {
+            "decision": "type I DM, ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 450,
+            "end_offset": 465,
+            "annotation_id": "KJ_001"
+        },
+        {
+            "decision": "HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 469,
+            "end_offset": 471,
+            "annotation_id": "KJ_002"
+        },
+        {
+            "decision": "hypertension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 477,
+            "end_offset": 489,
+            "annotation_id": "KJ_003"
+        },
+        {
+            "decision": "left-sided chest pain (which patient denied on our exam), nausea/vomiting, and abdominal pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1071,
+            "end_offset": 1164,
+            "annotation_id": "KJ_004"
+        },
+        {
+            "decision": "dialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1187,
+            "end_offset": 1195,
+            "annotation_id": "KJ_005"
+        },
+        {
+            "decision": "Left EJ was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1385,
+            "end_offset": 1403,
+            "annotation_id": "KJ_006"
+        },
+        {
+            "decision": "zofran 4 mg IV X 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1436,
+            "end_offset": 1454,
+            "annotation_id": "KJ_007"
+        },
+        {
+            "decision": "nitroglycerin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 1480,
+            "end_offset": 1497,
+            "annotation_id": "KJ_008"
+        },
+        {
+            "decision": "hydralazine 25 mg PO X 1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1530,
+            "end_offset": 1554,
+            "annotation_id": "KJ_009"
+        },
+        {
+            "decision": "dialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1607,
+            "end_offset": 1615,
+            "annotation_id": "KJ_010"
+        },
+        {
+            "decision": "Blood pressure at dialysis was labile, ranging from 130s-180s systolic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1703,
+            "end_offset": 1773,
+            "annotation_id": "KJ_011"
+        },
+        {
+            "decision": "nitroglycerin gtt was turned on & off",
+            "category": "Category 5: Drug related",
+            "start_offset": 1779,
+            "end_offset": 1816,
+            "annotation_id": "KJ_012"
+        },
+        {
+            "decision": ". Denied chest pain or shortness of breath. Denied dizziness. Would not otherwise answer questions reliably.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1983,
+            "end_offset": 2088,
+            "annotation_id": "KJ_013"
+        },
+        {
+            "decision": "multiple recent admissions for hiccups ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2500,
+            "end_offset": 2538,
+            "annotation_id": "KJ_014"
+        },
+        {
+            "decision": "syncope thought secondary to dehydration following dialysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2606,
+            "end_offset": 2665,
+            "annotation_id": "KJ_015"
+        },
+        {
+            "decision": "Diabetes mellitus, type I ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2694,
+            "end_offset": 2719,
+            "annotation_id": "KJ_016"
+        },
+        {
+            "decision": "c/b retinopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2722,
+            "end_offset": 2737,
+            "annotation_id": "KJ_017"
+        },
+        {
+            "decision": "neuropathy and nephropathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2763,
+            "end_offset": 2789,
+            "annotation_id": "KJ_018"
+        },
+        {
+            "decision": "gastroparesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2792,
+            "end_offset": 2805,
+            "annotation_id": "KJ_019"
+        },
+        {
+            "decision": "chronic kidney disease stage V",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2809,
+            "end_offset": 2839,
+            "annotation_id": "KJ_020"
+        },
+        {
+            "decision": "HD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2844,
+            "end_offset": 2846,
+            "annotation_id": "KJ_021"
+        },
+        {
+            "decision": "s/p AVG placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2863,
+            "end_offset": 2880,
+            "annotation_id": "KJ_022"
+        },
+        {
+            "decision": "chronic systolic heart failure, EF 40-45% ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2894,
+            "end_offset": 2934,
+            "annotation_id": "KJ_023"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2956,
+            "end_offset": 2968,
+            "annotation_id": "KJ_024"
+        },
+        {
+            "decision": "Pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2972,
+            "end_offset": 2994,
+            "annotation_id": "KJ_025"
+        },
+        {
+            "decision": "Glaucoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2998,
+            "end_offset": 3006,
+            "annotation_id": "KJ_026"
+        },
+        {
+            "decision": "s/p surgical debridement of left arm fistula ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3010,
+            "end_offset": 3054,
+            "annotation_id": "KJ_027"
+        },
+        {
+            "decision": "ruptured aneurysm repair ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3072,
+            "end_offset": 3096,
+            "annotation_id": "KJ_028"
+        },
+        {
+            "decision": "History of PEA arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3113,
+            "end_offset": 3134,
+            "annotation_id": "KJ_029"
+        },
+        {
+            "decision": "AV fistula repair",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3154,
+            "end_offset": 3171,
+            "annotation_id": "KJ_030"
+        },
+        {
+            "decision": "positive PPD",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3186,
+            "end_offset": 3198,
+            "annotation_id": "KJ_031"
+        },
+        {
+            "decision": "s/p one year of treatment",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3200,
+            "end_offset": 3225,
+            "annotation_id": "KJ_032"
+        },
+        {
+            "decision": "gen: alert and responsive to voice though inattentive, answers questions with appropriate (but at times wrong) answers",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3937,
+            "end_offset": 4055,
+            "annotation_id": "KJ_033"
+        },
+        {
+            "decision": "heent: L surgical pupils, sclerae injected bilaterally, right pupil small but reactive, face symmetric, speech clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4056,
+            "end_offset": 4172,
+            "annotation_id": "KJ_034"
+        },
+        {
+            "decision": "lungs: no wheezes or rhonchi, slight crackles at bilateral bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4173,
+            "end_offset": 4237,
+            "annotation_id": "KJ_035"
+        },
+        {
+            "decision": "CV: RRR, normal S1, S2,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4239,
+            "end_offset": 4261,
+            "annotation_id": "KJ_036"
+        },
+        {
+            "decision": "abd: distended with hypoactive bowel sounds, tympanitic to percussion, reports tenderness diffusely with palpation though no rebound or voluntary guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4263,
+            "end_offset": 4417,
+            "annotation_id": "KJ_037"
+        },
+        {
+            "decision": "ext: no peripheral edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4418,
+            "end_offset": 4442,
+            "annotation_id": "KJ_038"
+        },
+        {
+            "decision": "skin: healed ulcers on shins",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4443,
+            "end_offset": 4471,
+            "annotation_id": "KJ_039"
+        },
+        {
+            "decision": "neuro: alert, oriented to person but not place or time (\"sister's house\" and will not answer time), face symmetric, tongue midline, left surgical pupil, will hold right leg off bed to gravity, will not voluntarily move left leg with increased stiffness left leg compared to right, no withdrawal to pain bilateral lower extremities, bilateral hand grip [**3-23**], holds both arms flexed to gravity with some drift of the left arm after seconds, reflexes 1+ at bilateral biceps and right patella, no patellar reflex on left, toes downgoing bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4472,
+            "end_offset": 5022,
+            "annotation_id": "KJ_040"
+        },
+        {
+            "decision": "Tricyc Negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5407,
+            "end_offset": 5422,
+            "annotation_id": "KJ_041"
+        },
+        {
+            "decision": "Cardiomegaly is stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5576,
+            "end_offset": 5598,
+            "annotation_id": "KJ_042"
+        },
+        {
+            "decision": "Indistinctness and cephalization of pulmonary vasculature and interstitial prominence ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5600,
+            "end_offset": 5685,
+            "annotation_id": "KJ_043"
+        },
+        {
+            "decision": "pulmonary interstitial edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5706,
+            "end_offset": 5734,
+            "annotation_id": "KJ_044"
+        },
+        {
+            "decision": "No focal airspace consolidation or large effusion is seen on this single frontal view",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5736,
+            "end_offset": 5821,
+            "annotation_id": "KJ_045"
+        },
+        {
+            "decision": "Osseous structures are unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5823,
+            "end_offset": 5858,
+            "annotation_id": "KJ_046"
+        },
+        {
+            "decision": "Stable cardiomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5872,
+            "end_offset": 5891,
+            "annotation_id": "KJ_047"
+        },
+        {
+            "decision": "Pulmonary interstitial edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5893,
+            "end_offset": 5921,
+            "annotation_id": "KJ_048"
+        },
+        {
+            "decision": "There is no intra- or extra-axial hemorrhage, mass effect, shift of normally midline structures or hydrocephalus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5934,
+            "end_offset": 6046,
+            "annotation_id": "KJ_049"
+        },
+        {
+            "decision": "Ventricles, basal cisterns, and sulci are normal in configuration",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6048,
+            "end_offset": 6113,
+            "annotation_id": "KJ_050"
+        },
+        {
+            "decision": "white matter differentiation is normally preserved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6139,
+            "end_offset": 6189,
+            "annotation_id": "KJ_051"
+        },
+        {
+            "decision": "Visualized paranasal sinuses and mastoid air cells are well aerated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6191,
+            "end_offset": 6258,
+            "annotation_id": "KJ_052"
+        },
+        {
+            "decision": "Increased soft tissue thickening of the left posterior globe and increased attenuation of the lens are stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6260,
+            "end_offset": 6369,
+            "annotation_id": "KJ_053"
+        },
+        {
+            "decision": "glaucoma and left eye blindness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6411,
+            "end_offset": 6442,
+            "annotation_id": "KJ_054"
+        },
+        {
+            "decision": "No acute intracranial abnormality",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6456,
+            "end_offset": 6489,
+            "annotation_id": "KJ_055"
+        },
+        {
+            "decision": "Stable left globe abnormalities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6491,
+            "end_offset": 6522,
+            "annotation_id": "KJ_056"
+        },
+        {
+            "decision": "sinus rhythm at 75, normal axis, LVH, prolonged PR (200 ms), upsloping elevated ST segments in V2-6, biphasic p wave in V1",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6531,
+            "end_offset": 6653,
+            "annotation_id": "KJ_057"
+        },
+        {
+            "decision": "PRES or stroke",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6955,
+            "end_offset": 6969,
+            "annotation_id": "KJ_058"
+        },
+        {
+            "decision": "CKD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7034,
+            "end_offset": 7037,
+            "annotation_id": "KJ_059"
+        },
+        {
+            "decision": "HD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7042,
+            "end_offset": 7044,
+            "annotation_id": "KJ_060"
+        },
+        {
+            "decision": "HTN, DM p/w MS changes in the context of HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7046,
+            "end_offset": 7090,
+            "annotation_id": "KJ_061"
+        },
+        {
+            "decision": "PRES or stroke",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7140,
+            "end_offset": 7154,
+            "annotation_id": "KJ_062"
+        },
+        {
+            "decision": "No acute pathology including no evidence of infarction or PRES",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7322,
+            "end_offset": 7384,
+            "annotation_id": "KJ_063"
+        },
+        {
+            "decision": "Unchanged FLAIR signal intensity in the left corona radiata",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7386,
+            "end_offset": 7445,
+            "annotation_id": "KJ_064"
+        },
+        {
+            "decision": "small DVA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7456,
+            "end_offset": 7465,
+            "annotation_id": "KJ_065"
+        },
+        {
+            "decision": "Unchanged left retinal hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7467,
+            "end_offset": 7500,
+            "annotation_id": "KJ_066"
+        },
+        {
+            "decision": "chronic renal disease, hypertension, diabetes, and mental status changes in the setting of a hypertensive emergency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7546,
+            "end_offset": 7661,
+            "annotation_id": "KJ_067"
+        },
+        {
+            "decision": "Sagittal T1, axial T2, GRE, and DWI are performed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7751,
+            "end_offset": 7800,
+            "annotation_id": "KJ_068"
+        },
+        {
+            "decision": "There is no evidence of acute hemorrhage, edema or infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7841,
+            "end_offset": 7902,
+            "annotation_id": "KJ_069"
+        },
+        {
+            "decision": "small area of T2 and FLAIR hyperintensity within the left corona radiata, extending into the left ependymal region ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7956,
+            "end_offset": 8070,
+            "annotation_id": "KJ_070"
+        },
+        {
+            "decision": "small developmental venous anomaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8097,
+            "end_offset": 8131,
+            "annotation_id": "KJ_071"
+        },
+        {
+            "decision": "capillary telangiectasia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8160,
+            "end_offset": 8184,
+            "annotation_id": "KJ_072"
+        },
+        {
+            "decision": "mild  periventricular FLAIR hyperintensities",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8230,
+            "end_offset": 8274,
+            "annotation_id": "KJ_073"
+        },
+        {
+            "decision": "chronic microvascular ischemic disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8292,
+            "end_offset": 8330,
+            "annotation_id": "KJ_074"
+        },
+        {
+            "decision": "There is no restricted diffusion or abnormal signal intensity within the remainder of the brain parenchyma",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8332,
+            "end_offset": 8438,
+            "annotation_id": "KJ_075"
+        },
+        {
+            "decision": "High T2 signal within the left retina",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8440,
+            "end_offset": 8477,
+            "annotation_id": "KJ_076"
+        },
+        {
+            "decision": "hemorrhage and the left globe is atrophied",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8503,
+            "end_offset": 8545,
+            "annotation_id": "KJ_077"
+        },
+        {
+            "decision": "The intracranial flow voids are unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8547,
+            "end_offset": 8591,
+            "annotation_id": "KJ_078"
+        },
+        {
+            "decision": "No evidence of infarction, PRES, or other acute pathology",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8609,
+            "end_offset": 8666,
+            "annotation_id": "KJ_079"
+        },
+        {
+            "decision": "Unchanged FLAIR hyperintensity within the left corona radiata",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8672,
+            "end_offset": 8733,
+            "annotation_id": "KJ_080"
+        },
+        {
+            "decision": "small developmental venous anomaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8760,
+            "end_offset": 8794,
+            "annotation_id": "KJ_081"
+        },
+        {
+            "decision": "capillary telangiectasia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8824,
+            "end_offset": 8848,
+            "annotation_id": "KJ_082"
+        },
+        {
+            "decision": "end-stage renal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8957,
+            "end_offset": 8980,
+            "annotation_id": "KJ_083"
+        },
+        {
+            "decision": "Unchanged left retinal hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9013,
+            "end_offset": 9046,
+            "annotation_id": "KJ_084"
+        },
+        {
+            "decision": "Malignant Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9077,
+            "end_offset": 9099,
+            "annotation_id": "KJ_085"
+        },
+        {
+            "decision": "gatroperesis and chronic nausea/vomiting, which may have contributed to poor PO",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9160,
+            "end_offset": 9239,
+            "annotation_id": "KJ_086"
+        },
+        {
+            "decision": "altered mental status as possible end organ dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9341,
+            "end_offset": 9396,
+            "annotation_id": "KJ_087"
+        },
+        {
+            "decision": "malignant hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9418,
+            "end_offset": 9440,
+            "annotation_id": "KJ_088"
+        },
+        {
+            "decision": "emergent hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9467,
+            "end_offset": 9488,
+            "annotation_id": "KJ_089"
+        },
+        {
+            "decision": "transferred to the ICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 9498,
+            "end_offset": 9520,
+            "annotation_id": "KJ_090"
+        },
+        {
+            "decision": "nitroglycerin drip",
+            "category": "Category 5: Drug related",
+            "start_offset": 9538,
+            "end_offset": 9556,
+            "annotation_id": "KJ_091"
+        },
+        {
+            "decision": "weaned from nitro drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9571,
+            "end_offset": 9593,
+            "annotation_id": "KJ_092"
+        },
+        {
+            "decision": "anoxic encephelopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9741,
+            "end_offset": 9762,
+            "annotation_id": "KJ_093"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 9776,
+            "end_offset": 9800,
+            "annotation_id": "KJ_094"
+        },
+        {
+            "decision": "metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9825,
+            "end_offset": 9835,
+            "annotation_id": "KJ_095"
+        },
+        {
+            "decision": "losartan",
+            "category": "Category 5: Drug related",
+            "start_offset": 9840,
+            "end_offset": 9848,
+            "annotation_id": "KJ_096"
+        },
+        {
+            "decision": "hydralazine",
+            "category": "Category 5: Drug related",
+            "start_offset": 9923,
+            "end_offset": 9934,
+            "annotation_id": "KJ_097"
+        },
+        {
+            "decision": "Erythromycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9971,
+            "end_offset": 9983,
+            "annotation_id": "KJ_098"
+        },
+        {
+            "decision": "gastroparesis/motility and nausea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10000,
+            "end_offset": 10033,
+            "annotation_id": "KJ_099"
+        },
+        {
+            "decision": "prn zofran",
+            "category": "Category 5: Drug related",
+            "start_offset": 10050,
+            "end_offset": 10060,
+            "annotation_id": "KJ_100"
+        },
+        {
+            "decision": "Acute Delerium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10128,
+            "end_offset": 10142,
+            "annotation_id": "KJ_101"
+        },
+        {
+            "decision": "CT head in ED without acute pathology",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10233,
+            "end_offset": 10270,
+            "annotation_id": "KJ_102"
+        },
+        {
+            "decision": "Neuro exam initially had focal abnormalities, but on reassessment, just generalized weakness and poor mental status/attention/effort",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10273,
+            "end_offset": 10405,
+            "annotation_id": "KJ_103"
+        },
+        {
+            "decision": "Baclofan",
+            "category": "Category 5: Drug related",
+            "start_offset": 10498,
+            "end_offset": 10506,
+            "annotation_id": "KJ_104"
+        },
+        {
+            "decision": "Reglan",
+            "category": "Category 5: Drug related",
+            "start_offset": 10508,
+            "end_offset": 10514,
+            "annotation_id": "KJ_105"
+        },
+        {
+            "decision": "Phenergan",
+            "category": "Category 5: Drug related",
+            "start_offset": 10516,
+            "end_offset": 10525,
+            "annotation_id": "KJ_106"
+        },
+        {
+            "decision": "Amitryptiline",
+            "category": "Category 5: Drug related",
+            "start_offset": 10527,
+            "end_offset": 10540,
+            "annotation_id": "KJ_107"
+        },
+        {
+            "decision": "Thorazine",
+            "category": "Category 5: Drug related",
+            "start_offset": 10542,
+            "end_offset": 10551,
+            "annotation_id": "KJ_108"
+        },
+        {
+            "decision": "Ischemic disease was excluded (no EKG changes, cardiac enzymes flat 0.21, 0.17) and infection was unlikely",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10614,
+            "end_offset": 10720,
+            "annotation_id": "KJ_109"
+        },
+        {
+            "decision": "blood cultures negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10722,
+            "end_offset": 10745,
+            "annotation_id": "KJ_110"
+        },
+        {
+            "decision": "leukocytosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10765,
+            "end_offset": 10777,
+            "annotation_id": "KJ_111"
+        },
+        {
+            "decision": "Neurology consult evaluated",
+            "category": "Category 1: Contact related",
+            "start_offset": 10780,
+            "end_offset": 10807,
+            "annotation_id": "KJ_112"
+        },
+        {
+            "decision": "encephalopathy of most likely metabolic origin, with HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10829,
+            "end_offset": 10885,
+            "annotation_id": "KJ_113"
+        },
+        {
+            "decision": "no sign of PRES or other acute abnormality",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10948,
+            "end_offset": 10990,
+            "annotation_id": "KJ_114"
+        },
+        {
+            "decision": "Patient's was at baseline neurologic status on transfer to the floor, alert and orientedx3 with sluggish but appropriate responses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10992,
+            "end_offset": 11122,
+            "annotation_id": "KJ_115"
+        },
+        {
+            "decision": "Type 1 diabetes Uncontrolled with complications, gastroparesis, retinopathy, nephropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11127,
+            "end_offset": 11215,
+            "annotation_id": "KJ_116"
+        },
+        {
+            "decision": "3 U lantus ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11232,
+            "end_offset": 11242,
+            "annotation_id": "KJ_117"
+        },
+        {
+            "decision": "SSI ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11247,
+            "end_offset": 11250,
+            "annotation_id": "KJ_118"
+        },
+        {
+            "decision": "humalog",
+            "category": "Category 5: Drug related",
+            "start_offset": 11256,
+            "end_offset": 11263,
+            "annotation_id": "KJ_119"
+        },
+        {
+            "decision": "hypoglycemic episode",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11277,
+            "end_offset": 11297,
+            "annotation_id": "KJ_120"
+        },
+        {
+            "decision": "End Stage Renal Disease, hemodialysis dependent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11421,
+            "end_offset": 11468,
+            "annotation_id": "KJ_121"
+        },
+        {
+            "decision": "Renal consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 11470,
+            "end_offset": 11485,
+            "annotation_id": "KJ_122"
+        },
+        {
+            "decision": "emergent hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11505,
+            "end_offset": 11526,
+            "annotation_id": "KJ_123"
+        },
+        {
+            "decision": "volume overload contributing to hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11541,
+            "end_offset": 11585,
+            "annotation_id": "KJ_124"
+        },
+        {
+            "decision": "ultrafiltration ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11592,
+            "end_offset": 11607,
+            "annotation_id": "KJ_125"
+        },
+        {
+            "decision": "lanthanum",
+            "category": "Category 5: Drug related",
+            "start_offset": 11659,
+            "end_offset": 11668,
+            "annotation_id": "KJ_126"
+        },
+        {
+            "decision": "sevalemer",
+            "category": "Category 5: Drug related",
+            "start_offset": 11673,
+            "end_offset": 11682,
+            "annotation_id": "KJ_127"
+        },
+        {
+            "decision": "HD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11743,
+            "end_offset": 11745,
+            "annotation_id": "KJ_128"
+        },
+        {
+            "decision": "Hiccups",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11773,
+            "end_offset": 11780,
+            "annotation_id": "KJ_129"
+        },
+        {
+            "decision": "thorazine",
+            "category": "Category 5: Drug related",
+            "start_offset": 11793,
+            "end_offset": 11802,
+            "annotation_id": "KJ_130"
+        },
+        {
+            "decision": "baclofen",
+            "category": "Category 5: Drug related",
+            "start_offset": 11804,
+            "end_offset": 11812,
+            "annotation_id": "KJ_131"
+        },
+        {
+            "decision": "medications causing altered mental status so they were held, but hiccups worsened",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11833,
+            "end_offset": 11914,
+            "annotation_id": "KJ_132"
+        },
+        {
+            "decision": "lower dose of baclofen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11969,
+            "end_offset": 11991,
+            "annotation_id": "KJ_133"
+        },
+        {
+            "decision": "he tolerated this well with no change in MS, but improvement in hiccups",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12018,
+            "end_offset": 12089,
+            "annotation_id": "KJ_134"
+        },
+        {
+            "decision": "Chronic systolic heart failure, compensated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12094,
+            "end_offset": 12137,
+            "annotation_id": "KJ_135"
+        },
+        {
+            "decision": "Beta Blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 12152,
+            "end_offset": 12164,
+            "annotation_id": "KJ_136"
+        },
+        {
+            "decision": "Hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12193,
+            "end_offset": 12205,
+            "annotation_id": "KJ_137"
+        },
+        {
+            "decision": "anuric",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12237,
+            "end_offset": 12243,
+            "annotation_id": "KJ_138"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12247,
+            "end_offset": 12257,
+            "annotation_id": "KJ_139"
+        },
+        {
+            "decision": "Amitryptiline ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12264,
+            "end_offset": 12277,
+            "annotation_id": "KJ_140"
+        },
+        {
+            "decision": "citalopram",
+            "category": "Category 5: Drug related",
+            "start_offset": 12367,
+            "end_offset": 12377,
+            "annotation_id": "KJ_141"
+        },
+        {
+            "decision": "No suicidal ideation or worsening mood during the hospitalization",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12380,
+            "end_offset": 12445,
+            "annotation_id": "KJ_142"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12512,
+            "end_offset": 12541,
+            "annotation_id": "KJ_143"
+        },
+        {
+            "decision": "Amitriptyline 25 mg PO HS (at bedtime)",
+            "category": "Category 5: Drug related",
+            "start_offset": 12545,
+            "end_offset": 12582,
+            "annotation_id": "KJ_144"
+        },
+        {
+            "decision": "Aspirin 81 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12587,
+            "end_offset": 12609,
+            "annotation_id": "KJ_145"
+        },
+        {
+            "decision": "Pantoprazole 40 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12613,
+            "end_offset": 12639,
+            "annotation_id": "KJ_146"
+        },
+        {
+            "decision": "Lanthanum 1000 mg PO TID W/MEALS",
+            "category": "Category 5: Drug related",
+            "start_offset": 12643,
+            "end_offset": 12675,
+            "annotation_id": "KJ_147"
+        },
+        {
+            "decision": "Metoprolol Succinate 150 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 12679,
+            "end_offset": 12712,
+            "annotation_id": "KJ_148"
+        },
+        {
+            "decision": "Citalopram 20 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12716,
+            "end_offset": 12741,
+            "annotation_id": "KJ_149"
+        },
+        {
+            "decision": "Metoclopramide 5 mg PO QIDACHS (4 times a day (before meals and at bedtime)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12745,
+            "end_offset": 12819,
+            "annotation_id": "KJ_150"
+        },
+        {
+            "decision": "Hydralazine 25 mg PO TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12826,
+            "end_offset": 12850,
+            "annotation_id": "KJ_151"
+        },
+        {
+            "decision": "Losartan 50 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12855,
+            "end_offset": 12878,
+            "annotation_id": "KJ_152"
+        },
+        {
+            "decision": "Furosemide 20 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12883,
+            "end_offset": 12906,
+            "annotation_id": "KJ_153"
+        },
+        {
+            "decision": "Bisacodyl 10 mg PO DAILY as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12911,
+            "end_offset": 12945,
+            "annotation_id": "KJ_154"
+        },
+        {
+            "decision": "Chlorpromazine 25 mg PO every 4-6 hours as needed for hiccups.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12951,
+            "end_offset": 13012,
+            "annotation_id": "KJ_155"
+        },
+        {
+            "decision": "Baclofen 5 mg PO three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13018,
+            "end_offset": 13052,
+            "annotation_id": "KJ_156"
+        },
+        {
+            "decision": "Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13081,
+            "end_offset": 13138,
+            "annotation_id": "KJ_157"
+        },
+        {
+            "decision": "Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13144,
+            "end_offset": 13248,
+            "annotation_id": "KJ_158"
+        },
+        {
+            "decision": "Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13254,
+            "end_offset": 13342,
+            "annotation_id": "KJ_159"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13348,
+            "end_offset": 13424,
+            "annotation_id": "KJ_160"
+        },
+        {
+            "decision": "Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 times a day (before meals and at bedtime)) as needed for hiccups.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13430,
+            "end_offset": 13552,
+            "annotation_id": "KJ_161"
+        },
+        {
+            "decision": "Baclofen 10 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13557,
+            "end_offset": 13616,
+            "annotation_id": "KJ_162"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13623,
+            "end_offset": 13740,
+            "annotation_id": "KJ_163"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13746,
+            "end_offset": 13819,
+            "annotation_id": "KJ_164"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13825,
+            "end_offset": 13899,
+            "annotation_id": "KJ_165"
+        },
+        {
+            "decision": "Bisacodyl 5 mg Tablet Sig: 1-2 Tablets PO once a day as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13906,
+            "end_offset": 13985,
+            "annotation_id": "KJ_166"
+        },
+        {
+            "decision": "Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13991,
+            "end_offset": 14055,
+            "annotation_id": "KJ_167"
+        },
+        {
+            "decision": "Hydralazine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14062,
+            "end_offset": 14128,
+            "annotation_id": "KJ_168"
+        },
+        {
+            "decision": "Insulin Glargine 100 unit/mL Solution Sig: 6 Units units Subcutaneous once a day: Please resume previous insulin regimen of 6U every morning.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14135,
+            "end_offset": 14275,
+            "annotation_id": "KJ_169"
+        },
+        {
+            "decision": "Insulin Lispro 100 unit/mL Cartridge Sig: One (1) unit Subcutaneous three times a day: Please take 1 unit after each meal (as per your regular insulin regime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 14281,
+            "end_offset": 14438,
+            "annotation_id": "KJ_170"
+        },
+        {
+            "decision": "Home With Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 14466,
+            "end_offset": 14483,
+            "annotation_id": "KJ_171"
+        },
+        {
+            "decision": "Maliganant Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14563,
+            "end_offset": 14586,
+            "annotation_id": "KJ_172"
+        },
+        {
+            "decision": "Acute Delirium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14587,
+            "end_offset": 14601,
+            "annotation_id": "KJ_173"
+        },
+        {
+            "decision": "Diabetes Mellitus type 1 w/complications, gastroparesis, retinopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14602,
+            "end_offset": 14670,
+            "annotation_id": "KJ_174"
+        },
+        {
+            "decision": "Gastroparesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14671,
+            "end_offset": 14684,
+            "annotation_id": "KJ_175"
+        },
+        {
+            "decision": "Chronic Hiccups",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14685,
+            "end_offset": 14700,
+            "annotation_id": "KJ_176"
+        },
+        {
+            "decision": "End Stage Renal Disease, hemodialysis dependent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14701,
+            "end_offset": 14748,
+            "annotation_id": "KJ_177"
+        },
+        {
+            "decision": "Chronic Systolic Heart Failure, EF >55%",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14749,
+            "end_offset": 14787,
+            "annotation_id": "KJ_178"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14789,
+            "end_offset": 14799,
+            "annotation_id": "KJ_179"
+        },
+        {
+            "decision": "nausea, vomiting and confusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14887,
+            "end_offset": 14917,
+            "annotation_id": "KJ_180"
+        },
+        {
+            "decision": "blood pressure was very high",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14952,
+            "end_offset": 14980,
+            "annotation_id": "KJ_181"
+        },
+        {
+            "decision": "antihypertensive medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 15031,
+            "end_offset": 15059,
+            "annotation_id": "KJ_182"
+        },
+        {
+            "decision": "hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15064,
+            "end_offset": 15076,
+            "annotation_id": "KJ_183"
+        },
+        {
+            "decision": "Your mental status improved as your blood pressure came down",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15090,
+            "end_offset": 15150,
+            "annotation_id": "KJ_184"
+        },
+        {
+            "decision": "STOPPED Chlorpromazine",
+            "category": "Category 5: Drug related",
+            "start_offset": 15205,
+            "end_offset": 15227,
+            "annotation_id": "KJ_185"
+        },
+        {
+            "decision": "CHANGED Baclofen 5 mg PO two times a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 15228,
+            "end_offset": 15268,
+            "annotation_id": "KJ_186"
+        },
+        {
+            "decision": "Please follow up with your PCP, [**Name10 (NameIs) 151**] your social worker as described below",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15271,
+            "end_offset": 15366,
+            "annotation_id": "KJ_187"
+        },
+        {
+            "decision": "Please take all your medications as directed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15369,
+            "end_offset": 15413,
+            "annotation_id": "KJ_188"
+        },
+        {
+            "decision": "If you have any nausea, vomiting, headache, fever, chills, increasing confusion, high blood pressure or any general change in your condition please call your PCP or come to the emergency department.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15417,
+            "end_offset": 15614,
+            "annotation_id": "KJ_189"
+        },
+        {
+            "decision": "Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4131**], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2150-8-12**] 1:30",
+            "category": "Category 1: Contact related",
+            "start_offset": 15640,
+            "end_offset": 15788,
+            "annotation_id": "KJ_190"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 23482**], LICSW Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2150-8-13**] 12:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 15789,
+            "end_offset": 15975,
+            "annotation_id": "KJ_191"
+        },
+        {
+            "decision": "Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2150-8-13**] 1:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 15976,
+            "end_offset": 16119,
+            "annotation_id": "KJ_192"
+        }
+    ]
+}

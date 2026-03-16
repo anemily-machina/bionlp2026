@@ -1,0 +1,1028 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14038_103987_6839",
+    "annotations": [
+        {
+            "decision": "s/p fall",
+            "category": "Category 3: Defining problem",
+            "start_offset": 225,
+            "end_offset": 233,
+            "annotation_id": "CG_000"
+        },
+        {
+            "decision": "Thoracentesis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 273,
+            "end_offset": 286,
+            "annotation_id": "CG_001"
+        },
+        {
+            "decision": "Paracentesis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 287,
+            "end_offset": 299,
+            "annotation_id": "CG_002"
+        },
+        {
+            "decision": "h/o CLL c/b malignant pleural effusion, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 343,
+            "end_offset": 381,
+            "annotation_id": "CG_003"
+        },
+        {
+            "decision": "primary resected melanoma, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 383,
+            "end_offset": 408,
+            "annotation_id": "CG_004"
+        },
+        {
+            "decision": "type II diabetes mellitus, and Gout ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 410,
+            "end_offset": 445,
+            "annotation_id": "CG_005"
+        },
+        {
+            "decision": "mechanical fall and found to have subdural hematoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 487,
+            "end_offset": 538,
+            "annotation_id": "CG_006"
+        },
+        {
+            "decision": "He was started on supplemental oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 611,
+            "end_offset": 648,
+            "annotation_id": "CG_007"
+        },
+        {
+            "decision": "neurosurgery was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 839,
+            "end_offset": 865,
+            "annotation_id": "CG_008"
+        },
+        {
+            "decision": "Head CT showed multiple high density nodules concerning for metastatic disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 868,
+            "end_offset": 946,
+            "annotation_id": "CG_009"
+        },
+        {
+            "decision": "He was loaded with dilantin",
+            "category": "Category 5: Drug related",
+            "start_offset": 949,
+            "end_offset": 976,
+            "annotation_id": "CG_010"
+        },
+        {
+            "decision": "monitored overnight without any detioration in neurologic status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 981,
+            "end_offset": 1045,
+            "annotation_id": "CG_011"
+        },
+        {
+            "decision": "Repeat head CT showed stable appearance of the SDH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1048,
+            "end_offset": 1098,
+            "annotation_id": "CG_012"
+        },
+        {
+            "decision": "Hematology/Oncology was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 1100,
+            "end_offset": 1133,
+            "annotation_id": "CG_013"
+        },
+        {
+            "decision": "He was transfused 6units platelets in the ED",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1136,
+            "end_offset": 1180,
+            "annotation_id": "CG_014"
+        },
+        {
+            "decision": "underwent leukopheresis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1186,
+            "end_offset": 1209,
+            "annotation_id": "CG_015"
+        },
+        {
+            "decision": "leukopheresis and chemo ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1320,
+            "end_offset": 1343,
+            "annotation_id": "CG_016"
+        },
+        {
+            "decision": "CLL after presenting with dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1352,
+            "end_offset": 1385,
+            "annotation_id": "CG_017"
+        },
+        {
+            "decision": "On presentation now his is oriented x3 and complains only of pain in his right shoulder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1402,
+            "end_offset": 1489,
+            "annotation_id": "CG_018"
+        },
+        {
+            "decision": "He denies headache, dizziness, confusion, vision changes, nausea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1492,
+            "end_offset": 1556,
+            "annotation_id": "CG_019"
+        },
+        {
+            "decision": "On ROS he denies fever, chills, sweats, palpitations, chest pain, SOB, abdominal pain, nausea, vomiting, diarrhea, constipation, bloody stools, dysuria, hematuria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1559,
+            "end_offset": 1721,
+            "annotation_id": "CG_020"
+        },
+        {
+            "decision": "He notes some skin changes in his arms c/w small bruises.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1724,
+            "end_offset": 1780,
+            "annotation_id": "CG_021"
+        },
+        {
+            "decision": "T cell CLL/PLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1809,
+            "end_offset": 1823,
+            "annotation_id": "CG_022"
+        },
+        {
+            "decision": "previously treated with pentostatin, cyclophosphamide, fludarabine, cytoxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 1825,
+            "end_offset": 1900,
+            "annotation_id": "CG_023"
+        },
+        {
+            "decision": "regular leukopharesis and Campath",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1920,
+            "end_offset": 1953,
+            "annotation_id": "CG_024"
+        },
+        {
+            "decision": "c/b left malignant pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1955,
+            "end_offset": 1990,
+            "annotation_id": "CG_025"
+        },
+        {
+            "decision": "thoracentesis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2001,
+            "end_offset": 2014,
+            "annotation_id": "CG_026"
+        },
+        {
+            "decision": "h/o left chest wall melanoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2019,
+            "end_offset": 2047,
+            "annotation_id": "CG_027"
+        },
+        {
+            "decision": "s/p resection, no nodal dissection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2048,
+            "end_offset": 2082,
+            "annotation_id": "CG_028"
+        },
+        {
+            "decision": "type II diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2087,
+            "end_offset": 2112,
+            "annotation_id": "CG_029"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2117,
+            "end_offset": 2121,
+            "annotation_id": "CG_030"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2126,
+            "end_offset": 2138,
+            "annotation_id": "CG_031"
+        },
+        {
+            "decision": "H/o right knee arthritis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2143,
+            "end_offset": 2167,
+            "annotation_id": "CG_032"
+        },
+        {
+            "decision": "H/o small bowel obstruction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2172,
+            "end_offset": 2199,
+            "annotation_id": "CG_033"
+        },
+        {
+            "decision": "comfortable, alert, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2577,
+            "end_offset": 2600,
+            "annotation_id": "CG_034"
+        },
+        {
+            "decision": "anicteric, PERRL, EOMI, OP with petechia posteriorly, MMM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2609,
+            "end_offset": 2666,
+            "annotation_id": "CG_035"
+        },
+        {
+            "decision": "supple, no LAD, R SC pheresis catheter in place, JVP nondistended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2674,
+            "end_offset": 2739,
+            "annotation_id": "CG_036"
+        },
+        {
+            "decision": "RRR, II/VI SEM, PMI nondisplaced",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2745,
+            "end_offset": 2777,
+            "annotation_id": "CG_037"
+        },
+        {
+            "decision": "decreased BS B bases with mild crackles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2785,
+            "end_offset": 2824,
+            "annotation_id": "CG_038"
+        },
+        {
+            "decision": "+BS, soft, NT, ND, liver palp 2cm below costal margin, spleen not palpable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2831,
+            "end_offset": 2905,
+            "annotation_id": "CG_039"
+        },
+        {
+            "decision": "[**1-2**]+ pitting edema BLE, nontender",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2912,
+            "end_offset": 2951,
+            "annotation_id": "CG_040"
+        },
+        {
+            "decision": "petechiae arms, abdomen, legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2959,
+            "end_offset": 2988,
+            "annotation_id": "CG_041"
+        },
+        {
+            "decision": "A&Ox3, answers questions appropriately and follows commands, CN II-XII intact, strength 5/5 biceps/triceps/grip/quads/dorsi&plantar flexion, sensation intact to fine touch BUE and BLE, coordination intact FTN, no plantar deviation.  gait and romberg not assessed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2997,
+            "end_offset": 3259,
+            "annotation_id": "CG_042"
+        },
+        {
+            "decision": "Head CT:",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3293,
+            "end_offset": 3300,
+            "annotation_id": "CG_043"
+        },
+        {
+            "decision": "High density nodules and multiple ill-defined hypodensities scattered throughout the brain, suggestive of a metastatic process",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3306,
+            "end_offset": 3432,
+            "annotation_id": "CG_044"
+        },
+        {
+            "decision": "Very small (approximately 1 mm) right extra-axial fluid collection, with associated mild edema of the right hemisphere, but without midline shift",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3438,
+            "end_offset": 3583,
+            "annotation_id": "CG_045"
+        },
+        {
+            "decision": "[**11-24**] CXR: New moderate-sized right pleural effusion, with underlying collapse and/or consolidation.  Atelectasis at left base. Prominent right hium --",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3664,
+            "end_offset": 3818,
+            "annotation_id": "CG_046"
+        },
+        {
+            "decision": "[**11-25**] Head CT: No interval change in the appearance of the brain.  Stable tiny right subdural hemorrhage.  Unchanged appearance of multiple high attenuation lesions scattered within the brain concerning for metastasis.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3824,
+            "end_offset": 4047,
+            "annotation_id": "CG_047"
+        },
+        {
+            "decision": "[**12-1**] CXR: There is a right-sided IJ central venous catheter, with the distal tip in the SVC, unchanged. There is again seen a large right-sided pleural effusion likely layering and a left-sided pleural effusion which is moderated sized. These are unchanged from previous. There is no evidence for overt pulmonary edema. There is a left retrocardiac opacity. This finding is unchanged. Underlying pneumonia would be difficult to exclude given the retrocardiac opacity and the large pleural effusions.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4051,
+            "end_offset": 4555,
+            "annotation_id": "CG_048"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy with normal cavity size  and systolic function (LVEF>55%). Regional left ventricular wall motion is  normal. Right ventricular chamber size and free wall motion are normal.  Trivial mitral regurgitation is seen. There is a small pericardial effusion. There are no echocardiographic signs of tamponade",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4590,
+            "end_offset": 4943,
+            "annotation_id": "CG_049"
+        },
+        {
+            "decision": "There is a new moderate sized mixed density subdural fluid collection on the right. The lateral ventricle is completely compressed indicating mass effect from the subdural fluid collection as well as a 3 mm shift of the normally midline structures. The mixed intensity of the collection likely consists of blood and other fluid given the mixed densities. The previously identified high-density lesions are subsiding indicating that these were most likely hemorrhages rather than amyloid angiopathy.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4982,
+            "end_offset": 5479,
+            "annotation_id": "CG_050"
+        },
+        {
+            "decision": "There is no change in the size or configuration of the right-sided subdural hemorrhage. Denser blood products are layering posteriorly. The hematoma extends under the right temporal lobe, which is slightly elevated and medially displaced. However, the basal cisternal spaces retain their normal configuration. There is mild shift of midline structures to the left, unchanged since the previous day's examination. Brain parenchymal attenuation is also stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5508,
+            "end_offset": 5965,
+            "annotation_id": "CG_051"
+        },
+        {
+            "decision": "Stable right subdural hematoma with slight progression of mass effect and shift of midline structures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6006,
+            "end_offset": 6107,
+            "annotation_id": "CG_052"
+        },
+        {
+            "decision": "Slightly improved right subdural hematoma and associated mass effect, with lessened contralateral shift of normally midline structures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6150,
+            "end_offset": 6284,
+            "annotation_id": "CG_053"
+        },
+        {
+            "decision": "HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-NORMAL MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7100,
+            "end_offset": 7186,
+            "annotation_id": "CG_054"
+        },
+        {
+            "decision": "PLT SMR-RARE PLT COUNT-15*#",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7214,
+            "end_offset": 7240,
+            "annotation_id": "CG_055"
+        },
+        {
+            "decision": "81yo man with h/o CLL c/b malignant pleural effusion, primary resected melanoma, type II diabetes mellitus, and gout presented to [**Hospital1 18**] ED after mechanical fall and found to have subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7324,
+            "end_offset": 7533,
+            "annotation_id": "CG_056"
+        },
+        {
+            "decision": "Subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7606,
+            "end_offset": 7623,
+            "annotation_id": "CG_057"
+        },
+        {
+            "decision": "Hemorrhage occurred in the setting of mechanical fall",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7626,
+            "end_offset": 7679,
+            "annotation_id": "CG_058"
+        },
+        {
+            "decision": "He was seen by neurosurgery ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7682,
+            "end_offset": 7709,
+            "annotation_id": "CG_059"
+        },
+        {
+            "decision": "keeping SBP <140 ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7726,
+            "end_offset": 7742,
+            "annotation_id": "CG_060"
+        },
+        {
+            "decision": "Dilantin",
+            "category": "Category 5: Drug related",
+            "start_offset": 7760,
+            "end_offset": 7768,
+            "annotation_id": "CG_061"
+        },
+        {
+            "decision": "his Dilantin level was subtherapeutic, and he was reloaded",
+            "category": "Category 5: Drug related",
+            "start_offset": 7871,
+            "end_offset": 7929,
+            "annotation_id": "CG_062"
+        },
+        {
+            "decision": "On day three he developed neurologic changes of increased lethargy and dysarthria",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7932,
+            "end_offset": 8013,
+            "annotation_id": "CG_063"
+        },
+        {
+            "decision": "Findings were consistent with Dilantin toxicity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8016,
+            "end_offset": 8063,
+            "annotation_id": "CG_064"
+        },
+        {
+            "decision": "AM dose was held on day four, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8070,
+            "end_offset": 8098,
+            "annotation_id": "CG_065"
+        },
+        {
+            "decision": "He was continued on Dilantin 100mg po TID.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8123,
+            "end_offset": 8164,
+            "annotation_id": "CG_066"
+        },
+        {
+            "decision": "His head CT showed multiple lesions concerning for mets disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8166,
+            "end_offset": 8229,
+            "annotation_id": "CG_067"
+        },
+        {
+            "decision": " It was unclear whether these lesions could be due to his CLL/PLL or due to his remote history of nonmetastic resected melanoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8232,
+            "end_offset": 8358,
+            "annotation_id": "CG_068"
+        },
+        {
+            "decision": "He had a brain MR that showed a single parietal lesion concerning for mets.  The other lesions were read as consistent with amyloid angiopathy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8361,
+            "end_offset": 8503,
+            "annotation_id": "CG_069"
+        },
+        {
+            "decision": "Neuro-oncology was consulted, ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8506,
+            "end_offset": 8534,
+            "annotation_id": "CG_070"
+        },
+        {
+            "decision": "XRT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8604,
+            "end_offset": 8607,
+            "annotation_id": "CG_071"
+        },
+        {
+            "decision": "A repeat head CT on [**2137-12-5**] showed new midline shift and rebleed (unclear of duration) without herniation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8611,
+            "end_offset": 8724,
+            "annotation_id": "CG_072"
+        },
+        {
+            "decision": "Neurosurgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8749,
+            "end_offset": 8775,
+            "annotation_id": "CG_073"
+        },
+        {
+            "decision": "patient was not a surgical candidate because of his comorbidities and the size of the lesion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8780,
+            "end_offset": 8872,
+            "annotation_id": "CG_074"
+        },
+        {
+            "decision": "his thrombocytopenia introduced a substantial bleeding risk if any drains were placed in his head",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8887,
+            "end_offset": 8984,
+            "annotation_id": "CG_075"
+        },
+        {
+            "decision": "On [**2137-12-9**], another head CT showed no interval changes in the midline shift, but worsening mass effect. Follow up CT on [**12-18**] showed stable midline shift.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8986,
+            "end_offset": 9153,
+            "annotation_id": "CG_076"
+        },
+        {
+            "decision": "he was transfused platelet products for counts <50 to minimize worsening of his intracranial hemorrhage.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9189,
+            "end_offset": 9292,
+            "annotation_id": "CG_077"
+        },
+        {
+            "decision": "CLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9300,
+            "end_offset": 9303,
+            "annotation_id": "CG_078"
+        },
+        {
+            "decision": "The patient is followed by oncology attending Dr. [**Last Name (STitle) **] at NEBH;",
+            "category": "Category 1: Contact related",
+            "start_offset": 9305,
+            "end_offset": 9388,
+            "annotation_id": "CG_079"
+        },
+        {
+            "decision": "He underwent leukopharesis three times ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9466,
+            "end_offset": 9504,
+            "annotation_id": "CG_080"
+        },
+        {
+            "decision": "hyperleukocytosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9534,
+            "end_offset": 9551,
+            "annotation_id": "CG_081"
+        },
+        {
+            "decision": "His last dose of Campath was at NEBH [**2137-11-22**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 9554,
+            "end_offset": 9607,
+            "annotation_id": "CG_082"
+        },
+        {
+            "decision": "He was transfused both PRBC and platelets without much increase",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9610,
+            "end_offset": 9673,
+            "annotation_id": "CG_083"
+        },
+        {
+            "decision": "he was followed by the BMT fellow and BMT attending with the OMED resident/intern team following",
+            "category": "Category 1: Contact related",
+            "start_offset": 9688,
+            "end_offset": 9784,
+            "annotation_id": "CG_084"
+        },
+        {
+            "decision": "He underwent leukophoresis several times here with reductions in his WBC to usually < 300K.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9787,
+            "end_offset": 9877,
+            "annotation_id": "CG_085"
+        },
+        {
+            "decision": "failed chemotherapy ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9907,
+            "end_offset": 9926,
+            "annotation_id": "CG_086"
+        },
+        {
+            "decision": "treated with the anti-CD52 antibody, Campath",
+            "category": "Category 5: Drug related",
+            "start_offset": 9961,
+            "end_offset": 10005,
+            "annotation_id": "CG_087"
+        },
+        {
+            "decision": "4 doses of Campath were given from [**Date range (1) 25865**] (with an initial test dose of 3mg).",
+            "category": "Category 5: Drug related",
+            "start_offset": 10275,
+            "end_offset": 10370,
+            "annotation_id": "CG_088"
+        },
+        {
+            "decision": "He experienced small WBC count decrements, but soon started to rebound",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10372,
+            "end_offset": 10442,
+            "annotation_id": "CG_089"
+        },
+        {
+            "decision": "his WBC count consisted predominantly of prolymphocytes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10458,
+            "end_offset": 10513,
+            "annotation_id": "CG_090"
+        },
+        {
+            "decision": "campath",
+            "category": "Category 5: Drug related",
+            "start_offset": 10574,
+            "end_offset": 10581,
+            "annotation_id": "CG_091"
+        },
+        {
+            "decision": "continuing rises in his WBC count",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10602,
+            "end_offset": 10635,
+            "annotation_id": "CG_092"
+        },
+        {
+            "decision": "campath",
+            "category": "Category 5: Drug related",
+            "start_offset": 10683,
+            "end_offset": 10690,
+            "annotation_id": "CG_093"
+        },
+        {
+            "decision": "he continued to receive campath on [**2-15**] and [**12-16**] and [**12-18**].",
+            "category": "Category 5: Drug related",
+            "start_offset": 10699,
+            "end_offset": 10776,
+            "annotation_id": "CG_094"
+        },
+        {
+            "decision": "Bacteroides and Citrobacter in 2 different blood cultures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10795,
+            "end_offset": 10852,
+            "annotation_id": "CG_095"
+        },
+        {
+            "decision": "on Vanco and ceftaz/flagyl and caspo, ganciclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 10855,
+            "end_offset": 10904,
+            "annotation_id": "CG_096"
+        },
+        {
+            "decision": "[**12-10**]: switched [**Last Name (un) 2830**] to ceftaz",
+            "category": "Category 5: Drug related",
+            "start_offset": 10907,
+            "end_offset": 10964,
+            "annotation_id": "CG_097"
+        },
+        {
+            "decision": "CMV VL [**Numeric Identifier 961**] on [**2137-12-4**]: ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10967,
+            "end_offset": 11021,
+            "annotation_id": "CG_098"
+        },
+        {
+            "decision": "started on Ganciclovir -> [**12-7**]: ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11023,
+            "end_offset": 11059,
+            "annotation_id": "CG_099"
+        },
+        {
+            "decision": "CMV VL on [**12-14**]->2050",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11072,
+            "end_offset": 11099,
+            "annotation_id": "CG_100"
+        },
+        {
+            "decision": "patient was cultured significant temperature spikes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11102,
+            "end_offset": 11153,
+            "annotation_id": "CG_101"
+        },
+        {
+            "decision": "Bilateral malignant pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11159,
+            "end_offset": 11196,
+            "annotation_id": "CG_102"
+        },
+        {
+            "decision": "Thoracentesis [**2137-12-3**]: 1.5L  by IP service",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11200,
+            "end_offset": 11250,
+            "annotation_id": "CG_103"
+        },
+        {
+            "decision": "A moderate right and small left pleural effusion are stable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11275,
+            "end_offset": 11334,
+            "annotation_id": "CG_104"
+        },
+        {
+            "decision": "b/l layering pleural effusions and perihilar edema",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11356,
+            "end_offset": 11406,
+            "annotation_id": "CG_105"
+        },
+        {
+            "decision": "DIC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11412,
+            "end_offset": 11415,
+            "annotation_id": "CG_106"
+        },
+        {
+            "decision": "pt. in chronic DIC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11439,
+            "end_offset": 11457,
+            "annotation_id": "CG_107"
+        },
+        {
+            "decision": "pt developed persistent bleeding at site of phereis catheter",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11475,
+            "end_offset": 11535,
+            "annotation_id": "CG_108"
+        },
+        {
+            "decision": "Transfused 3 u platelets, 2 u FFP, 2 u cryoprecipitate ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11537,
+            "end_offset": 11591,
+            "annotation_id": "CG_109"
+        },
+        {
+            "decision": "Plat cnt up to 60 from 20 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11656,
+            "end_offset": 11681,
+            "annotation_id": "CG_110"
+        },
+        {
+            "decision": "s/p transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11682,
+            "end_offset": 11698,
+            "annotation_id": "CG_111"
+        },
+        {
+            "decision": "This likely accounts for his petechial rash",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11701,
+            "end_offset": 11744,
+            "annotation_id": "CG_112"
+        },
+        {
+            "decision": "patient was transfused ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11778,
+            "end_offset": 11800,
+            "annotation_id": "CG_113"
+        },
+        {
+            "decision": "keep his fibrinogen >100 ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 11804,
+            "end_offset": 11828,
+            "annotation_id": "CG_114"
+        },
+        {
+            "decision": "chronic DIC.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11843,
+            "end_offset": 11854,
+            "annotation_id": "CG_115"
+        },
+        {
+            "decision": "ARF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11862,
+            "end_offset": 11865,
+            "annotation_id": "CG_116"
+        },
+        {
+            "decision": "baseline creat 1.0; elevated on admission 2.1.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11868,
+            "end_offset": 11913,
+            "annotation_id": "CG_117"
+        },
+        {
+            "decision": "allopurinol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11915,
+            "end_offset": 11926,
+            "annotation_id": "CG_118"
+        },
+        {
+            "decision": "creatinine improved daily",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11960,
+            "end_offset": 11985,
+            "annotation_id": "CG_119"
+        },
+        {
+            "decision": "FeNA calculated < 1%; appeared dry on exam",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11988,
+            "end_offset": 12030,
+            "annotation_id": "CG_120"
+        },
+        {
+            "decision": "Renal ultrasound obtained to r/o post renal etiology",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12063,
+            "end_offset": 12115,
+            "annotation_id": "CG_121"
+        },
+        {
+            "decision": "Unclear cause - possibly secondary to leukemic infiltration vs. previous TLS. Dry on physical exam; may represent some component of pre-renal azotemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12143,
+            "end_offset": 12293,
+            "annotation_id": "CG_122"
+        },
+        {
+            "decision": "c/w prerenal azotemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12335,
+            "end_offset": 12356,
+            "annotation_id": "CG_123"
+        },
+        {
+            "decision": "renal u/s showing no obstruction",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12359,
+            "end_offset": 12391,
+            "annotation_id": "CG_124"
+        },
+        {
+            "decision": "decreased ganciclovir on [**12-6**]; decreased spironolactone on [**2137-12-7**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12421,
+            "end_offset": 12501,
+            "annotation_id": "CG_125"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12533,
+            "end_offset": 12536,
+            "annotation_id": "CG_126"
+        },
+        {
+            "decision": "Dyazide and Cozaar ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12539,
+            "end_offset": 12557,
+            "annotation_id": "CG_127"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12578,
+            "end_offset": 12589,
+            "annotation_id": "CG_128"
+        },
+        {
+            "decision": "goal SBP <140 per neurosurgery recc's",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 12591,
+            "end_offset": 12628,
+            "annotation_id": "CG_129"
+        },
+        {
+            "decision": "patient has rash [**1-2**] lymphoma per oncology; also with diffuse petechiae.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12643,
+            "end_offset": 12720,
+            "annotation_id": "CG_130"
+        },
+        {
+            "decision": "TIIDM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12728,
+            "end_offset": 12733,
+            "annotation_id": "CG_131"
+        },
+        {
+            "decision": "maintained on sliding scale insulin with good control.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12736,
+            "end_offset": 12789,
+            "annotation_id": "CG_132"
+        },
+        {
+            "decision": "multiorgan failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12988,
+            "end_offset": 13006,
+            "annotation_id": "CG_133"
+        },
+        {
+            "decision": "campath ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13109,
+            "end_offset": 13116,
+            "annotation_id": "CG_134"
+        },
+        {
+            "decision": "continued to be a DNR/DNI ",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 13176,
+            "end_offset": 13201,
+            "annotation_id": "CG_135"
+        },
+        {
+            "decision": "worsening respiratory status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13287,
+            "end_offset": 13315,
+            "annotation_id": "CG_136"
+        },
+        {
+            "decision": "had become more and more unresponsive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13354,
+            "end_offset": 13391,
+            "annotation_id": "CG_137"
+        },
+        {
+            "decision": "increasing his O2 requirements over the last few days of his life",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13400,
+            "end_offset": 13465,
+            "annotation_id": "CG_138"
+        },
+        {
+            "decision": "Allopurinol 60mg daily",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13571,
+            "end_offset": 13593,
+            "annotation_id": "CG_139"
+        },
+        {
+            "decision": "Dyazide 37.5/25 daily",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13594,
+            "end_offset": 13615,
+            "annotation_id": "CG_140"
+        },
+        {
+            "decision": "Cozaar 50mg daily",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13616,
+            "end_offset": 13633,
+            "annotation_id": "CG_141"
+        },
+        {
+            "decision": "Campath",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13634,
+            "end_offset": 13641,
+            "annotation_id": "CG_142"
+        },
+        {
+            "decision": "supplemental O2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13642,
+            "end_offset": 13657,
+            "annotation_id": "CG_143"
+        },
+        {
+            "decision": "previously on metformin; stopped during last hospitalization",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13658,
+            "end_offset": 13718,
+            "annotation_id": "CG_144"
+        },
+        {
+            "decision": "CLL/PLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13829,
+            "end_offset": 13836,
+            "annotation_id": "CG_145"
+        }
+    ]
+}

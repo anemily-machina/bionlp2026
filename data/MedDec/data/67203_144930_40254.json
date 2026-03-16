@@ -1,0 +1,650 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "67203_144930_40254",
+    "annotations": [
+        {
+            "decision": "BRBPR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 276,
+            "end_offset": 281,
+            "annotation_id": "OJ_000"
+        },
+        {
+            "decision": "colonoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 321,
+            "end_offset": 332,
+            "annotation_id": "OJ_001"
+        },
+        {
+            "decision": "h/o htn who p/w new onset BRBPR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 393,
+            "end_offset": 424,
+            "annotation_id": "OJ_002"
+        },
+        {
+            "decision": "large bowel movement followed by BRBPR which she is unable to quantify but reports that it did not fill the bowl, but was \"a lot\"",
+            "category": "Category 3: Defining problem",
+            "start_offset": 484,
+            "end_offset": 612,
+            "annotation_id": "OJ_003"
+        },
+        {
+            "decision": "tenesmus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 753,
+            "end_offset": 761,
+            "annotation_id": "OJ_004"
+        },
+        {
+            "decision": "She denied any light-headedness, abdominal pain, chest pain, nausea, vomiting, reflux",
+            "category": "Category 3: Defining problem",
+            "start_offset": 763,
+            "end_offset": 848,
+            "annotation_id": "OJ_005"
+        },
+        {
+            "decision": "NSAIDS ",
+            "category": "Category 5: Drug related",
+            "start_offset": 867,
+            "end_offset": 873,
+            "annotation_id": "OJ_006"
+        },
+        {
+            "decision": "She has no history of reflux, hematemesis, hematochezia, melena, change in stool caliber, fevers/chills, or night sweats",
+            "category": "Category 3: Defining problem",
+            "start_offset": 893,
+            "end_offset": 1013,
+            "annotation_id": "OJ_007"
+        },
+        {
+            "decision": "colonoscopy but has what sounds likes a sigmoidoscopy in the [**2158**] which per her her report showed a polyp",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1125,
+            "end_offset": 1236,
+            "annotation_id": "OJ_008"
+        },
+        {
+            "decision": "She denies any history of epistaxis or gingival bleeding after brushing teeth",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1238,
+            "end_offset": 1315,
+            "annotation_id": "OJ_009"
+        },
+        {
+            "decision": "1L NS and PIVs x 2 placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1408,
+            "end_offset": 1433,
+            "annotation_id": "OJ_010"
+        },
+        {
+            "decision": "She had ongoing oozing from rectum and passed approx 50cc of maroon colored stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1435,
+            "end_offset": 1516,
+            "annotation_id": "OJ_011"
+        },
+        {
+            "decision": "was transferred to [**Hospital1 18**] for further evaluation.",
+            "category": "Category 1: Contact related",
+            "start_offset": 1520,
+            "end_offset": 1580,
+            "annotation_id": "OJ_012"
+        },
+        {
+            "decision": "She denied CP, SOB, N/V, abd pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1634,
+            "end_offset": 1667,
+            "annotation_id": "OJ_013"
+        },
+        {
+            "decision": "NG lavage was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1669,
+            "end_offset": 1691,
+            "annotation_id": "OJ_014"
+        },
+        {
+            "decision": "pantoprazole 40mg IV ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1706,
+            "end_offset": 1726,
+            "annotation_id": "OJ_015"
+        },
+        {
+            "decision": "1LNS",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1731,
+            "end_offset": 1735,
+            "annotation_id": "OJ_016"
+        },
+        {
+            "decision": "There was some T wave flattening on ECG but no prior for comparison",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1737,
+            "end_offset": 1804,
+            "annotation_id": "OJ_017"
+        },
+        {
+            "decision": "One troponin was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1806,
+            "end_offset": 1831,
+            "annotation_id": "OJ_018"
+        },
+        {
+            "decision": "her hct fell from 34 to 30",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1886,
+            "end_offset": 1912,
+            "annotation_id": "OJ_019"
+        },
+        {
+            "decision": "transfused one unit of RBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1937,
+            "end_offset": 1964,
+            "annotation_id": "OJ_020"
+        },
+        {
+            "decision": "She was seen by GI who recommended colonoscopy for Monday morning",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 1966,
+            "end_offset": 2031,
+            "annotation_id": "OJ_021"
+        },
+        {
+            "decision": "transfer to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 2070,
+            "end_offset": 2091,
+            "annotation_id": "OJ_022"
+        },
+        {
+            "decision": "She is without complaint except for frequent loose stools",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2114,
+            "end_offset": 2171,
+            "annotation_id": "OJ_023"
+        },
+        {
+            "decision": "GoLytely",
+            "category": "Category 5: Drug related",
+            "start_offset": 2187,
+            "end_offset": 2195,
+            "annotation_id": "OJ_024"
+        },
+        {
+            "decision": "Tenesmus ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2197,
+            "end_offset": 2205,
+            "annotation_id": "OJ_025"
+        },
+        {
+            "decision": "Per HPI. Also notes red rash under breasts bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2243,
+            "end_offset": 2297,
+            "annotation_id": "OJ_026"
+        },
+        {
+            "decision": "Denies fever, chills, night sweats, recent weight loss or gain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2303,
+            "end_offset": 2365,
+            "annotation_id": "OJ_027"
+        },
+        {
+            "decision": "Denies headache, sinus tenderness, rhinorrhea or congestion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2367,
+            "end_offset": 2426,
+            "annotation_id": "OJ_028"
+        },
+        {
+            "decision": "Denies cough, shortness of breath, or wheezing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2428,
+            "end_offset": 2474,
+            "annotation_id": "OJ_029"
+        },
+        {
+            "decision": "Denies chest pain, chest pressure, palpitations, or weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2476,
+            "end_offset": 2536,
+            "annotation_id": "OJ_030"
+        },
+        {
+            "decision": "Denies nausea, vomiting",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2538,
+            "end_offset": 2561,
+            "annotation_id": "OJ_031"
+        },
+        {
+            "decision": "Denies dysuria, frequency, or urgency. Denies arthralgias or myalgias",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2563,
+            "end_offset": 2632,
+            "annotation_id": "OJ_032"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2658,
+            "end_offset": 2670,
+            "annotation_id": "OJ_033"
+        },
+        {
+            "decision": "s/p cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2694,
+            "end_offset": 2713,
+            "annotation_id": "OJ_034"
+        },
+        {
+            "decision": "s/p R salpingoophorectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2715,
+            "end_offset": 2740,
+            "annotation_id": "OJ_035"
+        },
+        {
+            "decision": "No FH of GI malignancies or illnesses. No FH CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3022,
+            "end_offset": 3070,
+            "annotation_id": "OJ_036"
+        },
+        {
+            "decision": "Alert, oriented, no acute distress, speaking in full sentences",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3164,
+            "end_offset": 3226,
+            "annotation_id": "OJ_037"
+        },
+        {
+            "decision": "Sclera anicteric, MMM, oropharynx clear, no conjuctival pallor",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3234,
+            "end_offset": 3296,
+            "annotation_id": "OJ_038"
+        },
+        {
+            "decision": "supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3303,
+            "end_offset": 3335,
+            "annotation_id": "OJ_039"
+        },
+        {
+            "decision": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3343,
+            "end_offset": 3403,
+            "annotation_id": "OJ_040"
+        },
+        {
+            "decision": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3408,
+            "end_offset": 3474,
+            "annotation_id": "OJ_041"
+        },
+        {
+            "decision": "soft, hyperactive BS, mildly distended, non-tender, no rebound tenderness or guarding, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3484,
+            "end_offset": 3586,
+            "annotation_id": "OJ_042"
+        },
+        {
+            "decision": "foley draining yellow urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3591,
+            "end_offset": 3618,
+            "annotation_id": "OJ_043"
+        },
+        {
+            "decision": "warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3624,
+            "end_offset": 3686,
+            "annotation_id": "OJ_044"
+        },
+        {
+            "decision": "Erythematous rash in intertriginous area with maceration under breasts bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3693,
+            "end_offset": 3775,
+            "annotation_id": "OJ_045"
+        },
+        {
+            "decision": "ECG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4544,
+            "end_offset": 4547,
+            "annotation_id": "OJ_046"
+        },
+        {
+            "decision": "Sinus rhythm with left axis deviation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4549,
+            "end_offset": 4586,
+            "annotation_id": "OJ_047"
+        },
+        {
+            "decision": "Diffuse T wave flattening and lateral T wave inversions may be due to myocardial ischemia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4588,
+            "end_offset": 4677,
+            "annotation_id": "OJ_048"
+        },
+        {
+            "decision": "Colonoscopy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4779,
+            "end_offset": 4790,
+            "annotation_id": "OJ_049"
+        },
+        {
+            "decision": "Excavated Lesions Multiple non-bleeding diverticula with large openings were seen in the whole colon",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4803,
+            "end_offset": 4903,
+            "annotation_id": "OJ_050"
+        },
+        {
+            "decision": "Diverticulosis appeared to be severe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4905,
+            "end_offset": 4941,
+            "annotation_id": "OJ_051"
+        },
+        {
+            "decision": "Diverticulosis of the whole colon",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4955,
+            "end_offset": 4988,
+            "annotation_id": "OJ_052"
+        },
+        {
+            "decision": "Otherwise normal colonoscopy to cecum.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4991,
+            "end_offset": 5028,
+            "annotation_id": "OJ_053"
+        },
+        {
+            "decision": "past medical history of hypertension who presented with a lower GI bleed.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5100,
+            "end_offset": 5172,
+            "annotation_id": "OJ_054"
+        },
+        {
+            "decision": "LGIB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5177,
+            "end_offset": 5181,
+            "annotation_id": "OJ_055"
+        },
+        {
+            "decision": "painless BRBPR and maroon colored stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5210,
+            "end_offset": 5249,
+            "annotation_id": "OJ_056"
+        },
+        {
+            "decision": "Negative NG lavage ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5251,
+            "end_offset": 5269,
+            "annotation_id": "OJ_057"
+        },
+        {
+            "decision": "hemodynamic instability suggested a LGIB.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5278,
+            "end_offset": 5318,
+            "annotation_id": "OJ_058"
+        },
+        {
+            "decision": "transfused one unit of RBCs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5430,
+            "end_offset": 5457,
+            "annotation_id": "OJ_059"
+        },
+        {
+            "decision": "falling hematocrit (from 34 to 30)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5464,
+            "end_offset": 5497,
+            "annotation_id": "OJ_060"
+        },
+        {
+            "decision": "Her hematocrit bumped appropriately ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5564,
+            "end_offset": 5599,
+            "annotation_id": "OJ_061"
+        },
+        {
+            "decision": "she stopped having maroon colored stools",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5604,
+            "end_offset": 5644,
+            "annotation_id": "OJ_062"
+        },
+        {
+            "decision": "colonoscopy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5667,
+            "end_offset": 5678,
+            "annotation_id": "OJ_063"
+        },
+        {
+            "decision": "transferred to the general medicine floor",
+            "category": "Category 1: Contact related",
+            "start_offset": 5683,
+            "end_offset": 5724,
+            "annotation_id": "OJ_064"
+        },
+        {
+            "decision": "She underwent colonoscopy showing severe diverticulosis, but no active bleeding",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5727,
+            "end_offset": 5806,
+            "annotation_id": "OJ_065"
+        },
+        {
+            "decision": "She will follow-up with her PCP.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5809,
+            "end_offset": 5840,
+            "annotation_id": "OJ_066"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5846,
+            "end_offset": 5858,
+            "annotation_id": "OJ_067"
+        },
+        {
+            "decision": "long-standing hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5876,
+            "end_offset": 5902,
+            "annotation_id": "OJ_068"
+        },
+        {
+            "decision": "atenolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5909,
+            "end_offset": 5917,
+            "annotation_id": "OJ_069"
+        },
+        {
+            "decision": "GI Bleed and she was hypertensive to SBPs 150s-180s.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5949,
+            "end_offset": 6000,
+            "annotation_id": "OJ_070"
+        },
+        {
+            "decision": "atenolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6033,
+            "end_offset": 6041,
+            "annotation_id": "OJ_071"
+        },
+        {
+            "decision": "She will follow-up with her PCP",
+            "category": "Category 1: Contact related",
+            "start_offset": 6063,
+            "end_offset": 6094,
+            "annotation_id": "OJ_072"
+        },
+        {
+            "decision": "Intertrigo",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6100,
+            "end_offset": 6110,
+            "annotation_id": "OJ_073"
+        },
+        {
+            "decision": "erythematous rash under her breasts consistent with [**Female First Name (un) **].  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6131,
+            "end_offset": 6212,
+            "annotation_id": "OJ_074"
+        },
+        {
+            "decision": "Miconazole powder [**Hospital1 **] prn.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6215,
+            "end_offset": 6253,
+            "annotation_id": "OJ_075"
+        },
+        {
+            "decision": "Atenolol",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6310,
+            "end_offset": 6318,
+            "annotation_id": "OJ_076"
+        },
+        {
+            "decision": "Vitamin C and E",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6320,
+            "end_offset": 6335,
+            "annotation_id": "OJ_077"
+        },
+        {
+            "decision": "No OTC or herbal medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 6337,
+            "end_offset": 6365,
+            "annotation_id": "OJ_078"
+        },
+        {
+            "decision": "atenolol 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6394,
+            "end_offset": 6457,
+            "annotation_id": "OJ_079"
+        },
+        {
+            "decision": "miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for rash for 5 days: apply to rash two times per day. Disp:*1 bottle* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6463,
+            "end_offset": 6643,
+            "annotation_id": "OJ_080"
+        },
+        {
+            "decision": "Lower GI Bleed, Diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6715,
+            "end_offset": 6745,
+            "annotation_id": "OJ_081"
+        },
+        {
+            "decision": "GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6767,
+            "end_offset": 6775,
+            "annotation_id": "OJ_082"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6799,
+            "end_offset": 6832,
+            "annotation_id": "OJ_083"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6834,
+            "end_offset": 6879,
+            "annotation_id": "OJ_084"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6881,
+            "end_offset": 6922,
+            "annotation_id": "OJ_085"
+        },
+        {
+            "decision": "bleed from your gastrointestinal tract",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6990,
+            "end_offset": 7028,
+            "annotation_id": "OJ_086"
+        },
+        {
+            "decision": "You were admitted to the medical intensive care unit ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7031,
+            "end_offset": 7083,
+            "annotation_id": "OJ_087"
+        },
+        {
+            "decision": "transfused one unit of blood.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7103,
+            "end_offset": 7131,
+            "annotation_id": "OJ_088"
+        },
+        {
+            "decision": "You were taken for colonoscopy which showed a condition called diverticulosis -- small outpouchings of the colon that can bleed.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7134,
+            "end_offset": 7261,
+            "annotation_id": "OJ_089"
+        },
+        {
+            "decision": "You will follow-up with your primary care doctor. .",
+            "category": "Category 1: Contact related",
+            "start_offset": 7307,
+            "end_offset": 7356,
+            "annotation_id": "OJ_090"
+        },
+        {
+            "decision": "Name: [**Last Name (LF) **],[**First Name3 (LF) **] F. Address: 596 [**Last Name (LF) **], [**First Name3 (LF) **],[**Numeric Identifier 32821**] Phone: [**Telephone/Fax (1) 88361**] Appointment: Monday [**10-28**] at 10:00AM",
+            "category": "Category 1: Contact related",
+            "start_offset": 7425,
+            "end_offset": 7650,
+            "annotation_id": "OJ_091"
+        }
+    ]
+}

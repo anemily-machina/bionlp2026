@@ -1,0 +1,1665 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "32195_198333_31289",
+    "annotations": [
+        {
+            "decision": "Hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 227,
+            "end_offset": 240,
+            "annotation_id": "KS_000"
+        },
+        {
+            "decision": "A-line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 280,
+            "end_offset": 296,
+            "annotation_id": "KS_001"
+        },
+        {
+            "decision": "DM1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 338,
+            "end_offset": 341,
+            "annotation_id": "KS_002"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 343,
+            "end_offset": 347,
+            "annotation_id": "KS_003"
+        },
+        {
+            "decision": "on PD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 348,
+            "end_offset": 353,
+            "annotation_id": "KS_004"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 355,
+            "end_offset": 358,
+            "annotation_id": "KS_005"
+        },
+        {
+            "decision": "hypercholesterolemia p/w persistent hyperglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 360,
+            "end_offset": 409,
+            "annotation_id": "KS_006"
+        },
+        {
+            "decision": "FSBG have been elevated ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 411,
+            "end_offset": 434,
+            "annotation_id": "KS_007"
+        },
+        {
+            "decision": "insulin regimen.",
+            "category": "Category 5: Drug related",
+            "start_offset": 567,
+            "end_offset": 582,
+            "annotation_id": "KS_008"
+        },
+        {
+            "decision": "EKG was without ischemic changes ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1189,
+            "end_offset": 1221,
+            "annotation_id": "KS_009"
+        },
+        {
+            "decision": "CP resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1226,
+            "end_offset": 1237,
+            "annotation_id": "KS_010"
+        },
+        {
+            "decision": "SL nitro, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1243,
+            "end_offset": 1251,
+            "annotation_id": "KS_011"
+        },
+        {
+            "decision": " ASA, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1253,
+            "end_offset": 1256,
+            "annotation_id": "KS_012"
+        },
+        {
+            "decision": "beta-blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 1258,
+            "end_offset": 1270,
+            "annotation_id": "KS_013"
+        },
+        {
+            "decision": "without AG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1321,
+            "end_offset": 1331,
+            "annotation_id": "KS_014"
+        },
+        {
+            "decision": "In the setting of her hyperglycemia and chest pain, she was ruled out for MI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1448,
+            "end_offset": 1524,
+            "annotation_id": "KS_015"
+        },
+        {
+            "decision": "x 3 sets of negative cardiac enzymes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1525,
+            "end_offset": 1561,
+            "annotation_id": "KS_016"
+        },
+        {
+            "decision": "urine HCG was negative as was serum confirmation.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1577,
+            "end_offset": 1625,
+            "annotation_id": "KS_017"
+        },
+        {
+            "decision": "Blood cultures were sent and have shown NGTD",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1627,
+            "end_offset": 1671,
+            "annotation_id": "KS_018"
+        },
+        {
+            "decision": "Peritoneal fluid was sent on [**7-23**] and revealed 1 WBC; gram stain was negative however culture grew sparse GNRs.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1673,
+            "end_offset": 1789,
+            "annotation_id": "KS_019"
+        },
+        {
+            "decision": "repeat peritoneal specimen was sent on [**7-24**] without any WBCS again with negative gram stain and cultures are outstanding. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1793,
+            "end_offset": 1919,
+            "annotation_id": "KS_020"
+        },
+        {
+            "decision": "1 dose of IP ceftazidime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1934,
+            "end_offset": 1958,
+            "annotation_id": "KS_021"
+        },
+        {
+            "decision": "mild sinus tenderness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2021,
+            "end_offset": 2042,
+            "annotation_id": "KS_022"
+        },
+        {
+            "decision": "CT sinus was negative for acute sinusitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2052,
+            "end_offset": 2093,
+            "annotation_id": "KS_023"
+        },
+        {
+            "decision": "She was initially started on novolog/humalog standing in addition to humalog SS ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2095,
+            "end_offset": 2174,
+            "annotation_id": "KS_024"
+        },
+        {
+            "decision": "BS continued to climb into the 500s range and she transiently developed an AG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2183,
+            "end_offset": 2260,
+            "annotation_id": "KS_025"
+        },
+        {
+            "decision": "started on insulin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 2287,
+            "end_offset": 2309,
+            "annotation_id": "KS_026"
+        },
+        {
+            "decision": "AG closed with the initiation of insulin gtt, she was requiring up to 430units/hour ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2337,
+            "end_offset": 2420,
+            "annotation_id": "KS_027"
+        },
+        {
+            "decision": "she received 1L NS in the ED and then received approximately 2.5L while on the floor ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2499,
+            "end_offset": 2583,
+            "annotation_id": "KS_028"
+        },
+        {
+            "decision": "unconcentrated insulin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 2599,
+            "end_offset": 2625,
+            "annotation_id": "KS_029"
+        },
+        {
+            "decision": "concern for volume overload ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2633,
+            "end_offset": 2660,
+            "annotation_id": "KS_030"
+        },
+        {
+            "decision": "due to volume from insulin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 2661,
+            "end_offset": 2691,
+            "annotation_id": "KS_031"
+        },
+        {
+            "decision": "she was not further fluid resuscitated ",
+            "category": "Category 8: Deferment",
+            "start_offset": 2693,
+            "end_offset": 2731,
+            "annotation_id": "KS_032"
+        },
+        {
+            "decision": "is now being transferred to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2736,
+            "end_offset": 2771,
+            "annotation_id": "KS_033"
+        },
+        {
+            "decision": "for concentrated insulin gtt.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2772,
+            "end_offset": 2800,
+            "annotation_id": "KS_034"
+        },
+        {
+            "decision": "DM1 (last A1c 10.7%) c/b neuropathy, nephropathy, retinopathy w/ left eye blindness ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2827,
+            "end_offset": 2910,
+            "annotation_id": "KS_035"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2981,
+            "end_offset": 2985,
+            "annotation_id": "KS_036"
+        },
+        {
+            "decision": "on PD ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2986,
+            "end_offset": 2991,
+            "annotation_id": "KS_037"
+        },
+        {
+            "decision": "She is O positive. CMV and EBV positive, hepatitis A, B, C and HIV are negative. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3164,
+            "end_offset": 3243,
+            "annotation_id": "KS_038"
+        },
+        {
+            "decision": "She has 0% PRA. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3245,
+            "end_offset": 3259,
+            "annotation_id": "KS_039"
+        },
+        {
+            "decision": "She had a normal Pap, normal EKG. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3261,
+            "end_offset": 3293,
+            "annotation_id": "KS_040"
+        },
+        {
+            "decision": "Stress test with no reperfusion.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3295,
+            "end_offset": 3326,
+            "annotation_id": "KS_041"
+        },
+        {
+            "decision": "Cardiac echo demonstrated normal EF of 50-60% with some diastolic dysfunction in left ventricle with no valvular disease.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3328,
+            "end_offset": 3448,
+            "annotation_id": "KS_042"
+        },
+        {
+            "decision": "-Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3450,
+            "end_offset": 3463,
+            "annotation_id": "KS_043"
+        },
+        {
+            "decision": "-Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3464,
+            "end_offset": 3479,
+            "annotation_id": "KS_044"
+        },
+        {
+            "decision": "-Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3497,
+            "end_offset": 3508,
+            "annotation_id": "KS_045"
+        },
+        {
+            "decision": "General: Sitting up in bed, awake, alert, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4039,
+            "end_offset": 4084,
+            "annotation_id": "KS_046"
+        },
+        {
+            "decision": "HEENT: PERRL, EOMI, anicteric sclera, conjunctivae pink, round face",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4085,
+            "end_offset": 4152,
+            "annotation_id": "KS_047"
+        },
+        {
+            "decision": "Neck: supple, trachea midline, no thyromegaly or masses, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4153,
+            "end_offset": 4216,
+            "annotation_id": "KS_048"
+        },
+        {
+            "decision": "Cardiac:  Sinus tachy, no mrg appreciated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4218,
+            "end_offset": 4259,
+            "annotation_id": "KS_049"
+        },
+        {
+            "decision": "Pulmonary: fine rales left lung base, no wheezes/rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4260,
+            "end_offset": 4316,
+            "annotation_id": "KS_050"
+        },
+        {
+            "decision": "Abdomen: +BS, soft, nontender, distended with PD fluid, PD tube site looks clean",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4317,
+            "end_offset": 4397,
+            "annotation_id": "KS_051"
+        },
+        {
+            "decision": "with PD fluid, PD tube site looks clean",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4358,
+            "end_offset": 4397,
+            "annotation_id": "KS_052"
+        },
+        {
+            "decision": "Extremities: warm, 2+ DP pulses, trace b/l LE edema, extremities without significant subcutaneous fat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4398,
+            "end_offset": 4499,
+            "annotation_id": "KS_053"
+        },
+        {
+            "decision": "Neuro: A&Ox3, speech clear and logical, CNII-XII intact, moves all extremities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4500,
+            "end_offset": 4578,
+            "annotation_id": "KS_054"
+        },
+        {
+            "decision": "CT sinus:  Minimal mucosal thickening of the bilateral maxillary sinuses.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4626,
+            "end_offset": 4698,
+            "annotation_id": "KS_055"
+        },
+        {
+            "decision": "No air-fluid levels to suggest acute sinusitis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4701,
+            "end_offset": 4747,
+            "annotation_id": "KS_056"
+        },
+        {
+            "decision": "CXR: PA and lateral chest radiographs are reviewed without comparison.  Allowing for low lung volumes and body habitus, cardiomediastinal contours are within normal limits. Pulmonary vascularity is normal. Lungs are clear.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4767,
+            "end_offset": 4988,
+            "annotation_id": "KS_057"
+        },
+        {
+            "decision": "There is no pleural effusion or pneumothorax. IMPRESSION: No acute cardiopulmonary process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4991,
+            "end_offset": 5081,
+            "annotation_id": "KS_058"
+        },
+        {
+            "decision": "there has been some decrease in the diffuse bilateral pulmonary opacifications, though a substantial residual persists. Enlargement of the cardiac silhouette is again seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5149,
+            "end_offset": 5320,
+            "annotation_id": "KS_059"
+        },
+        {
+            "decision": "CXR:  In comparison with the study of [**8-1**], there has been some decrease in the diffuse bilateral pulmonary opacifications, though a substantial residual persists. Enlargement of the cardiac silhouette is again seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5100,
+            "end_offset": 5320,
+            "annotation_id": "KS_060"
+        },
+        {
+            "decision": "The radiographic findings are most consistent with improving pulmonary edema, though this pattern could also be a manifestation of ARDS.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5322,
+            "end_offset": 5457,
+            "annotation_id": "KS_061"
+        },
+        {
+            "decision": "Echo:  The left atrium and right atrium are normal in cavity size.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5477,
+            "end_offset": 5542,
+            "annotation_id": "KS_062"
+        },
+        {
+            "decision": "No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy with normal cavity size. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5544,
+            "end_offset": 5732,
+            "annotation_id": "KS_063"
+        },
+        {
+            "decision": "Regional left ventricular wall motion is normal. Overall left ventricular systolic function is low normal (LVEF 50-55%). The estimated cardiac index is normal(>=2.5L/min/m2). Right ventricular chamber size and free wall motion arenormal. The aortic valve leaflets appear structurally normal with good leaflet excursion. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5734,
+            "end_offset": 6052,
+            "annotation_id": "KS_064"
+        },
+        {
+            "decision": "No aortic regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6054,
+            "end_offset": 6085,
+            "annotation_id": "KS_065"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6135,
+            "end_offset": 6171,
+            "annotation_id": "KS_066"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6087,
+            "end_offset": 6235,
+            "annotation_id": "KS_067"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6237,
+            "end_offset": 6269,
+            "annotation_id": "KS_068"
+        },
+        {
+            "decision": "Normal biventricular cavity sizes with preserved regional and low normal global systolic function. No intracardiac shunt identified",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6309,
+            "end_offset": 6440,
+            "annotation_id": "KS_069"
+        },
+        {
+            "decision": "V/Q scan:  Normal study without evidence of pulmonary embolism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6460,
+            "end_offset": 6522,
+            "annotation_id": "KS_070"
+        },
+        {
+            "decision": "[**2158-7-20**] 11:00PM URINE  UCG-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7119,
+            "end_offset": 7162,
+            "annotation_id": "KS_071"
+        },
+        {
+            "decision": "DM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7189,
+            "end_offset": 7191,
+            "annotation_id": "KS_072"
+        },
+        {
+            "decision": "the patient received her outpatient insulin regimen",
+            "category": "Category 5: Drug related",
+            "start_offset": 7265,
+            "end_offset": 7316,
+            "annotation_id": "KS_073"
+        },
+        {
+            "decision": "her FS continued to climb into the 500s ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7322,
+            "end_offset": 7361,
+            "annotation_id": "KS_074"
+        },
+        {
+            "decision": "briefly developed an AG which seemed less related to her BG as it was in the 200s at that time",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7413,
+            "end_offset": 7507,
+            "annotation_id": "KS_075"
+        },
+        {
+            "decision": "Insulin gtt was started, and she was requiring 400-500 U/h",
+            "category": "Category 5: Drug related",
+            "start_offset": 7510,
+            "end_offset": 7568,
+            "annotation_id": "KS_076"
+        },
+        {
+            "decision": "development of volume overload with such large amounts of fluid with insulin gtt",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7593,
+            "end_offset": 7673,
+            "annotation_id": "KS_077"
+        },
+        {
+            "decision": "with insulin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 7657,
+            "end_offset": 7673,
+            "annotation_id": "KS_078"
+        },
+        {
+            "decision": "transferred to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7683,
+            "end_offset": 7705,
+            "annotation_id": "KS_079"
+        },
+        {
+            "decision": "management of much concentrated insulin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 7737,
+            "end_offset": 7780,
+            "annotation_id": "KS_080"
+        },
+        {
+            "decision": "insulin gtt rates of up to 550 units/hour",
+            "category": "Category 5: Drug related",
+            "start_offset": 7791,
+            "end_offset": 7832,
+            "annotation_id": "KS_081"
+        },
+        {
+            "decision": "glucose remained elevated initially to the 400-500 range despite uptitration",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7838,
+            "end_offset": 7914,
+            "annotation_id": "KS_082"
+        },
+        {
+            "decision": "Given lack of BS response to escalating doses of insulin gtt, it was held at a stable dose ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7917,
+            "end_offset": 8007,
+            "annotation_id": "KS_083"
+        },
+        {
+            "decision": "and her BS began to fall into the 200s",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8008,
+            "end_offset": 8046,
+            "annotation_id": "KS_084"
+        },
+        {
+            "decision": "insulin gtt was then decreased ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8053,
+            "end_offset": 8083,
+            "annotation_id": "KS_085"
+        },
+        {
+            "decision": "BS was stable in the 200s with decrease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8101,
+            "end_offset": 8140,
+            "annotation_id": "KS_086"
+        },
+        {
+            "decision": "transitioned back to SC insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8150,
+            "end_offset": 8181,
+            "annotation_id": "KS_087"
+        },
+        {
+            "decision": "PD fluid ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8363,
+            "end_offset": 8371,
+            "annotation_id": "KS_088"
+        },
+        {
+            "decision": "regular insulin was added to her PD fluid given the dextrose contented and was uptitrated to 30 Units with each dwell.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8330,
+            "end_offset": 8447,
+            "annotation_id": "KS_089"
+        },
+        {
+            "decision": "Actos was briefly held in the setting of volume overload, however was restarted ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8450,
+            "end_offset": 8529,
+            "annotation_id": "KS_090"
+        },
+        {
+            "decision": "prior to transfer to the floor. She was transferred to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 8530,
+            "end_offset": 8594,
+            "annotation_id": "KS_091"
+        },
+        {
+            "decision": "stable SC insulin regimen and PD insulin dose with stable finger sticks in the low 200s.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8598,
+            "end_offset": 8685,
+            "annotation_id": "KS_092"
+        },
+        {
+            "decision": "with stable finger sticks in the low 200s.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8644,
+            "end_offset": 8685,
+            "annotation_id": "KS_093"
+        },
+        {
+            "decision": "SS was changed to humalog, SS and lantus were adjusted upward, and her PD insulin DCed",
+            "category": "Category 5: Drug related",
+            "start_offset": 8697,
+            "end_offset": 8783,
+            "annotation_id": "KS_094"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9028,
+            "end_offset": 9039,
+            "annotation_id": "KS_095"
+        },
+        {
+            "decision": "she did have enterobacter in her peritoneal fluid, subsequent sample even prior to antibiotics was negative ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8945,
+            "end_offset": 9052,
+            "annotation_id": "KS_096"
+        },
+        {
+            "decision": "the etiology of the acute worsening of insulin resistance was not determined. Although she did have enterobacter in her peritoneal fluid, subsequent sample even prior to antibiotics was negative and, thus, unlikely precipitant",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8858,
+            "end_offset": 9084,
+            "annotation_id": "KS_097"
+        },
+        {
+            "decision": "ruled out for MI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9132,
+            "end_offset": 9148,
+            "annotation_id": "KS_098"
+        },
+        {
+            "decision": "HCG was negative.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9167,
+            "end_offset": 9183,
+            "annotation_id": "KS_099"
+        },
+        {
+            "decision": " Insulin antibodies were sent and were negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9186,
+            "end_offset": 9232,
+            "annotation_id": "KS_100"
+        },
+        {
+            "decision": "Leptin level was sent and is outstanding ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9234,
+            "end_offset": 9274,
+            "annotation_id": "KS_101"
+        },
+        {
+            "decision": "Hypoxia/ARDS:  Developed after nearly 1 week ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9363,
+            "end_offset": 9407,
+            "annotation_id": "KS_102"
+        },
+        {
+            "decision": "BNP and troponin were both elevated,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9421,
+            "end_offset": 9456,
+            "annotation_id": "KS_103"
+        },
+        {
+            "decision": "so fluid overload was thought to be contributing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9458,
+            "end_offset": 9506,
+            "annotation_id": "KS_104"
+        },
+        {
+            "decision": "found to be bacteremic, so an ARDS component was thought likely; ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9529,
+            "end_offset": 9592,
+            "annotation_id": "KS_105"
+        },
+        {
+            "decision": "CXR consistent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9594,
+            "end_offset": 9608,
+            "annotation_id": "KS_106"
+        },
+        {
+            "decision": "TTE was performed and showed EF 50-55% and mild LVH and was without intracardiac shunt",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9610,
+            "end_offset": 9696,
+            "annotation_id": "KS_107"
+        },
+        {
+            "decision": "Actos and CCB were held in this setting",
+            "category": "Category 5: Drug related",
+            "start_offset": 9699,
+            "end_offset": 9738,
+            "annotation_id": "KS_108"
+        },
+        {
+            "decision": "pt was given supplemental O2 by facemask",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9744,
+            "end_offset": 9784,
+            "annotation_id": "KS_109"
+        },
+        {
+            "decision": "Additional fluid was removed via PD by alternating 1.5% and 2.5% dextrose solution",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9787,
+            "end_offset": 9869,
+            "annotation_id": "KS_110"
+        },
+        {
+            "decision": "bacteremia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9875,
+            "end_offset": 9885,
+            "annotation_id": "KS_111"
+        },
+        {
+            "decision": "slowly weaned from O2 and left the ICU on 5 L NC, quickly tapered over 2 days to room air with O2 sats >95%",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9907,
+            "end_offset": 10013,
+            "annotation_id": "KS_112"
+        },
+        {
+            "decision": "Bacteremia:   ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10019,
+            "end_offset": 10029,
+            "annotation_id": "KS_113"
+        },
+        {
+            "decision": "Blood cx grew [**5-12**] MRSE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10033,
+            "end_offset": 10062,
+            "annotation_id": "KS_114"
+        },
+        {
+            "decision": "source thought to be A-line which was removed.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10064,
+            "end_offset": 10109,
+            "annotation_id": "KS_115"
+        },
+        {
+            "decision": "Bacteremia:   Blood cx grew [**5-12**] MRSE, source thought to be A-line which was removed.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10019,
+            "end_offset": 10109,
+            "annotation_id": "KS_116"
+        },
+        {
+            "decision": "Vancomycin was continued for a total of 7 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 10112,
+            "end_offset": 10158,
+            "annotation_id": "KS_117"
+        },
+        {
+            "decision": "Follow-up surveillance cultures were persistently negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10161,
+            "end_offset": 10218,
+            "annotation_id": "KS_118"
+        },
+        {
+            "decision": "Elevated troponin/EKG changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10224,
+            "end_offset": 10253,
+            "annotation_id": "KS_119"
+        },
+        {
+            "decision": "initially r/o for MI by EKG and enzymes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10263,
+            "end_offset": 10302,
+            "annotation_id": "KS_120"
+        },
+        {
+            "decision": "decompensation and hypoxia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10348,
+            "end_offset": 10374,
+            "annotation_id": "KS_121"
+        },
+        {
+            "decision": "troponin was stably elevated 0.16 with elevated BNP",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10388,
+            "end_offset": 10439,
+            "annotation_id": "KS_122"
+        },
+        {
+            "decision": ", troponin was stably elevated 0.16 with elevated BNP thought to be [**3-11**] fluid overload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10388,
+            "end_offset": 10479,
+            "annotation_id": "KS_123"
+        },
+        {
+            "decision": "Initial review of EKG was concerning for lateral STD, but further review showed that they were present on admission",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10482,
+            "end_offset": 10597,
+            "annotation_id": "KS_124"
+        },
+        {
+            "decision": "Sinus tach:  .Pt with pulse 100-130 in the setting of fever/bacteremia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10603,
+            "end_offset": 10673,
+            "annotation_id": "KS_125"
+        },
+        {
+            "decision": "Tylenol (NSAIDS avoided).  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10698,
+            "end_offset": 10721,
+            "annotation_id": "KS_126"
+        },
+        {
+            "decision": "Beta blockade was continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 10725,
+            "end_offset": 10752,
+            "annotation_id": "KS_127"
+        },
+        {
+            "decision": "tachycardia resolved with treatment of infection.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10754,
+            "end_offset": 10802,
+            "annotation_id": "KS_128"
+        },
+        {
+            "decision": "Dyslipidemia:  Pt. with lipodystrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10808,
+            "end_offset": 10845,
+            "annotation_id": "KS_129"
+        },
+        {
+            "decision": "TGs  were markedly elevated to 7000s,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10848,
+            "end_offset": 10883,
+            "annotation_id": "KS_130"
+        },
+        {
+            "decision": "and plans were made for pheresis  if necessary.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10886,
+            "end_offset": 10932,
+            "annotation_id": "KS_131"
+        },
+        {
+            "decision": "zero fat diet, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10950,
+            "end_offset": 10963,
+            "annotation_id": "KS_132"
+        },
+        {
+            "decision": "TGs came down to ~1000 ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10969,
+            "end_offset": 10991,
+            "annotation_id": "KS_133"
+        },
+        {
+            "decision": "without the need for pheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10992,
+            "end_offset": 11021,
+            "annotation_id": "KS_134"
+        },
+        {
+            "decision": " Statin and Tricor were continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 11024,
+            "end_offset": 11056,
+            "annotation_id": "KS_135"
+        },
+        {
+            "decision": "omega-3 fatty acids added",
+            "category": "Category 5: Drug related",
+            "start_offset": 11058,
+            "end_offset": 11083,
+            "annotation_id": "KS_136"
+        },
+        {
+            "decision": "ESRD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11089,
+            "end_offset": 11093,
+            "annotation_id": "KS_137"
+        },
+        {
+            "decision": "on PD:  PD  was continued (CAPD",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11094,
+            "end_offset": 11125,
+            "annotation_id": "KS_138"
+        },
+        {
+            "decision": "pt followed by the renal team throughout her stay.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11128,
+            "end_offset": 11177,
+            "annotation_id": "KS_139"
+        },
+        {
+            "decision": "Cultures of PD fluid grew enterobacter, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11180,
+            "end_offset": 11218,
+            "annotation_id": "KS_140"
+        },
+        {
+            "decision": "received 12 days of IP ceftazidime",
+            "category": "Category 5: Drug related",
+            "start_offset": 11227,
+            "end_offset": 11261,
+            "annotation_id": "KS_141"
+        },
+        {
+            "decision": "Sevelamer was discontinued while PO intake was poor, restarted on discharge",
+            "category": "Category 5: Drug related",
+            "start_offset": 11263,
+            "end_offset": 11338,
+            "annotation_id": "KS_142"
+        },
+        {
+            "decision": "Calcitriol and aranesp were continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 11341,
+            "end_offset": 11378,
+            "annotation_id": "KS_143"
+        },
+        {
+            "decision": "NSAIDS were avoided ",
+            "category": "Category 5: Drug related",
+            "start_offset": 11381,
+            "end_offset": 11400,
+            "annotation_id": "KS_144"
+        },
+        {
+            "decision": " residual renal function",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11407,
+            "end_offset": 11430,
+            "annotation_id": "KS_145"
+        },
+        {
+            "decision": "home PD cycler ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11464,
+            "end_offset": 11478,
+            "annotation_id": "KS_146"
+        },
+        {
+            "decision": "follow-up with her PD nurse.",
+            "category": "Category 1: Contact related",
+            "start_offset": 11498,
+            "end_offset": 11525,
+            "annotation_id": "KS_147"
+        },
+        {
+            "decision": "Pt was instructed to return to home PD cycler on discharge, with follow-up with her PD nurse.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 11433,
+            "end_offset": 11525,
+            "annotation_id": "KS_148"
+        },
+        {
+            "decision": "Anemia/Thrombocytopenia:  Thought to be [**3-11**] underlying renal dz, no evidence of bleeding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11531,
+            "end_offset": 11626,
+            "annotation_id": "KS_149"
+        },
+        {
+            "decision": "received 1 U PRBC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11632,
+            "end_offset": 11649,
+            "annotation_id": "KS_150"
+        },
+        {
+            "decision": "Iron/aranesp were continued.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11651,
+            "end_offset": 11678,
+            "annotation_id": "KS_151"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11684,
+            "end_offset": 11687,
+            "annotation_id": "KS_152"
+        },
+        {
+            "decision": "Metoprolol was continued",
+            "category": "Category 5: Drug related",
+            "start_offset": 11690,
+            "end_offset": 11714,
+            "annotation_id": "KS_153"
+        },
+        {
+            "decision": "CCB held",
+            "category": "Category 5: Drug related",
+            "start_offset": 11716,
+            "end_offset": 11724,
+            "annotation_id": "KS_154"
+        },
+        {
+            "decision": "fluid overload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11739,
+            "end_offset": 11753,
+            "annotation_id": "KS_155"
+        },
+        {
+            "decision": "Hyponatremia:  Normalized with improved BS control",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11759,
+            "end_offset": 11809,
+            "annotation_id": "KS_156"
+        },
+        {
+            "decision": "Pseudohyponatremia in the setting of both marked hyperglycemia as well as elevated TGs.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11811,
+            "end_offset": 11897,
+            "annotation_id": "KS_157"
+        },
+        {
+            "decision": "elevated TGs.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11885,
+            "end_offset": 11897,
+            "annotation_id": "KS_158"
+        },
+        {
+            "decision": "Probable OSA:  Pt had witnessed apneic episodes while sleeping with mild desats",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11903,
+            "end_offset": 11982,
+            "annotation_id": "KS_159"
+        },
+        {
+            "decision": "Will need outpatient sleep study.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 11985,
+            "end_offset": 12017,
+            "annotation_id": "KS_160"
+        },
+        {
+            "decision": "Yeast infection:",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12023,
+            "end_offset": 12038,
+            "annotation_id": "KS_161"
+        },
+        {
+            "decision": "  >100K yeast on urine cx with negative UA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12042,
+            "end_offset": 12081,
+            "annotation_id": "KS_162"
+        },
+        {
+            "decision": "given fluconazole x 3 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 12119,
+            "end_offset": 12145,
+            "annotation_id": "KS_163"
+        },
+        {
+            "decision": "Seborrheic dermatisi:  Pt endorsed scalp itching and was noted to have erythematous, flaky scalp",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12151,
+            "end_offset": 12247,
+            "annotation_id": "KS_164"
+        },
+        {
+            "decision": "erythematous, flaky scalp",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12222,
+            "end_offset": 12247,
+            "annotation_id": "KS_165"
+        },
+        {
+            "decision": "Ketoconazole shampoo",
+            "category": "Category 5: Drug related",
+            "start_offset": 12250,
+            "end_offset": 12270,
+            "annotation_id": "KS_166"
+        },
+        {
+            "decision": "Neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12284,
+            "end_offset": 12294,
+            "annotation_id": "KS_167"
+        },
+        {
+            "decision": "Lyrica and nortriptyline were continued.",
+            "category": "Category 5: Drug related",
+            "start_offset": 12296,
+            "end_offset": 12335,
+            "annotation_id": "KS_168"
+        },
+        {
+            "decision": "Nortriptyline 10mg [**Hospital1 **], 30 mg qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 12365,
+            "end_offset": 12411,
+            "annotation_id": "KS_169"
+        },
+        {
+            "decision": "Iron 325 mg tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12412,
+            "end_offset": 12427,
+            "annotation_id": "KS_170"
+        },
+        {
+            "decision": "Lasix 40mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12428,
+            "end_offset": 12438,
+            "annotation_id": "KS_171"
+        },
+        {
+            "decision": "Calcitriol 0.5mcg qam",
+            "category": "Category 5: Drug related",
+            "start_offset": 12456,
+            "end_offset": 12477,
+            "annotation_id": "KS_172"
+        },
+        {
+            "decision": "Renagel 400mg tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12478,
+            "end_offset": 12495,
+            "annotation_id": "KS_173"
+        },
+        {
+            "decision": "Crestor 20mg qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 12496,
+            "end_offset": 12512,
+            "annotation_id": "KS_174"
+        },
+        {
+            "decision": "Colace 100mg ",
+            "category": "Category 5: Drug related",
+            "start_offset": 12513,
+            "end_offset": 12525,
+            "annotation_id": "KS_175"
+        },
+        {
+            "decision": "Lyrica 150mg tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 12543,
+            "end_offset": 12559,
+            "annotation_id": "KS_176"
+        },
+        {
+            "decision": "Trazadone 100mg qhs prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12560,
+            "end_offset": 12583,
+            "annotation_id": "KS_177"
+        },
+        {
+            "decision": "Zofran 8mg po q8h prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12584,
+            "end_offset": 12605,
+            "annotation_id": "KS_178"
+        },
+        {
+            "decision": "Atenolol 12.5mg qam",
+            "category": "Category 5: Drug related",
+            "start_offset": 12606,
+            "end_offset": 12625,
+            "annotation_id": "KS_179"
+        },
+        {
+            "decision": "Humalog R U500 24 units sc lunch and qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 12626,
+            "end_offset": 12666,
+            "annotation_id": "KS_180"
+        },
+        {
+            "decision": "Novolog 12 units sc breakfast and dinner",
+            "category": "Category 5: Drug related",
+            "start_offset": 12667,
+            "end_offset": 12707,
+            "annotation_id": "KS_181"
+        },
+        {
+            "decision": "Actos 30mg qam",
+            "category": "Category 5: Drug related",
+            "start_offset": 12708,
+            "end_offset": 12722,
+            "annotation_id": "KS_182"
+        },
+        {
+            "decision": "Reglan 5mg qid prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12723,
+            "end_offset": 12741,
+            "annotation_id": "KS_183"
+        },
+        {
+            "decision": "Percocet 5-325 q3h prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12742,
+            "end_offset": 12764,
+            "annotation_id": "KS_184"
+        },
+        {
+            "decision": "Peritoneal dialysis 4-6x/day",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12765,
+            "end_offset": 12793,
+            "annotation_id": "KS_185"
+        },
+        {
+            "decision": "Gentamycin cream 0.1% prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 12794,
+            "end_offset": 12819,
+            "annotation_id": "KS_186"
+        },
+        {
+            "decision": "1. Nortriptyline 10 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12845,
+            "end_offset": 12918,
+            "annotation_id": "KS_187"
+        },
+        {
+            "decision": "2. Nortriptyline 10 mg Capsule Sig: Three (3) Capsule PO HS (at bedtime).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12921,
+            "end_offset": 12992,
+            "annotation_id": "KS_188"
+        },
+        {
+            "decision": "3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12995,
+            "end_offset": 13082,
+            "annotation_id": "KS_189"
+        },
+        {
+            "decision": "4. Calcitriol 0.5 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13085,
+            "end_offset": 13151,
+            "annotation_id": "KS_190"
+        },
+        {
+            "decision": "5. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: Two (2) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13154,
+            "end_offset": 13265,
+            "annotation_id": "KS_191"
+        },
+        {
+            "decision": "6. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO three times a day as needed for nausea.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13267,
+            "end_offset": 13358,
+            "annotation_id": "KS_192"
+        },
+        {
+            "decision": "7. Pregabalin 75 mg Capsule Sig: Two (2) Capsule PO tid (). Capsule(s)",
+            "category": "Category 5: Drug related",
+            "start_offset": 13360,
+            "end_offset": 13429,
+            "annotation_id": "KS_193"
+        },
+        {
+            "decision": "8. Omega-3 Fatty Acids     Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13431,
+            "end_offset": 13543,
+            "annotation_id": "KS_194"
+        },
+        {
+            "decision": "9. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13544,
+            "end_offset": 13650,
+            "annotation_id": "KS_195"
+        },
+        {
+            "decision": "10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 13651,
+            "end_offset": 13731,
+            "annotation_id": "KS_196"
+        },
+        {
+            "decision": "11. Rosuvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13734,
+            "end_offset": 13833,
+            "annotation_id": "KS_197"
+        },
+        {
+            "decision": "12. Metoprolol Tartrate 50 mg Tablet Sig: Three (3) Tablet PO once a day. Disp:*90 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13834,
+            "end_offset": 13939,
+            "annotation_id": "KS_198"
+        },
+        {
+            "decision": "13. Pioglitazone 45 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 13940,
+            "end_offset": 14039,
+            "annotation_id": "KS_199"
+        },
+        {
+            "decision": "14. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14040,
+            "end_offset": 14128,
+            "annotation_id": "KS_200"
+        },
+        {
+            "decision": "for fluid overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14198,
+            "end_offset": 14216,
+            "annotation_id": "KS_201"
+        },
+        {
+            "decision": "15. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day as needed for fluid overload. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14130,
+            "end_offset": 14249,
+            "annotation_id": "KS_202"
+        },
+        {
+            "decision": "16. Renagel 400 mg Tablet Sig: One (1) Tablet PO three times a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 14250,
+            "end_offset": 14316,
+            "annotation_id": "KS_203"
+        },
+        {
+            "decision": "17. Insulin Glargine 100 unit/mL Cartridge Sig: Forty (40) units Subcutaneous twice a day. Disp:*30 cartridge* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14318,
+            "end_offset": 14440,
+            "annotation_id": "KS_204"
+        },
+        {
+            "decision": "18. Insulin Lispro 100 unit/mL Cartridge Sig: sliding scale Subcutaneous qachs. Disp:*50 cartridges* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14441,
+            "end_offset": 14553,
+            "annotation_id": "KS_205"
+        },
+        {
+            "decision": "19. Ketoconazole 2 % Shampoo Sig: One (1) Appl Topical ASDIR (AS DIRECTED) for 1 months. Disp:*1 bottle* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 14554,
+            "end_offset": 14670,
+            "annotation_id": "KS_206"
+        },
+        {
+            "decision": "diabetes mellitus type I vs II, uncontrolled with complications",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14787,
+            "end_offset": 14850,
+            "annotation_id": "KS_207"
+        },
+        {
+            "decision": "chronic kidney disease stage V ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14851,
+            "end_offset": 14881,
+            "annotation_id": "KS_208"
+        },
+        {
+            "decision": "on peritoneal dialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14882,
+            "end_offset": 14904,
+            "annotation_id": "KS_209"
+        },
+        {
+            "decision": "secondary peritonitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14905,
+            "end_offset": 14926,
+            "annotation_id": "KS_210"
+        },
+        {
+            "decision": "MRSE line infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14927,
+            "end_offset": 14946,
+            "annotation_id": "KS_211"
+        },
+        {
+            "decision": "MRSE line infection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14927,
+            "end_offset": 14946,
+            "annotation_id": "KS_212"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14960,
+            "end_offset": 14972,
+            "annotation_id": "KS_213"
+        },
+        {
+            "decision": "hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14974,
+            "end_offset": 14988,
+            "annotation_id": "KS_214"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14990,
+            "end_offset": 15000,
+            "annotation_id": "KS_215"
+        },
+        {
+            "decision": "Discharge Condition: stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15003,
+            "end_offset": 15030,
+            "annotation_id": "KS_216"
+        },
+        {
+            "decision": "very high blood sugars",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15107,
+            "end_offset": 15129,
+            "annotation_id": "KS_217"
+        },
+        {
+            "decision": "transferred to the intensive care unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 15141,
+            "end_offset": 15179,
+            "annotation_id": "KS_218"
+        },
+        {
+            "decision": "receive IV insulin.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15198,
+            "end_offset": 15216,
+            "annotation_id": "KS_219"
+        },
+        {
+            "decision": "infection in your blood and in your abdomen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15248,
+            "end_offset": 15291,
+            "annotation_id": "KS_220"
+        },
+        {
+            "decision": "treated with antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15303,
+            "end_offset": 15327,
+            "annotation_id": "KS_221"
+        },
+        {
+            "decision": "You also had difficulty breathing because of the infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15350,
+            "end_offset": 15408,
+            "annotation_id": "KS_222"
+        },
+        {
+            "decision": "given oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15418,
+            "end_offset": 15430,
+            "annotation_id": "KS_223"
+        },
+        {
+            "decision": "now that you are able to breathe well without oxygen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15466,
+            "end_offset": 15518,
+            "annotation_id": "KS_224"
+        },
+        {
+            "decision": "peritoneal dialysis was continued.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15549,
+            "end_offset": 15582,
+            "annotation_id": "KS_225"
+        },
+        {
+            "decision": "When you go home, you should return to your previous PD cycler schedule.  You should also contact your PD nurse, [**Name (NI) 3040**], at ([**Telephone/Fax (1) 12088**] to arrange for follow-up. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15584,
+            "end_offset": 15777,
+            "annotation_id": "KS_226"
+        },
+        {
+            "decision": "You should also follow-up at the [**Last Name (un) **] Diabetes Center.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15780,
+            "end_offset": 15850,
+            "annotation_id": "KS_227"
+        },
+        {
+            "decision": "You should follow a very low fat and very low salt, and low carbohydrate diet when you leave.  If you eat too much salt, you may become fluid overloaded.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15853,
+            "end_offset": 16005,
+            "annotation_id": "KS_228"
+        },
+        {
+            "decision": "given you a prescription for lasix that you may use to alleviate some of the overload if needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16016,
+            "end_offset": 16111,
+            "annotation_id": "KS_229"
+        },
+        {
+            "decision": "While in the hospital, it was noted that you sometimes have trouble breathing while you are sleeping.  Because of this, you need a formal sleep evaluation.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16114,
+            "end_offset": 16268,
+            "annotation_id": "KS_230"
+        },
+        {
+            "decision": "We have made an appointment with a new primary care physician for you, and he will help you arrange this.",
+            "category": "Category 1: Contact related",
+            "start_offset": 16271,
+            "end_offset": 16375,
+            "annotation_id": "KS_231"
+        },
+        {
+            "decision": "fingersticks persistently above 400",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16446,
+            "end_offset": 16481,
+            "annotation_id": "KS_232"
+        },
+        {
+            "decision": "Please return to the emergency room or call your doctor if you have fingersticks persistently above 400 or if you experience fevers >102, shaking chills, or severe abdominal pain.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16378,
+            "end_offset": 16556,
+            "annotation_id": "KS_233"
+        },
+        {
+            "decision": "Patient should call [**Doctor First Name 3040**], the peritoneal dialysis nurse, at ([**Telephone/Fax (1) 12088**] for follow up on her dialysis.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 16582,
+            "end_offset": 16726,
+            "annotation_id": "KS_234"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **], [**Last Name (un) **] Diabetes Center:  [**8-14**], 9 AM",
+            "category": "Category 1: Contact related",
+            "start_offset": 16729,
+            "end_offset": 16816,
+            "annotation_id": "KS_235"
+        },
+        {
+            "decision": "Dr. [**Last Name (STitle) **], Primary Care, [**Hospital1 18**] [**Hospital Ward Name 516**] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2158-8-16**] 2:00",
+            "category": "Category 1: Contact related",
+            "start_offset": 16818,
+            "end_offset": 16975,
+            "annotation_id": "KS_236"
+        }
+    ]
+}

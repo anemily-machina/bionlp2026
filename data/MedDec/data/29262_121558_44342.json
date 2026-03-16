@@ -1,0 +1,881 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29262_121558_44342",
+    "annotations": [
+        {
+            "decision": "angina/DOE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 239,
+            "end_offset": 249,
+            "annotation_id": "JT_000"
+        },
+        {
+            "decision": "AVR ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 289,
+            "end_offset": 292,
+            "annotation_id": "JT_001"
+        },
+        {
+            "decision": "AS/CAD presneted in [**8-13**] with angina and DOE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 419,
+            "end_offset": 469,
+            "annotation_id": "JT_002"
+        },
+        {
+            "decision": "Cath ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 471,
+            "end_offset": 475,
+            "annotation_id": "JT_003"
+        },
+        {
+            "decision": "mild CAD ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 483,
+            "end_offset": 491,
+            "annotation_id": "JT_004"
+        },
+        {
+            "decision": "patent CX/RCA stents",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 497,
+            "end_offset": 517,
+            "annotation_id": "JT_005"
+        },
+        {
+            "decision": "Referred for surgery.",
+            "category": "Category 1: Contact related",
+            "start_offset": 519,
+            "end_offset": 539,
+            "annotation_id": "JT_006"
+        },
+        {
+            "decision": "AS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 564,
+            "end_offset": 566,
+            "annotation_id": "JT_007"
+        },
+        {
+            "decision": "s/p AVR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 568,
+            "end_offset": 575,
+            "annotation_id": "JT_008"
+        },
+        {
+            "decision": "MR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 576,
+            "end_offset": 578,
+            "annotation_id": "JT_009"
+        },
+        {
+            "decision": "left central retinal occlusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 579,
+            "end_offset": 609,
+            "annotation_id": "JT_010"
+        },
+        {
+            "decision": "elev. lipids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 610,
+            "end_offset": 622,
+            "annotation_id": "JT_011"
+        },
+        {
+            "decision": "osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 623,
+            "end_offset": 635,
+            "annotation_id": "JT_012"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 636,
+            "end_offset": 639,
+            "annotation_id": "JT_013"
+        },
+        {
+            "decision": "s/p stents CX/RCA ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 640,
+            "end_offset": 657,
+            "annotation_id": "JT_014"
+        },
+        {
+            "decision": "vertigo",
+            "category": "Category 3: Defining problem",
+            "start_offset": 669,
+            "end_offset": 676,
+            "annotation_id": "JT_015"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 677,
+            "end_offset": 687,
+            "annotation_id": "JT_016"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 688,
+            "end_offset": 691,
+            "annotation_id": "JT_017"
+        },
+        {
+            "decision": "right hand carpal tunnel",
+            "category": "Category 3: Defining problem",
+            "start_offset": 692,
+            "end_offset": 716,
+            "annotation_id": "JT_018"
+        },
+        {
+            "decision": "appy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 723,
+            "end_offset": 727,
+            "annotation_id": "JT_019"
+        },
+        {
+            "decision": "rem. blood clot left leg [**2109**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 728,
+            "end_offset": 763,
+            "annotation_id": "JT_020"
+        },
+        {
+            "decision": "NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 917,
+            "end_offset": 920,
+            "annotation_id": "JT_021"
+        },
+        {
+            "decision": "skin /HEENT unremarkable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 921,
+            "end_offset": 945,
+            "annotation_id": "JT_022"
+        },
+        {
+            "decision": "neck supple, full ROM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 946,
+            "end_offset": 967,
+            "annotation_id": "JT_023"
+        },
+        {
+            "decision": "CTAB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 968,
+            "end_offset": 972,
+            "annotation_id": "JT_024"
+        },
+        {
+            "decision": "RRR brady at 56, 3/6 SEM left SB to apex, and radiates to bil. carotids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 973,
+            "end_offset": 1044,
+            "annotation_id": "JT_025"
+        },
+        {
+            "decision": "soft, NT, ND, + BS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1045,
+            "end_offset": 1063,
+            "annotation_id": "JT_026"
+        },
+        {
+            "decision": "warm, well-perfused, trace edema, no varicosities noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1064,
+            "end_offset": 1119,
+            "annotation_id": "JT_027"
+        },
+        {
+            "decision": "neuro grossly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1120,
+            "end_offset": 1140,
+            "annotation_id": "JT_028"
+        },
+        {
+            "decision": "2+ carotids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1141,
+            "end_offset": 1152,
+            "annotation_id": "JT_029"
+        },
+        {
+            "decision": "2+ fems/radials",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1153,
+            "end_offset": 1168,
+            "annotation_id": "JT_030"
+        },
+        {
+            "decision": "1+ bil DP/PTs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1169,
+            "end_offset": 1182,
+            "annotation_id": "JT_031"
+        },
+        {
+            "decision": "Gen NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1233,
+            "end_offset": 1240,
+            "annotation_id": "JT_032"
+        },
+        {
+            "decision": "Neuro A&O, nonfocal exam",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1241,
+            "end_offset": 1265,
+            "annotation_id": "JT_033"
+        },
+        {
+            "decision": "CV RRR, sternum stable incision CDI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1266,
+            "end_offset": 1301,
+            "annotation_id": "JT_034"
+        },
+        {
+            "decision": "Pulm diminished bases otherwise CTA bilat",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1302,
+            "end_offset": 1343,
+            "annotation_id": "JT_035"
+        },
+        {
+            "decision": "Abdm soft, NT +BS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1344,
+            "end_offset": 1361,
+            "annotation_id": "JT_036"
+        },
+        {
+            "decision": "Ext warm trace edema, palpable pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1362,
+            "end_offset": 1399,
+            "annotation_id": "JT_037"
+        },
+        {
+            "decision": "s/p avr, septal myomectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1837,
+            "end_offset": 1863,
+            "annotation_id": "JT_038"
+        },
+        {
+            "decision": "Left lower lobe opacification with blunting of the left costophrenic angle, raising the possibility for a small pleural effusion on the left with associated consolidation in the lower lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1973,
+            "end_offset": 2161,
+            "annotation_id": "JT_039"
+        },
+        {
+            "decision": "This opacification might be also due to positioning of the patient and attenuation from the soft tissue of the breasts.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2205,
+            "end_offset": 2323,
+            "annotation_id": "JT_040"
+        },
+        {
+            "decision": "status post aortic valve replacement, septal myomectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2372,
+            "end_offset": 2427,
+            "annotation_id": "JT_041"
+        },
+        {
+            "decision": "Follow up for pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2429,
+            "end_offset": 2455,
+            "annotation_id": "JT_042"
+        },
+        {
+            "decision": "there is increased opacification in the lower lobes, which might be related to soft tissue positioning of the breasts, but consolidation cannot be excluded",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2481,
+            "end_offset": 2636,
+            "annotation_id": "JT_043"
+        },
+        {
+            "decision": "There is blunting of the left costophrenic angle",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2638,
+            "end_offset": 2686,
+            "annotation_id": "JT_044"
+        },
+        {
+            "decision": "small pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2712,
+            "end_offset": 2734,
+            "annotation_id": "JT_045"
+        },
+        {
+            "decision": "The post-surgical changes are noted again. The right IJ has been removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2736,
+            "end_offset": 2808,
+            "annotation_id": "JT_046"
+        },
+        {
+            "decision": "The cardiac silhouette is unchanged compared to the previous scan. The visualized osseous and soft tissue markings are unchanged compared to the previous scan.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2810,
+            "end_offset": 2968,
+            "annotation_id": "JT_047"
+        },
+        {
+            "decision": "Opacification in the left lower lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2983,
+            "end_offset": 3019,
+            "annotation_id": "JT_048"
+        },
+        {
+            "decision": "small pleural effusion with associated consolidation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3043,
+            "end_offset": 3095,
+            "annotation_id": "JT_049"
+        },
+        {
+            "decision": "The opacification might be also due to adjacent soft tissue attenuation from the breast tissue",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3097,
+            "end_offset": 3191,
+            "annotation_id": "JT_050"
+        },
+        {
+            "decision": "DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 3293,
+            "end_offset": 3475,
+            "annotation_id": "JT_051"
+        },
+        {
+            "decision": "The left atrium is mildly dilated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3535,
+            "end_offset": 3568,
+            "annotation_id": "JT_052"
+        },
+        {
+            "decision": "No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3570,
+            "end_offset": 3674,
+            "annotation_id": "JT_053"
+        },
+        {
+            "decision": "A left-to-right shunt across the interatrial septum is seen at rest. A small secundum atrial septal defect is present.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3676,
+            "end_offset": 3793,
+            "annotation_id": "JT_054"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3798,
+            "end_offset": 3850,
+            "annotation_id": "JT_055"
+        },
+        {
+            "decision": "The left ventricular cavity size is normal. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is normal (LVEF>55%).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3852,
+            "end_offset": 4006,
+            "annotation_id": "JT_056"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal. with normal free wall contractility.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4014,
+            "end_offset": 4113,
+            "annotation_id": "JT_057"
+        },
+        {
+            "decision": "There are simple atheroma in the descending thoracic aorta.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4118,
+            "end_offset": 4176,
+            "annotation_id": "JT_058"
+        },
+        {
+            "decision": "The aortic valve leaflets are moderately thickened. There is severe aortic valve stenosis (area <0.8cm2)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4181,
+            "end_offset": 4284,
+            "annotation_id": "JT_059"
+        },
+        {
+            "decision": "Mild (1+) aortic regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4287,
+            "end_offset": 4325,
+            "annotation_id": "JT_060"
+        },
+        {
+            "decision": "The mitral valve leaflets are moderately thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4330,
+            "end_offset": 4380,
+            "annotation_id": "JT_061"
+        },
+        {
+            "decision": "Mild to moderate ([**2-6**]+) mitral regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4382,
+            "end_offset": 4440,
+            "annotation_id": "JT_062"
+        },
+        {
+            "decision": "There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4445,
+            "end_offset": 4477,
+            "annotation_id": "JT_063"
+        },
+        {
+            "decision": "Septal hypertrophy seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4483,
+            "end_offset": 4506,
+            "annotation_id": "JT_064"
+        },
+        {
+            "decision": "Very narrow LVOT( 1.1 cm in diamter)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4508,
+            "end_offset": 4543,
+            "annotation_id": "JT_065"
+        },
+        {
+            "decision": "AV paced ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4681,
+            "end_offset": 4689,
+            "annotation_id": "JT_066"
+        },
+        {
+            "decision": "phenylephrine",
+            "category": "Category 5: Drug related",
+            "start_offset": 4719,
+            "end_offset": 4732,
+            "annotation_id": "JT_067"
+        },
+        {
+            "decision": "Biventricular systolic function is preserved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4738,
+            "end_offset": 4782,
+            "annotation_id": "JT_068"
+        },
+        {
+            "decision": "Bioprosthetic valve ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4788,
+            "end_offset": 4807,
+            "annotation_id": "JT_069"
+        },
+        {
+            "decision": "Leaflets move well and the valve apears well seated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4837,
+            "end_offset": 4888,
+            "annotation_id": "JT_070"
+        },
+        {
+            "decision": "Mild moderate mitral regurgitation present",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4920,
+            "end_offset": 4962,
+            "annotation_id": "JT_071"
+        },
+        {
+            "decision": "Aorta intact post decannulation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4968,
+            "end_offset": 4999,
+            "annotation_id": "JT_072"
+        },
+        {
+            "decision": "[**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD, Interpreting physician [**Last Name (NamePattern4) **] [**2126-10-9**] 15:25",
+            "category": "Category 1: Contact related",
+            "start_offset": 5114,
+            "end_offset": 5239,
+            "annotation_id": "JT_073"
+        },
+        {
+            "decision": "Transferred to the CVICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 5990,
+            "end_offset": 6014,
+            "annotation_id": "JT_074"
+        },
+        {
+            "decision": "insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6038,
+            "end_offset": 6045,
+            "annotation_id": "JT_075"
+        },
+        {
+            "decision": "phenylephrine",
+            "category": "Category 5: Drug related",
+            "start_offset": 6047,
+            "end_offset": 6060,
+            "annotation_id": "JT_076"
+        },
+        {
+            "decision": "propofol drips",
+            "category": "Category 5: Drug related",
+            "start_offset": 6066,
+            "end_offset": 6080,
+            "annotation_id": "JT_077"
+        },
+        {
+            "decision": "Extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6082,
+            "end_offset": 6091,
+            "annotation_id": "JT_078"
+        },
+        {
+            "decision": "She remained hemodynamically stable ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6116,
+            "end_offset": 6151,
+            "annotation_id": "JT_079"
+        },
+        {
+            "decision": "transferred to the stepdown floors on POD1",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 6160,
+            "end_offset": 6202,
+            "annotation_id": "JT_080"
+        },
+        {
+            "decision": "Her cardiac medications were tapered ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6266,
+            "end_offset": 6302,
+            "annotation_id": "JT_081"
+        },
+        {
+            "decision": "physical therapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6369,
+            "end_offset": 6385,
+            "annotation_id": "JT_082"
+        },
+        {
+            "decision": "She was transfereed to [**Hospital 100**] Rehab",
+            "category": "Category 1: Contact related",
+            "start_offset": 6493,
+            "end_offset": 6540,
+            "annotation_id": "JT_083"
+        },
+        {
+            "decision": "ASA 325 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6577,
+            "end_offset": 6593,
+            "annotation_id": "JT_084"
+        },
+        {
+            "decision": "atenolol 50 mg/chlorthalidone 12.5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6594,
+            "end_offset": 6637,
+            "annotation_id": "JT_085"
+        },
+        {
+            "decision": "plavix 75 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6638,
+            "end_offset": 6656,
+            "annotation_id": "JT_086"
+        },
+        {
+            "decision": "denavir 1% cream to lips",
+            "category": "Category 5: Drug related",
+            "start_offset": 6657,
+            "end_offset": 6681,
+            "annotation_id": "JT_087"
+        },
+        {
+            "decision": "lexapro 10 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6682,
+            "end_offset": 6701,
+            "annotation_id": "JT_088"
+        },
+        {
+            "decision": "nifedipine ER 90 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6702,
+            "end_offset": 6727,
+            "annotation_id": "JT_089"
+        },
+        {
+            "decision": "SL NTG 0.4 mg prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 6728,
+            "end_offset": 6745,
+            "annotation_id": "JT_090"
+        },
+        {
+            "decision": "vytorin 10/80 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6746,
+            "end_offset": 6768,
+            "annotation_id": "JT_091"
+        },
+        {
+            "decision": "ambien 2.5 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6769,
+            "end_offset": 6788,
+            "annotation_id": "JT_092"
+        },
+        {
+            "decision": "MVI daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6789,
+            "end_offset": 6798,
+            "annotation_id": "JT_093"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6826,
+            "end_offset": 6899,
+            "annotation_id": "JT_094"
+        },
+        {
+            "decision": "Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6905,
+            "end_offset": 6975,
+            "annotation_id": "JT_095"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6981,
+            "end_offset": 7085,
+            "annotation_id": "JT_096"
+        },
+        {
+            "decision": "Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units Subcutaneous once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7091,
+            "end_offset": 7172,
+            "annotation_id": "JT_097"
+        },
+        {
+            "decision": "Insulin Regular Human 100 unit/mL Solution Sig: sliding scale  Injection QAC&HS.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7177,
+            "end_offset": 7256,
+            "annotation_id": "JT_098"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7261,
+            "end_offset": 7355,
+            "annotation_id": "JT_099"
+        },
+        {
+            "decision": "Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7360,
+            "end_offset": 7420,
+            "annotation_id": "JT_100"
+        },
+        {
+            "decision": "Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7426,
+            "end_offset": 7484,
+            "annotation_id": "JT_101"
+        },
+        {
+            "decision": "Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7491,
+            "end_offset": 7552,
+            "annotation_id": "JT_102"
+        },
+        {
+            "decision": "Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: Three (3) cc Inhalation Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7559,
+            "end_offset": 7684,
+            "annotation_id": "JT_103"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7690,
+            "end_offset": 7749,
+            "annotation_id": "JT_104"
+        },
+        {
+            "decision": "Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7756,
+            "end_offset": 7824,
+            "annotation_id": "JT_105"
+        },
+        {
+            "decision": "Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7831,
+            "end_offset": 7905,
+            "annotation_id": "JT_106"
+        },
+        {
+            "decision": "Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7912,
+            "end_offset": 7969,
+            "annotation_id": "JT_107"
+        },
+        {
+            "decision": "Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7977,
+            "end_offset": 8085,
+            "annotation_id": "JT_108"
+        },
+        {
+            "decision": "AS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8218,
+            "end_offset": 8220,
+            "annotation_id": "JT_109"
+        },
+        {
+            "decision": "s/p AVR",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8222,
+            "end_offset": 8229,
+            "annotation_id": "JT_110"
+        },
+        {
+            "decision": "MR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8230,
+            "end_offset": 8232,
+            "annotation_id": "JT_111"
+        },
+        {
+            "decision": "left central retinal occlusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8233,
+            "end_offset": 8263,
+            "annotation_id": "JT_112"
+        },
+        {
+            "decision": "elev. lipids",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8264,
+            "end_offset": 8276,
+            "annotation_id": "JT_113"
+        },
+        {
+            "decision": "osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8277,
+            "end_offset": 8289,
+            "annotation_id": "JT_114"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8290,
+            "end_offset": 8293,
+            "annotation_id": "JT_115"
+        },
+        {
+            "decision": "s/p stents CX/RCA ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8294,
+            "end_offset": 8311,
+            "annotation_id": "JT_116"
+        },
+        {
+            "decision": "vertigo",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8323,
+            "end_offset": 8330,
+            "annotation_id": "JT_117"
+        },
+        {
+            "decision": "depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8331,
+            "end_offset": 8341,
+            "annotation_id": "JT_118"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8342,
+            "end_offset": 8345,
+            "annotation_id": "JT_119"
+        },
+        {
+            "decision": "right hand carpal tunnel",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8346,
+            "end_offset": 8370,
+            "annotation_id": "JT_120"
+        },
+        {
+            "decision": "appy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8377,
+            "end_offset": 8381,
+            "annotation_id": "JT_121"
+        },
+        {
+            "decision": "rem. blood clot left leg [**2109**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8382,
+            "end_offset": 8417,
+            "annotation_id": "JT_122"
+        },
+        {
+            "decision": "shower daily and pat incisins dry no lotions, creams or powders on any incision no lifting greater than 10 pounds for 10 weeks no driving for one month and untill off all narcotics call for fever greater than 100, redness, or drainage ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8472,
+            "end_offset": 8706,
+            "annotation_id": "JT_123"
+        },
+        {
+            "decision": "see Dr. [**Last Name (STitle) **] in [**2-6**] weeks see Dr. [**Last Name (STitle) **] in [**3-10**] weeks see Dr. [**Last Name (STitle) **] in 4 weeks   [**Telephone/Fax (1) 170**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8731,
+            "end_offset": 8912,
+            "annotation_id": "JT_124"
+        }
+    ]
+}

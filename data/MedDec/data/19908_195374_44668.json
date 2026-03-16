@@ -1,0 +1,643 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "19908_195374_44668",
+    "annotations": [
+        {
+            "decision": "DOE, chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 283,
+            "end_offset": 298,
+            "annotation_id": "FD_000"
+        },
+        {
+            "decision": "[**2199-11-8**] Three vessel CABG(LIMA to LAD, SVG to Diag, SVG to OM)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 338,
+            "end_offset": 407,
+            "annotation_id": "FD_001"
+        },
+        {
+            "decision": "HTN, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 460,
+            "end_offset": 463,
+            "annotation_id": "FD_002"
+        },
+        {
+            "decision": "NIDDM,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 465,
+            "end_offset": 470,
+            "annotation_id": "FD_003"
+        },
+        {
+            "decision": "tobacco abuse, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 472,
+            "end_offset": 485,
+            "annotation_id": "FD_004"
+        },
+        {
+            "decision": "hep C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 487,
+            "end_offset": 492,
+            "annotation_id": "FD_005"
+        },
+        {
+            "decision": "given ASA, metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1138,
+            "end_offset": 1159,
+            "annotation_id": "FD_006"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1309,
+            "end_offset": 1312,
+            "annotation_id": "FD_007"
+        },
+        {
+            "decision": "NIDDM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1314,
+            "end_offset": 1319,
+            "annotation_id": "FD_008"
+        },
+        {
+            "decision": "Hepatitis C",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1321,
+            "end_offset": 1332,
+            "annotation_id": "FD_009"
+        },
+        {
+            "decision": "History of Esophageal Varices",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1334,
+            "end_offset": 1363,
+            "annotation_id": "FD_010"
+        },
+        {
+            "decision": "Erectile Dysfunction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1365,
+            "end_offset": 1385,
+            "annotation_id": "FD_011"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1387,
+            "end_offset": 1391,
+            "annotation_id": "FD_012"
+        },
+        {
+            "decision": "Neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1393,
+            "end_offset": 1403,
+            "annotation_id": "FD_013"
+        },
+        {
+            "decision": "Gen: alert, pleasant, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1724,
+            "end_offset": 1749,
+            "annotation_id": "FD_014"
+        },
+        {
+            "decision": "anicteric, PERRL, mmm, OP clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1804,
+            "end_offset": 1835,
+            "annotation_id": "FD_015"
+        },
+        {
+            "decision": "CV: Reg, S1, S2, no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1836,
+            "end_offset": 1861,
+            "annotation_id": "FD_016"
+        },
+        {
+            "decision": "lungs: decreased BS diffusely",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1862,
+            "end_offset": 1891,
+            "annotation_id": "FD_017"
+        },
+        {
+            "decision": "Abd: soft, NT/ND, periumbilical scar",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1892,
+            "end_offset": 1928,
+            "annotation_id": "FD_018"
+        },
+        {
+            "decision": "Ext: warm, symmetric, no edema, no femoral bruit, slightly diminished pulses bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1929,
+            "end_offset": 2017,
+            "annotation_id": "FD_019"
+        },
+        {
+            "decision": "Neuro: A+O x 3, CN 2-12 intact, 5/5 strength in all ext",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2018,
+            "end_offset": 2073,
+            "annotation_id": "FD_020"
+        },
+        {
+            "decision": "guaiac negative, ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2082,
+            "end_offset": 2097,
+            "annotation_id": "FD_021"
+        },
+        {
+            "decision": "Rectal: guaiac negative, light brown stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2074,
+            "end_offset": 2116,
+            "annotation_id": "FD_022"
+        },
+        {
+            "decision": "EKG: NSR@78, Q wave III, AvF, STE V1-V2",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2446,
+            "end_offset": 2485,
+            "annotation_id": "FD_023"
+        },
+        {
+            "decision": "CXR: The cardiac silhouette, mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Both lungs are clear without consolidations or effusions. The surrounding soft tissue and osseous structures are unremarkable.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2502,
+            "end_offset": 2736,
+            "annotation_id": "FD_024"
+        },
+        {
+            "decision": "admitted to a monitored bed on the [**Hospital Unit Name 196**] service",
+            "category": "Category 1: Contact related",
+            "start_offset": 3202,
+            "end_offset": 3273,
+            "annotation_id": "FD_025"
+        },
+        {
+            "decision": "cardiac catheterization ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3288,
+            "end_offset": 3311,
+            "annotation_id": "FD_026"
+        },
+        {
+            "decision": "was found to have severe three vessel coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3333,
+            "end_offset": 3394,
+            "annotation_id": "FD_027"
+        },
+        {
+            "decision": "Coronary angiography showed a 30% lesion in the left main; 50% lesion in the proximal RCA; 90% stenosis of the acute marginal; 80% lesion in the proximal LAD; and 80% stenosis in the circumflex.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3397,
+            "end_offset": 3590,
+            "annotation_id": "FD_028"
+        },
+        {
+            "decision": "no mitral regurgitation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3623,
+            "end_offset": 3646,
+            "annotation_id": "FD_029"
+        },
+        {
+            "decision": "Left ventriculography revealed no mitral regurgitation and an LVEF of 50-55%. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3592,
+            "end_offset": 3667,
+            "annotation_id": "FD_030"
+        },
+        {
+            "decision": "cardiac surgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3698,
+            "end_offset": 3727,
+            "annotation_id": "FD_031"
+        },
+        {
+            "decision": "carotid ultrasound which showed minimal plaque in both internal carotid arteries.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3780,
+            "end_offset": 3860,
+            "annotation_id": "FD_032"
+        },
+        {
+            "decision": "Hepatitis C and prior esophageal varices",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3884,
+            "end_offset": 3924,
+            "annotation_id": "FD_033"
+        },
+        {
+            "decision": "evaluated by GI/Liver service",
+            "category": "Category 1: Contact related",
+            "start_offset": 3933,
+            "end_offset": 3962,
+            "annotation_id": "FD_034"
+        },
+        {
+            "decision": "recent EGD was negative for varices ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3971,
+            "end_offset": 4006,
+            "annotation_id": "FD_035"
+        },
+        {
+            "decision": "LFTs were within normal limits. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4011,
+            "end_offset": 4041,
+            "annotation_id": "FD_036"
+        },
+        {
+            "decision": "no evidence of cirrhosis, only stage III fibrosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4053,
+            "end_offset": 4102,
+            "annotation_id": "FD_037"
+        },
+        {
+            "decision": "deemed a low-risk surgical candidate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4121,
+            "end_offset": 4157,
+            "annotation_id": "FD_038"
+        },
+        {
+            "decision": "and cleared for surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4158,
+            "end_offset": 4181,
+            "annotation_id": "FD_039"
+        },
+        {
+            "decision": "performed three vessel coronary artery bypass grafting",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4275,
+            "end_offset": 4329,
+            "annotation_id": "FD_040"
+        },
+        {
+            "decision": "was brought to the CSRU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4367,
+            "end_offset": 4390,
+            "annotation_id": "FD_041"
+        },
+        {
+            "decision": "minimal inotropic support",
+            "category": "Category 5: Drug related",
+            "start_offset": 4394,
+            "end_offset": 4419,
+            "annotation_id": "FD_042"
+        },
+        {
+            "decision": "awoke neurologically intact ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4441,
+            "end_offset": 4468,
+            "annotation_id": "FD_043"
+        },
+        {
+            "decision": "was extubated without incident",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4473,
+            "end_offset": 4503,
+            "annotation_id": "FD_044"
+        },
+        {
+            "decision": "maintained stable hemodynamics",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4508,
+            "end_offset": 4538,
+            "annotation_id": "FD_045"
+        },
+        {
+            "decision": "gradually weaned from pressor support",
+            "category": "Category 5: Drug related",
+            "start_offset": 4543,
+            "end_offset": 4580,
+            "annotation_id": "FD_046"
+        },
+        {
+            "decision": "postoperative day three, he transferred to the SDU",
+            "category": "Category 1: Contact related",
+            "start_offset": 4585,
+            "end_offset": 4635,
+            "annotation_id": "FD_047"
+        },
+        {
+            "decision": "tolerated beta blockade ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4640,
+            "end_offset": 4663,
+            "annotation_id": "FD_048"
+        },
+        {
+            "decision": "tolerated beta blockade and remained in a normal sinus rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4640,
+            "end_offset": 4701,
+            "annotation_id": "FD_049"
+        },
+        {
+            "decision": "No postoperative dysrhythmias were noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4703,
+            "end_offset": 4743,
+            "annotation_id": "FD_050"
+        },
+        {
+            "decision": "responed well to diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4748,
+            "end_offset": 4773,
+            "annotation_id": "FD_051"
+        },
+        {
+            "decision": "responed well to diuresis and by discharge was very close to his preoperative weight",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4748,
+            "end_offset": 4832,
+            "annotation_id": "FD_052"
+        },
+        {
+            "decision": "all surgical wounds were clean, dry and intact.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5096,
+            "end_offset": 5142,
+            "annotation_id": "FD_053"
+        },
+        {
+            "decision": "Ursodiol 300 [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 5172,
+            "end_offset": 5201,
+            "annotation_id": "FD_054"
+        },
+        {
+            "decision": "Neurontin 400 tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5202,
+            "end_offset": 5219,
+            "annotation_id": "FD_055"
+        },
+        {
+            "decision": "Cimetidine 400 qhs",
+            "category": "Category 5: Drug related",
+            "start_offset": 5220,
+            "end_offset": 5238,
+            "annotation_id": "FD_056"
+        },
+        {
+            "decision": "Colchicine 0.6 [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 5239,
+            "end_offset": 5270,
+            "annotation_id": "FD_057"
+        },
+        {
+            "decision": "Lisinopril 5 qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5271,
+            "end_offset": 5286,
+            "annotation_id": "FD_058"
+        },
+        {
+            "decision": "Nadolol 20 qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5287,
+            "end_offset": 5300,
+            "annotation_id": "FD_059"
+        },
+        {
+            "decision": "Metformin 100 qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5301,
+            "end_offset": 5317,
+            "annotation_id": "FD_060"
+        },
+        {
+            "decision": "Glyburide 10 [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 5318,
+            "end_offset": 5347,
+            "annotation_id": "FD_061"
+        },
+        {
+            "decision": "MVI",
+            "category": "Category 5: Drug related",
+            "start_offset": 5348,
+            "end_offset": 5351,
+            "annotation_id": "FD_062"
+        },
+        {
+            "decision": "ASA 81",
+            "category": "Category 5: Drug related",
+            "start_offset": 5352,
+            "end_offset": 5358,
+            "annotation_id": "FD_063"
+        },
+        {
+            "decision": "Vit B-1",
+            "category": "Category 5: Drug related",
+            "start_offset": 5359,
+            "end_offset": 5366,
+            "annotation_id": "FD_064"
+        },
+        {
+            "decision": "Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5394,
+            "end_offset": 5493,
+            "annotation_id": "FD_065"
+        },
+        {
+            "decision": "Glyburide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). Disp:*120 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5497,
+            "end_offset": 5595,
+            "annotation_id": "FD_066"
+        },
+        {
+            "decision": "Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5599,
+            "end_offset": 5693,
+            "annotation_id": "FD_067"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5697,
+            "end_offset": 5805,
+            "annotation_id": "FD_068"
+        },
+        {
+            "decision": "Gabapentin 400 mg Capsule Sig: One (1) Capsule PO TID (3 times a day). Disp:*90 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5809,
+            "end_offset": 5912,
+            "annotation_id": "FD_069"
+        },
+        {
+            "decision": "Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5916,
+            "end_offset": 6017,
+            "annotation_id": "FD_070"
+        },
+        {
+            "decision": "Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*90 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6021,
+            "end_offset": 6116,
+            "annotation_id": "FD_071"
+        },
+        {
+            "decision": "Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*120 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6120,
+            "end_offset": 6283,
+            "annotation_id": "FD_072"
+        },
+        {
+            "decision": "Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6287,
+            "end_offset": 6395,
+            "annotation_id": "FD_073"
+        },
+        {
+            "decision": "Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 7 days. Disp:*7 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6400,
+            "end_offset": 6500,
+            "annotation_id": "FD_074"
+        },
+        {
+            "decision": "Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO once a day for 7 days. Disp:*14 Capsule, Sustained Release(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6505,
+            "end_offset": 6675,
+            "annotation_id": "FD_075"
+        },
+        {
+            "decision": "Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every [**5-1**] hours as needed for pain. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6680,
+            "end_offset": 6802,
+            "annotation_id": "FD_076"
+        },
+        {
+            "decision": "Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO every [**5-1**] hours as needed for pain. Disp:*50 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6807,
+            "end_offset": 6927,
+            "annotation_id": "FD_077"
+        },
+        {
+            "decision": "CAD,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7032,
+            "end_offset": 7035,
+            "annotation_id": "FD_078"
+        },
+        {
+            "decision": "HTN,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7037,
+            "end_offset": 7040,
+            "annotation_id": "FD_079"
+        },
+        {
+            "decision": "NIDDM,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7042,
+            "end_offset": 7047,
+            "annotation_id": "FD_080"
+        },
+        {
+            "decision": "Hepatitis C with evidence of non-cirrhotic liver fibrosis,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7049,
+            "end_offset": 7106,
+            "annotation_id": "FD_081"
+        },
+        {
+            "decision": "History of Esophageal Varices,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7108,
+            "end_offset": 7137,
+            "annotation_id": "FD_082"
+        },
+        {
+            "decision": "Erectile Dysfunction,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7139,
+            "end_offset": 7159,
+            "annotation_id": "FD_083"
+        },
+        {
+            "decision": "Gout,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7161,
+            "end_offset": 7165,
+            "annotation_id": "FD_084"
+        },
+        {
+            "decision": "Neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7167,
+            "end_offset": 7177,
+            "annotation_id": "FD_085"
+        },
+        {
+            "decision": "Patient may shower, no baths. No creams, lotions or ointments to incisions",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7232,
+            "end_offset": 7306,
+            "annotation_id": "FD_086"
+        },
+        {
+            "decision": "No driving for at least one month. No lifting more than 10 lbs for at least 10 weeks from the date of surgery.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7308,
+            "end_offset": 7417,
+            "annotation_id": "FD_087"
+        },
+        {
+            "decision": "Monitor wounds for signs of infection. Please call with any concerns or questions.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7419,
+            "end_offset": 7500,
+            "annotation_id": "FD_088"
+        },
+        {
+            "decision": "[**Hospital 409**] clinic in 2 weeks on [**Hospital Ward Name 121**] 2 Cardiac surgeon, Dr. [**Last Name (STitle) **] in [**2-26**] weeks([**Telephone/Fax (1) 170**])",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7527,
+            "end_offset": 7692,
+            "annotation_id": "FD_089"
+        },
+        {
+            "decision": "Local PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1266**] in [**12-27**] weeks([**Telephone/Fax (1) 608**]) Dr. [**Last Name (STitle) 1266**] will arrange cardiology follow up as outpatient.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7694,
+            "end_offset": 7899,
+            "annotation_id": "FD_090"
+        }
+    ]
+}

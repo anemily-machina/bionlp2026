@@ -1,0 +1,909 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "12706_176929_11055",
+    "annotations": [
+        {
+            "decision": "insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 197,
+            "end_offset": 204,
+            "annotation_id": "BJ_000"
+        },
+        {
+            "decision": "history of insulin-dependent diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 186,
+            "end_offset": 232,
+            "annotation_id": "BJ_001"
+        },
+        {
+            "decision": ", status post multiple admissions ",
+            "category": "Category 1: Contact related",
+            "start_offset": 234,
+            "end_offset": 265,
+            "annotation_id": "BJ_002"
+        },
+        {
+            "decision": "DKA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 270,
+            "end_offset": 273,
+            "annotation_id": "BJ_003"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 275,
+            "end_offset": 278,
+            "annotation_id": "BJ_004"
+        },
+        {
+            "decision": "status post five- vessel CABG in [**2103**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 280,
+            "end_offset": 323,
+            "annotation_id": "BJ_005"
+        },
+        {
+            "decision": "chronic renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 325,
+            "end_offset": 352,
+            "annotation_id": "BJ_006"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 391,
+            "end_offset": 403,
+            "annotation_id": "BJ_007"
+        },
+        {
+            "decision": "pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 405,
+            "end_offset": 417,
+            "annotation_id": "BJ_008"
+        },
+        {
+            "decision": "anion gap of 37.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 511,
+            "end_offset": 526,
+            "annotation_id": "BJ_009"
+        },
+        {
+            "decision": "she took sublingual nitroglycerin times 3 without effect",
+            "category": "Category 5: Drug related",
+            "start_offset": 926,
+            "end_offset": 982,
+            "annotation_id": "BJ_010"
+        },
+        {
+            "decision": "the patient was given 10 units of insulin and was started on insulin drip at 6 units an hour, which was then increased to 8",
+            "category": "Category 5: Drug related",
+            "start_offset": 1158,
+            "end_offset": 1281,
+            "annotation_id": "BJ_011"
+        },
+        {
+            "decision": ".  She was transferred to the ICU for further monitoring.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1329,
+            "end_offset": 1382,
+            "annotation_id": "BJ_012"
+        },
+        {
+            "decision": "gap acidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1517,
+            "end_offset": 1529,
+            "annotation_id": "BJ_013"
+        },
+        {
+            "decision": "she developed acute on chronic renal failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1540,
+            "end_offset": 1584,
+            "annotation_id": "BJ_014"
+        },
+        {
+            "decision": "rise in her creatinine to 3.3 and her BUN to 64 and elevated amylase of 564 and lipase of 539, troponin leak of 0.2 with flat CKs",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1592,
+            "end_offset": 1721,
+            "annotation_id": "BJ_015"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2046,
+            "end_offset": 2049,
+            "annotation_id": "BJ_016"
+        },
+        {
+            "decision": "status post CABG in [**2103**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2051,
+            "end_offset": 2081,
+            "annotation_id": "BJ_017"
+        },
+        {
+            "decision": "CHF with an ejection fraction of 30 percent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2084,
+            "end_offset": 2127,
+            "annotation_id": "BJ_018"
+        },
+        {
+            "decision": "Type 1 diabetes diagnosed in [**2085**], complicated by DKA and triopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2130,
+            "end_offset": 2203,
+            "annotation_id": "BJ_019"
+        },
+        {
+            "decision": "Chronic renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2206,
+            "end_offset": 2233,
+            "annotation_id": "BJ_020"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2274,
+            "end_offset": 2286,
+            "annotation_id": "BJ_021"
+        },
+        {
+            "decision": "Carotid stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2289,
+            "end_offset": 2305,
+            "annotation_id": "BJ_022"
+        },
+        {
+            "decision": "status post left CEA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2307,
+            "end_offset": 2327,
+            "annotation_id": "BJ_023"
+        },
+        {
+            "decision": "Hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2344,
+            "annotation_id": "BJ_024"
+        },
+        {
+            "decision": "Recurrent pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2347,
+            "end_offset": 2369,
+            "annotation_id": "BJ_025"
+        },
+        {
+            "decision": "Status post cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2372,
+            "end_offset": 2399,
+            "annotation_id": "BJ_026"
+        },
+        {
+            "decision": "Gastroparesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2402,
+            "end_offset": 2415,
+            "annotation_id": "BJ_027"
+        },
+        {
+            "decision": "Pelvic fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2418,
+            "end_offset": 2433,
+            "annotation_id": "BJ_028"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2436,
+            "end_offset": 2442,
+            "annotation_id": "BJ_029"
+        },
+        {
+            "decision": "Aspirin 81 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2733,
+            "end_offset": 2755,
+            "annotation_id": "BJ_030"
+        },
+        {
+            "decision": "Lipitor 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2760,
+            "end_offset": 2782,
+            "annotation_id": "BJ_031"
+        },
+        {
+            "decision": "Lantus 20 units h.s.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2787,
+            "end_offset": 2806,
+            "annotation_id": "BJ_032"
+        },
+        {
+            "decision": "Lopressor 75 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2811,
+            "end_offset": 2837,
+            "annotation_id": "BJ_033"
+        },
+        {
+            "decision": "Sublingual nitroglycerin",
+            "category": "Category 5: Drug related",
+            "start_offset": 2842,
+            "end_offset": 2866,
+            "annotation_id": "BJ_034"
+        },
+        {
+            "decision": "Os-Cal 500 mg q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2871,
+            "end_offset": 2888,
+            "annotation_id": "BJ_035"
+        },
+        {
+            "decision": "Protonix 40 mg q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2893,
+            "end_offset": 2911,
+            "annotation_id": "BJ_036"
+        },
+        {
+            "decision": "Zestril 30 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2916,
+            "end_offset": 2938,
+            "annotation_id": "BJ_037"
+        },
+        {
+            "decision": "Hydralazine 50 mg q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2943,
+            "end_offset": 2964,
+            "annotation_id": "BJ_038"
+        },
+        {
+            "decision": "Lasix 20 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2975,
+            "end_offset": 2997,
+            "annotation_id": "BJ_039"
+        },
+        {
+            "decision": "Reglan",
+            "category": "Category 5: Drug related",
+            "start_offset": 3008,
+            "end_offset": 3014,
+            "annotation_id": "BJ_040"
+        },
+        {
+            "decision": "Sucralfate",
+            "category": "Category 5: Drug related",
+            "start_offset": 3025,
+            "end_offset": 3035,
+            "annotation_id": "BJ_041"
+        },
+        {
+            "decision": "Ventolin 40 t.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3046,
+            "end_offset": 3063,
+            "annotation_id": "BJ_042"
+        },
+        {
+            "decision": "Calcium carbonate",
+            "category": "Category 5: Drug related",
+            "start_offset": 3074,
+            "end_offset": 3091,
+            "annotation_id": "BJ_043"
+        },
+        {
+            "decision": "Imdur 120 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3102,
+            "end_offset": 3123,
+            "annotation_id": "BJ_044"
+        },
+        {
+            "decision": "Vital signs stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3162,
+            "end_offset": 3180,
+            "annotation_id": "BJ_045"
+        },
+        {
+            "decision": "General, no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3182,
+            "end_offset": 3211,
+            "annotation_id": "BJ_046"
+        },
+        {
+            "decision": "HEENT, dry mucous membranes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3214,
+            "end_offset": 3241,
+            "annotation_id": "BJ_047"
+        },
+        {
+            "decision": "Neck exam, JVP approximately 10 cm at 45 degrees.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3243,
+            "end_offset": 3291,
+            "annotation_id": "BJ_048"
+        },
+        {
+            "decision": "Cardiovascular exam, regular rate, S1, S2, 2/6 systolic murmur heard best at the right upper sternal border",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3293,
+            "end_offset": 3400,
+            "annotation_id": "BJ_049"
+        },
+        {
+            "decision": "Pulmonary exam, decreased breath sounds at the bases, no crackles or wheezing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3402,
+            "end_offset": 3479,
+            "annotation_id": "BJ_050"
+        },
+        {
+            "decision": "Abdominal exam benign",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3482,
+            "end_offset": 3503,
+            "annotation_id": "BJ_051"
+        },
+        {
+            "decision": "Extremity exam benign",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3506,
+            "end_offset": 3527,
+            "annotation_id": "BJ_052"
+        },
+        {
+            "decision": "Rectal exam, guaiac-negative brown stool",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3530,
+            "end_offset": 3570,
+            "annotation_id": "BJ_053"
+        },
+        {
+            "decision": ", guaiac-negative brown stool.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3543,
+            "end_offset": 3570,
+            "annotation_id": "BJ_054"
+        },
+        {
+            "decision": "DKA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3591,
+            "end_offset": 3594,
+            "annotation_id": "BJ_055"
+        },
+        {
+            "decision": "insulin drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3631,
+            "end_offset": 3643,
+            "annotation_id": "BJ_056"
+        },
+        {
+            "decision": "Her electrolytes remained within normal limits ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3691,
+            "end_offset": 3737,
+            "annotation_id": "BJ_057"
+        },
+        {
+            "decision": "gap acidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3761,
+            "end_offset": 3773,
+            "annotation_id": "BJ_058"
+        },
+        {
+            "decision": "Glargine and a sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 3803,
+            "end_offset": 3831,
+            "annotation_id": "BJ_059"
+        },
+        {
+            "decision": "She tolerated her p.o. intake without emesis; however, she was intermittently nauseated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3834,
+            "end_offset": 3921,
+            "annotation_id": "BJ_060"
+        },
+        {
+            "decision": "maintained on a Humalog sliding scale ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4021,
+            "end_offset": 4058,
+            "annotation_id": "BJ_061"
+        },
+        {
+            "decision": "as well as her Lantus dosing",
+            "category": "Category 5: Drug related",
+            "start_offset": 4059,
+            "end_offset": 4087,
+            "annotation_id": "BJ_062"
+        },
+        {
+            "decision": "insulin, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4176,
+            "end_offset": 4183,
+            "annotation_id": "BJ_063"
+        },
+        {
+            "decision": "Infectious disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4308,
+            "end_offset": 4326,
+            "annotation_id": "BJ_064"
+        },
+        {
+            "decision": "viral gastroenteriti",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4380,
+            "end_offset": 4401,
+            "annotation_id": "BJ_065"
+        },
+        {
+            "decision": "She did have evidence of MRSA in her urine",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4404,
+            "end_offset": 4446,
+            "annotation_id": "BJ_066"
+        },
+        {
+            "decision": "ciprofloxacin was discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 4460,
+            "end_offset": 4490,
+            "annotation_id": "BJ_067"
+        },
+        {
+            "decision": "The patient was started on vancomycin, which was renally dosed",
+            "category": "Category 5: Drug related",
+            "start_offset": 4493,
+            "end_offset": 4555,
+            "annotation_id": "BJ_068"
+        },
+        {
+            "decision": "renally dosed given her renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4542,
+            "end_offset": 4585,
+            "annotation_id": "BJ_069"
+        },
+        {
+            "decision": "renal insufficiency.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4566,
+            "end_offset": 4585,
+            "annotation_id": "BJ_070"
+        },
+        {
+            "decision": "Acute on chronic renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4588,
+            "end_offset": 4618,
+            "annotation_id": "BJ_071"
+        },
+        {
+            "decision": "The patient sees Dr.[**Doctor Last Name 4849**] as an outpatient ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4621,
+            "end_offset": 4685,
+            "annotation_id": "BJ_072"
+        },
+        {
+            "decision": "diabetic nephropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4694,
+            "end_offset": 4714,
+            "annotation_id": "BJ_073"
+        },
+        {
+            "decision": "receive IV fluids with slow resolution ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4826,
+            "end_offset": 4864,
+            "annotation_id": "BJ_074"
+        },
+        {
+            "decision": "renal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4872,
+            "end_offset": 4891,
+            "annotation_id": "BJ_075"
+        },
+        {
+            "decision": "her creatinine slowly began to decrease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4897,
+            "end_offset": 4936,
+            "annotation_id": "BJ_076"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4939,
+            "end_offset": 4942,
+            "annotation_id": "BJ_077"
+        },
+        {
+            "decision": "unstable angina",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5014,
+            "end_offset": 5029,
+            "annotation_id": "BJ_078"
+        },
+        {
+            "decision": "there were nonspecific EKG changes associated with this",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5040,
+            "end_offset": 5095,
+            "annotation_id": "BJ_079"
+        },
+        {
+            "decision": "troponin leak ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5134,
+            "end_offset": 5147,
+            "annotation_id": "BJ_080"
+        },
+        {
+            "decision": "CKs were flat",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5185,
+            "end_offset": 5198,
+            "annotation_id": "BJ_081"
+        },
+        {
+            "decision": "Her EKG and cardiac enzymes were unremarkable for active ischemia",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5201,
+            "end_offset": 5266,
+            "annotation_id": "BJ_082"
+        },
+        {
+            "decision": "maintained on aspirin, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5280,
+            "end_offset": 5301,
+            "annotation_id": "BJ_083"
+        },
+        {
+            "decision": ", beta-blocker",
+            "category": "Category 5: Drug related",
+            "start_offset": 5303,
+            "end_offset": 5315,
+            "annotation_id": "BJ_084"
+        },
+        {
+            "decision": "statin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5317,
+            "end_offset": 5323,
+            "annotation_id": "BJ_085"
+        },
+        {
+            "decision": "nitrate",
+            "category": "Category 5: Drug related",
+            "start_offset": 5325,
+            "end_offset": 5332,
+            "annotation_id": "BJ_086"
+        },
+        {
+            "decision": "We were holding her ACE inhibitor",
+            "category": "Category 5: Drug related",
+            "start_offset": 5335,
+            "end_offset": 5368,
+            "annotation_id": "BJ_087"
+        },
+        {
+            "decision": "worsening renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5387,
+            "end_offset": 5410,
+            "annotation_id": "BJ_088"
+        },
+        {
+            "decision": "She was also maintained on hydralazine ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5413,
+            "end_offset": 5451,
+            "annotation_id": "BJ_089"
+        },
+        {
+            "decision": "There was no evidence or signs of heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5500,
+            "end_offset": 5547,
+            "annotation_id": "BJ_090"
+        },
+        {
+            "decision": "She was not maintained on her diuretics or her ACE inhibitor",
+            "category": "Category 5: Drug related",
+            "start_offset": 5550,
+            "end_offset": 5610,
+            "annotation_id": "BJ_091"
+        },
+        {
+            "decision": "acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5633,
+            "end_offset": 5652,
+            "annotation_id": "BJ_092"
+        },
+        {
+            "decision": "Her volume status appeared to be euvolemic.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5655,
+            "end_offset": 5697,
+            "annotation_id": "BJ_093"
+        },
+        {
+            "decision": ".  Her electrolytes were repleted on a p.r.n. basis.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5709,
+            "end_offset": 5757,
+            "annotation_id": "BJ_094"
+        },
+        {
+            "decision": "The patient has a history of anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5774,
+            "end_offset": 5809,
+            "annotation_id": "BJ_095"
+        },
+        {
+            "decision": "aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5823,
+            "end_offset": 5830,
+            "annotation_id": "BJ_096"
+        },
+        {
+            "decision": "Her hematocrit was 29, was maintained above 30",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5833,
+            "end_offset": 5879,
+            "annotation_id": "BJ_097"
+        },
+        {
+            "decision": "transfusion ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5885,
+            "end_offset": 5896,
+            "annotation_id": "BJ_098"
+        },
+        {
+            "decision": "no evidence of active GI losses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5902,
+            "end_offset": 5933,
+            "annotation_id": "BJ_099"
+        },
+        {
+            "decision": "the patient's history of anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5942,
+            "end_offset": 5973,
+            "annotation_id": "BJ_100"
+        },
+        {
+            "decision": "the patient was instructed to have an outpatient colonoscopy for further workup as well as imaging of her abdomen",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5975,
+            "end_offset": 6088,
+            "annotation_id": "BJ_101"
+        },
+        {
+            "decision": "history of poorly controlled diabetes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6130,
+            "end_offset": 6167,
+            "annotation_id": "BJ_102"
+        },
+        {
+            "decision": "concern was for GI malignancy contributing to this anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6172,
+            "end_offset": 6229,
+            "annotation_id": "BJ_103"
+        },
+        {
+            "decision": "as well as her chronic bouts of DKA and pancreatitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6230,
+            "end_offset": 6282,
+            "annotation_id": "BJ_104"
+        },
+        {
+            "decision": "Diabetic ketoacidosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6307,
+            "end_offset": 6328,
+            "annotation_id": "BJ_105"
+        },
+        {
+            "decision": "Poorly controlled type 1 diabetes complicated by nephropathy, retinopathy, and neuropathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6331,
+            "end_offset": 6420,
+            "annotation_id": "BJ_106"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6423,
+            "end_offset": 6446,
+            "annotation_id": "BJ_107"
+        },
+        {
+            "decision": "status post coronary artery bypass graft",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6448,
+            "end_offset": 6488,
+            "annotation_id": "BJ_108"
+        },
+        {
+            "decision": "unstable angina",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6494,
+            "end_offset": 6509,
+            "annotation_id": "BJ_109"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6512,
+            "end_offset": 6518,
+            "annotation_id": "BJ_110"
+        },
+        {
+            "decision": "guaiac-positive stool",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6520,
+            "end_offset": 6541,
+            "annotation_id": "BJ_111"
+        },
+        {
+            "decision": "The patient is stable, tolerating p.o. intake with resolution of her symptoms.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6640,
+            "end_offset": 6717,
+            "annotation_id": "BJ_112"
+        },
+        {
+            "decision": "The patient had a PICC line placed during this hospitalization.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6751,
+            "end_offset": 6813,
+            "annotation_id": "BJ_113"
+        },
+        {
+            "decision": "The patient will see Dr. [**Last Name (STitle) 1538**] as an outpatient as well as a visit to the [**Hospital **] Clinic",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6840,
+            "end_offset": 6960,
+            "annotation_id": "BJ_114"
+        },
+        {
+            "decision": "Aspirin 325 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6989,
+            "end_offset": 7012,
+            "annotation_id": "BJ_115"
+        },
+        {
+            "decision": "Protonix 40 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7017,
+            "end_offset": 7040,
+            "annotation_id": "BJ_116"
+        },
+        {
+            "decision": "Atorvastatin 10 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7045,
+            "end_offset": 7072,
+            "annotation_id": "BJ_117"
+        },
+        {
+            "decision": "Metoprolol 75 mg p.o. b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7077,
+            "end_offset": 7104,
+            "annotation_id": "BJ_118"
+        },
+        {
+            "decision": "Calcium carbonate 1 tablet q.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7109,
+            "end_offset": 7141,
+            "annotation_id": "BJ_119"
+        },
+        {
+            "decision": "Isosorbide mononitrate sustained release 60 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7146,
+            "end_offset": 7201,
+            "annotation_id": "BJ_120"
+        },
+        {
+            "decision": "Senna",
+            "category": "Category 5: Drug related",
+            "start_offset": 7206,
+            "end_offset": 7211,
+            "annotation_id": "BJ_121"
+        },
+        {
+            "decision": "Nitroglycerin sublingual tablet",
+            "category": "Category 5: Drug related",
+            "start_offset": 7216,
+            "end_offset": 7247,
+            "annotation_id": "BJ_122"
+        },
+        {
+            "decision": "Lisinopril 40 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7252,
+            "end_offset": 7277,
+            "annotation_id": "BJ_123"
+        },
+        {
+            "decision": "Hydralazine 50 mg p.o. t.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7288,
+            "end_offset": 7316,
+            "annotation_id": "BJ_124"
+        },
+        {
+            "decision": "Lantus 10 units subcutaneously at bedtime.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7327,
+            "end_offset": 7368,
+            "annotation_id": "BJ_125"
+        },
+        {
+            "decision": "Insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 7379,
+            "end_offset": 7400,
+            "annotation_id": "BJ_126"
+        },
+        {
+            "decision": "via PICC line",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7422,
+            "end_offset": 7435,
+            "annotation_id": "BJ_127"
+        },
+        {
+            "decision": "Vancomycin via PICC line, dosed according to renal    function for a total of 10 days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7411,
+            "end_offset": 7496,
+            "annotation_id": "BJ_128"
+        }
+    ]
+}

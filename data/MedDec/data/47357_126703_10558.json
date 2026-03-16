@@ -1,0 +1,622 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "47357_126703_10558",
+    "annotations": [
+        {
+            "decision": "Back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 239,
+            "end_offset": 248,
+            "annotation_id": "LZ_000"
+        },
+        {
+            "decision": "T1, T5, T7 decompression",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 288,
+            "end_offset": 312,
+            "annotation_id": "LZ_001"
+        },
+        {
+            "decision": "fusion C5-T10",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 314,
+            "end_offset": 327,
+            "annotation_id": "LZ_002"
+        },
+        {
+            "decision": "h/o of UC and PSC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 391,
+            "end_offset": 408,
+            "annotation_id": "LZ_003"
+        },
+        {
+            "decision": "s/p Whipple c/b pouchitis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 409,
+            "end_offset": 434,
+            "annotation_id": "LZ_004"
+        },
+        {
+            "decision": "transferred from [**Hospital 47**] Hospita",
+            "category": "Category 1: Contact related",
+            "start_offset": 443,
+            "end_offset": 486,
+            "annotation_id": "LZ_005"
+        },
+        {
+            "decision": "leg/arm parathesias",
+            "category": "Category 3: Defining problem",
+            "start_offset": 492,
+            "end_offset": 511,
+            "annotation_id": "LZ_006"
+        },
+        {
+            "decision": "MRI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 517,
+            "end_offset": 520,
+            "annotation_id": "LZ_007"
+        },
+        {
+            "decision": "showed cord compression at T7 from mets of unknown source",
+            "category": "Category 3: Defining problem",
+            "start_offset": 527,
+            "end_offset": 584,
+            "annotation_id": "LZ_008"
+        },
+        {
+            "decision": "MRI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1096,
+            "end_offset": 1099,
+            "annotation_id": "LZ_009"
+        },
+        {
+            "decision": "mets were noted at C7, T1, T2, T5, T7 with cord compression at T7",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1133,
+            "end_offset": 1198,
+            "annotation_id": "LZ_010"
+        },
+        {
+            "decision": "morphine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1213,
+            "end_offset": 1221,
+            "annotation_id": "LZ_011"
+        },
+        {
+            "decision": "decadron",
+            "category": "Category 5: Drug related",
+            "start_offset": 1226,
+            "end_offset": 1234,
+            "annotation_id": "LZ_012"
+        },
+        {
+            "decision": "cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 1354,
+            "end_offset": 1359,
+            "annotation_id": "LZ_013"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1362,
+            "end_offset": 1368,
+            "annotation_id": "LZ_014"
+        },
+        {
+            "decision": "pouchitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1373,
+            "end_offset": 1382,
+            "annotation_id": "LZ_015"
+        },
+        {
+            "decision": "He has lost 10 lbs in the last 6 months.  Chronic diarrhea, stable.  Intermittent pain in LIQ.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1480,
+            "end_offset": 1573,
+            "annotation_id": "LZ_016"
+        },
+        {
+            "decision": "Denies fever, chills, night sweats. Denies headache, vision problems. Denies chest pain or tightness, palpitations. Denies cough, shortness of breath, or wheezes. Denies nausea, vomiting, constipation, BRBPR, melena",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1579,
+            "end_offset": 1794,
+            "annotation_id": "LZ_017"
+        },
+        {
+            "decision": "Ulcerative colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1819,
+            "end_offset": 1837,
+            "annotation_id": "LZ_018"
+        },
+        {
+            "decision": "s/p colectomy and ileo-anal pull through",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1839,
+            "end_offset": 1879,
+            "annotation_id": "LZ_019"
+        },
+        {
+            "decision": "Primary sclerosing chlangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1880,
+            "end_offset": 1909,
+            "annotation_id": "LZ_020"
+        },
+        {
+            "decision": "s/p Whipple Chronic pouchitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1911,
+            "end_offset": 1940,
+            "annotation_id": "LZ_021"
+        },
+        {
+            "decision": "rifaxmin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1953,
+            "end_offset": 1961,
+            "annotation_id": "LZ_022"
+        },
+        {
+            "decision": "cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 1984,
+            "end_offset": 1989,
+            "annotation_id": "LZ_023"
+        },
+        {
+            "decision": "flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1990,
+            "end_offset": 1996,
+            "annotation_id": "LZ_024"
+        },
+        {
+            "decision": "Complex renal cyst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2008,
+            "end_offset": 2026,
+            "annotation_id": "LZ_025"
+        },
+        {
+            "decision": "Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2027,
+            "end_offset": 2033,
+            "annotation_id": "LZ_026"
+        },
+        {
+            "decision": "Eczema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2034,
+            "end_offset": 2040,
+            "annotation_id": "LZ_027"
+        },
+        {
+            "decision": "Gen: NAD, AOX3",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2403,
+            "end_offset": 2417,
+            "annotation_id": "LZ_028"
+        },
+        {
+            "decision": "HEENT: PERRLA, EOMI, MMM, sclera anicteric, not injected",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2418,
+            "end_offset": 2474,
+            "annotation_id": "LZ_029"
+        },
+        {
+            "decision": "Neck: no LAD, no JVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2475,
+            "end_offset": 2495,
+            "annotation_id": "LZ_030"
+        },
+        {
+            "decision": "Cardiovascular: RRR normal s1, s2, no murmurs appreciated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2496,
+            "end_offset": 2553,
+            "annotation_id": "LZ_031"
+        },
+        {
+            "decision": "Respiratory: Clear to auscultation bilaterally, no crackles, wheeze in LLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2554,
+            "end_offset": 2628,
+            "annotation_id": "LZ_032"
+        },
+        {
+            "decision": "Abd: normoactive bowel sounds, soft, non-tender, mildly distended",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2629,
+            "end_offset": 2694,
+            "annotation_id": "LZ_033"
+        },
+        {
+            "decision": "Extremities: No edema, 2+ DP pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2695,
+            "end_offset": 2730,
+            "annotation_id": "LZ_034"
+        },
+        {
+            "decision": "Neurological: MS [**6-12**] in BUEs, mild numbness along ulnar distribution bilaterally, MS 5-/5 in BLEs, no numbness in legs, upgoing babinski on R, equivocal on L, DTR's brisk but equal throughout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2731,
+            "end_offset": 2929,
+            "annotation_id": "LZ_035"
+        },
+        {
+            "decision": "Back:  no TTP or percussion along spine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2930,
+            "end_offset": 2969,
+            "annotation_id": "LZ_036"
+        },
+        {
+            "decision": "Integument: Warm, moist, no rash or ulceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2970,
+            "end_offset": 3016,
+            "annotation_id": "LZ_037"
+        },
+        {
+            "decision": "Psychiatric: appropriate, pleasant, not anxious",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3017,
+            "end_offset": 3064,
+            "annotation_id": "LZ_038"
+        },
+        {
+            "decision": "MRI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3571,
+            "end_offset": 3574,
+            "annotation_id": "LZ_039"
+        },
+        {
+            "decision": "There are mets involving the C7, T1, T2, T5, and T7 vertebrae.  Tumor extends into the canal at the T1, T5, and T7 levels.  There may be minimal extension into the anterior aspect of the cancal on the left at the T2 level",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3577,
+            "end_offset": 3798,
+            "annotation_id": "LZ_040"
+        },
+        {
+            "decision": "Tumor surrounds the cord and causes mild to moderate cord compression at the T7 level.  There is only a very small impression on the anterior aspect of the cord by tumor at the T5 level.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3800,
+            "end_offset": 3985,
+            "annotation_id": "LZ_041"
+        },
+        {
+            "decision": "h/o of UC and PSC ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4032,
+            "end_offset": 4049,
+            "annotation_id": "LZ_042"
+        },
+        {
+            "decision": "s/p Whipple",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4050,
+            "end_offset": 4061,
+            "annotation_id": "LZ_043"
+        },
+        {
+            "decision": "metastatic spine disease and cord compression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4172,
+            "end_offset": 4217,
+            "annotation_id": "LZ_044"
+        },
+        {
+            "decision": "MRI",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4221,
+            "end_offset": 4224,
+            "annotation_id": "LZ_045"
+        },
+        {
+            "decision": "Spinal cord compression with metastatic bone disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4229,
+            "end_offset": 4281,
+            "annotation_id": "LZ_046"
+        },
+        {
+            "decision": "Primary sclerosing cholangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4331,
+            "end_offset": 4361,
+            "annotation_id": "LZ_047"
+        },
+        {
+            "decision": "ursodiol",
+            "category": "Category 5: Drug related",
+            "start_offset": 4371,
+            "end_offset": 4379,
+            "annotation_id": "LZ_048"
+        },
+        {
+            "decision": "Chronic pouchitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4383,
+            "end_offset": 4400,
+            "annotation_id": "LZ_049"
+        },
+        {
+            "decision": "H/o UC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4403,
+            "end_offset": 4409,
+            "annotation_id": "LZ_050"
+        },
+        {
+            "decision": "s/p colectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4410,
+            "end_offset": 4423,
+            "annotation_id": "LZ_051"
+        },
+        {
+            "decision": "cipro",
+            "category": "Category 5: Drug related",
+            "start_offset": 4432,
+            "end_offset": 4437,
+            "annotation_id": "LZ_052"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 4439,
+            "end_offset": 4445,
+            "annotation_id": "LZ_053"
+        },
+        {
+            "decision": "Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4449,
+            "end_offset": 4455,
+            "annotation_id": "LZ_054"
+        },
+        {
+            "decision": "albuterol prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 4468,
+            "end_offset": 4481,
+            "annotation_id": "LZ_055"
+        },
+        {
+            "decision": "for decompression and stabilization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4744,
+            "end_offset": 4779,
+            "annotation_id": "LZ_056"
+        },
+        {
+            "decision": "tolerating it well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4810,
+            "end_offset": 4828,
+            "annotation_id": "LZ_057"
+        },
+        {
+            "decision": "anesthesia ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4849,
+            "end_offset": 4859,
+            "annotation_id": "LZ_058"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4895,
+            "end_offset": 4904,
+            "annotation_id": "LZ_059"
+        },
+        {
+            "decision": "transferred intubated to the TICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 4883,
+            "end_offset": 4916,
+            "annotation_id": "LZ_060"
+        },
+        {
+            "decision": "stable condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4920,
+            "end_offset": 4936,
+            "annotation_id": "LZ_061"
+        },
+        {
+            "decision": "extubated uneventfully",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4946,
+            "end_offset": 4968,
+            "annotation_id": "LZ_062"
+        },
+        {
+            "decision": "transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 4982,
+            "end_offset": 5006,
+            "annotation_id": "LZ_063"
+        },
+        {
+            "decision": "Pain was controlled with IV followed by PO medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 5049,
+            "end_offset": 5103,
+            "annotation_id": "LZ_064"
+        },
+        {
+            "decision": "Foley was discontinued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5106,
+            "end_offset": 5128,
+            "annotation_id": "LZ_065"
+        },
+        {
+            "decision": "progressed with therapy and was fully ambulatory",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5192,
+            "end_offset": 5240,
+            "annotation_id": "LZ_066"
+        },
+        {
+            "decision": "Oncology was contact[**Name (NI) **] to arrange follow-up",
+            "category": "Category 1: Contact related",
+            "start_offset": 5268,
+            "end_offset": 5325,
+            "annotation_id": "LZ_067"
+        },
+        {
+            "decision": "pain was well controlled, PO diet was tolerated, and once pt had passed PT, he was deemed stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5384,
+            "end_offset": 5480,
+            "annotation_id": "LZ_068"
+        },
+        {
+            "decision": "Loperamide 2 mg Capsule Sig: Two (2) Capsule PO QID (4 times a day) as needed for diarrhea.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5570,
+            "end_offset": 5660,
+            "annotation_id": "LZ_069"
+        },
+        {
+            "decision": "Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5665,
+            "end_offset": 5744,
+            "annotation_id": "LZ_070"
+        },
+        {
+            "decision": "Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5750,
+            "end_offset": 5843,
+            "annotation_id": "LZ_071"
+        },
+        {
+            "decision": "Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5849,
+            "end_offset": 5929,
+            "annotation_id": "LZ_072"
+        },
+        {
+            "decision": "Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5935,
+            "end_offset": 5994,
+            "annotation_id": "LZ_073"
+        },
+        {
+            "decision": "Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6001,
+            "end_offset": 6072,
+            "annotation_id": "LZ_074"
+        },
+        {
+            "decision": "Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6078,
+            "end_offset": 6147,
+            "annotation_id": "LZ_075"
+        },
+        {
+            "decision": "Ursodiol 300 mg Capsule Sig: Two (2) Capsule PO QAM (once a day (in the morning)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6153,
+            "end_offset": 6232,
+            "annotation_id": "LZ_076"
+        },
+        {
+            "decision": "Ursodiol 300 mg Capsule Sig: Three (3) Capsule PO QPM (once a day (in the evening)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6239,
+            "end_offset": 6320,
+            "annotation_id": "LZ_077"
+        },
+        {
+            "decision": "Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours) as needed for Pain. Disp:*80 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6328,
+            "end_offset": 6441,
+            "annotation_id": "LZ_078"
+        },
+        {
+            "decision": "Metastatic disease to thoracic spine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6561,
+            "end_offset": 6597,
+            "annotation_id": "LZ_079"
+        },
+        {
+            "decision": "s/p decompression and fusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6599,
+            "end_offset": 6627,
+            "annotation_id": "LZ_080"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6651,
+            "end_offset": 6805,
+            "annotation_id": "LZ_081"
+        },
+        {
+            "decision": "Keep incision clean and dry, daily dressing change until dry for 24hr, then may leave open to air and may shower - no bath",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6837,
+            "end_offset": 6959,
+            "annotation_id": "LZ_082"
+        },
+        {
+            "decision": "Continue PT exercises at home",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6963,
+            "end_offset": 6992,
+            "annotation_id": "LZ_083"
+        },
+        {
+            "decision": "No lifting > 10 lbs",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6996,
+            "end_offset": 7015,
+            "annotation_id": "LZ_084"
+        },
+        {
+            "decision": "Physical Therapy: Activity as tolerated. Maintain C-collar at all times, no neck ROM Assist with mobilization, ADL training, proprioceptive training; home-exercise program. Treatments Frequency: Keep incision clean and dry.  Daily dressing changes until dry for 24 hours, then leave open to air and may shower. ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7017,
+            "end_offset": 7326,
+            "annotation_id": "LZ_085"
+        },
+        {
+            "decision": "follow-up with Dr. [**Last Name (STitle) 1352**] in [**8-17**] days, call for appointment",
+            "category": "Category 1: Contact related",
+            "start_offset": 7409,
+            "end_offset": 7498,
+            "annotation_id": "LZ_086"
+        },
+        {
+            "decision": "follow-up with oncology, call office for appointment",
+            "category": "Category 1: Contact related",
+            "start_offset": 7502,
+            "end_offset": 7554,
+            "annotation_id": "LZ_087"
+        }
+    ]
+}

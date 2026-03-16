@@ -1,0 +1,825 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "16053_189195_53188",
+    "annotations": [
+        {
+            "decision": " chronic obstructive pulmonary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 230,
+            "end_offset": 267,
+            "annotation_id": "CY_000"
+        },
+        {
+            "decision": "obesity ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 269,
+            "end_offset": 276,
+            "annotation_id": "CY_001"
+        },
+        {
+            "decision": "and type II diabetes mellitus ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 277,
+            "end_offset": 306,
+            "annotation_id": "CY_002"
+        },
+        {
+            "decision": "treated with levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 688,
+            "end_offset": 713,
+            "annotation_id": "CY_003"
+        },
+        {
+            "decision": "for presumed pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 714,
+            "end_offset": 736,
+            "annotation_id": "CY_004"
+        },
+        {
+            "decision": "prednisone taper ",
+            "category": "Category 5: Drug related",
+            "start_offset": 743,
+            "end_offset": 759,
+            "annotation_id": "CY_005"
+        },
+        {
+            "decision": "for presumed chronic obstructive pulmonary disease flare",
+            "category": "Category 3: Defining problem",
+            "start_offset": 760,
+            "end_offset": 816,
+            "annotation_id": "CY_006"
+        },
+        {
+            "decision": "Atrovent ",
+            "category": "Category 5: Drug related",
+            "start_offset": 888,
+            "end_offset": 896,
+            "annotation_id": "CY_007"
+        },
+        {
+            "decision": "nebulizers,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 897,
+            "end_offset": 907,
+            "annotation_id": "CY_008"
+        },
+        {
+            "decision": "oxygen",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 909,
+            "end_offset": 915,
+            "annotation_id": "CY_009"
+        },
+        {
+            "decision": "intravenous Solu-Medrol",
+            "category": "Category 5: Drug related",
+            "start_offset": 917,
+            "end_offset": 940,
+            "annotation_id": "CY_010"
+        },
+        {
+            "decision": "levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 945,
+            "end_offset": 957,
+            "annotation_id": "CY_011"
+        },
+        {
+            "decision": "a chest x-ray was performed",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 962,
+            "end_offset": 989,
+            "annotation_id": "CY_012"
+        },
+        {
+            "decision": "he was unable to keep his mask on and he was given a 100% nonrebreather mask",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1014,
+            "end_offset": 1090,
+            "annotation_id": "CY_013"
+        },
+        {
+            "decision": "he became somnolent.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1116,
+            "end_offset": 1135,
+            "annotation_id": "CY_014"
+        },
+        {
+            "decision": "put on BiPAP at 50% oxygen ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1150,
+            "end_offset": 1176,
+            "annotation_id": "CY_015"
+        },
+        {
+            "decision": "continued to have labored respirations.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1181,
+            "end_offset": 1219,
+            "annotation_id": "CY_016"
+        },
+        {
+            "decision": "He was intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1222,
+            "end_offset": 1238,
+            "annotation_id": "CY_017"
+        },
+        {
+            "decision": "taken to the Medical Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 1243,
+            "end_offset": 1283,
+            "annotation_id": "CY_018"
+        },
+        {
+            "decision": "The patient was weaned off the ventilator ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1286,
+            "end_offset": 1327,
+            "annotation_id": "CY_019"
+        },
+        {
+            "decision": "He was treated with intravenous Solu-Medrol,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1401,
+            "end_offset": 1444,
+            "annotation_id": "CY_020"
+        },
+        {
+            "decision": "later changed to p.o. prednisone,",
+            "category": "Category 5: Drug related",
+            "start_offset": 1456,
+            "end_offset": 1488,
+            "annotation_id": "CY_021"
+        },
+        {
+            "decision": "levofloxacin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1499,
+            "end_offset": 1511,
+            "annotation_id": "CY_022"
+        },
+        {
+            "decision": "pneumonia and a chronic obstructive pulmonary disease flare",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1516,
+            "end_offset": 1575,
+            "annotation_id": "CY_023"
+        },
+        {
+            "decision": "hypercarbic respiratory arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1596,
+            "end_offset": 1626,
+            "annotation_id": "CY_024"
+        },
+        {
+            "decision": "the patient was admitted to the seventh floor of the [**Hospital Ward Name 1826**] Building to the [**Hospital **] medical team",
+            "category": "Category 1: Contact related",
+            "start_offset": 1694,
+            "end_offset": 1821,
+            "annotation_id": "CY_025"
+        },
+        {
+            "decision": "Chronic obstructive pulmonary disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2175,
+            "end_offset": 2212,
+            "annotation_id": "CY_026"
+        },
+        {
+            "decision": "Tobacco use.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2218,
+            "end_offset": 2229,
+            "annotation_id": "CY_027"
+        },
+        {
+            "decision": "Obesity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2235,
+            "end_offset": 2242,
+            "annotation_id": "CY_028"
+        },
+        {
+            "decision": "Type II diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2248,
+            "end_offset": 2273,
+            "annotation_id": "CY_029"
+        },
+        {
+            "decision": "Lower back pain (C6-C7 disc herniation).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2279,
+            "end_offset": 2317,
+            "annotation_id": "CY_030"
+        },
+        {
+            "decision": "Diverticulosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2324,
+            "end_offset": 2338,
+            "annotation_id": "CY_031"
+        },
+        {
+            "decision": "Levofloxacin 500 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 2385,
+            "end_offset": 2413,
+            "annotation_id": "CY_032"
+        },
+        {
+            "decision": "Enteric coated aspirin 325 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2415,
+            "end_offset": 2453,
+            "annotation_id": "CY_033"
+        },
+        {
+            "decision": "Heparin 5,000 units subcutaneous b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2455,
+            "end_offset": 2493,
+            "annotation_id": "CY_034"
+        },
+        {
+            "decision": "Prilosec 20 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2495,
+            "end_offset": 2518,
+            "annotation_id": "CY_035"
+        },
+        {
+            "decision": "Insulin sliding scale associated with fingersticks q.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2520,
+            "end_offset": 2576,
+            "annotation_id": "CY_036"
+        },
+        {
+            "decision": "nebulizers ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2587,
+            "end_offset": 2597,
+            "annotation_id": "CY_037"
+        },
+        {
+            "decision": "Atrovent nebulizers every four hours.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2578,
+            "end_offset": 2614,
+            "annotation_id": "CY_038"
+        },
+        {
+            "decision": "Norvasc 5 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2616,
+            "end_offset": 2637,
+            "annotation_id": "CY_039"
+        },
+        {
+            "decision": "Prednisone 60 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2639,
+            "end_offset": 2664,
+            "annotation_id": "CY_040"
+        },
+        {
+            "decision": "Flonase two sprays per nostril b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2666,
+            "end_offset": 2702,
+            "annotation_id": "CY_041"
+        },
+        {
+            "decision": "Tylenol 650 mg p.o. every four to six hours p.r.n",
+            "category": "Category 5: Drug related",
+            "start_offset": 2704,
+            "end_offset": 2753,
+            "annotation_id": "CY_042"
+        },
+        {
+            "decision": "Ocean saline spray at two sprays per nostril p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2755,
+            "end_offset": 2805,
+            "annotation_id": "CY_043"
+        },
+        {
+            "decision": "He was sitting in a chair with nasal cannula in place, watching television and in no apparent distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3467,
+            "end_offset": 3569,
+            "annotation_id": "CY_044"
+        },
+        {
+            "decision": "He was speaking in full sentences. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3572,
+            "end_offset": 3605,
+            "annotation_id": "CY_045"
+        },
+        {
+            "decision": "On head, eyes, ears, nose and throat examination, the sclerae were injected but without icterus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3608,
+            "end_offset": 3703,
+            "annotation_id": "CY_046"
+        },
+        {
+            "decision": "There was positive conjunctival injection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3705,
+            "end_offset": 3746,
+            "annotation_id": "CY_047"
+        },
+        {
+            "decision": "The oropharynx was dry and without lesions.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3749,
+            "end_offset": 3791,
+            "annotation_id": "CY_048"
+        },
+        {
+            "decision": "The neck was supple without lymphadenopathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3794,
+            "end_offset": 3837,
+            "annotation_id": "CY_049"
+        },
+        {
+            "decision": "The lungs had scattered faint wheezes bilaterally with no rhonchi and good air movement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3840,
+            "end_offset": 3927,
+            "annotation_id": "CY_050"
+        },
+        {
+            "decision": "On cardiovascular examination, S1 and S2 were auscultated; there was a regular rate and rhythm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3930,
+            "end_offset": 4024,
+            "annotation_id": "CY_051"
+        },
+        {
+            "decision": "The abdomen had positive bowel sounds.  The abdomen was soft, obese, nontender and nondistended with no organomegaly and no masses palpated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4027,
+            "end_offset": 4166,
+            "annotation_id": "CY_052"
+        },
+        {
+            "decision": "The extremities had trace edema bilaterally below the knees with no calf tenderness bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4169,
+            "end_offset": 4264,
+            "annotation_id": "CY_053"
+        },
+        {
+            "decision": "The sputum culture showed no growth",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4934,
+            "end_offset": 4969,
+            "annotation_id": "CY_054"
+        },
+        {
+            "decision": "Blood cultures from [**2112-4-20**] were pending at the time of admission.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 4972,
+            "end_offset": 5045,
+            "annotation_id": "CY_055"
+        },
+        {
+            "decision": "A chest x-ray from [**2112-4-17**] showed bilateral lower lobe pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5060,
+            "end_offset": 5132,
+            "annotation_id": "CY_056"
+        },
+        {
+            "decision": "A chest x-ray from [**2112-4-20**] showed left heart failure with some slight improvement in comparison to a chest x-ray from [**2112-4-17**].  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5135,
+            "end_offset": 5276,
+            "annotation_id": "CY_057"
+        },
+        {
+            "decision": "A chest x-ray from [**2112-4-21**] showed a probably mild congestive heart failure superimposed on a bibasilar lower lobe pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5279,
+            "end_offset": 5410,
+            "annotation_id": "CY_058"
+        },
+        {
+            "decision": "chronic obstructive pulmonary disease,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5520,
+            "end_offset": 5557,
+            "annotation_id": "CY_059"
+        },
+        {
+            "decision": "obesity ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5559,
+            "end_offset": 5566,
+            "annotation_id": "CY_060"
+        },
+        {
+            "decision": "and noninsulin dependent diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5567,
+            "end_offset": 5609,
+            "annotation_id": "CY_061"
+        },
+        {
+            "decision": "chronic obstructive pulmonary disease exacerbation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5683,
+            "end_offset": 5733,
+            "annotation_id": "CY_062"
+        },
+        {
+            "decision": "and bilateral lower lobe pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5734,
+            "end_offset": 5768,
+            "annotation_id": "CY_063"
+        },
+        {
+            "decision": "leading to a hypercarbic respiratory arrest. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5769,
+            "end_offset": 5812,
+            "annotation_id": "CY_064"
+        },
+        {
+            "decision": ".  He was intubated in the Emergency Department ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5815,
+            "end_offset": 5859,
+            "annotation_id": "CY_065"
+        },
+        {
+            "decision": "sent to the Medical Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 5864,
+            "end_offset": 5903,
+            "annotation_id": "CY_066"
+        },
+        {
+            "decision": "The patient was then deemed stable enough",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5906,
+            "end_offset": 5947,
+            "annotation_id": "CY_067"
+        },
+        {
+            "decision": "for discharge to the Medical Service on the floor.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5948,
+            "end_offset": 5997,
+            "annotation_id": "CY_068"
+        },
+        {
+            "decision": ". Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6022,
+            "end_offset": 6031,
+            "annotation_id": "CY_069"
+        },
+        {
+            "decision": "continued to receive levofloxacin 500 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6094,
+            "end_offset": 6143,
+            "annotation_id": "CY_070"
+        },
+        {
+            "decision": "as well as oxygen via nasal cannula",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6145,
+            "end_offset": 6180,
+            "annotation_id": "CY_071"
+        },
+        {
+            "decision": "to keep his oxygen saturation greater than 92%",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 6181,
+            "end_offset": 6226,
+            "annotation_id": "CY_072"
+        },
+        {
+            "decision": "his cough, while present, was no longer productive of yellow sputum.  His rales had also disappeared",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6278,
+            "end_offset": 6378,
+            "annotation_id": "CY_073"
+        },
+        {
+            "decision": "Chronic obstructive pulmonary disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6406,
+            "end_offset": 6443,
+            "annotation_id": "CY_074"
+        },
+        {
+            "decision": "nebulizers",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6508,
+            "end_offset": 6518,
+            "annotation_id": "CY_075"
+        },
+        {
+            "decision": "continued to receive Atrovent nebulizers every four hours ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6478,
+            "end_offset": 6535,
+            "annotation_id": "CY_076"
+        },
+        {
+            "decision": "Flonase ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6547,
+            "end_offset": 6554,
+            "annotation_id": "CY_077"
+        },
+        {
+            "decision": "Ocean spray p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6559,
+            "end_offset": 6576,
+            "annotation_id": "CY_078"
+        },
+        {
+            "decision": "prednisone 60 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 6607,
+            "end_offset": 6632,
+            "annotation_id": "CY_079"
+        },
+        {
+            "decision": "Obstructive sleep apnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6918,
+            "end_offset": 6941,
+            "annotation_id": "CY_080"
+        },
+        {
+            "decision": "prescribed BiPAP for oxygenation during sleep at night",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6969,
+            "end_offset": 7023,
+            "annotation_id": "CY_081"
+        },
+        {
+            "decision": "his risk factors were numerous, including obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7190,
+            "end_offset": 7239,
+            "annotation_id": "CY_082"
+        },
+        {
+            "decision": "diabetes mellitus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7241,
+            "end_offset": 7258,
+            "annotation_id": "CY_083"
+        },
+        {
+            "decision": "tobacco use ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7278,
+            "end_offset": 7289,
+            "annotation_id": "CY_084"
+        },
+        {
+            "decision": "hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7308,
+            "end_offset": 7320,
+            "annotation_id": "CY_085"
+        },
+        {
+            "decision": "significant pitting pedal edema bilaterally.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7376,
+            "end_offset": 7419,
+            "annotation_id": "CY_086"
+        },
+        {
+            "decision": "receive enteric coated aspirin 325 mg p.o. q.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 7477,
+            "end_offset": 7523,
+            "annotation_id": "CY_087"
+        },
+        {
+            "decision": "Norvasc 5 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7529,
+            "end_offset": 7550,
+            "annotation_id": "CY_088"
+        },
+        {
+            "decision": "continued to receive fingersticks q.i.d. with the application of an insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 7633,
+            "end_offset": 7722,
+            "annotation_id": "CY_089"
+        },
+        {
+            "decision": "diabetes ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7729,
+            "end_offset": 7737,
+            "annotation_id": "CY_090"
+        },
+        {
+            "decision": "was controlled at home through diet ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7738,
+            "end_offset": 7773,
+            "annotation_id": "CY_091"
+        },
+        {
+            "decision": "did not require insulin or other medications.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7778,
+            "end_offset": 7822,
+            "annotation_id": "CY_092"
+        },
+        {
+            "decision": "Orders were sent to check for Clostridium difficile toxin",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7957,
+            "end_offset": 8014,
+            "annotation_id": "CY_093"
+        },
+        {
+            "decision": "his diarrhea had resolved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8043,
+            "end_offset": 8068,
+            "annotation_id": "CY_094"
+        },
+        {
+            "decision": "Prilosec 20 mg p.o. q.d. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8184,
+            "end_offset": 8207,
+            "annotation_id": "CY_095"
+        },
+        {
+            "decision": "he denied any active gastroesophageal reflux disease symptoms",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8213,
+            "end_offset": 8274,
+            "annotation_id": "CY_096"
+        },
+        {
+            "decision": "patient received subcutaneous heparin 5,000 units b.i.d., which was discontinued once he began ambulating.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8338,
+            "end_offset": 8443,
+            "annotation_id": "CY_097"
+        },
+        {
+            "decision": "He also had pneumoboots in bed until he also began ambulating",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8446,
+            "end_offset": 8507,
+            "annotation_id": "CY_098"
+        },
+        {
+            "decision": "Pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8531,
+            "end_offset": 8540,
+            "annotation_id": "CY_099"
+        },
+        {
+            "decision": "Chronic obstructive pulmonary disease.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8542,
+            "end_offset": 8579,
+            "annotation_id": "CY_100"
+        },
+        {
+            "decision": "Obesity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8581,
+            "end_offset": 8588,
+            "annotation_id": "CY_101"
+        },
+        {
+            "decision": "Noninsulin dependent diabetes mellitus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8590,
+            "end_offset": 8628,
+            "annotation_id": "CY_102"
+        },
+        {
+            "decision": "Lower back pain.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8630,
+            "end_offset": 8645,
+            "annotation_id": "CY_103"
+        },
+        {
+            "decision": "Diverticulosis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8647,
+            "end_offset": 8661,
+            "annotation_id": "CY_104"
+        },
+        {
+            "decision": "CONDITION ON DISCHARGE:  Stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8664,
+            "end_offset": 8695,
+            "annotation_id": "CY_105"
+        },
+        {
+            "decision": "Levofloxacin 500 mg p.o. q.d. times seven days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8721,
+            "end_offset": 8767,
+            "annotation_id": "CY_106"
+        },
+        {
+            "decision": "Enteric coated aspirin 325 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8769,
+            "end_offset": 8807,
+            "annotation_id": "CY_107"
+        },
+        {
+            "decision": "Atrovent two to three puffs q.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8809,
+            "end_offset": 8842,
+            "annotation_id": "CY_108"
+        },
+        {
+            "decision": "Prilosec 20 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8844,
+            "end_offset": 8867,
+            "annotation_id": "CY_109"
+        },
+        {
+            "decision": "Beconase four sprays to each nostril b.i.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8869,
+            "end_offset": 8911,
+            "annotation_id": "CY_110"
+        },
+        {
+            "decision": "Norvasc 7.5 mg p.o. q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8913,
+            "end_offset": 8936,
+            "annotation_id": "CY_111"
+        },
+        {
+            "decision": "Tylenol 650 mg p.o. every four hours p.r.n. for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8938,
+            "end_offset": 8990,
+            "annotation_id": "CY_112"
+        },
+        {
+            "decision": "Ocean spray two sprays to each nostril p.r.n.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8992,
+            "end_offset": 9036,
+            "annotation_id": "CY_113"
+        },
+        {
+            "decision": "Prednisone taper as follows:  60 mg p.o. q.d. for two days, followed by 50 mg p.o. q.d. for five days, followed by 40 mg p.o. q.d. times five days, followed by 30 mg p.o. q.d. times five days, followed by 20 mg p.o. q.d. times five days, followed by 10 mg p.o. q.d. times five days.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9038,
+            "end_offset": 9319,
+            "annotation_id": "CY_114"
+        },
+        {
+            "decision": "After a conversation with the Medical Service attending physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4026**], it was decided that the patient was to be discharged to home ",
+            "category": "Category 1: Contact related",
+            "start_offset": 9341,
+            "end_offset": 9572,
+            "annotation_id": "CY_115"
+        },
+        {
+            "decision": "The patient is to follow up on [**2112-5-2**] at 10:20 AM with Dr. [**Last Name (STitle) 4026**] at the [**Company 191**] East office for referral to an outpatient pulmonary program.",
+            "category": "Category 1: Contact related",
+            "start_offset": 9636,
+            "end_offset": 9817,
+            "annotation_id": "CY_116"
+        }
+    ]
+}

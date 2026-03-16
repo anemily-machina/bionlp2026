@@ -1,0 +1,636 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "59785_173042_54718",
+    "annotations": [
+        {
+            "decision": "code stroke",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 276,
+            "annotation_id": "NQ_000"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 316,
+            "end_offset": 326,
+            "annotation_id": "NQ_001"
+        },
+        {
+            "decision": "CODE STROKE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 356,
+            "end_offset": 367,
+            "annotation_id": "NQ_002"
+        },
+        {
+            "decision": "NIH Stroke Scale Score: 22",
+            "category": "Category 3: Defining problem",
+            "start_offset": 521,
+            "end_offset": 547,
+            "annotation_id": "NQ_003"
+        },
+        {
+            "decision": "t-[**MD Number(3) 6360**]: No",
+            "category": "Category 3: Defining problem",
+            "start_offset": 548,
+            "end_offset": 577,
+            "annotation_id": "NQ_004"
+        },
+        {
+            "decision": "Reason t-PA was not given or considered: patient on pradaxa, last known well time >5hrs",
+            "category": "Category 5: Drug related",
+            "start_offset": 578,
+            "end_offset": 665,
+            "annotation_id": "NQ_005"
+        },
+        {
+            "decision": "Code stroke unresponsiveness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 840,
+            "end_offset": 868,
+            "annotation_id": "NQ_006"
+        },
+        {
+            "decision": "hx of CAD, DVT, L MCA stroke ([**2186**]), ovarian ca",
+            "category": "Category 3: Defining problem",
+            "start_offset": 899,
+            "end_offset": 952,
+            "annotation_id": "NQ_007"
+        },
+        {
+            "decision": "s/p chemo [**2186**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 954,
+            "end_offset": 974,
+            "annotation_id": "NQ_008"
+        },
+        {
+            "decision": "SAH, dysphagia, presents to [**Hospital1 18**] with change in mental status (unresponsiveness).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 977,
+            "end_offset": 1070,
+            "annotation_id": "NQ_009"
+        },
+        {
+            "decision": "She was last seen normal at 1pm. At 4pm, an aide went in to check in on her and noted that she was sleepy and quite unarousable despite vigorous stimuli",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1318,
+            "end_offset": 1470,
+            "annotation_id": "NQ_010"
+        },
+        {
+            "decision": "She alerted EMS who found a normal FS (124) and otherwise normal vital signs (70 130/60 99% RA). At some point there was a concern for her eyes rolling back and given her overall condition and lack of responsiveness ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1472,
+            "end_offset": 1687,
+            "annotation_id": "NQ_011"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1692,
+            "end_offset": 1701,
+            "annotation_id": "NQ_012"
+        },
+        {
+            "decision": "propofol",
+            "category": "Category 5: Drug related",
+            "start_offset": 1729,
+            "end_offset": 1737,
+            "annotation_id": "NQ_013"
+        },
+        {
+            "decision": "noted on presentation to have eye deviation towards the right.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1791,
+            "end_offset": 1852,
+            "annotation_id": "NQ_014"
+        },
+        {
+            "decision": "She was diagnosed with LMCA in [**2186**] (unclear etiology of stroke) and was left with the following deficits: R hemiplegia, dysarthria and fluent aphasia, and limited ability to communicate verbally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1855,
+            "end_offset": 2056,
+            "annotation_id": "NQ_015"
+        },
+        {
+            "decision": "She has some dysarthria but is able to chew her food. She was never noted to have had a seizure while at this facility.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2131,
+            "end_offset": 2249,
+            "annotation_id": "NQ_016"
+        },
+        {
+            "decision": "She is on aspirin, fragmin and keppra (all of which she took today).",
+            "category": "Category 5: Drug related",
+            "start_offset": 2252,
+            "end_offset": 2318,
+            "annotation_id": "NQ_017"
+        },
+        {
+            "decision": "pt intubated sedated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2337,
+            "end_offset": 2357,
+            "annotation_id": "NQ_018"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2382,
+            "end_offset": 2385,
+            "annotation_id": "NQ_019"
+        },
+        {
+            "decision": "DVT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2386,
+            "end_offset": 2389,
+            "annotation_id": "NQ_020"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2390,
+            "end_offset": 2400,
+            "annotation_id": "NQ_021"
+        },
+        {
+            "decision": "L MCA stroke R Hemiparesis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2401,
+            "end_offset": 2427,
+            "annotation_id": "NQ_022"
+        },
+        {
+            "decision": "OA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2428,
+            "end_offset": 2430,
+            "annotation_id": "NQ_023"
+        },
+        {
+            "decision": "Ovarian CA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2431,
+            "end_offset": 2441,
+            "annotation_id": "NQ_024"
+        },
+        {
+            "decision": "s/p chemo in [**2186**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2443,
+            "end_offset": 2466,
+            "annotation_id": "NQ_025"
+        },
+        {
+            "decision": "intubated sedated with ETT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2750,
+            "end_offset": 2776,
+            "annotation_id": "NQ_026"
+        },
+        {
+            "decision": "NC/AT, no scleral icterus noted, MMM, tearing in both eyes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2784,
+            "end_offset": 2842,
+            "annotation_id": "NQ_027"
+        },
+        {
+            "decision": "Supple, no carotid bruits appreciated. No nuchal rigidity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2849,
+            "end_offset": 2906,
+            "annotation_id": "NQ_028"
+        },
+        {
+            "decision": "Lungs CTA bilaterally without R/R/W",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2918,
+            "end_offset": 2953,
+            "annotation_id": "NQ_029"
+        },
+        {
+            "decision": "irregular, S1S2,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2963,
+            "end_offset": 2978,
+            "annotation_id": "NQ_030"
+        },
+        {
+            "decision": "soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2989,
+            "end_offset": 3059,
+            "annotation_id": "NQ_031"
+        },
+        {
+            "decision": "No C/C/E bilaterally, 2+ radial, DP pulses bilaterally. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3074,
+            "end_offset": 3128,
+            "annotation_id": "NQ_032"
+        },
+        {
+            "decision": "(intubated)",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3477,
+            "end_offset": 3486,
+            "annotation_id": "NQ_033"
+        },
+        {
+            "decision": "Intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3535,
+            "end_offset": 3544,
+            "annotation_id": "NQ_034"
+        },
+        {
+            "decision": "off propofol for 10minutes ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3546,
+            "end_offset": 3572,
+            "annotation_id": "NQ_035"
+        },
+        {
+            "decision": "did not respond to voice and did not open eyes to command or sternal rub, did grimace to noxious in all limbs, did not follow commands",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3573,
+            "end_offset": 3707,
+            "annotation_id": "NQ_036"
+        },
+        {
+            "decision": "PERRL 2 to 1mm and brisk.  VFF to confrontation. Funduscopic exam difficult with small pupils",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3756,
+            "end_offset": 3849,
+            "annotation_id": "NQ_037"
+        },
+        {
+            "decision": "tonic deviation towards the right which could be overcome with VOR. VOR intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3863,
+            "end_offset": 3941,
+            "annotation_id": "NQ_038"
+        },
+        {
+            "decision": "No facial droop",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3990,
+            "end_offset": 4005,
+            "annotation_id": "NQ_039"
+        },
+        {
+            "decision": "+ gag,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4093,
+            "end_offset": 4096,
+            "annotation_id": "NQ_040"
+        },
+        {
+            "decision": "Normal bulk, increased tone on the right hemibody, increased tone on the left hemibody (arm was more flaccid than leg)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4108,
+            "end_offset": 4225,
+            "annotation_id": "NQ_041"
+        },
+        {
+            "decision": "No adventitious movements, such as tremor, noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4228,
+            "end_offset": 4276,
+            "annotation_id": "NQ_042"
+        },
+        {
+            "decision": "Spontaneous movements were noted in all extremities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4279,
+            "end_offset": 4330,
+            "annotation_id": "NQ_043"
+        },
+        {
+            "decision": "Sensory: withdrew to noxious in all limbs, possible extensor posturing on the left upper limb",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4335,
+            "end_offset": 4428,
+            "annotation_id": "NQ_044"
+        },
+        {
+            "decision": "Coordination/Gait: defered",
+            "category": "Category 8: Deferment",
+            "start_offset": 4586,
+            "end_offset": 4612,
+            "annotation_id": "NQ_045"
+        },
+        {
+            "decision": "ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4872,
+            "end_offset": 4945,
+            "annotation_id": "NQ_046"
+        },
+        {
+            "decision": "URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.014",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4970,
+            "end_offset": 5036,
+            "annotation_id": "NQ_047"
+        },
+        {
+            "decision": "URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5061,
+            "end_offset": 5165,
+            "annotation_id": "NQ_048"
+        },
+        {
+            "decision": "URINE  RBC-3* WBC-3 BACTERIA-FEW YEAST-NONE EPI-0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5190,
+            "end_offset": 5239,
+            "annotation_id": "NQ_049"
+        },
+        {
+            "decision": "URINE  MUCOUS-RARE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5264,
+            "end_offset": 5282,
+            "annotation_id": "NQ_050"
+        },
+        {
+            "decision": "There is increased mean transit time with matched decreased blood volume and blood flow in the right frontoparietal lobes, with associated mild hypodensity, consistent with an acute infarction in this region",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5710,
+            "end_offset": 5917,
+            "annotation_id": "NQ_051"
+        },
+        {
+            "decision": "Chronic left middle cerebral artery infarction involving the M1 segment on the left, with associated hypodensity in this region.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5923,
+            "end_offset": 6050,
+            "annotation_id": "NQ_052"
+        },
+        {
+            "decision": "Hyperdense focus in the right occipital lobe is suggestive of hemorrhage or recanalized vessel.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6056,
+            "end_offset": 6150,
+            "annotation_id": "NQ_053"
+        },
+        {
+            "decision": "Large right acute MCA territory infarct and left acute on chronic MCA territorial infarct with associated laminar necrosis and hemosiderin deposition.  Multiple smaller acute infarcts in the supratentorial and infratentorial brain suggesting thromboembolic origin",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6184,
+            "end_offset": 6447,
+            "annotation_id": "NQ_054"
+        },
+        {
+            "decision": "Left M1 occlusion, right MCA superior division occlusion and moderate to severe narrowing of the M2 segment of the right MCA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6453,
+            "end_offset": 6577,
+            "annotation_id": "NQ_055"
+        },
+        {
+            "decision": "the monitoring and support devices are unchanged. Newly appeared is a complete atelectasis of the middle lobe, causing enlarged right hemithorax basal parenchymal opacity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6656,
+            "end_offset": 6826,
+            "annotation_id": "NQ_056"
+        },
+        {
+            "decision": "CAD, DVT, L MCA stroke [**2186**] who presented with decreased responsiveness and was found to have new bilateral MCA strokes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6879,
+            "end_offset": 7004,
+            "annotation_id": "NQ_057"
+        },
+        {
+            "decision": "Her eyes crossed midline R to L and L to R, decreased tone and decreased spontaneous movements in the LUE and increased tone/reflexes in the right hemibody",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7082,
+            "end_offset": 7237,
+            "annotation_id": "NQ_058"
+        },
+        {
+            "decision": "Her combined -now bilateral- MCA strokes (one old, one new L MCA stroke) would likely have led to significant disability with increased weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7239,
+            "end_offset": 7383,
+            "annotation_id": "NQ_059"
+        },
+        {
+            "decision": "The cause of her stroke was most likely embolic in the setting of a hypercoaguable state secondary to malignancy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7416,
+            "end_offset": 7528,
+            "annotation_id": "NQ_060"
+        },
+        {
+            "decision": "She was continued on her antiplatelet [**Doctor Last Name 360**]. Fragmin was replaced by heparin sc at time of admission.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7530,
+            "end_offset": 7651,
+            "annotation_id": "NQ_061"
+        },
+        {
+            "decision": "Had BP goals autoregulate to <220 ",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 7653,
+            "end_offset": 7686,
+            "annotation_id": "NQ_062"
+        },
+        {
+            "decision": "prn hydral",
+            "category": "Category 5: Drug related",
+            "start_offset": 7687,
+            "end_offset": 7697,
+            "annotation_id": "NQ_063"
+        },
+        {
+            "decision": "Continued Keppra at home dose (1000mg [**Hospital1 **]).  Was on aspirin 300mg PR qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 7700,
+            "end_offset": 7784,
+            "annotation_id": "NQ_064"
+        },
+        {
+            "decision": "b/l MCA strokes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7947,
+            "end_offset": 7962,
+            "annotation_id": "NQ_065"
+        },
+        {
+            "decision": "extubate ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8033,
+            "end_offset": 8041,
+            "annotation_id": "NQ_066"
+        },
+        {
+            "decision": "transition to comfort care only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 8072,
+            "end_offset": 8103,
+            "annotation_id": "NQ_067"
+        },
+        {
+            "decision": "extuabed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8217,
+            "end_offset": 8225,
+            "annotation_id": "NQ_068"
+        },
+        {
+            "decision": "Was intubated on admission as above",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8346,
+            "end_offset": 8381,
+            "annotation_id": "NQ_069"
+        },
+        {
+            "decision": "Urine cx final neg. WBCs 13  up from 9.7",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8415,
+            "end_offset": 8455,
+            "annotation_id": "NQ_070"
+        },
+        {
+            "decision": "Pneumonia on chest x-ray",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8458,
+            "end_offset": 8482,
+            "annotation_id": "NQ_071"
+        },
+        {
+            "decision": "Treated with Vanc/Cefepime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8484,
+            "end_offset": 8510,
+            "annotation_id": "NQ_072"
+        },
+        {
+            "decision": "VAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8515,
+            "end_offset": 8518,
+            "annotation_id": "NQ_073"
+        },
+        {
+            "decision": "pt had troponin elevation with peak of 0.54, down to 0.43 today.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8609,
+            "end_offset": 8672,
+            "annotation_id": "NQ_074"
+        },
+        {
+            "decision": "Transitioned to comfort measures only",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 8683,
+            "end_offset": 8720,
+            "annotation_id": "NQ_075"
+        },
+        {
+            "decision": "aspirin 325mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 8758,
+            "end_offset": 8771,
+            "annotation_id": "NQ_076"
+        },
+        {
+            "decision": "bethanecol",
+            "category": "Category 5: Drug related",
+            "start_offset": 8772,
+            "end_offset": 8782,
+            "annotation_id": "NQ_077"
+        },
+        {
+            "decision": "alendronate",
+            "category": "Category 5: Drug related",
+            "start_offset": 8783,
+            "end_offset": 8794,
+            "annotation_id": "NQ_078"
+        },
+        {
+            "decision": "lorazepam prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8795,
+            "end_offset": 8808,
+            "annotation_id": "NQ_079"
+        },
+        {
+            "decision": "tylenol",
+            "category": "Category 5: Drug related",
+            "start_offset": 8809,
+            "end_offset": 8816,
+            "annotation_id": "NQ_080"
+        },
+        {
+            "decision": "omeprazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 8817,
+            "end_offset": 8827,
+            "annotation_id": "NQ_081"
+        },
+        {
+            "decision": "metoprolol 12.5mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 8828,
+            "end_offset": 8862,
+            "annotation_id": "NQ_082"
+        },
+        {
+            "decision": "simvastatin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8863,
+            "end_offset": 8874,
+            "annotation_id": "NQ_083"
+        },
+        {
+            "decision": "tamsulocin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8875,
+            "end_offset": 8885,
+            "annotation_id": "NQ_084"
+        },
+        {
+            "decision": "keppra 1000mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 8886,
+            "end_offset": 8916,
+            "annotation_id": "NQ_085"
+        },
+        {
+            "decision": "Fragmin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8917,
+            "end_offset": 8924,
+            "annotation_id": "NQ_086"
+        },
+        {
+            "decision": "R and L new MCA ischemic strokes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9012,
+            "end_offset": 9044,
+            "annotation_id": "NQ_087"
+        },
+        {
+            "decision": "Prior L MCA ischemic stroke",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9045,
+            "end_offset": 9072,
+            "annotation_id": "NQ_088"
+        },
+        {
+            "decision": "Ovarian cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9073,
+            "end_offset": 9087,
+            "annotation_id": "NQ_089"
+        }
+    ]
+}

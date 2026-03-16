@@ -1,0 +1,783 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "67377_177878_46882",
+    "annotations": [
+        {
+            "decision": "palpitations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 274,
+            "end_offset": 286,
+            "annotation_id": "OK_000"
+        },
+        {
+            "decision": "afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 390,
+            "end_offset": 394,
+            "annotation_id": "OK_001"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 398,
+            "end_offset": 406,
+            "annotation_id": "OK_002"
+        },
+        {
+            "decision": "systolic CHF with EF 30%, HTN, presented with palpatation x3 days, worsening dyspnea with exertion, increased peripheral edema with abdminal ascites over past week",
+            "category": "Category 3: Defining problem",
+            "start_offset": 408,
+            "end_offset": 571,
+            "annotation_id": "OK_003"
+        },
+        {
+            "decision": "Reports difficulty sleeping due to dyspnea and palpatations, sleeping recumbant on 1 pillow",
+            "category": "Category 3: Defining problem",
+            "start_offset": 573,
+            "end_offset": 664,
+            "annotation_id": "OK_004"
+        },
+        {
+            "decision": "Speaks full sentences in ED in no obvious respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 666,
+            "end_offset": 728,
+            "annotation_id": "OK_005"
+        },
+        {
+            "decision": "verapamil to 120 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 753,
+            "end_offset": 775,
+            "annotation_id": "OK_006"
+        },
+        {
+            "decision": "HR in 130s in Afib with good BPs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 903,
+            "end_offset": 935,
+            "annotation_id": "OK_007"
+        },
+        {
+            "decision": "10mg IV dilt x2",
+            "category": "Category 5: Drug related",
+            "start_offset": 944,
+            "end_offset": 959,
+            "annotation_id": "OK_008"
+        },
+        {
+            "decision": "diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1007,
+            "end_offset": 1015,
+            "annotation_id": "OK_009"
+        },
+        {
+            "decision": "she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1169,
+            "end_offset": 1359,
+            "annotation_id": "OK_010"
+        },
+        {
+            "decision": "He denies recent fevers, chills or rigors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1361,
+            "end_offset": 1402,
+            "annotation_id": "OK_011"
+        },
+        {
+            "decision": "He denies exertional buttock or calf pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1404,
+            "end_offset": 1445,
+            "annotation_id": "OK_012"
+        },
+        {
+            "decision": "absence of paroxysmal nocturnal dyspnea, orthopnea, syncope or presyncope",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1540,
+            "end_offset": 1613,
+            "annotation_id": "OK_013"
+        },
+        {
+            "decision": "Diabetes, + Dyslipidemia, + Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1663,
+            "end_offset": 1703,
+            "annotation_id": "OK_014"
+        },
+        {
+            "decision": "WDWN middle aged female in NAD. Oriented x3. Mood, affect appropriate.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2252,
+            "end_offset": 2321,
+            "annotation_id": "OK_015"
+        },
+        {
+            "decision": "NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2330,
+            "end_offset": 2446,
+            "annotation_id": "OK_016"
+        },
+        {
+            "decision": "Supple with JVP of 10 cm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2455,
+            "end_offset": 2479,
+            "annotation_id": "OK_017"
+        },
+        {
+            "decision": "PMI located in 5th intercostal space, midclavicular line. RR, normal S1, S2. [**1-12**] murmur no r/g. No thrills, lifts. No S3 or S4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2485,
+            "end_offset": 2618,
+            "annotation_id": "OK_018"
+        },
+        {
+            "decision": "No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. poor air movement, decreased breath sound b/l, wet crackles on right base, no wheezes or rhonchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2627,
+            "end_offset": 2819,
+            "annotation_id": "OK_019"
+        },
+        {
+            "decision": "Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2826,
+            "end_offset": 2917,
+            "annotation_id": "OK_020"
+        },
+        {
+            "decision": "No c/c/e. No femoral bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2924,
+            "end_offset": 2951,
+            "annotation_id": "OK_021"
+        },
+        {
+            "decision": "No stasis dermatitis, ulcers, scars, or xanthomas",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2959,
+            "end_offset": 3008,
+            "annotation_id": "OK_022"
+        },
+        {
+            "decision": "URINE RBC-0-2 WBC-0-2 Bacteri-RARE Yeast-NONE Epi-[**10-26**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4207,
+            "end_offset": 4268,
+            "annotation_id": "OK_023"
+        },
+        {
+            "decision": "URINE Blood-NEG Nitrite-NEG Protein-25 Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-4* pH-5.0 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4293,
+            "end_offset": 4393,
+            "annotation_id": "OK_024"
+        },
+        {
+            "decision": "URINE Color-Amber Appear-Clear Sp [**Last Name (un) **]-1.018",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4418,
+            "end_offset": 4479,
+            "annotation_id": "OK_025"
+        },
+        {
+            "decision": "2D-ECHOCARDIOGRAM ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4481,
+            "end_offset": 4498,
+            "annotation_id": "OK_026"
+        },
+        {
+            "decision": "L atrium dilation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4542,
+            "end_offset": 4559,
+            "annotation_id": "OK_027"
+        },
+        {
+            "decision": "Moderate global left ventricular hypokinesis (LVEF = 30-35%)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4561,
+            "end_offset": 4619,
+            "annotation_id": "OK_028"
+        },
+        {
+            "decision": "RV moderately dilated with moderate global free wall hypokinesis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4623,
+            "end_offset": 4687,
+            "annotation_id": "OK_029"
+        },
+        {
+            "decision": "No AS or AR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4689,
+            "end_offset": 4700,
+            "annotation_id": "OK_030"
+        },
+        {
+            "decision": "Moderate to severe (3+) MR, Moderate to severe [3+] TR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4702,
+            "end_offset": 4756,
+            "annotation_id": "OK_031"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4758,
+            "end_offset": 4816,
+            "annotation_id": "OK_032"
+        },
+        {
+            "decision": "In the setting of at least moderate to severe tricuspid regurgitation, the estimated pulmonary artery systolic pressure may be underestimated due to a very high right atrial pressure.]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4819,
+            "end_offset": 5001,
+            "annotation_id": "OK_033"
+        },
+        {
+            "decision": "Small pericardial effusion with no signs of tamponade.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5004,
+            "end_offset": 5057,
+            "annotation_id": "OK_034"
+        },
+        {
+            "decision": "Cardiology ECHO",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5078,
+            "end_offset": 5093,
+            "annotation_id": "OK_035"
+        },
+        {
+            "decision": "No mass/thrombus is seen in the left atrium or left atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5094,
+            "end_offset": 5162,
+            "annotation_id": "OK_036"
+        },
+        {
+            "decision": "Mild spontaneous echo contrast is present in the left atrial appendage",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5164,
+            "end_offset": 5234,
+            "annotation_id": "OK_037"
+        },
+        {
+            "decision": "The left atrial appendage emptying velocity is depressed (<0.2m/s)",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5236,
+            "end_offset": 5301,
+            "annotation_id": "OK_038"
+        },
+        {
+            "decision": "No spontaneous echo contrast or thrombus is seen in the body of the right atrium or the right atrial appendage.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5304,
+            "end_offset": 5414,
+            "annotation_id": "OK_039"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5416,
+            "end_offset": 5470,
+            "annotation_id": "OK_040"
+        },
+        {
+            "decision": "Overall left ventricular systolic function is moderately depressed (LVEF= 30 %). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5472,
+            "end_offset": 5548,
+            "annotation_id": "OK_041"
+        },
+        {
+            "decision": "Right ventricular chamber size is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5553,
+            "end_offset": 5593,
+            "annotation_id": "OK_042"
+        },
+        {
+            "decision": "with moderate global free wall hypokinesis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5595,
+            "end_offset": 5637,
+            "annotation_id": "OK_043"
+        },
+        {
+            "decision": "There are simple atheroma in the descending thoracic aorta and aortic arch",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5639,
+            "end_offset": 5713,
+            "annotation_id": "OK_044"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5715,
+            "end_offset": 5822,
+            "annotation_id": "OK_045"
+        },
+        {
+            "decision": "No aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5824,
+            "end_offset": 5855,
+            "annotation_id": "OK_046"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5857,
+            "end_offset": 5903,
+            "annotation_id": "OK_047"
+        },
+        {
+            "decision": "There is no mitral valve prolapse",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5905,
+            "end_offset": 5938,
+            "annotation_id": "OK_048"
+        },
+        {
+            "decision": "Moderate (2+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5940,
+            "end_offset": 6033,
+            "annotation_id": "OK_049"
+        },
+        {
+            "decision": "There is mild pulmonary artery systolic hypertension",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6035,
+            "end_offset": 6087,
+            "annotation_id": "OK_050"
+        },
+        {
+            "decision": "There is a small pericardial effusion, most prominent near the inferior wall",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6089,
+            "end_offset": 6165,
+            "annotation_id": "OK_051"
+        },
+        {
+            "decision": "There are no echocardiographic signs of tamponade.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6167,
+            "end_offset": 6216,
+            "annotation_id": "OK_052"
+        },
+        {
+            "decision": "Mild left atrial appendage spontaneous echo contrast with depressed ejection velocities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6231,
+            "end_offset": 6318,
+            "annotation_id": "OK_053"
+        },
+        {
+            "decision": "No left atrial/appendage thrombus seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6320,
+            "end_offset": 6358,
+            "annotation_id": "OK_054"
+        },
+        {
+            "decision": "Hypokinetic LV with moderate mitral regurgitation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6360,
+            "end_offset": 6409,
+            "annotation_id": "OK_055"
+        },
+        {
+            "decision": "Afib ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6447,
+            "end_offset": 6451,
+            "annotation_id": "OK_056"
+        },
+        {
+            "decision": "coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 6455,
+            "end_offset": 6463,
+            "annotation_id": "OK_057"
+        },
+        {
+            "decision": "systolic CHF with EF 30%, HTN, who presented with palpatations and found to be in Afib with RVR, and heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6465,
+            "end_offset": 6579,
+            "annotation_id": "OK_058"
+        },
+        {
+            "decision": "dopamine drip ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6605,
+            "end_offset": 6618,
+            "annotation_id": "OK_059"
+        },
+        {
+            "decision": "hypotension/bradycardia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6623,
+            "end_offset": 6646,
+            "annotation_id": "OK_060"
+        },
+        {
+            "decision": "IV diltiazem ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6668,
+            "end_offset": 6680,
+            "annotation_id": "OK_061"
+        },
+        {
+            "decision": "TEE and DCCV ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6703,
+            "end_offset": 6715,
+            "annotation_id": "OK_062"
+        },
+        {
+            "decision": "episode of hypotension secondary to low cardiac output in the setting of bradycardia as the result of multiple nodal agents for RVR control (received 40 IV dilt + 20 PO dilt + home metoprolol + 240 verapamil CR).  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6777,
+            "end_offset": 6987,
+            "annotation_id": "OK_063"
+        },
+        {
+            "decision": "repeat ECHO showed small pericardial effusion, EF stable (EF 30-35%) with 3+ MR, 3+ TR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7001,
+            "end_offset": 7087,
+            "annotation_id": "OK_064"
+        },
+        {
+            "decision": "dopamine",
+            "category": "Category 5: Drug related",
+            "start_offset": 7124,
+            "end_offset": 7132,
+            "annotation_id": "OK_065"
+        },
+        {
+            "decision": "amiodarone",
+            "category": "Category 5: Drug related",
+            "start_offset": 7134,
+            "end_offset": 7144,
+            "annotation_id": "OK_066"
+        },
+        {
+            "decision": "atropine",
+            "category": "Category 5: Drug related",
+            "start_offset": 7146,
+            "end_offset": 7154,
+            "annotation_id": "OK_067"
+        },
+        {
+            "decision": "calcium gluconate",
+            "category": "Category 5: Drug related",
+            "start_offset": 7156,
+            "end_offset": 7173,
+            "annotation_id": "OK_068"
+        },
+        {
+            "decision": "amiodarone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7227,
+            "end_offset": 7237,
+            "annotation_id": "OK_069"
+        },
+        {
+            "decision": "metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 7253,
+            "end_offset": 7263,
+            "annotation_id": "OK_070"
+        },
+        {
+            "decision": "atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7272,
+            "end_offset": 7291,
+            "annotation_id": "OK_071"
+        },
+        {
+            "decision": "lasix ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7353,
+            "end_offset": 7358,
+            "annotation_id": "OK_072"
+        },
+        {
+            "decision": "heart failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7367,
+            "end_offset": 7380,
+            "annotation_id": "OK_073"
+        },
+        {
+            "decision": "DCCV after TEE",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7397,
+            "end_offset": 7411,
+            "annotation_id": "OK_074"
+        },
+        {
+            "decision": "sinus rhythm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7436,
+            "end_offset": 7448,
+            "annotation_id": "OK_075"
+        },
+        {
+            "decision": "cardioversion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7460,
+            "end_offset": 7473,
+            "annotation_id": "OK_076"
+        },
+        {
+            "decision": "She will follow up with her PCP and cardiologist.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7565,
+            "end_offset": 7613,
+            "annotation_id": "OK_077"
+        },
+        {
+            "decision": "hydrochlorothiazide 12.5 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7674,
+            "end_offset": 7707,
+            "annotation_id": "OK_078"
+        },
+        {
+            "decision": "Cozaar 50 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7708,
+            "end_offset": 7726,
+            "annotation_id": "OK_079"
+        },
+        {
+            "decision": "metoprolol succinate 50 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7727,
+            "end_offset": 7759,
+            "annotation_id": "OK_080"
+        },
+        {
+            "decision": "verapamil 240 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 7760,
+            "end_offset": 7782,
+            "annotation_id": "OK_081"
+        },
+        {
+            "decision": "warfarin",
+            "category": "Category 5: Drug related",
+            "start_offset": 7783,
+            "end_offset": 7791,
+            "annotation_id": "OK_082"
+        },
+        {
+            "decision": "Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 10 days. Disp:*20 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7819,
+            "end_offset": 7931,
+            "annotation_id": "OK_083"
+        },
+        {
+            "decision": "Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day: Please start after you have completed the 10 day course of twice a day dosing. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 7935,
+            "end_offset": 8105,
+            "annotation_id": "OK_084"
+        },
+        {
+            "decision": "Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8109,
+            "end_offset": 8204,
+            "annotation_id": "OK_085"
+        },
+        {
+            "decision": "Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8208,
+            "end_offset": 8298,
+            "annotation_id": "OK_086"
+        },
+        {
+            "decision": "Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day. Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 8302,
+            "end_offset": 8474,
+            "annotation_id": "OK_087"
+        },
+        {
+            "decision": "PCP [**Name Initial (PRE) **]  [**Name10 (NameIs) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Fax: [**Telephone/Fax (1) 97841**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8590,
+            "end_offset": 8775,
+            "annotation_id": "OK_088"
+        },
+        {
+            "decision": "Congestive Heart Failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8871,
+            "end_offset": 8895,
+            "annotation_id": "OK_089"
+        },
+        {
+            "decision": "Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8896,
+            "end_offset": 8915,
+            "annotation_id": "OK_090"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8939,
+            "end_offset": 8972,
+            "annotation_id": "OK_091"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8974,
+            "end_offset": 9019,
+            "annotation_id": "OK_092"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9021,
+            "end_offset": 9062,
+            "annotation_id": "OK_093"
+        },
+        {
+            "decision": "You came with heart failure and were in atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9090,
+            "end_offset": 9149,
+            "annotation_id": "OK_094"
+        },
+        {
+            "decision": "diuresis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9173,
+            "end_offset": 9181,
+            "annotation_id": "OK_095"
+        },
+        {
+            "decision": "Hydrochlorothiazide 12.5 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9471,
+            "end_offset": 9504,
+            "annotation_id": "OK_096"
+        },
+        {
+            "decision": "Cozaar 50 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9505,
+            "end_offset": 9523,
+            "annotation_id": "OK_097"
+        },
+        {
+            "decision": "Metoprolol succinate 50 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9524,
+            "end_offset": 9556,
+            "annotation_id": "OK_098"
+        },
+        {
+            "decision": "Verapamil 240 mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9557,
+            "end_offset": 9579,
+            "annotation_id": "OK_099"
+        },
+        {
+            "decision": "Warfarin 5mg a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9580,
+            "end_offset": 9598,
+            "annotation_id": "OK_100"
+        },
+        {
+            "decision": "Amiodarone  200 mg Tablet  Sig:  One (1) Tablet PO BID (2 times a day) for 10 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 9612,
+            "end_offset": 9694,
+            "annotation_id": "OK_101"
+        },
+        {
+            "decision": "Amiodarone  200 mg Tablet  Sig:  One (1) Tablet PO once a day: Please start after you have completed the 10 day course of twice a day dosing",
+            "category": "Category 5: Drug related",
+            "start_offset": 9699,
+            "end_offset": 9839,
+            "annotation_id": "OK_102"
+        },
+        {
+            "decision": "Warfarin  2 mg Tablet  Sig:  One (1) Tablet PO Once Daily at 4 PM.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9844,
+            "end_offset": 9909,
+            "annotation_id": "OK_103"
+        },
+        {
+            "decision": "Furosemide  40 mg Tablet  Sig:  One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9914,
+            "end_offset": 9974,
+            "annotation_id": "OK_104"
+        },
+        {
+            "decision": "Metoprolol Succinate  25 mg Tablet Sustained Release 24 hr Sig:  One (1) Tablet Sustained Release 24 hr PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 9979,
+            "end_offset": 10096,
+            "annotation_id": "OK_105"
+        },
+        {
+            "decision": "Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 10169,
+            "end_offset": 10256,
+            "annotation_id": "OK_106"
+        },
+        {
+            "decision": "Provider: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 62**] Date/Time:Friday [**2193-5-24**] 2:30PM",
+            "category": "Category 1: Contact related",
+            "start_offset": 10282,
+            "end_offset": 10455,
+            "annotation_id": "OK_107"
+        },
+        {
+            "decision": "Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1013**], MD Phone:[**Telephone/Fax (1) 5068**] Date/Time:[**2193-5-21**] 10:15; [**Location (un) **].",
+            "category": "Category 1: Contact related",
+            "start_offset": 10458,
+            "end_offset": 10632,
+            "annotation_id": "OK_108"
+        },
+        {
+            "decision": "PCP [**Name Initial (PRE) 2169**]: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 41966**] [**Street Address(2) **], 4W, [**Location (un) **], [**Numeric Identifier 822**]. Date/Time: [**2193-5-21**] 3:30PM.",
+            "category": "Category 1: Contact related",
+            "start_offset": 10635,
+            "end_offset": 10891,
+            "annotation_id": "OK_109"
+        },
+        {
+            "decision": "New PCP if you prefer: Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) 815**], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2193-5-22**] 2:35",
+            "category": "Category 1: Contact related",
+            "start_offset": 10894,
+            "end_offset": 11055,
+            "annotation_id": "OK_110"
+        }
+    ]
+}

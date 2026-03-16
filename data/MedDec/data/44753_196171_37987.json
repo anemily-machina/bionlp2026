@@ -1,0 +1,510 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "44753_196171_37987",
+    "annotations": [
+        {
+            "decision": "Left foot pain and discomfort with discharge",
+            "category": "Category 3: Defining problem",
+            "start_offset": 268,
+            "end_offset": 312,
+            "annotation_id": "LO_000"
+        },
+        {
+            "decision": "Irrigation and debridement with bone biopsy of left foot",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 352,
+            "end_offset": 408,
+            "annotation_id": "LO_001"
+        },
+        {
+            "decision": "multiple foot surgery ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 462,
+            "end_offset": 483,
+            "annotation_id": "LO_002"
+        },
+        {
+            "decision": "history of osteomyolitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 488,
+            "end_offset": 512,
+            "annotation_id": "LO_003"
+        },
+        {
+            "decision": "She continues to have pain and draining form her left foot.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 515,
+            "end_offset": 573,
+            "annotation_id": "LO_004"
+        },
+        {
+            "decision": "AOx3, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 666,
+            "end_offset": 675,
+            "annotation_id": "LO_005"
+        },
+        {
+            "decision": "RRR, No M/R/G",
+            "category": "Category 3: Defining problem",
+            "start_offset": 683,
+            "end_offset": 696,
+            "annotation_id": "LO_006"
+        },
+        {
+            "decision": "CTA-B",
+            "category": "Category 3: Defining problem",
+            "start_offset": 704,
+            "end_offset": 709,
+            "annotation_id": "LO_007"
+        },
+        {
+            "decision": "positive capillary refill, positive [**Last Name (un) 938**] and FHL, NVI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 719,
+            "end_offset": 792,
+            "annotation_id": "LO_008"
+        },
+        {
+            "decision": "transferred to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2960,
+            "end_offset": 2982,
+            "annotation_id": "LO_009"
+        },
+        {
+            "decision": "nafcillin desensitization",
+            "category": "Category 5: Drug related",
+            "start_offset": 2987,
+            "end_offset": 3012,
+            "annotation_id": "LO_010"
+        },
+        {
+            "decision": "penicllin allergy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3024,
+            "end_offset": 3041,
+            "annotation_id": "LO_011"
+        },
+        {
+            "decision": "Tissue cultures revealed an MSSA osteomyelitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3044,
+            "end_offset": 3090,
+            "annotation_id": "LO_012"
+        },
+        {
+            "decision": "long-term antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 3127,
+            "end_offset": 3148,
+            "annotation_id": "LO_013"
+        },
+        {
+            "decision": "nafcillin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3168,
+            "end_offset": 3177,
+            "annotation_id": "LO_014"
+        },
+        {
+            "decision": "She was given 7 escalating titrations of nafcillin, with H1 and H2 blockers (Benadryl, famotidine), methylprednisolone, ibuprofen, and epinephrine on hand",
+            "category": "Category 5: Drug related",
+            "start_offset": 3317,
+            "end_offset": 3471,
+            "annotation_id": "LO_015"
+        },
+        {
+            "decision": "She tolerated the desensitization well and did not require any of these medications.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3503,
+            "end_offset": 3586,
+            "annotation_id": "LO_016"
+        },
+        {
+            "decision": "A PICC line was placed while in the unit ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3589,
+            "end_offset": 3629,
+            "annotation_id": "LO_017"
+        },
+        {
+            "decision": "long-term antibiotic administration",
+            "category": "Category 5: Drug related",
+            "start_offset": 3634,
+            "end_offset": 3669,
+            "annotation_id": "LO_018"
+        },
+        {
+            "decision": "On routine blood testing, a transaminitis was noted",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3672,
+            "end_offset": 3723,
+            "annotation_id": "LO_019"
+        },
+        {
+            "decision": "nafcillin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3757,
+            "end_offset": 3766,
+            "annotation_id": "LO_020"
+        },
+        {
+            "decision": "orthopaedic surgery service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3801,
+            "end_offset": 3828,
+            "annotation_id": "LO_021"
+        },
+        {
+            "decision": "Patient received perioperative IV antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 4033,
+            "end_offset": 4078,
+            "annotation_id": "LO_022"
+        },
+        {
+            "decision": "pain was initially controlled with a PCA followed by a transition to oral pain medications on POD#1",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4092,
+            "end_offset": 4191,
+            "annotation_id": "LO_023"
+        },
+        {
+            "decision": "received lovenox ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4206,
+            "end_offset": 4222,
+            "annotation_id": "LO_024"
+        },
+        {
+            "decision": "DVT prophylaxis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4227,
+            "end_offset": 4242,
+            "annotation_id": "LO_025"
+        },
+        {
+            "decision": "The patient was seen daily by physical therapy",
+            "category": "Category 1: Contact related",
+            "start_offset": 4279,
+            "end_offset": 4325,
+            "annotation_id": "LO_026"
+        },
+        {
+            "decision": "At the time of discharge the patient was tolerating a regular diet and feeling well",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4328,
+            "end_offset": 4411,
+            "annotation_id": "LO_027"
+        },
+        {
+            "decision": "The patient was afebrile with stable vital signs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4414,
+            "end_offset": 4462,
+            "annotation_id": "LO_028"
+        },
+        {
+            "decision": "The patient's  pain was adequately controlled on an oral regimen",
+            "category": "Category 5: Drug related",
+            "start_offset": 4465,
+            "end_offset": 4529,
+            "annotation_id": "LO_029"
+        },
+        {
+            "decision": "The operative extremity was neurovascularly intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4531,
+            "end_offset": 4581,
+            "annotation_id": "LO_030"
+        },
+        {
+            "decision": "non-weight-bearing on the left  lower extremity.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4600,
+            "end_offset": 4647,
+            "annotation_id": "LO_031"
+        },
+        {
+            "decision": "stable condition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4720,
+            "end_offset": 4736,
+            "annotation_id": "LO_032"
+        },
+        {
+            "decision": "nafcillin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4760,
+            "end_offset": 4769,
+            "annotation_id": "LO_033"
+        },
+        {
+            "decision": "PICC line flushes",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4771,
+            "end_offset": 4788,
+            "annotation_id": "LO_034"
+        },
+        {
+            "decision": "Lovenox",
+            "category": "Category 5: Drug related",
+            "start_offset": 4790,
+            "end_offset": 4797,
+            "annotation_id": "LO_035"
+        },
+        {
+            "decision": "pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 4799,
+            "end_offset": 4814,
+            "annotation_id": "LO_036"
+        },
+        {
+            "decision": "oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours. Disp:*60 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 4875,
+            "end_offset": 4983,
+            "annotation_id": "LO_037"
+        },
+        {
+            "decision": "enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) 40mg/0.4mL syringe Subcutaneous DAILY (Daily) for 3 weeks: End date: [**2159-3-16**]. Disp:*21 syringe* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 4987,
+            "end_offset": 5147,
+            "annotation_id": "LO_038"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5151,
+            "end_offset": 5259,
+            "annotation_id": "LO_039"
+        },
+        {
+            "decision": "aspirin, buffered 325 mg Tablet Sig: One (1) Tablet PO twice a day: Begin after the completion of lovenox. Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5263,
+            "end_offset": 5401,
+            "annotation_id": "LO_040"
+        },
+        {
+            "decision": "docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5405,
+            "end_offset": 5513,
+            "annotation_id": "LO_041"
+        },
+        {
+            "decision": "sodium chloride 0.9 % 0.9 % Syringe Sig: One (1) syringe Injection Q8H (every 8 hours) as needed for line flush. Disp:*60 syringe* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5517,
+            "end_offset": 5659,
+            "annotation_id": "LO_042"
+        },
+        {
+            "decision": "heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) mLs Intravenous PRN (as needed) as needed for line flush. Disp:*30 syringe* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5663,
+            "end_offset": 5804,
+            "annotation_id": "LO_043"
+        },
+        {
+            "decision": "nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: Two (2) grams Intravenous Q4H (every 4 hours) for 6 weeks: Est end date: [**2159-4-6**]. Disp:*504 grams* Refills:*1*",
+            "category": "Category 5: Drug related",
+            "start_offset": 5808,
+            "end_offset": 5973,
+            "annotation_id": "LO_044"
+        },
+        {
+            "decision": "Check CBC, BUN, Cr, ESR, CRP, and LFTs via PICC every Thurday. Fax labs results to ID RNs at [**Telephone/Fax (1) 1419**] ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 5997,
+            "end_offset": 6118,
+            "annotation_id": "LO_045"
+        },
+        {
+            "decision": "Left foot osteomyolitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6231,
+            "end_offset": 6254,
+            "annotation_id": "LO_046"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6278,
+            "end_offset": 6311,
+            "annotation_id": "LO_047"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6313,
+            "end_offset": 6358,
+            "annotation_id": "LO_048"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6360,
+            "end_offset": 6432,
+            "annotation_id": "LO_049"
+        },
+        {
+            "decision": "Please return to the emergency department or notify your physician if you experience any of the following: severe pain not relieved by medication, increased swelling, decreased sensation, difficulty with movement, fevers greater than 101.5, shaking chills, increasing redness or drainage from the incision site, chest pain, shortness of breath or any other concerns",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6464,
+            "end_offset": 6829,
+            "annotation_id": "LO_050"
+        },
+        {
+            "decision": "Please follow up with your primary physician regarding this admission and any new medications and refills.??????",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6835,
+            "end_offset": 6941,
+            "annotation_id": "LO_051"
+        },
+        {
+            "decision": "Resume your home medications unless otherwise instructed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6952,
+            "end_offset": 7008,
+            "annotation_id": "LO_052"
+        },
+        {
+            "decision": "You have been given medications for pain control. Please do not drive, operate heavy machinery, or drink alcohol while taking these medications. As your pain decreases, take fewer tablets and increase the time between doses",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7014,
+            "end_offset": 7237,
+            "annotation_id": "LO_053"
+        },
+        {
+            "decision": "This medication can cause constipation, so you should drink plenty of water daily and take a stool softener (such as colace) as needed to prevent this side effect",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7239,
+            "end_offset": 7401,
+            "annotation_id": "LO_054"
+        },
+        {
+            "decision": "Call your surgeons office 3 days before you are out of medication so that it can be refilled.?????? These medications cannot be called into your pharmacy and must be picked up in the clinic or mailed to your house.?????? Please allow an extra 2 days if you would like your medication mailed to your home.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7409,
+            "end_offset": 7712,
+            "annotation_id": "LO_055"
+        },
+        {
+            "decision": "You may not drive a car until cleared to do so by your surgeon or your primary physician",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7718,
+            "end_offset": 7806,
+            "annotation_id": "LO_056"
+        },
+        {
+            "decision": "Please call your surgeon's office to schedule or confirm your follow-up appointment in two (2) weeks",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7812,
+            "end_offset": 7912,
+            "annotation_id": "LO_057"
+        },
+        {
+            "decision": "Please DO NOT take any non-steroidal anti-inflammatory medications (NSAIDs such as celebrex, ibuprofen, advil, aleve, motrin, etc).",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7918,
+            "end_offset": 8047,
+            "annotation_id": "LO_058"
+        },
+        {
+            "decision": "Please continue your lovenox for three weeks",
+            "category": "Category 5: Drug related",
+            "start_offset": 8071,
+            "end_offset": 8115,
+            "annotation_id": "LO_059"
+        },
+        {
+            "decision": "After completing the lovenox, please take Aspirin 325mg?????? TWICE?????? daily for an additional three weeks.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8174,
+            "end_offset": 8283,
+            "annotation_id": "LO_060"
+        },
+        {
+            "decision": "Non-weight bearing as tolerated on the operative extremity. No strenuous exercise or heavy lifting until follow up appointment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8299,
+            "end_offset": 8425,
+            "annotation_id": "LO_061"
+        },
+        {
+            "decision": "Antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 8432,
+            "end_offset": 8443,
+            "annotation_id": "LO_062"
+        },
+        {
+            "decision": "PICC",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8444,
+            "end_offset": 8448,
+            "annotation_id": "LO_063"
+        },
+        {
+            "decision": "Please keep your PICC line clean dry",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8455,
+            "end_offset": 8491,
+            "annotation_id": "LO_064"
+        },
+        {
+            "decision": "antibiotic infusions ",
+            "category": "Category 5: Drug related",
+            "start_offset": 8497,
+            "end_offset": 8517,
+            "annotation_id": "LO_065"
+        },
+        {
+            "decision": "PICC line.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8551,
+            "end_offset": 8560,
+            "annotation_id": "LO_066"
+        },
+        {
+            "decision": "LLE NWB at all times",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8581,
+            "end_offset": 8601,
+            "annotation_id": "LO_067"
+        },
+        {
+            "decision": "2 crutches",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8602,
+            "end_offset": 8612,
+            "annotation_id": "LO_068"
+        },
+        {
+            "decision": "PICC line changes and line flushes per facility protocol",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8635,
+            "end_offset": 8691,
+            "annotation_id": "LO_069"
+        },
+        {
+            "decision": "Lab Draws  - Check CBC, BUN, Cr, ESR, CRP, LFTs  - Check every week (Thursdays)  - Fax results to Infectious Disease RNs at [**Telephone/Fax (1) 1419**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8692,
+            "end_offset": 8844,
+            "annotation_id": "LO_070"
+        },
+        {
+            "decision": "Please call [**Telephone/Fax (1) 1228**] to confirm your appointment. Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 27264**], [**MD Number(3) 3261**]:[**Telephone/Fax (1) 1228**] Date/Time:[**2159-3-8**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 8869,
+            "end_offset": 9130,
+            "annotation_id": "LO_071"
+        }
+    ]
+}

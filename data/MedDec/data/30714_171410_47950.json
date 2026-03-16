@@ -1,0 +1,958 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30714_171410_47950",
+    "annotations": [
+        {
+            "decision": "metastatic brain lesions.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 264,
+            "end_offset": 288,
+            "annotation_id": "KL_000"
+        },
+        {
+            "decision": "Left craniotomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 329,
+            "end_offset": 344,
+            "annotation_id": "KL_001"
+        },
+        {
+            "decision": "metastatic breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 349,
+            "end_offset": 373,
+            "annotation_id": "KL_002"
+        },
+        {
+            "decision": "invasive ductal breast carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 512,
+            "end_offset": 544,
+            "annotation_id": "KL_003"
+        },
+        {
+            "decision": "surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 580,
+            "end_offset": 587,
+            "annotation_id": "KL_004"
+        },
+        {
+            "decision": "reconstruction",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 589,
+            "end_offset": 603,
+            "annotation_id": "KL_005"
+        },
+        {
+            "decision": "chemotherapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 605,
+            "end_offset": 617,
+            "annotation_id": "KL_006"
+        },
+        {
+            "decision": "tamoxifen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 629,
+            "end_offset": 638,
+            "annotation_id": "KL_007"
+        },
+        {
+            "decision": "recurrence of her disease to the hip, her back as well as the calvarium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 748,
+            "end_offset": 819,
+            "annotation_id": "KL_008"
+        },
+        {
+            "decision": "whole brain radiation to the vertex ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 840,
+            "end_offset": 875,
+            "annotation_id": "KL_009"
+        },
+        {
+            "decision": "Taxol",
+            "category": "Category 5: Drug related",
+            "start_offset": 887,
+            "end_offset": 892,
+            "annotation_id": "KL_010"
+        },
+        {
+            "decision": "Herceptin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 897,
+            "end_offset": 906,
+            "annotation_id": "KL_011"
+        },
+        {
+            "decision": "chemotherapy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 920,
+            "end_offset": 932,
+            "annotation_id": "KL_012"
+        },
+        {
+            "decision": "Taxotere ",
+            "category": "Category 5: Drug related",
+            "start_offset": 954,
+            "end_offset": 962,
+            "annotation_id": "KL_013"
+        },
+        {
+            "decision": "Herceptin",
+            "category": "Category 5: Drug related",
+            "start_offset": 967,
+            "end_offset": 976,
+            "annotation_id": "KL_014"
+        },
+        {
+            "decision": "Intracranial MRI images revealed a progression of left vertex lytic mass with dura expansion ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1071,
+            "end_offset": 1163,
+            "annotation_id": "KL_015"
+        },
+        {
+            "decision": "dural based metastasis is involving the left parietal convexity measuring several cm with mass effect on the adjacent gyrus of the left parietal lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1225,
+            "end_offset": 1374,
+            "annotation_id": "KL_016"
+        },
+        {
+            "decision": "No significant vasogenic edema ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1376,
+            "end_offset": 1406,
+            "annotation_id": "KL_017"
+        },
+        {
+            "decision": "The dura showed significant enhancement",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1434,
+            "end_offset": 1473,
+            "annotation_id": "KL_018"
+        },
+        {
+            "decision": "CDH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1538,
+            "end_offset": 1541,
+            "annotation_id": "KL_019"
+        },
+        {
+            "decision": "aspirin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1566,
+            "end_offset": 1573,
+            "annotation_id": "KL_020"
+        },
+        {
+            "decision": "Coumadin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1578,
+            "end_offset": 1586,
+            "annotation_id": "KL_021"
+        },
+        {
+            "decision": "relatively well with no significant headache,  nausea, vomiting, dizziness or seizures ever since. The patient currently has no headaches or problems with the speech production or speech reception or cognition",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1619,
+            "end_offset": 1828,
+            "annotation_id": "KL_022"
+        },
+        {
+            "decision": "Breast Carcinoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1854,
+            "end_offset": 1870,
+            "annotation_id": "KL_023"
+        },
+        {
+            "decision": "Gen: WD/WN, comfortable, NAD.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1968,
+            "end_offset": 1996,
+            "annotation_id": "KL_024"
+        },
+        {
+            "decision": "HEENT: Pupils:ERRLA       EOMs intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1998,
+            "end_offset": 2035,
+            "annotation_id": "KL_025"
+        },
+        {
+            "decision": "Neck: Supple.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2036,
+            "end_offset": 2048,
+            "annotation_id": "KL_026"
+        },
+        {
+            "decision": "Lungs: CTA bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2050,
+            "end_offset": 2072,
+            "annotation_id": "KL_027"
+        },
+        {
+            "decision": "Cardiac: RRR. S1/S2.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2074,
+            "end_offset": 2093,
+            "annotation_id": "KL_028"
+        },
+        {
+            "decision": "Abd: Soft, NT, BS+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2095,
+            "end_offset": 2113,
+            "annotation_id": "KL_029"
+        },
+        {
+            "decision": "Extrem: Warm and well-perfused.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2114,
+            "end_offset": 2144,
+            "annotation_id": "KL_030"
+        },
+        {
+            "decision": "Neuro: Mental status: Awake and alert, cooperative with exam, normal affect.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2146,
+            "end_offset": 2221,
+            "annotation_id": "KL_031"
+        },
+        {
+            "decision": "Orientation: Oriented to person, place, and date",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2223,
+            "end_offset": 2271,
+            "annotation_id": "KL_032"
+        },
+        {
+            "decision": "Sensation: Intact to light touch, propioception, pinprick and vibration bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2362,
+            "end_offset": 2445,
+            "annotation_id": "KL_033"
+        },
+        {
+            "decision": "Propioception intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2448,
+            "end_offset": 2468,
+            "annotation_id": "KL_034"
+        },
+        {
+            "decision": "Toes downgoing bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2469,
+            "end_offset": 2495,
+            "annotation_id": "KL_035"
+        },
+        {
+            "decision": "Gait is wide based with mild instability.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2496,
+            "end_offset": 2536,
+            "annotation_id": "KL_036"
+        },
+        {
+            "decision": "positive pronator drift on the right side with mild drift diadochokinesis.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2538,
+            "end_offset": 2611,
+            "annotation_id": "KL_037"
+        },
+        {
+            "decision": "Symmetric reflexes are noted",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2613,
+            "end_offset": 2641,
+            "annotation_id": "KL_038"
+        },
+        {
+            "decision": "Breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2691,
+            "end_offset": 2704,
+            "annotation_id": "KL_039"
+        },
+        {
+            "decision": "status post craniectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2705,
+            "end_offset": 2728,
+            "annotation_id": "KL_040"
+        },
+        {
+            "decision": "brain metastases.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2733,
+            "end_offset": 2749,
+            "annotation_id": "KL_041"
+        },
+        {
+            "decision": "status post craniectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2884,
+            "end_offset": 2907,
+            "annotation_id": "KL_042"
+        },
+        {
+            "decision": "status post resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2934,
+            "end_offset": 2955,
+            "annotation_id": "KL_043"
+        },
+        {
+            "decision": "brain metastases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2959,
+            "end_offset": 2975,
+            "annotation_id": "KL_044"
+        },
+        {
+            "decision": "moderate pneumocephalus with small hemorrhage at the resection site",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2988,
+            "end_offset": 3055,
+            "annotation_id": "KL_045"
+        },
+        {
+            "decision": "There is no evidence for a marked mass effect or shift of normally midline structures",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3057,
+            "end_offset": 3142,
+            "annotation_id": "KL_046"
+        },
+        {
+            "decision": "The ventricles, cisterns, and sulci otherwise maintain a stable appearance",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3144,
+            "end_offset": 3218,
+            "annotation_id": "KL_047"
+        },
+        {
+            "decision": "white matter differentiation is preserved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3251,
+            "end_offset": 3292,
+            "annotation_id": "KL_048"
+        },
+        {
+            "decision": "Large hypodense area within the right occipital lobe is unchanged ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3294,
+            "end_offset": 3359,
+            "annotation_id": "KL_049"
+        },
+        {
+            "decision": "The osseous structures are otherwise unremarkable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3418,
+            "end_offset": 3467,
+            "annotation_id": "KL_050"
+        },
+        {
+            "decision": "There is mucosal thickening of most of the visualized paranasal sinuses",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3469,
+            "end_offset": 3540,
+            "annotation_id": "KL_051"
+        },
+        {
+            "decision": "The mastoid air cells are clear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3542,
+            "end_offset": 3573,
+            "annotation_id": "KL_052"
+        },
+        {
+            "decision": "Anticipated post-surgical changes including pneumocephalus and mild hemorrhage at the operative site",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3591,
+            "end_offset": 3691,
+            "annotation_id": "KL_053"
+        },
+        {
+            "decision": "Right occipital encephalomalacia is suggestive of prior infarct",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3696,
+            "end_offset": 3759,
+            "annotation_id": "KL_054"
+        },
+        {
+            "decision": "There is lucent area in the right parietal bone unchanged from outside CT ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3778,
+            "end_offset": 3851,
+            "annotation_id": "KL_055"
+        },
+        {
+            "decision": "bony metastasis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3867,
+            "end_offset": 3882,
+            "annotation_id": "KL_056"
+        },
+        {
+            "decision": "Metastatic breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3896,
+            "end_offset": 3920,
+            "annotation_id": "KL_057"
+        },
+        {
+            "decision": "Brain MRI of [**2189-1-17**] performed at another hospital and scanned into PACS in DICOM CD format.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 3935,
+            "end_offset": 4034,
+            "annotation_id": "KL_058"
+        },
+        {
+            "decision": "Following intravenous gadolinium administration, multiplanar spin echo T1-weighted and axial three-dimensional MP-RAGE T1-weighted images of the brain were obtained",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4048,
+            "end_offset": 4212,
+            "annotation_id": "KL_059"
+        },
+        {
+            "decision": "There is an enhancing mass in the left parietal dural mass, which extends to the calvarium",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4225,
+            "end_offset": 4315,
+            "annotation_id": "KL_060"
+        },
+        {
+            "decision": "There is minimal, if any, mass effect on the posterior frontal and anterior parietal parenchyma",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4317,
+            "end_offset": 4412,
+            "annotation_id": "KL_061"
+        },
+        {
+            "decision": "No intraparenchymal metastatic lesions are identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4414,
+            "end_offset": 4467,
+            "annotation_id": "KL_062"
+        },
+        {
+            "decision": "Gliosis with evidence of laminar necrosis is again seen in the medial right occipital lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4469,
+            "end_offset": 4559,
+            "annotation_id": "KL_063"
+        },
+        {
+            "decision": "sequela of a chronic infarction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4568,
+            "end_offset": 4599,
+            "annotation_id": "KL_064"
+        },
+        {
+            "decision": "Confluent low signal is seen in the deep and periventricular white matter of the cerebral hemispheres, unchanged ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4601,
+            "end_offset": 4713,
+            "annotation_id": "KL_065"
+        },
+        {
+            "decision": "sequela of whole brain radiation therapy, small vessel ischemic disease, or a combination of both.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4760,
+            "end_offset": 4857,
+            "annotation_id": "KL_066"
+        },
+        {
+            "decision": "There is fluid in the sphenoid sinuses",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4860,
+            "end_offset": 4898,
+            "annotation_id": "KL_067"
+        },
+        {
+            "decision": "The right maxillary sinus is nearly completely opacified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4900,
+            "end_offset": 4956,
+            "annotation_id": "KL_068"
+        },
+        {
+            "decision": "The right mastoid air cells are opacified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4958,
+            "end_offset": 4999,
+            "annotation_id": "KL_069"
+        },
+        {
+            "decision": "Left parietal dural mass extending to the calvarium",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5017,
+            "end_offset": 5068,
+            "annotation_id": "KL_070"
+        },
+        {
+            "decision": "Chronic infarction with laminar necrosis in the right occipital lobe",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5074,
+            "end_offset": 5142,
+            "annotation_id": "KL_071"
+        },
+        {
+            "decision": "Signal abnormalities in the white matter of the cerebral hemispheres",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5148,
+            "end_offset": 5216,
+            "annotation_id": "KL_072"
+        },
+        {
+            "decision": "sequela of whole brain radiation therapy, chronic small vessel ischemic disease, or a combination of both.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5238,
+            "end_offset": 5343,
+            "annotation_id": "KL_073"
+        },
+        {
+            "decision": "Fluid in the sphenoid and right posterior ethmoid sinuses",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5349,
+            "end_offset": 5406,
+            "annotation_id": "KL_074"
+        },
+        {
+            "decision": "Opacification of the right maxillary sinus. Opacification of right mastoid air cells.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5408,
+            "end_offset": 5492,
+            "annotation_id": "KL_075"
+        },
+        {
+            "decision": "breast cancer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5556,
+            "end_offset": 5569,
+            "annotation_id": "KL_076"
+        },
+        {
+            "decision": "multiple brain metasteses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5624,
+            "end_offset": 5649,
+            "annotation_id": "KL_077"
+        },
+        {
+            "decision": "craniotomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5699,
+            "end_offset": 5709,
+            "annotation_id": "KL_078"
+        },
+        {
+            "decision": "brain mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5714,
+            "end_offset": 5724,
+            "annotation_id": "KL_079"
+        },
+        {
+            "decision": "plegia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5789,
+            "end_offset": 5795,
+            "annotation_id": "KL_080"
+        },
+        {
+            "decision": "Pre operative right UE/LE minimally weak",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5797,
+            "end_offset": 5837,
+            "annotation_id": "KL_081"
+        },
+        {
+            "decision": "MRI showed no stroke",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5849,
+            "end_offset": 5869,
+            "annotation_id": "KL_082"
+        },
+        {
+            "decision": "head CT showed no hemorrhage.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5881,
+            "end_offset": 5909,
+            "annotation_id": "KL_083"
+        },
+        {
+            "decision": "She has improved motor function in the right leg following surgery, but the right arm continues to be very weak",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5912,
+            "end_offset": 6023,
+            "annotation_id": "KL_084"
+        },
+        {
+            "decision": "ASPIRIN 81 mg--1 tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6205,
+            "end_offset": 6251,
+            "annotation_id": "KL_085"
+        },
+        {
+            "decision": "CELEBREX 200 mg--1 capsule(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6252,
+            "end_offset": 6301,
+            "annotation_id": "KL_086"
+        },
+        {
+            "decision": "COREG 3.125 mg--1 tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6302,
+            "end_offset": 6349,
+            "annotation_id": "KL_087"
+        },
+        {
+            "decision": "DEXAMETHASONE 0.5 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 6350,
+            "end_offset": 6370,
+            "annotation_id": "KL_088"
+        },
+        {
+            "decision": "KYTRIL 1 mg--1 tablet(s) by mouth fri-sun",
+            "category": "Category 5: Drug related",
+            "start_offset": 6373,
+            "end_offset": 6414,
+            "annotation_id": "KL_089"
+        },
+        {
+            "decision": "LEXAPRO 20 mg--1 tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6415,
+            "end_offset": 6461,
+            "annotation_id": "KL_090"
+        },
+        {
+            "decision": "LORAZEPAM 0.5 mg--1 tablet(s) by mouth once a day as needed",
+            "category": "Category 5: Drug related",
+            "start_offset": 6462,
+            "end_offset": 6521,
+            "annotation_id": "KL_091"
+        },
+        {
+            "decision": "Minocycline 50 mg--1 capsule(s) by mouth twice a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6522,
+            "end_offset": 6574,
+            "annotation_id": "KL_092"
+        },
+        {
+            "decision": "OMEPRAZOLE 20 mg--1 capsule(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6575,
+            "end_offset": 6625,
+            "annotation_id": "KL_093"
+        },
+        {
+            "decision": "OXYCONTIN 20 mg--1 tablet(s) by mouth three times a day as needed for pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 6626,
+            "end_offset": 6700,
+            "annotation_id": "KL_094"
+        },
+        {
+            "decision": "PHENOBARBITAL 60 mg--1 tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6701,
+            "end_offset": 6753,
+            "annotation_id": "KL_095"
+        },
+        {
+            "decision": "PLAQUENIL 200 mg--1 tablet(s) by mouth once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6754,
+            "end_offset": 6803,
+            "annotation_id": "KL_096"
+        },
+        {
+            "decision": "STOOL SOFTENER 50 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 6804,
+            "end_offset": 6824,
+            "annotation_id": "KL_097"
+        },
+        {
+            "decision": "WARFARIN 1 mg",
+            "category": "Category 5: Drug related",
+            "start_offset": 6827,
+            "end_offset": 6840,
+            "annotation_id": "KL_098"
+        },
+        {
+            "decision": "Escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6872,
+            "end_offset": 6933,
+            "annotation_id": "KL_099"
+        },
+        {
+            "decision": "Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6939,
+            "end_offset": 7006,
+            "annotation_id": "KL_100"
+        },
+        {
+            "decision": "Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7012,
+            "end_offset": 7080,
+            "annotation_id": "KL_101"
+        },
+        {
+            "decision": "Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7086,
+            "end_offset": 7149,
+            "annotation_id": "KL_102"
+        },
+        {
+            "decision": "Minocycline 50 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7155,
+            "end_offset": 7225,
+            "annotation_id": "KL_103"
+        },
+        {
+            "decision": "Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7231,
+            "end_offset": 7336,
+            "annotation_id": "KL_104"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7342,
+            "end_offset": 7415,
+            "annotation_id": "KL_105"
+        },
+        {
+            "decision": "Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7421,
+            "end_offset": 7498,
+            "annotation_id": "KL_106"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7503,
+            "end_offset": 7561,
+            "annotation_id": "KL_107"
+        },
+        {
+            "decision": "Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO Q8H (every 8 hours) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7569,
+            "end_offset": 7701,
+            "annotation_id": "KL_108"
+        },
+        {
+            "decision": "Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7707,
+            "end_offset": 7769,
+            "annotation_id": "KL_109"
+        },
+        {
+            "decision": "Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7776,
+            "end_offset": 7893,
+            "annotation_id": "KL_110"
+        },
+        {
+            "decision": "Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7900,
+            "end_offset": 7982,
+            "annotation_id": "KL_111"
+        },
+        {
+            "decision": "Phenobarbital 30 mg Tablet Sig: Three (3) Tablet PO QAM (once a day (in the morning)).",
+            "category": "Category 5: Drug related",
+            "start_offset": 7989,
+            "end_offset": 8072,
+            "annotation_id": "KL_112"
+        },
+        {
+            "decision": "Insulin Lispro 100 unit/mL Solution Sig: One (1) Subcutaneous ASDIR (AS DIRECTED).",
+            "category": "Category 5: Drug related",
+            "start_offset": 8080,
+            "end_offset": 8160,
+            "annotation_id": "KL_113"
+        },
+        {
+            "decision": "Metastatic breast cancer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8288,
+            "end_offset": 8312,
+            "annotation_id": "KL_114"
+        },
+        {
+            "decision": "Have a family member check your incision daily for signs of infection",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8426,
+            "end_offset": 8495,
+            "annotation_id": "KL_115"
+        },
+        {
+            "decision": "Take your pain medicine as prescribed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8503,
+            "end_offset": 8540,
+            "annotation_id": "KL_116"
+        },
+        {
+            "decision": "Exercise should be limited to walking; no lifting, straining, excessive bending",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8548,
+            "end_offset": 8627,
+            "annotation_id": "KL_117"
+        },
+        {
+            "decision": "You may wash your hair only after sutures and/or staples have been removed",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8635,
+            "end_offset": 8709,
+            "annotation_id": "KL_118"
+        },
+        {
+            "decision": "You may shower before this time with assistance and use of a shower cap",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8717,
+            "end_offset": 8788,
+            "annotation_id": "KL_119"
+        },
+        {
+            "decision": "Increase your intake of fluids and fiber as pain medicine (narcotics) can cause constipation",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8796,
+            "end_offset": 8888,
+            "annotation_id": "KL_120"
+        },
+        {
+            "decision": "Unless directed by your doctor, do not take any anti-inflammatory medicines ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8896,
+            "end_offset": 8971,
+            "annotation_id": "KL_121"
+        },
+        {
+            "decision": "Motrin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8980,
+            "end_offset": 8986,
+            "annotation_id": "KL_122"
+        },
+        {
+            "decision": "aspirin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8988,
+            "end_offset": 8995,
+            "annotation_id": "KL_123"
+        },
+        {
+            "decision": "Advil",
+            "category": "Category 5: Drug related",
+            "start_offset": 8997,
+            "end_offset": 9002,
+            "annotation_id": "KL_124"
+        },
+        {
+            "decision": "Ibuprofen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9004,
+            "end_offset": 9013,
+            "annotation_id": "KL_125"
+        },
+        {
+            "decision": "If you have been prescribed an anti-seizure medicine, take it as prescribed and follow up with laboratory blood drawing as ordered",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9026,
+            "end_offset": 9156,
+            "annotation_id": "KL_126"
+        },
+        {
+            "decision": "Clearance to drive and return to work will be addressed at your post-operative office visit",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9164,
+            "end_offset": 9255,
+            "annotation_id": "KL_127"
+        },
+        {
+            "decision": "New onset of tremors or seizures",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9335,
+            "end_offset": 9367,
+            "annotation_id": "KL_128"
+        },
+        {
+            "decision": "Any confusion or change in mental status",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9375,
+            "end_offset": 9415,
+            "annotation_id": "KL_129"
+        },
+        {
+            "decision": "Any numbness, tingling, weakness in your extremities",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9423,
+            "end_offset": 9475,
+            "annotation_id": "KL_130"
+        },
+        {
+            "decision": "Pain or headache that is continually increasing or not relieved by pain medication",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9483,
+            "end_offset": 9565,
+            "annotation_id": "KL_131"
+        },
+        {
+            "decision": "Any signs of infection at the wound site: redness, swelling, tenderness, drainage",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9573,
+            "end_offset": 9654,
+            "annotation_id": "KL_132"
+        },
+        {
+            "decision": "Fever greater than or equal to 101?????? F",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9662,
+            "end_offset": 9704,
+            "annotation_id": "KL_133"
+        },
+        {
+            "decision": "PLEASE RETURN TO THE OFFICE IN 7 DAYS FOR REMOVAL OF YOUR STAPLES IF YOU ARE NOT ABLE TO HAVE THEM REMOVED AT REHAB.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9730,
+            "end_offset": 9845,
+            "annotation_id": "KL_134"
+        },
+        {
+            "decision": "PLEASE CALL [**Telephone/Fax (1) **] TO SCHEDULE AN APPOINTMENT WITH DR. [**Last Name (STitle) **] TO BE SEEN IN 4 WEEKS. YOU WILL NEED A CAT SCAN OF THE BRAIN WITHOUT CONTRAST",
+            "category": "Category 1: Contact related",
+            "start_offset": 9848,
+            "end_offset": 10024,
+            "annotation_id": "KL_135"
+        }
+    ]
+}

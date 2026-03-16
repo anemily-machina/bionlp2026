@@ -1,0 +1,1581 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "89992_125801_51544",
+    "annotations": [
+        {
+            "decision": "Dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 238,
+            "end_offset": 245,
+            "annotation_id": "QL_000"
+        },
+        {
+            "decision": "h/o CLL, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 329,
+            "end_offset": 336,
+            "annotation_id": "QL_001"
+        },
+        {
+            "decision": "975mg tylenol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 664,
+            "end_offset": 677,
+            "annotation_id": "QL_002"
+        },
+        {
+            "decision": "2mg SL morphine",
+            "category": "Category 5: Drug related",
+            "start_offset": 682,
+            "end_offset": 697,
+            "annotation_id": "QL_003"
+        },
+        {
+            "decision": "he was transferred to [**Hospital1 18**] ED.",
+            "category": "Category 1: Contact related",
+            "start_offset": 718,
+            "end_offset": 761,
+            "annotation_id": "QL_004"
+        },
+        {
+            "decision": "hypokalemia and diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 840,
+            "end_offset": 864,
+            "annotation_id": "QL_005"
+        },
+        {
+            "decision": "C diff negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 871,
+            "end_offset": 886,
+            "annotation_id": "QL_006"
+        },
+        {
+            "decision": "pseudomonal UTI due to chronic urinary retention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 945,
+            "end_offset": 993,
+            "annotation_id": "QL_007"
+        },
+        {
+            "decision": "fosfomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1004,
+            "end_offset": 1014,
+            "annotation_id": "QL_008"
+        },
+        {
+            "decision": ".  He was also being actively diuresed at rehab ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1044,
+            "end_offset": 1088,
+            "annotation_id": "QL_009"
+        },
+        {
+            "decision": "bibasilar rhonchi, possible cellulitis on RUE",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1216,
+            "end_offset": 1261,
+            "annotation_id": "QL_010"
+        },
+        {
+            "decision": "Blood and urine cultures drawn",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1652,
+            "end_offset": 1682,
+            "annotation_id": "QL_011"
+        },
+        {
+            "decision": "Imaging notable for CXR showing worsening moderate left effusion and basilar opacity (atelectasis and/or PNA)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1684,
+            "end_offset": 1792,
+            "annotation_id": "QL_012"
+        },
+        {
+            "decision": "He was given IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1795,
+            "end_offset": 1811,
+            "annotation_id": "QL_013"
+        },
+        {
+            "decision": "Vanc 1g",
+            "category": "Category 5: Drug related",
+            "start_offset": 1813,
+            "end_offset": 1820,
+            "annotation_id": "QL_014"
+        },
+        {
+            "decision": "Zosyn 4.5g",
+            "category": "Category 5: Drug related",
+            "start_offset": 1822,
+            "end_offset": 1832,
+            "annotation_id": "QL_015"
+        },
+        {
+            "decision": "hydrocortisone 100mg IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1834,
+            "end_offset": 1860,
+            "annotation_id": "QL_016"
+        },
+        {
+            "decision": "KCl 40mg IV x1",
+            "category": "Category 5: Drug related",
+            "start_offset": 1862,
+            "end_offset": 1876,
+            "annotation_id": "QL_017"
+        },
+        {
+            "decision": "Access with 18G PIV x2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1878,
+            "end_offset": 1900,
+            "annotation_id": "QL_018"
+        },
+        {
+            "decision": "Low dose peripheral levophed started",
+            "category": "Category 5: Drug related",
+            "start_offset": 1902,
+            "end_offset": 1938,
+            "annotation_id": "QL_019"
+        },
+        {
+            "decision": "On arrival to the MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 2024,
+            "end_offset": 2046,
+            "annotation_id": "QL_020"
+        },
+        {
+            "decision": "he has no complaints other than thirst",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2048,
+            "end_offset": 2086,
+            "annotation_id": "QL_021"
+        },
+        {
+            "decision": "Denies CP, SOB, dizziness, fever, chills",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2088,
+            "end_offset": 2128,
+            "annotation_id": "QL_022"
+        },
+        {
+            "decision": "(+) Per HPI, otherwise negative",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2157,
+            "end_offset": 2184,
+            "annotation_id": "QL_023"
+        },
+        {
+            "decision": "diagnosed with CLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2240,
+            "end_offset": 2258,
+            "annotation_id": "QL_024"
+        },
+        {
+            "decision": "6 cycles of Fludarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2274,
+            "end_offset": 2297,
+            "annotation_id": "QL_025"
+        },
+        {
+            "decision": "4 cycles of Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2313,
+            "end_offset": 2332,
+            "annotation_id": "QL_026"
+        },
+        {
+            "decision": "Fludarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2333,
+            "end_offset": 2344,
+            "annotation_id": "QL_027"
+        },
+        {
+            "decision": "4 cycles of R-CVP",
+            "category": "Category 5: Drug related",
+            "start_offset": 2360,
+            "end_offset": 2377,
+            "annotation_id": "QL_028"
+        },
+        {
+            "decision": "4 cycles of R-CHOP",
+            "category": "Category 5: Drug related",
+            "start_offset": 2393,
+            "end_offset": 2411,
+            "annotation_id": "QL_029"
+        },
+        {
+            "decision": "1 cycle Cytoxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2427,
+            "end_offset": 2442,
+            "annotation_id": "QL_030"
+        },
+        {
+            "decision": "Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2443,
+            "end_offset": 2450,
+            "annotation_id": "QL_031"
+        },
+        {
+            "decision": "1 cycle of R-CHOP",
+            "category": "Category 5: Drug related",
+            "start_offset": 2466,
+            "end_offset": 2483,
+            "annotation_id": "QL_032"
+        },
+        {
+            "decision": "1st cycle of FCR",
+            "category": "Category 5: Drug related",
+            "start_offset": 2499,
+            "end_offset": 2515,
+            "annotation_id": "QL_033"
+        },
+        {
+            "decision": "2nd cycle of FCR",
+            "category": "Category 5: Drug related",
+            "start_offset": 2531,
+            "end_offset": 2547,
+            "annotation_id": "QL_034"
+        },
+        {
+            "decision": "enrolled in protocol 08-052 A Phase I open Label Multiple-Dose, Dose-Escalation Study of MDX-1342 in patients with CD19 Positive Refractory/Relapsed Chronic Lymphocytic Leukemia",
+            "category": "Category 11: Other",
+            "start_offset": 2564,
+            "end_offset": 2741,
+            "annotation_id": "QL_035"
+        },
+        {
+            "decision": "CD19 Positive Refractory/Relapsed Chronic Lymphocytic Leukemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2679,
+            "end_offset": 2741,
+            "annotation_id": "QL_036"
+        },
+        {
+            "decision": "Received 4 doses, last dose [**2192-2-22**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 2743,
+            "end_offset": 2786,
+            "annotation_id": "QL_037"
+        },
+        {
+            "decision": "Fludarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2804,
+            "end_offset": 2815,
+            "annotation_id": "QL_038"
+        },
+        {
+            "decision": "Cytoxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2816,
+            "end_offset": 2823,
+            "annotation_id": "QL_039"
+        },
+        {
+            "decision": "Fludarabine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2841,
+            "end_offset": 2852,
+            "annotation_id": "QL_040"
+        },
+        {
+            "decision": "Cytoxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2853,
+            "end_offset": 2860,
+            "annotation_id": "QL_041"
+        },
+        {
+            "decision": "Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2862,
+            "end_offset": 2869,
+            "annotation_id": "QL_042"
+        },
+        {
+            "decision": "Cycle 1 Bendamustine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2886,
+            "end_offset": 2906,
+            "annotation_id": "QL_043"
+        },
+        {
+            "decision": "Cycle 2 Bendamustine",
+            "category": "Category 5: Drug related",
+            "start_offset": 2924,
+            "end_offset": 2944,
+            "annotation_id": "QL_044"
+        },
+        {
+            "decision": "Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 2945,
+            "end_offset": 2952,
+            "annotation_id": "QL_045"
+        },
+        {
+            "decision": "Cycle 3 Bendamustine (80 mg/m2 days 1&2)",
+            "category": "Category 5: Drug related",
+            "start_offset": 2969,
+            "end_offset": 3008,
+            "annotation_id": "QL_046"
+        },
+        {
+            "decision": "Cycle 4 Bendamustine (80 mg/m2 days 1&2)",
+            "category": "Category 5: Drug related",
+            "start_offset": 3027,
+            "end_offset": 3066,
+            "annotation_id": "QL_047"
+        },
+        {
+            "decision": "Cycle 5 Bendamustine (80 mg/m2 days 1&2) ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3085,
+            "end_offset": 3124,
+            "annotation_id": "QL_048"
+        },
+        {
+            "decision": "Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 3130,
+            "end_offset": 3137,
+            "annotation_id": "QL_049"
+        },
+        {
+            "decision": "Cycle 6 Bendamustine (80 mg/m2 days 1&2) ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3156,
+            "end_offset": 3195,
+            "annotation_id": "QL_050"
+        },
+        {
+            "decision": "Rituxan",
+            "category": "Category 5: Drug related",
+            "start_offset": 3201,
+            "end_offset": 3208,
+            "annotation_id": "QL_051"
+        },
+        {
+            "decision": "Alemtuzumab 30mg 3x/week  for 6 weeks",
+            "category": "Category 5: Drug related",
+            "start_offset": 3242,
+            "end_offset": 3279,
+            "annotation_id": "QL_052"
+        },
+        {
+            "decision": "CLL ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3381,
+            "end_offset": 3384,
+            "annotation_id": "QL_053"
+        },
+        {
+            "decision": "Bladder stones",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3399,
+            "end_offset": 3413,
+            "annotation_id": "QL_054"
+        },
+        {
+            "decision": "-->cystoscopic removal",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3416,
+            "end_offset": 3435,
+            "annotation_id": "QL_055"
+        },
+        {
+            "decision": "-->E coli sepsis described",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3438,
+            "end_offset": 3461,
+            "annotation_id": "QL_056"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3528,
+            "end_offset": 3540,
+            "annotation_id": "QL_057"
+        },
+        {
+            "decision": "Bronchiectasis and asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3543,
+            "end_offset": 3568,
+            "annotation_id": "QL_058"
+        },
+        {
+            "decision": "Hearing loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3623,
+            "end_offset": 3635,
+            "annotation_id": "QL_059"
+        },
+        {
+            "decision": "Macular degeneration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3638,
+            "end_offset": 3658,
+            "annotation_id": "QL_060"
+        },
+        {
+            "decision": "BPH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3661,
+            "end_offset": 3664,
+            "annotation_id": "QL_061"
+        },
+        {
+            "decision": "Ascites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3667,
+            "end_offset": 3674,
+            "annotation_id": "QL_062"
+        },
+        {
+            "decision": "LE edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3677,
+            "end_offset": 3685,
+            "annotation_id": "QL_063"
+        },
+        {
+            "decision": "CMV adrenalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3688,
+            "end_offset": 3703,
+            "annotation_id": "QL_064"
+        },
+        {
+            "decision": "h/o citrobacter pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3706,
+            "end_offset": 3731,
+            "annotation_id": "QL_065"
+        },
+        {
+            "decision": "CMV adrenalitis with adrenal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3734,
+            "end_offset": 3776,
+            "annotation_id": "QL_066"
+        },
+        {
+            "decision": "Aspergillosis Pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3779,
+            "end_offset": 3802,
+            "annotation_id": "QL_067"
+        },
+        {
+            "decision": "on chronic Voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 3803,
+            "end_offset": 3826,
+            "annotation_id": "QL_068"
+        },
+        {
+            "decision": "Kyperkalemia to 7.7, [**Last Name (un) **] secondary to urinary obstruction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3883,
+            "end_offset": 3958,
+            "annotation_id": "QL_069"
+        },
+        {
+            "decision": "foley placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3969,
+            "end_offset": 3984,
+            "annotation_id": "QL_070"
+        },
+        {
+            "decision": "anemia secondary to CLL ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3990,
+            "end_offset": 4013,
+            "annotation_id": "QL_071"
+        },
+        {
+            "decision": "2 units of PRBCs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4029,
+            "end_offset": 4045,
+            "annotation_id": "QL_072"
+        },
+        {
+            "decision": "PSEUDOMONAS AERUGINOSA UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4048,
+            "end_offset": 4074,
+            "annotation_id": "QL_073"
+        },
+        {
+            "decision": "Cipro x10 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 4099,
+            "end_offset": 4113,
+            "annotation_id": "QL_074"
+        },
+        {
+            "decision": "General: Alert, oriented to person, place, year, thinks it is [**Month (only) **], no acute distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4714,
+            "end_offset": 4814,
+            "annotation_id": "QL_075"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MM dry, oropharynx clear, EOMI, PERRL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4815,
+            "end_offset": 4877,
+            "annotation_id": "QL_076"
+        },
+        {
+            "decision": "Neck: supple, JVP 12",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4878,
+            "end_offset": 4898,
+            "annotation_id": "QL_077"
+        },
+        {
+            "decision": "CV: IIR, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4899,
+            "end_offset": 4949,
+            "annotation_id": "QL_078"
+        },
+        {
+            "decision": "Lungs: Coarse bibasilar breath sounds with rhonchi at L base, moderate air movement",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4950,
+            "end_offset": 5033,
+            "annotation_id": "QL_079"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds hypoactive, no rebound or guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5034,
+            "end_offset": 5123,
+            "annotation_id": "QL_080"
+        },
+        {
+            "decision": "GU: foley in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5124,
+            "end_offset": 5142,
+            "annotation_id": "QL_081"
+        },
+        {
+            "decision": "Ext: Warm, well perfused, palp pulses, no clubbing, cyanosis, 1+ pitting edema in calves b/l",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5143,
+            "end_offset": 5235,
+            "annotation_id": "QL_082"
+        },
+        {
+            "decision": "Neuro: moving all extremities, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5236,
+            "end_offset": 5265,
+            "annotation_id": "QL_083"
+        },
+        {
+            "decision": "gait deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 5267,
+            "end_offset": 5280,
+            "annotation_id": "QL_084"
+        },
+        {
+            "decision": "Skin: ecchymoses scattered throughout, b/l UE wrapped, skin tears on L knee",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5282,
+            "end_offset": 5357,
+            "annotation_id": "QL_085"
+        },
+        {
+            "decision": "GENERAL - elderly man, in NAD, comfortable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5419,
+            "end_offset": 5461,
+            "annotation_id": "QL_086"
+        },
+        {
+            "decision": "HEENT - NC/AT,EOMI, sclerae anicteric, MMM, OP clear",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5462,
+            "end_offset": 5514,
+            "annotation_id": "QL_087"
+        },
+        {
+            "decision": "NECK - supple, no thyromegaly, no JVD,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5515,
+            "end_offset": 5552,
+            "annotation_id": "QL_088"
+        },
+        {
+            "decision": "LUNGS -  rhonic and diffuse exp wheezes bilaterally,resp unlabored, no accessory muscle use",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5554,
+            "end_offset": 5645,
+            "annotation_id": "QL_089"
+        },
+        {
+            "decision": "HEART - irregular no m/r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5646,
+            "end_offset": 5672,
+            "annotation_id": "QL_090"
+        },
+        {
+            "decision": "ABDOMEN - NABS, soft, NTND disteneded no rebound/guarding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5673,
+            "end_offset": 5730,
+            "annotation_id": "QL_091"
+        },
+        {
+            "decision": "EXTREMITIES - WWP, 3+ edema b/l LE to shins 2+ peripheral pulses (radials, DPs)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5731,
+            "end_offset": 5809,
+            "annotation_id": "QL_092"
+        },
+        {
+            "decision": "SKIN - multiple ecchymoses b/l upper ext",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5811,
+            "end_offset": 5851,
+            "annotation_id": "QL_093"
+        },
+        {
+            "decision": "NEURO -  CNs II-XII grossly intact, moves all ext",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5852,
+            "end_offset": 5901,
+            "annotation_id": "QL_094"
+        },
+        {
+            "decision": "gait deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 5902,
+            "end_offset": 5915,
+            "annotation_id": "QL_095"
+        },
+        {
+            "decision": "BLOOD Hypochr-2+ Anisocy-1+ Poiklo-OCCASIONAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6198,
+            "end_offset": 6303,
+            "annotation_id": "QL_096"
+        },
+        {
+            "decision": "BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-2+ Macrocy-2+ Microcy-1+ Polychr-NORMAL Ovalocy-2+ Tear Dr[**Last Name (STitle) **]1+",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7051,
+            "end_offset": 7175,
+            "annotation_id": "QL_097"
+        },
+        {
+            "decision": "URINE CULTURE (Final [**2195-9-15**]):       PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7465,
+            "end_offset": 7560,
+            "annotation_id": "QL_098"
+        },
+        {
+            "decision": "Piperacillin/Tazobactam sensitivity testing ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7570,
+            "end_offset": 7613,
+            "annotation_id": "QL_099"
+        },
+        {
+            "decision": "PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     2 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------   0.5 S GENTAMICIN------------   <=1 S MEROPENEM-------------     1 S PIPERACILLIN/TAZO-----       S TOBRAMYCIN------------   <=1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7869,
+            "end_offset": 8139,
+            "annotation_id": "QL_100"
+        },
+        {
+            "decision": "Legionella Urinary Antigen  (Final [**2195-9-11**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.            (Reference Range-Negative).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8144,
+            "end_offset": 8284,
+            "annotation_id": "QL_101"
+        },
+        {
+            "decision": "h/o CLL, recent pseudomonas UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8589,
+            "end_offset": 8620,
+            "annotation_id": "QL_102"
+        },
+        {
+            "decision": "on longterm fosfomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 8621,
+            "end_offset": 8643,
+            "annotation_id": "QL_103"
+        },
+        {
+            "decision": "with LLL infiltrate, fever and hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8800,
+            "end_offset": 8842,
+            "annotation_id": "QL_104"
+        },
+        {
+            "decision": "transferred to BMT service",
+            "category": "Category 1: Contact related",
+            "start_offset": 8843,
+            "end_offset": 8869,
+            "annotation_id": "QL_105"
+        },
+        {
+            "decision": "Fever: Was  most likely secondary to pneumonia and UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8926,
+            "end_offset": 8980,
+            "annotation_id": "QL_106"
+        },
+        {
+            "decision": "antibitoics",
+            "category": "Category 5: Drug related",
+            "start_offset": 9015,
+            "end_offset": 9026,
+            "annotation_id": "QL_107"
+        },
+        {
+            "decision": "afebrile during his hosptial course.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9036,
+            "end_offset": 9071,
+            "annotation_id": "QL_108"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9076,
+            "end_offset": 9087,
+            "annotation_id": "QL_109"
+        },
+        {
+            "decision": "admitted to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 9105,
+            "end_offset": 9124,
+            "annotation_id": "QL_110"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9130,
+            "end_offset": 9141,
+            "annotation_id": "QL_111"
+        },
+        {
+            "decision": "This may be related to sepsis from HCAP.  Adrenal inusfficency was also on the differential as the patietn has a known history of adrenal insuffciency secondary to CMV adrenalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9143,
+            "end_offset": 9322,
+            "annotation_id": "QL_112"
+        },
+        {
+            "decision": "He received 3 L IVFs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9324,
+            "end_offset": 9344,
+            "annotation_id": "QL_113"
+        },
+        {
+            "decision": "required pressure support with levophead, wich was weaned after a few hours. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9348,
+            "end_offset": 9423,
+            "annotation_id": "QL_114"
+        },
+        {
+            "decision": "receieved 1 day of stress dose steroids wit hydrocortisone 100mg q8H, and was subsequently tapered to his home steroid regimen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9428,
+            "end_offset": 9554,
+            "annotation_id": "QL_115"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9626,
+            "end_offset": 9637,
+            "annotation_id": "QL_116"
+        },
+        {
+            "decision": "metoprolol and fursoemie were initally held given is hypotension, but were able to be restarted given his stable pressures.",
+            "category": "Category 5: Drug related",
+            "start_offset": 9573,
+            "end_offset": 9695,
+            "annotation_id": "QL_117"
+        },
+        {
+            "decision": "Health Care Associated Pnemonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9699,
+            "end_offset": 9730,
+            "annotation_id": "QL_118"
+        },
+        {
+            "decision": "LLL infiltrate on CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9764,
+            "end_offset": 9785,
+            "annotation_id": "QL_119"
+        },
+        {
+            "decision": "started on vancomycin and zoysn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9794,
+            "end_offset": 9825,
+            "annotation_id": "QL_120"
+        },
+        {
+            "decision": "empiric HCAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9830,
+            "end_offset": 9842,
+            "annotation_id": "QL_121"
+        },
+        {
+            "decision": "He will be treated witha 10 da course of antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 9853,
+            "end_offset": 9905,
+            "annotation_id": "QL_122"
+        },
+        {
+            "decision": "Complicated UTI- ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9932,
+            "end_offset": 9948,
+            "annotation_id": "QL_123"
+        },
+        {
+            "decision": "histor of recurrent Psedudomnal UTIs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9967,
+            "end_offset": 10003,
+            "annotation_id": "QL_124"
+        },
+        {
+            "decision": "chronic foley use ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10022,
+            "end_offset": 10039,
+            "annotation_id": "QL_125"
+        },
+        {
+            "decision": "chronic urinar retention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10044,
+            "end_offset": 10068,
+            "annotation_id": "QL_126"
+        },
+        {
+            "decision": "chronic fosfomycin therapy",
+            "category": "Category 5: Drug related",
+            "start_offset": 10088,
+            "end_offset": 10114,
+            "annotation_id": "QL_127"
+        },
+        {
+            "decision": "Zoysn",
+            "category": "Category 5: Drug related",
+            "start_offset": 10201,
+            "end_offset": 10206,
+            "annotation_id": "QL_128"
+        },
+        {
+            "decision": "His urine culture on this admission was again positive for psuedomonas, sensitive to Zoysn",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10116,
+            "end_offset": 10206,
+            "annotation_id": "QL_129"
+        },
+        {
+            "decision": "fosfomycin was held on admission,",
+            "category": "Category 5: Drug related",
+            "start_offset": 10212,
+            "end_offset": 10244,
+            "annotation_id": "QL_130"
+        },
+        {
+            "decision": "UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10254,
+            "end_offset": 10257,
+            "annotation_id": "QL_131"
+        },
+        {
+            "decision": "Zoysn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10275,
+            "end_offset": 10280,
+            "annotation_id": "QL_132"
+        },
+        {
+            "decision": "pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10314,
+            "end_offset": 10323,
+            "annotation_id": "QL_133"
+        },
+        {
+            "decision": "complicated UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10329,
+            "end_offset": 10344,
+            "annotation_id": "QL_134"
+        },
+        {
+            "decision": "10 day course of antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 10357,
+            "end_offset": 10385,
+            "annotation_id": "QL_135"
+        },
+        {
+            "decision": "Fosfomycin may be resumed after completion of treatment for current UTI",
+            "category": "Category 5: Drug related",
+            "start_offset": 10411,
+            "end_offset": 10482,
+            "annotation_id": "QL_136"
+        },
+        {
+            "decision": "current UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10471,
+            "end_offset": 10482,
+            "annotation_id": "QL_137"
+        },
+        {
+            "decision": "CLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10531,
+            "end_offset": 10534,
+            "annotation_id": "QL_138"
+        },
+        {
+            "decision": "initiation of Campath, discontinued [**2195-2-9**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 10600,
+            "end_offset": 10650,
+            "annotation_id": "QL_139"
+        },
+        {
+            "decision": "continued on Bactrim, Voriconazole and Valganciclovir for prophlaxis.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10659,
+            "end_offset": 10727,
+            "annotation_id": "QL_140"
+        },
+        {
+            "decision": "CMV adrenalitis with adrenal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10732,
+            "end_offset": 10774,
+            "annotation_id": "QL_141"
+        },
+        {
+            "decision": "recived 1 day of stress dose steroids ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10788,
+            "end_offset": 10825,
+            "annotation_id": "QL_142"
+        },
+        {
+            "decision": "hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10857,
+            "end_offset": 10868,
+            "annotation_id": "QL_143"
+        },
+        {
+            "decision": "then restarted on his home steroid regimen of Fludrocortisone Acetate 0.2 mg daily, 50mg hydrocortisone qAM and 20mg qPM.",
+            "category": "Category 5: Drug related",
+            "start_offset": 10877,
+            "end_offset": 10997,
+            "annotation_id": "QL_144"
+        },
+        {
+            "decision": "Hx Aspergillosis Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11002,
+            "end_offset": 11028,
+            "annotation_id": "QL_145"
+        },
+        {
+            "decision": "continued on Voriconazole",
+            "category": "Category 5: Drug related",
+            "start_offset": 11046,
+            "end_offset": 11071,
+            "annotation_id": "QL_146"
+        },
+        {
+            "decision": "asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11075,
+            "end_offset": 11081,
+            "annotation_id": "QL_147"
+        },
+        {
+            "decision": "continued on  home albuterol and ipratroprium nebs",
+            "category": "Category 5: Drug related",
+            "start_offset": 11098,
+            "end_offset": 11148,
+            "annotation_id": "QL_148"
+        },
+        {
+            "decision": "nebs",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11144,
+            "end_offset": 11148,
+            "annotation_id": "QL_149"
+        },
+        {
+            "decision": "Afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11153,
+            "end_offset": 11157,
+            "annotation_id": "QL_150"
+        },
+        {
+            "decision": "continued on home  metoprolol",
+            "category": "Category 5: Drug related",
+            "start_offset": 11175,
+            "end_offset": 11204,
+            "annotation_id": "QL_151"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11208,
+            "end_offset": 11211,
+            "annotation_id": "QL_152"
+        },
+        {
+            "decision": "continued on home metoprolol and fursoemide",
+            "category": "Category 5: Drug related",
+            "start_offset": 11229,
+            "end_offset": 11272,
+            "annotation_id": "QL_153"
+        },
+        {
+            "decision": "Morphine Sulfate (Concentrated Oral Soln) 4 mg PO Q4H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 11405,
+            "end_offset": 11482,
+            "annotation_id": "QL_154"
+        },
+        {
+            "decision": "Diphenoxylate-Atropine 1 TAB PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 11486,
+            "end_offset": 11521,
+            "annotation_id": "QL_155"
+        },
+        {
+            "decision": "Ipratropium Bromide Neb 1 NEB IH Q6H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 11525,
+            "end_offset": 11585,
+            "annotation_id": "QL_156"
+        },
+        {
+            "decision": "Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 11589,
+            "end_offset": 11644,
+            "annotation_id": "QL_157"
+        },
+        {
+            "decision": "Loperamide 2 mg PO QID:PRN diarrhea",
+            "category": "Category 5: Drug related",
+            "start_offset": 11648,
+            "end_offset": 11683,
+            "annotation_id": "QL_158"
+        },
+        {
+            "decision": "Hydrocortisone 20 mg PO QPM",
+            "category": "Category 5: Drug related",
+            "start_offset": 11687,
+            "end_offset": 11714,
+            "annotation_id": "QL_159"
+        },
+        {
+            "decision": "Metoprolol Tartrate 12.5 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 11718,
+            "end_offset": 11752,
+            "annotation_id": "QL_160"
+        },
+        {
+            "decision": "Loperamide 2 mg PO QID",
+            "category": "Category 5: Drug related",
+            "start_offset": 11756,
+            "end_offset": 11778,
+            "annotation_id": "QL_161"
+        },
+        {
+            "decision": "Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 11782,
+            "end_offset": 11838,
+            "annotation_id": "QL_162"
+        },
+        {
+            "decision": "Aspirin 325 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 11843,
+            "end_offset": 11866,
+            "annotation_id": "QL_163"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 11871,
+            "end_offset": 11900,
+            "annotation_id": "QL_164"
+        },
+        {
+            "decision": "Fludrocortisone Acetate 0.2 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 11905,
+            "end_offset": 11944,
+            "annotation_id": "QL_165"
+        },
+        {
+            "decision": "Hydrocortisone 50 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 11949,
+            "end_offset": 11978,
+            "annotation_id": "QL_166"
+        },
+        {
+            "decision": "Vitamin D 1000 UNIT PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 11983,
+            "end_offset": 12011,
+            "annotation_id": "QL_167"
+        },
+        {
+            "decision": "ValGANCIclovir 450 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12016,
+            "end_offset": 12045,
+            "annotation_id": "QL_168"
+        },
+        {
+            "decision": "Sulfameth/Trimethoprim SS 1 TAB PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12050,
+            "end_offset": 12090,
+            "annotation_id": "QL_169"
+        },
+        {
+            "decision": "Albuterol 0.083% Neb Soln 1 NEB IH QID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12095,
+            "end_offset": 12133,
+            "annotation_id": "QL_170"
+        },
+        {
+            "decision": "Potassium Chloride 40 mEq PO BID Duration: 24 Hours Hold for K >",
+            "category": "Category 5: Drug related",
+            "start_offset": 12138,
+            "end_offset": 12200,
+            "annotation_id": "QL_171"
+        },
+        {
+            "decision": "Voriconazole 200 mg PO Q12H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12207,
+            "end_offset": 12234,
+            "annotation_id": "QL_172"
+        },
+        {
+            "decision": "Furosemide 40 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12239,
+            "end_offset": 12262,
+            "annotation_id": "QL_173"
+        },
+        {
+            "decision": "Fosfomycin Tromethamine 3 g PO Q10 DAYS Dissolve in [**3-1**] oz (90-120 mL) water and take immediately.  One dose every 10 days",
+            "category": "Category 5: Drug related",
+            "start_offset": 12267,
+            "end_offset": 12395,
+            "annotation_id": "QL_174"
+        },
+        {
+            "decision": "NEB ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12453,
+            "end_offset": 12456,
+            "annotation_id": "QL_175"
+        },
+        {
+            "decision": "Albuterol 0.083% Neb Soln 1 NEB IH QID",
+            "category": "Category 5: Drug related",
+            "start_offset": 12425,
+            "end_offset": 12463,
+            "annotation_id": "QL_176"
+        },
+        {
+            "decision": "Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 12467,
+            "end_offset": 12522,
+            "annotation_id": "QL_177"
+        },
+        {
+            "decision": "Aspirin 325 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12526,
+            "end_offset": 12549,
+            "annotation_id": "QL_178"
+        },
+        {
+            "decision": "Fludrocortisone Acetate 0.2 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12553,
+            "end_offset": 12592,
+            "annotation_id": "QL_179"
+        },
+        {
+            "decision": "Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 12596,
+            "end_offset": 12652,
+            "annotation_id": "QL_180"
+        },
+        {
+            "decision": "Hydrocortisone 20 mg PO QPM",
+            "category": "Category 5: Drug related",
+            "start_offset": 12656,
+            "end_offset": 12683,
+            "annotation_id": "QL_181"
+        },
+        {
+            "decision": "Hydrocortisone 50 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12687,
+            "end_offset": 12716,
+            "annotation_id": "QL_182"
+        },
+        {
+            "decision": "Sulfameth/Trimethoprim SS 1 TAB PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12720,
+            "end_offset": 12760,
+            "annotation_id": "QL_183"
+        },
+        {
+            "decision": "ValGANCIclovir 450 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12764,
+            "end_offset": 12793,
+            "annotation_id": "QL_184"
+        },
+        {
+            "decision": "Vitamin D 1000 UNIT PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 12798,
+            "end_offset": 12826,
+            "annotation_id": "QL_185"
+        },
+        {
+            "decision": "Voriconazole 200 mg PO Q12H",
+            "category": "Category 5: Drug related",
+            "start_offset": 12831,
+            "end_offset": 12858,
+            "annotation_id": "QL_186"
+        },
+        {
+            "decision": "Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen",
+            "category": "Category 5: Drug related",
+            "start_offset": 12863,
+            "end_offset": 12998,
+            "annotation_id": "QL_187"
+        },
+        {
+            "decision": "Morphine Sulfate (Concentrated Oral Soln) 4 mg PO Q4H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 13004,
+            "end_offset": 13081,
+            "annotation_id": "QL_188"
+        },
+        {
+            "decision": "Furosemide 40 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 13086,
+            "end_offset": 13109,
+            "annotation_id": "QL_189"
+        },
+        {
+            "decision": "Ipratropium Bromide Neb 1 NEB IH Q6H:PRN shortness of breath",
+            "category": "Category 5: Drug related",
+            "start_offset": 13114,
+            "end_offset": 13174,
+            "annotation_id": "QL_190"
+        },
+        {
+            "decision": "Metoprolol Tartrate 12.5 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 13180,
+            "end_offset": 13214,
+            "annotation_id": "QL_191"
+        },
+        {
+            "decision": "Potassium Chloride 40 mEq PO BID Duration: 24 Hours Hold for K >",
+            "category": "Category 5: Drug related",
+            "start_offset": 13219,
+            "end_offset": 13281,
+            "annotation_id": "QL_192"
+        },
+        {
+            "decision": "Piperacillin-Tazobactam 2.25 g IV Q6H LAST DAY [**2195-9-22**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13288,
+            "end_offset": 13350,
+            "annotation_id": "QL_193"
+        },
+        {
+            "decision": "Vancomycin 1250 mg IV Q 24H LAST DAY [**2195-9-22**]",
+            "category": "Category 5: Drug related",
+            "start_offset": 13355,
+            "end_offset": 13407,
+            "annotation_id": "QL_194"
+        },
+        {
+            "decision": "Diphenoxylate-Atropine 1 TAB PO BID:PRN diarrhea",
+            "category": "Category 5: Drug related",
+            "start_offset": 13412,
+            "end_offset": 13460,
+            "annotation_id": "QL_195"
+        },
+        {
+            "decision": "diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13452,
+            "end_offset": 13460,
+            "annotation_id": "QL_196"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg PO BID:PRN constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 13465,
+            "end_offset": 13511,
+            "annotation_id": "QL_197"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13499,
+            "end_offset": 13511,
+            "annotation_id": "QL_198"
+        },
+        {
+            "decision": "Loperamide 2 mg PO QID:PRN diarrhea",
+            "category": "Category 5: Drug related",
+            "start_offset": 13516,
+            "end_offset": 13551,
+            "annotation_id": "QL_199"
+        },
+        {
+            "decision": "diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13543,
+            "end_offset": 13551,
+            "annotation_id": "QL_200"
+        },
+        {
+            "decision": "Health Care Associated Pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13720,
+            "end_offset": 13752,
+            "annotation_id": "QL_201"
+        },
+        {
+            "decision": "Complicated Urinary Tract Infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13753,
+            "end_offset": 13788,
+            "annotation_id": "QL_202"
+        },
+        {
+            "decision": "CLL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13809,
+            "end_offset": 13812,
+            "annotation_id": "QL_203"
+        },
+        {
+            "decision": "Atrial Fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13813,
+            "end_offset": 13832,
+            "annotation_id": "QL_204"
+        },
+        {
+            "decision": "CMV adrenalitis with adrenal insufficiency",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13833,
+            "end_offset": 13875,
+            "annotation_id": "QL_205"
+        },
+        {
+            "decision": "Asthma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13876,
+            "end_offset": 13882,
+            "annotation_id": "QL_206"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13883,
+            "end_offset": 13886,
+            "annotation_id": "QL_207"
+        },
+        {
+            "decision": "Mental Status: Confused - sometimes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13910,
+            "end_offset": 13945,
+            "annotation_id": "QL_208"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13947,
+            "end_offset": 13992,
+            "annotation_id": "QL_209"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13994,
+            "end_offset": 14066,
+            "annotation_id": "QL_210"
+        },
+        {
+            "decision": "low blood presssure",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14223,
+            "end_offset": 14242,
+            "annotation_id": "QL_211"
+        },
+        {
+            "decision": "admiited to the ICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 14285,
+            "end_offset": 14304,
+            "annotation_id": "QL_212"
+        },
+        {
+            "decision": " given fluids,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14305,
+            "end_offset": 14317,
+            "annotation_id": "QL_213"
+        },
+        {
+            "decision": "and were on medications to help support your blood pressure (vasopressors), which were able to be stopped. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14319,
+            "end_offset": 14424,
+            "annotation_id": "QL_214"
+        },
+        {
+            "decision": "CXR which showed a pnemonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14436,
+            "end_offset": 14463,
+            "annotation_id": "QL_215"
+        },
+        {
+            "decision": "UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14532,
+            "end_offset": 14535,
+            "annotation_id": "QL_216"
+        },
+        {
+            "decision": "Urine cultures which showed that you had a bladder infection (UTI). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14470,
+            "end_offset": 14535,
+            "annotation_id": "QL_217"
+        },
+        {
+            "decision": "You were treated with antibiotics which you will continue to take at rehab",
+            "category": "Category 5: Drug related",
+            "start_offset": 14538,
+            "end_offset": 14612,
+            "annotation_id": "QL_218"
+        },
+        {
+            "decision": "Please follow up with Dr. [**Last Name (STitle) 410**] at the appointments scheduled for you below.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14614,
+            "end_offset": 14712,
+            "annotation_id": "QL_219"
+        },
+        {
+            "decision": "Department: [**Hospital3 1935**] CENTER When: THURSDAY [**2195-9-24**] at 9:00 AM With: [**First Name11 (Name Pattern1) 354**] [**Last Name (NamePattern4) 3013**], M.D. [**Telephone/Fax (1) 253**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 14738,
+            "end_offset": 15075,
+            "annotation_id": "QL_220"
+        },
+        {
+            "decision": "When: [**Hospital3 **] [**2195-9-28**] at 8:40 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 15398**], MD [**Telephone/Fax (1) 2010**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 15109,
+            "end_offset": 15414,
+            "annotation_id": "QL_221"
+        },
+        {
+            "decision": "09:15a   CLINIC VISIT HEM ONC,CC7 SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] HEM [**Hospital **] CLINIC VISIT NON BILLING",
+            "category": "Category 1: Contact related",
+            "start_offset": 15433,
+            "end_offset": 15575,
+            "annotation_id": "QL_222"
+        },
+        {
+            "decision": "10:00a   [**Last Name (LF) 396**],[**First Name3 (LF) 8081**] SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] HEMATOLOGY/ONCOLOGY-SC",
+            "category": "Category 1: Contact related",
+            "start_offset": 15594,
+            "end_offset": 15742,
+            "annotation_id": "QL_223"
+        },
+        {
+            "decision": "11:00a  DR. [**Last Name (STitle) **] AND [**First Name8 (NamePattern2) 2747**] [**Last Name (NamePattern1) **]  [**Name8 (MD) **], NP SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] HEMATOLOGY/ONCOLOGY-SC",
+            "category": "Category 1: Contact related",
+            "start_offset": 15761,
+            "end_offset": 15982,
+            "annotation_id": "QL_224"
+        }
+    ]
+}

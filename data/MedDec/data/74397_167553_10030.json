@@ -1,0 +1,1063 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "74397_167553_10030",
+    "annotations": [
+        {
+            "decision": "Constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 219,
+            "end_offset": 231,
+            "annotation_id": "PI_000"
+        },
+        {
+            "decision": "[**2177-4-8**]: Exploratory laparotomy and sigmoid colectomy with colocolostomy.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 271,
+            "end_offset": 350,
+            "annotation_id": "PI_001"
+        },
+        {
+            "decision": "Botox injection ",
+            "category": "Category 5: Drug related",
+            "start_offset": 371,
+            "end_offset": 386,
+            "annotation_id": "PI_002"
+        },
+        {
+            "decision": "[**2177-4-21**]: Botox injection to anal sphincter.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 354,
+            "end_offset": 404,
+            "annotation_id": "PI_003"
+        },
+        {
+            "decision": "history of chronic constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 474,
+            "end_offset": 505,
+            "annotation_id": "PI_004"
+        },
+        {
+            "decision": "1. Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 765,
+            "end_offset": 780,
+            "annotation_id": "PI_005"
+        },
+        {
+            "decision": "2. Urge incontinence",
+            "category": "Category 3: Defining problem",
+            "start_offset": 781,
+            "end_offset": 801,
+            "annotation_id": "PI_006"
+        },
+        {
+            "decision": "3. Osteoporosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 802,
+            "end_offset": 817,
+            "annotation_id": "PI_007"
+        },
+        {
+            "decision": "4. Chronic constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 818,
+            "end_offset": 841,
+            "annotation_id": "PI_008"
+        },
+        {
+            "decision": "A&Ox4, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1020,
+            "end_offset": 1030,
+            "annotation_id": "PI_009"
+        },
+        {
+            "decision": "RRR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1031,
+            "end_offset": 1034,
+            "annotation_id": "PI_010"
+        },
+        {
+            "decision": "CTAB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1035,
+            "end_offset": 1039,
+            "annotation_id": "PI_011"
+        },
+        {
+            "decision": "Abd - distended, firm, R subcostal scar, no hernias",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1040,
+            "end_offset": 1091,
+            "annotation_id": "PI_012"
+        },
+        {
+            "decision": "Rectal - tight sphincter, no blood",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1092,
+            "end_offset": 1126,
+            "annotation_id": "PI_013"
+        },
+        {
+            "decision": "Ext - 1+ edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1127,
+            "end_offset": 1141,
+            "annotation_id": "PI_014"
+        },
+        {
+            "decision": "Abdomen: soft, nondistended, low midabdominal incision open to air and clean/dry and intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1157,
+            "end_offset": 1248,
+            "annotation_id": "PI_015"
+        },
+        {
+            "decision": "[**2177-4-6**] 04:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1894,
+            "end_offset": 2024,
+            "annotation_id": "PI_016"
+        },
+        {
+            "decision": "CT ABDOMEN W/CONTRAST: IMPRESSION: 1. Sigmoid volvulus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2294,
+            "end_offset": 2348,
+            "annotation_id": "PI_017"
+        },
+        {
+            "decision": "2. Intra-hepatic and extra-hepatic biliary ductal dilatation with an apparent intraluminal lesion within the distal common bile duct, possibly a stone or mass.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2350,
+            "end_offset": 2508,
+            "annotation_id": "PI_018"
+        },
+        {
+            "decision": "consider ERCP or MRCP for further evaluation once the patient is clinically stable.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2562,
+            "end_offset": 2644,
+            "annotation_id": "PI_019"
+        },
+        {
+            "decision": "3. Fibroid uterus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2646,
+            "end_offset": 2663,
+            "annotation_id": "PI_020"
+        },
+        {
+            "decision": "4. Two adjacent 4-mm nodules in the right middle lobe, which are slightly larger than on the prior study",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2665,
+            "end_offset": 2769,
+            "annotation_id": "PI_021"
+        },
+        {
+            "decision": "One year follow up CT chest is recommended for further evaluation.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 2771,
+            "end_offset": 2836,
+            "annotation_id": "PI_022"
+        },
+        {
+            "decision": "CHEST X-RAY: IMPRESSION: No acute cardiopulmonary process",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2855,
+            "end_offset": 2912,
+            "annotation_id": "PI_023"
+        },
+        {
+            "decision": "CHEST XRAY: No pulmonary edema, no evidence of infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3049,
+            "end_offset": 3105,
+            "annotation_id": "PI_024"
+        },
+        {
+            "decision": "The extensive intestinal distention, seen on the pre-operative radiograph, has not decreased",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3107,
+            "end_offset": 3199,
+            "annotation_id": "PI_025"
+        },
+        {
+            "decision": "Sigmoid colon, segmental resection",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3911,
+            "end_offset": 3945,
+            "annotation_id": "PI_026"
+        },
+        {
+            "decision": "GI BIOPSIES. (2 JARS) DIAGNOSIS: Sigmoid colon, segmental resection: 1.  Colonic segment with focal, mild submucosal fibrosis, suggestive of prior injury; no active diverticular disease identified.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3878,
+            "end_offset": 4074,
+            "annotation_id": "PI_027"
+        },
+        {
+            "decision": "No intrinsic mucosal abnormalities otherwise recognized.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4080,
+            "end_offset": 4135,
+            "annotation_id": "PI_028"
+        },
+        {
+            "decision": "Regional lymph nodes with no diagnostic abnormalities recognized",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4141,
+            "end_offset": 4205,
+            "annotation_id": "PI_029"
+        },
+        {
+            "decision": "ABDOMEN X-RAY: IMPRESSION: 1. Markedly dilated loops of large bowel consistent with obstruction or ileus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4225,
+            "end_offset": 4329,
+            "annotation_id": "PI_030"
+        },
+        {
+            "decision": "NG tube with side port at the level of GE junction and should be advanced to ensure side port positioning within the stomach",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4334,
+            "end_offset": 4458,
+            "annotation_id": "PI_031"
+        },
+        {
+            "decision": "NG tube with side port at the level of GE junction and should be advanced to ensure side port positioning within the stomach",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4334,
+            "end_offset": 4458,
+            "annotation_id": "PI_032"
+        },
+        {
+            "decision": "CXR: IMPRESSION: 1. No definite evidence of pneumonia or aspiration pneumonitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4478,
+            "end_offset": 4557,
+            "annotation_id": "PI_033"
+        },
+        {
+            "decision": "Left PIC catheter with tip now at distal left brachiocephalic vein.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4562,
+            "end_offset": 4628,
+            "annotation_id": "PI_034"
+        },
+        {
+            "decision": "Left PIC catheter with tip now at distal left brachiocephalic vein.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4562,
+            "end_offset": 4628,
+            "annotation_id": "PI_035"
+        },
+        {
+            "decision": "Feeding tube with side port projecting above GE junction, unchanged.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4669,
+            "end_offset": 4736,
+            "annotation_id": "PI_036"
+        },
+        {
+            "decision": "Feeding tube with side port projecting above GE junction, unchanged.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4669,
+            "end_offset": 4736,
+            "annotation_id": "PI_037"
+        },
+        {
+            "decision": "EKG: Sinus tachycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4755,
+            "end_offset": 4777,
+            "annotation_id": "PI_038"
+        },
+        {
+            "decision": "Leftward axis",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4779,
+            "end_offset": 4792,
+            "annotation_id": "PI_039"
+        },
+        {
+            "decision": "Left bundle-branch block",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4794,
+            "end_offset": 4818,
+            "annotation_id": "PI_040"
+        },
+        {
+            "decision": "Possible biatrial enlargment",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4820,
+            "end_offset": 4848,
+            "annotation_id": "PI_041"
+        },
+        {
+            "decision": "Non-specific ST-T wave abnormalities.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4850,
+            "end_offset": 4886,
+            "annotation_id": "PI_042"
+        },
+        {
+            "decision": "evidence for left atrial abnormality is more suggestive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4940,
+            "end_offset": 4995,
+            "annotation_id": "PI_043"
+        },
+        {
+            "decision": "ABD CT: IMPRESSION: 1. Multiple dilated loops of small and large bowel consistent with ileus, though the degree of distention of large bowel is not significantly different from multiple prior examinations dating back to [**2169**]. No evidence of ischemia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5057,
+            "end_offset": 5312,
+            "annotation_id": "PI_044"
+        },
+        {
+            "decision": "New small bilateral pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5317,
+            "end_offset": 5354,
+            "annotation_id": "PI_045"
+        },
+        {
+            "decision": "[**2177-4-14**] BLOOD CULTURE-FINAL: No GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5372,
+            "end_offset": 5418,
+            "annotation_id": "PI_046"
+        },
+        {
+            "decision": "[**2177-4-14**] SEROLOGY/BLOOD RAPID PLASMA REAGIN TEST-FINAL: NON-REACTIVE.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5420,
+            "end_offset": 5495,
+            "annotation_id": "PI_047"
+        },
+        {
+            "decision": "[**2177-4-14**] BLOOD CULTURE-FINAL: NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5497,
+            "end_offset": 5543,
+            "annotation_id": "PI_048"
+        },
+        {
+            "decision": "[**2177-4-14**] URINE URINE CULTURE-FINAL {STAPHYLOCOCCUS, COAGULASE NEGATIVE, STAPHYLOCOCCUS, COAGULASE NEGATIVE}:",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5545,
+            "end_offset": 5658,
+            "annotation_id": "PI_049"
+        },
+        {
+            "decision": "Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,",
+            "category": "Category 5: Drug related",
+            "start_offset": 5816,
+            "end_offset": 5944,
+            "annotation_id": "PI_050"
+        },
+        {
+            "decision": "   URINE CULTURE (Final [**2177-4-18**]):       STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000 ORGANISMS/ML..          Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5699,
+            "end_offset": 6009,
+            "annotation_id": "PI_051"
+        },
+        {
+            "decision": "carbapenems, and beta-lactamase inhibitor combinations.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5955,
+            "end_offset": 6009,
+            "annotation_id": "PI_052"
+        },
+        {
+            "decision": "Oxacillin RESISTANT Staphylococci MUST be reported as          also RESISTANT to other penicillins, cephalosporins,",
+            "category": "Category 5: Drug related",
+            "start_offset": 6205,
+            "end_offset": 6319,
+            "annotation_id": "PI_053"
+        },
+        {
+            "decision": "      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000 ORGANISMS/ML..          SECOND MORPHOLOGY.          COAG NEG STAPH does NOT require contact precautions, regardless of          resistance Oxacillin RESISTANT Staphylococci MUST be reported as          also RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6018,
+            "end_offset": 6398,
+            "annotation_id": "PI_054"
+        },
+        {
+            "decision": "carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.",
+            "category": "Category 5: Drug related",
+            "start_offset": 6321,
+            "end_offset": 6398,
+            "annotation_id": "PI_055"
+        },
+        {
+            "decision": "                              SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              |          STAPHYLOCOCCUS, COAGULASE NEGATIVE                              |          | GENTAMICIN------------ <=0.5 S    <=0.5 S LEVOFLOXACIN----------     4 R        4 R",
+            "category": "Category 5: Drug related",
+            "start_offset": 6432,
+            "end_offset": 6794,
+            "annotation_id": "PI_056"
+        },
+        {
+            "decision": "NITROFURANTOIN--------  <=16 S     <=16 S OXACILLIN-------------   =>4 R        1 R",
+            "category": "Category 5: Drug related",
+            "start_offset": 6795,
+            "end_offset": 6878,
+            "annotation_id": "PI_057"
+        },
+        {
+            "decision": "TETRACYCLINE----------   <=1 S      <=1 S VANCOMYCIN------------ <=0.5 S    <=0.5 S",
+            "category": "Category 5: Drug related",
+            "start_offset": 6879,
+            "end_offset": 6962,
+            "annotation_id": "PI_058"
+        },
+        {
+            "decision": "SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              |          STAPHYLOCOCCUS, COAGULASE NEGATIVE                              |          | GENTAMICIN------------ <=0.5 S    <=0.5 S LEVOFLOXACIN----------     4 R        4 R NITROFURANTOIN--------  <=16 S     <=16 S OXACILLIN-------------   =>4 R        1 R TETRACYCLINE----------   <=1 S      <=1 S VANCOMYCIN------------ <=0.5 S    <=0.5 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6432,
+            "end_offset": 6962,
+            "annotation_id": "PI_059"
+        },
+        {
+            "decision": "[**2177-4-7**] MRSA SCREEN-FINAL: NEGATIVE.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6965,
+            "end_offset": 7007,
+            "annotation_id": "PI_060"
+        },
+        {
+            "decision": "admitted to the General Surgical Service",
+            "category": "Category 1: Contact related",
+            "start_offset": 7050,
+            "end_offset": 7090,
+            "annotation_id": "PI_061"
+        },
+        {
+            "decision": "underwent exploratory laparotomy and sigmoid colectomy with colocolostomy,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7168,
+            "end_offset": 7241,
+            "annotation_id": "PI_062"
+        },
+        {
+            "decision": "NPO, on IV fluids, with a foley catheter ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7410,
+            "end_offset": 7450,
+            "annotation_id": "PI_063"
+        },
+        {
+            "decision": "Dilaudid",
+            "category": "Category 5: Drug related",
+            "start_offset": 7455,
+            "end_offset": 7463,
+            "annotation_id": "PI_064"
+        },
+        {
+            "decision": "PCA ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7464,
+            "end_offset": 7467,
+            "annotation_id": "PI_065"
+        },
+        {
+            "decision": "The patient was hemodynamically stable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7486,
+            "end_offset": 7524,
+            "annotation_id": "PI_066"
+        },
+        {
+            "decision": "Dilaudid",
+            "category": "Category 5: Drug related",
+            "start_offset": 7583,
+            "end_offset": 7591,
+            "annotation_id": "PI_067"
+        },
+        {
+            "decision": "PCA",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7592,
+            "end_offset": 7595,
+            "annotation_id": "PI_068"
+        },
+        {
+            "decision": "converted to oral pain medication (Tylenol and Oxycodone",
+            "category": "Category 5: Drug related",
+            "start_offset": 7607,
+            "end_offset": 7663,
+            "annotation_id": "PI_069"
+        },
+        {
+            "decision": "foley catheter was discontinued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7753,
+            "end_offset": 7784,
+            "annotation_id": "PI_070"
+        },
+        {
+            "decision": "her abdomen became more distended on POD #4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7984,
+            "end_offset": 8027,
+            "annotation_id": "PI_071"
+        },
+        {
+            "decision": "Patient's diet was changed to NPO except meds",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8029,
+            "end_offset": 8074,
+            "annotation_id": "PI_072"
+        },
+        {
+            "decision": "decreased urine output as well as nausea/vomiting and abdominal distention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8113,
+            "end_offset": 8187,
+            "annotation_id": "PI_073"
+        },
+        {
+            "decision": "managed with NG tube and IVF",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8198,
+            "end_offset": 8226,
+            "annotation_id": "PI_074"
+        },
+        {
+            "decision": "metoclopramide",
+            "category": "Category 5: Drug related",
+            "start_offset": 8238,
+            "end_offset": 8252,
+            "annotation_id": "PI_075"
+        },
+        {
+            "decision": "Foley catheter was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8254,
+            "end_offset": 8279,
+            "annotation_id": "PI_076"
+        },
+        {
+            "decision": "Urine output improved on [**4-14**],",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8281,
+            "end_offset": 8316,
+            "annotation_id": "PI_077"
+        },
+        {
+            "decision": "patient was given several fluid boluses and started on continues IVF @ 175 cc/hr.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8318,
+            "end_offset": 8398,
+            "annotation_id": "PI_078"
+        },
+        {
+            "decision": "evaluated by dietitian",
+            "category": "Category 1: Contact related",
+            "start_offset": 8422,
+            "end_offset": 8444,
+            "annotation_id": "PI_079"
+        },
+        {
+            "decision": "and was started on TPN. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8446,
+            "end_offset": 8468,
+            "annotation_id": "PI_080"
+        },
+        {
+            "decision": "Her IVF was adjusted to 125 cc/hr total (TPN + IVF).",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8470,
+            "end_offset": 8520,
+            "annotation_id": "PI_081"
+        },
+        {
+            "decision": "urinalysis showed elevated WBC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8564,
+            "end_offset": 8594,
+            "annotation_id": "PI_082"
+        },
+        {
+            "decision": "CBC test also revealed elevated WBC",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8596,
+            "end_offset": 8631,
+            "annotation_id": "PI_083"
+        },
+        {
+            "decision": "started on Ciprofloxacin IV,",
+            "category": "Category 5: Drug related",
+            "start_offset": 8645,
+            "end_offset": 8672,
+            "annotation_id": "PI_084"
+        },
+        {
+            "decision": "Foley catheter was removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8674,
+            "end_offset": 8700,
+            "annotation_id": "PI_085"
+        },
+        {
+            "decision": "urine culture revealed infection with staphylococcus organism",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8702,
+            "end_offset": 8763,
+            "annotation_id": "PI_086"
+        },
+        {
+            "decision": "continue on Cipro IV for 3 days total",
+            "category": "Category 5: Drug related",
+            "start_offset": 8777,
+            "end_offset": 8814,
+            "annotation_id": "PI_087"
+        },
+        {
+            "decision": "alteration in mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8874,
+            "end_offset": 8901,
+            "annotation_id": "PI_088"
+        },
+        {
+            "decision": "Geriatric consult was called",
+            "category": "Category 1: Contact related",
+            "start_offset": 8903,
+            "end_offset": 8931,
+            "annotation_id": "PI_089"
+        },
+        {
+            "decision": "patient became more agitated, she tried to pull NGT and IV, became severely delirious. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8984,
+            "end_offset": 9069,
+            "annotation_id": "PI_090"
+        },
+        {
+            "decision": "Haldol",
+            "category": "Category 5: Drug related",
+            "start_offset": 9096,
+            "end_offset": 9102,
+            "annotation_id": "PI_091"
+        },
+        {
+            "decision": "patient's condition improved",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9169,
+            "end_offset": 9197,
+            "annotation_id": "PI_092"
+        },
+        {
+            "decision": "patient had several episodes of asymptomatic SVT, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9246,
+            "end_offset": 9294,
+            "annotation_id": "PI_093"
+        },
+        {
+            "decision": "Lopressor doses were increased to 10 mg q6h",
+            "category": "Category 5: Drug related",
+            "start_offset": 9300,
+            "end_offset": 9343,
+            "annotation_id": "PI_094"
+        },
+        {
+            "decision": "patient returned to regular rate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9345,
+            "end_offset": 9377,
+            "annotation_id": "PI_095"
+        },
+        {
+            "decision": "NG tube was removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9379,
+            "end_offset": 9398,
+            "annotation_id": "PI_096"
+        },
+        {
+            "decision": "Neurologically improving",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9464,
+            "end_offset": 9488,
+            "annotation_id": "PI_097"
+        },
+        {
+            "decision": "Haldol dose was decreased to 0.25 mg qhs prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 9490,
+            "end_offset": 9534,
+            "annotation_id": "PI_098"
+        },
+        {
+            "decision": "negative cardiac enzymes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9589,
+            "end_offset": 9613,
+            "annotation_id": "PI_099"
+        },
+        {
+            "decision": "became more incontinent of urine, but her mental status improved markedly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9653,
+            "end_offset": 9726,
+            "annotation_id": "PI_100"
+        },
+        {
+            "decision": "rectal tube placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9836,
+            "end_offset": 9854,
+            "annotation_id": "PI_101"
+        },
+        {
+            "decision": "botox injection",
+            "category": "Category 5: Drug related",
+            "start_offset": 9955,
+            "end_offset": 9970,
+            "annotation_id": "PI_102"
+        },
+        {
+            "decision": "soap suds enema ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10061,
+            "end_offset": 10076,
+            "annotation_id": "PI_103"
+        },
+        {
+            "decision": "She had no abdominal discomfort or any nausea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10098,
+            "end_offset": 10143,
+            "annotation_id": "PI_104"
+        },
+        {
+            "decision": "she was advanced to a clear liquid diet, which she tolerated well.  She was given a regular, mechanical soft diet for dinner and tolerated a small amount of it on POD 17.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10145,
+            "end_offset": 10314,
+            "annotation_id": "PI_105"
+        },
+        {
+            "decision": "evaluated by Physical Therapy,",
+            "category": "Category 1: Contact related",
+            "start_offset": 10364,
+            "end_offset": 10393,
+            "annotation_id": "PI_106"
+        },
+        {
+            "decision": "continue PT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10442,
+            "end_offset": 10453,
+            "annotation_id": "PI_107"
+        },
+        {
+            "decision": "respiratory toilet and incentive spirrometry",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10481,
+            "end_offset": 10525,
+            "annotation_id": "PI_108"
+        },
+        {
+            "decision": "subcutaneous heparin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 10595,
+            "end_offset": 10615,
+            "annotation_id": "PI_109"
+        },
+        {
+            "decision": "venodyne boots were used",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10620,
+            "end_offset": 10644,
+            "annotation_id": "PI_110"
+        },
+        {
+            "decision": "sliding scale insulin",
+            "category": "Category 5: Drug related",
+            "start_offset": 10734,
+            "end_offset": 10755,
+            "annotation_id": "PI_111"
+        },
+        {
+            "decision": "electrolytes were repleted when indicated",
+            "category": "Category 5: Drug related",
+            "start_offset": 10821,
+            "end_offset": 10862,
+            "annotation_id": "PI_112"
+        },
+        {
+            "decision": "At the time of discharge, the patient was doing well, afebrile with stable vital signs. The patient was tolerating a regular diet, ambulating with assistance, voiding without assistance, and pain was well controlled. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10866,
+            "end_offset": 11081,
+            "annotation_id": "PI_113"
+        },
+        {
+            "decision": "1. Motrin 200 mg PO prn pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 11246,
+            "end_offset": 11274,
+            "annotation_id": "PI_114"
+        },
+        {
+            "decision": "2. VESIcare 10 mg PO bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 11275,
+            "end_offset": 11299,
+            "annotation_id": "PI_115"
+        },
+        {
+            "decision": "3. Fosamax 70 mg weekly",
+            "category": "Category 5: Drug related",
+            "start_offset": 11300,
+            "end_offset": 11323,
+            "annotation_id": "PI_116"
+        },
+        {
+            "decision": "4. GlycoLax PRN constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 11324,
+            "end_offset": 11352,
+            "annotation_id": "PI_117"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11340,
+            "end_offset": 11352,
+            "annotation_id": "PI_118"
+        },
+        {
+            "decision": "5. Lisinopril 10 mg PO qday",
+            "category": "Category 5: Drug related",
+            "start_offset": 11353,
+            "end_offset": 11380,
+            "annotation_id": "PI_119"
+        },
+        {
+            "decision": "6. Tolterodone 1 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 11381,
+            "end_offset": 11407,
+            "annotation_id": "PI_120"
+        },
+        {
+            "decision": "1. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 11433,
+            "end_offset": 11495,
+            "annotation_id": "PI_121"
+        },
+        {
+            "decision": "2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day) as needed for pain.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11499,
+            "end_offset": 11591,
+            "annotation_id": "PI_122"
+        },
+        {
+            "decision": "3. Vesicare 10 mg Tablet Sig: One (1) Tablet PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11593,
+            "end_offset": 11652,
+            "annotation_id": "PI_123"
+        },
+        {
+            "decision": "4. Tolterodine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 11654,
+            "end_offset": 11722,
+            "annotation_id": "PI_124"
+        },
+        {
+            "decision": "5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 11725,
+            "end_offset": 11836,
+            "annotation_id": "PI_125"
+        },
+        {
+            "decision": "6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation",
+            "category": "Category 5: Drug related",
+            "start_offset": 11837,
+            "end_offset": 11929,
+            "annotation_id": "PI_126"
+        },
+        {
+            "decision": "constipation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11917,
+            "end_offset": 11929,
+            "annotation_id": "PI_127"
+        },
+        {
+            "decision": "7. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11931,
+            "end_offset": 11989,
+            "annotation_id": "PI_128"
+        },
+        {
+            "decision": "8. Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.",
+            "category": "Category 5: Drug related",
+            "start_offset": 11991,
+            "end_offset": 12152,
+            "annotation_id": "PI_129"
+        },
+        {
+            "decision": "9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).",
+            "category": "Category 5: Drug related",
+            "start_offset": 12154,
+            "end_offset": 12274,
+            "annotation_id": "PI_130"
+        },
+        {
+            "decision": "10. Sodium Chloride 0.9 % 0.9 % Parenteral Solution Sig: [**5-8**] mL Intravenous twice a day: Please flush with 5-10 cc prior to TPN start and flush with 10-20 cc after TPN is finished, NaCl must be sterile. Disp:*500 mL* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 12277,
+            "end_offset": 12511,
+            "annotation_id": "PI_131"
+        },
+        {
+            "decision": "1. Sigmoid volvulus.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12628,
+            "end_offset": 12647,
+            "annotation_id": "PI_132"
+        },
+        {
+            "decision": "2. Dilirium.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12649,
+            "end_offset": 12660,
+            "annotation_id": "PI_133"
+        },
+        {
+            "decision": "3. UTI.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12662,
+            "end_offset": 12668,
+            "annotation_id": "PI_134"
+        },
+        {
+            "decision": "4. Chronic anal fissure and hypertonic internal anal sphincter.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12670,
+            "end_offset": 12732,
+            "annotation_id": "PI_135"
+        },
+        {
+            "decision": "Discharge Condition: Mental Status: Clear and coherent.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12736,
+            "end_offset": 12790,
+            "annotation_id": "PI_136"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12792,
+            "end_offset": 12837,
+            "annotation_id": "PI_137"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12839,
+            "end_offset": 12911,
+            "annotation_id": "PI_138"
+        },
+        {
+            "decision": "Please resume all regular home medications , unless specifically advised not to take a particular medication. Also, please take any new medications as prescribed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 12972,
+            "end_offset": 13133,
+            "annotation_id": "PI_139"
+        },
+        {
+            "decision": "Please get plenty of rest, continue to ambulate several times per day, and drink adequate amounts of fluids",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13135,
+            "end_offset": 13242,
+            "annotation_id": "PI_140"
+        },
+        {
+            "decision": "Avoid lifting weights greater than [**4-28**] lbs until you follow-up with your surgeon, who will instruct you further regarding activity restrictions.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13244,
+            "end_offset": 13394,
+            "annotation_id": "PI_141"
+        },
+        {
+            "decision": "Avoid driving or operating heavy machinery while taking pain medications.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13396,
+            "end_offset": 13468,
+            "annotation_id": "PI_142"
+        },
+        {
+            "decision": "pain medications.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13452,
+            "end_offset": 13468,
+            "annotation_id": "PI_143"
+        },
+        {
+            "decision": "Please follow-up with your surgeon and Primary Care Provider (PCP) as advised",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13470,
+            "end_offset": 13547,
+            "annotation_id": "PI_144"
+        },
+        {
+            "decision": "Please call your doctor or nurse practitioner if you have increased pain, swelling, redness, or drainage from the incision site.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13566,
+            "end_offset": 13693,
+            "annotation_id": "PI_145"
+        },
+        {
+            "decision": "Avoid swimming and baths until your follow-up appointment.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13696,
+            "end_offset": 13753,
+            "annotation_id": "PI_146"
+        },
+        {
+            "decision": "You may shower, and wash surgical incisions with a mild soap and warm water. Gently pat the area dry.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13756,
+            "end_offset": 13856,
+            "annotation_id": "PI_147"
+        },
+        {
+            "decision": "If you have steri-strips, they will fall off on their own. Please remove any remaining strips 7-10 days after surgery",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13859,
+            "end_offset": 13976,
+            "annotation_id": "PI_148"
+        },
+        {
+            "decision": "Please call [**Telephone/Fax (1) 133**] to arrange a follow up appointment with Dr. [**Last Name (STitle) 2472**] (PCP) in [**1-22**] weeks after discharge.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14005,
+            "end_offset": 14160,
+            "annotation_id": "PI_149"
+        },
+        {
+            "decision": "Please call [**Telephone/Fax (1) 2998**] to arrange a follow up appointment with Dr. [**First Name (STitle) 2819**] (General Surgery) in [**1-22**] weeks after surgery.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 14167,
+            "end_offset": 14334,
+            "annotation_id": "PI_150"
+        }
+    ]
+}

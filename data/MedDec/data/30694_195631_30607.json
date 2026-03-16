@@ -1,0 +1,412 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "30694_195631_30607",
+    "annotations": [
+        {
+            "decision": "Intracranial bleeding",
+            "category": "Category 3: Defining problem",
+            "start_offset": 275,
+            "end_offset": 296,
+            "annotation_id": "KH_000"
+        },
+        {
+            "decision": "intubation,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 336,
+            "end_offset": 346,
+            "annotation_id": "KH_001"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 496,
+            "end_offset": 505,
+            "annotation_id": "KH_002"
+        },
+        {
+            "decision": "head CT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 510,
+            "end_offset": 517,
+            "annotation_id": "KH_003"
+        },
+        {
+            "decision": "SAH, SDH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 525,
+            "end_offset": 533,
+            "annotation_id": "KH_004"
+        },
+        {
+            "decision": "CT- Spine negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 535,
+            "end_offset": 553,
+            "annotation_id": "KH_005"
+        },
+        {
+            "decision": "vtach",
+            "category": "Category 3: Defining problem",
+            "start_offset": 567,
+            "end_offset": 572,
+            "annotation_id": "KH_006"
+        },
+        {
+            "decision": "lidocaine",
+            "category": "Category 5: Drug related",
+            "start_offset": 587,
+            "end_offset": 596,
+            "annotation_id": "KH_007"
+        },
+        {
+            "decision": "Tx to [**Hospital1 18**]. ",
+            "category": "Category 1: Contact related",
+            "start_offset": 598,
+            "end_offset": 622,
+            "annotation_id": "KH_008"
+        },
+        {
+            "decision": "pupils have been fixed and dilated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 629,
+            "end_offset": 663,
+            "annotation_id": "KH_009"
+        },
+        {
+            "decision": "interval head CT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 665,
+            "end_offset": 681,
+            "annotation_id": "KH_010"
+        },
+        {
+            "decision": "showed worsening SAH, SDH, no with intraventricular blood",
+            "category": "Category 3: Defining problem",
+            "start_offset": 682,
+            "end_offset": 739,
+            "annotation_id": "KH_011"
+        },
+        {
+            "decision": "CT chest ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 741,
+            "end_offset": 749,
+            "annotation_id": "KH_012"
+        },
+        {
+            "decision": "showed increased consolidation L upper lobe",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 750,
+            "end_offset": 793,
+            "annotation_id": "KH_013"
+        },
+        {
+            "decision": "DM",
+            "category": "Category 3: Defining problem",
+            "start_offset": 817,
+            "end_offset": 819,
+            "annotation_id": "KH_014"
+        },
+        {
+            "decision": "Polysubstance abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 820,
+            "end_offset": 839,
+            "annotation_id": "KH_015"
+        },
+        {
+            "decision": "ETOH abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 840,
+            "end_offset": 850,
+            "annotation_id": "KH_016"
+        },
+        {
+            "decision": "HCV",
+            "category": "Category 3: Defining problem",
+            "start_offset": 851,
+            "end_offset": 854,
+            "annotation_id": "KH_017"
+        },
+        {
+            "decision": "pupils were fixed and dilated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 965,
+            "end_offset": 994,
+            "annotation_id": "KH_018"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1003,
+            "end_offset": 1012,
+            "annotation_id": "KH_019"
+        },
+        {
+            "decision": "heart rate was vtach ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1014,
+            "end_offset": 1034,
+            "annotation_id": "KH_020"
+        },
+        {
+            "decision": "responded to lidocaine",
+            "category": "Category 5: Drug related",
+            "start_offset": 1049,
+            "end_offset": 1071,
+            "annotation_id": "KH_021"
+        },
+        {
+            "decision": "no obvious trauma or deformities to the extremtiies",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1083,
+            "end_offset": 1134,
+            "annotation_id": "KH_022"
+        },
+        {
+            "decision": "no brain stem reflexes including: a gag, oculocephalics, or cough.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1185,
+            "end_offset": 1250,
+            "annotation_id": "KH_023"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1362,
+            "end_offset": 1371,
+            "annotation_id": "KH_024"
+        },
+        {
+            "decision": "Gen: critically ill, intubated, unresponsive to deep painful stim.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1341,
+            "end_offset": 1406,
+            "annotation_id": "KH_025"
+        },
+        {
+            "decision": "HEENT: Pupils: 6mm fixed, unreactive bilaterally Neck: Supple.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1408,
+            "end_offset": 1469,
+            "annotation_id": "KH_026"
+        },
+        {
+            "decision": "Lungs: rhonci bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1471,
+            "end_offset": 1496,
+            "annotation_id": "KH_027"
+        },
+        {
+            "decision": "Cardiac: RRR. S1/S2.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1497,
+            "end_offset": 1516,
+            "annotation_id": "KH_028"
+        },
+        {
+            "decision": "Abd: Soft, BS+",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1518,
+            "end_offset": 1532,
+            "annotation_id": "KH_029"
+        },
+        {
+            "decision": "Extrem: cool, mottled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1533,
+            "end_offset": 1554,
+            "annotation_id": "KH_030"
+        },
+        {
+            "decision": "Mental status: unresponsive to sternal rub, no response to painful stim in extrem x4.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1562,
+            "end_offset": 1646,
+            "annotation_id": "KH_031"
+        },
+        {
+            "decision": "II: Pupils fixed 6mm unreactive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1679,
+            "end_offset": 1710,
+            "annotation_id": "KH_032"
+        },
+        {
+            "decision": "IX, X: no gag reflex",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1712,
+            "end_offset": 1732,
+            "annotation_id": "KH_033"
+        },
+        {
+            "decision": "[**2115-6-23**] 01:05AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-POS mthdone-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1942,
+            "end_offset": 2047,
+            "annotation_id": "KH_034"
+        },
+        {
+            "decision": "CT HEAD W/O CONTRAST  [**2115-6-23**] 12:32 AM",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2293,
+            "end_offset": 2339,
+            "annotation_id": "KH_035"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2371,
+            "end_offset": 2380,
+            "annotation_id": "KH_036"
+        },
+        {
+            "decision": "have SDH with mass effect",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2403,
+            "end_offset": 2428,
+            "annotation_id": "KH_037"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2526,
+            "end_offset": 2535,
+            "annotation_id": "KH_038"
+        },
+        {
+            "decision": "have SDH with mass effect. ? interval change",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2558,
+            "end_offset": 2602,
+            "annotation_id": "KH_039"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2685,
+            "end_offset": 2694,
+            "annotation_id": "KH_040"
+        },
+        {
+            "decision": "CT of the head from outside hospital done at 9:00 p.m. on [**2115-6-22**].",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2731,
+            "end_offset": 2804,
+            "annotation_id": "KH_041"
+        },
+        {
+            "decision": "Contiguous axial images through the brain without contrast.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2818,
+            "end_offset": 2876,
+            "annotation_id": "KH_042"
+        },
+        {
+            "decision": "CT OF THE HEAD WITHOUT CONTRAST: ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2879,
+            "end_offset": 2910,
+            "annotation_id": "KH_043"
+        },
+        {
+            "decision": "There are bilateral subdural hematomas. Extensive subarachnoid hemorrhage is noted. There is a small amount of blood in the occipital horns of lateral ventricles, bilaterally. There is also blood present in the fourth ventricle and around the spinal cord. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2912,
+            "end_offset": 3166,
+            "annotation_id": "KH_044"
+        },
+        {
+            "decision": "There is no evidence of fracture. No evidence of shift of normally midline structures. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3168,
+            "end_offset": 3253,
+            "annotation_id": "KH_045"
+        },
+        {
+            "decision": "Extensive subgaleal hematoma, bilaterally. When compared to the prior study, there has been interval progression with development of intraventricular bleeding. Bilateral retinal hemorrhage is noted.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3255,
+            "end_offset": 3452,
+            "annotation_id": "KH_046"
+        },
+        {
+            "decision": "No evidence of skull fractures.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3454,
+            "end_offset": 3484,
+            "annotation_id": "KH_047"
+        },
+        {
+            "decision": "Bilateral subdural hematomas and subarachnoid hemorrhage. Interval development of intraventricular hemorrhage. Bilateral retinal hemorrhage.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3499,
+            "end_offset": 3638,
+            "annotation_id": "KH_048"
+        },
+        {
+            "decision": "had a CT scan",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3709,
+            "end_offset": 3722,
+            "annotation_id": "KH_049"
+        },
+        {
+            "decision": "showed worsening of the SDH and SAH. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3734,
+            "end_offset": 3769,
+            "annotation_id": "KH_050"
+        },
+        {
+            "decision": "supported on the ventilator",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3803,
+            "end_offset": 3830,
+            "annotation_id": "KH_051"
+        },
+        {
+            "decision": "continued to worsen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3847,
+            "end_offset": 3866,
+            "annotation_id": "KH_052"
+        },
+        {
+            "decision": " Neurosurgery evaluated him and decided there was no surgical treatment at this time.  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3869,
+            "end_offset": 3952,
+            "annotation_id": "KH_053"
+        },
+        {
+            "decision": "patient was brain dead on [**2115-6-24**].  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4015,
+            "end_offset": 4056,
+            "annotation_id": "KH_054"
+        },
+        {
+            "decision": "ET tube was withdrawn",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4197,
+            "end_offset": 4218,
+            "annotation_id": "KH_055"
+        },
+        {
+            "decision": "pain was controlled with morphine, ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4233,
+            "end_offset": 4266,
+            "annotation_id": "KH_056"
+        },
+        {
+            "decision": "asystole",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4296,
+            "end_offset": 4304,
+            "annotation_id": "KH_057"
+        }
+    ]
+}

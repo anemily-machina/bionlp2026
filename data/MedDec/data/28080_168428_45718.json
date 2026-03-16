@@ -1,0 +1,734 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "28080_168428_45718",
+    "annotations": [
+        {
+            "decision": "AAA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 272,
+            "end_offset": 275,
+            "annotation_id": "IY_000"
+        },
+        {
+            "decision": "AAA resection with aortobi-iliac BPG [**2169-5-15**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 315,
+            "end_offset": 367,
+            "annotation_id": "IY_001"
+        },
+        {
+            "decision": "with CAD, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 460,
+            "annotation_id": "IY_002"
+        },
+        {
+            "decision": "h/o TIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 462,
+            "end_offset": 469,
+            "annotation_id": "IY_003"
+        },
+        {
+            "decision": "s/p Left CEA [**12-28**],",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 471,
+            "end_offset": 495,
+            "annotation_id": "IY_004"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 497,
+            "end_offset": 500,
+            "annotation_id": "IY_005"
+        },
+        {
+            "decision": " gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 502,
+            "end_offset": 506,
+            "annotation_id": "IY_006"
+        },
+        {
+            "decision": "Imaging studies showed fracture posterior left 9th rib with tiny pneumothorax on CT.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 660,
+            "end_offset": 743,
+            "annotation_id": "IY_007"
+        },
+        {
+            "decision": "Incidental finding was 9cm AAA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 745,
+            "end_offset": 775,
+            "annotation_id": "IY_008"
+        },
+        {
+            "decision": "transferred to [**Hospital1 18**] ER for further evaluation",
+            "category": "Category 1: Contact related",
+            "start_offset": 868,
+            "end_offset": 927,
+            "annotation_id": "IY_009"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 959,
+            "end_offset": 962,
+            "annotation_id": "IY_010"
+        },
+        {
+            "decision": "silent IMI, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 963,
+            "end_offset": 973,
+            "annotation_id": "IY_011"
+        },
+        {
+            "decision": "PTCA LAD and PTCA/stent OM2 [**2162**]; EF=32%",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 975,
+            "end_offset": 1020,
+            "annotation_id": "IY_012"
+        },
+        {
+            "decision": "TIA, carotid stenosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1024,
+            "end_offset": 1045,
+            "annotation_id": "IY_013"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1048,
+            "end_offset": 1060,
+            "annotation_id": "IY_014"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1063,
+            "end_offset": 1083,
+            "annotation_id": "IY_015"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1086,
+            "end_offset": 1090,
+            "annotation_id": "IY_016"
+        },
+        {
+            "decision": "L5-S1 radiculopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1093,
+            "end_offset": 1112,
+            "annotation_id": "IY_017"
+        },
+        {
+            "decision": "Hiatal hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1115,
+            "end_offset": 1128,
+            "annotation_id": "IY_018"
+        },
+        {
+            "decision": "Depression/ anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1131,
+            "end_offset": 1150,
+            "annotation_id": "IY_019"
+        },
+        {
+            "decision": "Emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1153,
+            "end_offset": 1162,
+            "annotation_id": "IY_020"
+        },
+        {
+            "decision": "Left CEA [**12-28**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1171,
+            "end_offset": 1191,
+            "annotation_id": "IY_021"
+        },
+        {
+            "decision": "Arthroscopy right knee",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1194,
+            "end_offset": 1216,
+            "annotation_id": "IY_022"
+        },
+        {
+            "decision": "Circumcision [**2167-11-25**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1219,
+            "end_offset": 1248,
+            "annotation_id": "IY_023"
+        },
+        {
+            "decision": "Tonsillectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1251,
+            "end_offset": 1264,
+            "annotation_id": "IY_024"
+        },
+        {
+            "decision": "General: Alert, cooperative [**Male First Name (un) 4746**] in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1634,
+            "end_offset": 1700,
+            "annotation_id": "IY_025"
+        },
+        {
+            "decision": "Chest: Tenderness left side. Cor-RRR. Lungs clear.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1701,
+            "end_offset": 1750,
+            "annotation_id": "IY_026"
+        },
+        {
+            "decision": "Abdomen: Obese. Soft. Nontender/nondistended. No pulsatile mass palpated.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1752,
+            "end_offset": 1824,
+            "annotation_id": "IY_027"
+        },
+        {
+            "decision": "Extremities: Feet warm. DP pulses palpable bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1826,
+            "end_offset": 1880,
+            "annotation_id": "IY_028"
+        },
+        {
+            "decision": "Neurological exam nonfocal; equal grip strength; alert and oriented x3.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1882,
+            "end_offset": 1952,
+            "annotation_id": "IY_029"
+        },
+        {
+            "decision": "URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-5.5 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2628,
+            "end_offset": 2735,
+            "annotation_id": "IY_030"
+        },
+        {
+            "decision": "URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.020",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2759,
+            "end_offset": 2825,
+            "annotation_id": "IY_031"
+        },
+        {
+            "decision": "LBBB. Sinus bradycardia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2857,
+            "end_offset": 2880,
+            "annotation_id": "IY_032"
+        },
+        {
+            "decision": "EKG [**2169-5-8**] NSR at 86. LBBB. Sinus bradycardia on [**2168-12-28**] EKG resolved",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2827,
+            "end_offset": 2913,
+            "annotation_id": "IY_033"
+        },
+        {
+            "decision": "CXR [**2169-5-10**] No pneumothorax seen, Left posterior 9th rib fx not visualized",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2916,
+            "end_offset": 2998,
+            "annotation_id": "IY_034"
+        },
+        {
+            "decision": "Repeat CT showed 7.9 x 7.5cm infrarenal AAA, diffuse emphysema, and RML/RUL pulmonary nodules up to 7mm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3106,
+            "end_offset": 3209,
+            "annotation_id": "IY_035"
+        },
+        {
+            "decision": "The CXR did not visualize the left rib fx or any pneumothorax.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3211,
+            "end_offset": 3272,
+            "annotation_id": "IY_036"
+        },
+        {
+            "decision": "Cardiology was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3340,
+            "end_offset": 3364,
+            "annotation_id": "IY_037"
+        },
+        {
+            "decision": "Persantine MIBI study done [**1-26**] showed EF of 32%, inferior fixed defect which was unchanged from [**1-24**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3402,
+            "end_offset": 3515,
+            "annotation_id": "IY_038"
+        },
+        {
+            "decision": "Cardiac cath from [**10/2164**] was reviewed, found to be stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3517,
+            "end_offset": 3581,
+            "annotation_id": "IY_039"
+        },
+        {
+            "decision": "cleared for surgery",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3593,
+            "end_offset": 3612,
+            "annotation_id": "IY_040"
+        },
+        {
+            "decision": "increasing beta blocker ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3637,
+            "end_offset": 3660,
+            "annotation_id": "IY_041"
+        },
+        {
+            "decision": "to attain HR of 50-60.",
+            "category": "Category 4: Treatment goal",
+            "start_offset": 3661,
+            "end_offset": 3682,
+            "annotation_id": "IY_042"
+        },
+        {
+            "decision": "pt became bradycardic to HR~35 ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3692,
+            "end_offset": 3722,
+            "annotation_id": "IY_043"
+        },
+        {
+            "decision": "so dose changed back to at home dose.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3723,
+            "end_offset": 3759,
+            "annotation_id": "IY_044"
+        },
+        {
+            "decision": "Pt was followed by his PCP, [**Last Name (NamePattern4) **].[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1007**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 3817,
+            "end_offset": 3946,
+            "annotation_id": "IY_045"
+        },
+        {
+            "decision": "thought this was due to splinting from rib fracture pain and low back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3952,
+            "end_offset": 4026,
+            "annotation_id": "IY_046"
+        },
+        {
+            "decision": "The Acute Pain Service was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4028,
+            "end_offset": 4064,
+            "annotation_id": "IY_047"
+        },
+        {
+            "decision": "back pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4080,
+            "end_offset": 4089,
+            "annotation_id": "IY_048"
+        },
+        {
+            "decision": "unsuccessfully treated with morphine PCA",
+            "category": "Category 5: Drug related",
+            "start_offset": 4100,
+            "end_offset": 4140,
+            "annotation_id": "IY_049"
+        },
+        {
+            "decision": "AAA resection ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4147,
+            "end_offset": 4160,
+            "annotation_id": "IY_050"
+        },
+        {
+            "decision": "AAA resection was rescheduled in order to address respiratory and pain issues adequately.",
+            "category": "Category 8: Deferment",
+            "start_offset": 4147,
+            "end_offset": 4235,
+            "annotation_id": "IY_051"
+        },
+        {
+            "decision": "On [**2169-5-15**] pt underwent an uneventful AAA resection with an aortobi-iliac BPG",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4241,
+            "end_offset": 4326,
+            "annotation_id": "IY_052"
+        },
+        {
+            "decision": "At the end of surgery pt had equally warm feet with palpable femoral and dopplerable pedal pulses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4328,
+            "end_offset": 4425,
+            "annotation_id": "IY_053"
+        },
+        {
+            "decision": "Ancef was given peri-operatively",
+            "category": "Category 5: Drug related",
+            "start_offset": 4427,
+            "end_offset": 4459,
+            "annotation_id": "IY_054"
+        },
+        {
+            "decision": "One unit of PRBC was transfused on POD#2",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4461,
+            "end_offset": 4501,
+            "annotation_id": "IY_055"
+        },
+        {
+            "decision": "Post-op pain ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4503,
+            "end_offset": 4515,
+            "annotation_id": "IY_056"
+        },
+        {
+            "decision": "hydromorphone epidural until POD#2",
+            "category": "Category 5: Drug related",
+            "start_offset": 4533,
+            "end_offset": 4567,
+            "annotation_id": "IY_057"
+        },
+        {
+            "decision": "pain was controlled ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4577,
+            "end_offset": 4596,
+            "annotation_id": "IY_058"
+        },
+        {
+            "decision": "morphine PCA and finally Percocet prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 4602,
+            "end_offset": 4639,
+            "annotation_id": "IY_059"
+        },
+        {
+            "decision": "Pt started on sips on POD#3 and diet was advanced as tolerated. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4645,
+            "end_offset": 4707,
+            "annotation_id": "IY_060"
+        },
+        {
+            "decision": "Physical therapy cleared pt for discharge home",
+            "category": "Category 1: Contact related",
+            "start_offset": 4709,
+            "end_offset": 4755,
+            "annotation_id": "IY_061"
+        },
+        {
+            "decision": "abdominal incision was clean, dry, and intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4783,
+            "end_offset": 4828,
+            "annotation_id": "IY_062"
+        },
+        {
+            "decision": "He will f/u with Dr.[**Last Name (STitle) 1391**] in th office in one week",
+            "category": "Category 1: Contact related",
+            "start_offset": 4830,
+            "end_offset": 4904,
+            "annotation_id": "IY_063"
+        },
+        {
+            "decision": "for staple removal.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4905,
+            "end_offset": 4923,
+            "annotation_id": "IY_064"
+        },
+        {
+            "decision": "Imdur 40mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 4954,
+            "end_offset": 4970,
+            "annotation_id": "IY_065"
+        },
+        {
+            "decision": "Lopressor 50mg po tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 4973,
+            "end_offset": 4994,
+            "annotation_id": "IY_066"
+        },
+        {
+            "decision": "Lisinopril 10mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 4997,
+            "end_offset": 5018,
+            "annotation_id": "IY_067"
+        },
+        {
+            "decision": "Lipitor 40mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5021,
+            "end_offset": 5039,
+            "annotation_id": "IY_068"
+        },
+        {
+            "decision": "Zantac 150mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5042,
+            "end_offset": 5061,
+            "annotation_id": "IY_069"
+        },
+        {
+            "decision": "Probenecid 500mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5064,
+            "end_offset": 5087,
+            "annotation_id": "IY_070"
+        },
+        {
+            "decision": "Indocin 50mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5090,
+            "end_offset": 5108,
+            "annotation_id": "IY_071"
+        },
+        {
+            "decision": "Zoloft 200mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5111,
+            "end_offset": 5129,
+            "annotation_id": "IY_072"
+        },
+        {
+            "decision": "Ativan prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 5132,
+            "end_offset": 5142,
+            "annotation_id": "IY_073"
+        },
+        {
+            "decision": "Nitro sl prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 5147,
+            "end_offset": 5159,
+            "annotation_id": "IY_074"
+        },
+        {
+            "decision": "Metoprolol 50mg po tid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5186,
+            "end_offset": 5208,
+            "annotation_id": "IY_075"
+        },
+        {
+            "decision": "Atorvastatin 40mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5211,
+            "end_offset": 5234,
+            "annotation_id": "IY_076"
+        },
+        {
+            "decision": "Ranitidine 150mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5237,
+            "end_offset": 5260,
+            "annotation_id": "IY_077"
+        },
+        {
+            "decision": "Probenecid 500mg po bid",
+            "category": "Category 5: Drug related",
+            "start_offset": 5263,
+            "end_offset": 5286,
+            "annotation_id": "IY_078"
+        },
+        {
+            "decision": "Sertraline 200mg po qd",
+            "category": "Category 5: Drug related",
+            "start_offset": 5289,
+            "end_offset": 5311,
+            "annotation_id": "IY_079"
+        },
+        {
+            "decision": "Percocet 5-325mg 1-2 tabs po q 4-6hrprn pain",
+            "category": "Category 5: Drug related",
+            "start_offset": 5314,
+            "end_offset": 5358,
+            "annotation_id": "IY_080"
+        },
+        {
+            "decision": "Asymptomatic 7.5cm AAA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5410,
+            "end_offset": 5432,
+            "annotation_id": "IY_081"
+        },
+        {
+            "decision": "Left posterior 9th rib fx secondary to fall on [**2169-5-7**]",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5449,
+            "end_offset": 5510,
+            "annotation_id": "IY_082"
+        },
+        {
+            "decision": "Blood loss anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5513,
+            "end_offset": 5530,
+            "annotation_id": "IY_083"
+        },
+        {
+            "decision": "s/p transfusion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5532,
+            "end_offset": 5547,
+            "annotation_id": "IY_084"
+        },
+        {
+            "decision": "Bradycardia resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5550,
+            "end_offset": 5570,
+            "annotation_id": "IY_085"
+        },
+        {
+            "decision": "after adjustment of beta blocker dose.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5571,
+            "end_offset": 5608,
+            "annotation_id": "IY_086"
+        },
+        {
+            "decision": "Emphysema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5612,
+            "end_offset": 5621,
+            "annotation_id": "IY_087"
+        },
+        {
+            "decision": "O2 desaturation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5622,
+            "end_offset": 5637,
+            "annotation_id": "IY_088"
+        },
+        {
+            "decision": "requiring O2 via nasal cannula",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5638,
+            "end_offset": 5668,
+            "annotation_id": "IY_089"
+        },
+        {
+            "decision": "Chronic severe low back pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5671,
+            "end_offset": 5699,
+            "annotation_id": "IY_090"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5702,
+            "end_offset": 5705,
+            "annotation_id": "IY_091"
+        },
+        {
+            "decision": "s/p MI'",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5707,
+            "end_offset": 5713,
+            "annotation_id": "IY_092"
+        },
+        {
+            "decision": "PTCA'[**58**],PTCA/stent [**2163-1-23**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5723,
+            "end_offset": 5763,
+            "annotation_id": "IY_093"
+        },
+        {
+            "decision": "TIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5766,
+            "end_offset": 5769,
+            "annotation_id": "IY_094"
+        },
+        {
+            "decision": "s/p left CEA [**12-28**]",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5770,
+            "end_offset": 5794,
+            "annotation_id": "IY_095"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5797,
+            "end_offset": 5809,
+            "annotation_id": "IY_096"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5812,
+            "end_offset": 5832,
+            "annotation_id": "IY_097"
+        },
+        {
+            "decision": "Gout",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5836,
+            "end_offset": 5840,
+            "annotation_id": "IY_098"
+        },
+        {
+            "decision": "Depression/anxiety",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5844,
+            "end_offset": 5862,
+            "annotation_id": "IY_099"
+        },
+        {
+            "decision": "RML/RLL pulmonary nodules to 7mm seen on CT [**2169-5-8**]; ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5866,
+            "end_offset": 5924,
+            "annotation_id": "IY_100"
+        },
+        {
+            "decision": "F/U chest CT in 3months    recommended.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5926,
+            "end_offset": 5964,
+            "annotation_id": "IY_101"
+        },
+        {
+            "decision": "Discharge Condition: Satisfactory.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5967,
+            "end_offset": 6000,
+            "annotation_id": "IY_102"
+        },
+        {
+            "decision": "Follow with Dr.[**Last Name (STitle) 1391**] in the office in one week: call for appt. [**Telephone/Fax (1) 1393**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6026,
+            "end_offset": 6141,
+            "annotation_id": "IY_103"
+        }
+    ]
+}

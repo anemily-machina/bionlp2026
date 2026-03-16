@@ -1,0 +1,1280 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "29164_194535_44994",
+    "annotations": [
+        {
+            "decision": "Hypotension, Afib with RVR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 229,
+            "end_offset": 255,
+            "annotation_id": "JR_000"
+        },
+        {
+            "decision": "CVL",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 295,
+            "end_offset": 298,
+            "annotation_id": "JR_001"
+        },
+        {
+            "decision": "DM, COPD, CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 414,
+            "end_offset": 427,
+            "annotation_id": "JR_002"
+        },
+        {
+            "decision": "abdominal surgeries for necrotic bowl",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 440,
+            "end_offset": 477,
+            "annotation_id": "JR_003"
+        },
+        {
+            "decision": "Afib with RVR and hypotension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 525,
+            "end_offset": 554,
+            "annotation_id": "JR_004"
+        },
+        {
+            "decision": "She was sent to the ER from [**Hospital 100**] Rehab ",
+            "category": "Category 1: Contact related",
+            "start_offset": 558,
+            "end_offset": 610,
+            "annotation_id": "JR_005"
+        },
+        {
+            "decision": "hypotension and afib with RVR with rates in the 150s.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 618,
+            "end_offset": 670,
+            "annotation_id": "JR_006"
+        },
+        {
+            "decision": "congested on a stat CXR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 694,
+            "end_offset": 717,
+            "annotation_id": "JR_007"
+        },
+        {
+            "decision": "40 mg IV Lasix x 2",
+            "category": "Category 5: Drug related",
+            "start_offset": 735,
+            "end_offset": 753,
+            "annotation_id": "JR_008"
+        },
+        {
+            "decision": "Dilt 30mg PO x 2",
+            "category": "Category 5: Drug related",
+            "start_offset": 766,
+            "end_offset": 782,
+            "annotation_id": "JR_009"
+        },
+        {
+            "decision": "improvement of HR to 80's",
+            "category": "Category 3: Defining problem",
+            "start_offset": 789,
+            "end_offset": 814,
+            "annotation_id": "JR_010"
+        },
+        {
+            "decision": "dropped her blood pressure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 834,
+            "end_offset": 860,
+            "annotation_id": "JR_011"
+        },
+        {
+            "decision": "500 mg IVF ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 879,
+            "end_offset": 889,
+            "annotation_id": "JR_012"
+        },
+        {
+            "decision": "Zosyn ",
+            "category": "Category 5: Drug related",
+            "start_offset": 944,
+            "end_offset": 949,
+            "annotation_id": "JR_013"
+        },
+        {
+            "decision": "Vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 954,
+            "end_offset": 964,
+            "annotation_id": "JR_014"
+        },
+        {
+            "decision": "dirty U/A",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1087,
+            "end_offset": 1096,
+            "annotation_id": "JR_015"
+        },
+        {
+            "decision": "CXR per report showed new bibasilar opacities with possible L sided effusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1098,
+            "end_offset": 1174,
+            "annotation_id": "JR_016"
+        },
+        {
+            "decision": "Surgery was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1176,
+            "end_offset": 1197,
+            "annotation_id": "JR_017"
+        },
+        {
+            "decision": "operative resection of necrotic bowel and primary anastamosis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1226,
+            "end_offset": 1287,
+            "annotation_id": "JR_018"
+        },
+        {
+            "decision": "re-operation for anastomotic leak and re-anastomosis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1307,
+            "end_offset": 1359,
+            "annotation_id": "JR_019"
+        },
+        {
+            "decision": "DC'ed her retention sutures, and debrieded her abdominal wound.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1382,
+            "end_offset": 1444,
+            "annotation_id": "JR_020"
+        },
+        {
+            "decision": "Afib with felt to be [**2-15**] volume overload on a STAT CXR, with fluid collection L>R",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1646,
+            "end_offset": 1734,
+            "annotation_id": "JR_021"
+        },
+        {
+            "decision": "30 mg PO Dilt x 2",
+            "category": "Category 5: Drug related",
+            "start_offset": 1744,
+            "end_offset": 1761,
+            "annotation_id": "JR_022"
+        },
+        {
+            "decision": "40 mg IV lasix x 2",
+            "category": "Category 5: Drug related",
+            "start_offset": 1767,
+            "end_offset": 1785,
+            "annotation_id": "JR_023"
+        },
+        {
+            "decision": "Anticoagulation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1787,
+            "end_offset": 1802,
+            "annotation_id": "JR_024"
+        },
+        {
+            "decision": "recent GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1844,
+            "end_offset": 1859,
+            "annotation_id": "JR_025"
+        },
+        {
+            "decision": "HCT 24 last week, needing 2 U",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1867,
+            "end_offset": 1896,
+            "annotation_id": "JR_026"
+        },
+        {
+            "decision": "Lovenox ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1927,
+            "end_offset": 1934,
+            "annotation_id": "JR_027"
+        },
+        {
+            "decision": "coumadin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1939,
+            "end_offset": 1947,
+            "annotation_id": "JR_028"
+        },
+        {
+            "decision": "wound cultures from [**3-6**] showed MRSA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2064,
+            "end_offset": 2105,
+            "annotation_id": "JR_029"
+        },
+        {
+            "decision": "Metronidazole ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2149,
+            "end_offset": 2162,
+            "annotation_id": "JR_030"
+        },
+        {
+            "decision": "Cipro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2167,
+            "end_offset": 2172,
+            "annotation_id": "JR_031"
+        },
+        {
+            "decision": "WBC count elevation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2237,
+            "end_offset": 2256,
+            "annotation_id": "JR_032"
+        },
+        {
+            "decision": "diffuse lower abdominal pain and abdominal distention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2332,
+            "end_offset": 2385,
+            "annotation_id": "JR_033"
+        },
+        {
+            "decision": "CT showing small bowel thickening",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2394,
+            "end_offset": 2427,
+            "annotation_id": "JR_034"
+        },
+        {
+            "decision": "gastroenteritis versus ischemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2432,
+            "end_offset": 2463,
+            "annotation_id": "JR_035"
+        },
+        {
+            "decision": "GI  was consulted ",
+            "category": "Category 1: Contact related",
+            "start_offset": 2487,
+            "end_offset": 2504,
+            "annotation_id": "JR_036"
+        },
+        {
+            "decision": "NG decompression",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2521,
+            "end_offset": 2537,
+            "annotation_id": "JR_037"
+        },
+        {
+            "decision": "cipro ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2567,
+            "end_offset": 2572,
+            "annotation_id": "JR_038"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 2577,
+            "end_offset": 2583,
+            "annotation_id": "JR_039"
+        },
+        {
+            "decision": "repeat CT scan showed worsened small bowel thickening and interloop fluid",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2594,
+            "end_offset": 2667,
+            "annotation_id": "JR_040"
+        },
+        {
+            "decision": "ex-lap with small bowel resection and lysis of adhesions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2706,
+            "end_offset": 2762,
+            "annotation_id": "JR_041"
+        },
+        {
+            "decision": "hypotension and afib with RVR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2810,
+            "end_offset": 2839,
+            "annotation_id": "JR_042"
+        },
+        {
+            "decision": "post operative atrial fibrillation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2872,
+            "end_offset": 2906,
+            "annotation_id": "JR_043"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2937,
+            "end_offset": 2946,
+            "annotation_id": "JR_044"
+        },
+        {
+            "decision": "pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 2960,
+            "end_offset": 2968,
+            "annotation_id": "JR_045"
+        },
+        {
+            "decision": "digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 3009,
+            "end_offset": 3016,
+            "annotation_id": "JR_046"
+        },
+        {
+            "decision": "heparin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 3040,
+            "end_offset": 3051,
+            "annotation_id": "JR_047"
+        },
+        {
+            "decision": "She also had difficult to diurese pleureal effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3053,
+            "end_offset": 3105,
+            "annotation_id": "JR_048"
+        },
+        {
+            "decision": "bilateral CT placements",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3120,
+            "end_offset": 3143,
+            "annotation_id": "JR_049"
+        },
+        {
+            "decision": "Vancomyin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3211,
+            "end_offset": 3220,
+            "annotation_id": "JR_050"
+        },
+        {
+            "decision": "wound infection (surgical)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3227,
+            "end_offset": 3252,
+            "annotation_id": "JR_051"
+        },
+        {
+            "decision": "Cipro/Flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3258,
+            "end_offset": 3270,
+            "annotation_id": "JR_052"
+        },
+        {
+            "decision": "anastaomic leak",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3279,
+            "end_offset": 3294,
+            "annotation_id": "JR_053"
+        },
+        {
+            "decision": "she is AAOx3, pleasant, conversant, but hypotensive.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3322,
+            "end_offset": 3373,
+            "annotation_id": "JR_054"
+        },
+        {
+            "decision": "Diabetes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3401,
+            "end_offset": 3409,
+            "annotation_id": "JR_055"
+        },
+        {
+            "decision": "Schizoaffective disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3412,
+            "end_offset": 3436,
+            "annotation_id": "JR_056"
+        },
+        {
+            "decision": "COPD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3439,
+            "end_offset": 3443,
+            "annotation_id": "JR_057"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3446,
+            "end_offset": 3449,
+            "annotation_id": "JR_058"
+        },
+        {
+            "decision": "CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3452,
+            "end_offset": 3455,
+            "annotation_id": "JR_059"
+        },
+        {
+            "decision": "Hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3458,
+            "end_offset": 3478,
+            "annotation_id": "JR_060"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3481,
+            "end_offset": 3485,
+            "annotation_id": "JR_061"
+        },
+        {
+            "decision": "head injury ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3492,
+            "end_offset": 3503,
+            "annotation_id": "JR_062"
+        },
+        {
+            "decision": "Perforated duodenal ulcer ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3516,
+            "end_offset": 3541,
+            "annotation_id": "JR_063"
+        },
+        {
+            "decision": "s/p cholecystectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3556,
+            "end_offset": 3575,
+            "annotation_id": "JR_064"
+        },
+        {
+            "decision": "anterior parietal cell vagotomy, and [**Location (un) **] patch closure",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3577,
+            "end_offset": 3648,
+            "annotation_id": "JR_065"
+        },
+        {
+            "decision": "Ex lap, resection small bowel, primary anastomosis & re-operation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3685,
+            "end_offset": 3750,
+            "annotation_id": "JR_066"
+        },
+        {
+            "decision": "anastomotic leak ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3755,
+            "end_offset": 3771,
+            "annotation_id": "JR_067"
+        },
+        {
+            "decision": "A&O x 3, somewhat confused. Uncomfortable d/t Right hip pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3965,
+            "end_offset": 4025,
+            "annotation_id": "JR_068"
+        },
+        {
+            "decision": "HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4026,
+            "end_offset": 4085,
+            "annotation_id": "JR_069"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4086,
+            "end_offset": 4124,
+            "annotation_id": "JR_070"
+        },
+        {
+            "decision": "CV: Irreg irreg",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4125,
+            "end_offset": 4140,
+            "annotation_id": "JR_071"
+        },
+        {
+            "decision": "Lungs: Coarse ronchi bilateral bases",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4141,
+            "end_offset": 4177,
+            "annotation_id": "JR_072"
+        },
+        {
+            "decision": "Abdomen: Midline incision w/ mixed granulation tissue and minimal fibrinous tissue. No purulence or drainage. Skin surrounding retention suture bridge w/ peeling, non-blanching erythema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4178,
+            "end_offset": 4363,
+            "annotation_id": "JR_073"
+        },
+        {
+            "decision": "GU: Foley present",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4365,
+            "end_offset": 4382,
+            "annotation_id": "JR_074"
+        },
+        {
+            "decision": "Ext: Right foot w/ mottling and dusky, black distal 2nd toe. Dopplerable DP pulses bilaterally per surgery.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4383,
+            "end_offset": 4489,
+            "annotation_id": "JR_075"
+        },
+        {
+            "decision": "URINE URINE CULTURE-FINAL {YEAST} INPATIENT [**2153-3-16**] CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8891,
+            "end_offset": 8996,
+            "annotation_id": "JR_076"
+        },
+        {
+            "decision": "SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL INPATIENT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9013,
+            "end_offset": 9073,
+            "annotation_id": "JR_077"
+        },
+        {
+            "decision": "STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL INPATIENT",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9090,
+            "end_offset": 9150,
+            "annotation_id": "JR_078"
+        },
+        {
+            "decision": "MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS}",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9167,
+            "end_offset": 9245,
+            "annotation_id": "JR_079"
+        },
+        {
+            "decision": "URINE URINE CULTURE-FINAL {YEAST} EMERGENCY [**Hospital1 **]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9273,
+            "end_offset": 9333,
+            "annotation_id": "JR_080"
+        },
+        {
+            "decision": "BLOOD CULTURE Blood Culture, Routine-FINAL EMERGENCY [**Hospital1 **]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9350,
+            "end_offset": 9419,
+            "annotation_id": "JR_081"
+        },
+        {
+            "decision": "No CT evidence for acute intracranial process",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9532,
+            "end_offset": 9577,
+            "annotation_id": "JR_082"
+        },
+        {
+            "decision": "No evidence of deep vein thrombosis in either leg",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9701,
+            "end_offset": 9750,
+            "annotation_id": "JR_083"
+        },
+        {
+            "decision": "The left calf veins and the right peroneal veins could not be visualized.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9823,
+            "end_offset": 9895,
+            "annotation_id": "JR_084"
+        },
+        {
+            "decision": "The left atrium is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9982,
+            "end_offset": 10015,
+            "annotation_id": "JR_085"
+        },
+        {
+            "decision": "There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10017,
+            "end_offset": 10131,
+            "annotation_id": "JR_086"
+        },
+        {
+            "decision": "Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10135,
+            "end_offset": 10228,
+            "annotation_id": "JR_087"
+        },
+        {
+            "decision": "The right ventricular cavity is mildly dilated with normal free wall contractility",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10230,
+            "end_offset": 10312,
+            "annotation_id": "JR_088"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10314,
+            "end_offset": 10399,
+            "annotation_id": "JR_089"
+        },
+        {
+            "decision": "No aortic regurgitation is seen",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10401,
+            "end_offset": 10432,
+            "annotation_id": "JR_090"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10434,
+            "end_offset": 10480,
+            "annotation_id": "JR_091"
+        },
+        {
+            "decision": "There is no mitral valve prolapse",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10482,
+            "end_offset": 10515,
+            "annotation_id": "JR_092"
+        },
+        {
+            "decision": "Mild to moderate ([**1-15**]+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10517,
+            "end_offset": 10678,
+            "annotation_id": "JR_093"
+        },
+        {
+            "decision": "The tricuspid valve leaflets are mildly thickened",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10681,
+            "end_offset": 10730,
+            "annotation_id": "JR_094"
+        },
+        {
+            "decision": "There is mild pulmonary artery systolic hypertension. There is no pericardial effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10732,
+            "end_offset": 10818,
+            "annotation_id": "JR_095"
+        },
+        {
+            "decision": "Suboptimal image quality due to body habitus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10833,
+            "end_offset": 10877,
+            "annotation_id": "JR_096"
+        },
+        {
+            "decision": "Mild symmetric LVH",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10879,
+            "end_offset": 10897,
+            "annotation_id": "JR_097"
+        },
+        {
+            "decision": "Left ventricular systolic function is probably normal, a focal wall motion abnormality cannot be excluded",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10899,
+            "end_offset": 11004,
+            "annotation_id": "JR_098"
+        },
+        {
+            "decision": "Mild to moderate mitral regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11006,
+            "end_offset": 11043,
+            "annotation_id": "JR_099"
+        },
+        {
+            "decision": "Borderline dilatation of the right ventricle with normal function, moderate tricuspid regurgitation and mild to moderate pulmonary hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11045,
+            "end_offset": 11188,
+            "annotation_id": "JR_100"
+        },
+        {
+            "decision": "degree of mitral regurgitation has increased",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11262,
+            "end_offset": 11306,
+            "annotation_id": "JR_101"
+        },
+        {
+            "decision": "The right ventricle was probably borderline dilated on the prior echo",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11308,
+            "end_offset": 11377,
+            "annotation_id": "JR_102"
+        },
+        {
+            "decision": "Moderate bilateral pleural effusion right greater than left may have increased in between [**3-16**] and 4, currently unchanged",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11494,
+            "end_offset": 11621,
+            "annotation_id": "JR_103"
+        },
+        {
+            "decision": "Persistent mediastinal and pulmonary vascular engorgement",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11623,
+            "end_offset": 11680,
+            "annotation_id": "JR_104"
+        },
+        {
+            "decision": "mild cardiomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11686,
+            "end_offset": 11703,
+            "annotation_id": "JR_105"
+        },
+        {
+            "decision": "Pulmonary edema is probably mild, though substantially obscured by pleural effusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11705,
+            "end_offset": 11788,
+            "annotation_id": "JR_106"
+        },
+        {
+            "decision": "Left jugular line ends above the thoracic inlet",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11790,
+            "end_offset": 11837,
+            "annotation_id": "JR_107"
+        },
+        {
+            "decision": "No pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11839,
+            "end_offset": 11854,
+            "annotation_id": "JR_108"
+        },
+        {
+            "decision": "DM, COPD, CAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11967,
+            "end_offset": 11980,
+            "annotation_id": "JR_109"
+        },
+        {
+            "decision": "abdominal surgeries for necrotic bowl ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 11993,
+            "end_offset": 12030,
+            "annotation_id": "JR_110"
+        },
+        {
+            "decision": "Afib with RVR and hypotension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12079,
+            "end_offset": 12108,
+            "annotation_id": "JR_111"
+        },
+        {
+            "decision": "DNR/DNI",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 12224,
+            "end_offset": 12231,
+            "annotation_id": "JR_112"
+        },
+        {
+            "decision": "CMO ",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 12243,
+            "end_offset": 12246,
+            "annotation_id": "JR_113"
+        },
+        {
+            "decision": "worsening respiratory status, possible stroke this AM, and worsening pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12253,
+            "end_offset": 12326,
+            "annotation_id": "JR_114"
+        },
+        {
+            "decision": "morphine gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 12349,
+            "end_offset": 12361,
+            "annotation_id": "JR_115"
+        },
+        {
+            "decision": "ativan PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 12367,
+            "end_offset": 12377,
+            "annotation_id": "JR_116"
+        },
+        {
+            "decision": "Unilateral weakness",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12436,
+            "end_offset": 12455,
+            "annotation_id": "JR_117"
+        },
+        {
+            "decision": "stroke ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12470,
+            "end_offset": 12476,
+            "annotation_id": "JR_118"
+        },
+        {
+            "decision": "prelim read on CT does not show any evidence of obvious stroke",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12486,
+            "end_offset": 12548,
+            "annotation_id": "JR_119"
+        },
+        {
+            "decision": "Respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12588,
+            "end_offset": 12608,
+            "annotation_id": "JR_120"
+        },
+        {
+            "decision": "Intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12610,
+            "end_offset": 12619,
+            "annotation_id": "JR_121"
+        },
+        {
+            "decision": "increased respiratory effort",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12681,
+            "end_offset": 12709,
+            "annotation_id": "JR_122"
+        },
+        {
+            "decision": "diurese her",
+            "category": "Category 5: Drug related",
+            "start_offset": 12732,
+            "end_offset": 12743,
+            "annotation_id": "JR_123"
+        },
+        {
+            "decision": "bilateral pleural effusiosn ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12771,
+            "end_offset": 12798,
+            "annotation_id": "JR_124"
+        },
+        {
+            "decision": "Extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12835,
+            "end_offset": 12844,
+            "annotation_id": "JR_125"
+        },
+        {
+            "decision": "Initially did well, but then became progressively more tachypneic and ultimately developed AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12860,
+            "end_offset": 12954,
+            "annotation_id": "JR_126"
+        },
+        {
+            "decision": "saline nebs ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13022,
+            "end_offset": 13033,
+            "annotation_id": "JR_127"
+        },
+        {
+            "decision": "cough assist machine",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13059,
+            "end_offset": 13079,
+            "annotation_id": "JR_128"
+        },
+        {
+            "decision": "Some component of respiratory failure may be due to effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13113,
+            "end_offset": 13174,
+            "annotation_id": "JR_129"
+        },
+        {
+            "decision": "BiPap ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13290,
+            "end_offset": 13295,
+            "annotation_id": "JR_130"
+        },
+        {
+            "decision": "improved pH, mental status and clinical appearance, but there is concern for further drying out already thick secretions leading to mucous plugging and/or aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13338,
+            "end_offset": 13503,
+            "annotation_id": "JR_131"
+        },
+        {
+            "decision": "Weaned off bipap ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13505,
+            "end_offset": 13521,
+            "annotation_id": "JR_132"
+        },
+        {
+            "decision": "This morning has increased O2 requirement, likely due to increasing volume/pleural effusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13537,
+            "end_offset": 13629,
+            "annotation_id": "JR_133"
+        },
+        {
+            "decision": "vancomycin/Cefepime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13669,
+            "end_offset": 13688,
+            "annotation_id": "JR_134"
+        },
+        {
+            "decision": "presumed PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13695,
+            "end_offset": 13707,
+            "annotation_id": "JR_135"
+        },
+        {
+            "decision": "Acute renal failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13797,
+            "end_offset": 13816,
+            "annotation_id": "JR_136"
+        },
+        {
+            "decision": "Likely secondary to previous episodes of hypotension previously",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13818,
+            "end_offset": 13881,
+            "annotation_id": "JR_137"
+        },
+        {
+            "decision": "Her renal failure developed 2-3 days prior to her death, likely secodnary to poor intravascular volume",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13937,
+            "end_offset": 14039,
+            "annotation_id": "JR_138"
+        },
+        {
+            "decision": "Mottled lower extremites",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14044,
+            "end_offset": 14068,
+            "annotation_id": "JR_139"
+        },
+        {
+            "decision": "vasculopathy in addition to poor perfusion state",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14100,
+            "end_offset": 14148,
+            "annotation_id": "JR_140"
+        },
+        {
+            "decision": "heparin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 14183,
+            "end_offset": 14194,
+            "annotation_id": "JR_141"
+        },
+        {
+            "decision": "DC'ed heparin gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 14200,
+            "end_offset": 14217,
+            "annotation_id": "JR_142"
+        },
+        {
+            "decision": "Her RLE gave her a great deal of pain during her hosptialization",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14340,
+            "end_offset": 14404,
+            "annotation_id": "JR_143"
+        },
+        {
+            "decision": "Atrial Fibrillation with RVR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14408,
+            "end_offset": 14436,
+            "annotation_id": "JR_144"
+        },
+        {
+            "decision": "Repeat ECHO showed an LVEF that was probably normal, with some mitral regurgitation, and dilated RV",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14438,
+            "end_offset": 14537,
+            "annotation_id": "JR_145"
+        },
+        {
+            "decision": "Troponins have essentially been stable",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14539,
+            "end_offset": 14577,
+            "annotation_id": "JR_146"
+        },
+        {
+            "decision": "amiodarone ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14603,
+            "end_offset": 14613,
+            "annotation_id": "JR_147"
+        },
+        {
+            "decision": "Has completed amiodarone load w/ IV gtt",
+            "category": "Category 5: Drug related",
+            "start_offset": 14634,
+            "end_offset": 14673,
+            "annotation_id": "JR_148"
+        },
+        {
+            "decision": "tachycardia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14689,
+            "end_offset": 14700,
+            "annotation_id": "JR_149"
+        },
+        {
+            "decision": "PO amiodarone",
+            "category": "Category 5: Drug related",
+            "start_offset": 14722,
+            "end_offset": 14735,
+            "annotation_id": "JR_150"
+        },
+        {
+            "decision": "IV amiodraone",
+            "category": "Category 5: Drug related",
+            "start_offset": 14756,
+            "end_offset": 14769,
+            "annotation_id": "JR_151"
+        },
+        {
+            "decision": "IV digoxin",
+            "category": "Category 5: Drug related",
+            "start_offset": 14782,
+            "end_offset": 14792,
+            "annotation_id": "JR_152"
+        },
+        {
+            "decision": "amiodraone gtt was DC'ed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 14812,
+            "end_offset": 14836,
+            "annotation_id": "JR_153"
+        },
+        {
+            "decision": "CMO",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 14856,
+            "end_offset": 14859,
+            "annotation_id": "JR_154"
+        },
+        {
+            "decision": "Hypotension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14864,
+            "end_offset": 14875,
+            "annotation_id": "JR_155"
+        },
+        {
+            "decision": "Infectious etiologies have been excluded w/ negative cultures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14878,
+            "end_offset": 14939,
+            "annotation_id": "JR_156"
+        },
+        {
+            "decision": "It seems like her hypotension is most directly related to her heart rate- pressures drop when heart rate exceeds 100",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14941,
+            "end_offset": 15057,
+            "annotation_id": "JR_157"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15234,
+            "end_offset": 15237,
+            "annotation_id": "JR_158"
+        },
+        {
+            "decision": "A-line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15305,
+            "end_offset": 15321,
+            "annotation_id": "JR_159"
+        },
+        {
+            "decision": "S/P Laparatomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15326,
+            "end_offset": 15340,
+            "annotation_id": "JR_160"
+        },
+        {
+            "decision": "Secondary to necrotic bowel as well as anastomotic leak",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15342,
+            "end_offset": 15397,
+            "annotation_id": "JR_161"
+        },
+        {
+            "decision": "Wound appears clean, no e/o infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15515,
+            "end_offset": 15552,
+            "annotation_id": "JR_162"
+        },
+        {
+            "decision": "Persistent ileus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15557,
+            "end_offset": 15573,
+            "annotation_id": "JR_163"
+        },
+        {
+            "decision": "TF now held",
+            "category": "Category 8: Deferment",
+            "start_offset": 15647,
+            "end_offset": 15658,
+            "annotation_id": "JR_164"
+        },
+        {
+            "decision": "TPN ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15679,
+            "end_offset": 15682,
+            "annotation_id": "JR_165"
+        },
+        {
+            "decision": "Albuterol 2.5 mg Q2H",
+            "category": "Category 5: Drug related",
+            "start_offset": 15726,
+            "end_offset": 15746,
+            "annotation_id": "JR_166"
+        },
+        {
+            "decision": "Aspirin 325 mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 15747,
+            "end_offset": 15767,
+            "annotation_id": "JR_167"
+        },
+        {
+            "decision": "Diltiazem 30 mg TID",
+            "category": "Category 5: Drug related",
+            "start_offset": 15768,
+            "end_offset": 15787,
+            "annotation_id": "JR_168"
+        },
+        {
+            "decision": "Fluticasone Proprionate 2 puff [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 15788,
+            "end_offset": 15835,
+            "annotation_id": "JR_169"
+        },
+        {
+            "decision": "Guaifenesin 600 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 15836,
+            "end_offset": 15871,
+            "annotation_id": "JR_170"
+        },
+        {
+            "decision": "Insulin SS",
+            "category": "Category 5: Drug related",
+            "start_offset": 15872,
+            "end_offset": 15882,
+            "annotation_id": "JR_171"
+        },
+        {
+            "decision": "Miconazole Nitrate Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 15883,
+            "end_offset": 15907,
+            "annotation_id": "JR_172"
+        },
+        {
+            "decision": "Nystatin 50,0000 U TID swish and swallow",
+            "category": "Category 5: Drug related",
+            "start_offset": 15908,
+            "end_offset": 15948,
+            "annotation_id": "JR_173"
+        },
+        {
+            "decision": "omeprazole 40 mg Daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 15949,
+            "end_offset": 15971,
+            "annotation_id": "JR_174"
+        },
+        {
+            "decision": "Quetiapine 25 mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 15972,
+            "end_offset": 16005,
+            "annotation_id": "JR_175"
+        },
+        {
+            "decision": "Hydromorphone 1 mg IV Q6H PNR",
+            "category": "Category 5: Drug related",
+            "start_offset": 16006,
+            "end_offset": 16035,
+            "annotation_id": "JR_176"
+        },
+        {
+            "decision": "Ipratropium Bromide 0.5 mg Q4H PNR",
+            "category": "Category 5: Drug related",
+            "start_offset": 16036,
+            "end_offset": 16070,
+            "annotation_id": "JR_177"
+        },
+        {
+            "decision": "Zofran 4 mg Q8H PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 16071,
+            "end_offset": 16090,
+            "annotation_id": "JR_178"
+        },
+        {
+            "decision": "Ocean Spary",
+            "category": "Category 5: Drug related",
+            "start_offset": 16091,
+            "end_offset": 16102,
+            "annotation_id": "JR_179"
+        },
+        {
+            "decision": "Camph/meth/phenol 1 appl [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 16103,
+            "end_offset": 16144,
+            "annotation_id": "JR_180"
+        },
+        {
+            "decision": "Afib with RVR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16200,
+            "end_offset": 16213,
+            "annotation_id": "JR_181"
+        }
+    ]
+}

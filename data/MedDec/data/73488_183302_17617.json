@@ -1,0 +1,1623 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "73488_183302_17617",
+    "annotations": [
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 239,
+            "end_offset": 260,
+            "annotation_id": "PE_000"
+        },
+        {
+            "decision": "IR guided lumbar puncture",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 300,
+            "end_offset": 325,
+            "annotation_id": "PE_001"
+        },
+        {
+            "decision": "quadraplegia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 386,
+            "end_offset": 398,
+            "annotation_id": "PE_002"
+        },
+        {
+            "decision": "Sz",
+            "category": "Category 3: Defining problem",
+            "start_offset": 400,
+            "end_offset": 402,
+            "annotation_id": "PE_003"
+        },
+        {
+            "decision": "MDS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 407,
+            "end_offset": 410,
+            "annotation_id": "PE_004"
+        },
+        {
+            "decision": "altered mental status",
+            "category": "Category 3: Defining problem",
+            "start_offset": 425,
+            "end_offset": 446,
+            "annotation_id": "PE_005"
+        },
+        {
+            "decision": "He underwent a CT of his head at [**Location (un) 620**] that was reportedly negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 844,
+            "end_offset": 929,
+            "annotation_id": "PE_006"
+        },
+        {
+            "decision": "U/A was borderline positive ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 931,
+            "end_offset": 958,
+            "annotation_id": "PE_007"
+        },
+        {
+            "decision": "per old records altered mental status is his classic presentation for UTI, but he has never been confused to the point of being non-verbal as he currently is",
+            "category": "Category 3: Defining problem",
+            "start_offset": 963,
+            "end_offset": 1120,
+            "annotation_id": "PE_008"
+        },
+        {
+            "decision": "C4 paralysis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1122,
+            "end_offset": 1134,
+            "annotation_id": "PE_009"
+        },
+        {
+            "decision": "baclofen",
+            "category": "Category 5: Drug related",
+            "start_offset": 1223,
+            "end_offset": 1231,
+            "annotation_id": "PE_010"
+        },
+        {
+            "decision": "baclofen pump",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1223,
+            "end_offset": 1236,
+            "annotation_id": "PE_011"
+        },
+        {
+            "decision": "he was only answering simple questions yes/no and was noted to have repetitive lip smacking movments",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1329,
+            "end_offset": 1429,
+            "annotation_id": "PE_012"
+        },
+        {
+            "decision": "Serum tox was negative,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1431,
+            "end_offset": 1453,
+            "annotation_id": "PE_013"
+        },
+        {
+            "decision": ", U/A borderline positive ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1455,
+            "end_offset": 1478,
+            "annotation_id": "PE_014"
+        },
+        {
+            "decision": "and cardiac enzymes were positive",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1479,
+            "end_offset": 1512,
+            "annotation_id": "PE_015"
+        },
+        {
+            "decision": "His EKG had some mild STD in lateral leads ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1514,
+            "end_offset": 1556,
+            "annotation_id": "PE_016"
+        },
+        {
+            "decision": "cardiology was consulted and did not feel that this was acute",
+            "category": "Category 1: Contact related",
+            "start_offset": 1561,
+            "end_offset": 1622,
+            "annotation_id": "PE_017"
+        },
+        {
+            "decision": "ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 1637,
+            "end_offset": 1648,
+            "annotation_id": "PE_018"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1650,
+            "end_offset": 1660,
+            "annotation_id": "PE_019"
+        },
+        {
+            "decision": "acyclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 1662,
+            "end_offset": 1671,
+            "annotation_id": "PE_020"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1676,
+            "end_offset": 1682,
+            "annotation_id": "PE_021"
+        },
+        {
+            "decision": "blood and urine cultures were taken.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 1689,
+            "end_offset": 1724,
+            "annotation_id": "PE_022"
+        },
+        {
+            "decision": "C4/C5 Spinal Cord Injury (17 y/a)due to MVA - can move arms slightly cannot move legs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1861,
+            "end_offset": 1946,
+            "annotation_id": "PE_023"
+        },
+        {
+            "decision": "OSA ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1950,
+            "end_offset": 1953,
+            "annotation_id": "PE_024"
+        },
+        {
+            "decision": "on CPAP at home",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1954,
+            "end_offset": 1969,
+            "annotation_id": "PE_025"
+        },
+        {
+            "decision": "Seizure Disorder ('[**62**]-'[**63**])",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1973,
+            "end_offset": 2010,
+            "annotation_id": "PE_026"
+        },
+        {
+            "decision": "Baclofen ",
+            "category": "Category 5: Drug related",
+            "start_offset": 2015,
+            "end_offset": 2023,
+            "annotation_id": "PE_027"
+        },
+        {
+            "decision": "Baclofen Pump ('[**49**], '[**54**], '[**61**]).",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2015,
+            "end_offset": 2061,
+            "annotation_id": "PE_028"
+        },
+        {
+            "decision": "s/p appendicovesicostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2067,
+            "end_offset": 2091,
+            "annotation_id": "PE_029"
+        },
+        {
+            "decision": "Gen: Awake, eyes open, following simple commands and answering yes/no, but no questions more complex than yes/no.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2346,
+            "end_offset": 2458,
+            "annotation_id": "PE_030"
+        },
+        {
+            "decision": "HEENT: R eye prothesis, No conjunctival pallor. MMM. OP clear.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2460,
+            "end_offset": 2521,
+            "annotation_id": "PE_031"
+        },
+        {
+            "decision": "NECK: Supple, No LAD. No JVD visible",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2523,
+            "end_offset": 2559,
+            "annotation_id": "PE_032"
+        },
+        {
+            "decision": "CV: RRR, II/VI systolic murmur but distant heart sounds",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2560,
+            "end_offset": 2615,
+            "annotation_id": "PE_033"
+        },
+        {
+            "decision": "LUNGS: CTAB, good BS BL, No W/R/R",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2616,
+            "end_offset": 2649,
+            "annotation_id": "PE_034"
+        },
+        {
+            "decision": "ABD: NABS. Soft, distended, NT. Suprapubic catheter in place, with no surrounding erythema.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2650,
+            "end_offset": 2740,
+            "annotation_id": "PE_035"
+        },
+        {
+            "decision": "EXT: RLE slightly larger than LLE, trace edema, 2+ pedal pulses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2742,
+            "end_offset": 2805,
+            "annotation_id": "PE_036"
+        },
+        {
+            "decision": "SKIN: Erythema on face w/ some scaling. Several flesh colored papules on face noted.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2808,
+            "end_offset": 2891,
+            "annotation_id": "PE_037"
+        },
+        {
+            "decision": "NEURO: L eye EOMI. R eye false. Tongue protrudes midline, uvula midline. Pupil reactive to light. smile symmetric. Pt. continuosly making lip smacking movements but able to stop when performing purposeful movements. bilateral UE and LE clonus x many beats.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2893,
+            "end_offset": 3148,
+            "annotation_id": "PE_038"
+        },
+        {
+            "decision": "TTE The left atrium is elongated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3187,
+            "end_offset": 3219,
+            "annotation_id": "PE_039"
+        },
+        {
+            "decision": "No atrial septal defect is seen by 2D or color Doppler",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3221,
+            "end_offset": 3275,
+            "annotation_id": "PE_040"
+        },
+        {
+            "decision": "Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3277,
+            "end_offset": 3471,
+            "annotation_id": "PE_041"
+        },
+        {
+            "decision": "Right ventricular chamber size and free wall motion are normal.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3474,
+            "end_offset": 3536,
+            "annotation_id": "PE_042"
+        },
+        {
+            "decision": "The ascending aorta is mildly dilated",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3538,
+            "end_offset": 3575,
+            "annotation_id": "PE_043"
+        },
+        {
+            "decision": "The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3577,
+            "end_offset": 3689,
+            "annotation_id": "PE_044"
+        },
+        {
+            "decision": "and no aortic regurgitation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3662,
+            "end_offset": 3689,
+            "annotation_id": "PE_045"
+        },
+        {
+            "decision": "The mitral valve leaflets are structurally normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3691,
+            "end_offset": 3740,
+            "annotation_id": "PE_046"
+        },
+        {
+            "decision": "There is no mitral valve prolapse. Trivial mitral regurgitation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3742,
+            "end_offset": 3813,
+            "annotation_id": "PE_047"
+        },
+        {
+            "decision": "The estimated pulmonary artery systolic pressure is normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3815,
+            "end_offset": 3873,
+            "annotation_id": "PE_048"
+        },
+        {
+            "decision": "There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3875,
+            "end_offset": 3907,
+            "annotation_id": "PE_049"
+        },
+        {
+            "decision": "Normal global and regional biventricular systolic function. No structural valvular disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3922,
+            "end_offset": 4012,
+            "annotation_id": "PE_050"
+        },
+        {
+            "decision": "CT head 1. Limited study due to the artifact from EEG leads",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4032,
+            "end_offset": 4091,
+            "annotation_id": "PE_051"
+        },
+        {
+            "decision": "No evidence of acute intracranial hemorrhage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4093,
+            "end_offset": 4137,
+            "annotation_id": "PE_052"
+        },
+        {
+            "decision": "Mild diffuse sulcal effacement could be a normal finding, however, clinical correlation is recommended",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4139,
+            "end_offset": 4241,
+            "annotation_id": "PE_053"
+        },
+        {
+            "decision": "There is no change from recent prior exam of [**2169-3-12**] from [**Hospital **] [**Hospital3 628**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4243,
+            "end_offset": 4344,
+            "annotation_id": "PE_054"
+        },
+        {
+            "decision": "Unchanged high-density secretions within the frontal and maxillary sinuses, which may be due to fungal disease",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4350,
+            "end_offset": 4460,
+            "annotation_id": "PE_055"
+        },
+        {
+            "decision": "may be due to fungal disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4432,
+            "end_offset": 4460,
+            "annotation_id": "PE_056"
+        },
+        {
+            "decision": "CT abd/pelv 1. Small area of possible inflammation in the lower abdomen, which may represent the sequela of recent diverticulitis, but is somewhat non-specific",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4479,
+            "end_offset": 4638,
+            "annotation_id": "PE_057"
+        },
+        {
+            "decision": "No retroperitoneal hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4643,
+            "end_offset": 4670,
+            "annotation_id": "PE_058"
+        },
+        {
+            "decision": "Chronic hydroureteronephrosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4675,
+            "end_offset": 4704,
+            "annotation_id": "PE_059"
+        },
+        {
+            "decision": "Multifocal pneumonia or less likely aspiration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4709,
+            "end_offset": 4755,
+            "annotation_id": "PE_060"
+        },
+        {
+            "decision": "MRI head 1. Normal-appearing brain",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4774,
+            "end_offset": 4808,
+            "annotation_id": "PE_061"
+        },
+        {
+            "decision": "Extensive inflammatory sinus disease, involving bilateral maxillary, ethmoid, and frontal sinuses",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4813,
+            "end_offset": 4910,
+            "annotation_id": "PE_062"
+        },
+        {
+            "decision": "Fluid within bilateral mastoid air cells",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4915,
+            "end_offset": 4955,
+            "annotation_id": "PE_063"
+        },
+        {
+            "decision": "EEG This telemetry captured no pushbutton activations and no ictal or interictal epileptiform activity",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4974,
+            "end_offset": 5076,
+            "annotation_id": "PE_064"
+        },
+        {
+            "decision": "The background activity was intermittently slow suggestive of encephalopathy",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5078,
+            "end_offset": 5155,
+            "annotation_id": "PE_065"
+        },
+        {
+            "decision": "suggestive of encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5127,
+            "end_offset": 5155,
+            "annotation_id": "PE_066"
+        },
+        {
+            "decision": "BLOOD Vanco",
+            "category": "Category 5: Drug related",
+            "start_offset": 7357,
+            "end_offset": 7368,
+            "annotation_id": "PE_067"
+        },
+        {
+            "decision": "BLOOD Vanco",
+            "category": "Category 5: Drug related",
+            "start_offset": 7398,
+            "end_offset": 7409,
+            "annotation_id": "PE_068"
+        },
+        {
+            "decision": "BLOOD Vanco",
+            "category": "Category 5: Drug related",
+            "start_offset": 7440,
+            "end_offset": 7451,
+            "annotation_id": "PE_069"
+        },
+        {
+            "decision": "BLOOD ASA",
+            "category": "Category 5: Drug related",
+            "start_offset": 7482,
+            "end_offset": 7491,
+            "annotation_id": "PE_070"
+        },
+        {
+            "decision": "Carbamz",
+            "category": "Category 5: Drug related",
+            "start_offset": 7508,
+            "end_offset": 7515,
+            "annotation_id": "PE_071"
+        },
+        {
+            "decision": "Acetmnp",
+            "category": "Category 5: Drug related",
+            "start_offset": 7522,
+            "end_offset": 7529,
+            "annotation_id": "PE_072"
+        },
+        {
+            "decision": "Bnzodzp",
+            "category": "Category 5: Drug related",
+            "start_offset": 7534,
+            "end_offset": 7541,
+            "annotation_id": "PE_073"
+        },
+        {
+            "decision": "Barbitr",
+            "category": "Category 5: Drug related",
+            "start_offset": 7546,
+            "end_offset": 7553,
+            "annotation_id": "PE_074"
+        },
+        {
+            "decision": "Tricycl",
+            "category": "Category 5: Drug related",
+            "start_offset": 7558,
+            "end_offset": 7565,
+            "annotation_id": "PE_075"
+        },
+        {
+            "decision": "BLOOD ASA-NEG Ethanol-NEG Carbamz-<1.0* Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7482,
+            "end_offset": 7569,
+            "annotation_id": "PE_076"
+        },
+        {
+            "decision": "URINE Blood-SM  Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8017,
+            "end_offset": 8119,
+            "annotation_id": "PE_077"
+        },
+        {
+            "decision": "URINE Blood-LG Nitrite-POS Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8300,
+            "end_offset": 8400,
+            "annotation_id": "PE_078"
+        },
+        {
+            "decision": "bnzodzp",
+            "category": "Category 5: Drug related",
+            "start_offset": 8671,
+            "end_offset": 8678,
+            "annotation_id": "PE_079"
+        },
+        {
+            "decision": "barbitr",
+            "category": "Category 5: Drug related",
+            "start_offset": 8683,
+            "end_offset": 8690,
+            "annotation_id": "PE_080"
+        },
+        {
+            "decision": "opiates",
+            "category": "Category 5: Drug related",
+            "start_offset": 8695,
+            "end_offset": 8702,
+            "annotation_id": "PE_081"
+        },
+        {
+            "decision": "cocaine",
+            "category": "Category 5: Drug related",
+            "start_offset": 8707,
+            "end_offset": 8714,
+            "annotation_id": "PE_082"
+        },
+        {
+            "decision": "amphetm",
+            "category": "Category 5: Drug related",
+            "start_offset": 8719,
+            "end_offset": 8726,
+            "annotation_id": "PE_083"
+        },
+        {
+            "decision": "mthdone",
+            "category": "Category 5: Drug related",
+            "start_offset": 8731,
+            "end_offset": 8738,
+            "annotation_id": "PE_084"
+        },
+        {
+            "decision": "URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8665,
+            "end_offset": 8742,
+            "annotation_id": "PE_085"
+        },
+        {
+            "decision": "CSF;SPINAL FLUID      Source: LP.     GRAM STAIN (Final [**2169-3-13**]):       2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.       NO MICROORGANISMS SEEN.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9298,
+            "end_offset": 9466,
+            "annotation_id": "PE_086"
+        },
+        {
+            "decision": "FLUID CULTURE (Final [**2169-3-19**]):    NO GROWTH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9609,
+            "end_offset": 9660,
+            "annotation_id": "PE_087"
+        },
+        {
+            "decision": "FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9666,
+            "end_offset": 9717,
+            "annotation_id": "PE_088"
+        },
+        {
+            "decision": "VIRAL CULTURE (Preliminary):    No Virus isolated so far",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9723,
+            "end_offset": 9779,
+            "annotation_id": "PE_089"
+        },
+        {
+            "decision": "CSF;SPINAL FLUID      Source: LP #3.                              **FINAL REPORT [**2169-3-13**]**     CRYPTOCOCCAL ANTIGEN (Final [**2169-3-13**]):       CRYPTOCOCCAL ANTIGEN NOT DETECTED",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9805,
+            "end_offset": 9993,
+            "annotation_id": "PE_090"
+        },
+        {
+            "decision": "BLOOD CULTURE      Source: Venipuncture.                              **FINAL REPORT [**2169-3-19**]**     Blood Culture, Routine (Final [**2169-3-19**]):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10020,
+            "end_offset": 10187,
+            "annotation_id": "PE_091"
+        },
+        {
+            "decision": "SPUTUM      Source: Expectorated.                              **FINAL REPORT [**2169-3-15**]**     GRAM STAIN (Final [**2169-3-13**]):       <10 PMNs and <10 epithelial cells/100X field.       NO MICROORGANISMS SEEN",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10215,
+            "end_offset": 10431,
+            "annotation_id": "PE_092"
+        },
+        {
+            "decision": "RESPIRATORY CULTURE (Final [**2169-3-15**]):       SPARSE GROWTH OROPHARYNGEAL FLORA",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10483,
+            "end_offset": 10567,
+            "annotation_id": "PE_093"
+        },
+        {
+            "decision": "URINE      Source: Suprapubic.                              **FINAL REPORT [**2169-3-16**]**     URINE CULTURE (Final [**2169-3-16**]):       ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..       STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA.          10,000-100,000 ORGANISMS/ML..",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10595,
+            "end_offset": 10870,
+            "annotation_id": "PE_094"
+        },
+        {
+            "decision": "SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROCOCCUS SP.                              |          STENOTROPHOMONAS (XANTHOMONAS) MALTOPH                              |          | AMPICILLIN------------  =>32 R NITROFURANTOIN--------   256 R",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10902,
+            "end_offset": 11228,
+            "annotation_id": "PE_095"
+        },
+        {
+            "decision": "TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA----                2 S VANCOMYCIN------------   <=1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11229,
+            "end_offset": 11332,
+            "annotation_id": "PE_096"
+        },
+        {
+            "decision": "MRSA SCREEN     Site: NARIS (NARE)                              **FINAL REPORT [**2169-3-15**]**     MRSA SCREEN (Final [**2169-3-15**]):    No MRSA isolated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11359,
+            "end_offset": 11516,
+            "annotation_id": "PE_097"
+        },
+        {
+            "decision": "URINE     Site: CATHETER                              **FINAL REPORT [**2169-3-13**]**     URINE CULTURE (Final [**2169-3-13**]):       MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN       AND/OR GENITAL CONTAMINATION",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11592,
+            "end_offset": 11827,
+            "annotation_id": "PE_098"
+        },
+        {
+            "decision": "Sz",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11870,
+            "end_offset": 11872,
+            "annotation_id": "PE_099"
+        },
+        {
+            "decision": "MDS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11874,
+            "end_offset": 11877,
+            "annotation_id": "PE_100"
+        },
+        {
+            "decision": "recurrent UTI",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11879,
+            "end_offset": 11892,
+            "annotation_id": "PE_101"
+        },
+        {
+            "decision": "AMS",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11898,
+            "end_offset": 11901,
+            "annotation_id": "PE_102"
+        },
+        {
+            "decision": "thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11903,
+            "end_offset": 11919,
+            "annotation_id": "PE_103"
+        },
+        {
+            "decision": "borderline positive U/A",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11924,
+            "end_offset": 11947,
+            "annotation_id": "PE_104"
+        },
+        {
+            "decision": "Altered mental status: Well below baseline at presentation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11953,
+            "end_offset": 12011,
+            "annotation_id": "PE_105"
+        },
+        {
+            "decision": "started on meropenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 12033,
+            "end_offset": 12053,
+            "annotation_id": "PE_106"
+        },
+        {
+            "decision": "vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 12055,
+            "end_offset": 12065,
+            "annotation_id": "PE_107"
+        },
+        {
+            "decision": "acyclovir",
+            "category": "Category 5: Drug related",
+            "start_offset": 12070,
+            "end_offset": 12079,
+            "annotation_id": "PE_108"
+        },
+        {
+            "decision": "meningitis/encephalitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12098,
+            "end_offset": 12121,
+            "annotation_id": "PE_109"
+        },
+        {
+            "decision": "baclofen pump",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12187,
+            "end_offset": 12200,
+            "annotation_id": "PE_110"
+        },
+        {
+            "decision": "He did not have an LP night of admission because of concern for baclofen pump related complications.",
+            "category": "Category 8: Deferment",
+            "start_offset": 12123,
+            "end_offset": 12222,
+            "annotation_id": "PE_111"
+        },
+        {
+            "decision": "He had an IR guided LP which was c/w traumatic tap, cultures have remained negative HSV PCR is pending",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12224,
+            "end_offset": 12326,
+            "annotation_id": "PE_112"
+        },
+        {
+            "decision": "seen by neurology ",
+            "category": "Category 1: Contact related",
+            "start_offset": 12335,
+            "end_offset": 12352,
+            "annotation_id": "PE_113"
+        },
+        {
+            "decision": "given empiric lorazepam",
+            "category": "Category 5: Drug related",
+            "start_offset": 12357,
+            "end_offset": 12380,
+            "annotation_id": "PE_114"
+        },
+        {
+            "decision": "partial complex seizures ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12385,
+            "end_offset": 12409,
+            "annotation_id": "PE_115"
+        },
+        {
+            "decision": "lorazepam",
+            "category": "Category 5: Drug related",
+            "start_offset": 12493,
+            "end_offset": 12502,
+            "annotation_id": "PE_116"
+        },
+        {
+            "decision": "He clinically improved after recieving lorazepam ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12454,
+            "end_offset": 12502,
+            "annotation_id": "PE_117"
+        },
+        {
+            "decision": "had already been started on Abx",
+            "category": "Category 5: Drug related",
+            "start_offset": 12507,
+            "end_offset": 12538,
+            "annotation_id": "PE_118"
+        },
+        {
+            "decision": "Urine and serum tox were negative,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12540,
+            "end_offset": 12573,
+            "annotation_id": "PE_119"
+        },
+        {
+            "decision": ", CT head and MRI head showed sinus disease but no other focal abnormality",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12575,
+            "end_offset": 12647,
+            "annotation_id": "PE_120"
+        },
+        {
+            "decision": "Most likely [**12-26**] toxic/metabolic from UTI that grew Enterococcus and Stenotrophomonas, as well as possibly a multifocal PNA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12649,
+            "end_offset": 12779,
+            "annotation_id": "PE_121"
+        },
+        {
+            "decision": "Meropenem and Flagyl were stopped after seven days as he had clinically improved",
+            "category": "Category 5: Drug related",
+            "start_offset": 12781,
+            "end_offset": 12861,
+            "annotation_id": "PE_122"
+        },
+        {
+            "decision": "the inflammation seen on CT abd/pelvis was non-specific and thought unlikely to be contributing",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12867,
+            "end_offset": 12962,
+            "annotation_id": "PE_123"
+        },
+        {
+            "decision": "Vancomycin was continued to treat for Enterococcus and he should complete a 2-week course",
+            "category": "Category 5: Drug related",
+            "start_offset": 12964,
+            "end_offset": 13053,
+            "annotation_id": "PE_124"
+        },
+        {
+            "decision": "He had not been treated for Stenotrophomonas with Bactrim but as he had clinically improved by the time this result returned in the urine culture, it is doubtful that it contributed significantly to his presentation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 13055,
+            "end_offset": 13270,
+            "annotation_id": "PE_125"
+        },
+        {
+            "decision": "A repeat urine culture was sent with no further growth.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13272,
+            "end_offset": 13326,
+            "annotation_id": "PE_126"
+        },
+        {
+            "decision": "Thrombocytopenia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13332,
+            "end_offset": 13348,
+            "annotation_id": "PE_127"
+        },
+        {
+            "decision": "TTP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13417,
+            "end_offset": 13420,
+            "annotation_id": "PE_128"
+        },
+        {
+            "decision": "no schistocytes, Hct at baseline, no e/o hemolysis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13426,
+            "end_offset": 13476,
+            "annotation_id": "PE_129"
+        },
+        {
+            "decision": "Platelets improved from 30 on presentation to recent baseline around 70",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13478,
+            "end_offset": 13549,
+            "annotation_id": "PE_130"
+        },
+        {
+            "decision": "his platelet count improved ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13619,
+            "end_offset": 13646,
+            "annotation_id": "PE_131"
+        },
+        {
+            "decision": "underlying MDS worsened by acute infection, and his platelet count improved with ongoing treatment of infection. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13571,
+            "end_offset": 13682,
+            "annotation_id": "PE_132"
+        },
+        {
+            "decision": "He will need outpatient followup with hematology, with his prior hematologist at [**Hospital1 18**] [**Location (un) 620**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 13684,
+            "end_offset": 13807,
+            "annotation_id": "PE_133"
+        },
+        {
+            "decision": "UTI: His classic presentation per last d/c summary is confusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13813,
+            "end_offset": 13876,
+            "annotation_id": "PE_134"
+        },
+        {
+            "decision": "U/A not very impressive ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13878,
+            "end_offset": 13901,
+            "annotation_id": "PE_135"
+        },
+        {
+            "decision": "tetracyclines/bactrim ",
+            "category": "Category 5: Drug related",
+            "start_offset": 13986,
+            "end_offset": 14007,
+            "annotation_id": "PE_136"
+        },
+        {
+            "decision": "imipenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 14043,
+            "end_offset": 14051,
+            "annotation_id": "PE_137"
+        },
+        {
+            "decision": "Previous Serratia sp resistant to tetracyclines/bactrim and E.coli ESBL, both sensitive to imipenem. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13952,
+            "end_offset": 14051,
+            "annotation_id": "PE_138"
+        },
+        {
+            "decision": ".  Urine cx from [**Location (un) 620**] [**3-12**] grew >100k GNR and Ucx from [**Hospital1 18**] on [**3-13**] grew >100k enterococci as well as eventually Stenotrophomonas that likely corresponds to the UCx from [**Location (un) 620**].",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14054,
+            "end_offset": 14289,
+            "annotation_id": "PE_139"
+        },
+        {
+            "decision": "He was treated with Vancomycin for the Enterococcus,",
+            "category": "Category 5: Drug related",
+            "start_offset": 14291,
+            "end_offset": 14342,
+            "annotation_id": "PE_140"
+        },
+        {
+            "decision": "he had improved clinically by the time the Stenotrophomas grew out",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14351,
+            "end_offset": 14417,
+            "annotation_id": "PE_141"
+        },
+        {
+            "decision": "had not been treated with Bactrim, this was not initiated",
+            "category": "Category 5: Drug related",
+            "start_offset": 14422,
+            "end_offset": 14479,
+            "annotation_id": "PE_142"
+        },
+        {
+            "decision": "Repeat urine culture showed enteroccus sensitive to meopenem",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14481,
+            "end_offset": 14541,
+            "annotation_id": "PE_143"
+        },
+        {
+            "decision": "meopenem",
+            "category": "Category 5: Drug related",
+            "start_offset": 14533,
+            "end_offset": 14541,
+            "annotation_id": "PE_144"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14547,
+            "end_offset": 14553,
+            "annotation_id": "PE_145"
+        },
+        {
+            "decision": "Normocytic. Would be consistent with MDS and multilineage failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14555,
+            "end_offset": 14620,
+            "annotation_id": "PE_146"
+        },
+        {
+            "decision": "Hct stable at baseline.  Hct dropped from 30 to 20 after admission,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14622,
+            "end_offset": 14688,
+            "annotation_id": "PE_147"
+        },
+        {
+            "decision": " no bowel movements, no e/o bleeding on CT abd/pelvis, no e/o hemolysis. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14690,
+            "end_offset": 14760,
+            "annotation_id": "PE_148"
+        },
+        {
+            "decision": "Likely 30 was spurious as recent baseline had been around 25",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14762,
+            "end_offset": 14822,
+            "annotation_id": "PE_149"
+        },
+        {
+            "decision": "likely MDS progressing along w/ acute infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14827,
+            "end_offset": 14874,
+            "annotation_id": "PE_150"
+        },
+        {
+            "decision": "Hct dropped acutely ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14892,
+            "end_offset": 14911,
+            "annotation_id": "PE_151"
+        },
+        {
+            "decision": "His Hct stabilized in the mid-20s,",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14943,
+            "end_offset": 14976,
+            "annotation_id": "PE_152"
+        },
+        {
+            "decision": "follow up with hematology",
+            "category": "Category 1: Contact related",
+            "start_offset": 14990,
+            "end_offset": 15015,
+            "annotation_id": "PE_153"
+        },
+        {
+            "decision": "OSA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15030,
+            "end_offset": 15033,
+            "annotation_id": "PE_154"
+        },
+        {
+            "decision": "Continued on home CPAP ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15035,
+            "end_offset": 15057,
+            "annotation_id": "PE_155"
+        },
+        {
+            "decision": "Seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15135,
+            "end_offset": 15151,
+            "annotation_id": "PE_156"
+        },
+        {
+            "decision": "oxcarbazepine",
+            "category": "Category 5: Drug related",
+            "start_offset": 15164,
+            "end_offset": 15177,
+            "annotation_id": "PE_157"
+        },
+        {
+            "decision": "Sz",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15182,
+            "end_offset": 15184,
+            "annotation_id": "PE_158"
+        },
+        {
+            "decision": "Carbamazepine level here undetectable, most likely because pt. does not take carbamazepine",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15196,
+            "end_offset": 15286,
+            "annotation_id": "PE_159"
+        },
+        {
+            "decision": "Oxcarbazepine",
+            "category": "Category 5: Drug related",
+            "start_offset": 15289,
+            "end_offset": 15302,
+            "annotation_id": "PE_160"
+        },
+        {
+            "decision": "Oxcarbazepine level sent and WNL",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15289,
+            "end_offset": 15321,
+            "annotation_id": "PE_161"
+        },
+        {
+            "decision": "witnessed seizures in the ICU ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15329,
+            "end_offset": 15358,
+            "annotation_id": "PE_162"
+        },
+        {
+            "decision": "switched to keppra",
+            "category": "Category 5: Drug related",
+            "start_offset": 15366,
+            "end_offset": 15384,
+            "annotation_id": "PE_163"
+        },
+        {
+            "decision": "EEG showed no signs of seizure activity but this was done after he had been loaded with anti-epileptics",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15386,
+            "end_offset": 15489,
+            "annotation_id": "PE_164"
+        },
+        {
+            "decision": "after he had been loaded with anti-epileptics",
+            "category": "Category 5: Drug related",
+            "start_offset": 15444,
+            "end_offset": 15489,
+            "annotation_id": "PE_165"
+        },
+        {
+            "decision": "followup with neurology",
+            "category": "Category 1: Contact related",
+            "start_offset": 15504,
+            "end_offset": 15527,
+            "annotation_id": "PE_166"
+        },
+        {
+            "decision": "Patient instructed not to drive.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 15546,
+            "end_offset": 15577,
+            "annotation_id": "PE_167"
+        },
+        {
+            "decision": "Hypoglycemia: Mild, 50s on presentation, but persistent ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15581,
+            "end_offset": 15636,
+            "annotation_id": "PE_168"
+        },
+        {
+            "decision": "after giving several amps D50",
+            "category": "Category 5: Drug related",
+            "start_offset": 15637,
+            "end_offset": 15666,
+            "annotation_id": "PE_169"
+        },
+        {
+            "decision": "Unknown etiology given no Hx of DM ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15668,
+            "end_offset": 15702,
+            "annotation_id": "PE_170"
+        },
+        {
+            "decision": "not taking insulin or hypoglycemics",
+            "category": "Category 5: Drug related",
+            "start_offset": 15707,
+            "end_offset": 15742,
+            "annotation_id": "PE_171"
+        },
+        {
+            "decision": "Doubt liver failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15744,
+            "end_offset": 15763,
+            "annotation_id": "PE_172"
+        },
+        {
+            "decision": "normal INR and bili",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15770,
+            "end_offset": 15789,
+            "annotation_id": "PE_173"
+        },
+        {
+            "decision": "Renal function at baseline",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15791,
+            "end_offset": 15817,
+            "annotation_id": "PE_174"
+        },
+        {
+            "decision": "surreptitious insulin administration",
+            "category": "Category 5: Drug related",
+            "start_offset": 15828,
+            "end_offset": 15864,
+            "annotation_id": "PE_175"
+        },
+        {
+            "decision": "Possibly surreptitious insulin administration, insulinoma or more likely poor PO intake",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15819,
+            "end_offset": 15906,
+            "annotation_id": "PE_176"
+        },
+        {
+            "decision": "C-peptide pending, insulin level and IGF levels normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15908,
+            "end_offset": 15962,
+            "annotation_id": "PE_177"
+        },
+        {
+            "decision": "No evidence of insulinoma on abdominal CT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15964,
+            "end_offset": 16005,
+            "annotation_id": "PE_178"
+        },
+        {
+            "decision": "Elevated Cardiac enzymes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16009,
+            "end_offset": 16033,
+            "annotation_id": "PE_179"
+        },
+        {
+            "decision": "EKG showed ? STD in lateral leads",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16035,
+            "end_offset": 16068,
+            "annotation_id": "PE_180"
+        },
+        {
+            "decision": "Troponin trended upward from 0.22 to 0.27 and EKG appeared to show worsening STD in lateral leads",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16070,
+            "end_offset": 16167,
+            "annotation_id": "PE_181"
+        },
+        {
+            "decision": "Cardiology was consulted",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 16169,
+            "end_offset": 16193,
+            "annotation_id": "PE_182"
+        },
+        {
+            "decision": "unlikely ACS ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16206,
+            "end_offset": 16218,
+            "annotation_id": "PE_183"
+        },
+        {
+            "decision": "Bradycardia: The patient was noted to be bradycardic intermittently to the 30s, asymptomatic",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16260,
+            "end_offset": 16352,
+            "annotation_id": "PE_184"
+        },
+        {
+            "decision": "BP stable when bradycardic.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 16354,
+            "end_offset": 16380,
+            "annotation_id": "PE_185"
+        },
+        {
+            "decision": "Considered possibility of bradycardia contributing to chronically \"foggy\" mental status as reported by family, but patient without significant change in mental status when HR in 60s-70s. Given that his mental status does not seem to necessarily improve when he is not bradycardic,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16382,
+            "end_offset": 16661,
+            "annotation_id": "PE_186"
+        },
+        {
+            "decision": "no indication for pacemaker ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16672,
+            "end_offset": 16699,
+            "annotation_id": "PE_187"
+        },
+        {
+            "decision": "there is no indication for pacemaker so cardiology consult for this issue was deferred",
+            "category": "Category 8: Deferment",
+            "start_offset": 16663,
+            "end_offset": 16749,
+            "annotation_id": "PE_188"
+        },
+        {
+            "decision": "EKG shows sinus bradycardia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16751,
+            "end_offset": 16778,
+            "annotation_id": "PE_189"
+        },
+        {
+            "decision": "-Oxcarbazepine 600mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 16808,
+            "end_offset": 16845,
+            "annotation_id": "PE_190"
+        },
+        {
+            "decision": "-Trazodone 50 mg QHS: PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 16846,
+            "end_offset": 16871,
+            "annotation_id": "PE_191"
+        },
+        {
+            "decision": "-Sertraline 100 mg daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 16872,
+            "end_offset": 16896,
+            "annotation_id": "PE_192"
+        },
+        {
+            "decision": "-B-Complex with Vitamin C Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 16897,
+            "end_offset": 16965,
+            "annotation_id": "PE_193"
+        },
+        {
+            "decision": "-Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16968,
+            "end_offset": 17035,
+            "annotation_id": "PE_194"
+        },
+        {
+            "decision": "-Senna 8.6 mg Tablet Sig: 1-2 Tablets PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17037,
+            "end_offset": 17088,
+            "annotation_id": "PE_195"
+        },
+        {
+            "decision": "-Baclofen 50 mcg/mL Solution Sig: Eighteen (18) mcg Intrathecal once a day (from previous d/c summary)",
+            "category": "Category 5: Drug related",
+            "start_offset": 17090,
+            "end_offset": 17191,
+            "annotation_id": "PE_196"
+        },
+        {
+            "decision": "- Simvastatin 20mg PO daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 17195,
+            "end_offset": 17220,
+            "annotation_id": "PE_197"
+        },
+        {
+            "decision": "- Metronidazole 500mg [**Hospital1 **]",
+            "category": "Category 5: Drug related",
+            "start_offset": 17223,
+            "end_offset": 17259,
+            "annotation_id": "PE_198"
+        },
+        {
+            "decision": "Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 17288,
+            "end_offset": 17361,
+            "annotation_id": "PE_199"
+        },
+        {
+            "decision": "Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17367,
+            "end_offset": 17439,
+            "annotation_id": "PE_200"
+        },
+        {
+            "decision": "Baclofen 50 mcg/mL Solution Sig: Eighteen (18) mcg Intrathecal once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17444,
+            "end_offset": 17517,
+            "annotation_id": "PE_201"
+        },
+        {
+            "decision": "Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17522,
+            "end_offset": 17580,
+            "annotation_id": "PE_202"
+        },
+        {
+            "decision": "Trazodone 50 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17585,
+            "end_offset": 17664,
+            "annotation_id": "PE_203"
+        },
+        {
+            "decision": "Sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17669,
+            "end_offset": 17727,
+            "annotation_id": "PE_204"
+        },
+        {
+            "decision": "B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO once a day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17732,
+            "end_offset": 17801,
+            "annotation_id": "PE_205"
+        },
+        {
+            "decision": "Keppra 500 mg Tablet Sig: One (1) Tablet PO twice a day. Disp:*60 Tablet(s)* Refills:*2*",
+            "category": "Category 5: Drug related",
+            "start_offset": 17806,
+            "end_offset": 17894,
+            "annotation_id": "PE_206"
+        },
+        {
+            "decision": "Acyclovir 800 mg Tablet Sig: One (1) Tablet PO five times a day for 3 days. Disp:*15 Tablet(s)* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 17898,
+            "end_offset": 18005,
+            "annotation_id": "PE_207"
+        },
+        {
+            "decision": "Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) gram Intravenous Q 24H (Every 24 Hours) for 6 days. Disp:*6 gram* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 18010,
+            "end_offset": 18147,
+            "annotation_id": "PE_208"
+        },
+        {
+            "decision": "PICC Care PICC Care per protocol",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 18152,
+            "end_offset": 18184,
+            "annotation_id": "PE_209"
+        },
+        {
+            "decision": "seizure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18275,
+            "end_offset": 18282,
+            "annotation_id": "PE_210"
+        },
+        {
+            "decision": "Lorazepam 2 mg/mL Syringe Sig: One (1) mg Injection Q2H (every 2 hours) as needed for seizure activity.",
+            "category": "Category 5: Drug related",
+            "start_offset": 18189,
+            "end_offset": 18291,
+            "annotation_id": "PE_211"
+        },
+        {
+            "decision": "urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18425,
+            "end_offset": 18448,
+            "annotation_id": "PE_212"
+        },
+        {
+            "decision": "seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18450,
+            "end_offset": 18466,
+            "annotation_id": "PE_213"
+        },
+        {
+            "decision": "s/p C4/C5 spinal cord injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18478,
+            "end_offset": 18506,
+            "annotation_id": "PE_214"
+        },
+        {
+            "decision": "OSA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18508,
+            "end_offset": 18511,
+            "annotation_id": "PE_215"
+        },
+        {
+            "decision": "s/p appendicovesicostomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 18513,
+            "end_offset": 18537,
+            "annotation_id": "PE_216"
+        },
+        {
+            "decision": "Discharge Condition: Good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18539,
+            "end_offset": 18564,
+            "annotation_id": "PE_217"
+        },
+        {
+            "decision": "change in mental status ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18613,
+            "end_offset": 18636,
+            "annotation_id": "PE_218"
+        },
+        {
+            "decision": "urinary tract infection ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18657,
+            "end_offset": 18680,
+            "annotation_id": "PE_219"
+        },
+        {
+            "decision": "seizures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18702,
+            "end_offset": 18710,
+            "annotation_id": "PE_220"
+        },
+        {
+            "decision": "IV antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 18748,
+            "end_offset": 18762,
+            "annotation_id": "PE_221"
+        },
+        {
+            "decision": "seizures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18791,
+            "end_offset": 18799,
+            "annotation_id": "PE_222"
+        },
+        {
+            "decision": "you should not drive until directed by your neurologists for at least 6 months.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18825,
+            "end_offset": 18903,
+            "annotation_id": "PE_223"
+        },
+        {
+            "decision": "If you have fevers, chills, confusion, lightheadedness, episodes of loss of consciousness, or any other concerning symptoms, call your doctor",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 18906,
+            "end_offset": 19047,
+            "annotation_id": "PE_224"
+        },
+        {
+            "decision": "seizure disorder",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19172,
+            "end_offset": 19188,
+            "annotation_id": "PE_225"
+        },
+        {
+            "decision": "Follow up with neurology Drs [**Last Name (STitle) 49070**] and [**Name5 (PTitle) 2442**] for your seizure disorder. His office number is ([**Telephone/Fax (1) 5563**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 19073,
+            "end_offset": 19240,
+            "annotation_id": "PE_226"
+        },
+        {
+            "decision": "anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 19277,
+            "end_offset": 19283,
+            "annotation_id": "PE_227"
+        },
+        {
+            "decision": "low platelet counts",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 19288,
+            "end_offset": 19307,
+            "annotation_id": "PE_228"
+        },
+        {
+            "decision": "Follow up with hematology for your anemia and low platelet counts with Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5292**] [**Telephone/Fax (1) 5294**]",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 19242,
+            "end_offset": 19414,
+            "annotation_id": "PE_229"
+        },
+        {
+            "decision": "Follow up with your primary care physician [**Last Name (NamePattern4) **] [**11-25**] weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 19416,
+            "end_offset": 19508,
+            "annotation_id": "PE_230"
+        }
+    ]
+}

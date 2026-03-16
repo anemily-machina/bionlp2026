@@ -1,0 +1,580 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "24967_189192_21646",
+    "annotations": [
+        {
+            "decision": "s/p fall",
+            "category": "Category 3: Defining problem",
+            "start_offset": 236,
+            "end_offset": 244,
+            "annotation_id": "HR_000"
+        },
+        {
+            "decision": "transferred from [**Hospital **] hospital",
+            "category": "Category 1: Contact related",
+            "start_offset": 346,
+            "end_offset": 387,
+            "annotation_id": "HR_001"
+        },
+        {
+            "decision": "CT scan of the head at the OSH showed a L frontal contusion, R occipital contusion, and L subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 619,
+            "end_offset": 726,
+            "annotation_id": "HR_002"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 760,
+            "end_offset": 769,
+            "annotation_id": "HR_003"
+        },
+        {
+            "decision": "Gen: Intubated elderly woman, sedated, responds to painful stimulation, spontaneously moves all 4 extremities",
+            "category": "Category 3: Defining problem",
+            "start_offset": 979,
+            "end_offset": 1088,
+            "annotation_id": "HR_004"
+        },
+        {
+            "decision": "Neuro: 2+ bilateral patellar reflexes, 1+ bilateral heel reflexes, plantar responses extensor bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1089,
+            "end_offset": 1194,
+            "annotation_id": "HR_005"
+        },
+        {
+            "decision": "HEENT: L frontal hematoma, PEERLA, no hemotympanum",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1195,
+            "end_offset": 1245,
+            "annotation_id": "HR_006"
+        },
+        {
+            "decision": "CHEST: mild rhonchi bilaterally, on ventilation, nl chest wall expansion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1246,
+            "end_offset": 1318,
+            "annotation_id": "HR_007"
+        },
+        {
+            "decision": "CV: RRR, no murmurs/rubs/gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1319,
+            "end_offset": 1351,
+            "annotation_id": "HR_008"
+        },
+        {
+            "decision": "Abdomen: soft, nontender/nondistended, quiet",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1352,
+            "end_offset": 1396,
+            "annotation_id": "HR_009"
+        },
+        {
+            "decision": "Extrem: superficial abrasion L shin, no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1397,
+            "end_offset": 1442,
+            "annotation_id": "HR_010"
+        },
+        {
+            "decision": "Rectal: normal tone",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1443,
+            "end_offset": 1462,
+            "annotation_id": "HR_011"
+        },
+        {
+            "decision": "guaic negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1464,
+            "end_offset": 1478,
+            "annotation_id": "HR_012"
+        },
+        {
+            "decision": "[**2106-9-15**] 08:05PM BLOOD PT-12.6 PTT-24.5 INR(PT)-1.0",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1733,
+            "end_offset": 1791,
+            "annotation_id": "HR_013"
+        },
+        {
+            "decision": "[**2106-9-15**] 08:05PM BLOOD Glucose-168* UreaN-14 Creat-0.8 Na-138 K-3.7 Cl-102 HCO3-22 AnGap-18 [**2106-9-19**] 05:10AM BLOOD Glucose-130* UreaN-11 Creat-0.7 Na-138 K-3.7 Cl-100 HCO3-27 AnGap-15",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1793,
+            "end_offset": 1990,
+            "annotation_id": "HR_014"
+        },
+        {
+            "decision": "Head CT: Contusions in the right occipital lobe, right temporal  lobe and left cerebellum.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2709,
+            "end_offset": 2798,
+            "annotation_id": "HR_015"
+        },
+        {
+            "decision": "Contusions in the right occipital lobe, right temporal  lobe and left cerebellum. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2718,
+            "end_offset": 2798,
+            "annotation_id": "HR_016"
+        },
+        {
+            "decision": "Small hemorrhagic foci are also noted in the left frontal lobe superiorly along the convexity and along the left anterior temporal lobe, probably within the sulci (subaracnoid space",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2800,
+            "end_offset": 2981,
+            "annotation_id": "HR_017"
+        },
+        {
+            "decision": "A very small amount of intraventricular blood is also identified",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2984,
+            "end_offset": 3048,
+            "annotation_id": "HR_018"
+        },
+        {
+            "decision": "There are two hemorragic foci in the high left frontal lobe white matter",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3050,
+            "end_offset": 3122,
+            "annotation_id": "HR_019"
+        },
+        {
+            "decision": "which may represent shear injury.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3124,
+            "end_offset": 3156,
+            "annotation_id": "HR_020"
+        },
+        {
+            "decision": "There is subdural hemorrhage along the left tentorial incisura.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3158,
+            "end_offset": 3220,
+            "annotation_id": "HR_021"
+        },
+        {
+            "decision": "subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3229,
+            "end_offset": 3246,
+            "annotation_id": "HR_022"
+        },
+        {
+            "decision": "A tiny subdural hematoma runs along the inner table of the left parietal skull, but the brain is not appreciably displaced",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3222,
+            "end_offset": 3344,
+            "annotation_id": "HR_023"
+        },
+        {
+            "decision": "The ventricles, cisterns, and sulci are prominent consistent with involutional changes, but there is no hydrocephalus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3346,
+            "end_offset": 3463,
+            "annotation_id": "HR_024"
+        },
+        {
+            "decision": "no hydrocephalus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3447,
+            "end_offset": 3463,
+            "annotation_id": "HR_025"
+        },
+        {
+            "decision": "Areas of low attenuation are seen in the periventricular white matter consistent with chronic ischemic changes",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3465,
+            "end_offset": 3575,
+            "annotation_id": "HR_026"
+        },
+        {
+            "decision": "No skull fractures.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3577,
+            "end_offset": 3595,
+            "annotation_id": "HR_027"
+        },
+        {
+            "decision": "A left frontal subcutaneous hematoma is identified.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3597,
+            "end_offset": 3647,
+            "annotation_id": "HR_028"
+        },
+        {
+            "decision": "Head CT: no interval change from [**9-15**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3661,
+            "end_offset": 3704,
+            "annotation_id": "HR_029"
+        },
+        {
+            "decision": "Head CT: no interval change from [**9-16**]",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3716,
+            "end_offset": 3759,
+            "annotation_id": "HR_030"
+        },
+        {
+            "decision": "[**9-15**] CT C-spine: no fracture ; degenerative changes; grade-1 anterolisthesis of C3 over C4",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3761,
+            "end_offset": 3857,
+            "annotation_id": "HR_031"
+        },
+        {
+            "decision": "[**9-17**] C-spine flex/ext films: no fracture or dislocation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3859,
+            "end_offset": 3920,
+            "annotation_id": "HR_032"
+        },
+        {
+            "decision": "[**9-15**] Thoracic and Lumbar spine plain films: no fractures or dislocations",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3922,
+            "end_offset": 4000,
+            "annotation_id": "HR_033"
+        },
+        {
+            "decision": "[**9-15**] CXR: no airway disease; no fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4002,
+            "end_offset": 4049,
+            "annotation_id": "HR_034"
+        },
+        {
+            "decision": "[**9-15**] Pelvic XR: no fracture or instability",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4050,
+            "end_offset": 4098,
+            "annotation_id": "HR_035"
+        },
+        {
+            "decision": "[**9-17**] Left Tib/Fib: no fracture or dislocation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4100,
+            "end_offset": 4151,
+            "annotation_id": "HR_036"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4257,
+            "end_offset": 4266,
+            "annotation_id": "HR_037"
+        },
+        {
+            "decision": "admitted to the Trauma SICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 4276,
+            "end_offset": 4303,
+            "annotation_id": "HR_038"
+        },
+        {
+            "decision": "evaluated by the neurosurgery service",
+            "category": "Category 1: Contact related",
+            "start_offset": 4313,
+            "end_offset": 4350,
+            "annotation_id": "HR_039"
+        },
+        {
+            "decision": "seizure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4384,
+            "end_offset": 4391,
+            "annotation_id": "HR_040"
+        },
+        {
+            "decision": "started on Dilantin for seizure prophylaxis ",
+            "category": "Category 5: Drug related",
+            "start_offset": 4360,
+            "end_offset": 4403,
+            "annotation_id": "HR_041"
+        },
+        {
+            "decision": "traumatic SAH & cerebral contusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4414,
+            "end_offset": 4449,
+            "annotation_id": "HR_042"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4468,
+            "end_offset": 4477,
+            "annotation_id": "HR_043"
+        },
+        {
+            "decision": "Serial Head CTs were as above - no progression of her SAH, contusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4492,
+            "end_offset": 4561,
+            "annotation_id": "HR_044"
+        },
+        {
+            "decision": "initally failed a swallow evaluation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4573,
+            "end_offset": 4609,
+            "annotation_id": "HR_045"
+        },
+        {
+            "decision": "postpyloric tube was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4613,
+            "end_offset": 4640,
+            "annotation_id": "HR_046"
+        },
+        {
+            "decision": "tube feeds were started",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4645,
+            "end_offset": 4668,
+            "annotation_id": "HR_047"
+        },
+        {
+            "decision": "evaluated by PT/OT",
+            "category": "Category 1: Contact related",
+            "start_offset": 4678,
+            "end_offset": 4696,
+            "annotation_id": "HR_048"
+        },
+        {
+            "decision": "did well with some ambulation with assistance",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4701,
+            "end_offset": 4746,
+            "annotation_id": "HR_049"
+        },
+        {
+            "decision": "transferred out of the SICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4765,
+            "end_offset": 4792,
+            "annotation_id": "HR_050"
+        },
+        {
+            "decision": "passed a swallow eval",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4820,
+            "end_offset": 4841,
+            "annotation_id": "HR_051"
+        },
+        {
+            "decision": "was started with supervised feedings.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4847,
+            "end_offset": 4883,
+            "annotation_id": "HR_052"
+        },
+        {
+            "decision": "She had occasional episodes of vomiting after eating, with no evidence of aspiration. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4885,
+            "end_offset": 4969,
+            "annotation_id": "HR_053"
+        },
+        {
+            "decision": "Her abdominal exam remained benigh, and she was having bowel movements, with no evidence of obstruction. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4971,
+            "end_offset": 5074,
+            "annotation_id": "HR_054"
+        },
+        {
+            "decision": "liver functions showed slightly elevated transaminases, but were otherwise normal",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5080,
+            "end_offset": 5161,
+            "annotation_id": "HR_055"
+        },
+        {
+            "decision": "repeat CT scan Head on HD8 taht showed a slight increase in the size of the frontal subdural and a slight increase in the size of the ventricles.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5173,
+            "end_offset": 5317,
+            "annotation_id": "HR_056"
+        },
+        {
+            "decision": "re-evaluated by neurosurgery",
+            "category": "Category 1: Contact related",
+            "start_offset": 5327,
+            "end_offset": 5355,
+            "annotation_id": "HR_057"
+        },
+        {
+            "decision": "noted no new deficits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5360,
+            "end_offset": 5381,
+            "annotation_id": "HR_058"
+        },
+        {
+            "decision": "repeat CT scan on the day of discharge showed a stable appearance of her subdurals",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5386,
+            "end_offset": 5468,
+            "annotation_id": "HR_059"
+        },
+        {
+            "decision": "cleared by neurosurgery to go to rehab",
+            "category": "Category 1: Contact related",
+            "start_offset": 5478,
+            "end_offset": 5516,
+            "annotation_id": "HR_060"
+        },
+        {
+            "decision": "followup CT in [**2-25**] weeks",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5524,
+            "end_offset": 5555,
+            "annotation_id": "HR_061"
+        },
+        {
+            "decision": "evaluated by behavioral neurology",
+            "category": "Category 1: Contact related",
+            "start_offset": 5565,
+            "end_offset": 5598,
+            "annotation_id": "HR_062"
+        },
+        {
+            "decision": "poor attention and some cognitive deficits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5609,
+            "end_offset": 5651,
+            "annotation_id": "HR_063"
+        },
+        {
+            "decision": "Dilantin was D/C'd ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5693,
+            "end_offset": 5711,
+            "annotation_id": "HR_064"
+        },
+        {
+            "decision": "1. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).",
+            "category": "Category 5: Drug related",
+            "start_offset": 5843,
+            "end_offset": 5917,
+            "annotation_id": "HR_065"
+        },
+        {
+            "decision": "2. Heparin Sodium 5,000 unit/0.5 mL Syringe Sig: 5000 (5000) units Injection TID (3 times a day): subcutaneously.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5920,
+            "end_offset": 6032,
+            "annotation_id": "HR_066"
+        },
+        {
+            "decision": "traumatic cerebral contusions",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6159,
+            "end_offset": 6188,
+            "annotation_id": "HR_067"
+        },
+        {
+            "decision": "subdural hematoma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6189,
+            "end_offset": 6206,
+            "annotation_id": "HR_068"
+        },
+        {
+            "decision": "s/p fall",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6207,
+            "end_offset": 6215,
+            "annotation_id": "HR_069"
+        },
+        {
+            "decision": "Discharge Condition: good",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6217,
+            "end_offset": 6242,
+            "annotation_id": "HR_070"
+        },
+        {
+            "decision": "PT/OT ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6268,
+            "end_offset": 6273,
+            "annotation_id": "HR_071"
+        },
+        {
+            "decision": "PT/OT as needed.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6268,
+            "end_offset": 6283,
+            "annotation_id": "HR_072"
+        },
+        {
+            "decision": "Supervised feedings.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6285,
+            "end_offset": 6304,
+            "annotation_id": "HR_073"
+        },
+        {
+            "decision": "Should have full medical evaluation by a geriatrician given uncertain medical history.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6306,
+            "end_offset": 6391,
+            "annotation_id": "HR_074"
+        },
+        {
+            "decision": "Out of bed with assistance",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6393,
+            "end_offset": 6419,
+            "annotation_id": "HR_075"
+        },
+        {
+            "decision": "Will need home evaluation for safety before returning home.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6420,
+            "end_offset": 6478,
+            "annotation_id": "HR_076"
+        },
+        {
+            "decision": "For any problems, please call the Trauma clinic at  ([**Telephone/Fax (1) 4336**] for follow-up care.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6504,
+            "end_offset": 6604,
+            "annotation_id": "HR_077"
+        },
+        {
+            "decision": "Please have an evaluation by a geriatrics doctor as soon as possible. If you need help getting an appointment or getting a primary care doctor, call ([**Telephone/Fax (1) 56960**].",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6606,
+            "end_offset": 6785,
+            "annotation_id": "HR_078"
+        },
+        {
+            "decision": "You need to be seen by the [**Hospital 4695**] clinic in [**2-25**] weeks. Please call them as soon as possible ([**Telephone/Fax (1) 88**] to schedule a follow-up appointment",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6787,
+            "end_offset": 6962,
+            "annotation_id": "HR_079"
+        },
+        {
+            "decision": "You need to be seen by the [**Hospital 4695**] clinic in [**2-25**] weeks. Please call them as soon as possible ([**Telephone/Fax (1) 88**] to schedule a follow-up appointment ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 6787,
+            "end_offset": 6962,
+            "annotation_id": "HR_080"
+        },
+        {
+            "decision": "follow-up CT scan of your head",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6969,
+            "end_offset": 6999,
+            "annotation_id": "HR_081"
+        }
+    ]
+}

@@ -1,0 +1,895 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "25953_169388_16022",
+    "annotations": [
+        {
+            "decision": "hemodynamically stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 405,
+            "end_offset": 427,
+            "annotation_id": "HZ_000"
+        },
+        {
+            "decision": "deformity of the right knee",
+            "category": "Category 3: Defining problem",
+            "start_offset": 487,
+            "end_offset": 514,
+            "annotation_id": "HZ_001"
+        },
+        {
+            "decision": "left elbow pain and left chest pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 551,
+            "end_offset": 586,
+            "annotation_id": "HZ_002"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 612,
+            "end_offset": 622,
+            "annotation_id": "HZ_003"
+        },
+        {
+            "decision": "Celebrex",
+            "category": "Category 5: Drug related",
+            "start_offset": 639,
+            "end_offset": 647,
+            "annotation_id": "HZ_004"
+        },
+        {
+            "decision": "He was alert and oriented times three and in moderate distress.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 817,
+            "end_offset": 879,
+            "annotation_id": "HZ_005"
+        },
+        {
+            "decision": "Pupils are equal, round and reactive to light 2 mm.  The tympanic membranes were clear.  The trachea was midline.  There was a nasal and forehead laceration",
+            "category": "Category 3: Defining problem",
+            "start_offset": 882,
+            "end_offset": 1038,
+            "annotation_id": "HZ_006"
+        },
+        {
+            "decision": "The lungs were clear to auscultation bilaterally.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1041,
+            "end_offset": 1089,
+            "annotation_id": "HZ_007"
+        },
+        {
+            "decision": "Cardiac examination revealed a regular rate and rhythm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1092,
+            "end_offset": 1146,
+            "annotation_id": "HZ_008"
+        },
+        {
+            "decision": "Abdominal examination revealed a soft, nontender abdomen with positive bowel sounds.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1149,
+            "end_offset": 1232,
+            "annotation_id": "HZ_009"
+        },
+        {
+            "decision": "The pelvis was stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1235,
+            "end_offset": 1256,
+            "annotation_id": "HZ_010"
+        },
+        {
+            "decision": "Rectal examination revealed good tone.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1259,
+            "end_offset": 1296,
+            "annotation_id": "HZ_011"
+        },
+        {
+            "decision": "Guaiac negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1299,
+            "end_offset": 1314,
+            "annotation_id": "HZ_012"
+        },
+        {
+            "decision": "Extremity examination revealed posterior right knee dislocation with no palpable pulses.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1317,
+            "end_offset": 1404,
+            "annotation_id": "HZ_013"
+        },
+        {
+            "decision": "He also had left elbow tenderness on palpation with no deformity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1407,
+            "end_offset": 1471,
+            "annotation_id": "HZ_014"
+        },
+        {
+            "decision": "Urinalysis was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1716,
+            "end_offset": 1739,
+            "annotation_id": "HZ_015"
+        },
+        {
+            "decision": "Serum ethanol was 163, tox screen otherwise negative.  Urine tox screen was positive for cocaine",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1742,
+            "end_offset": 1838,
+            "annotation_id": "HZ_016"
+        },
+        {
+            "decision": "Chest x-ray revealed left rib fractures 7th, 8th and 9th initially",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1841,
+            "end_offset": 1907,
+            "annotation_id": "HZ_017"
+        },
+        {
+            "decision": "Pelvis x-ray was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1910,
+            "end_offset": 1935,
+            "annotation_id": "HZ_018"
+        },
+        {
+            "decision": "Head CT showed a right temporal contusion",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1938,
+            "end_offset": 1979,
+            "annotation_id": "HZ_019"
+        },
+        {
+            "decision": "C spine CT was negative.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1982,
+            "end_offset": 2005,
+            "annotation_id": "HZ_020"
+        },
+        {
+            "decision": "Abdominal CT was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2008,
+            "end_offset": 2033,
+            "annotation_id": "HZ_021"
+        },
+        {
+            "decision": "Left elbow films showed an olecranon fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2036,
+            "end_offset": 2081,
+            "annotation_id": "HZ_022"
+        },
+        {
+            "decision": "Right knee films revealed proper alignment to the femur with respect to the tibia following reduction of the dislocation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2084,
+            "end_offset": 2204,
+            "annotation_id": "HZ_023"
+        },
+        {
+            "decision": "transfer to the trauma",
+            "category": "Category 1: Contact related",
+            "start_offset": 2251,
+            "end_offset": 2273,
+            "annotation_id": "HZ_024"
+        },
+        {
+            "decision": "relocating the right knee.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2338,
+            "end_offset": 2363,
+            "annotation_id": "HZ_025"
+        },
+        {
+            "decision": "reduction of the dislocation of dopplerable pulses, shortly thereafter there were palpable dorsalis pedis pulses and posterior tibial pulses present in the right foot",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2376,
+            "end_offset": 2542,
+            "annotation_id": "HZ_026"
+        },
+        {
+            "decision": "admitted to the Trauma Service and orthopedic consult was obtained.",
+            "category": "Category 1: Contact related",
+            "start_offset": 2561,
+            "end_offset": 2627,
+            "annotation_id": "HZ_027"
+        },
+        {
+            "decision": "review of CT and further imaging it was evident that there were several vertebral fractures present, again including a T8 end plate fracture, T9 transverse process fracture and L4 anterior superior compression fracture. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2641,
+            "end_offset": 2859,
+            "annotation_id": "HZ_028"
+        },
+        {
+            "decision": "orthopedic surgery consult",
+            "category": "Category 1: Contact related",
+            "start_offset": 2866,
+            "end_offset": 2892,
+            "annotation_id": "HZ_029"
+        },
+        {
+            "decision": "angiography of the right lower extremity",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2926,
+            "end_offset": 2966,
+            "annotation_id": "HZ_030"
+        },
+        {
+            "decision": "MRI of the right knee",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3017,
+            "end_offset": 3038,
+            "annotation_id": "HZ_031"
+        },
+        {
+            "decision": "olecranon fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3055,
+            "end_offset": 3073,
+            "annotation_id": "HZ_032"
+        },
+        {
+            "decision": "open reduction and internal fixation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3091,
+            "end_offset": 3127,
+            "annotation_id": "HZ_033"
+        },
+        {
+            "decision": "Angiography of the right lower extremity revealed no evidence of acute popliteal artery injury, also small anterior tibial artery with no visualization of the distal dorsalis pedis artery with an occluded posterior tibial artery proximally with reconstruction distally, likely representing either chronic changes or an anatomic variant",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3147,
+            "end_offset": 3482,
+            "annotation_id": "HZ_034"
+        },
+        {
+            "decision": "Patent plantar branches are present",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3484,
+            "end_offset": 3519,
+            "annotation_id": "HZ_035"
+        },
+        {
+            "decision": "taken to the CICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 3538,
+            "end_offset": 3555,
+            "annotation_id": "HZ_036"
+        },
+        {
+            "decision": "C collar was left in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3584,
+            "end_offset": 3610,
+            "annotation_id": "HZ_037"
+        },
+        {
+            "decision": "CTA of the chest was performed to rule out an aortic injury and that was negative for any aortic injury",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3613,
+            "end_offset": 3716,
+            "annotation_id": "HZ_038"
+        },
+        {
+            "decision": "Neurosurgery consult was also called",
+            "category": "Category 1: Contact related",
+            "start_offset": 3719,
+            "end_offset": 3755,
+            "annotation_id": "HZ_039"
+        },
+        {
+            "decision": "neurologically intact",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3799,
+            "end_offset": 3820,
+            "annotation_id": "HZ_040"
+        },
+        {
+            "decision": "An oral surgery consult was called",
+            "category": "Category 1: Contact related",
+            "start_offset": 3861,
+            "end_offset": 3895,
+            "annotation_id": "HZ_041"
+        },
+        {
+            "decision": "left infraorbital floor fracture, which was nondisplaced",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3929,
+            "end_offset": 3985,
+            "annotation_id": "HZ_042"
+        },
+        {
+            "decision": "nonsurgical management of this fracture",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4028,
+            "end_offset": 4067,
+            "annotation_id": "HZ_043"
+        },
+        {
+            "decision": "taken to the Operating Room",
+            "category": "Category 1: Contact related",
+            "start_offset": 4086,
+            "end_offset": 4113,
+            "annotation_id": "HZ_044"
+        },
+        {
+            "decision": "open reduction and internal fixation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4138,
+            "end_offset": 4174,
+            "annotation_id": "HZ_045"
+        },
+        {
+            "decision": "left olecranon fracture.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4182,
+            "end_offset": 4205,
+            "annotation_id": "HZ_046"
+        },
+        {
+            "decision": "low grade temperature, but was otherwise stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4233,
+            "end_offset": 4280,
+            "annotation_id": "HZ_047"
+        },
+        {
+            "decision": "chest tube was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4285,
+            "end_offset": 4306,
+            "annotation_id": "HZ_048"
+        },
+        {
+            "decision": "pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4322,
+            "end_offset": 4334,
+            "annotation_id": "HZ_049"
+        },
+        {
+            "decision": "transferred back to the Surgical Intensive Care Unit",
+            "category": "Category 1: Contact related",
+            "start_offset": 4387,
+            "end_offset": 4439,
+            "annotation_id": "HZ_050"
+        },
+        {
+            "decision": "ophthalmology consult was obtained",
+            "category": "Category 1: Contact related",
+            "start_offset": 4461,
+            "end_offset": 4495,
+            "annotation_id": "HZ_051"
+        },
+        {
+            "decision": "left orbital floor fracture with no signs of ruptured globes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4544,
+            "end_offset": 4604,
+            "annotation_id": "HZ_052"
+        },
+        {
+            "decision": "follow up as an outpatient with ophthamology",
+            "category": "Category 1: Contact related",
+            "start_offset": 4624,
+            "end_offset": 4668,
+            "annotation_id": "HZ_053"
+        },
+        {
+            "decision": "intubated with a chest tube in place.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4760,
+            "end_offset": 4796,
+            "annotation_id": "HZ_054"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4822,
+            "end_offset": 4831,
+            "annotation_id": "HZ_055"
+        },
+        {
+            "decision": "Pain Service was consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 4860,
+            "end_offset": 4886,
+            "annotation_id": "HZ_056"
+        },
+        {
+            "decision": "placed an epidural",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4891,
+            "end_offset": 4909,
+            "annotation_id": "HZ_057"
+        },
+        {
+            "decision": "intravenous analgesia",
+            "category": "Category 5: Drug related",
+            "start_offset": 4916,
+            "end_offset": 4937,
+            "annotation_id": "HZ_058"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5027,
+            "end_offset": 5036,
+            "annotation_id": "HZ_059"
+        },
+        {
+            "decision": "Ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5090,
+            "end_offset": 5101,
+            "annotation_id": "HZ_060"
+        },
+        {
+            "decision": "sputum culture, which eventually grew out hemophilus",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5106,
+            "end_offset": 5158,
+            "annotation_id": "HZ_061"
+        },
+        {
+            "decision": "blood cultures, which began growing coag negative staph",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5182,
+            "end_offset": 5237,
+            "annotation_id": "HZ_062"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5282,
+            "end_offset": 5291,
+            "annotation_id": "HZ_063"
+        },
+        {
+            "decision": "Haldol",
+            "category": "Category 5: Drug related",
+            "start_offset": 5296,
+            "end_offset": 5302,
+            "annotation_id": "HZ_064"
+        },
+        {
+            "decision": "aggitation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5319,
+            "end_offset": 5329,
+            "annotation_id": "HZ_065"
+        },
+        {
+            "decision": "Bronchoscopy was performed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5332,
+            "end_offset": 5358,
+            "annotation_id": "HZ_066"
+        },
+        {
+            "decision": "showed increased secretions",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5363,
+            "end_offset": 5390,
+            "annotation_id": "HZ_067"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5447,
+            "end_offset": 5456,
+            "annotation_id": "HZ_068"
+        },
+        {
+            "decision": "Fevers continued",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5459,
+            "end_offset": 5475,
+            "annotation_id": "HZ_069"
+        },
+        {
+            "decision": "epidural was continued",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5482,
+            "end_offset": 5504,
+            "annotation_id": "HZ_070"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5556,
+            "end_offset": 5565,
+            "annotation_id": "HZ_071"
+        },
+        {
+            "decision": "Vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5568,
+            "end_offset": 5578,
+            "annotation_id": "HZ_072"
+        },
+        {
+            "decision": "gram positive cocci shown growing in the blood culture",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5624,
+            "end_offset": 5678,
+            "annotation_id": "HZ_073"
+        },
+        {
+            "decision": "Tube feeds",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5681,
+            "end_offset": 5691,
+            "annotation_id": "HZ_074"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5748,
+            "end_offset": 5757,
+            "annotation_id": "HZ_075"
+        },
+        {
+            "decision": "transferred to the floor",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 5762,
+            "end_offset": 5786,
+            "annotation_id": "HZ_076"
+        },
+        {
+            "decision": "chest tube remained",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5793,
+            "end_offset": 5812,
+            "annotation_id": "HZ_077"
+        },
+        {
+            "decision": "epidural remained in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5830,
+            "end_offset": 5856,
+            "annotation_id": "HZ_078"
+        },
+        {
+            "decision": "Antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 5859,
+            "end_offset": 5870,
+            "annotation_id": "HZ_079"
+        },
+        {
+            "decision": "antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 5957,
+            "end_offset": 5968,
+            "annotation_id": "HZ_080"
+        },
+        {
+            "decision": "knee immobilizer placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6033,
+            "end_offset": 6056,
+            "annotation_id": "HZ_081"
+        },
+        {
+            "decision": "working with physical therapy and occupational therapy.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6065,
+            "end_offset": 6119,
+            "annotation_id": "HZ_082"
+        },
+        {
+            "decision": "right knee reconstruction",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6221,
+            "end_offset": 6246,
+            "annotation_id": "HZ_083"
+        },
+        {
+            "decision": "low grade temperature.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6278,
+            "end_offset": 6299,
+            "annotation_id": "HZ_084"
+        },
+        {
+            "decision": "chest tube was placed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6328,
+            "end_offset": 6349,
+            "annotation_id": "HZ_085"
+        },
+        {
+            "decision": "Antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6366,
+            "end_offset": 6377,
+            "annotation_id": "HZ_086"
+        },
+        {
+            "decision": "epidural remained ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6425,
+            "end_offset": 6442,
+            "annotation_id": "HZ_087"
+        },
+        {
+            "decision": "work with physical therapy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6479,
+            "end_offset": 6505,
+            "annotation_id": "HZ_088"
+        },
+        {
+            "decision": "chest tube was removed",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6533,
+            "end_offset": 6555,
+            "annotation_id": "HZ_089"
+        },
+        {
+            "decision": "epidural catheter was removed ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6562,
+            "end_offset": 6591,
+            "annotation_id": "HZ_090"
+        },
+        {
+            "decision": "Foley ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6608,
+            "end_offset": 6613,
+            "annotation_id": "HZ_091"
+        },
+        {
+            "decision": "po pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 6681,
+            "end_offset": 6699,
+            "annotation_id": "HZ_092"
+        },
+        {
+            "decision": "Dilaudid",
+            "category": "Category 5: Drug related",
+            "start_offset": 6724,
+            "end_offset": 6732,
+            "annotation_id": "HZ_093"
+        },
+        {
+            "decision": "continuous passive motion device for the right knee",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6781,
+            "end_offset": 6832,
+            "annotation_id": "HZ_094"
+        },
+        {
+            "decision": "left foot films were obtained, which showed a left second metatarsal fracture.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6902,
+            "end_offset": 6979,
+            "annotation_id": "HZ_095"
+        },
+        {
+            "decision": "placing a [**Doctor Last Name **] dressing on the left foot and a cast shoe",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7018,
+            "end_offset": 7093,
+            "annotation_id": "HZ_096"
+        },
+        {
+            "decision": "olecranon fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7361,
+            "end_offset": 7379,
+            "annotation_id": "HZ_097"
+        },
+        {
+            "decision": "pain medication",
+            "category": "Category 5: Drug related",
+            "start_offset": 7506,
+            "end_offset": 7521,
+            "annotation_id": "HZ_098"
+        },
+        {
+            "decision": "afebrile and stable",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7552,
+            "end_offset": 7571,
+            "annotation_id": "HZ_099"
+        },
+        {
+            "decision": "to follow up with orthopedics",
+            "category": "Category 1: Contact related",
+            "start_offset": 7635,
+            "end_offset": 7664,
+            "annotation_id": "HZ_100"
+        },
+        {
+            "decision": "surgery of the right knee",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7669,
+            "end_offset": 7694,
+            "annotation_id": "HZ_101"
+        },
+        {
+            "decision": "follow up in the Trauma Clinic",
+            "category": "Category 1: Contact related",
+            "start_offset": 7709,
+            "end_offset": 7739,
+            "annotation_id": "HZ_102"
+        },
+        {
+            "decision": "Discharged to rehabilitation facility.",
+            "category": "Category 1: Contact related",
+            "start_offset": 7761,
+            "end_offset": 7798,
+            "annotation_id": "HZ_103"
+        },
+        {
+            "decision": "Status post MVC",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7855,
+            "end_offset": 7870,
+            "annotation_id": "HZ_104"
+        },
+        {
+            "decision": "Status post right knee posterior dislocation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7876,
+            "end_offset": 7920,
+            "annotation_id": "HZ_105"
+        },
+        {
+            "decision": "Status post right knee reduction",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7926,
+            "end_offset": 7958,
+            "annotation_id": "HZ_106"
+        },
+        {
+            "decision": "Status post left olecranon fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7964,
+            "end_offset": 7999,
+            "annotation_id": "HZ_107"
+        },
+        {
+            "decision": "Status post left pneumothorax",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8005,
+            "end_offset": 8034,
+            "annotation_id": "HZ_108"
+        },
+        {
+            "decision": "Status post left [**5-2**] rib fractures",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8040,
+            "end_offset": 8080,
+            "annotation_id": "HZ_109"
+        },
+        {
+            "decision": "Status post left distal clavicular fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8086,
+            "end_offset": 8129,
+            "annotation_id": "HZ_110"
+        },
+        {
+            "decision": "Status post T8 end plate fracture, T9 transverse process fracture, L4 anterior/superior compression fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8135,
+            "end_offset": 8243,
+            "annotation_id": "HZ_111"
+        },
+        {
+            "decision": "Status post left foot second metatarsal fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8249,
+            "end_offset": 8297,
+            "annotation_id": "HZ_112"
+        },
+        {
+            "decision": "Status post left orbital floor fracture",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8304,
+            "end_offset": 8343,
+            "annotation_id": "HZ_113"
+        },
+        {
+            "decision": "Status post open reduction and internal fixation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8350,
+            "end_offset": 8398,
+            "annotation_id": "HZ_114"
+        },
+        {
+            "decision": "left olecranon fracture.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8399,
+            "end_offset": 8422,
+            "annotation_id": "HZ_115"
+        },
+        {
+            "decision": "Status post chest tube insertion",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8429,
+            "end_offset": 8461,
+            "annotation_id": "HZ_116"
+        },
+        {
+            "decision": "Nicotine patch 21 mg per 24 hours one patch to skin q.d.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8491,
+            "end_offset": 8546,
+            "annotation_id": "HZ_117"
+        },
+        {
+            "decision": "Albuterol 90 micrograms areosol solution one to two puffs q 6 hours prn.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8552,
+            "end_offset": 8623,
+            "annotation_id": "HZ_118"
+        },
+        {
+            "decision": "Ipratropium bromide inhaler two puffs q 4 to 6 hours as needed.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8629,
+            "end_offset": 8691,
+            "annotation_id": "HZ_119"
+        },
+        {
+            "decision": "Heparin 5000 units subq q 8 hours",
+            "category": "Category 5: Drug related",
+            "start_offset": 8697,
+            "end_offset": 8730,
+            "annotation_id": "HZ_120"
+        },
+        {
+            "decision": "Dilaudid 4 to 8 mg q 3 to 4 hours prn",
+            "category": "Category 5: Drug related",
+            "start_offset": 8736,
+            "end_offset": 8773,
+            "annotation_id": "HZ_121"
+        },
+        {
+            "decision": "Colace 100 mg po b.i.d",
+            "category": "Category 5: Drug related",
+            "start_offset": 8779,
+            "end_offset": 8801,
+            "annotation_id": "HZ_122"
+        },
+        {
+            "decision": "follow up with Dr. [**Last Name (STitle) 284**] of orthopedic",
+            "category": "Category 1: Contact related",
+            "start_offset": 8846,
+            "end_offset": 8908,
+            "annotation_id": "HZ_123"
+        },
+        {
+            "decision": "instructed to call the office at [**Telephone/Fax (1) 18002**] for scheduling of the right knee surgery, which should occur sometime in the following week after discharge.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 8918,
+            "end_offset": 9088,
+            "annotation_id": "HZ_124"
+        },
+        {
+            "decision": "to follow up with Dr. [**Last Name (STitle) **] in the Trauma Clinic",
+            "category": "Category 1: Contact related",
+            "start_offset": 9112,
+            "end_offset": 9180,
+            "annotation_id": "HZ_125"
+        },
+        {
+            "decision": "instructed to call [**Telephone/Fax (1) 18052**] for scheduling of an appointment in approximately one to two weeks.",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 9189,
+            "end_offset": 9304,
+            "annotation_id": "HZ_126"
+        }
+    ]
+}

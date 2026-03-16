@@ -1,0 +1,1497 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "56583_138864_53034",
+    "annotations": [
+        {
+            "decision": "dyspnea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 265,
+            "end_offset": 272,
+            "annotation_id": "NG_000"
+        },
+        {
+            "decision": "arterial line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 312,
+            "end_offset": 335,
+            "annotation_id": "NG_001"
+        },
+        {
+            "decision": "central line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 336,
+            "end_offset": 358,
+            "annotation_id": "NG_002"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 359,
+            "end_offset": 369,
+            "annotation_id": "NG_003"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 420,
+            "end_offset": 423,
+            "annotation_id": "NG_004"
+        },
+        {
+            "decision": "hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 425,
+            "end_offset": 445,
+            "annotation_id": "NG_005"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 447,
+            "end_offset": 450,
+            "annotation_id": "NG_006"
+        },
+        {
+            "decision": "lung ca",
+            "category": "Category 3: Defining problem",
+            "start_offset": 452,
+            "end_offset": 459,
+            "annotation_id": "NG_007"
+        },
+        {
+            "decision": "s/p right pneumonectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 460,
+            "end_offset": 483,
+            "annotation_id": "NG_008"
+        },
+        {
+            "decision": "a NRB with O2 sats up to 100%, ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 716,
+            "end_offset": 744,
+            "annotation_id": "NG_009"
+        },
+        {
+            "decision": "RR continued to rise to 30-40",
+            "category": "Category 3: Defining problem",
+            "start_offset": 751,
+            "end_offset": 780,
+            "annotation_id": "NG_010"
+        },
+        {
+            "decision": "CXR showed new opacity in left base compatible with PNA. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 790,
+            "end_offset": 846,
+            "annotation_id": "NG_011"
+        },
+        {
+            "decision": "Started on ceftriaxone and levofloxacin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 849,
+            "end_offset": 888,
+            "annotation_id": "NG_012"
+        },
+        {
+            "decision": "presumed PNA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 893,
+            "end_offset": 905,
+            "annotation_id": "NG_013"
+        },
+        {
+            "decision": "subsequently intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 919,
+            "end_offset": 941,
+            "annotation_id": "NG_014"
+        },
+        {
+            "decision": " increasing respiratory distress and elevated lactate",
+            "category": "Category 3: Defining problem",
+            "start_offset": 946,
+            "end_offset": 998,
+            "annotation_id": "NG_015"
+        },
+        {
+            "decision": " Cr of 1.7 up from baseline of 0.8, WBC of 18.6 with left shift",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1078,
+            "end_offset": 1140,
+            "annotation_id": "NG_016"
+        },
+        {
+            "decision": "EKG ST at 112 with new RBBB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1142,
+            "end_offset": 1169,
+            "annotation_id": "NG_017"
+        },
+        {
+            "decision": "Cardiology consulted",
+            "category": "Category 1: Contact related",
+            "start_offset": 1172,
+            "end_offset": 1192,
+            "annotation_id": "NG_018"
+        },
+        {
+            "decision": "trop elevation ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1199,
+            "end_offset": 1213,
+            "annotation_id": "NG_019"
+        },
+        {
+            "decision": "trop elevation and felt likely secondary to demand ischemia and hypoperfusion",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1199,
+            "end_offset": 1276,
+            "annotation_id": "NG_020"
+        },
+        {
+            "decision": "treatment with asa",
+            "category": "Category 5: Drug related",
+            "start_offset": 1290,
+            "end_offset": 1308,
+            "annotation_id": "NG_021"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1346,
+            "end_offset": 1356,
+            "annotation_id": "NG_022"
+        },
+        {
+            "decision": "SBPs dropped to 60s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1358,
+            "end_offset": 1377,
+            "annotation_id": "NG_023"
+        },
+        {
+            "decision": "started on peripheral levophed ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1379,
+            "end_offset": 1409,
+            "annotation_id": "NG_024"
+        },
+        {
+            "decision": "left IJ CVL",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1414,
+            "end_offset": 1425,
+            "annotation_id": "NG_025"
+        },
+        {
+            "decision": "transfer to MICU",
+            "category": "Category 1: Contact related",
+            "start_offset": 1448,
+            "end_offset": 1464,
+            "annotation_id": "NG_026"
+        },
+        {
+            "decision": "on FiO2 60%, PEEP 8 ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1518,
+            "end_offset": 1537,
+            "annotation_id": "NG_027"
+        },
+        {
+            "decision": "levophed 0.15.  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1541,
+            "end_offset": 1554,
+            "annotation_id": "NG_028"
+        },
+        {
+            "decision": "3L NS down ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1563,
+            "end_offset": 1573,
+            "annotation_id": "NG_029"
+        },
+        {
+            "decision": "intubated and sedated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1618,
+            "end_offset": 1639,
+            "annotation_id": "NG_030"
+        },
+        {
+            "decision": "sedated",
+            "category": "Category 5: Drug related",
+            "start_offset": 1632,
+            "end_offset": 1639,
+            "annotation_id": "NG_031"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1693,
+            "end_offset": 1702,
+            "annotation_id": "NG_032"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1772,
+            "end_offset": 1775,
+            "annotation_id": "NG_033"
+        },
+        {
+            "decision": "BPH ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1777,
+            "end_offset": 1780,
+            "annotation_id": "NG_034"
+        },
+        {
+            "decision": "s/p TURP",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1781,
+            "end_offset": 1789,
+            "annotation_id": "NG_035"
+        },
+        {
+            "decision": "pleural pulmonary TB",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1791,
+            "end_offset": 1811,
+            "annotation_id": "NG_036"
+        },
+        {
+            "decision": "lung ca ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1813,
+            "end_offset": 1820,
+            "annotation_id": "NG_037"
+        },
+        {
+            "decision": "s/p right pneuomnectomy",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1821,
+            "end_offset": 1844,
+            "annotation_id": "NG_038"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1846,
+            "end_offset": 1849,
+            "annotation_id": "NG_039"
+        },
+        {
+            "decision": "prostate ca ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1851,
+            "end_offset": 1862,
+            "annotation_id": "NG_040"
+        },
+        {
+            "decision": "s/p XRT",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1863,
+            "end_offset": 1870,
+            "annotation_id": "NG_041"
+        },
+        {
+            "decision": "intubated",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2135,
+            "end_offset": 2144,
+            "annotation_id": "NG_042"
+        },
+        {
+            "decision": "General: Intubated, sedated, in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2145,
+            "end_offset": 2180,
+            "annotation_id": "NG_043"
+        },
+        {
+            "decision": "HEENT: PERRL, ETT in place, NGT in place",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2181,
+            "end_offset": 2221,
+            "annotation_id": "NG_044"
+        },
+        {
+            "decision": ", ETT in place, NGT in place",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2195,
+            "end_offset": 2221,
+            "annotation_id": "NG_045"
+        },
+        {
+            "decision": "Neck: supple, JVP not elevated, no LAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2222,
+            "end_offset": 2260,
+            "annotation_id": "NG_046"
+        },
+        {
+            "decision": "CV: sinus tachycardia, normal S1 + S2, no murmurs, rubs, gallops",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2261,
+            "end_offset": 2325,
+            "annotation_id": "NG_047"
+        },
+        {
+            "decision": "Lungs:Crackles at left base on anterior exam, absent breathsounds on right",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2327,
+            "end_offset": 2401,
+            "annotation_id": "NG_048"
+        },
+        {
+            "decision": "Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2402,
+            "end_offset": 2481,
+            "annotation_id": "NG_049"
+        },
+        {
+            "decision": "foley in place ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2486,
+            "end_offset": 2500,
+            "annotation_id": "NG_050"
+        },
+        {
+            "decision": "GU: foley in place draining concentrated urine",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2482,
+            "end_offset": 2528,
+            "annotation_id": "NG_051"
+        },
+        {
+            "decision": "Ext: cool extremities bilaterally with 2+ radial and DP pulses bilaterally, no appreciable edema, right foot with small 1cm circumference nonhealing ulcer on dorsum, no surrounding erythema, no significant drainage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2529,
+            "end_offset": 2743,
+            "annotation_id": "NG_052"
+        },
+        {
+            "decision": "intubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2751,
+            "end_offset": 2760,
+            "annotation_id": "NG_053"
+        },
+        {
+            "decision": "Neuro: intubated and sedated",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2744,
+            "end_offset": 2772,
+            "annotation_id": "NG_054"
+        },
+        {
+            "decision": "sedated",
+            "category": "Category 5: Drug related",
+            "start_offset": 2765,
+            "end_offset": 2772,
+            "annotation_id": "NG_055"
+        },
+        {
+            "decision": "[**2161-4-29**] 10:45PM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3029,
+            "end_offset": 3147,
+            "annotation_id": "NG_056"
+        },
+        {
+            "decision": "[**2161-4-30**] 03:43AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-POSITIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3689,
+            "end_offset": 3763,
+            "annotation_id": "NG_057"
+        },
+        {
+            "decision": "[**2161-4-30**] 01:30PM BLOOD HIV Ab-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3764,
+            "end_offset": 3809,
+            "annotation_id": "NG_058"
+        },
+        {
+            "decision": "[**2161-4-30**] 03:43AM BLOOD HCV Ab-NEGATIVE",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3810,
+            "end_offset": 3855,
+            "annotation_id": "NG_059"
+        },
+        {
+            "decision": "[**2161-4-30**] 01:20AM URINE Blood-TR Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-5.0 Leuks-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4091,
+            "end_offset": 4215,
+            "annotation_id": "NG_060"
+        },
+        {
+            "decision": "[**2161-4-29**] 11:00 pm BLOOD CULTURE      # 2.                             **FINAL REPORT [**2161-5-6**]**    Blood Culture, Routine (Final [**2161-5-6**]):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4516,
+            "end_offset": 4687,
+            "annotation_id": "NG_061"
+        },
+        {
+            "decision": "[**2161-4-30**] 1:20 am URINE                             **FINAL REPORT [**2161-5-1**]**    URINE CULTURE (Final [**2161-5-1**]):    NO GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4690,
+            "end_offset": 4833,
+            "annotation_id": "NG_062"
+        },
+        {
+            "decision": "[**2161-4-30**] 1:47 pm BRONCHOALVEOLAR LAVAGE     GRAM STAIN (Final [**2161-4-30**]):       4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.       4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.                                     IN PAIRS AND IN SHORT CHAINS.       SMEAR REVIEWED; RESULTS CONFIRMED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4836,
+            "end_offset": 5151,
+            "annotation_id": "NG_063"
+        },
+        {
+            "decision": "   RESPIRATORY CULTURE (Final [**2161-5-2**]):    NO GROWTH, <1000 CFU/ml.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5157,
+            "end_offset": 5227,
+            "annotation_id": "NG_064"
+        },
+        {
+            "decision": "   LEGIONELLA CULTURE (Final [**2161-5-7**]):    NO LEGIONELLA ISOLATED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5233,
+            "end_offset": 5301,
+            "annotation_id": "NG_065"
+        },
+        {
+            "decision": "POTASSIUM HYDROXIDE PREPARATION (Final [**2161-4-30**]):       Test cancelled by laboratory.       PATIENT CREDITED.       This is a low yield procedure based on our in-house studies",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5307,
+            "end_offset": 5489,
+            "annotation_id": "NG_066"
+        },
+        {
+            "decision": " if pulmonary Histoplasmosis, Coccidioidomycosis, Blastomycosis,       Aspergillosis or Mucormycosis is strongly suspected, contact the       Microbiology Laboratory (7-2306).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5497,
+            "end_offset": 5669,
+            "annotation_id": "NG_067"
+        },
+        {
+            "decision": "   Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final       [**2161-5-1**]):    NEGATIVE for Pneumocystis jirovecii (carinii)..",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5676,
+            "end_offset": 5813,
+            "annotation_id": "NG_068"
+        },
+        {
+            "decision": "FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5821,
+            "end_offset": 5872,
+            "annotation_id": "NG_069"
+        },
+        {
+            "decision": "   ACID FAST SMEAR (Final [**2161-5-1**]):       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5878,
+            "end_offset": 5971,
+            "annotation_id": "NG_070"
+        },
+        {
+            "decision": "   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5977,
+            "end_offset": 6037,
+            "annotation_id": "NG_071"
+        },
+        {
+            "decision": "Rapid Respiratory Viral Screen & Culture     Respiratory Viral Culture (Final [**2161-5-4**]):       No respiratory viruses isolated.       Culture screened for Adenovirus, Influenza A & B, Parainfluenza type       1,2 & 3, and Respiratory Syncytial Virus..",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6065,
+            "end_offset": 6322,
+            "annotation_id": "NG_072"
+        },
+        {
+            "decision": "Please call Virology at [**Telephone/Fax (1) 6182**]       within 1 week if additional testing is needed",
+            "category": "Category 1: Contact related",
+            "start_offset": 6430,
+            "end_offset": 6534,
+            "annotation_id": "NG_073"
+        },
+        {
+            "decision": "    Respiratory Viral Antigen Screen (Final [**2161-5-1**]):       Less than 60 columnar epithelial cells; Specimen inadequate for       detecting respiratory viral infection by DFA testing.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6540,
+            "end_offset": 6725,
+            "annotation_id": "NG_074"
+        },
+        {
+            "decision": "VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary):       No Cytomegalovirus (CMV) isolated.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7112,
+            "end_offset": 7201,
+            "annotation_id": "NG_075"
+        },
+        {
+            "decision": "   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) (Final [**2161-5-4**]):       Negative for Cytomegalovirus early antigen by immunofluorescence.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7207,
+            "end_offset": 7356,
+            "annotation_id": "NG_076"
+        },
+        {
+            "decision": "[**2161-5-7**] 5:07 am SPUTUM      Source: Endotracheal.                              **FINAL REPORT [**2161-5-9**]**     GRAM STAIN (Final [**2161-5-7**]):       >25 PMNs and <10 epithelial cells/100X field.       NO MICROORGANISMS SEEN.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7415,
+            "end_offset": 7652,
+            "annotation_id": "NG_077"
+        },
+        {
+            "decision": "   RESPIRATORY CULTURE (Final [**2161-5-9**]):       Commensal Respiratory Flora Absent.       STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA.    MODERATE GROWTH.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7699,
+            "end_offset": 7853,
+            "annotation_id": "NG_078"
+        },
+        {
+            "decision": "SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA                              | TRIMETHOPRIM/SULFA----   <=1 S",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7886,
+            "end_offset": 8117,
+            "annotation_id": "NG_079"
+        },
+        {
+            "decision": "ECG's: Cardiovascular Report ECG Study Date of [**2161-4-29**]  10:50:22 PM Sinus tachycardia. Right bundle-branch block. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8119,
+            "end_offset": 8239,
+            "annotation_id": "NG_080"
+        },
+        {
+            "decision": "Non-diagnostic repolarization abnormalities. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8241,
+            "end_offset": 8284,
+            "annotation_id": "NG_081"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2145-7-19**] right bundle-branch block and sinus tachycardia are now present.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8286,
+            "end_offset": 8401,
+            "annotation_id": "NG_082"
+        },
+        {
+            "decision": "Cardiovascular Report ECG Study Date of [**2161-4-30**]  8:53:20 AM Sinus rhythm with atrial premature depolarizations. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8415,
+            "end_offset": 8533,
+            "annotation_id": "NG_083"
+        },
+        {
+            "decision": "Compared to the previous tracing the heart rate is reduced. Otherwise, no significant change.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8535,
+            "end_offset": 8627,
+            "annotation_id": "NG_084"
+        },
+        {
+            "decision": "Compared to the previous tracing the heart rate is reduced. Otherwise, no significant change.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8535,
+            "end_offset": 8627,
+            "annotation_id": "NG_085"
+        },
+        {
+            "decision": "Cardiovascular Report ECG Study Date of [**2161-4-30**]  10:53:32 PM Atrial fibrillation with a rapid ventricular response. Right bundle-branch block. Diffuse ST-T wave changes.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8641,
+            "end_offset": 8817,
+            "annotation_id": "NG_086"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2161-4-30**] the rhythm is atrial fibrillation with a rapid ventricular response. Other findings are similar.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8819,
+            "end_offset": 8966,
+            "annotation_id": "NG_087"
+        },
+        {
+            "decision": "Cardiovascular Report ECG Study Date of [**2161-5-1**]  2:01:58 AM Sinus rhythm with atrial premature beat. Right bundle-branch block. Non-specific lateral T wave changes. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8980,
+            "end_offset": 9150,
+            "annotation_id": "NG_088"
+        },
+        {
+            "decision": "Compared to the previous tracing sinus rhythm is now present.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9152,
+            "end_offset": 9212,
+            "annotation_id": "NG_089"
+        },
+        {
+            "decision": "Cardiovascular Report ECG Study Date of [**2161-5-3**]  6:15:10 AM Atrial fibrillation with rapid ventricular response. Right bundle-branch block. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9226,
+            "end_offset": 9371,
+            "annotation_id": "NG_090"
+        },
+        {
+            "decision": "Diffuse non-specific ST-T wave changes. Q-T interval is prolonged.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9373,
+            "end_offset": 9438,
+            "annotation_id": "NG_091"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2161-5-1**] the rhythm is now atrial fibrillation and the ventricular response is rapid.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9440,
+            "end_offset": 9566,
+            "annotation_id": "NG_092"
+        },
+        {
+            "decision": "Cardiovascular Report ECG Study Date of [**2161-5-4**]  10:43:48 AM Sinus rhythm with atrial premature depolarizations. Right bundle-branch block. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9569,
+            "end_offset": 9714,
+            "annotation_id": "NG_093"
+        },
+        {
+            "decision": "Non-diagnostic repolarization abnormalities. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 9716,
+            "end_offset": 9759,
+            "annotation_id": "NG_094"
+        },
+        {
+            "decision": "Compared to the previous tracing of [**2161-5-3**] the cardiac rhythm is now sinus mechanism.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9761,
+            "end_offset": 9853,
+            "annotation_id": "NG_095"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-4-29**] 10:36 PM IMPRESSION:  Left basal pneumonia.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9866,
+            "end_offset": 9975,
+            "annotation_id": "NG_096"
+        },
+        {
+            "decision": "Followup radiograph four weeks after treatment is recommended",
+            "category": "Category 1: Contact related",
+            "start_offset": 9978,
+            "end_offset": 10039,
+            "annotation_id": "NG_097"
+        },
+        {
+            "decision": "Followup radiograph four weeks after treatment is recommended.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 9978,
+            "end_offset": 10039,
+            "annotation_id": "NG_098"
+        },
+        {
+            "decision": "Satisfactory position of endotracheal tube ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 10131,
+            "end_offset": 10173,
+            "annotation_id": "NG_099"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-4-29**] 11:15 PM IMPRESSION:  Satisfactory position of endotracheal tube with findings of left basal pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10042,
+            "end_offset": 10211,
+            "annotation_id": "NG_100"
+        },
+        {
+            "decision": "Portable TTE (Complete) Done [**2161-4-30**] at 10:04:10 AM      FINAL There is mild symmetric left ventricular hypertrophy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10316,
+            "end_offset": 10439,
+            "annotation_id": "NG_101"
+        },
+        {
+            "decision": "Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10441,
+            "end_offset": 10534,
+            "annotation_id": "NG_102"
+        },
+        {
+            "decision": "The overall left ventricular ejection fraction is severely depressed (LVEF = 25 %) secondary to ventricular interaction with a pressure and volume overloaded right ventricle.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10536,
+            "end_offset": 10709,
+            "annotation_id": "NG_103"
+        },
+        {
+            "decision": "right ventricular pressure/volume overload.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10850,
+            "end_offset": 10892,
+            "annotation_id": "NG_104"
+        },
+        {
+            "decision": "The right ventricular cavity is dilated with severe global free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. The ascending aorta is mildly dilated. The aortic valve leaflets are mildly thickened (?#). ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 10711,
+            "end_offset": 10979,
+            "annotation_id": "NG_105"
+        },
+        {
+            "decision": "There is no aortic valve stenosis. No aortic regurgitation is seen. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 10986,
+            "end_offset": 11052,
+            "annotation_id": "NG_106"
+        },
+        {
+            "decision": "Trivial mitral regurgitation is seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11102,
+            "end_offset": 11138,
+            "annotation_id": "NG_107"
+        },
+        {
+            "decision": ". Moderate [2+] tricuspid regurgitation is seen ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11191,
+            "end_offset": 11236,
+            "annotation_id": "NG_108"
+        },
+        {
+            "decision": "The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. Moderate [2+] tricuspid regurgitation is seen (may be significantly underestimated due to the technically suboptimal nature of this study). Significant pulmonic regurgitation is seen.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11054,
+            "end_offset": 11373,
+            "annotation_id": "NG_109"
+        },
+        {
+            "decision": "). Significant pulmonic regurgitation is seen. There is no pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11331,
+            "end_offset": 11407,
+            "annotation_id": "NG_110"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-4-30**] 12:44 AM The ET tube tip is 7 cm above the carina.  The NG tube tip is in the stomach.  Left internal jugular line tip is most likely in the left brachiocephalic vein.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11410,
+            "end_offset": 11643,
+            "annotation_id": "NG_111"
+        },
+        {
+            "decision": "There is additional interval progression of left middle lower lung consolidation.  No pneumothorax is seen.  Small amount of pleural effusion cannot be excluded.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 11645,
+            "end_offset": 11805,
+            "annotation_id": "NG_112"
+        },
+        {
+            "decision": "the left internal jugular has been advanced with its tip most likely at the superior SVC.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12006,
+            "end_offset": 12094,
+            "annotation_id": "NG_113"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-4-30**] 1:09 AM Portable AP radiograph of the chest was reviewed in comparison to prior study obtained several minutes earlier. Currently, the left internal jugular has been advanced with its tip most likely at the superior SVC.  The rest of the findings did not change in the short interim.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 11808,
+            "end_offset": 12157,
+            "annotation_id": "NG_114"
+        },
+        {
+            "decision": "Radiology Report CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2161-5-1**] 2:51 AM IMPRESSION: 1.  Multifocal left pneumonia and parapneumonic effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12160,
+            "end_offset": 12321,
+            "annotation_id": "NG_115"
+        },
+        {
+            "decision": "Stable right pneumonectomy changes.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12327,
+            "end_offset": 12361,
+            "annotation_id": "NG_116"
+        },
+        {
+            "decision": "No evidence of pulmonary embolism.  Probable pulmonary hypertension.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12367,
+            "end_offset": 12434,
+            "annotation_id": "NG_117"
+        },
+        {
+            "decision": "Left adrenal adenoma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12440,
+            "end_offset": 12460,
+            "annotation_id": "NG_118"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-5-3**] 4:32 AM IMPRESSION:  AP chest compared to [**4-29**] through 17: Large pneumonia in the left lung has increased in extent since [**4-30**], accompanied by increasing pleural effusion, of indeterminate volume",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12463,
+            "end_offset": 12736,
+            "annotation_id": "NG_119"
+        },
+        {
+            "decision": "The patient has had right pneumonectomy.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12739,
+            "end_offset": 12778,
+            "annotation_id": "NG_120"
+        },
+        {
+            "decision": "ET tube is in standard position.  Left jugular line ends in the upper SVC.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 12781,
+            "end_offset": 12854,
+            "annotation_id": "NG_121"
+        },
+        {
+            "decision": "No left pneumothorax.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 12857,
+            "end_offset": 12877,
+            "annotation_id": "NG_122"
+        },
+        {
+            "decision": "Radiology Report CHEST PORT. LINE PLACEMENT Study Date of [**2161-5-5**] 2:56 PM IMPRESSION:  Right-sided PICC line in the right atrium, should be withdrawn 4 cm for more optimal positioning in the low SVC.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 12880,
+            "end_offset": 13085,
+            "annotation_id": "NG_123"
+        },
+        {
+            "decision": "Increasing left basilar pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13087,
+            "end_offset": 13120,
+            "annotation_id": "NG_124"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-5-6**] 2:21 AM Multifocal pneumonia in the left lung is unchanged.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 13123,
+            "end_offset": 13247,
+            "annotation_id": "NG_125"
+        },
+        {
+            "decision": ".  The left apex is still clear.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13250,
+            "end_offset": 13278,
+            "annotation_id": "NG_126"
+        },
+        {
+            "decision": "Patient is status post right pneumonectomy with white out of the right hemithorax. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13281,
+            "end_offset": 13362,
+            "annotation_id": "NG_127"
+        },
+        {
+            "decision": "The cardiomediastinal silhouette cannot be evaluated, is obscured by pleural and parenchymal abnormalities. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13365,
+            "end_offset": 13471,
+            "annotation_id": "NG_128"
+        },
+        {
+            "decision": "ET tube is in standard position. NG tube tip is in the stomach.  Right PICC tip is probably in the mid SVC.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13474,
+            "end_offset": 13580,
+            "annotation_id": "NG_129"
+        },
+        {
+            "decision": " It should be advanced by at least 20 cm to ensure position within the stomach.  ",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 13828,
+            "end_offset": 13905,
+            "annotation_id": "NG_130"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-5-6**] 4:43 PM FINDINGS:  As compared to the previous radiograph, the previous feeding tube has been removed and replaced by a Dobbhoff catheter.  The catheter is in the mid esophagus.  It should be advanced by at least 20 cm to ensure position within the stomach.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 13583,
+            "end_offset": 13905,
+            "annotation_id": "NG_131"
+        },
+        {
+            "decision": "received a tracheostomy tube and the endotracheal tube has been removed. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13929,
+            "end_offset": 14000,
+            "annotation_id": "NG_132"
+        },
+        {
+            "decision": "The patient has also received a tracheostomy tube and the endotracheal tube has been removed. Normal position of this device.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 13908,
+            "end_offset": 14033,
+            "annotation_id": "NG_133"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-5-7**] 8:46 PM FINDINGS:  As compared to the previous radiograph, there is unchanged appearance of the left lung, with a known extensive left pneumonia.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14036,
+            "end_offset": 14246,
+            "annotation_id": "NG_134"
+        },
+        {
+            "decision": "The monitoring and support devices are constant.  Also constant is the appearance of the post-pneumonectomy chest on the right.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14249,
+            "end_offset": 14375,
+            "annotation_id": "NG_135"
+        },
+        {
+            "decision": "Radiology Report CHEST (PORTABLE AP) Study Date of [**2161-5-9**] 1:11 PM FINDINGS:  Comparison is made to previous study from [**2161-5-7**]. There is a tracheostomy tube, which is unchanged in position and appropriately sited.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14378,
+            "end_offset": 14605,
+            "annotation_id": "NG_136"
+        },
+        {
+            "decision": " again seen complete whiteout of the right lung.  There is a Dobbhoff tube whose tip is in the fundus of the stomach.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 14617,
+            "end_offset": 14732,
+            "annotation_id": "NG_137"
+        },
+        {
+            "decision": "There is a Dobbhoff tube whose tip is in the fundus of the stomach.  ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 14666,
+            "end_offset": 14732,
+            "annotation_id": "NG_138"
+        },
+        {
+            "decision": "There is an airspace opacity in the left mid and lower lung fields consistent with known pneumonia. This is slightly more dense than on the prior study.  There are no pneumothoraces",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14735,
+            "end_offset": 14916,
+            "annotation_id": "NG_139"
+        },
+        {
+            "decision": "CXR [**2161-5-13**] 7:15 AM IMPRESSION:  Worsening extensive left lung consolidation.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 14919,
+            "end_offset": 15003,
+            "annotation_id": "NG_140"
+        },
+        {
+            "decision": "Minimal aerated left upper lobe.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15005,
+            "end_offset": 15036,
+            "annotation_id": "NG_141"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15128,
+            "end_offset": 15131,
+            "annotation_id": "NG_142"
+        },
+        {
+            "decision": "hypercholesterolemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15133,
+            "end_offset": 15153,
+            "annotation_id": "NG_143"
+        },
+        {
+            "decision": "PVD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15155,
+            "end_offset": 15158,
+            "annotation_id": "NG_144"
+        },
+        {
+            "decision": "lung ca ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15164,
+            "end_offset": 15171,
+            "annotation_id": "NG_145"
+        },
+        {
+            "decision": "s/p pneumonectomy ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15172,
+            "end_offset": 15189,
+            "annotation_id": "NG_146"
+        },
+        {
+            "decision": "respiratory failure and shock, and found to have pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15209,
+            "end_offset": 15267,
+            "annotation_id": "NG_147"
+        },
+        {
+            "decision": "respiratory distress",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15410,
+            "end_offset": 15430,
+            "annotation_id": "NG_148"
+        },
+        {
+            "decision": "intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 15454,
+            "end_offset": 15464,
+            "annotation_id": "NG_149"
+        },
+        {
+            "decision": "hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15477,
+            "end_offset": 15488,
+            "annotation_id": "NG_150"
+        },
+        {
+            "decision": "vasopressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 15499,
+            "end_offset": 15511,
+            "annotation_id": "NG_151"
+        },
+        {
+            "decision": "CXR was consistent with PNA.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15513,
+            "end_offset": 15540,
+            "annotation_id": "NG_152"
+        },
+        {
+            "decision": "Initial BAL showed gram positive cocci",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 15542,
+            "end_offset": 15580,
+            "annotation_id": "NG_153"
+        },
+        {
+            "decision": "antibiotics ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15610,
+            "end_offset": 15621,
+            "annotation_id": "NG_154"
+        },
+        {
+            "decision": "CAP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15626,
+            "end_offset": 15629,
+            "annotation_id": "NG_155"
+        },
+        {
+            "decision": "weaned off all pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 15664,
+            "end_offset": 15687,
+            "annotation_id": "NG_156"
+        },
+        {
+            "decision": "recurrent fevers, leukocytosis, and worsening CXR.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15737,
+            "end_offset": 15786,
+            "annotation_id": "NG_157"
+        },
+        {
+            "decision": "was concerning for necrotizing PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15801,
+            "end_offset": 15835,
+            "annotation_id": "NG_158"
+        },
+        {
+            "decision": "Bronchoscopy was concerning for necrotizing PNA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15788,
+            "end_offset": 15835,
+            "annotation_id": "NG_159"
+        },
+        {
+            "decision": "VAP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15874,
+            "end_offset": 15877,
+            "annotation_id": "NG_160"
+        },
+        {
+            "decision": "cipro, vanc, cefepime ",
+            "category": "Category 5: Drug related",
+            "start_offset": 15883,
+            "end_offset": 15904,
+            "annotation_id": "NG_161"
+        },
+        {
+            "decision": "sputum culture showed STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA",
+            "category": "Category 3: Defining problem",
+            "start_offset": 15913,
+            "end_offset": 15977,
+            "annotation_id": "NG_162"
+        },
+        {
+            "decision": "antibiotics were tailored to sensitivities",
+            "category": "Category 5: Drug related",
+            "start_offset": 15982,
+            "end_offset": 16024,
+            "annotation_id": "NG_163"
+        },
+        {
+            "decision": "The patient's respiratory status remained tenous from the start",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16026,
+            "end_offset": 16089,
+            "annotation_id": "NG_164"
+        },
+        {
+            "decision": "tracheostomy placement on [**2161-5-6**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16104,
+            "end_offset": 16144,
+            "annotation_id": "NG_165"
+        },
+        {
+            "decision": "continued on CMV with increased minute ventilation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16149,
+            "end_offset": 16199,
+            "annotation_id": "NG_166"
+        },
+        {
+            "decision": "intermittent difficulty tolerating ventilation with intermittent agitation ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16208,
+            "end_offset": 16282,
+            "annotation_id": "NG_167"
+        },
+        {
+            "decision": "increasing sedation",
+            "category": "Category 5: Drug related",
+            "start_offset": 16293,
+            "end_offset": 16312,
+            "annotation_id": "NG_168"
+        },
+        {
+            "decision": "increasing bloody secretions worsened ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16333,
+            "end_offset": 16370,
+            "annotation_id": "NG_169"
+        },
+        {
+            "decision": "anticoagulation ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16374,
+            "end_offset": 16389,
+            "annotation_id": "NG_170"
+        },
+        {
+            "decision": "Afib",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16394,
+            "end_offset": 16398,
+            "annotation_id": "NG_171"
+        },
+        {
+            "decision": "warfarin was stopped and he was given 2mg of vitamin K",
+            "category": "Category 5: Drug related",
+            "start_offset": 16404,
+            "end_offset": 16458,
+            "annotation_id": "NG_172"
+        },
+        {
+            "decision": "FiO2 and PEEP requirements subsequently increased with some transient improvement with suctioning",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 16460,
+            "end_offset": 16557,
+            "annotation_id": "NG_173"
+        },
+        {
+            "decision": "patient's respiratory status continued to deteriorate, requiring FIO2 100%, appearing increasingly uncomfortable despite increases in sedating medications.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 16568,
+            "end_offset": 16722,
+            "annotation_id": "NG_174"
+        },
+        {
+            "decision": "increases in sedating medications.",
+            "category": "Category 5: Drug related",
+            "start_offset": 16689,
+            "end_offset": 16722,
+            "annotation_id": "NG_175"
+        },
+        {
+            "decision": "sedating medications. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 16702,
+            "end_offset": 16722,
+            "annotation_id": "NG_176"
+        },
+        {
+            "decision": "The patient's clinical status was discussed with his HCP who ultimately chose to gradually withdraw aggressive medical care over several days. On [**2161-5-15**], per family/HCP request, the ventilator was withdrawn",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 16724,
+            "end_offset": 16939,
+            "annotation_id": "NG_177"
+        },
+        {
+            "decision": "IV pain medications",
+            "category": "Category 5: Drug related",
+            "start_offset": 16975,
+            "end_offset": 16994,
+            "annotation_id": "NG_178"
+        },
+        {
+            "decision": "# Acute respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17112,
+            "end_offset": 17137,
+            "annotation_id": "NG_179"
+        },
+        {
+            "decision": "# Septic shock",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17153,
+            "end_offset": 17165,
+            "annotation_id": "NG_180"
+        },
+        {
+            "decision": "Hypotensive ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17166,
+            "end_offset": 17177,
+            "annotation_id": "NG_181"
+        },
+        {
+            "decision": "vasopressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 17201,
+            "end_offset": 17213,
+            "annotation_id": "NG_182"
+        },
+        {
+            "decision": "improved with volume and treatment of underlying infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17215,
+            "end_offset": 17273,
+            "annotation_id": "NG_183"
+        },
+        {
+            "decision": "Ultimately weaned off pressors,",
+            "category": "Category 5: Drug related",
+            "start_offset": 17275,
+            "end_offset": 17305,
+            "annotation_id": "NG_184"
+        },
+        {
+            "decision": "trach procedure [**5-6**]. ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17344,
+            "end_offset": 17369,
+            "annotation_id": "NG_185"
+        },
+        {
+            "decision": "transitioned to comfort care ",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 17386,
+            "end_offset": 17414,
+            "annotation_id": "NG_186"
+        },
+        {
+            "decision": "# Acute kidney injury",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17455,
+            "end_offset": 17474,
+            "annotation_id": "NG_187"
+        },
+        {
+            "decision": "ATN, likely from poor perfusion while initially septic.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17493,
+            "end_offset": 17547,
+            "annotation_id": "NG_188"
+        },
+        {
+            "decision": "volume boluses",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 17580,
+            "end_offset": 17594,
+            "annotation_id": "NG_189"
+        },
+        {
+            "decision": "and required lasix diuresis.",
+            "category": "Category 5: Drug related",
+            "start_offset": 17642,
+            "end_offset": 17669,
+            "annotation_id": "NG_190"
+        },
+        {
+            "decision": "creatinine intially normalized",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 17675,
+            "end_offset": 17705,
+            "annotation_id": "NG_191"
+        },
+        {
+            "decision": "renal dysfuction gradually insued with associated electrolyte abnormalities.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17716,
+            "end_offset": 17791,
+            "annotation_id": "NG_192"
+        },
+        {
+            "decision": "transitioned to comfort measures",
+            "category": "Category 11: Other - Medical decision to withhold life-sustaining treatment",
+            "start_offset": 17808,
+            "end_offset": 17839,
+            "annotation_id": "NG_193"
+        },
+        {
+            "decision": "Afib with RVR Patient with intermittent Afib. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 17889,
+            "end_offset": 17933,
+            "annotation_id": "NG_194"
+        },
+        {
+            "decision": "amiodarone  1mg/min x 6 hours then 0.5 mg/min for 18 hours however amio d/c??????d on [**5-2**] ",
+            "category": "Category 5: Drug related",
+            "start_offset": 17947,
+            "end_offset": 18042,
+            "annotation_id": "NG_195"
+        },
+        {
+            "decision": "in sinus rhythm ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18058,
+            "end_offset": 18073,
+            "annotation_id": "NG_196"
+        },
+        {
+            "decision": "and LFTs were rising",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 18074,
+            "end_offset": 18094,
+            "annotation_id": "NG_197"
+        },
+        {
+            "decision": "He remained in SR thereafter.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18096,
+            "end_offset": 18124,
+            "annotation_id": "NG_198"
+        },
+        {
+            "decision": "Metoprolol was held metoprolol ",
+            "category": "Category 5: Drug related",
+            "start_offset": 18126,
+            "end_offset": 18156,
+            "annotation_id": "NG_199"
+        },
+        {
+            "decision": " in setting of hypotension, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18157,
+            "end_offset": 18182,
+            "annotation_id": "NG_200"
+        },
+        {
+            "decision": "warfarin was ultimately discontinued",
+            "category": "Category 5: Drug related",
+            "start_offset": 18188,
+            "end_offset": 18224,
+            "annotation_id": "NG_201"
+        },
+        {
+            "decision": "airway bleeding.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18243,
+            "end_offset": 18258,
+            "annotation_id": "NG_202"
+        },
+        {
+            "decision": "in the setting of airway bleeding.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18225,
+            "end_offset": 18258,
+            "annotation_id": "NG_203"
+        },
+        {
+            "decision": "large amount of IV fluids,",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 18334,
+            "end_offset": 18359,
+            "annotation_id": "NG_204"
+        },
+        {
+            "decision": "Anemia and thrombocytopenia: Related to hemodilution in the setting of large amount of IV fluids, marrow suppression in setting of acute infection, and gradual blood loss from pulmonary process.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18263,
+            "end_offset": 18456,
+            "annotation_id": "NG_205"
+        },
+        {
+            "decision": "Foot ulcer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18461,
+            "end_offset": 18471,
+            "annotation_id": "NG_206"
+        },
+        {
+            "decision": "His wound was evaluated by vascular surgery who felt it was stable and not the cause of his sepsis.",
+            "category": "Category 1: Contact related",
+            "start_offset": 18472,
+            "end_offset": 18570,
+            "annotation_id": "NG_207"
+        },
+        {
+            "decision": "asa 81",
+            "category": "Category 5: Drug related",
+            "start_offset": 18599,
+            "end_offset": 18605,
+            "annotation_id": "NG_208"
+        },
+        {
+            "decision": "HCTZ 25",
+            "category": "Category 5: Drug related",
+            "start_offset": 18606,
+            "end_offset": 18613,
+            "annotation_id": "NG_209"
+        },
+        {
+            "decision": "pravastatin 40",
+            "category": "Category 5: Drug related",
+            "start_offset": 18614,
+            "end_offset": 18628,
+            "annotation_id": "NG_210"
+        },
+        {
+            "decision": "percocet 1 tab qHS",
+            "category": "Category 5: Drug related",
+            "start_offset": 18629,
+            "end_offset": 18647,
+            "annotation_id": "NG_211"
+        },
+        {
+            "decision": "Respiratory failure",
+            "category": "Category 3: Defining problem",
+            "start_offset": 18731,
+            "end_offset": 18750,
+            "annotation_id": "NG_212"
+        }
+    ]
+}

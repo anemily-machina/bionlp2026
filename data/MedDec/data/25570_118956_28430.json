@@ -1,0 +1,328 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "25570_118956_28430",
+    "annotations": [
+        {
+            "decision": "h/o etoh abuse",
+            "category": "Category 3: Defining problem",
+            "start_offset": 601,
+            "end_offset": 615,
+            "annotation_id": "HW_000"
+        },
+        {
+            "decision": "glucose intolerance with postprandial hypoglycemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 617,
+            "end_offset": 667,
+            "annotation_id": "HW_001"
+        },
+        {
+            "decision": "motrin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1106,
+            "end_offset": 1112,
+            "annotation_id": "HW_002"
+        },
+        {
+            "decision": "motrin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1478,
+            "end_offset": 1484,
+            "annotation_id": "HW_003"
+        },
+        {
+            "decision": "no weakness/numbness/diplopia/dysarthria/dysphagia; no incoordination.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2305,
+            "end_offset": 2374,
+            "annotation_id": "HW_004"
+        },
+        {
+            "decision": "No cough or illnesses recently, no weight loss",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2376,
+            "end_offset": 2422,
+            "annotation_id": "HW_005"
+        },
+        {
+            "decision": "Brachial plexopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2556,
+            "end_offset": 2575,
+            "annotation_id": "HW_006"
+        },
+        {
+            "decision": "Central serous retinopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2619,
+            "end_offset": 2645,
+            "annotation_id": "HW_007"
+        },
+        {
+            "decision": "Glucose intolerance (postprandial hypoglycemia)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2646,
+            "end_offset": 2692,
+            "annotation_id": "HW_008"
+        },
+        {
+            "decision": "Gen lying in bed in intermittent distress due to pain",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2975,
+            "end_offset": 3028,
+            "annotation_id": "HW_009"
+        },
+        {
+            "decision": "HEENT supple, FROM. Negative Brudzinski",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3029,
+            "end_offset": 3068,
+            "annotation_id": "HW_010"
+        },
+        {
+            "decision": "CV rrr",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3069,
+            "end_offset": 3075,
+            "annotation_id": "HW_011"
+        },
+        {
+            "decision": "Pulm ctab",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3076,
+            "end_offset": 3085,
+            "annotation_id": "HW_012"
+        },
+        {
+            "decision": "Abd soft nt/nd +bs",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3086,
+            "end_offset": 3104,
+            "annotation_id": "HW_013"
+        },
+        {
+            "decision": "Ext no edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3105,
+            "end_offset": 3117,
+            "annotation_id": "HW_014"
+        },
+        {
+            "decision": "MS Awake, alert. Fully oriented",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3125,
+            "end_offset": 3156,
+            "annotation_id": "HW_015"
+        },
+        {
+            "decision": "[**Doctor Last Name 1841**] backwards. Speech normal, naming intact, repetition intact. No neglect. No apraxia. Luria intact b/l.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3158,
+            "end_offset": 3286,
+            "annotation_id": "HW_016"
+        },
+        {
+            "decision": "CN VFF no extinction. EOM full no diplopia or nystagmus. Facial sensation intact LT and PP. Full facial strength. Hearing intact. Palate rises symmetrically. Shrug [**4-6**]. Tongue midline and agile.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3289,
+            "end_offset": 3488,
+            "annotation_id": "HW_017"
+        },
+        {
+            "decision": "Motor normal bulk and tone throughout. No pronator drift   D B T WE FE FF IP Q H DF PF",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3491,
+            "end_offset": 3577,
+            "annotation_id": "HW_018"
+        },
+        {
+            "decision": "Sensory intact to LT,PP,JPS,vibration throughout. No extinction.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3579,
+            "end_offset": 3642,
+            "annotation_id": "HW_019"
+        },
+        {
+            "decision": "Coordination intact FTN, HTS b/l.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3645,
+            "end_offset": 3677,
+            "annotation_id": "HW_020"
+        },
+        {
+            "decision": "Gait narrow stance and gait",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3680,
+            "end_offset": 3707,
+            "annotation_id": "HW_021"
+        },
+        {
+            "decision": "[**2164-9-2**] 05:10AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS (got dilaudid) cocaine-NEG amphetmn-NEG mthdone-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3828,
+            "end_offset": 3947,
+            "annotation_id": "HW_022"
+        },
+        {
+            "decision": "CT done results showed intraparechymal hemmorage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4026,
+            "end_offset": 4074,
+            "annotation_id": "HW_023"
+        },
+        {
+            "decision": "(8mm x 4mm) extending into carotids",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4076,
+            "end_offset": 4110,
+            "annotation_id": "HW_024"
+        },
+        {
+            "decision": "transferred to SICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4111,
+            "end_offset": 4130,
+            "annotation_id": "HW_025"
+        },
+        {
+            "decision": "dilaudid",
+            "category": "Category 5: Drug related",
+            "start_offset": 4163,
+            "end_offset": 4171,
+            "annotation_id": "HW_026"
+        },
+        {
+            "decision": "transferred to [**Hospital6 **]",
+            "category": "Category 1: Contact related",
+            "start_offset": 4187,
+            "end_offset": 4218,
+            "annotation_id": "HW_027"
+        },
+        {
+            "decision": "MRI/A found ACA/MCA aneurysm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4266,
+            "end_offset": 4294,
+            "annotation_id": "HW_028"
+        },
+        {
+            "decision": "keppra",
+            "category": "Category 5: Drug related",
+            "start_offset": 4312,
+            "end_offset": 4318,
+            "annotation_id": "HW_029"
+        },
+        {
+            "decision": "No seizures have been noted. Neuro exam, including cn I, is normal.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4369,
+            "end_offset": 4435,
+            "annotation_id": "HW_030"
+        },
+        {
+            "decision": "Flonase",
+            "category": "Category 5: Drug related",
+            "start_offset": 4464,
+            "end_offset": 4471,
+            "annotation_id": "HW_031"
+        },
+        {
+            "decision": "MVI",
+            "category": "Category 5: Drug related",
+            "start_offset": 4472,
+            "end_offset": 4475,
+            "annotation_id": "HW_032"
+        },
+        {
+            "decision": "Levetiracetam 500 mg PO BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 4500,
+            "end_offset": 4527,
+            "annotation_id": "HW_033"
+        },
+        {
+            "decision": "Pantoprazole 40 mg PO Q24H",
+            "category": "Category 5: Drug related",
+            "start_offset": 4528,
+            "end_offset": 4554,
+            "annotation_id": "HW_034"
+        },
+        {
+            "decision": "Multivitamins 1 CAP PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4555,
+            "end_offset": 4583,
+            "annotation_id": "HW_035"
+        },
+        {
+            "decision": "Thiamine HCl 100 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4584,
+            "end_offset": 4612,
+            "annotation_id": "HW_036"
+        },
+        {
+            "decision": "Folic Acid 1 mg PO DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4613,
+            "end_offset": 4637,
+            "annotation_id": "HW_037"
+        },
+        {
+            "decision": "Oxycodone-Acetaminophen [**12-5**] TAB PO Q4-6H:PRN",
+            "category": "Category 5: Drug related",
+            "start_offset": 4638,
+            "end_offset": 4689,
+            "annotation_id": "HW_038"
+        },
+        {
+            "decision": "Nicotine Patch 14 mg TD DAILY  10",
+            "category": "Category 5: Drug related",
+            "start_offset": 4690,
+            "end_offset": 4723,
+            "annotation_id": "HW_039"
+        },
+        {
+            "decision": "Fluticasone Propionate Nasal 1 SPRY NU DAILY",
+            "category": "Category 5: Drug related",
+            "start_offset": 4724,
+            "end_offset": 4768,
+            "annotation_id": "HW_040"
+        },
+        {
+            "decision": "Labetalol HCl 10 mg IV Q6H:PRN for sbp>160",
+            "category": "Category 5: Drug related",
+            "start_offset": 4769,
+            "end_offset": 4811,
+            "annotation_id": "HW_041"
+        },
+        {
+            "decision": "Lorazepam 0.5 mg IV Q4H:PRN per CIWA scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 4812,
+            "end_offset": 4854,
+            "annotation_id": "HW_042"
+        },
+        {
+            "decision": "transferred to [**Hospital1 112**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 4905,
+            "end_offset": 4939,
+            "annotation_id": "HW_043"
+        },
+        {
+            "decision": "intracerebral hemmorage",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4962,
+            "end_offset": 4985,
+            "annotation_id": "HW_044"
+        },
+        {
+            "decision": "ruptured brain aneurysm",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4986,
+            "end_offset": 5009,
+            "annotation_id": "HW_045"
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "annotator_id": "JVAZNAR",
+    "discharge_summary_id": "40036_198489_4244",
+    "annotations": [
+        {
+            "decision": "fever and cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 263,
+            "end_offset": 283,
+            "annotation_id": "LC_000"
+        },
+        {
+            "decision": "DM2, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 373,
+            "end_offset": 376,
+            "annotation_id": "LC_001"
+        },
+        {
+            "decision": "obesity,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 378,
+            "end_offset": 385,
+            "annotation_id": "LC_002"
+        },
+        {
+            "decision": " GERD, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 387,
+            "end_offset": 391,
+            "annotation_id": "LC_003"
+        },
+        {
+            "decision": " hyperlipidemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 393,
+            "end_offset": 407,
+            "annotation_id": "LC_004"
+        },
+        {
+            "decision": "bandemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 894,
+            "end_offset": 902,
+            "annotation_id": "LC_005"
+        },
+        {
+            "decision": "febrile and found to have leukocytosis, bandemia, hypotension, and spreading erythema of the right leg",
+            "category": "Category 3: Defining problem",
+            "start_offset": 941,
+            "end_offset": 1043,
+            "annotation_id": "LC_006"
+        },
+        {
+            "decision": "4L IVF ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1058,
+            "end_offset": 1064,
+            "annotation_id": "LC_007"
+        },
+        {
+            "decision": "SBP improved to low 100s",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1073,
+            "end_offset": 1097,
+            "annotation_id": "LC_008"
+        },
+        {
+            "decision": "started on vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1107,
+            "end_offset": 1128,
+            "annotation_id": "LC_009"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 1133,
+            "end_offset": 1139,
+            "annotation_id": "LC_010"
+        },
+        {
+            "decision": "He was admitted to [**Hospital Unit Name 153**]",
+            "category": "Category 1: Contact related",
+            "start_offset": 1142,
+            "end_offset": 1189,
+            "annotation_id": "LC_011"
+        },
+        {
+            "decision": "hypotension and infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1197,
+            "end_offset": 1222,
+            "annotation_id": "LC_012"
+        },
+        {
+            "decision": "switched to vancomycin ",
+            "category": "Category 5: Drug related",
+            "start_offset": 1232,
+            "end_offset": 1254,
+            "annotation_id": "LC_013"
+        },
+        {
+            "decision": "cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 1259,
+            "end_offset": 1267,
+            "annotation_id": "LC_014"
+        },
+        {
+            "decision": "He is being transferred to the floor ",
+            "category": "Category 11: Other - No mention to what service the patient was transferred to",
+            "start_offset": 1270,
+            "end_offset": 1306,
+            "annotation_id": "LC_015"
+        },
+        {
+            "decision": "in stable condition.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1307,
+            "end_offset": 1326,
+            "annotation_id": "LC_016"
+        },
+        {
+            "decision": "no headache, heard of hearing at baseline, no blurry vision, no sore throat, no heartburn, no CP, no SOB, has abdominal pain, no N/V",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1554,
+            "end_offset": 1686,
+            "annotation_id": "LC_017"
+        },
+        {
+            "decision": "Has diarrhea, no dysuria, no bleeding, no muscle aches or joint pains",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1689,
+            "end_offset": 1758,
+            "annotation_id": "LC_018"
+        },
+        {
+            "decision": "Had anorexia for 3 days",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1761,
+            "end_offset": 1784,
+            "annotation_id": "LC_019"
+        },
+        {
+            "decision": "DM2, well controlled",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1809,
+            "end_offset": 1829,
+            "annotation_id": "LC_020"
+        },
+        {
+            "decision": "obesity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1830,
+            "end_offset": 1837,
+            "annotation_id": "LC_021"
+        },
+        {
+            "decision": "OCD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1838,
+            "end_offset": 1841,
+            "annotation_id": "LC_022"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1842,
+            "end_offset": 1846,
+            "annotation_id": "LC_023"
+        },
+        {
+            "decision": "squamous cell Ca of the skin, basal cell Ca",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1847,
+            "end_offset": 1890,
+            "annotation_id": "LC_024"
+        },
+        {
+            "decision": "lymphedema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1891,
+            "end_offset": 1901,
+            "annotation_id": "LC_025"
+        },
+        {
+            "decision": "hyperlipidemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1902,
+            "end_offset": 1916,
+            "annotation_id": "LC_026"
+        },
+        {
+            "decision": "colonic polyps",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1917,
+            "end_offset": 1931,
+            "annotation_id": "LC_027"
+        },
+        {
+            "decision": "rosacea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1932,
+            "end_offset": 1939,
+            "annotation_id": "LC_028"
+        },
+        {
+            "decision": "left inguinal hernia not repaired",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1940,
+            "end_offset": 1973,
+            "annotation_id": "LC_029"
+        },
+        {
+            "decision": "Gen slowly speaking, fatigued appearing ruddy-face obese male in NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2159,
+            "end_offset": 2227,
+            "annotation_id": "LC_030"
+        },
+        {
+            "decision": "HEENT rosacea, bilateral conjunctival injection without icterus",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2276,
+            "end_offset": 2339,
+            "annotation_id": "LC_031"
+        },
+        {
+            "decision": "Neck no carotid bruits",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2340,
+            "end_offset": 2362,
+            "annotation_id": "LC_032"
+        },
+        {
+            "decision": "CV RR no mrg",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2363,
+            "end_offset": 2375,
+            "annotation_id": "LC_033"
+        },
+        {
+            "decision": "Pul CTAB no wheezes or rales.  While lying flat he had some audible upper airway wheezes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2376,
+            "end_offset": 2464,
+            "annotation_id": "LC_034"
+        },
+        {
+            "decision": "Abd obese, soft NT, ND",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2465,
+            "end_offset": 2487,
+            "annotation_id": "LC_035"
+        },
+        {
+            "decision": "catheter in",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2491,
+            "end_offset": 2502,
+            "annotation_id": "LC_036"
+        },
+        {
+            "decision": "GU catheter in, external genitalia grossly normal, right inguinal area with some tenderness and streaking of redness beneath inguinal ligament, well demarcated but patchy, shotty LAD in right groin",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2488,
+            "end_offset": 2685,
+            "annotation_id": "LC_037"
+        },
+        {
+            "decision": "Ext bilateral legs with thickened skin bilaterally and 1+ pitting edema, confluent erythema of right leg up to calf but below area of marker, warm, nontender.  Ankle with limited ROM but no pain on active or passive motion.  No foot lesions seen.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2686,
+            "end_offset": 2931,
+            "annotation_id": "LC_038"
+        },
+        {
+            "decision": "Psych calm and appropriate, no tremors",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2933,
+            "end_offset": 2971,
+            "annotation_id": "LC_039"
+        },
+        {
+            "decision": "Neuro EOMI, face symmetric, slight slurring of speech (no change per resident)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2972,
+            "end_offset": 3049,
+            "annotation_id": "LC_040"
+        },
+        {
+            "decision": "marked recession of erythema from original boundaries, with decreased warmth",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3074,
+            "end_offset": 3150,
+            "annotation_id": "LC_041"
+        },
+        {
+            "decision": "+ swelling from knee to ankle, with most significant swelling at ankle",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3154,
+            "end_offset": 3222,
+            "annotation_id": "LC_042"
+        },
+        {
+            "decision": "URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-NEG",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3486,
+            "end_offset": 3590,
+            "annotation_id": "LC_043"
+        },
+        {
+            "decision": "LENI [**2141-8-2**]: No evidence of DVT in right lower extremity",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4030,
+            "end_offset": 4094,
+            "annotation_id": "LC_044"
+        },
+        {
+            "decision": "Right knee effusion with simple fluid",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4311,
+            "end_offset": 4348,
+            "annotation_id": "LC_045"
+        },
+        {
+            "decision": "Markedly edematous right lower extremity with extension into the muscles",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4350,
+            "end_offset": 4422,
+            "annotation_id": "LC_046"
+        },
+        {
+            "decision": "Extensive stranding of the subcutaneous tissues. Myositis is also a possibility in the appropriate clinical setting",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4424,
+            "end_offset": 4539,
+            "annotation_id": "LC_047"
+        },
+        {
+            "decision": "No acute fracture or dislocation is seen",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4541,
+            "end_offset": 4581,
+            "annotation_id": "LC_048"
+        },
+        {
+            "decision": "There is no free air",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4583,
+            "end_offset": 4603,
+            "annotation_id": "LC_049"
+        },
+        {
+            "decision": "Cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4635,
+            "end_offset": 4645,
+            "annotation_id": "LC_050"
+        },
+        {
+            "decision": "Quite extensive, and patient initially hypotensive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4648,
+            "end_offset": 4698,
+            "annotation_id": "LC_051"
+        },
+        {
+            "decision": "elevated wbc count",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4709,
+            "end_offset": 4727,
+            "annotation_id": "LC_052"
+        },
+        {
+            "decision": "initially started on broad spectrum abx (vancomycin",
+            "category": "Category 5: Drug related",
+            "start_offset": 4737,
+            "end_offset": 4788,
+            "annotation_id": "LC_053"
+        },
+        {
+            "decision": "cefepime",
+            "category": "Category 5: Drug related",
+            "start_offset": 4789,
+            "end_offset": 4797,
+            "annotation_id": "LC_054"
+        },
+        {
+            "decision": "flagyl",
+            "category": "Category 5: Drug related",
+            "start_offset": 4798,
+            "end_offset": 4804,
+            "annotation_id": "LC_055"
+        },
+        {
+            "decision": "surgical service ",
+            "category": "Category 1: Contact related",
+            "start_offset": 4992,
+            "end_offset": 5008,
+            "annotation_id": "LC_056"
+        },
+        {
+            "decision": "ct scan of the leg was obtained to r/o a deeper infection in the tissue or muscle.  CT scan did not reveal any evidence of this, and surgical service did not feel that this was a complicated cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4859,
+            "end_offset": 5060,
+            "annotation_id": "LC_057"
+        },
+        {
+            "decision": "He was seen by the ID service",
+            "category": "Category 1: Contact related",
+            "start_offset": 5063,
+            "end_offset": 5092,
+            "annotation_id": "LC_058"
+        },
+        {
+            "decision": "felt that the causative organism was most likely strep",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5097,
+            "end_offset": 5151,
+            "annotation_id": "LC_059"
+        },
+        {
+            "decision": "was started on ceftrixone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5159,
+            "end_offset": 5184,
+            "annotation_id": "LC_060"
+        },
+        {
+            "decision": "His leg improved significantly on this treatment - decreased redness/swelling/warmth",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5187,
+            "end_offset": 5271,
+            "annotation_id": "LC_061"
+        },
+        {
+            "decision": "IV abx",
+            "category": "Category 5: Drug related",
+            "start_offset": 5337,
+            "end_offset": 5343,
+            "annotation_id": "LC_062"
+        },
+        {
+            "decision": ", followed by f/u in [**Hospital **] clinic to determine if a more prolonged course is required.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5345,
+            "end_offset": 5438,
+            "annotation_id": "LC_063"
+        },
+        {
+            "decision": "LEg swelling much improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5440,
+            "end_offset": 5466,
+            "annotation_id": "LC_064"
+        },
+        {
+            "decision": "by use of an ace bandage.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 5467,
+            "end_offset": 5491,
+            "annotation_id": "LC_065"
+        },
+        {
+            "decision": "Acute Kidney Injury: Secondary to pre-renal azotemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5497,
+            "end_offset": 5549,
+            "annotation_id": "LC_066"
+        },
+        {
+            "decision": "and use of ACE-I. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5550,
+            "end_offset": 5566,
+            "annotation_id": "LC_067"
+        },
+        {
+            "decision": "Creatinine normalized by discharged",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5569,
+            "end_offset": 5604,
+            "annotation_id": "LC_068"
+        },
+        {
+            "decision": "DM: Well controlled. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5610,
+            "end_offset": 5629,
+            "annotation_id": "LC_069"
+        },
+        {
+            "decision": "Continue insulin sliding scale",
+            "category": "Category 5: Drug related",
+            "start_offset": 5631,
+            "end_offset": 5661,
+            "annotation_id": "LC_070"
+        },
+        {
+            "decision": " needs to be started on metformin as outpatient",
+            "category": "Category 5: Drug related",
+            "start_offset": 5680,
+            "end_offset": 5726,
+            "annotation_id": "LC_071"
+        },
+        {
+            "decision": "Depression",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5732,
+            "end_offset": 5742,
+            "annotation_id": "LC_072"
+        },
+        {
+            "decision": "continue home fluoxetine",
+            "category": "Category 5: Drug related",
+            "start_offset": 5744,
+            "end_offset": 5768,
+            "annotation_id": "LC_073"
+        },
+        {
+            "decision": "HLD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5774,
+            "end_offset": 5777,
+            "annotation_id": "LC_074"
+        },
+        {
+            "decision": " continue home statin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5779,
+            "end_offset": 5799,
+            "annotation_id": "LC_075"
+        },
+        {
+            "decision": "Lung mass",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5805,
+            "end_offset": 5814,
+            "annotation_id": "LC_076"
+        },
+        {
+            "decision": "CXR on admission:  \"There is an increased opacity above the aortic arch along with a lobulated density in the right mediastinum, these findings are suspicious for a mass",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5817,
+            "end_offset": 5986,
+            "annotation_id": "LC_077"
+        },
+        {
+            "decision": "should be further evaluated with a CT scan with IV contrast\". This finding was discussed with the patient, and a ct scan of the chest was ordered but not completed",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 5991,
+            "end_offset": 6154,
+            "annotation_id": "LC_078"
+        },
+        {
+            "decision": "arrangements for a f/u ct scan will be made as an outpatient.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6204,
+            "end_offset": 6264,
+            "annotation_id": "LC_079"
+        },
+        {
+            "decision": "fluoxetine 60 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6294,
+            "end_offset": 6313,
+            "annotation_id": "LC_080"
+        },
+        {
+            "decision": "levaquin 500 daily (took one, has nine pills left)",
+            "category": "Category 5: Drug related",
+            "start_offset": 6314,
+            "end_offset": 6363,
+            "annotation_id": "LC_081"
+        },
+        {
+            "decision": "lisinopril 10 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6365,
+            "end_offset": 6384,
+            "annotation_id": "LC_082"
+        },
+        {
+            "decision": "lovastatin 20 daily",
+            "category": "Category 5: Drug related",
+            "start_offset": 6385,
+            "end_offset": 6404,
+            "annotation_id": "LC_083"
+        },
+        {
+            "decision": "sulfacetamide 10% topically to face ",
+            "category": "Category 5: Drug related",
+            "start_offset": 6405,
+            "end_offset": 6440,
+            "annotation_id": "LC_084"
+        },
+        {
+            "decision": "Fluoxetine 20 mg Capsule Sig: Three (3) Capsule PO DAILY (Daily).",
+            "category": "Category 5: Drug related",
+            "start_offset": 6468,
+            "end_offset": 6531,
+            "annotation_id": "LC_085"
+        },
+        {
+            "decision": "Ceftriaxone 2 gram Piggyback Sig: One (1)  Intravenous once a day for 6 days. Disp:*6 1* Refills:*0*",
+            "category": "Category 5: Drug related",
+            "start_offset": 6537,
+            "end_offset": 6637,
+            "annotation_id": "LC_086"
+        },
+        {
+            "decision": "Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6641,
+            "end_offset": 6698,
+            "annotation_id": "LC_087"
+        },
+        {
+            "decision": "Lovastatin 20 mg Tablet Sig: One (1) Tablet PO once a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 6703,
+            "end_offset": 6760,
+            "annotation_id": "LC_088"
+        },
+        {
+            "decision": "Cellulitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6863,
+            "end_offset": 6873,
+            "annotation_id": "LC_089"
+        },
+        {
+            "decision": "Finding on chest xray - requiring follow chest cat scan.",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 6878,
+            "end_offset": 6933,
+            "annotation_id": "LC_090"
+        },
+        {
+            "decision": "Diabetes Mellitus, Type 2",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6939,
+            "end_offset": 6964,
+            "annotation_id": "LC_091"
+        },
+        {
+            "decision": "Hypertension",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6969,
+            "end_offset": 6981,
+            "annotation_id": "LC_092"
+        },
+        {
+            "decision": "Acute Kidney Injury - resolved.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6986,
+            "end_offset": 7016,
+            "annotation_id": "LC_093"
+        },
+        {
+            "decision": "Mental Status: Clear and coherent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7041,
+            "end_offset": 7074,
+            "annotation_id": "LC_094"
+        },
+        {
+            "decision": "Level of Consciousness: Alert and interactive",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7076,
+            "end_offset": 7121,
+            "annotation_id": "LC_095"
+        },
+        {
+            "decision": "Activity Status: Ambulatory - Independent",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7123,
+            "end_offset": 7164,
+            "annotation_id": "LC_096"
+        },
+        {
+            "decision": "cellulitis, and infection of the skin. Your infection is quite extensive ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7215,
+            "end_offset": 7287,
+            "annotation_id": "LC_097"
+        },
+        {
+            "decision": "requires prolonged treatment with IV antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7292,
+            "end_offset": 7340,
+            "annotation_id": "LC_098"
+        },
+        {
+            "decision": "Midline IV ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7375,
+            "end_offset": 7385,
+            "annotation_id": "LC_099"
+        },
+        {
+            "decision": "you will be instructed on how to administer your IV antibiotics, which, is Ceftriaxone 2grams daily.  Please continue this antibiotic until your followup in the Infectious Disease Clinic on [**2141-8-15**].  ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7408,
+            "end_offset": 7613,
+            "annotation_id": "LC_100"
+        },
+        {
+            "decision": "followup in the Infectious Disease Clinic on [**2141-8-15**].  ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7553,
+            "end_offset": 7613,
+            "annotation_id": "LC_101"
+        },
+        {
+            "decision": "continue to apply a bandaid to the right fifth toe where you were initially cut until that area heals",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7629,
+            "end_offset": 7730,
+            "annotation_id": "LC_102"
+        },
+        {
+            "decision": "Please apply an ACE bandage around the leg daily so as to help with the swelling",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7733,
+            "end_offset": 7813,
+            "annotation_id": "LC_103"
+        },
+        {
+            "decision": "You need a cat scan of your chest.  ",
+            "category": "Category 2: Gathering additional information",
+            "start_offset": 7815,
+            "end_offset": 7848,
+            "annotation_id": "LC_104"
+        },
+        {
+            "decision": "You need a cat scan of your chest.  Dr [**First Name (STitle) **] will assist in making an appointment for this cat scan.  You will receive either a letter or call regarding the timing of this test.  If you do not hear anything about this within a week please contact him",
+            "category": "Category 9: Advice and precaution",
+            "start_offset": 7815,
+            "end_offset": 8086,
+            "annotation_id": "LC_105"
+        },
+        {
+            "decision": "When: TUESDAY [**2141-8-15**] at 2:30 PM With: URGENT CARE ID [**Telephone/Fax (1) 457**] Building: LM [**Hospital Unit Name **] [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 8143,
+            "end_offset": 8355,
+            "annotation_id": "LC_106"
+        },
+        {
+            "decision": "When: TUESDAY [**2141-9-19**] at 4:30 PM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D. [**Telephone/Fax (1) 250**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage",
+            "category": "Category 1: Contact related",
+            "start_offset": 8389,
+            "end_offset": 8651,
+            "annotation_id": "LC_107"
+        }
+    ]
+}

@@ -1,0 +1,867 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "15124_128265_22287",
+    "annotations": [
+        {
+            "decision": "Transfer for HUS/TTP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 182,
+            "end_offset": 202,
+            "annotation_id": "CV_000"
+        },
+        {
+            "decision": "Plasmapheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 242,
+            "end_offset": 256,
+            "annotation_id": "CV_001"
+        },
+        {
+            "decision": "Central venous & arterial line placement",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 257,
+            "end_offset": 297,
+            "annotation_id": "CV_002"
+        },
+        {
+            "decision": "Hemodialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 298,
+            "end_offset": 310,
+            "annotation_id": "CV_003"
+        },
+        {
+            "decision": "Fiberoptic endotracheal intubation",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 311,
+            "end_offset": 345,
+            "annotation_id": "CV_004"
+        },
+        {
+            "decision": "h/o HTN, hypothyroidism, CAD, and h/o GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 391,
+            "end_offset": 437,
+            "annotation_id": "CV_005"
+        },
+        {
+            "decision": "a transfer from [**Hospital 12017**] Hospital ",
+            "category": "Category 1: Contact related",
+            "start_offset": 450,
+            "end_offset": 495,
+            "annotation_id": "CV_006"
+        },
+        {
+            "decision": "HUS/TTP",
+            "category": "Category 3: Defining problem",
+            "start_offset": 501,
+            "end_offset": 508,
+            "annotation_id": "CV_007"
+        },
+        {
+            "decision": "plasmapheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 522,
+            "end_offset": 536,
+            "annotation_id": "CV_008"
+        },
+        {
+            "decision": "CT scan done at that time revealed a moderate hiatal hernia and diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 706,
+            "end_offset": 784,
+            "annotation_id": "CV_009"
+        },
+        {
+            "decision": "A follow up CT scan done 6 weeks later revealed possibility of SBO, but otherwise was unremarkable.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 787,
+            "end_offset": 885,
+            "annotation_id": "CV_010"
+        },
+        {
+            "decision": "worsening myalgias and LE edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 975,
+            "end_offset": 1006,
+            "annotation_id": "CV_011"
+        },
+        {
+            "decision": "variant of PMR",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1031,
+            "end_offset": 1045,
+            "annotation_id": "CV_012"
+        },
+        {
+            "decision": "started on prednisone at 10mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 1055,
+            "end_offset": 1090,
+            "annotation_id": "CV_013"
+        },
+        {
+            "decision": "Initially, his myalgias improved; however, he developed nausea, vomiting, and diarrhea ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1092,
+            "end_offset": 1178,
+            "annotation_id": "CV_014"
+        },
+        {
+            "decision": "IV hydration",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 1224,
+            "end_offset": 1236,
+            "annotation_id": "CV_015"
+        },
+        {
+            "decision": "and antibiotics",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1237,
+            "end_offset": 1252,
+            "annotation_id": "CV_016"
+        },
+        {
+            "decision": "His N/V was thought to be [**1-31**] to viral gastroenteritis ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1255,
+            "end_offset": 1316,
+            "annotation_id": "CV_017"
+        },
+        {
+            "decision": "progressively worsening lower extremity edema",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1402,
+            "end_offset": 1447,
+            "annotation_id": "CV_018"
+        },
+        {
+            "decision": "He was seen by Rheumatology ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1450,
+            "end_offset": 1477,
+            "annotation_id": "CV_019"
+        },
+        {
+            "decision": "possible pericardial disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1538,
+            "end_offset": 1566,
+            "annotation_id": "CV_020"
+        },
+        {
+            "decision": ".  A CT of the thorax showed the possibility of interstitial fibrosis and a pericardial effusion.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1569,
+            "end_offset": 1662,
+            "annotation_id": "CV_021"
+        },
+        {
+            "decision": "A TTE was performed which showed possible aortic valve vegetation",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 1665,
+            "end_offset": 1730,
+            "annotation_id": "CV_022"
+        },
+        {
+            "decision": "He was then admitted [**Hospital3 9947**] on [**2180-7-18**] for further evaluation of these findings by Dr. [**Last Name (STitle) **] (rheumatology) ",
+            "category": "Category 1: Contact related",
+            "start_offset": 1733,
+            "end_offset": 1881,
+            "annotation_id": "CV_023"
+        },
+        {
+            "decision": "persistent lower extremity edema, N/V/D",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1898,
+            "end_offset": 1937,
+            "annotation_id": "CV_024"
+        },
+        {
+            "decision": "underwent a TEE, which showed only a small pericardial effusion anterior to the RV without evidence of the aortic valve vegetation",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1966,
+            "end_offset": 2096,
+            "annotation_id": "CV_025"
+        },
+        {
+            "decision": "cardiac catheterization was performed, showing no evidence of constrictive physiology",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2101,
+            "end_offset": 2186,
+            "annotation_id": "CV_026"
+        },
+        {
+            "decision": "limited scleroderma",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2222,
+            "end_offset": 2241,
+            "annotation_id": "CV_027"
+        },
+        {
+            "decision": "diarrhea was possibly secondary to bacterial overgrowth",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2260,
+            "end_offset": 2315,
+            "annotation_id": "CV_028"
+        },
+        {
+            "decision": "recommended a course of antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2320,
+            "end_offset": 2355,
+            "annotation_id": "CV_029"
+        },
+        {
+            "decision": "pt's edema improved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2374,
+            "end_offset": 2393,
+            "annotation_id": "CV_030"
+        },
+        {
+            "decision": "lasix",
+            "category": "Category 5: Drug related",
+            "start_offset": 2400,
+            "end_offset": 2405,
+            "annotation_id": "CV_031"
+        },
+        {
+            "decision": "14 day course of tetracycline.",
+            "category": "Category 5: Drug related",
+            "start_offset": 2449,
+            "end_offset": 2478,
+            "annotation_id": "CV_032"
+        },
+        {
+            "decision": "progressively worsening weakness, N/V/D, and arthralgias.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2589,
+            "end_offset": 2645,
+            "annotation_id": "CV_033"
+        },
+        {
+            "decision": "An exploratory laparocopy with small bowel biopsy was performed for r/o partial SBO",
+            "category": "Category 11: Other",
+            "start_offset": 2648,
+            "end_offset": 2731,
+            "annotation_id": "CV_034"
+        },
+        {
+            "decision": "patient developed progressive anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2787,
+            "end_offset": 2823,
+            "annotation_id": "CV_035"
+        },
+        {
+            "decision": " Cr has bumped from 1.8 to 4.4",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2861,
+            "end_offset": 2890,
+            "annotation_id": "CV_036"
+        },
+        {
+            "decision": "hemodialysis was begun today",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 2895,
+            "end_offset": 2923,
+            "annotation_id": "CV_037"
+        },
+        {
+            "decision": "His platelets have also dropped from 200 --> 64",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2926,
+            "end_offset": 2973,
+            "annotation_id": "CV_038"
+        },
+        {
+            "decision": "He continues to experience persistent nausea, vomiting, and intermittent diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3043,
+            "end_offset": 3124,
+            "annotation_id": "CV_039"
+        },
+        {
+            "decision": "evaluated by renal at the OSH ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3134,
+            "end_offset": 3163,
+            "annotation_id": "CV_040"
+        },
+        {
+            "decision": "He was also seen by Rheumatology ",
+            "category": "Category 1: Contact related",
+            "start_offset": 3233,
+            "end_offset": 3265,
+            "annotation_id": "CV_041"
+        },
+        {
+            "decision": "possibility of SLE was entertained",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3274,
+            "end_offset": 3308,
+            "annotation_id": "CV_042"
+        },
+        {
+            "decision": "started on IV steroids",
+            "category": "Category 5: Drug related",
+            "start_offset": 3317,
+            "end_offset": 3339,
+            "annotation_id": "CV_043"
+        },
+        {
+            "decision": "He was also seen by GI and Surgery for work up",
+            "category": "Category 1: Contact related",
+            "start_offset": 3342,
+            "end_offset": 3388,
+            "annotation_id": "CV_044"
+        },
+        {
+            "decision": "persistent diarrhea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3396,
+            "end_offset": 3415,
+            "annotation_id": "CV_045"
+        },
+        {
+            "decision": "A colonoscopy was performed, which was negative",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3418,
+            "end_offset": 3465,
+            "annotation_id": "CV_046"
+        },
+        {
+            "decision": "He was transfused one unit of pRBC ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3513,
+            "end_offset": 3547,
+            "annotation_id": "CV_047"
+        },
+        {
+            "decision": "continues to c/o nausea when eating.  He describes decreased appetite due to nausea",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3637,
+            "end_offset": 3720,
+            "annotation_id": "CV_048"
+        },
+        {
+            "decision": "c/o slight abdominal pain in the area of his recent surgery",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3726,
+            "end_offset": 3785,
+            "annotation_id": "CV_049"
+        },
+        {
+            "decision": "HTN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3868,
+            "end_offset": 3871,
+            "annotation_id": "CV_050"
+        },
+        {
+            "decision": "Hypothyroidism",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3875,
+            "end_offset": 3889,
+            "annotation_id": "CV_051"
+        },
+        {
+            "decision": "Anemia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3893,
+            "end_offset": 3899,
+            "annotation_id": "CV_052"
+        },
+        {
+            "decision": "h/o upper GI bleed with EGD showing gastric ectasia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3903,
+            "end_offset": 3954,
+            "annotation_id": "CV_053"
+        },
+        {
+            "decision": "GERD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3959,
+            "end_offset": 3963,
+            "annotation_id": "CV_054"
+        },
+        {
+            "decision": "Hiatal Hernia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3967,
+            "end_offset": 3980,
+            "annotation_id": "CV_055"
+        },
+        {
+            "decision": "CAD (positive ETT at OSH)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3984,
+            "end_offset": 4008,
+            "annotation_id": "CV_056"
+        },
+        {
+            "decision": "Diverticulosis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4013,
+            "end_offset": 4027,
+            "annotation_id": "CV_057"
+        },
+        {
+            "decision": "GEN: elderly man, appears comfortable, NAD",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4354,
+            "end_offset": 4396,
+            "annotation_id": "CV_058"
+        },
+        {
+            "decision": "HEENT: PERRL OU, EOMI intact bilat, mildly icteric sclera, oropharynx clear (no petechiae)",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4397,
+            "end_offset": 4486,
+            "annotation_id": "CV_059"
+        },
+        {
+            "decision": "NECK: Supple, no LAD, no JVD, dialysis catheter in right IJ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4488,
+            "end_offset": 4547,
+            "annotation_id": "CV_060"
+        },
+        {
+            "decision": "HEART: quiet precordium; RRR; + holosystolic murmur loudest @ apex; no r/g",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4548,
+            "end_offset": 4622,
+            "annotation_id": "CV_061"
+        },
+        {
+            "decision": "Lungs: non-tachypneic; no accessory muscle use; + rales [**12-31**] way up lung fields bilaterally; no wheezes/ronchi",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4623,
+            "end_offset": 4740,
+            "annotation_id": "CV_062"
+        },
+        {
+            "decision": "Abd: soft, ND, NABS, appropriately tender diffusely; no HSM.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4741,
+            "end_offset": 4800,
+            "annotation_id": "CV_063"
+        },
+        {
+            "decision": "Ext: 1+ LE pitting edema bilaterally, no petechiae, no ecchymosis, PICC line in right antecubital fossa.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4802,
+            "end_offset": 4905,
+            "annotation_id": "CV_064"
+        },
+        {
+            "decision": "Neuro: CN II-XII intact bilaterally, + hearing loss, A&O x 3, motor and sensory exams intact bilaterally",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4907,
+            "end_offset": 5011,
+            "annotation_id": "CV_065"
+        },
+        {
+            "decision": "[**2180-8-3**] 05:39PM BLOOD Hypochr-1+ Anisocy-2+ Poiklo-2+ Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Spheroc-OCCASIONAL Schisto-1+",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 5274,
+            "end_offset": 5405,
+            "annotation_id": "CV_066"
+        },
+        {
+            "decision": "h/o N/V/diarrhea and recent renal failure with thrombocytopenia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6362,
+            "end_offset": 6425,
+            "annotation_id": "CV_067"
+        },
+        {
+            "decision": "hemolytic anemia with + schistocytes",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6441,
+            "end_offset": 6477,
+            "annotation_id": "CV_068"
+        },
+        {
+            "decision": "high bili/LDH",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 6482,
+            "end_offset": 6495,
+            "annotation_id": "CV_069"
+        },
+        {
+            "decision": "Highest on differential would be TTP/HUS; more likely HUS given presence of renal failure without fever or neuro symptoms (which would be more c/w TTP).",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6497,
+            "end_offset": 6647,
+            "annotation_id": "CV_070"
+        },
+        {
+            "decision": "Another possibility for thrombocytopenia would be HIT; however, this is less lik",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6650,
+            "end_offset": 6733,
+            "annotation_id": "CV_071"
+        },
+        {
+            "decision": "Other less likely possibility would be DIC; however, also unlikely given normal coags",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6735,
+            "end_offset": 6820,
+            "annotation_id": "CV_072"
+        },
+        {
+            "decision": "ITP unlikely in this gentleman as well.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6822,
+            "end_offset": 6860,
+            "annotation_id": "CV_073"
+        },
+        {
+            "decision": "Transfusion team & Hem/Onc consulted and provided guidance ",
+            "category": "Category 1: Contact related",
+            "start_offset": 6863,
+            "end_offset": 6921,
+            "annotation_id": "CV_074"
+        },
+        {
+            "decision": "TTP/HUS ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 6953,
+            "end_offset": 6960,
+            "annotation_id": "CV_075"
+        },
+        {
+            "decision": "treatment of TTP/HUS with plasmapheresis, which was initiatted ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 6940,
+            "end_offset": 7002,
+            "annotation_id": "CV_076"
+        },
+        {
+            "decision": "Pt did not tolerate initial plasmapheresis with development of hypotension,",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7018,
+            "end_offset": 7092,
+            "annotation_id": "CV_077"
+        },
+        {
+            "decision": "subsequently transferred to the MICU ",
+            "category": "Category 1: Contact related",
+            "start_offset": 7105,
+            "end_offset": 7141,
+            "annotation_id": "CV_078"
+        },
+        {
+            "decision": "use of pressors to support BP ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7146,
+            "end_offset": 7175,
+            "annotation_id": "CV_079"
+        },
+        {
+            "decision": "plasmapheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7193,
+            "end_offset": 7207,
+            "annotation_id": "CV_080"
+        },
+        {
+            "decision": "Pt also requiring transfusion of blood products to maintain blood counts",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7209,
+            "end_offset": 7281,
+            "annotation_id": "CV_081"
+        },
+        {
+            "decision": "Pt began to develop pulmonary edema with increasing oxygen demand, ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7284,
+            "end_offset": 7349,
+            "annotation_id": "CV_082"
+        },
+        {
+            "decision": "treated with diuretics",
+            "category": "Category 5: Drug related",
+            "start_offset": 7351,
+            "end_offset": 7373,
+            "annotation_id": "CV_083"
+        },
+        {
+            "decision": "developed bilateral lung consolidation consistent with ARDS-like picture vs pneumonia (also febrile) ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7389,
+            "end_offset": 7488,
+            "annotation_id": "CV_084"
+        },
+        {
+            "decision": "started on antibiotics.",
+            "category": "Category 5: Drug related",
+            "start_offset": 7492,
+            "end_offset": 7514,
+            "annotation_id": "CV_085"
+        },
+        {
+            "decision": "Pt developed respiratory distress & failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7516,
+            "end_offset": 7559,
+            "annotation_id": "CV_086"
+        },
+        {
+            "decision": "requiring intubation on the morning of [**8-6**] by anesthesia - very difficult & prolonged intubation requiring fiberoptics",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7560,
+            "end_offset": 7684,
+            "annotation_id": "CV_087"
+        },
+        {
+            "decision": "Pt also with acute renal failure due to HUS/TTP & ATN",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7687,
+            "end_offset": 7740,
+            "annotation_id": "CV_088"
+        },
+        {
+            "decision": "required hemodialysis ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7747,
+            "end_offset": 7768,
+            "annotation_id": "CV_089"
+        },
+        {
+            "decision": "fluid overload",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7773,
+            "end_offset": 7787,
+            "annotation_id": "CV_090"
+        },
+        {
+            "decision": "Pt developed enterococcus UTI ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7790,
+            "end_offset": 7819,
+            "annotation_id": "CV_091"
+        },
+        {
+            "decision": "treated with antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 7830,
+            "end_offset": 7854,
+            "annotation_id": "CV_092"
+        },
+        {
+            "decision": "able to be weaned off of pressors ",
+            "category": "Category 5: Drug related",
+            "start_offset": 7877,
+            "end_offset": 7910,
+            "annotation_id": "CV_093"
+        },
+        {
+            "decision": "rising platelet counts ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 7917,
+            "end_offset": 7939,
+            "annotation_id": "CV_094"
+        },
+        {
+            "decision": "plasmapheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 7956,
+            "end_offset": 7970,
+            "annotation_id": "CV_095"
+        },
+        {
+            "decision": "decrease in frequency of treatments",
+            "category": "Category 3: Defining problem",
+            "start_offset": 7988,
+            "end_offset": 8023,
+            "annotation_id": "CV_096"
+        },
+        {
+            "decision": "Pt had episode of emesis with development of aspiration pneumonia, also discovered to have subcutaneous emphysema & pneumomediastinum thought to be secondary to barotrauma.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8026,
+            "end_offset": 8197,
+            "annotation_id": "CV_097"
+        },
+        {
+            "decision": "guiac + ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 8232,
+            "end_offset": 8237,
+            "annotation_id": "CV_098"
+        },
+        {
+            "decision": "Pt had episode of coffee ground/guiac + emesis from NGT",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8200,
+            "end_offset": 8255,
+            "annotation_id": "CV_099"
+        },
+        {
+            "decision": "heparin was stopped & pt continued on PPI.",
+            "category": "Category 5: Drug related",
+            "start_offset": 8262,
+            "end_offset": 8303,
+            "annotation_id": "CV_100"
+        },
+        {
+            "decision": "extubated ",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 8825,
+            "end_offset": 8834,
+            "annotation_id": "CV_101"
+        },
+        {
+            "decision": "provide him with comfort measures only ",
+            "category": "Category 1: Contact related",
+            "start_offset": 8870,
+            "end_offset": 8908,
+            "annotation_id": "CV_102"
+        },
+        {
+            "decision": "respiratory arrest ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 8958,
+            "end_offset": 8976,
+            "annotation_id": "CV_103"
+        },
+        {
+            "decision": "Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 28438**].",
+            "category": "Category 1: Contact related",
+            "start_offset": 9013,
+            "end_offset": 9087,
+            "annotation_id": "CV_104"
+        },
+        {
+            "decision": "Celexa 20mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 9116,
+            "end_offset": 9133,
+            "annotation_id": "CV_105"
+        },
+        {
+            "decision": "Synthroid 50mcg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 9134,
+            "end_offset": 9155,
+            "annotation_id": "CV_106"
+        },
+        {
+            "decision": "Protonix 40mg PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 9156,
+            "end_offset": 9175,
+            "annotation_id": "CV_107"
+        },
+        {
+            "decision": "Solu-medrol 32mg IV BID",
+            "category": "Category 5: Drug related",
+            "start_offset": 9176,
+            "end_offset": 9199,
+            "annotation_id": "CV_108"
+        },
+        {
+            "decision": "Nephrocaps one tab PO QD",
+            "category": "Category 5: Drug related",
+            "start_offset": 9200,
+            "end_offset": 9224,
+            "annotation_id": "CV_109"
+        },
+        {
+            "decision": "HUS/TTP ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9280,
+            "end_offset": 9287,
+            "annotation_id": "CV_110"
+        },
+        {
+            "decision": "plasmapheresis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9298,
+            "end_offset": 9312,
+            "annotation_id": "CV_111"
+        },
+        {
+            "decision": "Renal failure ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9313,
+            "end_offset": 9326,
+            "annotation_id": "CV_112"
+        },
+        {
+            "decision": "hemodialysis",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9337,
+            "end_offset": 9349,
+            "annotation_id": "CV_113"
+        },
+        {
+            "decision": "Hypotension ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9350,
+            "end_offset": 9361,
+            "annotation_id": "CV_114"
+        },
+        {
+            "decision": "pressors",
+            "category": "Category 5: Drug related",
+            "start_offset": 9372,
+            "end_offset": 9380,
+            "annotation_id": "CV_115"
+        },
+        {
+            "decision": "Anemia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9381,
+            "end_offset": 9387,
+            "annotation_id": "CV_116"
+        },
+        {
+            "decision": "transfusions",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 9398,
+            "end_offset": 9410,
+            "annotation_id": "CV_117"
+        },
+        {
+            "decision": "Acute respiratory distress syndrome",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9411,
+            "end_offset": 9446,
+            "annotation_id": "CV_118"
+        },
+        {
+            "decision": "Aspiration pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9447,
+            "end_offset": 9467,
+            "annotation_id": "CV_119"
+        },
+        {
+            "decision": "Upper GI bleed",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9468,
+            "end_offset": 9482,
+            "annotation_id": "CV_120"
+        },
+        {
+            "decision": "Enterococcus urinary tract infection",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9483,
+            "end_offset": 9519,
+            "annotation_id": "CV_121"
+        },
+        {
+            "decision": "Coronary artery disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 9520,
+            "end_offset": 9543,
+            "annotation_id": "CV_122"
+        }
+    ]
+}

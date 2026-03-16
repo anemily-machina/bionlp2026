@@ -1,0 +1,566 @@
+{
+    "annotator_id": "CALIML",
+    "discharge_summary_id": "14716_156711_15341",
+    "annotations": [
+        {
+            "decision": "end-stage liver disease secondary to primary sclerosing cholangitis with associated ulcerative colitis and a history of ascites and hepatic encephalopathy, with a recent admission for hepatic encephalopathy ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 213,
+            "end_offset": 419,
+            "annotation_id": "CN_000"
+        },
+        {
+            "decision": "transferred yesterday from an outside hospital ",
+            "category": "Category 1: Contact related",
+            "start_offset": 449,
+            "end_offset": 495,
+            "annotation_id": "CN_001"
+        },
+        {
+            "decision": "change in mental status ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 501,
+            "end_offset": 524,
+            "annotation_id": "CN_002"
+        },
+        {
+            "decision": "found unresponsive ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 529,
+            "end_offset": 547,
+            "annotation_id": "CN_003"
+        },
+        {
+            "decision": "given lactulose ",
+            "category": "Category 5: Drug related",
+            "start_offset": 601,
+            "end_offset": 616,
+            "annotation_id": "CN_004"
+        },
+        {
+            "decision": "improved mental status.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 622,
+            "end_offset": 644,
+            "annotation_id": "CN_005"
+        },
+        {
+            "decision": "Negative for obvious cause of worsening encephalopathy.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 667,
+            "end_offset": 721,
+            "annotation_id": "CN_006"
+        },
+        {
+            "decision": "Urinalysis at outside hospital with few white blood cells. ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 724,
+            "end_offset": 781,
+            "annotation_id": "CN_007"
+        },
+        {
+            "decision": "Chest x-ray shows a right effusion and question of a retrocardiac density",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 784,
+            "end_offset": 857,
+            "annotation_id": "CN_008"
+        },
+        {
+            "decision": "Today the patient feels improved.  Denies focal symptoms.  No abdominal pain, but increased abdominal distention.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 860,
+            "end_offset": 972,
+            "annotation_id": "CN_009"
+        },
+        {
+            "decision": "Primary sclerosing cholangitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1000,
+            "end_offset": 1030,
+            "annotation_id": "CN_010"
+        },
+        {
+            "decision": "Cirrhosis on transplant with ascites and encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1035,
+            "end_offset": 1090,
+            "annotation_id": "CN_011"
+        },
+        {
+            "decision": "Ulcerative colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1095,
+            "end_offset": 1113,
+            "annotation_id": "CN_012"
+        },
+        {
+            "decision": "Cholecystectomy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1118,
+            "end_offset": 1133,
+            "annotation_id": "CN_013"
+        },
+        {
+            "decision": "Hepatic encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1138,
+            "end_offset": 1160,
+            "annotation_id": "CN_014"
+        },
+        {
+            "decision": "Hepatitis C antibody positive, RNA of 0",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1165,
+            "end_offset": 1204,
+            "annotation_id": "CN_015"
+        },
+        {
+            "decision": "Duodenal ulcer",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1209,
+            "end_offset": 1223,
+            "annotation_id": "CN_016"
+        },
+        {
+            "decision": "History of Gram-negative sepsis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1228,
+            "end_offset": 1259,
+            "annotation_id": "CN_017"
+        },
+        {
+            "decision": "Aldactone 150 q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1324,
+            "end_offset": 1343,
+            "annotation_id": "CN_018"
+        },
+        {
+            "decision": "Nadolol 20 q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1348,
+            "end_offset": 1364,
+            "annotation_id": "CN_019"
+        },
+        {
+            "decision": "Ursodiol 900 [**Hospital1 **].",
+            "category": "Category 5: Drug related",
+            "start_offset": 1369,
+            "end_offset": 1398,
+            "annotation_id": "CN_020"
+        },
+        {
+            "decision": "Multivitamin",
+            "category": "Category 5: Drug related",
+            "start_offset": 1403,
+            "end_offset": 1415,
+            "annotation_id": "CN_021"
+        },
+        {
+            "decision": "Calcium carbonate",
+            "category": "Category 5: Drug related",
+            "start_offset": 1420,
+            "end_offset": 1437,
+            "annotation_id": "CN_022"
+        },
+        {
+            "decision": "Iron sulfate",
+            "category": "Category 5: Drug related",
+            "start_offset": 1442,
+            "end_offset": 1454,
+            "annotation_id": "CN_023"
+        },
+        {
+            "decision": "Pentasa 1,000 tid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1459,
+            "end_offset": 1476,
+            "annotation_id": "CN_024"
+        },
+        {
+            "decision": "Protonix 40 q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 1481,
+            "end_offset": 1498,
+            "annotation_id": "CN_025"
+        },
+        {
+            "decision": "General:  Tired, easily arousable. ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1782,
+            "end_offset": 1815,
+            "annotation_id": "CN_026"
+        },
+        {
+            "decision": "HEENT:  Pupils are equal, round, and reactive to light and accommodation.  Extraocular movements are intact.  Mucous membranes are moist.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1818,
+            "end_offset": 1954,
+            "annotation_id": "CN_027"
+        },
+        {
+            "decision": "Pulmonary: Decreased breath sounds at the right base, rales at the left base.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 1957,
+            "end_offset": 2033,
+            "annotation_id": "CN_028"
+        },
+        {
+            "decision": "Cardiac:  Regular, rate, and rhythm, no murmurs, rubs, or gallops.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2036,
+            "end_offset": 2101,
+            "annotation_id": "CN_029"
+        },
+        {
+            "decision": "Abdomen:  Positive bowel sounds, distended, tympanitic, and no tenderness.  ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2104,
+            "end_offset": 2177,
+            "annotation_id": "CN_030"
+        },
+        {
+            "decision": "Extremities:  No edema, warm.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2180,
+            "end_offset": 2208,
+            "annotation_id": "CN_031"
+        },
+        {
+            "decision": "Neurologic:  No focal deficits.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2210,
+            "end_offset": 2240,
+            "annotation_id": "CN_032"
+        },
+        {
+            "decision": "Urinalysis:  No nitrates, moderate blood, and no leukocyte esterase, [**11-21**] reds, 0-2 whites, few bacteria, and no squamous epi's.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2618,
+            "end_offset": 2752,
+            "annotation_id": "CN_033"
+        },
+        {
+            "decision": "Chest x-ray showed retrocardiac density.  Abdominal ultrasound showed small ascites.",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 2755,
+            "end_offset": 2838,
+            "annotation_id": "CN_034"
+        },
+        {
+            "decision": "end-stage liver disease secondary to primary sclerosing cholangitis admitted with worsening hepatic encephalopathy and left lower lobe pneumonia.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 2883,
+            "end_offset": 3027,
+            "annotation_id": "CN_035"
+        },
+        {
+            "decision": "Encephalopathy",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3033,
+            "end_offset": 3047,
+            "annotation_id": "CN_036"
+        },
+        {
+            "decision": "given lactulose ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3066,
+            "end_offset": 3081,
+            "annotation_id": "CN_037"
+        },
+        {
+            "decision": "started on Flagyl 500 mg po bid for decontamination",
+            "category": "Category 5: Drug related",
+            "start_offset": 3122,
+            "end_offset": 3173,
+            "annotation_id": "CN_038"
+        },
+        {
+            "decision": "He improved on this regimen, and was clear in his mental status upon discharge.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3176,
+            "end_offset": 3254,
+            "annotation_id": "CN_039"
+        },
+        {
+            "decision": "no fever ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3286,
+            "end_offset": 3294,
+            "annotation_id": "CN_040"
+        },
+        {
+            "decision": "normal white blood cell count",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3301,
+            "end_offset": 3330,
+            "annotation_id": "CN_041"
+        },
+        {
+            "decision": "some evidence of pneumonia on examination and on his chest x-ray ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3345,
+            "end_offset": 3409,
+            "annotation_id": "CN_042"
+        },
+        {
+            "decision": "left lower lobe infiltrate",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3417,
+            "end_offset": 3443,
+            "annotation_id": "CN_043"
+        },
+        {
+            "decision": "He was initially given ceftriaxone 1 gram po q day and was switched over to po Levaquin to complete a 10 day course of antibiotics",
+            "category": "Category 5: Drug related",
+            "start_offset": 3446,
+            "end_offset": 3576,
+            "annotation_id": "CN_044"
+        },
+        {
+            "decision": "pneumonia",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3585,
+            "end_offset": 3594,
+            "annotation_id": "CN_045"
+        },
+        {
+            "decision": "A diagnostic and mildly therapeutic tap of his ascites was done that did not show any evidence of SBP",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 3597,
+            "end_offset": 3698,
+            "annotation_id": "CN_046"
+        },
+        {
+            "decision": "One liter was removed from his abdomen.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 3701,
+            "end_offset": 3739,
+            "annotation_id": "CN_047"
+        },
+        {
+            "decision": "End-stage liver disease",
+            "category": "Category 3: Defining problem",
+            "start_offset": 3745,
+            "end_offset": 3768,
+            "annotation_id": "CN_048"
+        },
+        {
+            "decision": "The patient was continued on his nadolol, ursodiol",
+            "category": "Category 5: Drug related",
+            "start_offset": 3771,
+            "end_offset": 3821,
+            "annotation_id": "CN_049"
+        },
+        {
+            "decision": "He initially had his spironolactone held for lower blood pressures in the 90s, but this was restarted at 100 mg po q day. ",
+            "category": "Category 5: Drug related",
+            "start_offset": 3824,
+            "end_offset": 3944,
+            "annotation_id": "CN_050"
+        },
+        {
+            "decision": "He was also continued on his Protonix 40 mg po q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 3947,
+            "end_offset": 3999,
+            "annotation_id": "CN_051"
+        },
+        {
+            "decision": "Abdominal distention",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4005,
+            "end_offset": 4025,
+            "annotation_id": "CN_052"
+        },
+        {
+            "decision": "Patient had a level of abdominal distention that was greater than what would be if he just had ascites.",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4028,
+            "end_offset": 4130,
+            "annotation_id": "CN_053"
+        },
+        {
+            "decision": "He had a KUB that did show increased intraluminal bowel gas that was likely secondary to increased gas production from his lactulose.  ",
+            "category": "Category 7: Evaluating test result",
+            "start_offset": 4133,
+            "end_offset": 4265,
+            "annotation_id": "CN_054"
+        },
+        {
+            "decision": "He was started on Flagyl for decontamination to also try to decrease the gas",
+            "category": "Category 5: Drug related",
+            "start_offset": 4268,
+            "end_offset": 4344,
+            "annotation_id": "CN_055"
+        },
+        {
+            "decision": "One liter of ascites was taken off this hospitalization by paracentesis.",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4347,
+            "end_offset": 4418,
+            "annotation_id": "CN_056"
+        },
+        {
+            "decision": "Ulcerative colitis",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4424,
+            "end_offset": 4442,
+            "annotation_id": "CN_057"
+        },
+        {
+            "decision": "no symptoms ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 4461,
+            "end_offset": 4472,
+            "annotation_id": "CN_058"
+        },
+        {
+            "decision": "continued on Pentasa 1,000 mg tid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 4500,
+            "end_offset": 4533,
+            "annotation_id": "CN_059"
+        },
+        {
+            "decision": "He had a post-pyloric tube placed two times during this hospitalization",
+            "category": "Category 6: Therapeutic procedure related",
+            "start_offset": 4742,
+            "end_offset": 4813,
+            "annotation_id": "CN_060"
+        },
+        {
+            "decision": "**].  It was decided that for disposition, that he would be followed as an outpatient Nutrition, Ms. [**Last Name (Titles) 41841**], and the liver service for calorie count while he was on home food that he preferred more.",
+            "category": "Category 1: Contact related",
+            "start_offset": 4895,
+            "end_offset": 5116,
+            "annotation_id": "CN_061"
+        },
+        {
+            "decision": "He will follow up in the Liver Center for outpatient nutrition.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5118,
+            "end_offset": 5180,
+            "annotation_id": "CN_062"
+        },
+        {
+            "decision": "He was continued on his multivitamins and given Boost supplementation.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5183,
+            "end_offset": 5252,
+            "annotation_id": "CN_063"
+        },
+        {
+            "decision": "encephalopathy resolved ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5297,
+            "end_offset": 5320,
+            "annotation_id": "CN_064"
+        },
+        {
+            "decision": "treatment with lactulose and Flagyl ",
+            "category": "Category 5: Drug related",
+            "start_offset": 5327,
+            "end_offset": 5362,
+            "annotation_id": "CN_065"
+        },
+        {
+            "decision": "treatment of his pneumonia ",
+            "category": "Category 3: Defining problem",
+            "start_offset": 5367,
+            "end_offset": 5393,
+            "annotation_id": "CN_066"
+        },
+        {
+            "decision": "ceftriaxone",
+            "category": "Category 5: Drug related",
+            "start_offset": 5399,
+            "end_offset": 5410,
+            "annotation_id": "CN_067"
+        },
+        {
+            "decision": "He will have VNA services at home",
+            "category": "Category 1: Contact related",
+            "start_offset": 5413,
+            "end_offset": 5446,
+            "annotation_id": "CN_068"
+        },
+        {
+            "decision": "He will follow up with Dr. [**Last Name (STitle) 497**] within a week.",
+            "category": "Category 1: Contact related",
+            "start_offset": 5489,
+            "end_offset": 5558,
+            "annotation_id": "CN_069"
+        },
+        {
+            "decision": "Spironolactone 100 mg po q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5587,
+            "end_offset": 5617,
+            "annotation_id": "CN_070"
+        },
+        {
+            "decision": "Flagyl 500 mg po bid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5622,
+            "end_offset": 5642,
+            "annotation_id": "CN_071"
+        },
+        {
+            "decision": "Nadolol 20 mg po q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5647,
+            "end_offset": 5669,
+            "annotation_id": "CN_072"
+        },
+        {
+            "decision": "Ursodiol 900 mg po bid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5674,
+            "end_offset": 5696,
+            "annotation_id": "CN_073"
+        },
+        {
+            "decision": "Pentasa 1,000 mg tid.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5701,
+            "end_offset": 5721,
+            "annotation_id": "CN_074"
+        },
+        {
+            "decision": "Protonix 40 mg po q day.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5726,
+            "end_offset": 5749,
+            "annotation_id": "CN_075"
+        },
+        {
+            "decision": "Iron sulfate.",
+            "category": "Category 5: Drug related",
+            "start_offset": 5754,
+            "end_offset": 5766,
+            "annotation_id": "CN_076"
+        },
+        {
+            "decision": "Calcium carbonate",
+            "category": "Category 5: Drug related",
+            "start_offset": 5771,
+            "end_offset": 5788,
+            "annotation_id": "CN_077"
+        },
+        {
+            "decision": "Multivitamin",
+            "category": "Category 5: Drug related",
+            "start_offset": 5793,
+            "end_offset": 5805,
+            "annotation_id": "CN_078"
+        },
+        {
+            "decision": "Lactulose 15 mL titrated to three bowel movements a day",
+            "category": "Category 5: Drug related",
+            "start_offset": 5811,
+            "end_offset": 5866,
+            "annotation_id": "CN_079"
+        }
+    ]
+}
