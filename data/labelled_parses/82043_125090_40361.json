@@ -1,0 +1,9123 @@
+[
+  {
+    "id": 1,
+    "text": "Admission",
+    "start_char": 0,
+    "end_char": 9,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Date",
+    "start_char": 10,
+    "end_char": 14,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 14,
+    "end_char": 15,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "[",
+    "start_char": 17,
+    "end_char": 18,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "**2147-12-23**]",
+    "start_char": 18,
+    "end_char": 33,
+    "misc": "SpacesAfter=\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "Discharge",
+    "start_char": 47,
+    "end_char": 56,
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "Date",
+    "start_char": 57,
+    "end_char": 61,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": ":",
+    "start_char": 61,
+    "end_char": 62,
+    "misc": "SpacesAfter=\\s\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "[",
+    "start_char": 65,
+    "end_char": 66,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "**2147-12-25**]",
+    "start_char": 66,
+    "end_char": 81,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Date",
+    "start_char": 83,
+    "end_char": 87,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "of",
+    "start_char": 88,
+    "end_char": 90,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Birth",
+    "start_char": 91,
+    "end_char": 96,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": ":",
+    "start_char": 96,
+    "end_char": 97,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "[",
+    "start_char": 99,
+    "end_char": 100,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "**2129-3-3**",
+    "start_char": 100,
+    "end_char": 112,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "]",
+    "start_char": 112,
+    "end_char": 113,
+    "misc": "SpacesAfter=\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Sex",
+    "start_char": 126,
+    "end_char": 129,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 129,
+    "end_char": 130,
+    "misc": "SpacesAfter=\\s\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "M",
+    "start_char": 133,
+    "end_char": 134,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Service",
+    "start_char": 136,
+    "end_char": 143,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 143,
+    "end_char": 144,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "SURGERY",
+    "start_char": 145,
+    "end_char": 152,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Allergies",
+    "start_char": 154,
+    "end_char": 163,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 163,
+    "end_char": 164,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "No",
+    "start_char": 165,
+    "end_char": 167,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Known",
+    "start_char": 168,
+    "end_char": 173,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "Allergies",
+    "start_char": 174,
+    "end_char": 183,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "/",
+    "start_char": 184,
+    "end_char": 185,
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "Adverse",
+    "start_char": 186,
+    "end_char": 193,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "Drug",
+    "start_char": 194,
+    "end_char": 198,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "Reactions",
+    "start_char": 199,
+    "end_char": 208,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Attending",
+    "start_char": 210,
+    "end_char": 219,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":[**",
+    "start_char": 219,
+    "end_char": 223,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Last",
+    "start_char": 223,
+    "end_char": 227,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Name",
+    "start_char": 228,
+    "end_char": 232,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "(",
+    "start_char": 233,
+    "end_char": 234,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "NamePattern1",
+    "start_char": 234,
+    "end_char": 246,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": ")",
+    "start_char": 246,
+    "end_char": 247,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "4659",
+    "start_char": 248,
+    "end_char": 252,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "**]",
+    "start_char": 252,
+    "end_char": 255,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Chief",
+    "start_char": 256,
+    "end_char": 261,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Complaint",
+    "start_char": 262,
+    "end_char": 271,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 271,
+    "end_char": 272,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "abdominal",
+    "start_char": 273,
+    "end_char": 282,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "pain",
+    "start_char": 283,
+    "end_char": 287,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Major",
+    "start_char": 289,
+    "end_char": 294,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Surgical",
+    "start_char": 295,
+    "end_char": 303,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "or",
+    "start_char": 304,
+    "end_char": 306,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Invasive",
+    "start_char": 307,
+    "end_char": 315,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "Procedure",
+    "start_char": 316,
+    "end_char": 325,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": ":",
+    "start_char": 325,
+    "end_char": 326,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "None",
+    "start_char": 327,
+    "end_char": 331,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "History",
+    "start_char": 334,
+    "end_char": 341,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "of",
+    "start_char": 342,
+    "end_char": 344,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Present",
+    "start_char": 345,
+    "end_char": 352,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Illness",
+    "start_char": 353,
+    "end_char": 360,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": ":",
+    "start_char": 360,
+    "end_char": 361,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "This",
+    "start_char": 362,
+    "end_char": 366,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "patient",
+    "start_char": 367,
+    "end_char": 374,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "is",
+    "start_char": 375,
+    "end_char": 377,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "a",
+    "start_char": 378,
+    "end_char": 379,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "18",
+    "start_char": 380,
+    "end_char": 382,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "year",
+    "start_char": 383,
+    "end_char": 387,
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "old",
+    "start_char": 388,
+    "end_char": 391,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "male",
+    "start_char": 392,
+    "end_char": 396,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "who",
+    "start_char": 397,
+    "end_char": 400,
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "complains",
+    "start_char": 401,
+    "end_char": 410,
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "of",
+    "start_char": 411,
+    "end_char": 413,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "HOCKEY",
+    "start_char": 414,
+    "end_char": 420,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "PLAY",
+    "start_char": 421,
+    "end_char": 425,
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "GONE",
+    "start_char": 426,
+    "end_char": 430,
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": "BAD",
+    "start_char": 431,
+    "end_char": 434,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": ".",
+    "start_char": 434,
+    "end_char": 435,
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "pt",
+    "start_char": 436,
+    "end_char": 438,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "arrives",
+    "start_char": 439,
+    "end_char": 446,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "via",
+    "start_char": 447,
+    "end_char": 450,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "ems",
+    "start_char": 451,
+    "end_char": 454,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "from",
+    "start_char": 455,
+    "end_char": 459,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "[",
+    "start_char": 460,
+    "end_char": 461,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "**",
+    "start_char": 461,
+    "end_char": 463,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "Location",
+    "start_char": 463,
+    "end_char": 471,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "(",
+    "start_char": 472,
+    "end_char": 473,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "un",
+    "start_char": 473,
+    "end_char": 475,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": ")",
+    "start_char": 475,
+    "end_char": 476,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "**]",
+    "start_char": 477,
+    "end_char": 480,
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "with",
+    "start_char": 481,
+    "end_char": 485,
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "report",
+    "start_char": 486,
+    "end_char": 492,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": "retroperitoneal",
+    "start_char": 493,
+    "end_char": 508,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 16,
+    "text": "bleed",
+    "start_char": 509,
+    "end_char": 514,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 17,
+    "text": "found",
+    "start_char": 515,
+    "end_char": 520,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "text": "on",
+    "start_char": 521,
+    "end_char": 523,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "text": "CT",
+    "start_char": 524,
+    "end_char": 526,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Abd",
+    "start_char": 527,
+    "end_char": 530,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 21,
+    "text": "-",
+    "start_char": 531,
+    "end_char": 532,
+    "labels": []
+  },
+  {
+    "id": 22,
+    "text": "pt",
+    "start_char": 533,
+    "end_char": 535,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "text": "was",
+    "start_char": 536,
+    "end_char": 539,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "text": "playing",
+    "start_char": 540,
+    "end_char": 547,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 25,
+    "text": "hockey",
+    "start_char": 548,
+    "end_char": 554,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 26,
+    "text": "[",
+    "start_char": 555,
+    "end_char": 556,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 27,
+    "text": "**12",
+    "start_char": 556,
+    "end_char": 560,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 28,
+    "text": "-22",
+    "start_char": 560,
+    "end_char": 563,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 29,
+    "text": "**",
+    "start_char": 563,
+    "end_char": 565,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 30,
+    "text": "]",
+    "start_char": 565,
+    "end_char": 566,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 31,
+    "text": "when",
+    "start_char": 567,
+    "end_char": 571,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "text": "hit",
+    "start_char": 572,
+    "end_char": 575,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 33,
+    "text": "by",
+    "start_char": 576,
+    "end_char": 578,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 34,
+    "text": "another",
+    "start_char": 579,
+    "end_char": 586,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 35,
+    "text": "player",
+    "start_char": 587,
+    "end_char": 593,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 36,
+    "text": "-",
+    "start_char": 594,
+    "end_char": 595,
+    "labels": []
+  },
+  {
+    "id": 37,
+    "text": "pt",
+    "start_char": 596,
+    "end_char": 598,
+    "labels": []
+  },
+  {
+    "id": 38,
+    "text": "c/o",
+    "start_char": 599,
+    "end_char": 602,
+    "labels": []
+  },
+  {
+    "id": 39,
+    "text": "abd",
+    "start_char": 603,
+    "end_char": 606,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 40,
+    "text": "pain",
+    "start_char": 607,
+    "end_char": 611,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 41,
+    "text": "[",
+    "start_char": 612,
+    "end_char": 613,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 42,
+    "text": "**3-15**",
+    "start_char": 613,
+    "end_char": 621,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 43,
+    "text": "]",
+    "start_char": 621,
+    "end_char": 622,
+    "misc": "SpacesAfter=\\n\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Timing",
+    "start_char": 646,
+    "end_char": 652,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 652,
+    "end_char": 653,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Constant",
+    "start_char": 654,
+    "end_char": 662,
+    "misc": "SpacesAfter=\\n\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Quality",
+    "start_char": 685,
+    "end_char": 692,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": ":",
+    "start_char": 692,
+    "end_char": 693,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Dull",
+    "start_char": 694,
+    "end_char": 698,
+    "misc": "SpacesAfter=\\n\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Severity",
+    "start_char": 720,
+    "end_char": 728,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": ":",
+    "start_char": 728,
+    "end_char": 729,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Moderate",
+    "start_char": 730,
+    "end_char": 738,
+    "misc": "SpacesAfter=\\n\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Location",
+    "start_char": 760,
+    "end_char": 768,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": ":",
+    "start_char": 768,
+    "end_char": 769,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": "abd",
+    "start_char": 770,
+    "end_char": 773,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "text": "pain",
+    "start_char": 774,
+    "end_char": 778,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Past",
+    "start_char": 781,
+    "end_char": 785,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Medical",
+    "start_char": 786,
+    "end_char": 793,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "History",
+    "start_char": 794,
+    "end_char": 801,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": ":",
+    "start_char": 801,
+    "end_char": 802,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "none",
+    "start_char": 803,
+    "end_char": 807,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Social",
+    "start_char": 809,
+    "end_char": 815,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "History",
+    "start_char": 816,
+    "end_char": 823,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 823,
+    "end_char": 824,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "denies",
+    "start_char": 825,
+    "end_char": 831,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "drugs",
+    "start_char": 832,
+    "end_char": 837,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Family",
+    "start_char": 839,
+    "end_char": 845,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "History",
+    "start_char": 846,
+    "end_char": 853,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 853,
+    "end_char": 854,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "NC",
+    "start_char": 855,
+    "end_char": 857,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Physical",
+    "start_char": 859,
+    "end_char": 867,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Exam",
+    "start_char": 868,
+    "end_char": 872,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 872,
+    "end_char": 873,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "PHYSICAL",
+    "start_char": 874,
+    "end_char": 882,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "EXAMINATION",
+    "start_char": 883,
+    "end_char": 894,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": ":",
+    "start_char": 894,
+    "end_char": 895,
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "upon",
+    "start_char": 896,
+    "end_char": 900,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "admission",
+    "start_char": 901,
+    "end_char": 910,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "[",
+    "start_char": 911,
+    "end_char": 912,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "**2147-12-24**",
+    "start_char": 912,
+    "end_char": 926,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "]",
+    "start_char": 926,
+    "end_char": 927,
+    "misc": "SpacesAfter=\\n\\n\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Temp:98.3",
+    "start_char": 930,
+    "end_char": 939,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "HR:79",
+    "start_char": 940,
+    "end_char": 945,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "BP:117/62",
+    "start_char": 946,
+    "end_char": 955,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Resp:16",
+    "start_char": 956,
+    "end_char": 963,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "O",
+    "start_char": 964,
+    "end_char": 965,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "(",
+    "start_char": 965,
+    "end_char": 966,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "2",
+    "start_char": 966,
+    "end_char": 967,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": ")",
+    "start_char": 967,
+    "end_char": 968,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "Sat:100",
+    "start_char": 968,
+    "end_char": 975,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Constitutional",
+    "start_char": 977,
+    "end_char": 991,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 991,
+    "end_char": 992,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Comfortable",
+    "start_char": 993,
+    "end_char": 1004,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "HEENT",
+    "start_char": 1005,
+    "end_char": 1010,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": ":",
+    "start_char": 1010,
+    "end_char": 1011,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Normocephalic",
+    "start_char": 1012,
+    "end_char": 1025,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": ",",
+    "start_char": 1025,
+    "end_char": 1026,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "atraumatic",
+    "start_char": 1027,
+    "end_char": 1037,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Oropharynx",
+    "start_char": 1038,
+    "end_char": 1048,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "within",
+    "start_char": 1049,
+    "end_char": 1055,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": "normal",
+    "start_char": 1056,
+    "end_char": 1062,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": "limits",
+    "start_char": 1063,
+    "end_char": 1069,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Skin",
+    "start_char": 1070,
+    "end_char": 1074,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 14,
+    "text": ":",
+    "start_char": 1074,
+    "end_char": 1075,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 15,
+    "text": "No",
+    "start_char": 1076,
+    "end_char": 1078,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 16,
+    "text": "rash",
+    "start_char": 1079,
+    "end_char": 1083,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Neuro",
+    "start_char": 1084,
+    "end_char": 1089,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "text": ":",
+    "start_char": 1089,
+    "end_char": 1090,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Speech",
+    "start_char": 1091,
+    "end_char": 1097,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 20,
+    "text": "fluent",
+    "start_char": 1098,
+    "end_char": 1104,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Psych",
+    "start_char": 1105,
+    "end_char": 1110,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 22,
+    "text": ":",
+    "start_char": 1110,
+    "end_char": 1111,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Normal",
+    "start_char": 1112,
+    "end_char": 1118,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "text": "mood",
+    "start_char": 1119,
+    "end_char": 1123,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Heme",
+    "start_char": 1124,
+    "end_char": 1128,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 26,
+    "text": "/",
+    "start_char": 1128,
+    "end_char": 1129,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 27,
+    "text": "[**",
+    "start_char": 1129,
+    "end_char": 1132,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Last",
+    "start_char": 1132,
+    "end_char": 1136,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Name",
+    "start_char": 1137,
+    "end_char": 1141,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 30,
+    "text": "(",
+    "start_char": 1142,
+    "end_char": 1143,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 31,
+    "text": "un",
+    "start_char": 1143,
+    "end_char": 1145,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "text": ")",
+    "start_char": 1145,
+    "end_char": 1146,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 33,
+    "text": "**]",
+    "start_char": 1147,
+    "end_char": 1150,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 34,
+    "text": "/[**",
+    "start_char": 1150,
+    "end_char": 1154,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Last",
+    "start_char": 1154,
+    "end_char": 1158,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Name",
+    "start_char": 1159,
+    "end_char": 1163,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 37,
+    "text": "(",
+    "start_char": 1164,
+    "end_char": 1165,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 38,
+    "text": "un",
+    "start_char": 1165,
+    "end_char": 1167,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 39,
+    "text": ")",
+    "start_char": 1167,
+    "end_char": 1168,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 40,
+    "text": "**]",
+    "start_char": 1169,
+    "end_char": 1172,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 41,
+    "text": ":",
+    "start_char": 1172,
+    "end_char": 1173,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "No",
+    "start_char": 1174,
+    "end_char": 1176,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "petechiae",
+    "start_char": 1177,
+    "end_char": 1186,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Physical",
+    "start_char": 1188,
+    "end_char": 1196,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "examination",
+    "start_char": 1197,
+    "end_char": 1208,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "upon",
+    "start_char": 1209,
+    "end_char": 1213,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "discharge",
+    "start_char": 1214,
+    "end_char": 1223,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": ":",
+    "start_char": 1223,
+    "end_char": 1224,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "[",
+    "start_char": 1226,
+    "end_char": 1227,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "**2147-12-25**",
+    "start_char": 1227,
+    "end_char": 1241,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "]",
+    "start_char": 1241,
+    "end_char": 1242,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": ":",
+    "start_char": 1242,
+    "end_char": 1243,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Vital",
+    "start_char": 1245,
+    "end_char": 1250,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "signs",
+    "start_char": 1251,
+    "end_char": 1256,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 1256,
+    "end_char": 1257,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "t=97",
+    "start_char": 1259,
+    "end_char": 1263,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": ",",
+    "start_char": 1263,
+    "end_char": 1264,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "bp=118/80",
+    "start_char": 1265,
+    "end_char": 1274,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": ",",
+    "start_char": 1274,
+    "end_char": 1275,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "hr=80",
+    "start_char": 1276,
+    "end_char": 1281,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "-",
+    "start_char": 1281,
+    "end_char": 1282,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "101",
+    "start_char": 1282,
+    "end_char": 1285,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": ",",
+    "start_char": 1285,
+    "end_char": 1286,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "oxygen",
+    "start_char": 1287,
+    "end_char": 1293,
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "saturation",
+    "start_char": 1294,
+    "end_char": 1304,
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "100",
+    "start_char": 1305,
+    "end_char": 1308,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": "%",
+    "start_char": 1308,
+    "end_char": 1309,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "General",
+    "start_char": 1311,
+    "end_char": 1318,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 1318,
+    "end_char": 1319,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Alert",
+    "start_char": 1320,
+    "end_char": 1325,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "and",
+    "start_char": 1326,
+    "end_char": 1329,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "oriented",
+    "start_char": 1330,
+    "end_char": 1338,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": ",",
+    "start_char": 1338,
+    "end_char": 1339,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "sitting",
+    "start_char": 1340,
+    "end_char": 1347,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "in",
+    "start_char": 1348,
+    "end_char": 1350,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "chair",
+    "start_char": 1351,
+    "end_char": 1356,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "CV",
+    "start_char": 1357,
+    "end_char": 1359,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": ":",
+    "start_char": 1359,
+    "end_char": 1360,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ns1",
+    "start_char": 1362,
+    "end_char": 1365,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "text": ",",
+    "start_char": 1365,
+    "end_char": 1366,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 14,
+    "text": "s2",
+    "start_char": 1367,
+    "end_char": 1369,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 15,
+    "text": ",",
+    "start_char": 1369,
+    "end_char": 1370,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 16,
+    "text": "-",
+    "start_char": 1371,
+    "end_char": 1372,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 17,
+    "text": "s,",
+    "start_char": 1372,
+    "end_char": 1374,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "text": "3",
+    "start_char": 1374,
+    "end_char": 1375,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "text": "-",
+    "start_char": 1376,
+    "end_char": 1377,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 20,
+    "text": "s4",
+    "start_char": 1377,
+    "end_char": 1379,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 21,
+    "text": ",",
+    "start_char": 1379,
+    "end_char": 1380,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 22,
+    "text": "no",
+    "start_char": 1381,
+    "end_char": 1383,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "text": "murmurs",
+    "start_char": 1384,
+    "end_char": 1391,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "text": "LUNGS",
+    "start_char": 1392,
+    "end_char": 1397,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 25,
+    "text": ":",
+    "start_char": 1397,
+    "end_char": 1398,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Clear",
+    "start_char": 1400,
+    "end_char": 1405,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 27,
+    "text": "ABDOMEN",
+    "start_char": 1406,
+    "end_char": 1413,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 28,
+    "text": ":",
+    "start_char": 1413,
+    "end_char": 1414,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 29,
+    "text": "soft",
+    "start_char": 1415,
+    "end_char": 1419,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 30,
+    "text": ",",
+    "start_char": 1419,
+    "end_char": 1420,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 31,
+    "text": "mild",
+    "start_char": 1421,
+    "end_char": 1425,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "text": "right",
+    "start_char": 1426,
+    "end_char": 1431,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 33,
+    "text": "sided",
+    "start_char": 1432,
+    "end_char": 1437,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 34,
+    "text": "tenderness",
+    "start_char": 1438,
+    "end_char": 1448,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 35,
+    "text": ",",
+    "start_char": 1448,
+    "end_char": 1449,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 36,
+    "text": "mild",
+    "start_char": 1450,
+    "end_char": 1454,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 37,
+    "text": "CVA",
+    "start_char": 1455,
+    "end_char": 1458,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 38,
+    "text": "tenderness",
+    "start_char": 1459,
+    "end_char": 1469,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 39,
+    "text": "right",
+    "start_char": 1470,
+    "end_char": 1475,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 40,
+    "text": "side",
+    "start_char": 1476,
+    "end_char": 1480,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 41,
+    "text": "EXT",
+    "start_char": 1481,
+    "end_char": 1484,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 42,
+    "text": ":",
+    "start_char": 1484,
+    "end_char": 1485,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 43,
+    "text": "no",
+    "start_char": 1487,
+    "end_char": 1489,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 44,
+    "text": "pedal",
+    "start_char": 1490,
+    "end_char": 1495,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 45,
+    "text": "edema",
+    "start_char": 1496,
+    "end_char": 1501,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 46,
+    "text": "bil",
+    "start_char": 1502,
+    "end_char": 1505,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 47,
+    "text": ".",
+    "start_char": 1505,
+    "end_char": 1506,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Pertinent",
+    "start_char": 1508,
+    "end_char": 1517,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Results",
+    "start_char": 1518,
+    "end_char": 1525,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 1525,
+    "end_char": 1526,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "[",
+    "start_char": 1527,
+    "end_char": 1528,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "**2147-12-23**]",
+    "start_char": 1528,
+    "end_char": 1543,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "04:30",
+    "start_char": 1544,
+    "end_char": 1549,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "AM",
+    "start_char": 1549,
+    "end_char": 1551,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "BLOOD",
+    "start_char": 1552,
+    "end_char": 1557,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "WBC",
+    "start_char": 1558,
+    "end_char": 1561,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "-",
+    "start_char": 1561,
+    "end_char": 1562,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "9.5",
+    "start_char": 1562,
+    "end_char": 1565,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "RBC",
+    "start_char": 1566,
+    "end_char": 1569,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "-",
+    "start_char": 1569,
+    "end_char": 1570,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "4.34",
+    "start_char": 1570,
+    "end_char": 1574,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": "*",
+    "start_char": 1574,
+    "end_char": 1575,
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": "Hgb-13.2*",
+    "start_char": 1576,
+    "end_char": 1585,
+    "labels": []
+  },
+  {
+    "id": 17,
+    "text": "Hct-37.4*",
+    "start_char": 1586,
+    "end_char": 1595,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 18,
+    "text": "MCV",
+    "start_char": 1596,
+    "end_char": 1599,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 19,
+    "text": "-86",
+    "start_char": 1599,
+    "end_char": 1602,
+    "labels": []
+  },
+  {
+    "id": 20,
+    "text": "MCH",
+    "start_char": 1603,
+    "end_char": 1606,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 21,
+    "text": "-",
+    "start_char": 1606,
+    "end_char": 1607,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 22,
+    "text": "30.5",
+    "start_char": 1607,
+    "end_char": 1611,
+    "labels": []
+  },
+  {
+    "id": 23,
+    "text": "MCHC",
+    "start_char": 1612,
+    "end_char": 1616,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 24,
+    "text": "-35.4*",
+    "start_char": 1616,
+    "end_char": 1622,
+    "labels": []
+  },
+  {
+    "id": 25,
+    "text": "RDW",
+    "start_char": 1623,
+    "end_char": 1626,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 26,
+    "text": "-",
+    "start_char": 1626,
+    "end_char": 1627,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 27,
+    "text": "13.2",
+    "start_char": 1627,
+    "end_char": 1631,
+    "labels": []
+  },
+  {
+    "id": 28,
+    "text": "Plt",
+    "start_char": 1632,
+    "end_char": 1635,
+    "labels": []
+  },
+  {
+    "id": 29,
+    "text": "Ct-246",
+    "start_char": 1636,
+    "end_char": 1642,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 30,
+    "text": "[",
+    "start_char": 1643,
+    "end_char": 1644,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 31,
+    "text": "**2147-12-23**]",
+    "start_char": 1644,
+    "end_char": 1659,
+    "labels": []
+  },
+  {
+    "id": 32,
+    "text": "03:02",
+    "start_char": 1660,
+    "end_char": 1665,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 33,
+    "text": "PM",
+    "start_char": 1665,
+    "end_char": 1667,
+    "labels": []
+  },
+  {
+    "id": 34,
+    "text": "BLOOD",
+    "start_char": 1668,
+    "end_char": 1673,
+    "labels": []
+  },
+  {
+    "id": 35,
+    "text": "Hct-34.1*",
+    "start_char": 1674,
+    "end_char": 1683,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 36,
+    "text": "[",
+    "start_char": 1684,
+    "end_char": 1685,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 37,
+    "text": "**2147-12-24**]",
+    "start_char": 1685,
+    "end_char": 1700,
+    "labels": []
+  },
+  {
+    "id": 38,
+    "text": "04:50",
+    "start_char": 1701,
+    "end_char": 1706,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 39,
+    "text": "AM",
+    "start_char": 1706,
+    "end_char": 1708,
+    "labels": []
+  },
+  {
+    "id": 40,
+    "text": "BLOOD",
+    "start_char": 1709,
+    "end_char": 1714,
+    "labels": []
+  },
+  {
+    "id": 41,
+    "text": "Hct-32.2*",
+    "start_char": 1715,
+    "end_char": 1724,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 42,
+    "text": "[",
+    "start_char": 1725,
+    "end_char": 1726,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 43,
+    "text": "**2147-12-25**]",
+    "start_char": 1726,
+    "end_char": 1741,
+    "labels": []
+  },
+  {
+    "id": 44,
+    "text": "04:50",
+    "start_char": 1742,
+    "end_char": 1747,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 45,
+    "text": "AM",
+    "start_char": 1747,
+    "end_char": 1749,
+    "labels": []
+  },
+  {
+    "id": 46,
+    "text": "BLOOD",
+    "start_char": 1750,
+    "end_char": 1755,
+    "labels": []
+  },
+  {
+    "id": 47,
+    "text": "Hct-32.8*",
+    "start_char": 1756,
+    "end_char": 1765,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 48,
+    "text": "[",
+    "start_char": 1766,
+    "end_char": 1767,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 49,
+    "text": "**2147-12-23**]",
+    "start_char": 1767,
+    "end_char": 1782,
+    "labels": []
+  },
+  {
+    "id": 50,
+    "text": "04:30",
+    "start_char": 1783,
+    "end_char": 1788,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 51,
+    "text": "AM",
+    "start_char": 1788,
+    "end_char": 1790,
+    "labels": []
+  },
+  {
+    "id": 52,
+    "text": "BLOOD",
+    "start_char": 1791,
+    "end_char": 1796,
+    "labels": []
+  },
+  {
+    "id": 53,
+    "text": "Neuts",
+    "start_char": 1797,
+    "end_char": 1802,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 54,
+    "text": "-",
+    "start_char": 1802,
+    "end_char": 1803,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 55,
+    "text": "67.4",
+    "start_char": 1803,
+    "end_char": 1807,
+    "labels": []
+  },
+  {
+    "id": 56,
+    "text": "Lymphs-25.5",
+    "start_char": 1808,
+    "end_char": 1819,
+    "labels": []
+  },
+  {
+    "id": 57,
+    "text": "Monos-5.9",
+    "start_char": 1820,
+    "end_char": 1829,
+    "labels": []
+  },
+  {
+    "id": 58,
+    "text": "Eos-0.3",
+    "start_char": 1830,
+    "end_char": 1837,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 59,
+    "text": "Baso",
+    "start_char": 1838,
+    "end_char": 1842,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 60,
+    "text": "-0.9",
+    "start_char": 1842,
+    "end_char": 1846,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 61,
+    "text": "[",
+    "start_char": 1847,
+    "end_char": 1848,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 62,
+    "text": "**2147-12-23**]",
+    "start_char": 1848,
+    "end_char": 1863,
+    "labels": []
+  },
+  {
+    "id": 63,
+    "text": "04:30",
+    "start_char": 1864,
+    "end_char": 1869,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 64,
+    "text": "AM",
+    "start_char": 1869,
+    "end_char": 1871,
+    "labels": []
+  },
+  {
+    "id": 65,
+    "text": "BLOOD",
+    "start_char": 1872,
+    "end_char": 1877,
+    "labels": []
+  },
+  {
+    "id": 66,
+    "text": "PT",
+    "start_char": 1878,
+    "end_char": 1880,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 67,
+    "text": "-15.3*",
+    "start_char": 1880,
+    "end_char": 1886,
+    "labels": []
+  },
+  {
+    "id": 68,
+    "text": "PTT",
+    "start_char": 1887,
+    "end_char": 1890,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 69,
+    "text": "-22.4",
+    "start_char": 1890,
+    "end_char": 1895,
+    "labels": []
+  },
+  {
+    "id": 70,
+    "text": "INR",
+    "start_char": 1896,
+    "end_char": 1899,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 71,
+    "text": "(",
+    "start_char": 1899,
+    "end_char": 1900,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 72,
+    "text": "PT",
+    "start_char": 1900,
+    "end_char": 1902,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 73,
+    "text": ")",
+    "start_char": 1902,
+    "end_char": 1903,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 74,
+    "text": "-",
+    "start_char": 1903,
+    "end_char": 1904,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 75,
+    "text": "1.3*",
+    "start_char": 1904,
+    "end_char": 1908,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 76,
+    "text": "[",
+    "start_char": 1909,
+    "end_char": 1910,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 77,
+    "text": "**2147-12-23**]",
+    "start_char": 1910,
+    "end_char": 1925,
+    "labels": []
+  },
+  {
+    "id": 78,
+    "text": "04:30",
+    "start_char": 1926,
+    "end_char": 1931,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 79,
+    "text": "AM",
+    "start_char": 1931,
+    "end_char": 1933,
+    "labels": []
+  },
+  {
+    "id": 80,
+    "text": "BLOOD",
+    "start_char": 1934,
+    "end_char": 1939,
+    "labels": []
+  },
+  {
+    "id": 81,
+    "text": "Plt",
+    "start_char": 1940,
+    "end_char": 1943,
+    "labels": []
+  },
+  {
+    "id": 82,
+    "text": "Ct-246",
+    "start_char": 1944,
+    "end_char": 1950,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 83,
+    "text": "[",
+    "start_char": 1951,
+    "end_char": 1952,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 84,
+    "text": "**2147-12-23**]",
+    "start_char": 1952,
+    "end_char": 1967,
+    "labels": []
+  },
+  {
+    "id": 85,
+    "text": "04:30",
+    "start_char": 1968,
+    "end_char": 1973,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 86,
+    "text": "AM",
+    "start_char": 1973,
+    "end_char": 1975,
+    "labels": []
+  },
+  {
+    "id": 87,
+    "text": "BLOOD",
+    "start_char": 1976,
+    "end_char": 1981,
+    "labels": []
+  },
+  {
+    "id": 88,
+    "text": "Glucose",
+    "start_char": 1982,
+    "end_char": 1989,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 89,
+    "text": "-94",
+    "start_char": 1989,
+    "end_char": 1992,
+    "labels": []
+  },
+  {
+    "id": 90,
+    "text": "UreaN",
+    "start_char": 1993,
+    "end_char": 1998,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 91,
+    "text": "-",
+    "start_char": 1998,
+    "end_char": 1999,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 92,
+    "text": "20",
+    "start_char": 1999,
+    "end_char": 2001,
+    "labels": []
+  },
+  {
+    "id": 93,
+    "text": "Creat",
+    "start_char": 2002,
+    "end_char": 2007,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 94,
+    "text": "-1.2",
+    "start_char": 2007,
+    "end_char": 2011,
+    "labels": []
+  },
+  {
+    "id": 95,
+    "text": "Na-139",
+    "start_char": 2012,
+    "end_char": 2018,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 96,
+    "text": "K",
+    "start_char": 2019,
+    "end_char": 2020,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 97,
+    "text": "-4.0",
+    "start_char": 2020,
+    "end_char": 2024,
+    "labels": []
+  },
+  {
+    "id": 98,
+    "text": "Cl",
+    "start_char": 2025,
+    "end_char": 2027,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 99,
+    "text": "-105",
+    "start_char": 2027,
+    "end_char": 2031,
+    "labels": []
+  },
+  {
+    "id": 100,
+    "text": "HCO3",
+    "start_char": 2032,
+    "end_char": 2036,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 101,
+    "text": "-26",
+    "start_char": 2036,
+    "end_char": 2039,
+    "labels": []
+  },
+  {
+    "id": 102,
+    "text": "AnGap",
+    "start_char": 2040,
+    "end_char": 2045,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 103,
+    "text": "-",
+    "start_char": 2045,
+    "end_char": 2046,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 104,
+    "text": "12",
+    "start_char": 2046,
+    "end_char": 2048,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 105,
+    "text": "[",
+    "start_char": 2049,
+    "end_char": 2050,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 106,
+    "text": "**2147-12-24**]",
+    "start_char": 2050,
+    "end_char": 2065,
+    "labels": []
+  },
+  {
+    "id": 107,
+    "text": "04:50",
+    "start_char": 2066,
+    "end_char": 2071,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 108,
+    "text": "AM",
+    "start_char": 2071,
+    "end_char": 2073,
+    "labels": []
+  },
+  {
+    "id": 109,
+    "text": "BLOOD",
+    "start_char": 2074,
+    "end_char": 2079,
+    "labels": []
+  },
+  {
+    "id": 110,
+    "text": "Glucose",
+    "start_char": 2080,
+    "end_char": 2087,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 111,
+    "text": "-",
+    "start_char": 2087,
+    "end_char": 2088,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 112,
+    "text": "101*",
+    "start_char": 2088,
+    "end_char": 2092,
+    "labels": []
+  },
+  {
+    "id": 113,
+    "text": "UreaN",
+    "start_char": 2093,
+    "end_char": 2098,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 114,
+    "text": "-11",
+    "start_char": 2098,
+    "end_char": 2101,
+    "labels": []
+  },
+  {
+    "id": 115,
+    "text": "Creat",
+    "start_char": 2102,
+    "end_char": 2107,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 116,
+    "text": "-1.1",
+    "start_char": 2107,
+    "end_char": 2111,
+    "labels": []
+  },
+  {
+    "id": 117,
+    "text": "Na-138",
+    "start_char": 2112,
+    "end_char": 2118,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 118,
+    "text": "K-3.5",
+    "start_char": 2119,
+    "end_char": 2124,
+    "labels": []
+  },
+  {
+    "id": 119,
+    "text": "Cl",
+    "start_char": 2125,
+    "end_char": 2127,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 120,
+    "text": "-104",
+    "start_char": 2127,
+    "end_char": 2131,
+    "labels": []
+  },
+  {
+    "id": 121,
+    "text": "HCO3",
+    "start_char": 2132,
+    "end_char": 2136,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 122,
+    "text": "-27",
+    "start_char": 2136,
+    "end_char": 2139,
+    "labels": []
+  },
+  {
+    "id": 123,
+    "text": "AnGap",
+    "start_char": 2140,
+    "end_char": 2145,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 124,
+    "text": "-11",
+    "start_char": 2145,
+    "end_char": 2148,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 125,
+    "text": "[",
+    "start_char": 2149,
+    "end_char": 2150,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 126,
+    "text": "**2147-12-24**]",
+    "start_char": 2150,
+    "end_char": 2165,
+    "labels": []
+  },
+  {
+    "id": 127,
+    "text": "04:50",
+    "start_char": 2166,
+    "end_char": 2171,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 128,
+    "text": "AM",
+    "start_char": 2171,
+    "end_char": 2173,
+    "labels": []
+  },
+  {
+    "id": 129,
+    "text": "BLOOD",
+    "start_char": 2174,
+    "end_char": 2179,
+    "labels": []
+  },
+  {
+    "id": 130,
+    "text": "Calcium",
+    "start_char": 2180,
+    "end_char": 2187,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 131,
+    "text": "-",
+    "start_char": 2187,
+    "end_char": 2188,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 132,
+    "text": "8.9",
+    "start_char": 2188,
+    "end_char": 2191,
+    "labels": []
+  },
+  {
+    "id": 133,
+    "text": "Phos-3.6",
+    "start_char": 2192,
+    "end_char": 2200,
+    "labels": []
+  },
+  {
+    "id": 134,
+    "text": "Mg",
+    "start_char": 2201,
+    "end_char": 2203,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 135,
+    "text": "-1.9",
+    "start_char": 2203,
+    "end_char": 2207,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Hematology",
+    "start_char": 2209,
+    "end_char": 2219,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "GENERAL",
+    "start_char": 2220,
+    "end_char": 2227,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "URINE",
+    "start_char": 2228,
+    "end_char": 2233,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "INFORMATION",
+    "start_char": 2234,
+    "end_char": 2245,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Type",
+    "start_char": 2246,
+    "end_char": 2250,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Color",
+    "start_char": 2251,
+    "end_char": 2256,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Appear",
+    "start_char": 2257,
+    "end_char": 2263,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sp",
+    "start_char": 2264,
+    "end_char": 2266,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "[",
+    "start_char": 2267,
+    "end_char": 2268,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "**",
+    "start_char": 2268,
+    "end_char": 2270,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Last",
+    "start_char": 2270,
+    "end_char": 2274,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Name",
+    "start_char": 2275,
+    "end_char": 2279,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "(",
+    "start_char": 2280,
+    "end_char": 2281,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": "un",
+    "start_char": 2281,
+    "end_char": 2283,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": ")",
+    "start_char": 2283,
+    "end_char": 2284,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": "**]",
+    "start_char": 2285,
+    "end_char": 2288,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "text": "[",
+    "start_char": 2289,
+    "end_char": 2290,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "text": "**2147-12-23**]",
+    "start_char": 2290,
+    "end_char": 2305,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "text": "05:30",
+    "start_char": 2306,
+    "end_char": 2311,
+    "misc": "SpacesAfter=\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Yellow",
+    "start_char": 2317,
+    "end_char": 2323,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Clear",
+    "start_char": 2324,
+    "end_char": 2329,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "text": ">1.050",
+    "start_char": 2330,
+    "end_char": 2336,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 23,
+    "text": "DIPSTICK",
+    "start_char": 2337,
+    "end_char": 2345,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "text": "URINALYSIS",
+    "start_char": 2346,
+    "end_char": 2356,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Blood",
+    "start_char": 2357,
+    "end_char": 2362,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Nitrite",
+    "start_char": 2363,
+    "end_char": 2370,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Protein",
+    "start_char": 2371,
+    "end_char": 2378,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Glucose",
+    "start_char": 2379,
+    "end_char": 2386,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ketone",
+    "start_char": 2387,
+    "end_char": 2393,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Bilirub",
+    "start_char": 2394,
+    "end_char": 2401,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Urobiln",
+    "start_char": 2402,
+    "end_char": 2409,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 32,
+    "text": "pH",
+    "start_char": 2410,
+    "end_char": 2412,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Leuks",
+    "start_char": 2413,
+    "end_char": 2418,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 34,
+    "text": "[",
+    "start_char": 2419,
+    "end_char": 2420,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 35,
+    "text": "**2147-12-23**]",
+    "start_char": 2420,
+    "end_char": 2435,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "text": "05:30",
+    "start_char": 2436,
+    "end_char": 2441,
+    "misc": "SpacesAfter=\\s\\s\\s\\s",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "MOD",
+    "start_char": 2445,
+    "end_char": 2448,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "NEG",
+    "start_char": 2449,
+    "end_char": 2452,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "25",
+    "start_char": 2453,
+    "end_char": 2455,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "NEG",
+    "start_char": 2456,
+    "end_char": 2459,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "TR",
+    "start_char": 2460,
+    "end_char": 2462,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "NEG",
+    "start_char": 2463,
+    "end_char": 2466,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "NEG",
+    "start_char": 2467,
+    "end_char": 2470,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "6.5",
+    "start_char": 2471,
+    "end_char": 2474,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "NEG",
+    "start_char": 2475,
+    "end_char": 2478,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "MICROSCOPIC",
+    "start_char": 2479,
+    "end_char": 2490,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "URINE",
+    "start_char": 2491,
+    "end_char": 2496,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "EXAMINATION",
+    "start_char": 2497,
+    "end_char": 2508,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": "RBC",
+    "start_char": 2509,
+    "end_char": 2512,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": "WBC",
+    "start_char": 2513,
+    "end_char": 2516,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Bacteri",
+    "start_char": 2517,
+    "end_char": 2524,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Yeast",
+    "start_char": 2525,
+    "end_char": 2530,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Epi",
+    "start_char": 2531,
+    "end_char": 2534,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "text": "TransE",
+    "start_char": 2535,
+    "end_char": 2541,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 20,
+    "text": "RenalEp",
+    "start_char": 2542,
+    "end_char": 2549,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "text": "[",
+    "start_char": 2550,
+    "end_char": 2551,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "text": "**2147-12-23**]",
+    "start_char": 2551,
+    "end_char": 2566,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 23,
+    "text": "05:30",
+    "start_char": 2567,
+    "end_char": 2572,
+    "misc": "SpacesAfter=\\s\\s\\s\\s",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "text": "[",
+    "start_char": 2576,
+    "end_char": 2577,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "text": "**12-23**]",
+    "start_char": 2577,
+    "end_char": 2587,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "text": "*",
+    "start_char": 2587,
+    "end_char": 2588,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 27,
+    "text": "0",
+    "start_char": 2589,
+    "end_char": 2590,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 28,
+    "text": "FEW",
+    "start_char": 2591,
+    "end_char": 2594,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 29,
+    "text": "NONE",
+    "start_char": 2595,
+    "end_char": 2599,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 30,
+    "text": "1",
+    "start_char": 2600,
+    "end_char": 2601,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "text": "[**2147-12-23**",
+    "start_char": 2603,
+    "end_char": 2618,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "]",
+    "start_char": 2618,
+    "end_char": 2619,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 2619,
+    "end_char": 2620,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Cat",
+    "start_char": 2622,
+    "end_char": 2625,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "scan",
+    "start_char": 2626,
+    "end_char": 2630,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "from",
+    "start_char": 2631,
+    "end_char": 2635,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "OSH",
+    "start_char": 2636,
+    "end_char": 2639,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": ":",
+    "start_char": 2639,
+    "end_char": 2640,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "IMPRESSION",
+    "start_char": 2642,
+    "end_char": 2652,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 2652,
+    "end_char": 2653,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Right",
+    "start_char": 2654,
+    "end_char": 2659,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "perinephric",
+    "start_char": 2660,
+    "end_char": 2671,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "hemorrhage",
+    "start_char": 2672,
+    "end_char": 2682,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "with",
+    "start_char": 2683,
+    "end_char": 2687,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "extension",
+    "start_char": 2688,
+    "end_char": 2697,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "onto",
+    "start_char": 2698,
+    "end_char": 2702,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "posterior",
+    "start_char": 2703,
+    "end_char": 2712,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "pararenal",
+    "start_char": 2713,
+    "end_char": 2722,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "space",
+    "start_char": 2723,
+    "end_char": 2728,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "and",
+    "start_char": 2729,
+    "end_char": 2732,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "into",
+    "start_char": 2733,
+    "end_char": 2737,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": "the",
+    "start_char": 2738,
+    "end_char": 2741,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": "pelvis",
+    "start_char": 2742,
+    "end_char": 2748,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": ".",
+    "start_char": 2748,
+    "end_char": 2749,
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "The",
+    "start_char": 2750,
+    "end_char": 2753,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "edema",
+    "start_char": 2754,
+    "end_char": 2759,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "and",
+    "start_char": 2760,
+    "end_char": 2763,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "hematoma",
+    "start_char": 2764,
+    "end_char": 2772,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "extends",
+    "start_char": 2773,
+    "end_char": 2780,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "to",
+    "start_char": 2781,
+    "end_char": 2783,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "the",
+    "start_char": 2784,
+    "end_char": 2787,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "right",
+    "start_char": 2788,
+    "end_char": 2793,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "adrenal",
+    "start_char": 2794,
+    "end_char": 2801,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": ",",
+    "start_char": 2801,
+    "end_char": 2802,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "but",
+    "start_char": 2803,
+    "end_char": 2806,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "is",
+    "start_char": 2807,
+    "end_char": 2809,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "centered",
+    "start_char": 2810,
+    "end_char": 2818,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": "posterior",
+    "start_char": 2819,
+    "end_char": 2828,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": "to",
+    "start_char": 2829,
+    "end_char": 2831,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": "the",
+    "start_char": 2832,
+    "end_char": 2835,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "text": "right",
+    "start_char": 2836,
+    "end_char": 2841,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "text": "kidney",
+    "start_char": 2842,
+    "end_char": 2848,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "text": ".",
+    "start_char": 2848,
+    "end_char": 2849,
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "There",
+    "start_char": 2850,
+    "end_char": 2855,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "is",
+    "start_char": 2856,
+    "end_char": 2858,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "a",
+    "start_char": 2859,
+    "end_char": 2860,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "small",
+    "start_char": 2861,
+    "end_char": 2866,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "apparent",
+    "start_char": 2867,
+    "end_char": 2875,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "right",
+    "start_char": 2876,
+    "end_char": 2881,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "renal",
+    "start_char": 2882,
+    "end_char": 2887,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "lower",
+    "start_char": 2888,
+    "end_char": 2893,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "pole",
+    "start_char": 2894,
+    "end_char": 2898,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "laceration",
+    "start_char": 2899,
+    "end_char": 2909,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "/",
+    "start_char": 2909,
+    "end_char": 2910,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "contusion",
+    "start_char": 2910,
+    "end_char": 2919,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "text": "[**2147-12-23**",
+    "start_char": 2921,
+    "end_char": 2936,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "]",
+    "start_char": 2936,
+    "end_char": 2937,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 2937,
+    "end_char": 2938,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "CTA",
+    "start_char": 2940,
+    "end_char": 2943,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "abdomen",
+    "start_char": 2944,
+    "end_char": 2951,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "/",
+    "start_char": 2951,
+    "end_char": 2952,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "pelvis",
+    "start_char": 2952,
+    "end_char": 2958,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": ":",
+    "start_char": 2958,
+    "end_char": 2959,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "recons",
+    "start_char": 2960,
+    "end_char": 2966,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": ".",
+    "start_char": 2966,
+    "end_char": 2967,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "IMPRESSION",
+    "start_char": 2970,
+    "end_char": 2980,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ":",
+    "start_char": 2980,
+    "end_char": 2981,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "1",
+    "start_char": 2982,
+    "end_char": 2983,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": ".",
+    "start_char": 2983,
+    "end_char": 2984,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "No",
+    "start_char": 2985,
+    "end_char": 2987,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "evidence",
+    "start_char": 2988,
+    "end_char": 2996,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "for",
+    "start_char": 2997,
+    "end_char": 3000,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "right",
+    "start_char": 3001,
+    "end_char": 3006,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "renal",
+    "start_char": 3007,
+    "end_char": 3012,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "collecting",
+    "start_char": 3013,
+    "end_char": 3023,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": "system",
+    "start_char": 3024,
+    "end_char": 3030,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": "injury",
+    "start_char": 3031,
+    "end_char": 3037,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "text": ".",
+    "start_char": 3037,
+    "end_char": 3038,
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Small",
+    "start_char": 3039,
+    "end_char": 3044,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "right",
+    "start_char": 3045,
+    "end_char": 3050,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "renal",
+    "start_char": 3051,
+    "end_char": 3056,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "laceration",
+    "start_char": 3057,
+    "end_char": 3067,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "in",
+    "start_char": 3068,
+    "end_char": 3070,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "the",
+    "start_char": 3071,
+    "end_char": 3074,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "lower",
+    "start_char": 3075,
+    "end_char": 3080,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "interpolar",
+    "start_char": 3081,
+    "end_char": 3091,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "region",
+    "start_char": 3092,
+    "end_char": 3098,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": ".",
+    "start_char": 3098,
+    "end_char": 3099,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "2",
+    "start_char": 3101,
+    "end_char": 3102,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": ".",
+    "start_char": 3102,
+    "end_char": 3103,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Large",
+    "start_char": 3104,
+    "end_char": 3109,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "right",
+    "start_char": 3110,
+    "end_char": 3115,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "perinephric",
+    "start_char": 3116,
+    "end_char": 3127,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "hematoma",
+    "start_char": 3128,
+    "end_char": 3136,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "with",
+    "start_char": 3137,
+    "end_char": 3141,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "mass",
+    "start_char": 3142,
+    "end_char": 3146,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "effect",
+    "start_char": 3147,
+    "end_char": 3153,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "on",
+    "start_char": 3154,
+    "end_char": 3156,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "the",
+    "start_char": 3157,
+    "end_char": 3160,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "right",
+    "start_char": 3161,
+    "end_char": 3166,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "kidney",
+    "start_char": 3167,
+    "end_char": 3173,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": ",",
+    "start_char": 3173,
+    "end_char": 3174,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": "extending",
+    "start_char": 3175,
+    "end_char": 3184,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": "into",
+    "start_char": 3185,
+    "end_char": 3189,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "text": "the",
+    "start_char": 3190,
+    "end_char": 3193,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "text": "pelvis",
+    "start_char": 3194,
+    "end_char": 3200,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "text": ",",
+    "start_char": 3200,
+    "end_char": 3201,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 20,
+    "text": "grossly",
+    "start_char": 3202,
+    "end_char": 3209,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "text": "unchanged",
+    "start_char": 3210,
+    "end_char": 3219,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "text": "compared",
+    "start_char": 3220,
+    "end_char": 3228,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 23,
+    "text": "to",
+    "start_char": 3229,
+    "end_char": 3231,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "text": "the",
+    "start_char": 3232,
+    "end_char": 3235,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "text": "CT",
+    "start_char": 3236,
+    "end_char": 3238,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "text": "performed",
+    "start_char": 3239,
+    "end_char": 3248,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 27,
+    "text": "earlier",
+    "start_char": 3249,
+    "end_char": 3256,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 28,
+    "text": "the",
+    "start_char": 3257,
+    "end_char": 3260,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 29,
+    "text": "same",
+    "start_char": 3261,
+    "end_char": 3265,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 30,
+    "text": "day",
+    "start_char": 3266,
+    "end_char": 3269,
+    "misc": "SpacesAfter=\\n\\n\\s",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "text": "MRSA",
+    "start_char": 3272,
+    "end_char": 3276,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "SCREEN",
+    "start_char": 3277,
+    "end_char": 3283,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "(",
+    "start_char": 3284,
+    "end_char": 3285,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Final",
+    "start_char": 3285,
+    "end_char": 3290,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "[",
+    "start_char": 3291,
+    "end_char": 3292,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "**2147-12-25**]",
+    "start_char": 3292,
+    "end_char": 3307,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": ")",
+    "start_char": 3307,
+    "end_char": 3308,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": ":",
+    "start_char": 3308,
+    "end_char": 3309,
+    "misc": "SpacesAfter=\\s\\s\\s\\s",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "text": "No",
+    "start_char": 3313,
+    "end_char": 3315,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "MRSA",
+    "start_char": 3316,
+    "end_char": 3320,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "isolated",
+    "start_char": 3321,
+    "end_char": 3329,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": ".",
+    "start_char": 3329,
+    "end_char": 3330,
+    "misc": "SpacesAfter=\\n\\n\\n\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Brief",
+    "start_char": 3335,
+    "end_char": 3340,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Hospital",
+    "start_char": 3341,
+    "end_char": 3349,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Course",
+    "start_char": 3350,
+    "end_char": 3356,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": ":",
+    "start_char": 3356,
+    "end_char": 3357,
+    "misc": "SpacesAfter=\\n\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "18",
+    "start_char": 3360,
+    "end_char": 3362,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "year",
+    "start_char": 3363,
+    "end_char": 3367,
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "old",
+    "start_char": 3368,
+    "end_char": 3371,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "gentleman",
+    "start_char": 3372,
+    "end_char": 3381,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "who",
+    "start_char": 3382,
+    "end_char": 3385,
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "was",
+    "start_char": 3386,
+    "end_char": 3389,
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "admitted",
+    "start_char": 3390,
+    "end_char": 3398,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "text": "to",
+    "start_char": 3399,
+    "end_char": 3401,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 13,
+    "text": "the",
+    "start_char": 3402,
+    "end_char": 3405,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Acute",
+    "start_char": 3406,
+    "end_char": 3411,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Care",
+    "start_char": 3412,
+    "end_char": 3416,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Service",
+    "start_char": 3417,
+    "end_char": 3424,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "text": "c/o",
+    "start_char": 3425,
+    "end_char": 3428,
+    "labels": []
+  },
+  {
+    "id": 18,
+    "text": "abdominal",
+    "start_char": 3429,
+    "end_char": 3438,
+    "labels": []
+  },
+  {
+    "id": 19,
+    "text": "pain",
+    "start_char": 3439,
+    "end_char": 3443,
+    "labels": []
+  },
+  {
+    "id": 20,
+    "text": "after",
+    "start_char": 3444,
+    "end_char": 3449,
+    "labels": []
+  },
+  {
+    "id": 21,
+    "text": "he",
+    "start_char": 3450,
+    "end_char": 3452,
+    "labels": []
+  },
+  {
+    "id": 22,
+    "text": "was",
+    "start_char": 3453,
+    "end_char": 3456,
+    "labels": []
+  },
+  {
+    "id": 23,
+    "text": "struck",
+    "start_char": 3457,
+    "end_char": 3463,
+    "labels": []
+  },
+  {
+    "id": 24,
+    "text": "in",
+    "start_char": 3464,
+    "end_char": 3466,
+    "labels": []
+  },
+  {
+    "id": 25,
+    "text": "the",
+    "start_char": 3467,
+    "end_char": 3470,
+    "labels": []
+  },
+  {
+    "id": 26,
+    "text": "right",
+    "start_char": 3471,
+    "end_char": 3476,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 27,
+    "text": "flank",
+    "start_char": 3477,
+    "end_char": 3482,
+    "labels": []
+  },
+  {
+    "id": 28,
+    "text": "by",
+    "start_char": 3483,
+    "end_char": 3485,
+    "labels": []
+  },
+  {
+    "id": 29,
+    "text": "another",
+    "start_char": 3486,
+    "end_char": 3493,
+    "labels": []
+  },
+  {
+    "id": 30,
+    "text": "playing",
+    "start_char": 3494,
+    "end_char": 3501,
+    "labels": []
+  },
+  {
+    "id": 31,
+    "text": "while",
+    "start_char": 3502,
+    "end_char": 3507,
+    "labels": []
+  },
+  {
+    "id": 32,
+    "text": "he",
+    "start_char": 3508,
+    "end_char": 3510,
+    "labels": []
+  },
+  {
+    "id": 33,
+    "text": "was",
+    "start_char": 3511,
+    "end_char": 3514,
+    "labels": []
+  },
+  {
+    "id": 34,
+    "text": "playing",
+    "start_char": 3515,
+    "end_char": 3522,
+    "labels": []
+  },
+  {
+    "id": 35,
+    "text": "hockey",
+    "start_char": 3523,
+    "end_char": 3529,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 36,
+    "text": ".",
+    "start_char": 3529,
+    "end_char": 3530,
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "He",
+    "start_char": 3531,
+    "end_char": 3533,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "text": "was",
+    "start_char": 3534,
+    "end_char": 3537,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "text": "initially",
+    "start_char": 3538,
+    "end_char": 3547,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "text": "seen",
+    "start_char": 3548,
+    "end_char": 3552,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "text": "at",
+    "start_char": 3553,
+    "end_char": 3555,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "text": "OSH",
+    "start_char": 3556,
+    "end_char": 3559,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "text": "where",
+    "start_char": 3560,
+    "end_char": 3565,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "a",
+    "start_char": 3566,
+    "end_char": 3567,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "cat",
+    "start_char": 3568,
+    "end_char": 3571,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "scan",
+    "start_char": 3572,
+    "end_char": 3576,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": "showed",
+    "start_char": 3577,
+    "end_char": 3583,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": "a",
+    "start_char": 3584,
+    "end_char": 3585,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "text": "retroperitonal",
+    "start_char": 3586,
+    "end_char": 3600,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 14,
+    "text": "bleed",
+    "start_char": 3601,
+    "end_char": 3606,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 15,
+    "text": ".",
+    "start_char": 3606,
+    "end_char": 3607,
+    "misc": "SpacesAfter=\\n\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Prior",
+    "start_char": 3610,
+    "end_char": 3615,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "text": "to",
+    "start_char": 3616,
+    "end_char": 3618,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "text": "admission",
+    "start_char": 3619,
+    "end_char": 3628,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "text": "to",
+    "start_char": 3629,
+    "end_char": 3631,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "text": "the",
+    "start_char": 3632,
+    "end_char": 3635,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Trauma",
+    "start_char": 3636,
+    "end_char": 3642,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Intensive",
+    "start_char": 3643,
+    "end_char": 3652,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Care",
+    "start_char": 3653,
+    "end_char": 3657,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Unit",
+    "start_char": 3658,
+    "end_char": 3662,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "text": ",",
+    "start_char": 3662,
+    "end_char": 3663,
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "he",
+    "start_char": 3664,
+    "end_char": 3666,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "had",
+    "start_char": 3667,
+    "end_char": 3670,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "blood",
+    "start_char": 3671,
+    "end_char": 3676,
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "work",
+    "start_char": 3677,
+    "end_char": 3681,
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": "done",
+    "start_char": 3682,
+    "end_char": 3686,
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": "and",
+    "start_char": 3687,
+    "end_char": 3690,
+    "labels": []
+  },
+  {
+    "id": 17,
+    "text": "an",
+    "start_char": 3691,
+    "end_char": 3693,
+    "labels": []
+  },
+  {
+    "id": 18,
+    "text": "intravenous",
+    "start_char": 3694,
+    "end_char": 3705,
+    "labels": [
+      6
+    ]
+  },
+  {
+    "id": 19,
+    "text": "placed",
+    "start_char": 3706,
+    "end_char": 3712,
+    "labels": [
+      6
+    ]
+  },
+  {
+    "id": 20,
+    "text": "for",
+    "start_char": 3713,
+    "end_char": 3716,
+    "labels": [
+      6
+    ]
+  },
+  {
+    "id": 21,
+    "text": "fluids",
+    "start_char": 3717,
+    "end_char": 3723,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      6
+    ]
+  },
+  {
+    "id": 22,
+    "text": ".",
+    "start_char": 3723,
+    "end_char": 3724,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 3726,
+    "end_char": 3729,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "hematocrit",
+    "start_char": 3730,
+    "end_char": 3740,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "upon",
+    "start_char": 3741,
+    "end_char": 3745,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "admission",
+    "start_char": 3746,
+    "end_char": 3755,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "was",
+    "start_char": 3756,
+    "end_char": 3759,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "37",
+    "start_char": 3760,
+    "end_char": 3762,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": ".",
+    "start_char": 3762,
+    "end_char": 3763,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 3765,
+    "end_char": 3768,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "cat",
+    "start_char": 3769,
+    "end_char": 3772,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "scan",
+    "start_char": 3773,
+    "end_char": 3777,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "films",
+    "start_char": 3778,
+    "end_char": 3783,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "from",
+    "start_char": 3784,
+    "end_char": 3788,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "the",
+    "start_char": 3789,
+    "end_char": 3792,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "OSH",
+    "start_char": 3793,
+    "end_char": 3796,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "were",
+    "start_char": 3797,
+    "end_char": 3801,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "reviewed",
+    "start_char": 3802,
+    "end_char": 3810,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "and",
+    "start_char": 3811,
+    "end_char": 3814,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "findings",
+    "start_char": 3815,
+    "end_char": 3823,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "concluded",
+    "start_char": 3824,
+    "end_char": 3833,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "a",
+    "start_char": 3834,
+    "end_char": 3835,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": "small",
+    "start_char": 3836,
+    "end_char": 3841,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "text": "right",
+    "start_char": 3842,
+    "end_char": 3847,
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "text": "renal",
+    "start_char": 3848,
+    "end_char": 3853,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "text": "laceration",
+    "start_char": 3854,
+    "end_char": 3864,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "text": ".",
+    "start_char": 3864,
+    "end_char": 3865,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 3867,
+    "end_char": 3870,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "cat",
+    "start_char": 3871,
+    "end_char": 3874,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "scan",
+    "start_char": 3875,
+    "end_char": 3879,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "pyelogram",
+    "start_char": 3880,
+    "end_char": 3889,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "showed",
+    "start_char": 3890,
+    "end_char": 3896,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": "no",
+    "start_char": 3897,
+    "end_char": 3899,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "text": "change",
+    "start_char": 3900,
+    "end_char": 3906,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "text": "in",
+    "start_char": 3907,
+    "end_char": 3909,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "text": "the",
+    "start_char": 3910,
+    "end_char": 3913,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "text": "size",
+    "start_char": 3914,
+    "end_char": 3918,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "text": "of",
+    "start_char": 3919,
+    "end_char": 3921,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "text": "the",
+    "start_char": 3922,
+    "end_char": 3925,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "text": "hematoma",
+    "start_char": 3926,
+    "end_char": 3934,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 14,
+    "text": ".",
+    "start_char": 3934,
+    "end_char": 3935,
+    "misc": "SpacesAfter=\\n\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "He",
+    "start_char": 3938,
+    "end_char": 3940,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "is",
+    "start_char": 3941,
+    "end_char": 3943,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "preparing",
+    "start_char": 3944,
+    "end_char": 3953,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "for",
+    "start_char": 3954,
+    "end_char": 3957,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "discharge",
+    "start_char": 3958,
+    "end_char": 3967,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "home",
+    "start_char": 3968,
+    "end_char": 3972,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": ".",
+    "start_char": 3972,
+    "end_char": 3973,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 3975,
+    "end_char": 3978,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "vital",
+    "start_char": 3979,
+    "end_char": 3984,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "signs",
+    "start_char": 3985,
+    "end_char": 3990,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "are",
+    "start_char": 3991,
+    "end_char": 3994,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "stable",
+    "start_char": 3995,
+    "end_char": 4001,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": ".",
+    "start_char": 4001,
+    "end_char": 4002,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "He",
+    "start_char": 4004,
+    "end_char": 4006,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "has",
+    "start_char": 4007,
+    "end_char": 4010,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "been",
+    "start_char": 4011,
+    "end_char": 4015,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "ambulating",
+    "start_char": 4016,
+    "end_char": 4026,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "and",
+    "start_char": 4027,
+    "end_char": 4030,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "he",
+    "start_char": 4031,
+    "end_char": 4033,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "is",
+    "start_char": 4034,
+    "end_char": 4036,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "tolerating",
+    "start_char": 4037,
+    "end_char": 4047,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "a",
+    "start_char": 4048,
+    "end_char": 4049,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": "regular",
+    "start_char": 4050,
+    "end_char": 4057,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "text": "diet",
+    "start_char": 4058,
+    "end_char": 4062,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "text": ".",
+    "start_char": 4062,
+    "end_char": 4063,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 4065,
+    "end_char": 4068,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "text": "pain",
+    "start_char": 4069,
+    "end_char": 4073,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "text": "is",
+    "start_char": 4074,
+    "end_char": 4076,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 4,
+    "text": "controlled",
+    "start_char": 4077,
+    "end_char": 4087,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 5,
+    "text": "with",
+    "start_char": 4088,
+    "end_char": 4092,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 6,
+    "text": "tylenol",
+    "start_char": 4093,
+    "end_char": 4100,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 7,
+    "text": ".",
+    "start_char": 4100,
+    "end_char": 4101,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "His",
+    "start_char": 4103,
+    "end_char": 4106,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "text": "discharge",
+    "start_char": 4107,
+    "end_char": 4116,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "text": "hematocrit",
+    "start_char": 4117,
+    "end_char": 4127,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "text": "is",
+    "start_char": 4128,
+    "end_char": 4130,
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "text": "32.8",
+    "start_char": 4131,
+    "end_char": 4135,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "text": ".",
+    "start_char": 4135,
+    "end_char": 4136,
+    "misc": "SpacesAfter=\\n\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "He",
+    "start_char": 4139,
+    "end_char": 4141,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 2,
+    "text": "has",
+    "start_char": 4142,
+    "end_char": 4145,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "text": "been",
+    "start_char": 4146,
+    "end_char": 4150,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 4,
+    "text": "instructed",
+    "start_char": 4151,
+    "end_char": 4161,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 5,
+    "text": "to",
+    "start_char": 4162,
+    "end_char": 4164,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 6,
+    "text": "avoid",
+    "start_char": 4165,
+    "end_char": 4170,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 7,
+    "text": "contact",
+    "start_char": 4171,
+    "end_char": 4178,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 8,
+    "text": "sports",
+    "start_char": 4179,
+    "end_char": 4185,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 9,
+    "text": "for",
+    "start_char": 4186,
+    "end_char": 4189,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 10,
+    "text": "6",
+    "start_char": 4190,
+    "end_char": 4191,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 11,
+    "text": "weeks",
+    "start_char": 4192,
+    "end_char": 4197,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 12,
+    "text": "and",
+    "start_char": 4198,
+    "end_char": 4201,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "he",
+    "start_char": 4202,
+    "end_char": 4204,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "text": "will",
+    "start_char": 4205,
+    "end_char": 4209,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "text": "follow",
+    "start_char": 4210,
+    "end_char": 4216,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "text": "-",
+    "start_char": 4216,
+    "end_char": 4217,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "text": "up",
+    "start_char": 4217,
+    "end_char": 4219,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "text": "with",
+    "start_char": 4220,
+    "end_char": 4224,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 19,
+    "text": "his",
+    "start_char": 4225,
+    "end_char": 4228,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Primary",
+    "start_char": 4229,
+    "end_char": 4236,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "text": "care",
+    "start_char": 4237,
+    "end_char": 4241,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 22,
+    "text": "provider",
+    "start_char": 4242,
+    "end_char": 4250,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 23,
+    "text": "for",
+    "start_char": 4251,
+    "end_char": 4254,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 24,
+    "text": "sports",
+    "start_char": 4255,
+    "end_char": 4261,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 25,
+    "text": "clearance",
+    "start_char": 4262,
+    "end_char": 4271,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 26,
+    "text": "prior",
+    "start_char": 4272,
+    "end_char": 4277,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 27,
+    "text": "to",
+    "start_char": 4278,
+    "end_char": 4280,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 28,
+    "text": "initiating",
+    "start_char": 4281,
+    "end_char": 4291,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 29,
+    "text": "sports",
+    "start_char": 4292,
+    "end_char": 4298,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 30,
+    "text": ".",
+    "start_char": 4298,
+    "end_char": 4299,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Medications",
+    "start_char": 4301,
+    "end_char": 4312,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "on",
+    "start_char": 4313,
+    "end_char": 4315,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "Admission",
+    "start_char": 4316,
+    "end_char": 4325,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": ":",
+    "start_char": 4325,
+    "end_char": 4326,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "none",
+    "start_char": 4327,
+    "end_char": 4331,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Discharge",
+    "start_char": 4333,
+    "end_char": 4342,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Medications",
+    "start_char": 4343,
+    "end_char": 4354,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4354,
+    "end_char": 4355,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "1.",
+    "start_char": 4356,
+    "end_char": 4358,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "acetaminophen",
+    "start_char": 4359,
+    "end_char": 4372,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 6,
+    "text": "325",
+    "start_char": 4373,
+    "end_char": 4376,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 7,
+    "text": "mg",
+    "start_char": 4377,
+    "end_char": 4379,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Tablet",
+    "start_char": 4380,
+    "end_char": 4386,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sig",
+    "start_char": 4387,
+    "end_char": 4390,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 10,
+    "text": ":",
+    "start_char": 4390,
+    "end_char": 4391,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Two",
+    "start_char": 4392,
+    "end_char": 4395,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 12,
+    "text": "(",
+    "start_char": 4396,
+    "end_char": 4397,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 13,
+    "text": "2",
+    "start_char": 4397,
+    "end_char": 4398,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 14,
+    "text": ")",
+    "start_char": 4398,
+    "end_char": 4399,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Tablet",
+    "start_char": 4400,
+    "end_char": 4406,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 16,
+    "text": "PO",
+    "start_char": 4407,
+    "end_char": 4409,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Q6H",
+    "start_char": 4410,
+    "end_char": 4413,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 18,
+    "text": "(",
+    "start_char": 4414,
+    "end_char": 4415,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 19,
+    "text": "every",
+    "start_char": 4415,
+    "end_char": 4420,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 20,
+    "text": "6",
+    "start_char": 4421,
+    "end_char": 4422,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 21,
+    "text": "hours",
+    "start_char": 4423,
+    "end_char": 4428,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 22,
+    "text": ")",
+    "start_char": 4428,
+    "end_char": 4429,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "text": "as",
+    "start_char": 4430,
+    "end_char": 4432,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 24,
+    "text": "needed",
+    "start_char": 4433,
+    "end_char": 4439,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 25,
+    "text": "for",
+    "start_char": 4440,
+    "end_char": 4443,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 26,
+    "text": "pain",
+    "start_char": 4444,
+    "end_char": 4448,
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 27,
+    "text": ",",
+    "start_char": 4449,
+    "end_char": 4450,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 28,
+    "text": "fever",
+    "start_char": 4450,
+    "end_char": 4455,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      5
+    ]
+  },
+  {
+    "id": 29,
+    "text": ".",
+    "start_char": 4455,
+    "end_char": 4456,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Discharge",
+    "start_char": 4459,
+    "end_char": 4468,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Disposition",
+    "start_char": 4469,
+    "end_char": 4480,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4480,
+    "end_char": 4481,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Home",
+    "start_char": 4482,
+    "end_char": 4486,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Discharge",
+    "start_char": 4488,
+    "end_char": 4497,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Diagnosis",
+    "start_char": 4498,
+    "end_char": 4507,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4507,
+    "end_char": 4508,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Retroperitoneal",
+    "start_char": 4509,
+    "end_char": 4524,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "bleed",
+    "start_char": 4525,
+    "end_char": 4530,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Discharge",
+    "start_char": 4533,
+    "end_char": 4542,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Condition",
+    "start_char": 4543,
+    "end_char": 4552,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4552,
+    "end_char": 4553,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Mental",
+    "start_char": 4554,
+    "end_char": 4560,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Status",
+    "start_char": 4561,
+    "end_char": 4567,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": ":",
+    "start_char": 4567,
+    "end_char": 4568,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Clear",
+    "start_char": 4569,
+    "end_char": 4574,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": "and",
+    "start_char": 4575,
+    "end_char": 4578,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "text": "coherent",
+    "start_char": 4579,
+    "end_char": 4587,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "text": ".",
+    "start_char": 4587,
+    "end_char": 4588,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Level",
+    "start_char": 4589,
+    "end_char": 4594,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "of",
+    "start_char": 4595,
+    "end_char": 4597,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Consciousness",
+    "start_char": 4598,
+    "end_char": 4611,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": ":",
+    "start_char": 4611,
+    "end_char": 4612,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Alert",
+    "start_char": 4613,
+    "end_char": 4618,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "and",
+    "start_char": 4619,
+    "end_char": 4622,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "interactive",
+    "start_char": 4623,
+    "end_char": 4634,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": ".",
+    "start_char": 4634,
+    "end_char": 4635,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Activity",
+    "start_char": 4636,
+    "end_char": 4644,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Status",
+    "start_char": 4645,
+    "end_char": 4651,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4651,
+    "end_char": 4652,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ambulatory",
+    "start_char": 4653,
+    "end_char": 4663,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "-",
+    "start_char": 4664,
+    "end_char": 4665,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Independent",
+    "start_char": 4666,
+    "end_char": 4677,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": ".",
+    "start_char": 4677,
+    "end_char": 4678,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Discharge",
+    "start_char": 4681,
+    "end_char": 4690,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Instructions",
+    "start_char": 4691,
+    "end_char": 4703,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 4703,
+    "end_char": 4704,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "You",
+    "start_char": 4705,
+    "end_char": 4708,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "text": "are",
+    "start_char": 4709,
+    "end_char": 4712,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "text": "being",
+    "start_char": 4713,
+    "end_char": 4718,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "text": "discharged",
+    "start_char": 4719,
+    "end_char": 4729,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "text": "from",
+    "start_char": 4730,
+    "end_char": 4734,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "text": "the",
+    "start_char": 4735,
+    "end_char": 4738,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "text": "hospital",
+    "start_char": 4739,
+    "end_char": 4747,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 11,
+    "text": "after",
+    "start_char": 4748,
+    "end_char": 4753,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "text": "you",
+    "start_char": 4754,
+    "end_char": 4757,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 13,
+    "text": "were",
+    "start_char": 4758,
+    "end_char": 4762,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "text": "admitted",
+    "start_char": 4763,
+    "end_char": 4771,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "text": "for",
+    "start_char": 4772,
+    "end_char": 4775,
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": "abdominal",
+    "start_char": 4776,
+    "end_char": 4785,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 17,
+    "text": "pain",
+    "start_char": 4786,
+    "end_char": 4790,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "text": "after",
+    "start_char": 4791,
+    "end_char": 4796,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "text": "you",
+    "start_char": 4797,
+    "end_char": 4800,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 20,
+    "text": "were",
+    "start_char": 4801,
+    "end_char": 4805,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 21,
+    "text": "struck",
+    "start_char": 4806,
+    "end_char": 4812,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 22,
+    "text": "by",
+    "start_char": 4813,
+    "end_char": 4815,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "text": "another",
+    "start_char": 4816,
+    "end_char": 4823,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "text": "player",
+    "start_char": 4824,
+    "end_char": 4830,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 25,
+    "text": "while",
+    "start_char": 4831,
+    "end_char": 4836,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 26,
+    "text": "playing",
+    "start_char": 4837,
+    "end_char": 4844,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 27,
+    "text": "hockey",
+    "start_char": 4845,
+    "end_char": 4851,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 28,
+    "text": ".",
+    "start_char": 4851,
+    "end_char": 4852,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Your",
+    "start_char": 4854,
+    "end_char": 4858,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "text": "cat",
+    "start_char": 4859,
+    "end_char": 4862,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "text": "scan",
+    "start_char": 4863,
+    "end_char": 4867,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "text": "showed",
+    "start_char": 4868,
+    "end_char": 4874,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "text": "a",
+    "start_char": 4875,
+    "end_char": 4876,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "text": "retroperitoneal",
+    "start_char": 4877,
+    "end_char": 4892,
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "text": "bleed",
+    "start_char": 4893,
+    "end_char": 4898,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "text": ".",
+    "start_char": 4898,
+    "end_char": 4899,
+    "misc": "SpacesAfter=\\s\\s",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "You",
+    "start_char": 4901,
+    "end_char": 4904,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "are",
+    "start_char": 4905,
+    "end_char": 4908,
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "being",
+    "start_char": 4909,
+    "end_char": 4914,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "discharged",
+    "start_char": 4915,
+    "end_char": 4925,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "with",
+    "start_char": 4926,
+    "end_char": 4930,
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "the",
+    "start_char": 4931,
+    "end_char": 4934,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "following",
+    "start_char": 4935,
+    "end_char": 4944,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "instructions",
+    "start_char": 4945,
+    "end_char": 4957,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": ":",
+    "start_char": 4957,
+    "end_char": 4958,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "*",
+    "start_char": 4960,
+    "end_char": 4961,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "resume",
+    "start_char": 4961,
+    "end_char": 4967,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "text": "your",
+    "start_char": 4968,
+    "end_char": 4972,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 4,
+    "text": "regular",
+    "start_char": 4973,
+    "end_char": 4980,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 5,
+    "text": "diet",
+    "start_char": 4981,
+    "end_char": 4985,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 6,
+    "text": "*",
+    "start_char": 4986,
+    "end_char": 4987,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "continue",
+    "start_char": 4987,
+    "end_char": 4995,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 8,
+    "text": "with",
+    "start_char": 4996,
+    "end_char": 5000,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 9,
+    "text": "pain",
+    "start_char": 5001,
+    "end_char": 5005,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 10,
+    "text": "medication",
+    "start_char": 5006,
+    "end_char": 5016,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 11,
+    "text": "as",
+    "start_char": 5017,
+    "end_char": 5019,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 12,
+    "text": "directed",
+    "start_char": 5020,
+    "end_char": 5028,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 13,
+    "text": "*",
+    "start_char": 5029,
+    "end_char": 5030,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "avoid",
+    "start_char": 5030,
+    "end_char": 5035,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 15,
+    "text": "driving",
+    "start_char": 5036,
+    "end_char": 5043,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 16,
+    "text": "while",
+    "start_char": 5044,
+    "end_char": 5049,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 17,
+    "text": "you",
+    "start_char": 5050,
+    "end_char": 5053,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 18,
+    "text": "are",
+    "start_char": 5054,
+    "end_char": 5057,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 19,
+    "text": "on",
+    "start_char": 5058,
+    "end_char": 5060,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 20,
+    "text": "pain",
+    "start_char": 5061,
+    "end_char": 5065,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 21,
+    "text": "medication",
+    "start_char": 5066,
+    "end_char": 5076,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 22,
+    "text": "*",
+    "start_char": 5077,
+    "end_char": 5078,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 23,
+    "text": "you",
+    "start_char": 5078,
+    "end_char": 5081,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 24,
+    "text": "may",
+    "start_char": 5082,
+    "end_char": 5085,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 25,
+    "text": "resume",
+    "start_char": 5086,
+    "end_char": 5092,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 26,
+    "text": "walking",
+    "start_char": 5093,
+    "end_char": 5100,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 27,
+    "text": ",",
+    "start_char": 5100,
+    "end_char": 5101,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 28,
+    "text": "treadmill",
+    "start_char": 5102,
+    "end_char": 5111,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 29,
+    "text": ",",
+    "start_char": 5111,
+    "end_char": 5112,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 30,
+    "text": "mild",
+    "start_char": 5113,
+    "end_char": 5117,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 31,
+    "text": "exercise",
+    "start_char": 5118,
+    "end_char": 5126,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 32,
+    "text": "in",
+    "start_char": 5127,
+    "end_char": 5129,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 33,
+    "text": "1",
+    "start_char": 5130,
+    "end_char": 5131,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 34,
+    "text": "week",
+    "start_char": 5132,
+    "end_char": 5136,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 35,
+    "text": "*",
+    "start_char": 5137,
+    "end_char": 5138,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 36,
+    "text": "no",
+    "start_char": 5138,
+    "end_char": 5140,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 37,
+    "text": "contact",
+    "start_char": 5141,
+    "end_char": 5148,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 38,
+    "text": "sports",
+    "start_char": 5149,
+    "end_char": 5155,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 39,
+    "text": "for",
+    "start_char": 5156,
+    "end_char": 5159,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 40,
+    "text": "6",
+    "start_char": 5160,
+    "end_char": 5161,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 41,
+    "text": "weeks",
+    "start_char": 5162,
+    "end_char": 5167,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 42,
+    "text": "*",
+    "start_char": 5168,
+    "end_char": 5169,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 43,
+    "text": "please",
+    "start_char": 5169,
+    "end_char": 5175,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 44,
+    "text": "follow",
+    "start_char": 5176,
+    "end_char": 5182,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 45,
+    "text": "-",
+    "start_char": 5182,
+    "end_char": 5183,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 46,
+    "text": "up",
+    "start_char": 5183,
+    "end_char": 5185,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 47,
+    "text": "with",
+    "start_char": 5186,
+    "end_char": 5190,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 48,
+    "text": "your",
+    "start_char": 5191,
+    "end_char": 5195,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Primary",
+    "start_char": 5196,
+    "end_char": 5203,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Care",
+    "start_char": 5204,
+    "end_char": 5208,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Provider",
+    "start_char": 5209,
+    "end_char": 5217,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 52,
+    "text": "[",
+    "start_char": 5218,
+    "end_char": 5219,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 53,
+    "text": "**",
+    "start_char": 5219,
+    "end_char": 5221,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Last",
+    "start_char": 5221,
+    "end_char": 5225,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Name",
+    "start_char": 5226,
+    "end_char": 5230,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 56,
+    "text": "(",
+    "start_char": 5231,
+    "end_char": 5232,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 57,
+    "text": "NamePattern4",
+    "start_char": 5232,
+    "end_char": 5244,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 58,
+    "text": ")",
+    "start_char": 5244,
+    "end_char": 5245,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 59,
+    "text": "**]",
+    "start_char": 5246,
+    "end_char": 5249,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 60,
+    "text": "6",
+    "start_char": 5250,
+    "end_char": 5251,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 61,
+    "text": "weeks",
+    "start_char": 5252,
+    "end_char": 5257,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 62,
+    "text": "for",
+    "start_char": 5258,
+    "end_char": 5261,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 63,
+    "text": "sports",
+    "start_char": 5262,
+    "end_char": 5268,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 64,
+    "text": "clearance",
+    "start_char": 5269,
+    "end_char": 5278,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Please",
+    "start_char": 5280,
+    "end_char": 5286,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "text": "follow",
+    "start_char": 5287,
+    "end_char": 5293,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "text": "up",
+    "start_char": 5294,
+    "end_char": 5296,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "text": "in",
+    "start_char": 5297,
+    "end_char": 5299,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "text": "the",
+    "start_char": 5300,
+    "end_char": 5303,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "text": "emergency",
+    "start_char": 5304,
+    "end_char": 5313,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "text": "room",
+    "start_char": 5314,
+    "end_char": 5318,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "text": "or",
+    "start_char": 5319,
+    "end_char": 5321,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "text": "with",
+    "start_char": 5322,
+    "end_char": 5326,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "text": "your",
+    "start_char": 5327,
+    "end_char": 5331,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Primary",
+    "start_char": 5332,
+    "end_char": 5339,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Care",
+    "start_char": 5340,
+    "end_char": 5344,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Provider",
+    "start_char": 5345,
+    "end_char": 5353,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "text": "if",
+    "start_char": 5354,
+    "end_char": 5356,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "text": "you",
+    "start_char": 5357,
+    "end_char": 5360,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "text": "experience",
+    "start_char": 5361,
+    "end_char": 5371,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "text": "the",
+    "start_char": 5372,
+    "end_char": 5375,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "text": "following",
+    "start_char": 5376,
+    "end_char": 5385,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 19,
+    "text": ":",
+    "start_char": 5385,
+    "end_char": 5386,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "*",
+    "start_char": 5388,
+    "end_char": 5389,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "weakness",
+    "start_char": 5389,
+    "end_char": 5397,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "text": "*",
+    "start_char": 5398,
+    "end_char": 5399,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "abdominal",
+    "start_char": 5399,
+    "end_char": 5408,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 5,
+    "text": "pain",
+    "start_char": 5409,
+    "end_char": 5413,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 6,
+    "text": "*",
+    "start_char": 5414,
+    "end_char": 5415,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": "back",
+    "start_char": 5415,
+    "end_char": 5419,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 8,
+    "text": "pain",
+    "start_char": 5420,
+    "end_char": 5424,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 9,
+    "text": "*",
+    "start_char": 5425,
+    "end_char": 5426,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "difficulty",
+    "start_char": 5426,
+    "end_char": 5436,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 11,
+    "text": "urinating",
+    "start_char": 5437,
+    "end_char": 5446,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 12,
+    "text": "*",
+    "start_char": 5447,
+    "end_char": 5448,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "bloody",
+    "start_char": 5448,
+    "end_char": 5454,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 14,
+    "text": "urine",
+    "start_char": 5455,
+    "end_char": 5460,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 15,
+    "text": "*",
+    "start_char": 5461,
+    "end_char": 5462,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": "fever",
+    "start_char": 5462,
+    "end_char": 5467,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 17,
+    "text": "*",
+    "start_char": 5468,
+    "end_char": 5469,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 18,
+    "text": "distended",
+    "start_char": 5469,
+    "end_char": 5478,
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 19,
+    "text": "abdomen",
+    "start_char": 5479,
+    "end_char": 5486,
+    "misc": "SpacesAfter=\\n\\n\\n",
+    "labels": [
+      9
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Followup",
+    "start_char": 5489,
+    "end_char": 5497,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "Instructions",
+    "start_char": 5498,
+    "end_char": 5510,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "start_char": 5510,
+    "end_char": 5511,
+    "misc": "SpacesAfter=\\n",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Pleasr",
+    "start_char": 5512,
+    "end_char": 5518,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "text": "follow",
+    "start_char": 5519,
+    "end_char": 5525,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "text": "-",
+    "start_char": 5525,
+    "end_char": 5526,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "text": "up",
+    "start_char": 5526,
+    "end_char": 5528,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "text": "with",
+    "start_char": 5529,
+    "end_char": 5533,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "text": "your",
+    "start_char": 5534,
+    "end_char": 5538,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Primary",
+    "start_char": 5539,
+    "end_char": 5546,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Care",
+    "start_char": 5547,
+    "end_char": 5551,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Provider",
+    "start_char": 5552,
+    "end_char": 5560,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 13,
+    "text": "[",
+    "start_char": 5561,
+    "end_char": 5562,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "text": "**",
+    "start_char": 5562,
+    "end_char": 5564,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Last",
+    "start_char": 5564,
+    "end_char": 5568,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Name",
+    "start_char": 5569,
+    "end_char": 5573,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "text": "(",
+    "start_char": 5574,
+    "end_char": 5575,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "text": "NamePattern4",
+    "start_char": 5575,
+    "end_char": 5587,
+    "misc": "SpaceAfter=No",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 19,
+    "text": ")",
+    "start_char": 5587,
+    "end_char": 5588,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 20,
+    "text": "**]",
+    "start_char": 5589,
+    "end_char": 5592,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "text": "6",
+    "start_char": 5593,
+    "end_char": 5594,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 22,
+    "text": "weeks",
+    "start_char": 5595,
+    "end_char": 5600,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 23,
+    "text": "for",
+    "start_char": 5601,
+    "end_char": 5604,
+    "misc": "SpacesAfter=\\n",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 24,
+    "text": "sports",
+    "start_char": 5605,
+    "end_char": 5611,
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 25,
+    "text": "clearance",
+    "start_char": 5612,
+    "end_char": 5621,
+    "misc": "SpacesAfter=\\n\\n\\n\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s\\s",
+    "labels": [
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "text": "[",
+    "start_char": 5653,
+    "end_char": 5654,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "**",
+    "start_char": 5654,
+    "end_char": 5656,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": "First",
+    "start_char": 5656,
+    "end_char": 5661,
+    "labels": []
+  },
+  {
+    "id": 4,
+    "text": "Name4",
+    "start_char": 5662,
+    "end_char": 5667,
+    "labels": []
+  },
+  {
+    "id": 5,
+    "text": "(",
+    "start_char": 5668,
+    "end_char": 5669,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "text": "NamePattern1",
+    "start_char": 5669,
+    "end_char": 5681,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "text": ")",
+    "start_char": 5681,
+    "end_char": 5682,
+    "labels": []
+  },
+  {
+    "id": 8,
+    "text": "**]",
+    "start_char": 5683,
+    "end_char": 5686,
+    "labels": []
+  },
+  {
+    "id": 9,
+    "text": "[",
+    "start_char": 5687,
+    "end_char": 5688,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "text": "**",
+    "start_char": 5688,
+    "end_char": 5690,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "text": "Last",
+    "start_char": 5690,
+    "end_char": 5694,
+    "labels": []
+  },
+  {
+    "id": 12,
+    "text": "Name",
+    "start_char": 5695,
+    "end_char": 5699,
+    "labels": []
+  },
+  {
+    "id": 13,
+    "text": "(",
+    "start_char": 5700,
+    "end_char": 5701,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 14,
+    "text": "NamePattern1",
+    "start_char": 5701,
+    "end_char": 5713,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 15,
+    "text": ")",
+    "start_char": 5713,
+    "end_char": 5714,
+    "labels": []
+  },
+  {
+    "id": 16,
+    "text": "**]",
+    "start_char": 5715,
+    "end_char": 5718,
+    "labels": []
+  },
+  {
+    "id": 17,
+    "text": "[",
+    "start_char": 5719,
+    "end_char": 5720,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 18,
+    "text": "**",
+    "start_char": 5720,
+    "end_char": 5722,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 19,
+    "text": "Name8",
+    "start_char": 5722,
+    "end_char": 5727,
+    "labels": []
+  },
+  {
+    "id": 20,
+    "text": "(",
+    "start_char": 5728,
+    "end_char": 5729,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 21,
+    "text": "MD",
+    "start_char": 5729,
+    "end_char": 5731,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 22,
+    "text": ")",
+    "start_char": 5731,
+    "end_char": 5732,
+    "labels": []
+  },
+  {
+    "id": 23,
+    "text": "**]",
+    "start_char": 5733,
+    "end_char": 5736,
+    "labels": []
+  },
+  {
+    "id": 24,
+    "text": "MD",
+    "start_char": 5737,
+    "end_char": 5739,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 25,
+    "text": ",",
+    "start_char": 5739,
+    "end_char": 5740,
+    "labels": []
+  },
+  {
+    "id": 26,
+    "text": "[",
+    "start_char": 5741,
+    "end_char": 5742,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 27,
+    "text": "**",
+    "start_char": 5742,
+    "end_char": 5744,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 28,
+    "text": "MD",
+    "start_char": 5744,
+    "end_char": 5746,
+    "labels": []
+  },
+  {
+    "id": 29,
+    "text": "Number",
+    "start_char": 5747,
+    "end_char": 5753,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 30,
+    "text": "(",
+    "start_char": 5753,
+    "end_char": 5754,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 31,
+    "text": "3",
+    "start_char": 5754,
+    "end_char": 5755,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 32,
+    "text": ")",
+    "start_char": 5755,
+    "end_char": 5756,
+    "labels": []
+  },
+  {
+    "id": 33,
+    "text": "4661",
+    "start_char": 5757,
+    "end_char": 5761,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 34,
+    "text": "**",
+    "start_char": 5761,
+    "end_char": 5763,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 35,
+    "text": "]",
+    "start_char": 5763,
+    "end_char": 5764,
+    "misc": "SpacesAfter=\\n\\n",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "text": "Completed",
+    "start_char": 5766,
+    "end_char": 5775,
+    "labels": []
+  },
+  {
+    "id": 2,
+    "text": "by",
+    "start_char": 5776,
+    "end_char": 5778,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "text": ":[**2148-5-16**]",
+    "start_char": 5778,
+    "end_char": 5794,
+    "misc": "SpaceAfter=No",
+    "labels": []
+  }
+]
