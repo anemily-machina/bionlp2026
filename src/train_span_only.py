@@ -48,4 +48,4 @@ def main(ai_name):
 
 
 if __name__ == "__main__":
-    main("EleutherAI/pythia-70m")
+    main("BAAI/bge-m3")
