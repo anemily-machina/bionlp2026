@@ -1,6 +1,8 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
 from utils import load_ai_model4token_class, load_tokenizer
 
+from datasets import load_metric
+
 import torch
 from torch.utils.data import DataLoader
 
@@ -16,6 +18,29 @@ else:
     print("using cpu")
     print()
     device = torch.device("cpu")
+
+
+def compute_metrics(eval_pred):
+    metric1 = load_metric("precision")
+    metric2 = load_metric("recall")
+    metric3 = load_metric("f1")
+    metric4 = load_metric("accuracy")
+
+    logits, labels = eval_pred
+    predictions = np.argmax(logits, axis=-1)
+
+    precision = metric1.compute(
+        predictions=predictions, references=labels, average="micro"
+    )["precision"]
+    recall = metric2.compute(
+        predictions=predictions, references=labels, average="micro"
+    )["recall"]
+    f1 = metric3.compute(predictions=predictions, references=labels, average="micro")[
+        "f1"
+    ]
+    accuracy = metric4.compute(predictions=predictions, references=labels)["accuracy"]
+
+    return {"precision": precision, "recall": recall, "f1": f1, "accuracy": accuracy}
 
 
 def main(ai_name):
@@ -48,6 +73,7 @@ def main(ai_name):
         train_dataset=dataset,
         eval_dataset=dataset,
         data_collator=span_only_collate,
+        compute_metrics=compute_metrics,
     )
 
     trainer.train()
