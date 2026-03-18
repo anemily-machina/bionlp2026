@@ -29,12 +29,16 @@ def compute_metrics(p):
     predictions = np.argmax(predictions, axis=2)
 
     true_predictions = [
-        [p for (p, l) in zip(prediction, label) if l != -100]
+        p
         for prediction, label in zip(predictions, labels)
+        for (p, l) in zip(prediction, label)
+        if l != -100
     ]
     true_labels = [
-        [l for (p, l) in zip(prediction, label) if l != -100]
+        l
         for prediction, label in zip(predictions, labels)
+        for (p, l) in zip(prediction, label)
+        if l != -100
     ]
 
     print()
