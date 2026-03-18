@@ -40,6 +40,8 @@ def compute_metrics(eval_pred):
     print()
     print(logits)
     print(labels)
+    print(len(labels))
+    print(len(logits))
     print()
     print()
 
@@ -74,7 +76,7 @@ def main(ai_name):
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
-    dataset = dataset[:1]
+    dataset = dataset[:5]
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
