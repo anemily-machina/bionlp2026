@@ -32,6 +32,10 @@ def compute_metrics(eval_pred):
 
     logits, labels = eval_pred
 
+    print()
+    print()
+    print(eval_pred)
+
     print(len(logits))
     print(len(labels))
 
