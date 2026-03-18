@@ -25,18 +25,21 @@ def main(ai_name):
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
+    dataset = dataset[:10]
 
     training_args = TrainingArguments(
-        output_dir="./checkpoints/test",
+        output_dir="./data/checkpoints/test",
         learning_rate=2e-5,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
-        num_train_epochs=2,
+        num_train_epochs=100,
         weight_decay=0.01,
         eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
         push_to_hub=False,
+        logging_steps=5,
+        logging_strategy="steps",
     )
 
     trainer = Trainer(
