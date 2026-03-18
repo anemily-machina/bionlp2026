@@ -30,11 +30,8 @@ def compute_metrics(eval_pred):
     # metric3 = load_metric("f1")
     metric4 = load_metric("accuracy")
 
-    logits, labels = eval_pred
-
-    print()
-    print()
-    print(eval_pred)
+    logits = eval_pred.predictions
+    labels = eval_pred.label_ids
 
     print()
     print()
