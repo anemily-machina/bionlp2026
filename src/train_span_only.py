@@ -47,7 +47,11 @@ def compute_metrics(eval_pred):
     predications = []
     references = []
     for logit_ex, label_ex in zip(logits, labels):
-        pass
+        print()
+        print(len(label_ex))
+        print(len(logit_ex))
+
+        print()
 
     predictions = np.argmax(logits, axis=-1)
 
@@ -73,7 +77,7 @@ def main(ai_name):
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
-    dataset = dataset[:5]
+    dataset = dataset[:10]
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
