@@ -38,7 +38,7 @@ def load_tokenizer(name) -> PreTrainedTokenizer:
     return tokenizer
 
 
-def load_ai_model4token_class(name):
+def load_ai_model4token_class(name, num_labels):
 
     if os.path.isdir(name):
         cache_dir = None
@@ -46,7 +46,7 @@ def load_ai_model4token_class(name):
         cache_dir = os.path.join(CAHCHE_FOLDER, name)
 
     ai_model = AutoModelForTokenClassification.from_pretrained(
-        name, cache_dir=cache_dir
+        name, cache_dir=cache_dir, num_labels=num_labels
     )
 
     return ai_model
