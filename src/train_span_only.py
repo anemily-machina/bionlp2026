@@ -79,7 +79,7 @@ def main(ai_name):
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
-        learning_rate=2e-3,
+        learning_rate=2e-4,
         per_device_train_batch_size=1,
         per_device_eval_batch_size=1,
         num_train_epochs=100,
@@ -98,7 +98,7 @@ def main(ai_name):
         train_dataset=dataset,
         eval_dataset=dataset,
         data_collator=span_only_collate,
-        compute_metrics=compute_metrics,
+        # compute_metrics=compute_metrics,
     )
 
     trainer.train()
