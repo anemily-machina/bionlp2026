@@ -124,7 +124,7 @@ def span_only_collate(batch):
     input_ids = pad_sequence(input_ids)
 
     labels = [e["labels"] for e in batch]
-    labels = pad_sequence(input_ids, padding_value=-100)
+    labels = pad_sequence(labels, padding_value=-100)
 
     batch = {"input_ids": input_ids, "labels": labels}
 
