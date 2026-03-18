@@ -2,7 +2,11 @@ import json
 import os
 import pathlib
 
-from transformers import AutoTokenizer, AutoModelForTokenClassification
+from transformers import (
+    AutoTokenizer,
+    AutoModelForTokenClassification,
+    PreTrainedTokenizer,
+)
 from tqdm import tqdm
 
 RAW_TEXT_FOLDER = "./data/MedDec/raw_text"
@@ -22,7 +26,7 @@ def loadingbar(iterator, has_length=True):
     return lb
 
 
-def load_tokenizer(name) -> AutoTokenizer:
+def load_tokenizer(name) -> PreTrainedTokenizer:
 
     if os.path.isdir(name):
         cache_dir = None

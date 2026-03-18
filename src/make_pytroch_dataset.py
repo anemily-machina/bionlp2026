@@ -5,6 +5,8 @@ python src/make_pytroch_dataset.py EleutherAI/pythia-70m
 python src/make_pytroch_dataset.py FacebookAI/roberta-base
 
 python src/make_pytroch_dataset.py distilbert/distilbert-base-uncased
+
+BAAI/bge-m3
 """
 
 from utils import load_json

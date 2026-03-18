@@ -5,6 +5,9 @@ python src/tokenize_dataset.py EleutherAI/pythia-70m
 python src/tokenize_dataset.py FacebookAI/roberta-base
 
 python src/tokenize_dataset.py distilbert/distilbert-base-uncased
+
+python src/tokenize_dataset.py BAAI/bge-m3
+
 """
 
 from utils import (
@@ -135,7 +138,7 @@ def make_tokenizations(all_parses, model_name):
 
     tokenizer = load_tokenizer(model_name)
 
-    for key in loadingbar(all_parses.keys()):
+    for key in loadingbar(all_parses.keys()):  # enumerate(all_parses.keys()):
 
         tokenizer_parse_fname = os.path.join(tokenized_folder, f"{key}.json")
 
@@ -150,6 +153,7 @@ def make_tokenizations(all_parses, model_name):
         tokenization = tokenizer(sentence, return_offsets_mapping=True)
         offset_mappings = tokenization["offset_mapping"]
         input_ids = tokenization["input_ids"]
+
         tokens = tokenizer.convert_ids_to_tokens(input_ids)
 
         token_labels = []
@@ -167,6 +171,11 @@ def make_tokenizations(all_parses, model_name):
                 token_labels.append([-100])
                 continue
 
+            # handling weird case for BGE tokenizer that add a token of size 0
+            if tokens[o_i] == "▁":
+                token_labels.append(current_labels)
+                continue
+
             if len(current_word) == 0:
                 parse_i += 1
                 current_entry = parse[parse_i]
@@ -176,6 +185,24 @@ def make_tokenizations(all_parses, model_name):
             token_labels.append(current_labels)
 
             chunk_size = map_e - map_s
+
+            # print()
+            # print(offset_mapping)
+
+            # print(tokens[o_i])
+            # print(len(tokens[o_i]))
+            # print(input_ids[o_i])
+            # print(current_word[:chunk_size])
+            # print(current_word)
+            # print(sentence[map_s:map_e])
+            # print()
+
+            if chunk_size > len(current_word):
+                print()
+                # print(k_i)
+                print("token size mismatch")
+                print()
+                exit()
 
             current_word = current_word[chunk_size:]
             current_word = current_word.strip()  # sometimes stanza keeps whitespace
@@ -187,8 +214,6 @@ def make_tokenizations(all_parses, model_name):
         }
 
         save_json(entry, tokenizer_parse_fname)
-
-    exit()
 
 
 def main():
