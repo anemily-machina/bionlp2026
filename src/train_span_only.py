@@ -22,6 +22,9 @@ else:
 
 
 def compute_metrics(eval_pred):
+    """
+    seq size, batch, labels
+    """
     # metric1 = load_metric("precision")
     # metric2 = load_metric("recall")
     # metric3 = load_metric("f1")
@@ -29,8 +32,10 @@ def compute_metrics(eval_pred):
 
     logits, labels = eval_pred
 
-    print(logits)
-    print(labels)
+    print(eval_pred)
+    print(len(eval_pred))
+
+    # print(labels)
 
     exit()
 
