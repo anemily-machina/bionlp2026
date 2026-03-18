@@ -76,7 +76,7 @@ def main(ai_name):
         train_dataset=dataset,
         eval_dataset=dataset,
         data_collator=span_only_collate,
-        # compute_metrics=compute_metrics,
+        compute_metrics=compute_metrics,
     )
 
     trainer.train()
