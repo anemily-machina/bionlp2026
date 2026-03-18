@@ -38,8 +38,8 @@ def compute_metrics(eval_pred):
 
     print()
     print()
-    print(len(logits))
-    print(len(labels))
+    print(logits)
+    print(labels)
     print()
     print()
 
