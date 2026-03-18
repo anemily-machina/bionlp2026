@@ -1,13 +1,16 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
 from utils import load_ai_model4token_class, load_tokenizer
 
-from evaluate import load as load_metric
+import evaluate
 import numpy as np
 
 import torch
 from torch.utils.data import DataLoader
 
 from transformers import Trainer, TrainingArguments
+
+
+seqeval = evaluate.load("seqeval")
 
 if torch.cuda.is_available():
     print()
@@ -21,51 +24,26 @@ else:
     device = torch.device("cpu")
 
 
-def compute_metrics(eval_pred):
-    """
-    seq size, batch, labels
-    """
-    # metric1 = load_metric("precision")
-    # metric2 = load_metric("recall")
-    # metric3 = load_metric("f1")
-    metric4 = load_metric("accuracy")
+def compute_metrics(p):
+    predictions, labels = p
+    predictions = np.argmax(predictions, axis=2)
 
-    logits = eval_pred.predictions
-    labels = eval_pred.label_ids
+    true_predictions = [
+        [p for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(predictions, labels)
+    ]
+    true_labels = [
+        [l for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(predictions, labels)
+    ]
 
-    print()
-    print()
-    print(logits)
-    print(labels)
-    print(len(labels))
-    print(len(logits))
-    print()
-    print()
-
-    predications = []
-    references = []
-    for logit_ex, label_ex in zip(logits, labels):
-        print()
-        print(len(label_ex))
-        print(len(logit_ex))
-
-        print()
-
-    predictions = np.argmax(logits, axis=-1)
-
-    # precision = metric1.compute(
-    #     predictions=predictions, references=labels, average="micro"
-    # )["precision"]
-    # recall = metric2.compute(
-    #     predictions=predictions, references=labels, average="micro"
-    # )["recall"]
-    # f1 = metric3.compute(predictions=predictions, references=labels, average="micro")[
-    #     "f1"
-    # ]
-    accuracy = metric4.compute(predictions=predictions, references=labels)["accuracy"]
-
-    # return {"precision": precision, "recall": recall, "f1": f1, "accuracy": accuracy}
-    return {"accuracy": accuracy}
+    results = seqeval.compute(predictions=true_predictions, references=true_labels)
+    return {
+        "precision": results["overall_precision"],
+        "recall": results["overall_recall"],
+        "f1": results["overall_f1"],
+        "accuracy": results["overall_accuracy"],
+    }
 
 
 def main(ai_name):
