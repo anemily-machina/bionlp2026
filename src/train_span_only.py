@@ -41,15 +41,6 @@ def compute_metrics(p):
         if l != -100
     ]
 
-    print()
-    print()
-    print(true_predictions[:10])
-    print()
-    print(true_labels[:10])
-    print()
-
-    exit()
-
     results = seqeval.compute(predictions=true_predictions, references=true_labels)
     return {
         "precision": results["overall_precision"],
