@@ -40,7 +40,7 @@ def main(ai_name):
 
         output = ai_model(**batch)
 
-        print(output.size())
+        print(output.logits.size())
 
         print(output)
 
