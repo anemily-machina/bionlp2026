@@ -32,12 +32,15 @@ def compute_metrics(eval_pred):
 
     logits, labels = eval_pred
 
-    print(eval_pred)
-    print(len(eval_pred))
-
-    # print(labels)
+    print(len(logits))
+    print(len(labels))
 
     exit()
+
+    predications = []
+    references = []
+    for logit_ex, label_ex in zip(logits, labels):
+        pass
 
     predictions = np.argmax(logits, axis=-1)
 
