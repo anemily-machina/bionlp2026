@@ -1,7 +1,7 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
 from utils import load_ai_model4token_class, load_tokenizer
 
-from datasets import load_metric
+from evaluate import load as load_metric
 
 import torch
 from torch.utils.data import DataLoader
