@@ -27,7 +27,7 @@ SPLIT_FOLDER = "./data/splits"
 
 class SpanOnlyBioNLP(Dataset):
 
-    def __init__(self, ai_name, splits):
+    def __init__(self, ai_name, splits, max_size):
 
         super().__init__()
 
@@ -74,11 +74,33 @@ class SpanOnlyBioNLP(Dataset):
 
                 entry_labels.append(label)
 
-            example = {}
-            example["input_ids"] = torch.tensor(input_ids)
-            example["labels"] = torch.tensor(entry_labels)
+            if len(input_ids) <= max_size:
 
-            examples.append(example)
+                example_list = [(input_ids, entry_labels)]
+
+            else:
+                example_list = []
+                window_size = max_size // 4
+                s = 0
+                e = max_size
+                shift_window = True
+                while shift_window:
+                    ex = (input_ids[s:e], entry_labels[s:e])
+                    example_list.append(ex)
+
+                    if e > len(input_ids):
+                        shift_window = False
+                    else:
+                        s += window_size
+                        e += window_size
+
+            for ids, labels in example_list:
+
+                example = {}
+                example["input_ids"] = torch.tensor(ids)
+                example["labels"] = torch.tensor(labels)
+
+                examples.append(example)
 
         self.exmaples = examples
         self.class_sizes = class_sizes
@@ -109,10 +131,10 @@ def span_only_collate(batch):
     return batch
 
 
-def make_dataset(ai_name, split, span_only=False):
+def make_dataset(ai_name, split, max_size, span_only=False):
 
     if span_only:
-        dataset = SpanOnlyBioNLP(ai_name, split)
+        dataset = SpanOnlyBioNLP(ai_name, split, max_size)
 
         return dataset
 
@@ -127,7 +149,7 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    dataset = make_dataset(args.ai_name, split="train", span_only=True)
+    dataset = make_dataset(args.ai_name, split="train", max_size=8192, span_only=True)
 
     dataloader = DataLoader(
         dataset,
