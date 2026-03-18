@@ -37,8 +37,12 @@ def compute_metrics(p):
         for prediction, label in zip(predictions, labels)
     ]
 
-    print(true_predictions)
-    print(true_labels)
+    print()
+    print()
+    print(true_predictions[:10])
+    print()
+    print(true_labels[:10])
+    print()
 
     exit()
 
