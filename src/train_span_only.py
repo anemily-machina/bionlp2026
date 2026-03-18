@@ -37,6 +37,10 @@ def main(ai_name):
 
         batch = {k: v.to(device) for k, v in batch.items()}
 
+        print(batch)
+
+        exit()
+
         # labels = batch.pop("labels")
 
         output = ai_model(**batch)
