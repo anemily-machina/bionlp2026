@@ -42,8 +42,6 @@ def compute_metrics(eval_pred):
     print()
     print()
 
-    exit()
-
     predications = []
     references = []
     for logit_ex, label_ex in zip(logits, labels):
