@@ -25,7 +25,7 @@ def main(ai_name):
 
     dataloader = DataLoader(
         dataset,
-        batch_size=1,
+        batch_size=2,
         collate_fn=span_only_collate,
         shuffle=False,
         # num_workers=0,
