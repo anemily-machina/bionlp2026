@@ -37,6 +37,11 @@ def compute_metrics(p):
         for prediction, label in zip(predictions, labels)
     ]
 
+    print(true_predictions)
+    print(true_labels)
+
+    exit()
+
     results = seqeval.compute(predictions=true_predictions, references=true_labels)
     return {
         "precision": results["overall_precision"],
