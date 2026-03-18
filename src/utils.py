@@ -103,10 +103,13 @@ def load_all_stanza_parses():
     return parses
 
 
-def load_txt_file(fname):
+def load_txt_file(fname, lines=False):
 
     with open(fname, "r") as f_in:
-        text = f_in.read()
+        if lines:
+            text = f_in.readlines()
+        else:
+            text = f_in.read()
 
     return text
 

@@ -6,10 +6,12 @@ python src/make_pytroch_dataset.py FacebookAI/roberta-base
 
 python src/make_pytroch_dataset.py distilbert/distilbert-base-uncased
 
-BAAI/bge-m3
+python src/make_pytroch_dataset.py BAAI/bge-m3
+
+
 """
 
-from utils import load_json
+from utils import load_json, load_txt_file
 
 import argparse
 import os
@@ -20,18 +22,27 @@ from torch.utils.data import DataLoader, Dataset
 
 
 TOKENIZER_PARSE_FOLDER = "./data/tokenized_examples"
+SPLIT_FOLDER = "./data/splits"
 
 
 class SpanOnlyBioNLP(Dataset):
 
-    def __init__(self, ai_name):
+    def __init__(self, ai_name, splits):
 
         super().__init__()
 
+        if isinstance(splits, str):
+            splits = [splits]
+
         tokenized_folder = os.path.join(TOKENIZER_PARSE_FOLDER, ai_name)
 
-        files = os.listdir(tokenized_folder)
-        files = [os.path.join(tokenized_folder, f) for f in files]
+        keys = []
+        for split in splits:
+            split_file = os.path.join(SPLIT_FOLDER, f"{split}.txt")
+
+            keys += load_txt_file(split_file, lines=True)
+
+        files = [os.path.join(tokenized_folder, f"{k.strip()}.json") for k in keys]
 
         class_sizes = {0: 0, 1: 0}
 
@@ -98,10 +109,10 @@ def span_only_collate(batch):
     return batch
 
 
-def make_dataset(ai_name, span_only=False):
+def make_dataset(ai_name, split, span_only=False):
 
     if span_only:
-        dataset = SpanOnlyBioNLP(ai_name)
+        dataset = SpanOnlyBioNLP(ai_name, split)
 
         return dataset
 
@@ -116,7 +127,7 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    dataset = make_dataset(args.ai_name, span_only=True)
+    dataset = make_dataset(args.ai_name, split="train", span_only=True)
 
     dataloader = DataLoader(
         dataset,
