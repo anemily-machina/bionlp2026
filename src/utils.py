@@ -286,6 +286,9 @@ class CustomTrainer(Trainer):
 
                 self.confusion[l][p] += 1
 
+            print()
+            print(self.train_log_count)
+            print()
             self.train_log_count -= self._train_batch_size
 
             if self.train_log_count <= 0:
