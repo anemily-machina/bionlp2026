@@ -176,9 +176,13 @@ class CustomTrainer(Trainer):
                     correct[i] = v
 
         a = sum(correct) / sum(total_l)
-        class_r = [correct[i] / total_l[i] for i in range(num_c)]
+        class_r = [
+            correct[i] / total_l[i] if total_l[i] > 0 else 0 for i in range(num_c)
+        ]
         r = sum(class_r) / num_c
-        class_p = [correct[i] / total_p[i] for i in range(num_c)]
+        class_p = [
+            correct[i] / total_p[i] if total_p[i] > 0 else 0 for i in range(num_c)
+        ]
         p = sum(class_p) / num_c
 
         class_f1 = [
