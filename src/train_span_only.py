@@ -65,7 +65,9 @@ def main(ai_name):
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
     balanced_weights = dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
-    dataset = dataset[:1]
+
+    log_size = 10
+    dataset = dataset[:10]
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
 
@@ -101,6 +103,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_loss_func=compute_loss_func,
+        train_log_iter=5,
     )
 
     trainer.add_callback(CustomCallback(trainer))
