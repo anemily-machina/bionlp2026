@@ -5,6 +5,7 @@ import evaluate
 import numpy as np
 
 import torch
+from torch.nn import CrossEntropyLoss
 from torch.utils.data import DataLoader
 
 from transformers import TrainingArguments
@@ -85,6 +86,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_metrics=compute_metrics,
+        compute_loss_func=CrossEntropyLoss,
     )
 
     trainer.train()
