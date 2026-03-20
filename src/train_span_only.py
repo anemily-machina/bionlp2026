@@ -60,7 +60,7 @@ def main(ai_name):
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
     balanced_weights = dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
-    dataset = dataset[:10]
+    dataset = dataset[:1]
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
 
@@ -76,7 +76,7 @@ def main(ai_name):
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
-        learning_rate=2e-4,
+        learning_rate=2e-5,
         per_device_train_batch_size=1,
         per_device_eval_batch_size=1,
         num_train_epochs=100,
