@@ -207,13 +207,15 @@ class CustomTrainer(Trainer):
             inputs = {**inputs, **kwargs}
 
         outputs = model(**inputs)
-        logits = outputs.logits
 
-        preds = logits.detach().argmax(axis=-1)
-        # taking into account pad labels = -100
-        match = preds - labels
-        correct = torch.sum(match == 0)
-        total = torch.sum(preds > -1)
+        with torch.no_grad():
+            logits = outputs.logits.detach()
+
+            preds = logits.argmax(axis=-1)
+            # taking into account pad labels = -100
+            match = preds - labels
+            correct = torch.sum(match == 0)
+            total = torch.sum(preds > -1)
 
         self.correct_acc += correct
         self.total_acc += total
