@@ -258,8 +258,9 @@ class CustomTrainer(Trainer):
         outputs = model(**inputs)
 
         with torch.no_grad():
-            batch_size = logits.size(0)
+
             logits = outputs.logits.detach()
+            batch_size = logits.size(0)
 
             logits = logits.view(-1, 2)
             labels = labels.view(-1)
