@@ -54,6 +54,10 @@ def main(ai_name):
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
 
+    print(ai_model)
+
+    exit()
+
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)

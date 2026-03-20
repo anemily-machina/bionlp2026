@@ -201,6 +201,7 @@ class CustomTrainer(Trainer):
             inputs = {**inputs, **kwargs}
 
         outputs = model(**inputs)
+        logits = outputs.logits
 
         print()
         print()
