@@ -218,9 +218,10 @@ class CustomTrainer(Trainer):
         with torch.no_grad():
             logits = outputs.logits.detach()
 
+            logits = logits.view(-1, 2)
+            labels = labels.view(-1)
+
             preds = logits.argmax(axis=-1)
-            # taking into account pad labels = -100
-            match = preds - labels
 
             correct = 0
             total = 0
@@ -246,7 +247,7 @@ class CustomTrainer(Trainer):
 
                 acc = self.correct_acc / self.total_acc
 
-                self.log({"accuracy": acc})
+                self.log({"accuracy": acc} | self.batch_class_count)
 
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
