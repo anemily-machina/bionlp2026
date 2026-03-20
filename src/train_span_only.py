@@ -1,5 +1,5 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
-from utils import load_ai_model4token_class, load_tokenizer
+from utils import CustomTraner, load_ai_model4token_class, load_tokenizer
 
 import evaluate
 import numpy as np
@@ -7,7 +7,7 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader
 
-from transformers import Trainer, TrainingArguments
+from transformers import TrainingArguments
 
 
 seqeval = evaluate.load("seqeval")
@@ -74,7 +74,7 @@ def main(ai_name):
         logging_strategy="steps",
     )
 
-    trainer = Trainer(
+    trainer = CustomTraner(
         model=ai_model.to(device),
         args=training_args,
         train_dataset=dataset,

@@ -121,10 +121,10 @@ class SpanOnlyBioNLP(Dataset):
 def span_only_collate(batch):
 
     input_ids = [e["input_ids"] for e in batch]
-    input_ids = pad_sequence(input_ids)
+    input_ids = pad_sequence(input_ids, batch_first=True)
 
     labels = [e["labels"] for e in batch]
-    labels = pad_sequence(labels, padding_value=-100)
+    labels = pad_sequence(labels, padding_value=-100, batch_first=True)
 
     batch = {"input_ids": input_ids, "labels": labels}
 
