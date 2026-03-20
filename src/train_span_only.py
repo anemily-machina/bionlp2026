@@ -1,5 +1,10 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
-from utils import CustomTrainer, load_ai_model4token_class, load_tokenizer
+from utils import (
+    CustomCallback,
+    CustomTrainer,
+    load_ai_model4token_class,
+    load_tokenizer,
+)
 
 import evaluate
 import numpy as np
@@ -97,6 +102,8 @@ def main(ai_name):
         data_collator=span_only_collate,
         compute_loss_func=compute_loss_func,
     )
+
+    trainer.add_callback(CustomCallback(trainer))
 
     trainer.train()
 

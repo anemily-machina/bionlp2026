@@ -11,6 +11,7 @@ from transformers import (
     AutoModelForTokenClassification,
     PreTrainedTokenizer,
     Trainer,
+    TrainerCallback,
 )
 from transformers.integrations.deepspeed import deepspeed_sp_compute_loss
 from transformers.models.auto.modeling_auto import MODEL_FOR_CAUSAL_LM_MAPPING_NAMES
@@ -155,6 +156,9 @@ class CustomTrainer(Trainer):
         self.train_log_iter = kwargs.pop("train_log_iter", 10)
         self.train_log_count = self.train_log_iter
 
+        self.num_classes = kwargs.pop("num_classes", 2)
+        self.batch_class_count = {k: 0 for k in range(self.num_classes)}
+
         self.correct_acc = 0
         self.total_acc = 0
 
@@ -217,18 +221,30 @@ class CustomTrainer(Trainer):
             preds = logits.argmax(axis=-1)
             # taking into account pad labels = -100
             match = preds - labels
-            correct = torch.sum(match == 0)
-            total = torch.sum(preds > -1)
+
+            correct = 0
+            total = 0
+            for p, l in zip(preds, labels):
+                if l == -100:
+                    continue
+
+                total += 1
+                correct += 1 if p == l else 0
+
+                p = int(p)
+
+                self.batch_class_count[p] += 1
 
             self.correct_acc += correct
             self.total_acc += total
-            acc = float(correct / total)
 
             self.train_log_count -= 1
 
             if self.train_log_count == 0:
 
                 self.train_log_count = self.train_log_iter
+
+                acc = self.correct_acc / self.total_acc
 
                 self.log({"accuracy": acc})
 
@@ -278,3 +294,19 @@ class CustomTrainer(Trainer):
             )
 
         return (loss, outputs) if return_outputs else loss
+
+
+class CustomCallback(TrainerCallback):
+
+    def __init__(self, trainer) -> None:
+        super().__init__()
+        self._trainer = trainer
+
+    def on_epoch_end(self, args, state, control, **kwargs):
+
+        self._trainer.batch_class_count = {
+            k: 0 for k in range(self._trainer.num_classes)
+        }
+
+        self._trainer.correct_acc = 0
+        self._trainer.total_acc = 0
