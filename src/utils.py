@@ -186,7 +186,11 @@ class CustomTrainer(Trainer):
         p = sum(class_p) / num_c
 
         class_f1 = [
-            2 * class_r[i] * class_p[i] / (class_r[i] + class_p[i])
+            (
+                2 * class_r[i] * class_p[i] / (class_r[i] + class_p[i])
+                if class_r[i] > 0 and class_p[i] > 0
+                else 0
+            )
             for i in range(num_c)
         ]
         f1 = sum(class_f1) / num_c
