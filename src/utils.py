@@ -147,7 +147,7 @@ def save_json(data, fname, full=False):
         json.dump(data, f_out, indent=indent)
 
 
-def CustomTraner(Trainer):
+class CustomTrainer(Trainer):
     def __init__(self, trainer) -> None:
         super().__init__()
 
