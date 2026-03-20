@@ -86,7 +86,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_metrics=compute_metrics,
-        compute_loss_func=compute_loss_func(),
+        compute_loss_func=compute_loss_func,
     )
 
     trainer.train()
