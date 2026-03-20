@@ -148,8 +148,6 @@ def save_json(data, fname, full=False):
 
 
 class CustomTrainer(Trainer):
-    def __init__(self, trainer) -> None:
-        super().__init__()
 
     def compute_loss(
         self,
