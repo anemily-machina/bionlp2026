@@ -51,6 +51,10 @@ def compute_metrics(p):
     }
 
 
+def compute_loss_func(preds, labels, num_items_in_batch):
+    pass
+
+
 def main(ai_name):
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
@@ -82,7 +86,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_metrics=compute_metrics,
-        compute_loss_func=CrossEntropyLoss,
+        compute_loss_func=compute_loss_func(),
     )
 
     trainer.train()

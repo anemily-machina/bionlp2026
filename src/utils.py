@@ -214,11 +214,17 @@ class CustomTrainer(Trainer):
         print()
 
         preds = logits.detach().argmax(axis=-1)
+        # taking into account pad labels = -100
+        match = preds - labels
+        correct = torch.sum(match == 0)
+        total = torch.sum(preds > -1)
+
+        acc = correct / total
 
         print()
         print(preds.size())
         print(labels.size())
-
+        print(acc)
         print()
 
         # User-defined compute_loss function
@@ -231,8 +237,9 @@ class CustomTrainer(Trainer):
             loss = self.compute_loss_func(
                 outputs,
                 labels,
-                # num_items_in_batch=num_items_in_batch,
+                num_items_in_batch=num_items_in_batch,
             )
+            exit()
         # Default HF loss handling (label smoothing) if no custom loss function
         elif labels is not None:
             unwrapped_model = self.accelerator.unwrap_model(model)
