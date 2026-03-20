@@ -172,6 +172,8 @@ class CustomTrainer(Trainer):
         self.train_log_iter = kwargs.pop("train_log_iter", 10)
         self.num_classes = kwargs.pop("num_classes", 2)
 
+        self.reset_tracking()
+
         super().__init__(*args, **kwargs)
 
     def compute_loss(
