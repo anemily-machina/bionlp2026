@@ -45,7 +45,7 @@ class SpanOnlyBioNLP(Dataset):
         files = [os.path.join(tokenized_folder, f"{k.strip()}.json") for k in keys]
 
         # DBUGGING
-        files = files[:10]
+        # files = files[:10]
 
         class_sizes = {0: 0, 1: 0}
 

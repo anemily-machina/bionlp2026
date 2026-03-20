@@ -59,7 +59,6 @@ def compute_metrics(p):
 def main(ai_name):
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
-
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
@@ -89,7 +88,7 @@ def main(ai_name):
         # save_strategy="epoch",
         # load_best_model_at_end=True,
         # push_to_hub=False,
-        logging_steps=2,
+        logging_steps=12,
         logging_strategy="steps",
     )
 
@@ -100,7 +99,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_loss_func=compute_loss_func,
-        train_log_iter=5,
+        train_log_iter=25,
     )
 
     trainer.add_callback(CustomCallback(trainer))
