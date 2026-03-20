@@ -91,7 +91,7 @@ def main(ai_name):
         # save_strategy="epoch",
         # load_best_model_at_end=True,
         # push_to_hub=False,
-        logging_steps=3,
+        logging_steps=5,
         logging_strategy="steps",
     )
 
