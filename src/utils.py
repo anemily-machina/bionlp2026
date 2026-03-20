@@ -150,19 +150,29 @@ def save_json(data, fname, full=False):
 
 class CustomTrainer(Trainer):
 
+    def reset_tracking(self):
+
+        self.train_log_count = self.train_log_iter
+
+        self.confusion = {
+            str(k1): {str(k2): 0 for k2 in range(self.num_classes)}
+            for k1 in range(self.num_classes)
+        }
+
+        self.correct_acc = 0
+        self.total_acc = 0
+
+    def log_tracking(self):
+        acc = self.correct_acc / self.total_acc
+
+        self.log({"train_acc": acc} | self.confusion)
+
     def __init__(self, *args, **kwargs):
 
         self.train_log_iter = kwargs.pop("train_log_iter", 10)
         self.num_classes = kwargs.pop("num_classes", 2)
 
         super().__init__(*args, **kwargs)
-
-        self.train_log_count = self.train_log_iter
-
-        self.batch_class_count = {k: 0 for k in range(self.num_classes)}
-
-        self.correct_acc = 0
-        self.total_acc = 0
 
     def compute_loss(
         self,
@@ -234,9 +244,10 @@ class CustomTrainer(Trainer):
                 total += 1
                 correct += 1 if p == l else 0
 
-                p = int(p)
+                p = str(int(p))
+                l = str(int(l))
 
-                self.batch_class_count[p] += 1
+                self.confusion[l][p] += 1
 
             self.correct_acc += correct
             self.total_acc += total
@@ -245,11 +256,9 @@ class CustomTrainer(Trainer):
 
             if self.train_log_count <= 0:
 
+                self.log_tracking()
+
                 self.train_log_count = self.train_log_iter
-
-                acc = self.correct_acc / self.total_acc
-
-                self.log({"accuracy": acc} | self.batch_class_count)
 
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
@@ -307,15 +316,6 @@ class CustomCallback(TrainerCallback):
 
     def on_epoch_end(self, args, state, control, **kwargs):
 
-        self._trainer.train_log_count = self._trainer.train_log_iter
+        self._trainer.log_tracking()
 
-        acc = self._trainer.correct_acc / self._trainer.total_acc
-
-        self._trainer.log({"accuracy": acc} | self._trainer.batch_class_count)
-
-        self._trainer.batch_class_count = {
-            k: 0 for k in range(self._trainer.num_classes)
-        }
-
-        self._trainer.correct_acc = 0
-        self._trainer.total_acc = 0
+        self.reset_tracking()
