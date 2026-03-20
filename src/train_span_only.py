@@ -63,8 +63,8 @@ def main(ai_name):
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
         learning_rate=2e-4,
-        per_device_train_batch_size=1,
-        per_device_eval_batch_size=1,
+        per_device_train_batch_size=4,
+        per_device_eval_batch_size=4,
         num_train_epochs=100,
         weight_decay=0.01,
         eval_strategy="epoch",

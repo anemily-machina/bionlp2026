@@ -205,11 +205,11 @@ class CustomTrainer(Trainer):
 
         print()
         print()
-        print(outputs)
+        print(logits)
         print()
         print(labels)
         print()
-        print(outputs.size())
+        print(logits.size())
         print(labels.size())
         print()
 
