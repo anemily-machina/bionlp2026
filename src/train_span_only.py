@@ -82,11 +82,11 @@ def main(ai_name):
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
-        learning_rate=2e-4,
+        learning_rate=1e-4,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
         num_train_epochs=100,
-        weight_decay=0.01,
+        # weight_decay=0.01,
         eval_strategy="epoch",
         # save_strategy="epoch",
         # load_best_model_at_end=True,

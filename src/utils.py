@@ -307,6 +307,12 @@ class CustomCallback(TrainerCallback):
 
     def on_epoch_end(self, args, state, control, **kwargs):
 
+        self._trainer.train_log_count = self._trainer.train_log_iter
+
+        acc = self._trainer.correct_acc / self._trainer.total_acc
+
+        self._trainer.log({"accuracy": acc} | self._trainer.batch_class_count)
+
         self._trainer.batch_class_count = {
             k: 0 for k in range(self._trainer.num_classes)
         }
