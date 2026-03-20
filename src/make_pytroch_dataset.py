@@ -106,8 +106,9 @@ class SpanOnlyBioNLP(Dataset):
         self.class_sizes = class_sizes
 
     def balanced_weights(self):
-        total = sum(self.class_sizes.values())
-        weights = [v / total for v in self.class_sizes.values()]
+        max_class = max(self.class_sizes.values())
+        weights = [max_class / v for v in self.class_sizes.values()]
+        weights = torch.tensor(weights)
         return weights
 
     def __len__(self):

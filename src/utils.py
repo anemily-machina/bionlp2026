@@ -152,6 +152,9 @@ class CustomTrainer(Trainer):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
+        self.train_log_iter = kwargs.pop("train_log_iter", 10)
+        self.train_log_count = self.train_log_iter
+
         self.correct_acc = 0
         self.total_acc = 0
 
@@ -217,11 +220,17 @@ class CustomTrainer(Trainer):
             correct = torch.sum(match == 0)
             total = torch.sum(preds > -1)
 
-        self.correct_acc += correct
-        self.total_acc += total
-        acc = float(correct / total)
+            self.correct_acc += correct
+            self.total_acc += total
+            acc = float(correct / total)
 
-        self.log({"accuracy": acc})
+            self.train_log_count -= 1
+
+            if self.train_log_count == 0:
+
+                self.train_log_count = self.train_log_iter
+
+                self.log({"accuracy": acc})
 
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
