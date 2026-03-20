@@ -88,7 +88,7 @@ def main(ai_name):
         # save_strategy="epoch",
         # load_best_model_at_end=True,
         # push_to_hub=False,
-        logging_steps=25,
+        logging_steps=10,
         logging_strategy="steps",
     )
 
@@ -99,7 +99,7 @@ def main(ai_name):
         eval_dataset=dataset,
         data_collator=span_only_collate,
         compute_loss_func=compute_loss_func,
-        train_log_iter=50,
+        train_log_iter=40,
     )
 
     trainer.add_callback(CustomCallback(trainer))
