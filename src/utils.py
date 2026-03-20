@@ -154,18 +154,48 @@ class CustomTrainer(Trainer):
 
         self.train_log_count = self.train_log_iter
 
-        self.confusion = {
-            str(k1): {str(k2): 0 for k2 in range(self.num_classes)}
-            for k1 in range(self.num_classes)
-        }
-
-        self.correct_acc = 0
-        self.total_acc = 0
+        self.confusion = [
+            [0 for _ in range(self.num_classes)] for _ in range(self.num_classes)
+        ]
 
     def log_tracking(self):
-        acc = self.correct_acc / self.total_acc
+        num_c = self.num_classes
+        c = self.confusion
 
-        self.log({"train_acc": acc} | self.confusion)
+        total_l = [0 for _ in range(num_c)]
+        total_p = [0 for _ in range(num_c)]
+        correct = [0 for _ in range(num_c)]
+
+        correct = 0
+
+        for i in range(num_c):
+            for j in range(num_c):
+                v = c[i][j]
+                total_l[i] += v
+                total_p[j] += v
+
+                if i == j:
+                    correct[i] = v
+
+        a = sum(correct) / sum(total_l)
+        class_r = [correct[i] / sum(total_l[i]) for i in range(num_c)]
+        r = sum(class_r) / num_c
+        class_p = [correct[i] / sum(total_p[i]) for i in range(num_c)]
+        p = sum(class_p) / num_c
+
+        class_f1 = [
+            2 * class_r[i] * class_p[i] / (class_r[i] + class_p[i])
+            for i in range(num_c)
+        ]
+        f1 = sum(class_f1) / num_c
+
+        log_entry = {
+            "train": {"accuracy": a, "recall": r, "precision": p, "f1": f1},
+            "class": {"recall": class_r, "precision": class_p, "f1": class_f1},
+            "confusion_matrix": c,
+        }
+
+        self.log(log_entry)
 
     def __init__(self, *args, **kwargs):
 
@@ -240,19 +270,17 @@ class CustomTrainer(Trainer):
             correct = 0
             total = 0
             for p, l in zip(preds, labels):
+
+                p = int(p)
+                l = int(l)
+
                 if l == -100:
                     continue
 
                 total += 1
                 correct += 1 if p == l else 0
 
-                p = str(int(p))
-                l = str(int(l))
-
                 self.confusion[l][p] += 1
-
-            self.correct_acc += correct
-            self.total_acc += total
 
             self.train_log_count -= total
 
