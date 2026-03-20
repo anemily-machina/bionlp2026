@@ -166,8 +166,6 @@ class CustomTrainer(Trainer):
         total_p = [0 for _ in range(num_c)]
         correct = [0 for _ in range(num_c)]
 
-        correct = 0
-
         for i in range(num_c):
             for j in range(num_c):
                 v = c[i][j]
