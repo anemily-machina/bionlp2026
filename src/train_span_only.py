@@ -66,13 +66,14 @@ def main(ai_name):
 
         logits = outputs.logits
         logits = logits.view(-1, 2)
-        labels = labels.view(-1, 1)
-
-        loss = _loss_fn(logits, labels)
+        labels = labels.view(-1)
 
         print()
         print(logits.size())
         print(labels.size())
+
+        loss = _loss_fn(logits, labels)
+
         print(loss)
         print()
 
