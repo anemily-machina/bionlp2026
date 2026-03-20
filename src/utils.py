@@ -261,38 +261,39 @@ class CustomTrainer(Trainer):
 
         outputs = model(**inputs)
 
-        with torch.no_grad():
+        if model.training:
+            with torch.no_grad():
 
-            logits = outputs.logits.detach()
-            batch_size = logits.size(0)
+                logits = outputs.logits.detach()
+                batch_size = logits.size(0)
 
-            logits = logits.view(-1, 2)
-            labels = labels.view(-1)
+                logits = logits.view(-1, 2)
+                labels = labels.view(-1)
 
-            preds = logits.argmax(axis=-1)
+                preds = logits.argmax(axis=-1)
 
-            correct = 0
-            total = 0
-            for p, l in zip(preds, labels):
+                correct = 0
+                total = 0
+                for p, l in zip(preds, labels):
 
-                p = int(p)
-                l = int(l)
+                    p = int(p)
+                    l = int(l)
 
-                if l == -100:
-                    continue
+                    if l == -100:
+                        continue
 
-                total += 1
-                correct += 1 if p == l else 0
+                    total += 1
+                    correct += 1 if p == l else 0
 
-                self.confusion[l][p] += 1
+                    self.confusion[l][p] += 1
 
-            self.train_log_count -= self._train_batch_size
+                self.train_log_count -= self._train_batch_size
 
-            if self.train_log_count <= 0:
+                if self.train_log_count <= 0:
 
-                self.log_tracking()
+                    self.log_tracking()
 
-                self.train_log_count = self.train_log_iter
+                    self.train_log_count = self.train_log_iter
 
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
