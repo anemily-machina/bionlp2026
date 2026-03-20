@@ -217,7 +217,7 @@ class CustomTrainer(Trainer):
 
         self.correct_acc += correct
         self.total_acc += total
-        acc = correct / total
+        acc = float(correct / total)
 
         self.log({"accuracy": acc})
 
@@ -233,7 +233,7 @@ class CustomTrainer(Trainer):
                 labels,
                 num_items_in_batch=num_items_in_batch,
             )
-            exit()
+
         # Default HF loss handling (label smoothing) if no custom loss function
         elif labels is not None:
             unwrapped_model = self.accelerator.unwrap_model(model)
