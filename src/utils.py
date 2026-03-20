@@ -149,6 +149,12 @@ def save_json(data, fname, full=False):
 
 class CustomTrainer(Trainer):
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        self.correct_acc = 0
+        self.total_acc = 0
+
     def compute_loss(
         self,
         model: nn.Module,
@@ -203,29 +209,17 @@ class CustomTrainer(Trainer):
         outputs = model(**inputs)
         logits = outputs.logits
 
-        print()
-        print()
-        print(logits)
-        print()
-        print(labels)
-        print()
-        print(logits.size())
-        print(labels.size())
-        print()
-
         preds = logits.detach().argmax(axis=-1)
         # taking into account pad labels = -100
         match = preds - labels
         correct = torch.sum(match == 0)
         total = torch.sum(preds > -1)
 
+        self.correct_acc += correct
+        self.total_acc += total
         acc = correct / total
 
-        print()
-        print(preds.size())
-        print(labels.size())
-        print(acc)
-        print()
+        self.log({"accuracy": acc})
 
         # User-defined compute_loss function
         if self.compute_loss_func is not None:

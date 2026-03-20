@@ -51,10 +51,6 @@ def compute_metrics(p):
     }
 
 
-def compute_loss_func(preds, labels, num_items_in_batch):
-    pass
-
-
 def main(ai_name):
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
@@ -63,6 +59,15 @@ def main(ai_name):
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
     dataset = dataset[:10]
+
+    _loss_fn = CrossEntropyLoss()
+
+    def compute_loss_func(outputs, labels, num_items_in_batch):
+
+        print()
+        print(outputs.size())
+        print(labels.size())
+        print()
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/test",
