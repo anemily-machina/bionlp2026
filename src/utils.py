@@ -258,6 +258,7 @@ class CustomTrainer(Trainer):
         outputs = model(**inputs)
 
         with torch.no_grad():
+            batch_size = logits.size(0)
             logits = outputs.logits.detach()
 
             logits = logits.view(-1, 2)
@@ -280,7 +281,7 @@ class CustomTrainer(Trainer):
 
                 self.confusion[l][p] += 1
 
-            self.train_log_count -= total
+            self.train_log_count -= batch_size
 
             if self.train_log_count <= 0:
 
