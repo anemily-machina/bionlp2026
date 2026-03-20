@@ -348,4 +348,4 @@ class CustomCallback(TrainerCallback):
 
         self._trainer.log_tracking()
 
-        self.reset_tracking()
+        self._trainer.reset_tracking()
