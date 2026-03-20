@@ -90,6 +90,8 @@ def main(ai_name):
         # push_to_hub=False,
         logging_steps=10,
         logging_strategy="steps",
+        save_total_limit=1,
+        load_best_model_at_end=True,
     )
 
     trainer = CustomTrainer(
