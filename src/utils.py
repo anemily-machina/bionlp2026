@@ -213,6 +213,14 @@ class CustomTrainer(Trainer):
         print(labels.size())
         print()
 
+        preds = logits.detach().argmax(axis=-1)
+
+        print()
+        print(preds.size())
+        print(labels.size())
+
+        print()
+
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
             if labels is None:
@@ -223,7 +231,7 @@ class CustomTrainer(Trainer):
             loss = self.compute_loss_func(
                 outputs,
                 labels,
-                num_items_in_batch=num_items_in_batch,
+                # num_items_in_batch=num_items_in_batch,
             )
         # Default HF loss handling (label smoothing) if no custom loss function
         elif labels is not None:
