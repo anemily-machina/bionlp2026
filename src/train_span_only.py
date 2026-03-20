@@ -59,6 +59,7 @@ def main(ai_name):
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
     balanced_weights = dataset.balanced_weights()
+    balanced_weights = balanced_weights.to(device)
     dataset = dataset[:10]
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
