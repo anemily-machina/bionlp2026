@@ -241,9 +241,9 @@ class CustomTrainer(Trainer):
             self.correct_acc += correct
             self.total_acc += total
 
-            self.train_log_count -= 1
+            self.train_log_count -= total
 
-            if self.train_log_count == 0:
+            if self.train_log_count <= 0:
 
                 self.train_log_count = self.train_log_iter
 
