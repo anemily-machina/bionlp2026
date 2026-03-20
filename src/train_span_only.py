@@ -1,5 +1,5 @@
 from make_pytroch_dataset import make_dataset, span_only_collate
-from utils import CustomTraner, load_ai_model4token_class, load_tokenizer
+from utils import CustomTrainer, load_ai_model4token_class, load_tokenizer
 
 import evaluate
 import numpy as np
@@ -74,7 +74,7 @@ def main(ai_name):
         logging_strategy="steps",
     )
 
-    trainer = CustomTraner(
+    trainer = CustomTrainer(
         model=ai_model.to(device),
         args=training_args,
         train_dataset=dataset,
