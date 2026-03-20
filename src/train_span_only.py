@@ -64,8 +64,10 @@ def main(ai_name):
 
     def compute_loss_func(outputs, labels, num_items_in_batch):
 
+        logits = outputs.logits
+
         print()
-        print(outputs.size())
+        print(logits.size())
         print(labels.size())
         print()
 
