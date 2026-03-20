@@ -151,12 +151,14 @@ def save_json(data, fname, full=False):
 class CustomTrainer(Trainer):
 
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
 
         self.train_log_iter = kwargs.pop("train_log_iter", 10)
+        self.num_classes = kwargs.pop("num_classes", 2)
+
+        super().__init__(*args, **kwargs)
+
         self.train_log_count = self.train_log_iter
 
-        self.num_classes = kwargs.pop("num_classes", 2)
         self.batch_class_count = {k: 0 for k in range(self.num_classes)}
 
         self.correct_acc = 0

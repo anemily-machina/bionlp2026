@@ -66,7 +66,6 @@ def main(ai_name):
     balanced_weights = dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
-    log_size = 10
     dataset = dataset[:10]
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
