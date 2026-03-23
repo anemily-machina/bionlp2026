@@ -120,7 +120,7 @@ def main(ai_name):
         eval_strategy="epoch",
         logging_steps=10,
         logging_strategy="steps",
-        save_total_limit=1,
+        save_total_limit=2,
         save_strategy="epoch",
         load_best_model_at_end=True,
         seed=4321,
