@@ -116,7 +116,7 @@ def main(ai_name):
         per_device_eval_batch_size=2,
         num_train_epochs=1000,
         weight_decay=0.01,
-        warmup_steps=10,
+        warmup_steps=100,
         eval_strategy="epoch",
         logging_steps=10,
         logging_strategy="steps",
