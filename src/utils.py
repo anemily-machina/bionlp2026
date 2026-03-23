@@ -265,7 +265,7 @@ class CustomTrainer(Trainer):
 
         outputs = model(**inputs)
 
-        if model.training:
+        if True:  # model.training:
             with torch.no_grad():
 
                 logits = outputs.logits.detach()
