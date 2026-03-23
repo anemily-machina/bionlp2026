@@ -85,8 +85,9 @@ class SingleClassBioNLP(Dataset):
 
                     else:
                         label = labels[0] + 1  # how to handle multiple labels?
+                if label != -100:
+                    class_sizes[label] += 1
 
-                class_sizes[label] += 1
                 entry_labels.append(label)
 
             if len(input_ids) <= max_size:
