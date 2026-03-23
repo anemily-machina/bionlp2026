@@ -60,14 +60,22 @@ def compute_metrics(p):
 
 def main(ai_name):
 
-    lora_config = LoraConfig()
+    lora_config = LoraConfig(
+        r=128,
+        lora_alpha=256,
+        target_modules=["query", "key", "value", "dense"],
+        modules_to_save=["classifier"],
+        init_lora_weights="pissa_niter_10",
+    )
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
+    ai_model = inject_adapter_in_model(lora_config, ai_model)
 
     print(ai_model)
 
     exit()
 
+    ai_model.float()
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
@@ -92,7 +100,8 @@ def main(ai_name):
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
         num_train_epochs=100,
-        # weight_decay=0.01,
+        weight_decay=0.01,
+        warmup_ratio=0.1,
         eval_strategy="epoch",
         # save_strategy="epoch",
         # load_best_model_at_end=True,
@@ -102,6 +111,8 @@ def main(ai_name):
         save_total_limit=1,
         save_strategy="epoch",
         load_best_model_at_end=True,
+        seed=4321,
+        gradient_accumulation_steps=8,
     )
 
     trainer = CustomTrainer(
