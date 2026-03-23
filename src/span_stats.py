@@ -1,6 +1,7 @@
 from utils import load_json, load_txt_file, loadingbar, save_json
 
 import json
+import math
 import os
 
 
@@ -28,7 +29,7 @@ def load_annotations(keys):
 
     ann_folder = "data/MedDec/data"
 
-    all_annotations = []
+    all_annotations = {}
 
     for key in loadingbar(keys):
 
@@ -36,7 +37,7 @@ def load_annotations(keys):
 
         ann = load_json(f)
 
-        all_annotations.append(ann)
+        all_annotations[key] = ann
 
     return all_annotations
 
@@ -58,18 +59,15 @@ def seperate_annotaions(all_annotations):
         "TBD",
     ]
 
-    ann_by_cat = {k: {} for k in categories}
-    for annotations in loadingbar(all_annotations):
-
-        key = annotations["discharge_summary_id"]
+    ann_by_cat = {
+        cat_str: {key: [] for key in all_annotations.keys()} for cat_str in categories
+    }
+    for key, annotations in loadingbar(all_annotations.items()):
 
         for ann in annotations["annotations"]:
 
             category = ann.pop("category")
             cat_str = category[:11]
-
-            if key not in ann_by_cat[cat_str]:
-                ann_by_cat[cat_str][key] = []
 
             ann_by_cat[cat_str][key].append(ann)
 
@@ -91,13 +89,23 @@ def seperate_annotaions(all_annotations):
 
 def calc_stats(ann_by_cat):
 
-    hists = {k: {"token_size": {}, "span_gaps": {}} for k in ann_by_cat.keys()}
+    stat_types = ["token_size (tokens)", "span_gaps (tokens)", "total_count (spans)"]
+
+    hists = {k: {s_type: {} for s_type in stat_types} for k in ann_by_cat.keys()}
 
     for cat_str, cat_key_anns in ann_by_cat.items():
 
         cat_hists = hists[cat_str]
 
         for key, key_anns in cat_key_anns.items():
+
+            count = len(key_anns)
+            if count not in cat_hists["count"]:
+                cat_hists["count"][count] = 0
+            cat_hists["count"][count] += 1
+
+            raw_text_f = os.path.join("data/MedDec/raw_text", f"{key}.txt")
+            raw_text = load_txt_file(raw_text_f)
 
             d_sizes = [len(ann["decision"].split()) for ann in key_anns]
 
@@ -121,8 +129,9 @@ def calc_stats(ann_by_cat):
                         # print(key)
                         # print(cat_str)
                         continue
-
-                    gaps.append(gap)
+                    gap_text = raw_text[prev_end:next_start]
+                    gap_size = len(gap_text.strip().split())
+                    gaps.append(gap_size)
 
             cat_token_hist = cat_hists["token_size"]
 
@@ -140,14 +149,32 @@ def calc_stats(ann_by_cat):
 
     for cat_str, cat_hists in hists.items():
 
-        for hist_key in ["token_size", "span_gaps"]:
+        for hist_key in stat_types:
             cat_hist = cat_hists[hist_key]
             cat_hist = list(cat_hist.items())
             cat_hist = sorted(cat_hist, key=lambda x: x[0])
             cat_hist = dict(cat_hist)
             cat_hists[hist_key] = cat_hist
 
-    save_json(hists, "./test.json")
+    save_json(hists, "./hist_test.json")
+
+    stats = {k: {} for k in hists.keys()}
+    for cat_str, cat_hists in hists.items():
+        stats[cat_str] = {}
+        for hist_key in stat_types:
+            cat_hist = cat_hists[hist_key]
+
+            total = sum([v for v in cat_hist.values()])
+            mean = sum([k * v for k, v in cat_hist.items()]) / total
+
+            std = sum([k * (v - mean) ** 2 for k, v in cat_hist.items()]) / total
+            std = math.sqrt(std)
+
+            stat_entry = {"mean": mean, "std": std}
+
+            stats[cat_str][hist_key] = stat_entry
+
+    save_json(stats, "./stat_test.json")
 
 
 def main():
