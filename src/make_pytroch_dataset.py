@@ -48,6 +48,7 @@ class SingleClassBioNLP(Dataset):
         # files = files[:10]
 
         raw_examples = []
+        raw_class_sizes = {i: 0 for i in range(num_classes)}
         for f in files:
 
             entry = load_json(f)
@@ -57,7 +58,7 @@ class SingleClassBioNLP(Dataset):
             input_ids = entry.pop("input_ids")
 
             num_classes = 2 if span_only else 11
-            raw_class_sizes = {i: 0 for i in range(num_classes)}
+
             entry_labels = []
             for labels in token_labels:
 
@@ -95,11 +96,16 @@ class SingleClassBioNLP(Dataset):
 
                 raw_examples.append((input_ids, entry_labels))
 
+        # find the most popular classes
+        raw_class_sizes = sorted(
+            raw_class_sizes.items(), reverse=True, key=lambda x: x[1]
+        )
+        class_priority = [rcs[0] for rcs in raw_class_sizes]
+
         print(raw_class_sizes)
+        print(class_priority)
 
         exit()
-
-        examples = []
 
         for input_ids, entry_labels in raw_examples:
 
