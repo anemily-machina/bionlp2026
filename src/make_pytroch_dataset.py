@@ -104,6 +104,7 @@ class SingleClassBioNLP(Dataset):
         class_priority = [rcs[0] for rcs in raw_class_sizes]
 
         single_class_examples = []
+        class_sizes = {i: 0 for i in range(num_classes)}
         for input_ids, entry_labels in raw_examples:
 
             single_class_entry_labels = []
@@ -114,15 +115,17 @@ class SingleClassBioNLP(Dataset):
 
                 else:
 
-                    for c in single_class_examples:
+                    for c in class_priority:
                         if c in labels:
                             l = c
                             break
 
                 single_class_entry_labels.append(l)
+                class_sizes[l] += 1
 
             single_class_examples.append((input_ids, single_class_entry_labels))
 
+        examples = []
         for input_ids, entry_labels in single_class_examples:
 
             if len(input_ids) <= max_size:
