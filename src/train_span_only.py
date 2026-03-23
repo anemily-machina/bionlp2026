@@ -64,6 +64,11 @@ def main(ai_name):
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
+    print(len(balanced_weights))
+    print(balanced_weights.size())
+
+    exit()
+
     val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=False)
 
     lora_config = LoraConfig(
