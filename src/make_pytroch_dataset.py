@@ -11,7 +11,7 @@ python src/make_pytroch_dataset.py BAAI/bge-m3
 
 """
 
-from utils import load_json, load_txt_file
+from utils import load_json, load_txt_file, loadingbar
 
 import argparse
 import os
@@ -19,6 +19,8 @@ import os
 import torch
 from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import DataLoader, Dataset
+
+from tqdm import tqdm
 
 
 TOKENIZER_PARSE_FOLDER = "./data/tokenized_examples"
@@ -47,11 +49,15 @@ class SingleClassBioNLP(Dataset):
         # DBUGGING
         # files = files[:10]
 
+        print()
+        print(f"loading splits {splits}: first pass")
+        print()
+
         num_classes = 2 if span_only else 10
 
         raw_examples = []
         raw_class_sizes = {i: 0 for i in range(num_classes)}
-        for f in files:
+        for f in loadingbar(files):
 
             entry = load_json(f)
             entry.pop("sentence")
@@ -103,9 +109,13 @@ class SingleClassBioNLP(Dataset):
         )
         class_priority = [rcs[0] for rcs in raw_class_sizes]
 
+        print()
+        print(f"loading splits {splits}: multilabel to single label")
+        print()
+
         single_class_examples = []
         class_sizes = {i: 0 for i in range(num_classes)}
-        for input_ids, entry_labels in raw_examples:
+        for input_ids, entry_labels in loadingbar(raw_examples):
 
             single_class_entry_labels = []
             for labels in entry_labels:
@@ -126,8 +136,11 @@ class SingleClassBioNLP(Dataset):
 
             single_class_examples.append((input_ids, single_class_entry_labels))
 
+        print()
+        print(f"loading splits {splits}: splitting with windoes is needed")
+        print()
         examples = []
-        for input_ids, entry_labels in single_class_examples:
+        for input_ids, entry_labels in loadingbar(single_class_examples):
 
             if len(input_ids) <= max_size:
 
