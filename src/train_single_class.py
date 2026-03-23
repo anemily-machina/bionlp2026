@@ -110,7 +110,7 @@ def main(ai_name):
         return loss
 
     training_args = TrainingArguments(
-        output_dir="./data/checkpoints/test",
+        output_dir="./data/checkpoints/single_class",
         learning_rate=1e-3,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,

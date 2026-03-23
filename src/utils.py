@@ -288,11 +288,6 @@ class CustomTrainer(Trainer):
                     total += 1
                     correct += 1 if p == l else 0
 
-                    # print()
-                    # print(l, p)
-                    # print(len(self.confusion))
-                    # print(len(self.confusion[0]))
-
                     self.confusion[l][p] += 1
 
                 self.train_log_count -= self._train_batch_size
