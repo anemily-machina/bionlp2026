@@ -9,6 +9,8 @@ from utils import (
 import evaluate
 import numpy as np
 
+from peft import inject_adapter_in_model, LoraConfig
+
 import torch
 from torch.nn import CrossEntropyLoss
 from torch.utils.data import DataLoader
@@ -58,7 +60,14 @@ def compute_metrics(p):
 
 def main(ai_name):
 
+    lora_config = LoraConfig()
+
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
+
+    print(ai_model)
+
+    exit()
+
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
