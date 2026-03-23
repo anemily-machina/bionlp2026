@@ -98,7 +98,7 @@ def main(ai_name):
         learning_rate=1e-3,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
-        num_train_epochs=100,
+        num_train_epochs=1000,
         weight_decay=0.01,
         warmup_steps=10,
         eval_strategy="epoch",
