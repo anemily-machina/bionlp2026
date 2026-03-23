@@ -97,17 +97,33 @@ class SingleClassBioNLP(Dataset):
                 raw_examples.append((input_ids, entry_labels))
 
         # find the most popular classes
+        raw_class_sizes.pop(0)  # no label class
         raw_class_sizes = sorted(
             raw_class_sizes.items(), reverse=True, key=lambda x: x[1]
         )
         class_priority = [rcs[0] for rcs in raw_class_sizes]
 
-        print(raw_class_sizes)
-        print(class_priority)
-
-        exit()
-
+        single_class_examples = []
         for input_ids, entry_labels in raw_examples:
+
+            single_class_entry_labels = []
+            for labels in entry_labels:
+
+                if len(labels) == 1:
+                    l = labels[0]
+
+                else:
+
+                    for c in single_class_examples:
+                        if c in labels:
+                            l = c
+                            break
+
+                single_class_entry_labels.append(l)
+
+            single_class_examples.append((input_ids, single_class_entry_labels))
+
+        for input_ids, entry_labels in single_class_examples:
 
             if len(input_ids) <= max_size:
 
