@@ -60,18 +60,11 @@ def compute_metrics(p):
 
 def main(ai_name):
 
-    dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=False)
-    balanced_weights = dataset.balanced_weights()
+    train_dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=False)
+    balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
-    for e_i, e in enumerate(dataset):
-
-        print(e)
-
-        if e_i > 10:
-            break
-
-    exit()
+    val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=False)
 
     lora_config = LoraConfig(
         r=64,
@@ -121,8 +114,8 @@ def main(ai_name):
     trainer = CustomTrainer(
         model=ai_model.to(device),
         args=training_args,
-        train_dataset=dataset,
-        eval_dataset=dataset,
+        train_dataset=train_dataset,
+        eval_dataset=val_dataset,
         data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
         train_log_iter=40,
