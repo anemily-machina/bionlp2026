@@ -47,7 +47,7 @@ class SingleClassBioNLP(Dataset):
         # DBUGGING
         # files = files[:10]
 
-        examples = []
+        raw_examples = []
         for f in files:
 
             entry = load_json(f)
@@ -57,7 +57,7 @@ class SingleClassBioNLP(Dataset):
             input_ids = entry.pop("input_ids")
 
             num_classes = 2 if span_only else 11
-            class_sizes = {i: 0 for i in range(num_classes)}
+            raw_class_sizes = {i: 0 for i in range(num_classes)}
             entry_labels = []
             for labels in token_labels:
 
@@ -65,31 +65,43 @@ class SingleClassBioNLP(Dataset):
                 # no span labels means it is never in a span
                 if span_only:
                     if len(labels) == 0:
-                        label = 0
+                        _labels = [0]
 
                     # for special tokens the span label should only be -100
                     elif -100 in labels:
-                        label = -100
+                        _labels = [-100]
 
                     # otherwise it's in the span of -some- category
                     else:
-                        label = 1
+                        _labels = [1]
 
                 else:
                     if len(labels) == 0:
-                        label = 0
+                        _labels = [0]
 
                     # for special tokens the span label should only be -100
                     elif -100 in labels:
-                        label = -100
+                        _labels = [-100]
 
                     else:
-                        label = labels[0] + 1  # how to handle multiple labels?
+                        # how to handle multiple labels?
+                        _labels = [l + 1 for l in labels]
 
-                if label != -100:
-                    class_sizes[label] += 1
+                for l in _labels:
+                    if l != -100:
+                        raw_class_sizes[l] += 1
 
-                entry_labels.append(label)
+                entry_labels.append(_labels)
+
+                raw_examples.append((input_ids, entry_labels))
+
+        print(raw_class_sizes)
+
+        exit()
+
+        examples = []
+
+        for input_ids, entry_labels in raw_examples:
 
             if len(input_ids) <= max_size:
 
