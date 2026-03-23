@@ -56,7 +56,8 @@ class SingleClassBioNLP(Dataset):
             token_labels = entry.pop("token_labels")
             input_ids = entry.pop("input_ids")
 
-            class_sizes = {}
+            num_classes = 2 if span_only else 11
+            class_sizes = {i: 0 for i in range(num_classes)}
             entry_labels = []
             for labels in token_labels:
 
@@ -84,9 +85,6 @@ class SingleClassBioNLP(Dataset):
 
                     else:
                         label = labels[0] + 1  # how to handle multiple labels?
-
-                if label not in class_sizes:
-                    class_sizes[label] = 0
 
                 class_sizes[label] += 1
                 entry_labels.append(label)
