@@ -111,7 +111,7 @@ def main(ai_name):
 
     training_args = TrainingArguments(
         output_dir="./data/checkpoints/single_class",
-        learning_rate=1e-3,
+        learning_rate=2e-4,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
         num_train_epochs=1000,
