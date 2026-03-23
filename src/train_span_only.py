@@ -62,15 +62,27 @@ def main(ai_name):
 
     span_only = False
 
+    print()
+    print("Makeing test dataset")
+    print()
+
     train_dataset = make_dataset(
         ai_name, split="train", max_size=8192, span_only=span_only
     )
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
+    print()
+    print("Makeing val dataset")
+    print()
+
     val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=span_only)
 
     num_classes = 2 if span_only else 10
+
+    print()
+    print("loading AI")
+    print()
 
     lora_config = LoraConfig(
         r=64,
@@ -114,6 +126,10 @@ def main(ai_name):
         seed=4321,
         gradient_accumulation_steps=8,
     )
+
+    print()
+    print("taining")
+    print()
 
     trainer = CustomTrainer(
         model=ai_model.to(device),
