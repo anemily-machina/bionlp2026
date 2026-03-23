@@ -86,7 +86,7 @@ class SingleClassBioNLP(Dataset):
 
                     else:
                         # how to handle multiple labels?
-                        _labels = [l + 1 for l in labels]
+                        _labels = [l for l in labels]
 
                 for l in _labels:
                     if l != -100:
