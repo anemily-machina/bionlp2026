@@ -100,7 +100,7 @@ class SingleClassBioNLP(Dataset):
 
                 entry_labels.append(_labels)
 
-                raw_examples.append((input_ids, entry_labels))
+            raw_examples.append((input_ids, entry_labels))
 
         # find the most popular classes
         raw_class_sizes.pop(0)  # no label class
