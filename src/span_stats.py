@@ -109,17 +109,18 @@ def calc_stats(ann_by_cat):
                     next_start = key_anns[a_i + 1]["start_offset"]
                     gap = next_start - prev_end
                     if gap < 0:
-                        print()
-                        print()
-                        print("--------")
-                        print(key_anns[a_i]["decision"])
-                        print("--------")
-                        print(key_anns[a_i + 1]["decision"])
-                        print("--------")
-                        print(prev_end)
-                        print(next_start)
-                        print(key)
-                        print(cat_str)
+                        # print()
+                        # print()
+                        # print("--------")
+                        # print(key_anns[a_i]["decision"])
+                        # print("--------")
+                        # print(key_anns[a_i + 1]["decision"])
+                        # print("--------")
+                        # print(prev_end)
+                        # print(next_start)
+                        # print(key)
+                        # print(cat_str)
+                        continue
 
                     gaps.append(gap)
 
@@ -136,8 +137,6 @@ def calc_stats(ann_by_cat):
                     cat_gap_hist[gap] = 0
 
                 cat_gap_hist[gap] += 1
-
-    exit()
 
     for cat_str, cat_hists in hists.items():
 

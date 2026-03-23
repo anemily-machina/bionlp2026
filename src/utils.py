@@ -195,8 +195,9 @@ class CustomTrainer(Trainer):
         ]
         f1 = sum(class_f1) / num_c
 
+        eval_key = "train" if self.model.training else "eval"
         log_entry = {
-            "train": {"accuracy": a, "recall": r, "precision": p, "f1": f1},
+            eval_key: {"accuracy": a, "recall": r, "precision": p, "f1": f1},
             "class": {"recall": class_r, "precision": class_p, "f1": class_f1},
             "confusion_matrix": c,
         }
