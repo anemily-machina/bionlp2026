@@ -270,6 +270,13 @@ class CustomTrainer(Trainer):
 
                 logits = outputs.logits.detach()
 
+                print()
+                print()
+                print(logits.size())
+                print(labels.size())
+                print()
+                print()
+
                 logits = logits.view(-1, 2)
                 labels = labels.view(-1)
 

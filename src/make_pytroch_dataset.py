@@ -113,10 +113,6 @@ class SingleClassBioNLP(Dataset):
 
             for ids, labels in example_list:
 
-                if len(ids) != len(labels):
-                    print("??")
-                    exit()
-
                 example = {}
                 example["input_ids"] = torch.tensor(ids)
                 example["labels"] = torch.tensor(labels)
