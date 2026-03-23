@@ -95,7 +95,7 @@ def main(ai_name):
         print()
 
         logits = outputs.logits
-        logits = logits.view(-1, 2)
+        logits = logits.view(-1, num_classes)
         labels = labels.view(-1)
 
         print()
