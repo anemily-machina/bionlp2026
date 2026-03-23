@@ -149,9 +149,9 @@ def single_class_collate(batch):
     return batch
 
 
-def make_dataset(ai_name, split, max_size, span_only=False):
+def make_dataset(ai_name, split, max_size, single_class=True, span_only=False):
 
-    if span_only:
+    if single_class:
         dataset = SingleClassBioNLP(ai_name, split, max_size, span_only)
 
         return dataset
