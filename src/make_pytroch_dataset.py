@@ -85,6 +85,7 @@ class SingleClassBioNLP(Dataset):
 
                     else:
                         label = labels[0] + 1  # how to handle multiple labels?
+
                 if label != -100:
                     class_sizes[label] += 1
 
@@ -119,11 +120,12 @@ class SingleClassBioNLP(Dataset):
                 examples.append(example)
 
         self.exmaples = examples
+
         self.class_sizes = class_sizes
 
     def balanced_weights(self):
         max_class = max(self.class_sizes.values())
-        weights = [max_class / v for v in self.class_sizes.values()]
+        weights = [max_class / v if v > 0 else 0 for v in self.class_sizes.values()]
         weights = torch.tensor(weights)
         return weights
 
