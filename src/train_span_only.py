@@ -70,7 +70,7 @@ def main(ai_name):
 
     val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=span_only)
 
-    num_classes = 2 if span_only else 11
+    num_classes = 2 if span_only else 10
 
     lora_config = LoraConfig(
         r=64,

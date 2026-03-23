@@ -47,7 +47,7 @@ class SingleClassBioNLP(Dataset):
         # DBUGGING
         # files = files[:10]
 
-        num_classes = 2 if span_only else 11
+        num_classes = 2 if span_only else 10
 
         raw_examples = []
         raw_class_sizes = {i: 0 for i in range(num_classes)}
