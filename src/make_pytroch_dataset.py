@@ -121,7 +121,8 @@ class SingleClassBioNLP(Dataset):
                             break
 
                 single_class_entry_labels.append(l)
-                class_sizes[l] += 1
+                if l != -100:
+                    class_sizes[l] += 1
 
             single_class_examples.append((input_ids, single_class_entry_labels))
 
