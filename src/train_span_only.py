@@ -61,21 +61,16 @@ def compute_metrics(p):
 def main(ai_name):
 
     lora_config = LoraConfig(
-        r=128,
-        lora_alpha=256,
+        r=64,
+        lora_alpha=128,
         target_modules=["query", "key", "value", "dense"],
         modules_to_save=["classifier"],
         init_lora_weights="pissa_niter_10",
     )
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=2)
-    ai_model = inject_adapter_in_model(lora_config, ai_model)
-
-    print(ai_model)
-
-    exit()
-
     ai_model.float()
+    ai_model = inject_adapter_in_model(lora_config, ai_model)
     ai_model.to(device)
 
     dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
