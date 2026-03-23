@@ -269,7 +269,6 @@ class CustomTrainer(Trainer):
             with torch.no_grad():
 
                 logits = outputs.logits.detach()
-                batch_size = logits.size(0)
 
                 logits = logits.view(-1, 2)
                 labels = labels.view(-1)
@@ -288,6 +287,11 @@ class CustomTrainer(Trainer):
 
                     total += 1
                     correct += 1 if p == l else 0
+
+                    print()
+                    print(l, p)
+                    print(len(self.confusion))
+                    print(len(self.confusion[0]))
 
                     self.confusion[l][p] += 1
 
