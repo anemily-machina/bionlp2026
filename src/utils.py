@@ -270,14 +270,7 @@ class CustomTrainer(Trainer):
 
                 logits = outputs.logits.detach()
 
-                print()
-                print()
-                print(logits.size())
-                print(labels.size())
-                print()
-                print()
-
-                logits = logits.view(-1, 2)
+                logits = logits.view(-1, self.num_classes)
                 labels = labels.view(-1)
 
                 preds = logits.argmax(axis=-1)
