@@ -137,7 +137,7 @@ class SingleClassBioNLP(Dataset):
             single_class_examples.append((input_ids, single_class_entry_labels))
 
         print()
-        print(f"loading splits {splits}: splitting with windoes is needed")
+        print(f"loading splits {splits}: splitting with windows as needed")
         print()
         examples = []
         for input_ids, entry_labels in loadingbar(single_class_examples):

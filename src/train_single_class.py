@@ -128,7 +128,7 @@ def main(ai_name):
     )
 
     print()
-    print("taining")
+    print("training")
     print()
 
     trainer = CustomTrainer(
