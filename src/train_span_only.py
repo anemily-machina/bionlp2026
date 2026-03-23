@@ -60,16 +60,17 @@ def compute_metrics(p):
 
 def main(ai_name):
 
-    train_dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=False)
+    span_only = False
+
+    train_dataset = make_dataset(
+        ai_name, split="train", max_size=8192, span_only=span_only
+    )
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
-    print(len(balanced_weights))
-    print(balanced_weights.size())
+    val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=span_only)
 
-    exit()
-
-    val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=False)
+    num_classes = 2 if span_only else 10
 
     lora_config = LoraConfig(
         r=64,
@@ -79,9 +80,7 @@ def main(ai_name):
         init_lora_weights="pissa_niter_10",
     )
 
-    ai_model = load_ai_model4token_class(
-        ai_name, num_labels=int(balanced_weights.size(0))
-    )
+    ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
     ai_model = inject_adapter_in_model(lora_config, ai_model)
     ai_model.to(device)
@@ -124,7 +123,7 @@ def main(ai_name):
         data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
         train_log_iter=100,
-        num_classes=int(balanced_weights.size(0)),
+        num_classes=num_classes,
     )
 
     trainer.add_callback(CustomCallback(trainer))
