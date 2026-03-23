@@ -25,9 +25,9 @@ TOKENIZER_PARSE_FOLDER = "./data/tokenized_examples"
 SPLIT_FOLDER = "./data/splits"
 
 
-class SpanOnlyBioNLP(Dataset):
+class SingleClassBioNLP(Dataset):
 
-    def __init__(self, ai_name, splits, max_size):
+    def __init__(self, ai_name, splits, max_size, span_only=False):
 
         super().__init__()
 
@@ -47,8 +47,6 @@ class SpanOnlyBioNLP(Dataset):
         # DBUGGING
         # files = files[:10]
 
-        class_sizes = {0: 0, 1: 0}
-
         examples = []
         for f in files:
 
@@ -58,23 +56,39 @@ class SpanOnlyBioNLP(Dataset):
             token_labels = entry.pop("token_labels")
             input_ids = entry.pop("input_ids")
 
+            class_sizes = {}
             entry_labels = []
             for labels in token_labels:
 
                 # span only, igore label categaory
                 # no span labels means it is never in a span
-                if len(labels) == 0:
-                    label = 0
-                    class_sizes[0] += 1
-                # for special tokens the span label should only be -100
-                elif -100 in labels:
-                    label = -100
+                if span_only:
+                    if len(labels) == 0:
+                        label = 0
 
-                # otherwise it's in the span of -some- category
+                    # for special tokens the span label should only be -100
+                    elif -100 in labels:
+                        label = -100
+
+                    # otherwise it's in the span of -some- category
+                    else:
+                        label = 1
+
                 else:
-                    label = 1
-                    class_sizes[1] += 1
+                    if len(labels) == 0:
+                        label = 0
 
+                    # for special tokens the span label should only be -100
+                    elif -100 in labels:
+                        label = -100
+
+                    else:
+                        label = labels[0] + 1  # how to handle multiple labels?
+
+                if label not in class_sizes:
+                    class_sizes[label] = 0
+
+                class_sizes[label] += 1
                 entry_labels.append(label)
 
             if len(input_ids) <= max_size:
@@ -122,7 +136,7 @@ class SpanOnlyBioNLP(Dataset):
         return self.exmaples[index]
 
 
-def span_only_collate(batch):
+def single_class_collate(batch):
 
     input_ids = [e["input_ids"] for e in batch]
     input_ids = pad_sequence(input_ids, batch_first=True)
@@ -138,7 +152,7 @@ def span_only_collate(batch):
 def make_dataset(ai_name, split, max_size, span_only=False):
 
     if span_only:
-        dataset = SpanOnlyBioNLP(ai_name, split, max_size)
+        dataset = SingleClassBioNLP(ai_name, split, max_size, span_only)
 
         return dataset
 
@@ -158,7 +172,7 @@ if __name__ == "__main__":
     dataloader = DataLoader(
         dataset,
         batch_size=16,
-        collate_fn=span_only_collate,
+        collate_fn=single_class_collate,
         # num_workers=0,
         # prefetch_factor=1,
     )

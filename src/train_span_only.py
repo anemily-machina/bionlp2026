@@ -1,4 +1,4 @@
-from make_pytroch_dataset import make_dataset, span_only_collate
+from make_pytroch_dataset import make_dataset, single_class_collate
 from utils import (
     CustomCallback,
     CustomTrainer,
@@ -60,6 +60,19 @@ def compute_metrics(p):
 
 def main(ai_name):
 
+    dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=False)
+    balanced_weights = dataset.balanced_weights()
+    balanced_weights = balanced_weights.to(device)
+
+    for e_i, e in enumerate(dataset):
+
+        print(e)
+
+        if e_i > 10:
+            break
+
+    exit()
+
     lora_config = LoraConfig(
         r=64,
         lora_alpha=128,
@@ -68,14 +81,12 @@ def main(ai_name):
         init_lora_weights="pissa_niter_10",
     )
 
-    ai_model = load_ai_model4token_class(ai_name, num_labels=2)
+    ai_model = load_ai_model4token_class(
+        ai_name, num_labels=int(balanced_weights.size(0))
+    )
     ai_model.float()
     ai_model = inject_adapter_in_model(lora_config, ai_model)
     ai_model.to(device)
-
-    dataset = make_dataset(ai_name, split="train", max_size=8192, span_only=True)
-    balanced_weights = dataset.balanced_weights()
-    balanced_weights = balanced_weights.to(device)
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
 
@@ -96,11 +107,8 @@ def main(ai_name):
         per_device_eval_batch_size=2,
         num_train_epochs=100,
         weight_decay=0.01,
-        warmup_ratio=0.1,
+        warmup_steps=10,
         eval_strategy="epoch",
-        # save_strategy="epoch",
-        # load_best_model_at_end=True,
-        # push_to_hub=False,
         logging_steps=10,
         logging_strategy="steps",
         save_total_limit=1,
@@ -115,7 +123,7 @@ def main(ai_name):
         args=training_args,
         train_dataset=dataset,
         eval_dataset=dataset,
-        data_collator=span_only_collate,
+        data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
         train_log_iter=40,
     )
