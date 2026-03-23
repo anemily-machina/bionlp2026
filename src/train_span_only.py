@@ -118,7 +118,8 @@ def main(ai_name):
         eval_dataset=val_dataset,
         data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
-        train_log_iter=40,
+        train_log_iter=100,
+        num_classes=int(balanced_weights.size(0)),
     )
 
     trainer.add_callback(CustomCallback(trainer))
