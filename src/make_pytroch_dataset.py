@@ -47,6 +47,8 @@ class SingleClassBioNLP(Dataset):
         # DBUGGING
         # files = files[:10]
 
+        num_classes = 2 if span_only else 11
+
         raw_examples = []
         raw_class_sizes = {i: 0 for i in range(num_classes)}
         for f in files:
@@ -56,8 +58,6 @@ class SingleClassBioNLP(Dataset):
 
             token_labels = entry.pop("token_labels")
             input_ids = entry.pop("input_ids")
-
-            num_classes = 2 if span_only else 11
 
             entry_labels = []
             for labels in token_labels:
