@@ -136,8 +136,7 @@ def main(ai_name):
     trainer = CustomTrainer(
         model=ai_model.to(device),
         args=training_args,
-        # train_dataset=train_dataset,
-        train_dataset=val_dataset,
+        train_dataset=train_dataset,
         eval_dataset=val_dataset,
         data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
