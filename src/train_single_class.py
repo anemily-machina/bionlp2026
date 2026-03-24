@@ -145,7 +145,7 @@ def main(ai_name):
 
     def compute_metrics(*args, **kwards):
 
-        print(trainer.log_metrics())
+        print(trainer.log_tracking())
 
         exit()
 
