@@ -167,6 +167,7 @@ class SingleClassBioNLP(Dataset):
                 example = {}
                 example["input_ids"] = torch.tensor(ids)
                 example["labels"] = torch.tensor(labels)
+                example["attention_mask"] = torch.tensor([1 for _ in range(len(ids))])
 
                 examples.append(example)
 
@@ -196,7 +197,10 @@ def single_class_collate(batch):
     labels = [e["labels"] for e in batch]
     labels = pad_sequence(labels, padding_value=-100, batch_first=True)
 
-    batch = {"input_ids": input_ids, "labels": labels}
+    attention_mask = [e["attention_mask"] for e in batch]
+    attention_mask = pad_sequence(attention_mask, padding_value=0, batch_first=True)
+
+    batch = {"input_ids": input_ids, "attention_mask": attention_mask, "labels": labels}
 
     return batch
 
