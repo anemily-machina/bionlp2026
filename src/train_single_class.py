@@ -125,6 +125,8 @@ def main(ai_name):
         load_best_model_at_end=True,
         seed=4321,
         gradient_accumulation_steps=8,
+        metric_for_best_model="eval_f1",
+        greater_is_better=True,
     )
 
     print()
