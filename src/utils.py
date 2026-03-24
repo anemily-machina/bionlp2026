@@ -201,8 +201,10 @@ class CustomTrainer(Trainer):
             "class": {"recall": class_r, "precision": class_p, "f1": class_f1},
             "confusion_matrix": c,
         }
-
-        self.log(log_entry)
+        if self.model.training:
+            self.log(log_entry)
+        else:
+            return log_entry
 
     def __init__(self, *args, **kwargs):
 

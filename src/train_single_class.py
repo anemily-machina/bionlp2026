@@ -142,7 +142,14 @@ def main(ai_name):
         num_classes=num_classes,
     )
 
+    def compute_metrics(*args, **kwards):
+
+        print(trainer.log_metrics())
+
+        exit()
+
     trainer.add_callback(CustomCallback(trainer))
+    trainer.compute_metrics = compute_metrics
 
     trainer.train()
 
