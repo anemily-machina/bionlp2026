@@ -145,9 +145,9 @@ def main(ai_name):
 
     def compute_metrics(*args, **kwards):
 
-        print(trainer.log_tracking())
+        metric_dict = trainer.log_tracking()
 
-        exit()
+        return metric_dict["eval"]
 
     trainer.add_callback(CustomCallback(trainer))
     trainer.compute_metrics = compute_metrics

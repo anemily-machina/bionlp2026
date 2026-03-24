@@ -301,9 +301,6 @@ class CustomTrainer(Trainer):
 
                     self.train_log_count = self.train_log_iter
 
-                if not self.model.training:
-                    self.log_tracking()
-
         # User-defined compute_loss function
         if self.compute_loss_func is not None:
             if labels is None:
