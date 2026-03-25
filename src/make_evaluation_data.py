@@ -8,8 +8,6 @@ def main():
     checkpoint = "data/checkpoints/single_class2/checkpoint-979"
     num_classes = 1110
 
-    PeftModel.from_pretrained()
-
     ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
 
