@@ -181,7 +181,11 @@ def main():
     ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
 
-    ai_model = PeftModel.from_pretrained(ai_model, checkpoint)  #
+    ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
+
+    print(ai_model)
+
+    exit()
 
     ai_model.eval()
 
