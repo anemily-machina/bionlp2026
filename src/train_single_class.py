@@ -114,7 +114,7 @@ def main(ai_name):
         return loss
 
     training_args = TrainingArguments(
-        output_dir="./data/checkpoints/single_class4",
+        output_dir="./data/checkpoints/single_class5",
         learning_rate=2e-4,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
@@ -140,7 +140,8 @@ def main(ai_name):
     trainer = CustomTrainer(
         model=ai_model.to(device),
         args=training_args,
-        train_dataset=train_dataset,
+        # train_dataset=train_dataset,
+        train_dataset=val_dataset,
         eval_dataset=val_dataset,
         data_collator=single_class_collate,
         compute_loss_func=compute_loss_func,
