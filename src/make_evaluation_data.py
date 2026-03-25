@@ -6,7 +6,7 @@ from peft import LoraConfig, PeftModel
 def main():
     ai_name = "BAAI/bge-m3"
     checkpoint = "data/checkpoints/single_class5/checkpoint-2"
-    num_classes = 1110
+    num_classes = 10
 
     lora_config = LoraConfig(
         r=64,
