@@ -199,8 +199,6 @@ def main():
 
         make_annotaions(split, ai_model, eval_folder, tokenization_folder)
 
-        exit()
-
 
 if __name__ == "__main__":
     with torch.no_grad():
