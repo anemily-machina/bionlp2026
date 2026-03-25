@@ -11,6 +11,7 @@ from utils import (
 import os
 
 from peft import LoraConfig, PeftModel
+from safetensors.torch import load_file
 import torch
 
 if torch.cuda.is_available():
@@ -182,7 +183,7 @@ def main():
     ai_model.float()
 
     ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
-    ai_model.load_adapter(checkpoint)
+    ai_model.load_state_dict(load_file(f"{checkpoint}/adapter_model.safetensors"))
 
     print(ai_model)
 
