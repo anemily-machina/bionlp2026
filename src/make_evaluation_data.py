@@ -83,10 +83,6 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
         preds = logits.argmax(axis=-1)
 
-        print(preds)
-        print(preds.size())
-        print(max(preds))
-
         # exit()
 
         preds = preds.cpu().numpy()
@@ -94,6 +90,7 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         token_ranges = tokenized_text.pop("token_ranges")
 
         ann_ranges = []
+        pred_hist = {}
         for cat, r, l in zip(preds, token_ranges, labels):
 
             if not l:
@@ -105,6 +102,11 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
             cat = int(cat)
 
+            if cat not in pred_hist:
+                pred_hist[cat] = 0
+
+            pred_hist[cat] += 1
+
             # cat 0 is no annotaion
             if cat == 0:
                 continue
@@ -112,6 +114,10 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
             entry = {"range": r, "category": cat}
 
             ann_ranges.append(entry)
+
+        print()
+        print(pred_hist)
+        print()
 
         key_annotations = []
 
@@ -185,17 +191,15 @@ def main():
     ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
     ai_model = ai_model.merge_and_unload()
 
-    print(ai_model)
-
-    exit()
-
     ai_model.eval()
 
     ai_model.to(device)
 
-    for split in ["val", "train", "test"]:
+    for split in ["train", "val", "test"]:
 
         make_annotaions(split, ai_model, eval_folder, tokenization_folder)
+
+        exit()
 
 
 if __name__ == "__main__":
