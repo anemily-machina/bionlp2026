@@ -51,6 +51,11 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
     for key, tokenized_text in loadingbar(all_tokenized_text.items()):
 
         input_ids = torch.tensor(tokenized_text.pop("input_ids"))
+
+        # only one in the training set has this, so it doesn't effect testing
+        if len(input_ids) > 8192:
+            continue
+
         attention_mask = torch.tensor([1 for _ in range(len(input_ids))])
         raw_labels = tokenized_text.pop("token_labels")
         labels = []
