@@ -90,7 +90,7 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         token_ranges = tokenized_text.pop("token_ranges")
 
         ann_ranges = []
-        pred_hist = {}
+        # pred_hist = {}
         for cat, r, l in zip(preds, token_ranges, labels):
 
             if not l:
@@ -102,10 +102,10 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
             cat = int(cat)
 
-            if cat not in pred_hist:
-                pred_hist[cat] = 0
+            # if cat not in pred_hist:
+            #     pred_hist[cat] = 0
 
-            pred_hist[cat] += 1
+            # pred_hist[cat] += 1
 
             # cat 0 is no annotaion
             if cat == 0:
@@ -115,9 +115,9 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
             ann_ranges.append(entry)
 
-        print()
-        print(pred_hist)
-        print()
+        # print()
+        # print(pred_hist)
+        # print()
 
         key_annotations = []
 
