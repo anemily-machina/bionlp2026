@@ -196,8 +196,7 @@ def make_tokenizations(all_parses, model_name):
 
             # only label first token
             if first:
-                print("?")
-                exit()
+
                 token_labels.append(current_labels)
                 token_ranges.append(current_range)
                 first = False
