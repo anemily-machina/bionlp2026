@@ -64,6 +64,7 @@ class SingleClassBioNLP(Dataset):
 
             token_labels = entry.pop("token_labels")
             input_ids = entry.pop("input_ids")
+            entry.pop("token_ranges")
 
             entry_labels = []
             for labels in token_labels:

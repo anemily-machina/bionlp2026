@@ -78,55 +78,56 @@ def parse_category(category: str):
 
 def make_raw_word_token_labels(all_annotations, all_parses):
 
-    for key, annotations in loadingbar(all_annotations.items()):
+    for key, parse in loadingbar(all_parses.items()):
 
         label_fname = os.path.join(LABELLED_PARSE_FOLDER, f"{key}.json")
         if os.path.isfile(label_fname):
             continue
 
-        parse = all_parses[key]
+        if key in all_annotations:
+            annotations = all_annotations[key]
 
-        annotations = annotations["annotations"]
+            annotations = annotations["annotations"]
 
-        for ann in annotations:
+            for ann in annotations:
 
-            category: str = ann["category"]
+                category: str = ann["category"]
 
-            category_label = parse_category(category)
+                category_label = parse_category(category)
 
-            # if class 10 or 11 or TBD
-            if category_label is None:
-                continue
+                # if class 10 or 11 or TBD
+                if category_label is None:
+                    continue
 
-            start_offset = ann["start_offset"]
-            end_offset = ann["end_offset"]
+                start_offset = ann["start_offset"]
+                end_offset = ann["end_offset"]
 
-            token_i = 0
-            curr_token = parse[token_i]
-            token_start = curr_token["start_char"]
-
-            test_text = []
-            while token_start < end_offset:
-
-                if start_offset <= token_start:
-
-                    curr_token["labels"].append(category_label)
-                    test_text.append(curr_token["text"])
-
-                token_i += 1
-                if token_i == len(parse):
-                    break
-
+                token_i = 0
                 curr_token = parse[token_i]
                 token_start = curr_token["start_char"]
 
-            test_text = " ".join(test_text)
+                test_text = []
+                while token_start < end_offset:
 
-        for word in parse:
-            labels = word["labels"]
-            labels = list(set(labels))
-            labels = sorted(labels)
-            word["labels"] = labels
+                    if start_offset <= token_start:
+
+                        curr_token["labels"].append(category_label)
+                        test_text.append(curr_token["text"])
+
+                    token_i += 1
+                    if token_i == len(parse):
+                        break
+
+                    curr_token = parse[token_i]
+                    token_start = curr_token["start_char"]
+
+                test_text = " ".join(test_text)
+
+            for word in parse:
+                labels = word["labels"]
+                labels = list(set(labels))
+                labels = sorted(labels)
+                word["labels"] = labels
 
         save_json(parse, label_fname)
 
@@ -157,11 +158,16 @@ def make_tokenizations(all_parses, model_name):
         tokens = tokenizer.convert_ids_to_tokens(input_ids)
 
         token_labels = []
+        token_ranges = []
 
         parse_i = 0
         current_entry = parse[parse_i]
         current_word = current_entry["text"]
         current_labels = current_entry["labels"]
+        crs = current_entry["start_char"]
+        cre = current_entry["end_char"]
+        current_range = (crs, cre)
+        first = True
 
         for o_i, offset_mapping in enumerate(offset_mappings):
 
@@ -169,11 +175,13 @@ def make_tokenizations(all_parses, model_name):
 
             if map_s == map_e:
                 token_labels.append([-100])
+                token_ranges.append((0, 0))
                 continue
 
             # handling weird case for BGE tokenizer that add a token of size 0
             if tokens[o_i] == "▁":
-                token_labels.append(current_labels)
+                token_labels.append([-100])
+                token_ranges.append((0, 0))
                 continue
 
             if len(current_word) == 0:
@@ -181,8 +189,21 @@ def make_tokenizations(all_parses, model_name):
                 current_entry = parse[parse_i]
                 current_word = current_entry["text"]
                 current_labels = current_entry["labels"]
+                crs = current_entry["start_char"]
+                cre = current_entry["end_char"]
+                current_range = (crs, cre)
+                first = True
 
-            token_labels.append(current_labels)
+            # only label first token
+            if first:
+                print("?")
+                exit()
+                token_labels.append(current_labels)
+                token_ranges.append(current_range)
+                first = False
+            else:
+                token_labels.append([-100])
+                token_ranges.append((0, 0))
 
             chunk_size = map_e - map_s
 
@@ -211,6 +232,7 @@ def make_tokenizations(all_parses, model_name):
             "sentence": sentence,
             "input_ids": input_ids,
             "token_labels": token_labels,
+            "token_ranges": token_ranges,
         }
 
         save_json(entry, tokenizer_parse_fname)
