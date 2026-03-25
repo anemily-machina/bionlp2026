@@ -5,6 +5,7 @@ from utils import (
     load_txt_file,
     loadingbar,
     make_folder,
+    save_json,
 )
 
 import os
@@ -45,11 +46,23 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
     all_tokenized_text = get_tokenized_text(split, tokenization_folder)
 
-    all_predications = {}
-    for key, tokenized_text in all_tokenized_text.items():
+    all_predications = []
+    for key, tokenized_text in loadingbar(all_tokenized_text.items()):
 
         input_ids = torch.tensor(tokenized_text.pop("input_ids"))
         attention_mask = torch.tensor([1 for _ in range(len(input_ids))])
+        raw_labels = tokenized_text.pop("token_labels")
+        labels = []
+        for l in raw_labels:
+            # not a span, or not labelled data (test data)
+            if len(l) == 0:
+                labels.append(True)
+            # extra tokens from tokenizer
+            elif -100 in labels:
+                labels.append(False)
+            # in a span
+            else:
+                labels.append(True)
 
         # outputs = ai_model(input_ids=input_ids, attention_mask=attention_mask)
         # logits = outputs.logits
@@ -62,7 +75,10 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         token_ranges = tokenized_text.pop("token_ranges")
 
         ann_ranges = []
-        for cat, r in zip(preds, token_ranges):
+        for cat, r, l in zip(preds, token_ranges, labels):
+
+            if not l:
+                continue
 
             # extra tokens from the tokenizer not in original sentence
             if r[0] == r[1]:
@@ -112,15 +128,11 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         }
         key_annotations.append(key_annotation_entry)
 
-        import json
+        all_preds_entry = {"file_name": key, "predictions": key_annotations}
+        all_predications.append(all_preds_entry)
 
-        with open("./test1.json", "w") as f_out:
-            json.dump(ann_ranges, f_out, indent=2)
-
-        with open("./test2.json", "w") as f_out:
-            json.dump(key_annotations, f_out, indent=2)
-
-        exit()
+    pred_fname = os.path.join(eval_folder, f"{split}.json")
+    save_json(all_predications, pred_fname)
 
 
 def main():
