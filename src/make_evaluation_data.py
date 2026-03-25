@@ -137,7 +137,7 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
 def main():
     ai_name = "BAAI/bge-m3"
-    checkpoint = "data/checkpoints/single_class5/checkpoint-2"
+    checkpoint = "data/checkpoints/single_class5/checkpoint-803"
     num_classes = 10
 
     eval_folder = "data/eval5"
