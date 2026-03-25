@@ -65,7 +65,9 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
                 labels.append(True)
 
         input_ids = input_ids.unsqueeze(-1)
+        input_ids = input_ids.to(device)
         attention_mask = attention_mask.unsqueeze(-1)
+        attention_mask = attention_mask.to(device)
 
         print(input_ids.size())
         print(attention_mask.size())
