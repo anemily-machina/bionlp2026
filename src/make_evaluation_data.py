@@ -10,7 +10,7 @@ from utils import (
 
 import os
 
-from peft import LoraConfig, PeftModel
+from peft import LoraConfig, PeftModel, get_peft_model
 from safetensors.torch import load_file
 import torch
 
@@ -188,8 +188,8 @@ def main():
     ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
 
-    ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
-    ai_model = ai_model.merge_and_unload()
+    ai_model = get_peft_model(ai_model, lora_config)
+    # ai_model = ai_model.merge_and_unload()
 
     ai_model.eval()
 
