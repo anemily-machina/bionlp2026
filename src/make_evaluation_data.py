@@ -200,7 +200,7 @@ def main():
 
     ai_model.to(device)
 
-    for split in ["train", "val", "test"]:
+    for split in ["val", "test", "train"]:
 
         make_annotaions(split, ai_model, eval_folder, tokenization_folder)
 
