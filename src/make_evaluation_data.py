@@ -15,6 +15,8 @@ def main():
 
     ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
 
+    print(ai_model)
+
 
 if __name__ == "__main__":
     main()
