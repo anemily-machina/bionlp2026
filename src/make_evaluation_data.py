@@ -77,16 +77,16 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         # testing code outside of actual predictions
         # logits = torch.rand((input_ids.size(0), 2))
 
-        print(logits)
-        print(logits.size())
+        # print(logits)
+        # print(logits.size())
 
         preds = logits.argmax(axis=-1)
 
-        print(preds)
-        print(preds.size())
-        print(max(preds))
+        # print(preds)
+        # print(preds.size())
+        # print(max(preds))
 
-        exit()
+        # exit()
 
         preds = preds.cpu().numpy()
 
@@ -103,6 +103,10 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
                 continue
 
             cat = int(cat)
+
+            # cat 0 is no annotaion
+            if cat == 0:
+                continue
 
             entry = {"range": r, "category": cat}
 
