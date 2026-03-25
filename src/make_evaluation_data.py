@@ -174,7 +174,7 @@ def main():
     ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
 
-    ai_model = PeftModel.from_pretrained(ai_model, checkpoint, config=lora_config)
+    ai_model = PeftModel.from_pretrained(ai_model, checkpoint)  #
 
     ai_model.eval()
 
