@@ -182,6 +182,7 @@ def main():
     ai_model.float()
 
     ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
+    ai_model.load_adapter(checkpoint)
 
     print(ai_model)
 
