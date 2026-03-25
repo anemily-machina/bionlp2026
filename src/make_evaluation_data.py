@@ -183,7 +183,7 @@ def main():
     ai_model.float()
 
     ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
-    ai_model.load_state_dict(load_file(f"{checkpoint}/adapter_model.safetensors"))
+    ai_model = ai_model.merge_and_unload()
 
     print(ai_model)
 
