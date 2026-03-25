@@ -82,9 +82,9 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
         preds = logits.argmax(axis=-1)
 
-        # print(preds)
-        # print(preds.size())
-        # print(max(preds))
+        print(preds)
+        print(preds.size())
+        print(max(preds))
 
         # exit()
 
@@ -112,43 +112,45 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
             ann_ranges.append(entry)
 
-        curr_ann = [ann_ranges[0]]
-        curr_cat = ann_ranges[0]["category"]
-
         key_annotations = []
-        for ann_range in ann_ranges[1:]:
 
-            cat = ann_range["category"]
+        if len(ann_ranges) > 0:
+            curr_ann = [ann_ranges[0]]
+            curr_cat = ann_ranges[0]["category"]
 
-            if cat != curr_cat:
+            for ann_range in ann_ranges[1:]:
 
-                key_ann_cat = curr_cat
-                key_ann_so = curr_ann[0]["range"][0]
-                key_ann_eo = curr_ann[-1]["range"][1]
+                cat = ann_range["category"]
 
-                key_annotation_entry = {
-                    "start_offset": key_ann_so,
-                    "end_offset": key_ann_eo,
-                    "category": key_ann_cat,
-                }
-                key_annotations.append(key_annotation_entry)
+                if cat != curr_cat:
 
-                curr_cat = cat
-                curr_ann = [ann_range]
+                    key_ann_cat = curr_cat
+                    key_ann_so = curr_ann[0]["range"][0]
+                    key_ann_eo = curr_ann[-1]["range"][1]
 
-            else:
-                curr_ann.append(ann_range)
+                    key_annotation_entry = {
+                        "start_offset": key_ann_so,
+                        "end_offset": key_ann_eo,
+                        "category": key_ann_cat,
+                    }
+                    key_annotations.append(key_annotation_entry)
 
-        key_ann_cat = curr_cat
-        key_ann_so = curr_ann[0]["range"][0]
-        key_ann_eo = curr_ann[-1]["range"][1]
+                    curr_cat = cat
+                    curr_ann = [ann_range]
 
-        key_annotation_entry = {
-            "start_offset": key_ann_so,
-            "end_offset": key_ann_eo,
-            "category": key_ann_cat,
-        }
-        key_annotations.append(key_annotation_entry)
+                else:
+                    curr_ann.append(ann_range)
+
+            key_ann_cat = curr_cat
+            key_ann_so = curr_ann[0]["range"][0]
+            key_ann_eo = curr_ann[-1]["range"][1]
+
+            key_annotation_entry = {
+                "start_offset": key_ann_so,
+                "end_offset": key_ann_eo,
+                "category": key_ann_cat,
+            }
+            key_annotations.append(key_annotation_entry)
 
         all_preds_entry = {"file_name": key, "predictions": key_annotations}
         all_predications.append(all_preds_entry)
@@ -185,7 +187,7 @@ def main():
 
     ai_model.to(device)
 
-    for split in ["train", "val", "test"]:
+    for split in ["val", "train", "test"]:
 
         make_annotaions(split, ai_model, eval_folder, tokenization_folder)
 
