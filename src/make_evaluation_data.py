@@ -64,8 +64,18 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
             else:
                 labels.append(True)
 
+        input_ids = input_ids.unsqueeze(-1)
+        attention_mask = attention_mask.unsqueeze(-1)
+
+        print(input_ids.size())
+        print(attention_mask.size())
+
         outputs = ai_model(input_ids=input_ids, attention_mask=attention_mask)
         logits = outputs.logits
+
+        print(logits.size())
+
+        exit()
 
         # logits = torch.rand((input_ids.size(0), 2))
 
