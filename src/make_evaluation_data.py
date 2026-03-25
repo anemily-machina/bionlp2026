@@ -74,8 +74,6 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
         logits = logits.squeeze()
 
-        print(logits.size())
-
         # testing code outside of actual predictions
         # logits = torch.rand((input_ids.size(0), 2))
 
