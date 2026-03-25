@@ -9,7 +9,7 @@ from utils import (
 import evaluate
 import numpy as np
 
-from peft import inject_adapter_in_model, LoraConfig
+from peft import get_peft_model, LoraConfig
 
 import torch
 from torch.nn import CrossEntropyLoss
@@ -94,8 +94,12 @@ def main(ai_name):
 
     ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
     ai_model.float()
-    ai_model = inject_adapter_in_model(lora_config, ai_model)
+    ai_model = get_peft_model(lora_config, ai_model)
     ai_model.to(device)
+
+    print(ai_model)
+
+    exit()
 
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
 
