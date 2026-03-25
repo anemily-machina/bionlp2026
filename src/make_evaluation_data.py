@@ -84,7 +84,7 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
 
         print(preds)
         print(preds.size())
-        print(max(preds)}
+        print(max(preds))
 
         exit()
 
