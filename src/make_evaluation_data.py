@@ -85,6 +85,8 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         print(preds)
         print(preds.size())
 
+        exit()
+
         preds = preds.cpu().numpy()
 
         token_ranges = tokenized_text.pop("token_ranges")
