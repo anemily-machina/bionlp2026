@@ -64,10 +64,10 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
             else:
                 labels.append(True)
 
-        # outputs = ai_model(input_ids=input_ids, attention_mask=attention_mask)
-        # logits = outputs.logits
+        outputs = ai_model(input_ids=input_ids, attention_mask=attention_mask)
+        logits = outputs.logits
 
-        logits = torch.rand((input_ids.size(0), 2))
+        # logits = torch.rand((input_ids.size(0), 2))
 
         preds = logits.argmax(axis=-1)
         preds = preds.cpu().numpy()
@@ -153,15 +153,15 @@ def main():
         init_lora_weights="pissa_niter_10",
     )
 
-    ai_model = None
-    # ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
-    # ai_model.float()
+    # ai_model = None
+    ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
+    ai_model.float()
 
-    # ai_model = PeftModel.from_pretrained(ai_model, checkpoint, config=lora_config)
+    ai_model = PeftModel.from_pretrained(ai_model, checkpoint, config=lora_config)
 
-    # ai_model.eval()
+    ai_model.eval()
 
-    # ai_model.to(device)
+    ai_model.to(device)
 
     for split in ["train", "val", "test"]:
 
