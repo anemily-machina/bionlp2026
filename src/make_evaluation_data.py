@@ -77,7 +77,14 @@ def make_annotaions(split, ai_model, eval_folder, tokenization_folder):
         # testing code outside of actual predictions
         # logits = torch.rand((input_ids.size(0), 2))
 
+        print(logits)
+        print(logits.size())
+
         preds = logits.argmax(axis=-1)
+
+        print(preds)
+        print(preds.size())
+
         preds = preds.cpu().numpy()
 
         token_ranges = tokenized_text.pop("token_ranges")
