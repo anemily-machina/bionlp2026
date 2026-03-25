@@ -8,10 +8,20 @@ def main():
     checkpoint = "data/checkpoints/single_class2/checkpoint-979"
     num_classes = 1110
 
-    ai_model = load_ai_model4token_class(ai_name, num_labels=num_classes)
+    # lora_config = LoraConfig(
+    #     r=64,
+    #     lora_alpha=128,
+    #     target_modules=["query", "key", "value", "dense"],
+    #     modules_to_save=["classifier"],
+    #     init_lora_weights="pissa_niter_10",
+    # )
+
+    ai_model = load_ai_model4token_class(
+        "data/checkpoints/single_class2/checkpoint-979", num_labels=num_classes
+    )
     ai_model.float()
 
-    ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
+    # ai_model = PeftModel.from_pretrained(ai_model, checkpoint)
 
     print(ai_model)
 
