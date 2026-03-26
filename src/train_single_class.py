@@ -97,10 +97,6 @@ def main(ai_name):
     ai_model = get_peft_model(ai_model, lora_config)
     ai_model.to(device)
 
-    print(ai_model)
-
-    exit()
-
     _loss_fn = CrossEntropyLoss(weight=balanced_weights)
 
     def compute_loss_func(outputs, labels, num_items_in_batch):
