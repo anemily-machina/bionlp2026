@@ -110,12 +110,12 @@ def main(ai_name):
         return loss
 
     training_args = TrainingArguments(
-        output_dir="./data/checkpoints/single_class6",
+        output_dir="./data/checkpoints/single_class7",
         learning_rate=2e-4,
         per_device_train_batch_size=1,
         per_device_eval_batch_size=1,
         num_train_epochs=100,
-        weight_decay=0.02,
+        weight_decay=0.03,
         warmup_steps=110,
         eval_strategy="epoch",
         logging_steps=1,
@@ -123,7 +123,7 @@ def main(ai_name):
         save_total_limit=2,
         save_strategy="epoch",
         load_best_model_at_end=True,
-        seed=54321,
+        seed=654321,
         gradient_accumulation_steps=16,
         metric_for_best_model="eval_f1",
         greater_is_better=True,
