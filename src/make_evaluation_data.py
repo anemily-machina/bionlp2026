@@ -176,7 +176,7 @@ def main():
     checkpoint = "data/checkpoints/single_class5/checkpoint-803"
     num_classes = 10
 
-    eval_folder = "data/eval5"
+    eval_folder = "data/eval6"
     tokenization_folder = f"data/tokenized_examples/{ai_name}"
 
     make_folder(eval_folder)
