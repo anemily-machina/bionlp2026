@@ -85,8 +85,8 @@ def main(ai_name):
     print()
 
     lora_config = LoraConfig(
-        r=64,
-        lora_alpha=128,
+        r=128,
+        lora_alpha=256,
         target_modules=["query", "key", "value", "dense"],
         modules_to_save=["classifier"],
         init_lora_weights="pissa_niter_10",
