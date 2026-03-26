@@ -175,9 +175,6 @@ class CustomTrainer(Trainer):
                 if i == j:
                     correct[i] = v
 
-        if sum(total_l) == 0:
-            return
-
         a = sum(correct) / sum(total_l)
         class_r = [
             correct[i] / total_l[i] if total_l[i] > 0 else 0 for i in range(num_c)
