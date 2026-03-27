@@ -108,7 +108,79 @@ def make_probs(split, ai_model, tokenization_folder):
     return all_probs
 
 
-def make_annotations(all_probs, split, eval_folder):
+def soft_emsemble(probs):
+
+    sum_probs = probs[0]
+    for p in probs[1:]:
+        sum_probs += p
+
+    cat = sum_probs.argmax()
+    cat = int(cat)
+
+    return cat
+
+
+def hard_emsemble(probs):
+
+    cat_ps, cats = [], []
+
+    # get best probability/category for each model
+    for p in probs:
+        c_p, c = torch.max(p, dim=-1)
+
+        c = int(c)
+
+        cat_ps.append(c_p)
+        cats.append(c)
+
+    # see if a category has the most "votes"
+    cat_hist = {}
+    for c in cats:
+        if c not in cat_hist:
+            cat_hist[c] = 0
+
+        cat_hist[c] += 1
+
+    # only one class between all models
+    if len(cat_hist) == 1:
+        best_c = list(cat_hist.keys())[0]
+        return best_c
+
+    cat_hist = list(sorted(cat_hist.items(), reverse=True, key=lambda x: x[1]))
+
+    best_c = cat_hist[0][0]
+
+    # if there is no tie
+    if cat_hist[0][1] > cat_hist[1][1]:
+        return best_c
+
+    # there is a tie, find the tied categories
+    best_c_count = cat_hist[0][1]
+
+    tied_cs = []
+    c_i = 0
+    while c_i < len(cat_hist) and cat_hist[c_i][1] == best_c_count:
+        tied_cs.append(cat_hist[c_i][0])
+        c_i += 1
+
+    # of the tied categories, find the one with the highest soft weight
+    p_hist = {c: 0.0 for c in tied_cs}
+
+    for c_p, c in zip(cat_ps, cats):
+
+        if c not in p_hist:
+            continue
+
+        p_hist[c] += c_p
+
+    p_hist = sorted(p_hist.items(), reverse=True, key=lambda x: x[1])
+
+    best_c = p_hist[0][0]
+
+    return best_c
+
+
+def make_annotations(all_probs, split, eval_folder, emsb_type):
 
     num_models = len(all_probs)
 
@@ -119,13 +191,12 @@ def make_annotations(all_probs, split, eval_folder):
         for input_i in range(len(all_probs[0][key])):
 
             r = all_probs[0][key][input_i]["range"]
-            probs = all_probs[0][key][input_i]["probs"]
+            probs = [all_probs[m_i][key][input_i]["probs"] for m_i in range(num_models)]
 
-            for m_i in range(1, num_models):
-                probs += all_probs[m_i][key][input_i]["probs"]
-
-            cat = probs.argmax()
-            cat = int(cat)
+            if emsb_type == "soft":
+                cat = soft_emsemble(probs)
+            elif emsb_type == "hard":
+                cat = hard_emsemble(probs)
 
             if cat == 0:
                 continue
@@ -190,7 +261,7 @@ def main():
     ]
     num_classes = 10
 
-    eval_folder = "data/eval567"
+    eval_folder = "data/eval567_hard"
     tokenization_folder = f"data/tokenized_examples/{ai_name}"
 
     make_folder(eval_folder)
@@ -216,7 +287,7 @@ def main():
 
             all_probs.append(checkpoint_probs)
 
-        make_annotations(all_probs, split, eval_folder)
+        make_annotations(all_probs, split, eval_folder, emsb_type="hard")
 
 
 if __name__ == "__main__":
