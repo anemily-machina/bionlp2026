@@ -84,6 +84,7 @@ def make_probs(split, ai_model, tokenization_folder):
         # logits = torch.rand((input_ids.size(1), 3))
 
         probs = torch.nn.functional.softmax(logits, dim=-1)
+        probs = probs.cpu()
 
         token_ranges = tokenized_text.pop("token_ranges")
 
