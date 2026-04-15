@@ -69,6 +69,9 @@ def main(ai_name):
     train_dataset = make_dataset(
         ai_name, split="train", max_size=8192, span_only=span_only
     )
+    print(train_dataset.class_sizes)
+
+    exit()
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
