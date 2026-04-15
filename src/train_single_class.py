@@ -72,6 +72,7 @@ def main(ai_name):
     print(train_dataset.class_sizes)
 
     exit()
+
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
