@@ -71,8 +71,6 @@ def main(ai_name):
     )
     print(train_dataset.class_sizes)
 
-    exit()
-
     balanced_weights = train_dataset.balanced_weights()
     balanced_weights = balanced_weights.to(device)
 
@@ -81,6 +79,9 @@ def main(ai_name):
     print()
 
     val_dataset = make_dataset(ai_name, split="val", max_size=8192, span_only=span_only)
+    print(val_dataset.class_sizes)
+
+    exit()
 
     num_classes = 2 if span_only else 10
 
