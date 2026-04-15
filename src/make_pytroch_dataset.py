@@ -178,6 +178,7 @@ class SingleClassBioNLP(Dataset):
 
     def balanced_weights(self):
         max_class = max(self.class_sizes.values())
+
         weights = [max_class / v if v > 0 else 0 for v in self.class_sizes.values()]
         weights = torch.tensor(weights)
         return weights
